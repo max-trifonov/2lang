@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-07",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 7,
+  "level": "A1",
+  "title": {
+    "ru": "Поговорю с клиентом",
+    "en": "I'll talk to the client",
+    "es": "Hablo con el cliente"
+  },
+  "words": [
+    "hablar",
+    "cliente",
+    "problema",
+    "después"
+  ],
+  "phrase": {
+    "es": "Después hablo con el cliente sobre el problema.",
+    "ru": "Потом поговорю с клиентом о проблеме.",
+    "en": "I'll talk to the client about the problem later."
+  },
+  "rule": {
+    "text": {
+      "ru": "hablar con — «говорить с кем»: Hablo con el cliente. hablar de — «о чём»; de + el сливаются в del: hablar del problema.",
+      "en": "hablar con — “talk to someone”: Hablo con el cliente. hablar de — “talk about”; de + el become del: hablar del problema.",
+      "es": "hablar con alguien; hablar de algo (de + el = del): hablar del problema."
+    },
+    "examples": [
+      {
+        "es": "¿Hablas con el equipo hoy?",
+        "ru": "Ты сегодня говоришь с командой?"
+      },
+      {
+        "es": "Hablamos del problema después.",
+        "ru": "Обсудим проблему потом."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "___ con el cliente mañana.",
+      "answer": "Hablo",
+      "ru": "Завтра поговорю с клиентом."
+    },
+    {
+      "type": "fill",
+      "es": "El ___ tiene un problema.",
+      "answer": "cliente",
+      "ru": "У клиента проблема."
+    },
+    {
+      "type": "build",
+      "es": "Hablamos del problema después.",
+      "ru": "Обсудим проблему потом.",
+      "extra": [
+        "habla"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я поговорю с клиентом.",
+      "answer": [
+        "Hablo con el cliente.",
+        "Voy a hablar con el cliente."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

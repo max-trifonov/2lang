@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-01",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 1,
+  "level": "A1",
+  "title": {
+    "ru": "Новый проект",
+    "en": "A new project",
+    "es": "Un proyecto nuevo"
+  },
+  "words": [
+    "trabajar",
+    "proyecto",
+    "nuevo",
+    "mucho"
+  ],
+  "phrase": {
+    "es": "Trabajo en un proyecto nuevo.",
+    "ru": "Я работаю над новым проектом.",
+    "en": "I'm working on a new project."
+  },
+  "rule": {
+    "text": {
+      "ru": "Прилагательное обычно стоит после существительного и согласуется с ним: un proyecto nuevo, una tarea nueva. «Работать над» — trabajar en.",
+      "en": "An adjective usually follows the noun and agrees with it: un proyecto nuevo, una tarea nueva. “Work on” is trabajar en.",
+      "es": "El adjetivo suele ir después del sustantivo y concuerda con él: un proyecto nuevo, una tarea nueva. Trabajar en un proyecto."
+    },
+    "examples": [
+      {
+        "es": "Esta semana trabajamos mucho.",
+        "ru": "На этой неделе мы много работаем."
+      },
+      {
+        "es": "Tenemos una versión nueva.",
+        "ru": "У нас новая версия."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "___ en un proyecto grande.",
+      "answer": "Trabajo",
+      "ru": "Я работаю над большим проектом."
+    },
+    {
+      "type": "fill",
+      "es": "Tenemos una tarea ___.",
+      "answer": "nueva",
+      "ru": "У нас новая задача."
+    },
+    {
+      "type": "build",
+      "es": "Trabajo mucho en el proyecto.",
+      "ru": "Я много работаю над проектом.",
+      "extra": [
+        "nueva"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Это новый проект.",
+      "answer": [
+        "Es un proyecto nuevo.",
+        "Es un nuevo proyecto."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

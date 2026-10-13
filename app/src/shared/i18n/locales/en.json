@@ -1,0 +1,501 @@
+{
+  "app": {
+    "name": "2Lang"
+  },
+  "boot": {
+    "loading": "Loading"
+  },
+  "tabs": {
+    "home": "Home",
+    "profile": "Profile",
+    "texts": "Texts",
+    "dictionary": "Dictionary",
+    "lessons": "Lessons"
+  },
+  "home": {
+    "title": "Home",
+    "hello": "This is the shell. Add domain screens under src/features/.",
+    "geo": "Location",
+    "push": "Notifications",
+    "camera": "Camera",
+    "granted": "granted",
+    "denied": "denied",
+    "blocked": "blocked",
+    "unavailable": "unavailable",
+    "unsupported": "not on this platform",
+    "prompt": "ask",
+    "ask": "Request",
+    "greeting": "Hi, {name}!",
+    "today": "Lessons for today: {goal}",
+    "lessons": {
+      "title": "Lessons",
+      "start": "Start",
+      "allDone": "All lessons done — new ones are coming soon",
+      "none": "No lessons yet",
+      "next": "Next lesson"
+    },
+    "placement": {
+      "title": "Quick word check",
+      "hint": "Mark the words you don’t know — we’ll skip lessons with familiar ones. About 5 minutes; you can stop anytime.",
+      "start": "Check",
+      "continue": "Continue the check"
+    },
+    "review": {
+      "due": "To review: {n} word | To review: {n} words",
+      "start": "Review"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "theme": "Theme",
+    "themeSystem": "System",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "language": "Language",
+    "login": "Sign in",
+    "logout": "Sign out",
+    "guest": "Guest"
+  },
+  "session": {
+    "title": "Sign in",
+    "hint": "Stub. Replace with your OTP/OAuth in src/shared/session.",
+    "submit": "Continue as demo"
+  },
+  "network": {
+    "offline": "You are offline"
+  },
+  "speech": {
+    "unavailable": "Couldn't play the audio: this device has no voice for the language, and online speech needs a connection"
+  },
+  "dev": {
+    "tokens": "Tokens",
+    "uiKit": "UI kit"
+  },
+  "texts": {
+    "ui": {
+      "title": "Texts",
+      "emptyTitle": "No texts yet",
+      "emptyText": "Upload a JSON file with a song or a poem and your translation",
+      "upload": "Upload file",
+      "loadFailed": "Could not open the text library",
+      "retry": "Retry",
+      "kind": {
+        "song": "Song",
+        "poem": "Poem"
+      },
+      "personal": "personal",
+      "resultsTitle": "Upload results",
+      "close": "Close",
+      "status": {
+        "added": "Uploaded",
+        "replaced": "Updated",
+        "unchanged": "Already uploaded, no changes",
+        "declined": "Not replaced — the previous version is kept",
+        "rejected": "Not uploaded — fix the errors",
+        "failed": "Could not read or save the file"
+      },
+      "errorsHeading": "Errors: {n}",
+      "warningsHeading": "Remarks: {n}",
+      "wholeFile": "whole file",
+      "phrases": "Phrases: kept {kept}, new {added}, removed {removed}",
+      "replaceTitle": "Replace “{title}”?",
+      "replaceText": "This text is already uploaded. Phrases: {kept} kept, {added} added, {removed} removed. Progress on the kept phrases is preserved.",
+      "replaceConfirm": "Replace",
+      "replaceKeep": "Keep previous",
+      "all": "All",
+      "filteredEmpty": "No texts match these filters",
+      "kindFilter": "Type",
+      "read": {
+        "notFound": "Text not found",
+        "notFoundHint": "It may have been replaced or not uploaded on this device",
+        "literal": "Literally",
+        "note": "Note",
+        "phrases": "Phrases",
+        "words": "Words",
+        "openWord": "Open in dictionary",
+        "noTranslation": "No translation",
+        "hideDetails": "Hide breakdown",
+        "showDetails": "Break down line",
+        "speakLine": "Speak line: {text}",
+        "repeat": "repeat",
+        "stanza": {
+          "verse": "Verse",
+          "chorus": "Chorus",
+          "bridge": "Bridge",
+          "intro": "Intro",
+          "outro": "Outro"
+        },
+        "addToReview": "Add to review",
+        "inReview": "In review"
+      }
+    }
+  },
+  "profiles": {
+    "welcomeTitle": "Who is learning?",
+    "welcomeHint": "The profile is stored only on this device. Each family member has their own languages and progress.",
+    "start": "Start",
+    "newTitle": "New profile",
+    "editTitle": "Edit profile",
+    "create": "Create",
+    "save": "Save",
+    "name": "Name",
+    "interfaceLanguage": "Interface language",
+    "studyLanguages": "Learning",
+    "goal": "Daily goal, lessons",
+    "goalHint": "One lesson takes 5–7 minutes",
+    "color": "Colour",
+    "edit": "Edit",
+    "add": "Add profile",
+    "others": "Other profiles",
+    "delete": "Delete profile",
+    "deleteTitle": "Delete profile “{name}”?",
+    "deleteText": "This profile’s progress will be removed from the device. This cannot be undone.",
+    "deleteConfirm": "Delete",
+    "cancel": "Cancel",
+    "lastProfile": "The only profile cannot be deleted",
+    "saveFailed": "Could not save the profile. Please try again",
+    "studying": "Learning: {langs}",
+    "goalValue": "Daily goal: {n} lesson | Daily goal: {n} lessons",
+    "errors": {
+      "name_empty": "Enter a name",
+      "name_too_long": "No more than {max} characters",
+      "name_taken": "This name is already taken",
+      "languages_empty": "Choose at least one language",
+      "goal_range": "From {min} to {max} lessons"
+    },
+    "lang": {
+      "en": "English",
+      "es": "Spanish"
+    },
+    "colors": {
+      "blue": "Blue",
+      "amber": "Amber",
+      "green": "Green",
+      "rose": "Pink",
+      "violet": "Violet",
+      "teal": "Teal",
+      "orange": "Orange",
+      "slate": "Grey"
+    },
+    "localeNames": {
+      "ru": "Русский",
+      "en": "English",
+      "es": "Español"
+    },
+    "backup": {
+      "title": "Backup",
+      "hint": "Data is stored only on this phone. Save a backup to restore the profile on any device.",
+      "export": "Save to file",
+      "import": "Restore from file",
+      "welcomeRestore": "Learned before? Restore from file",
+      "saved": "Backup saved",
+      "restored": "Profile “{name}” restored",
+      "saveFailed": "Could not save the backup",
+      "replaceTitle": "Replace profile “{name}”?",
+      "replaceText": "The backup from {date} will replace the profile on this device. This cannot be undone.",
+      "replaceConfirm": "Replace",
+      "errors": {
+        "not_json": "This is not a 2Lang backup file",
+        "not_backup": "This is not a 2Lang backup file",
+        "newer_version": "The backup was made by a newer version of 2Lang — update the app",
+        "bad_profile": "The backup is damaged: profile data cannot be read",
+        "bad_data": "The backup is damaged: progress cannot be read",
+        "read_failed": "Could not read the file"
+      }
+    }
+  },
+  "common": {
+    "back": "Back"
+  },
+  "content": {
+    "issue": {
+      "json_syntax": "The file is not valid JSON: line {line}, column {column}, near “{near}”",
+      "not_object": "Expected a JSON object with a song or a poem",
+      "required": "Required field “{key}” is missing",
+      "unknown_key": "Unknown field “{key}”. A typo? Put your own data into ext",
+      "wrong_type": "Wrong value type: {expected} expected",
+      "empty": "Empty value",
+      "bad_value": "Invalid value. Allowed: {allowed}",
+      "bad_slug": "Lowercase Latin letters, digits and hyphens only, e.g. my-song",
+      "bad_lang": "A language code is two lowercase Latin letters: en, es, ru",
+      "bad_url": "Invalid link: {url}",
+      "duplicate_tag": "Tag “{tag}” is already listed",
+      "missing_original": "No original in the text language ({lang})",
+      "phrase_no_translation": "The phrase has no translation",
+      "phrase_not_in_line": "Phrase “{fragment}” is not found in line “{line}”",
+      "word_not_in_line": "Word “{fragment}” is not found in line “{line}”",
+      "stanza_lines_and_ref": "The stanza has both lines and ref — keep only one",
+      "stanza_no_content": "The stanza has neither lines nor ref",
+      "ref_unknown": "ref “{ref}” points to a stanza not declared above",
+      "duplicate_stanza_id": "Stanza id “{id}” is already used",
+      "line_no_translation": "The line has no translation",
+      "line_missing_langs": "No translation into: {langs}",
+      "file_too_large": "The file is too large: {size} KB, up to {max} KB allowed. Is it the right file?",
+      "bad_word_id": "A word id is lowercase letters, digits and hyphens, no spaces: tener, año, banco-2",
+      "duplicate_id": "id “{id}” already exists: {other}",
+      "duplicate_rank": "Rank {rank} for part of speech {pos} is already taken: {other}",
+      "gender_required": "A Spanish noun needs a gender: m, f or mf",
+      "gender_not_allowed": "Gender is only for Spanish nouns",
+      "forms_not_allowed": "This part of speech ({pos}) has no forms",
+      "form_persons": "Forms by person needed: {expected}",
+      "no_translation": "No translation at all",
+      "translation_own_lang": "No translation into the word’s own language is needed",
+      "bad_pair": "A pair is “language:id” of a word in the other studied language, e.g. es:tener",
+      "pair_not_found": "Pair “{pair}” is not found in the dictionaries",
+      "example_without_word": "The example has no form of “{word}”",
+      "no_examples": "The word has no examples",
+      "no_ru": "No Russian translation",
+      "duplicate_word": "Word “{word}” is already in the lesson",
+      "gap_count": "There must be exactly one ___ gap, now: {count}",
+      "duplicate_order": "Position {order} in the {topic} path is already taken: {other}",
+      "unknown_lesson": "Lesson “{id}” is not found",
+      "self_require": "A lesson cannot require itself",
+      "word_not_in_dictionary": "Word “{word}” is not in the dictionary ({lang})",
+      "file_name": "The lesson file must be named {expected}",
+      "lesson_word_count": "The lesson has {count} new words, {min} to {max} recommended",
+      "lesson_composition": "The lesson lacks: {missing} — a verb, a noun and an adverb or adjective are recommended",
+      "fill_answer_unknown": "Answer “{answer}” does not match any word of the lesson",
+      "topic_not_allowed": "Only a words lesson has a topic (kind {kind} has its own track)",
+      "sound_empty": "A sound lesson needs letters or reading rules",
+      "duplicate_rule": "Rule “{id}” is already declared: {other}",
+      "pair_size": "A pair is exactly two different words",
+      "bad_audio": "An audio path is audio/<language>/….mp3, now: {path}",
+      "rule_not_found": "Reading rule “{rule}” is not in any sound lesson",
+      "table_shape": "The table row has {actual} cells, the header has {expected}",
+      "duplicate_form": "Form “{form}” is already in this transformer",
+      "answer_not_in_options": "Answer “{answer}” is not among the options",
+      "duplicate_option": "Option “{option}” is repeated",
+      "options_count": "At least {min} options are needed",
+      "pattern_size": "The pattern has {count} examples, {min} to {max} recommended"
+    },
+    "type": {
+      "string": "a string",
+      "integer": "an integer",
+      "number": "a number",
+      "object": "an object",
+      "array": "a list",
+      "boolean": "true or false"
+    }
+  },
+  "dictionary": {
+    "title": "Dictionary",
+    "lists": {
+      "verb": "Verbs",
+      "noun": "Nouns",
+      "adj": "Adjectives",
+      "adv": "Adverbs",
+      "saved": "My words"
+    },
+    "search": "Word, form or translation",
+    "count": "{n} word | {n} words",
+    "irregular": "irreg.",
+    "save": "Add “{word}” to my words",
+    "unsave": "Remove “{word}” from my words",
+    "savedEmpty": "No starred words yet",
+    "savedHint": "Star the words you want to learn",
+    "notFound": "Nothing found",
+    "loadFailed": "Could not open the dictionary",
+    "retry": "Retry",
+    "more": "Show more",
+    "forms": {
+      "present": "Present · presente",
+      "preterite": "Past · pretérito indefinido",
+      "imperfect": "Past continuous · imperfecto",
+      "future": "Future · futuro",
+      "conditional": "Conditional · condicional",
+      "subjunctive": "Subjunctive · subjuntivo",
+      "imperative": "Imperative · imperativo",
+      "s": "3rd person (he/she/it)",
+      "past": "Past Simple",
+      "participle": "Participle",
+      "ing": "-ing form",
+      "gerund": "Gerund",
+      "plural": "Plural",
+      "f": "Feminine",
+      "pl": "Plural",
+      "fpl": "Feminine plural",
+      "comparative": "Comparative",
+      "superlative": "Superlative"
+    },
+    "card": {
+      "notFound": "Word not found",
+      "notFoundHint": "It may have been renamed — find it in the dictionary",
+      "speak": "Say: {text}",
+      "forms": "Forms",
+      "examples": "Examples",
+      "note": "Note",
+      "pair": "In the other language",
+      "rank": "No. {rank} · {list}",
+      "topics": {
+        "travel": "travel",
+        "it": "IT",
+        "daily": "daily life"
+      },
+      "pos": {
+        "verb": "verb",
+        "noun": "noun",
+        "adj": "adjective",
+        "adv": "adverb",
+        "phrase": "phrase"
+      },
+      "reading": "How to read it",
+      "topicCode": "topic {code}"
+    },
+    "known": "known",
+    "knownCount": "{n} known",
+    "train": "Practice",
+    "trainHint": "New words by frequency, mistakes come back"
+  },
+  "lessons": {
+    "title": "Lesson",
+    "close": "Close lesson",
+    "progress": "{n}% done",
+    "next": "Next",
+    "check": "Check",
+    "newWord": "New word",
+    "phrase": "Phrase of the day",
+    "rule": "Mini rule",
+    "notFound": "Lesson not found",
+    "notFoundHint": "It may have been removed or renamed",
+    "toHome": "Go home",
+    "loadFailed": "Couldn't open the lesson",
+    "retry": "Retry",
+    "task": {
+      "recognize": "What does this word mean?",
+      "hear": "Listen and choose the word",
+      "pick": "Pick the word",
+      "listen": "Listen",
+      "recall": "Type the word",
+      "fill": "Fill in the missing word",
+      "build": "Build the phrase",
+      "translate": "Translate",
+      "answer": "Your answer",
+      "reset": "Reset",
+      "again": "One more time"
+    },
+    "feedback": {
+      "correct": "Correct!",
+      "accent": "Mind the spelling:",
+      "wrong": "Correct answer:",
+      "later": "We'll come back to this one at the end of the lesson"
+    },
+    "summary": {
+      "title": "Lesson complete!",
+      "score": "First try: {correct} of {total}",
+      "words": "Lesson words",
+      "done": "Done",
+      "again": "Do it again"
+    },
+    "toLessons": "To lessons",
+    "sound": {
+      "letters": "Alphabet",
+      "rule": "Reading rule",
+      "readHint": "Read it aloud, then listen and compare",
+      "spellHint": "Spell the word out loud, then check yourself",
+      "reveal": "Show letter names",
+      "gotIt": "Got it",
+      "again": "Try again",
+      "task": {
+        "pairs": "Listen and choose the word",
+        "read": "Read the word",
+        "dictation": "Write the word you hear",
+        "spell": "Spell it out"
+      }
+    }
+  },
+  "placement": {
+    "title": "Which words do you know",
+    "close": "Close the check",
+    "prompt": "Tap the words you don’t know. The rest will be marked as known.",
+    "checked": "Checked {n} of {total}",
+    "marked": "Don't know: {n} word | Don't know: {n} words",
+    "next": "Next",
+    "finish": "Finish the check",
+    "loadFailed": "Couldn't open the dictionary",
+    "summary": {
+      "title": "Check saved",
+      "known": "Known words: {known} of {checked} checked.",
+      "hint": "Lessons where you know every word will be skipped. Known words are marked in the dictionary.",
+      "done": "Done",
+      "more": "Check more words"
+    }
+  },
+  "path": {
+    "title": "Lessons",
+    "progress": "Done {done} of {total}",
+    "empty": "No lessons yet",
+    "emptyHint": "Lessons for this language will appear later",
+    "status": {
+      "done": "Done",
+      "known": "Words you know",
+      "next": "Next",
+      "open": "Open"
+    },
+    "sound": "Sounds"
+  },
+  "review": {
+    "title": "Review",
+    "close": "Close review",
+    "loadFailed": "Couldn't open the review",
+    "empty": "All done for today",
+    "emptyHint": "Words will come back when they are due",
+    "toHome": "Go home",
+    "summary": {
+      "title": "Review complete!",
+      "score": "First try: {correct} of {total}",
+      "next": "Next review: {date}",
+      "done": "Done"
+    }
+  },
+  "train": {
+    "title": "Practice",
+    "close": "Close practice",
+    "loadFailed": "Couldn't open the dictionary",
+    "language": "Language",
+    "scope": "What to practise",
+    "scopes": {
+      "all": "All words",
+      "verb": "Verbs",
+      "noun": "Nouns",
+      "adj": "Adjectives",
+      "adv": "Adverbs",
+      "saved": "My words",
+      "hard": "Mistakes"
+    },
+    "stats": {
+      "due": "due for review",
+      "fresh": "new in stock",
+      "hard": "words with mistakes"
+    },
+    "how": "First the words due for review, then up to {n} new ones by frequency. A word you get wrong comes back tomorrow; learned words come back less and less often.",
+    "howHard": "Words you got wrong, whatever their due date. No new words here — just reinforcement.",
+    "start": "Start · {n} word | Start · {n} words",
+    "newWord": "New word",
+    "empty": {
+      "done": "All done here for today",
+      "doneHint": "Pick another section or come back tomorrow",
+      "saved": "“My words” is empty",
+      "savedHint": "Star words in the dictionary to practise them here",
+      "hard": "No mistakes yet",
+      "hardHint": "Words you got wrong will show up here"
+    },
+    "summary": {
+      "title": "Round complete!",
+      "score": "Right on the first try: {correct} of {total}",
+      "fresh": "new words",
+      "reviewed": "reviewed",
+      "mistakes": "Coming back tomorrow",
+      "again": "Another round",
+      "done": "Done"
+    }
+  },
+  "today": {
+    "title": "Today",
+    "goal": "Today: {done} of {goal} lesson | Today: {done} of {goal} lessons",
+    "goalDone": "Daily goal reached",
+    "streak": "Streak: {n} day | Streak: {n} days",
+    "freezes": "{n} freeze | {n} freezes",
+    "keep": "study today to keep your streak",
+    "phrase": "Phrase of the day"
+  }
+}

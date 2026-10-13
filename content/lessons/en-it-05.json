@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-05",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 5,
+  "level": "B1",
+  "title": {
+    "ru": "Запрос клиента",
+    "en": "The client's request",
+    "es": "La petición del cliente"
+  },
+  "words": [
+    "require",
+    "client",
+    "request",
+    "important"
+  ],
+  "phrase": {
+    "en": "The client has sent an important request: it requires two more screens.",
+    "ru": "Клиент прислал важный запрос: нужны ещё два экрана.",
+    "es": "El cliente ha enviado una petición importante: requiere dos pantallas más."
+  },
+  "rule": {
+    "text": {
+      "ru": "require — официальнее need: This requires… «Притяжательный» с людьми — 's: the client's request (запрос клиента), с вещами — of: the name of the file.",
+      "en": "require is more formal than need: This requires… With people use ’s: the client’s request; with things — of: the name of the file.",
+      "es": "require es más formal que need. Posesivo con personas: the client’s request; con cosas: the name of the file."
+    },
+    "examples": [
+      {
+        "en": "This change requires a new test.",
+        "ru": "Это изменение требует нового теста."
+      },
+      {
+        "en": "The client's feedback was positive.",
+        "ru": "Отзыв клиента был положительным."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "This feature ___ a database change.",
+      "answer": "requires",
+      "ru": "Эта функция требует изменения базы данных."
+    },
+    {
+      "type": "fill",
+      "en": "The ___'s request is urgent.",
+      "answer": "client",
+      "ru": "Запрос клиента срочный."
+    },
+    {
+      "type": "build",
+      "en": "We got the client's request yesterday.",
+      "ru": "Вчера мы получили запрос клиента.",
+      "extra": [
+        "of"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Клиент прислал новый запрос.",
+      "answer": [
+        "The client has sent a new request.",
+        "The client sent a new request."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

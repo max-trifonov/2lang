@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-04",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 4,
+  "level": "A1",
+  "title": {
+    "ru": "Отправлю файл",
+    "en": "I'll send the file",
+    "es": "Te envío el archivo"
+  },
+  "words": [
+    "enviar",
+    "correo",
+    "archivo",
+    "ahora"
+  ],
+  "phrase": {
+    "es": "Ahora te envío el archivo por correo.",
+    "ru": "Сейчас пришлю тебе файл по почте.",
+    "en": "I'll email you the file right now."
+  },
+  "rule": {
+    "text": {
+      "ru": "te — «тебе», стоит перед глаголом: te envío — «я тебе отправляю». Настоящее время часто значит «сейчас сделаю»: Ahora te llamo — «Сейчас позвоню».",
+      "en": "te means “to you” and goes before the verb: te envío — “I send you”. The present often means “I’ll do it now”: Ahora te llamo — “I’ll call you now”.",
+      "es": "te va delante del verbo: te envío. El presente para algo inmediato: Ahora te llamo."
+    },
+    "examples": [
+      {
+        "es": "Ahora te llamo.",
+        "ru": "Сейчас тебе позвоню."
+      },
+      {
+        "es": "¿Me envías el correo?",
+        "ru": "Пришлёшь мне письмо?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Te ___ el archivo ahora.",
+      "answer": "envío",
+      "ru": "Сейчас пришлю тебе файл."
+    },
+    {
+      "type": "fill",
+      "es": "El archivo está en el ___.",
+      "answer": "correo",
+      "ru": "Файл — в письме."
+    },
+    {
+      "type": "build",
+      "es": "Ahora te envío el archivo.",
+      "ru": "Сейчас пришлю тебе файл.",
+      "extra": [
+        "envías"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я пришлю файл по почте.",
+      "answer": [
+        "Envío el archivo por correo.",
+        "Te envío el archivo por correo."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

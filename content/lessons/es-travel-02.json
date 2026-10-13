@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-02",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 2,
+  "level": "A1",
+  "title": {
+    "ru": "В отеле: нужен номер",
+    "en": "At the hotel: I need a room",
+    "es": "En el hotel: necesito una habitación"
+  },
+  "words": [
+    "necesitar",
+    "hotel",
+    "habitación",
+    "libre"
+  ],
+  "phrase": {
+    "es": "Necesito una habitación libre para esta noche.",
+    "ru": "Мне нужен свободный номер на эту ночь.",
+    "en": "I need a free room for tonight."
+  },
+  "rule": {
+    "text": {
+      "ru": "necesitar + существительное — «мне нужно что-то»: Necesito una habitación. necesitar + инфинитив — «мне нужно сделать»: Necesito dormir.",
+      "en": "necesitar + noun means “I need something”: Necesito una habitación. necesitar + infinitive means “I need to do”: Necesito dormir.",
+      "es": "necesitar + sustantivo: Necesito una habitación. necesitar + infinitivo: Necesito dormir."
+    },
+    "examples": [
+      {
+        "es": "Necesito un hotel cerca del centro.",
+        "ru": "Мне нужен отель недалеко от центра."
+      },
+      {
+        "es": "Necesito descansar.",
+        "ru": "Мне нужно отдохнуть."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "___ una habitación para dos personas.",
+      "answer": "Necesito",
+      "ru": "Мне нужен номер на двоих."
+    },
+    {
+      "type": "fill",
+      "es": "¿Hay una habitación ___?",
+      "answer": "libre",
+      "ru": "Есть свободный номер?"
+    },
+    {
+      "type": "build",
+      "es": "El hotel tiene habitaciones libres.",
+      "ru": "В отеле есть свободные номера.",
+      "extra": [
+        "necesito"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Мне нужен отель.",
+      "answer": [
+        "Necesito un hotel.",
+        "Yo necesito un hotel."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

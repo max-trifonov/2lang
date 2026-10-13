@@ -1,0 +1,77 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-02",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 2,
+  "level": "B1",
+  "title": {
+    "ru": "Обсудим на встрече",
+    "en": "Let's discuss it at the meeting",
+    "es": "Lo hablamos en la reunión"
+  },
+  "words": [
+    "discuss",
+    "meeting",
+    "schedule",
+    "later"
+  ],
+  "phrase": {
+    "en": "Let's discuss the schedule later, at the meeting.",
+    "ru": "Давай обсудим график позже, на встрече.",
+    "es": "Hablemos del calendario más tarde, en la reunión."
+  },
+  "rule": {
+    "text": {
+      "ru": "discuss — без about: discuss the plan (не discuss about). Но talk about: let's talk about the plan. «На встрече» — at the meeting.",
+      "en": "discuss takes no about: discuss the plan, not discuss about it. But talk about: let’s talk about the plan. “At the meeting”.",
+      "es": "discuss sin about: discuss the plan. Pero talk about the plan. «En la reunión» — at the meeting."
+    },
+    "examples": [
+      {
+        "en": "We're behind schedule.",
+        "ru": "Мы отстаём от графика."
+      },
+      {
+        "en": "Let's talk about it after the meeting.",
+        "ru": "Давай поговорим об этом после встречи."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Let's ___ the new feature.",
+      "answer": "discuss",
+      "ru": "Давай обсудим новую функцию."
+    },
+    {
+      "type": "fill",
+      "en": "The ___ starts at ten.",
+      "answer": "meeting",
+      "ru": "Встреча начинается в десять."
+    },
+    {
+      "type": "build",
+      "en": "Let's discuss the schedule later.",
+      "ru": "Давай обсудим график позже.",
+      "extra": [
+        "about"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Давай обсудим это на встрече.",
+      "answer": [
+        "Let's discuss it at the meeting.",
+        "Let us discuss it at the meeting.",
+        "Let's discuss this at the meeting."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

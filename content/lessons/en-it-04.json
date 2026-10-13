@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-04",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 4,
+  "level": "B1",
+  "title": {
+    "ru": "Срок — пятница",
+    "en": "Due on Friday",
+    "es": "Para el viernes"
+  },
+  "words": [
+    "finish",
+    "task",
+    "due"
+  ],
+  "phrase": {
+    "en": "The task is due on Friday, so I need to finish it by Thursday.",
+    "ru": "Срок задачи — пятница, так что мне нужно закончить её к четвергу.",
+    "es": "La tarea es para el viernes, así que tengo que terminarla antes del jueves."
+  },
+  "rule": {
+    "text": {
+      "ru": "by — «к сроку, не позже»: finish it by Thursday; until — «до какого-то момента, всё это время»: I work until six. be due — «срок — …»: It's due on Friday.",
+      "en": "by means “no later than”: finish it by Thursday; until means “up to that moment, all the time”: I work until six. be due means “the deadline is”: It’s due on Friday.",
+      "es": "by = como muy tarde: finish it by Thursday; until = hasta: I work until six. be due = la fecha límite es."
+    },
+    "examples": [
+      {
+        "en": "The report is due tomorrow.",
+        "ru": "Отчёт нужно сдать завтра."
+      },
+      {
+        "en": "I'll stay until the build is green.",
+        "ru": "Я останусь, пока сборка не позеленеет."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I've ___ the task.",
+      "answer": "finished",
+      "ru": "Я закончил задачу."
+    },
+    {
+      "type": "fill",
+      "en": "This task is ___ today.",
+      "answer": "due",
+      "ru": "Срок этой задачи — сегодня."
+    },
+    {
+      "type": "build",
+      "en": "I need to finish it by Monday.",
+      "ru": "Мне нужно закончить это к понедельнику.",
+      "extra": [
+        "until"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Срок задачи — пятница.",
+      "answer": [
+        "The task is due on Friday.",
+        "The task is due Friday."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

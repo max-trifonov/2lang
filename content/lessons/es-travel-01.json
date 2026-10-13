@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-01",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 1,
+  "level": "A1",
+  "title": {
+    "ru": "В отеле: у меня бронь",
+    "en": "At the hotel: I have a booking",
+    "es": "En el hotel: tengo una reserva"
+  },
+  "words": [
+    "tener",
+    "reserva",
+    "aquí"
+  ],
+  "phrase": {
+    "es": "Tengo una reserva a nombre de Ana.",
+    "ru": "У меня бронь на имя Анны.",
+    "en": "I have a booking under the name Ana.",
+    "note": {
+      "ru": "a nombre de — «на имя»; так же говорят про заказ и счёт"
+    }
+  },
+  "rule": {
+    "text": {
+      "ru": "«У меня есть» по-испански — одно слово tengo (от tener). Отрицание — no перед глаголом: no tengo.",
+      "en": "“I have” in Spanish is one word, tengo (from tener). Negation is no before the verb: no tengo.",
+      "es": "«Tengo» es la forma de yo del verbo tener. La negación: no delante del verbo — no tengo."
+    },
+    "examples": [
+      {
+        "es": "Tengo tiempo.",
+        "ru": "У меня есть время."
+      },
+      {
+        "es": "No tengo reserva.",
+        "ru": "У меня нет брони."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "___ una reserva para dos noches.",
+      "answer": "Tengo",
+      "ru": "У меня бронь на две ночи."
+    },
+    {
+      "type": "fill",
+      "es": "La recepción está ___.",
+      "answer": "aquí",
+      "ru": "Ресепшен здесь."
+    },
+    {
+      "type": "build",
+      "es": "Tengo una reserva aquí.",
+      "ru": "У меня здесь бронь.",
+      "extra": [
+        "tienes",
+        "está"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "У меня нет брони.",
+      "answer": [
+        "No tengo reserva.",
+        "No tengo una reserva."
+      ]
+    }
+  ]
+}

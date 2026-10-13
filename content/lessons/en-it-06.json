@@ -1,0 +1,77 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-06",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 6,
+  "level": "B1",
+  "title": {
+    "ru": "Объясни решение",
+    "en": "Explain your solution",
+    "es": "Explica tu solución"
+  },
+  "words": [
+    "explain",
+    "solution",
+    "quick"
+  ],
+  "phrase": {
+    "en": "Can you explain your solution to the team? A quick summary is fine.",
+    "ru": "Можешь объяснить своё решение команде? Хватит короткого резюме.",
+    "es": "¿Puedes explicar tu solución al equipo? Basta con un resumen rápido."
+  },
+  "rule": {
+    "text": {
+      "ru": "explain что-то кому-то — explain it to me, а не explain me. Так же: describe it to me, say it to me (но tell me).",
+      "en": "explain something to someone — explain it to me, not explain me. The same with describe and say (but tell me).",
+      "es": "explain algo to alguien: explain it to me, no explain me. Igual con describe y say (pero tell me)."
+    },
+    "examples": [
+      {
+        "en": "Could you explain it to me again?",
+        "ru": "Можешь объяснить мне ещё раз?"
+      },
+      {
+        "en": "Let's have a quick call.",
+        "ru": "Давай быстро созвонимся."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Can you ___ the error to me?",
+      "answer": "explain",
+      "ru": "Можешь объяснить мне ошибку?"
+    },
+    {
+      "type": "fill",
+      "en": "That's a smart ___.",
+      "answer": "solution",
+      "ru": "Это умное решение."
+    },
+    {
+      "type": "build",
+      "en": "Please explain it to the client.",
+      "ru": "Пожалуйста, объясни это клиенту.",
+      "extra": [
+        "me"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Объясни мне, пожалуйста.",
+      "answer": [
+        "Please explain it to me.",
+        "Explain it to me, please.",
+        "Can you explain it to me?",
+        "Please explain to me."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

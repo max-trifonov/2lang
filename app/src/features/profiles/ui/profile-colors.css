@@ -1,0 +1,12 @@
+/* Цвета различения профилей (D-5 LNG-S1-002) — не тема: одинаковы в светлой и тёмной. */
+:root {
+  --profile-blue: #2563eb;
+  --profile-amber: #b45309;
+  --profile-green: #15803d;
+  --profile-rose: #be185d;
+  --profile-violet: #7c3aed;
+  --profile-teal: #0f766e;
+  --profile-orange: #c2410c;
+  --profile-slate: #475569;
+  --profile-on-color: #ffffff;
+}

@@ -1,0 +1,77 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-04",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 4,
+  "level": "B1",
+  "title": {
+    "ru": "Как пройти к вокзалу",
+    "en": "The way to the station",
+    "es": "El camino a la estación"
+  },
+  "words": [
+    "turn",
+    "corner",
+    "station",
+    "ahead"
+  ],
+  "phrase": {
+    "en": "Go straight ahead and turn left at the corner.",
+    "ru": "Идите прямо и на углу поверните налево.",
+    "es": "Siga recto y gire a la izquierda en la esquina."
+  },
+  "rule": {
+    "text": {
+      "ru": "Дорогу объясняют повелительным: глагол без подлежащего — Go, Turn, Take. «На углу» — at the corner, «за углом» — around the corner; «прямо» — straight ahead.",
+      "en": "Directions use the imperative — the verb with no subject: Go, Turn, Take. At the corner vs around the corner; straight ahead means “straight on”.",
+      "es": "Las indicaciones van en imperativo: Go, Turn, Take. at the corner — en la esquina; around the corner — a la vuelta; straight ahead — todo recto."
+    },
+    "examples": [
+      {
+        "en": "The station is just around the corner.",
+        "ru": "Вокзал прямо за углом."
+      },
+      {
+        "en": "Turn right after the bridge.",
+        "ru": "После моста поверните направо."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "___ left at the traffic lights.",
+      "answer": "Turn",
+      "ru": "На светофоре поверните налево."
+    },
+    {
+      "type": "fill",
+      "en": "Go straight ___.",
+      "answer": "ahead",
+      "ru": "Идите прямо."
+    },
+    {
+      "type": "build",
+      "en": "The station is around the corner.",
+      "ru": "Вокзал за углом.",
+      "extra": [
+        "at"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Как пройти к вокзалу?",
+      "answer": [
+        "How do I get to the station?",
+        "How can I get to the station?",
+        "Where is the station?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

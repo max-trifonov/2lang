@@ -1,0 +1,45 @@
+/* Цвета языков (brief: «у каждого языка свой цвет»): одинаковы во всех темах по смыслу,
+   оттенок — по color-scheme корня. ink — для текста на фоне, on — для текста на заливке. */
+:root {
+  --lang-en: light-dark(#2e5bff, #86a2ff);
+  --lang-en-ink: light-dark(#1d3fd1, #aebfff);
+  --lang-en-soft: light-dark(#e9eeff, #1c2452);
+  --lang-en-on: light-dark(#ffffff, #0b1033);
+
+  --lang-es: light-dark(#f2711c, #ff9d5c);
+  --lang-es-ink: light-dark(#a3450a, #ffb98a);
+  --lang-es-soft: light-dark(#ffefe3, #3b2414);
+  --lang-es-on: light-dark(#2a1405, #2a1405);
+
+  /* Род испанского существительного — по цвету артикля. */
+  --gender-m: light-dark(#1b6f94, #7fcbeb);
+  --gender-f: light-dark(#b02e69, #f39bc3);
+
+  --reward: light-dark(#ffc53d, #ffcf5c);
+  --reward-ink: light-dark(#8a5a00, #ffd97a);
+  --reward-soft: light-dark(#fff4d6, #3a2e10);
+
+  --font-lang: var(--font-serif);
+}
+
+/* Тинт контейнера: всё внутри берёт цвет языка контента (не профиля). */
+[data-lang='en'] {
+  --tint: var(--lang-en);
+  --tint-ink: var(--lang-en-ink);
+  --tint-soft: var(--lang-en-soft);
+  --on-tint: var(--lang-en-on);
+}
+
+[data-lang='es'] {
+  --tint: var(--lang-es);
+  --tint-ink: var(--lang-es-ink);
+  --tint-soft: var(--lang-es-soft);
+  --on-tint: var(--lang-es-on);
+}
+
+/* Иностранный текст — свой шрифт: «голос» языка отличим от объяснений на родном. */
+:is([lang='en'], [lang='es']):not(html) {
+  font-family: var(--font-lang);
+  font-optical-sizing: auto;
+  font-variation-settings: 'SOFT' 50;
+}

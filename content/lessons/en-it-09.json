@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-09",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 9,
+  "level": "B1",
+  "title": {
+    "ru": "Руководитель проекта",
+    "en": "The project manager",
+    "es": "El jefe de proyecto"
+  },
+  "words": [
+    "manage",
+    "project",
+    "manager",
+    "usually"
+  ],
+  "phrase": {
+    "en": "Our manager usually manages two projects at once.",
+    "ru": "Наш руководитель обычно ведёт два проекта сразу.",
+    "es": "Nuestra jefa normalmente gestiona dos proyectos a la vez."
+  },
+  "rule": {
+    "text": {
+      "ru": "Наречия частоты (usually, always, often, never) — перед основным глаголом, но после be: She usually works from home. She is usually busy.",
+      "en": "Frequency adverbs (usually, always, often, never) go before the main verb but after be: She usually works from home. She is usually busy.",
+      "es": "Los adverbios de frecuencia van antes del verbo principal, pero después de be: She usually works… She is usually busy."
+    },
+    "examples": [
+      {
+        "en": "I usually start work at nine.",
+        "ru": "Обычно я начинаю работу в девять."
+      },
+      {
+        "en": "He is usually late for meetings.",
+        "ru": "Он обычно опаздывает на встречи."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "She ___ a team of ten people.",
+      "answer": "manages",
+      "ru": "Она руководит командой из десяти человек."
+    },
+    {
+      "type": "fill",
+      "en": "I ___ work from home on Fridays.",
+      "answer": "usually",
+      "ru": "По пятницам я обычно работаю из дома."
+    },
+    {
+      "type": "build",
+      "en": "Our manager is usually very busy.",
+      "ru": "Наш руководитель обычно очень занят.",
+      "extra": [
+        "works"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я обычно работаю над двумя проектами.",
+      "answer": [
+        "I usually work on two projects."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

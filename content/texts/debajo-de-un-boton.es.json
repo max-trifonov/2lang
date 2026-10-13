@@ -1,0 +1,118 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "debajo-de-un-boton",
+  "kind": "song",
+  "lang": "es",
+  "license": "public-domain",
+  "title": {
+    "es": "Debajo de un botón",
+    "ru": "Под пуговицей",
+    "en": "Under a Button"
+  },
+  "author": "народная",
+  "level": "A1",
+  "tags": [
+    "kids",
+    "traditional"
+  ],
+  "note": {
+    "ru": "Детская песенка с игрой в слоги (ton-ton, tin-tin). Хорошо для начала: debajo de, había."
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "es": "Debajo de un botón, ton, ton,",
+          "ru": "Под пуговицей, тон-тон,",
+          "en": "Under a button, ton, ton,",
+          "phrases": [
+            {
+              "es": "debajo de un botón",
+              "ru": "под пуговицей",
+              "en": "under a button",
+              "note": {
+                "ru": "debajo de + существительное — «под чем-то»; предлог de обязателен"
+              }
+            }
+          ],
+          "words": [
+            {
+              "es": "debajo",
+              "lemma": "debajo",
+              "pos": "adv",
+              "ru": "внизу, под",
+              "en": "underneath"
+            },
+            {
+              "es": "botón",
+              "lemma": "botón",
+              "pos": "noun",
+              "ru": "пуговица",
+              "en": "button"
+            }
+          ]
+        },
+        {
+          "es": "que encontró Martín, tin, tin,",
+          "ru": "которую нашёл Мартин, тин-тин,",
+          "en": "that Martín found, tin, tin,",
+          "words": [
+            {
+              "es": "encontró",
+              "lemma": "encontrar",
+              "pos": "verb",
+              "ru": "нашёл",
+              "en": "found"
+            }
+          ]
+        },
+        {
+          "es": "había un ratón, ton, ton,",
+          "ru": "сидела мышка, тон-тон,",
+          "en": "there was a mouse, ton, ton,",
+          "phrases": [
+            {
+              "es": "había un ratón",
+              "ru": "была мышка",
+              "en": "there was a mouse",
+              "note": {
+                "ru": "había — «был, была» (haber в прошедшем): так говорят «там был…»; не меняется по числу"
+              }
+            }
+          ],
+          "words": [
+            {
+              "es": "había",
+              "lemma": "haber",
+              "pos": "verb",
+              "ru": "был, была",
+              "en": "there was"
+            },
+            {
+              "es": "ratón",
+              "lemma": "ratón",
+              "pos": "noun",
+              "ru": "мышь",
+              "en": "mouse"
+            }
+          ]
+        },
+        {
+          "es": "¡qué chiquitín, tin, tin!",
+          "ru": "какой крошечный, тин-тин!",
+          "en": "how tiny, tin, tin!",
+          "words": [
+            {
+              "es": "chiquitín",
+              "lemma": "chiquitín",
+              "pos": "adj",
+              "ru": "крошечный",
+              "en": "tiny"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

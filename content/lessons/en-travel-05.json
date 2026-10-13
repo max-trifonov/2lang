@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-05",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 5,
+  "level": "B1",
+  "title": {
+    "ru": "Местное блюдо",
+    "en": "A local dish",
+    "es": "Un plato local"
+  },
+  "words": [
+    "recommend",
+    "dish",
+    "local"
+  ],
+  "phrase": {
+    "en": "Could you recommend a local dish?",
+    "ru": "Посоветуете местное блюдо?",
+    "es": "¿Podría recomendarme un plato típico?"
+  },
+  "rule": {
+    "text": {
+      "ru": "recommend + существительное: recommend a dish. «Советую попробовать» — I recommend trying…, а не recommend to try. Русское «мне» здесь не нужно: Could you recommend…?",
+      "en": "recommend + noun: recommend a dish. “I suggest you try” is I recommend trying…, not recommend to try.",
+      "es": "recommend + sustantivo: recommend a dish. «Te recomiendo probar» — I recommend trying…, no recommend to try."
+    },
+    "examples": [
+      {
+        "en": "I recommend trying the fish.",
+        "ru": "Советую попробовать рыбу."
+      },
+      {
+        "en": "We only eat local food on holiday.",
+        "ru": "В отпуске мы едим только местную еду."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Can you ___ a good restaurant?",
+      "answer": "recommend",
+      "ru": "Посоветуете хороший ресторан?"
+    },
+    {
+      "type": "fill",
+      "en": "This ___ is very spicy.",
+      "answer": "dish",
+      "ru": "Это блюдо очень острое."
+    },
+    {
+      "type": "build",
+      "en": "I recommend trying the local wine.",
+      "ru": "Советую попробовать местное вино.",
+      "extra": [
+        "to"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Посоветуете местное блюдо?",
+      "answer": [
+        "Could you recommend a local dish?",
+        "Can you recommend a local dish?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

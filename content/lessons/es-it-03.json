@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-03",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 3,
+  "level": "A1",
+  "title": {
+    "ru": "Важная встреча",
+    "en": "An important meeting",
+    "es": "Una reunión importante"
+  },
+  "words": [
+    "empezar",
+    "reunión",
+    "hoy",
+    "importante"
+  ],
+  "phrase": {
+    "es": "Hoy tengo que ir a una reunión importante.",
+    "ru": "Сегодня мне нужно пойти на важную встречу.",
+    "en": "Today I have to go to an important meeting."
+  },
+  "rule": {
+    "text": {
+      "ru": "tener que + инфинитив — «нужно, должен сделать»: Tengo que ir. Спрягается только tener: tengo que, tienes que, tenemos que. empezar меняет e → ie: empieza, но empezamos.",
+      "en": "tener que + infinitive means “have to do”: Tengo que ir. Only tener changes: tengo que, tienes que, tenemos que. empezar changes e to ie: empieza, but empezamos.",
+      "es": "tener que + infinitivo: Tengo que ir. Solo cambia tener. empezar (e → ie): empieza, empezamos."
+    },
+    "examples": [
+      {
+        "es": "La reunión empieza a las diez.",
+        "ru": "Встреча начинается в десять."
+      },
+      {
+        "es": "Tenemos que empezar hoy.",
+        "ru": "Нам нужно начать сегодня."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "La reunión ___ ahora.",
+      "answer": "empieza",
+      "ru": "Встреча начинается сейчас."
+    },
+    {
+      "type": "fill",
+      "es": "Es una reunión muy ___.",
+      "answer": "importante",
+      "ru": "Это очень важная встреча."
+    },
+    {
+      "type": "build",
+      "es": "Tengo que ir a la reunión.",
+      "ru": "Мне нужно пойти на встречу.",
+      "extra": [
+        "tienes"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Сегодня у меня важная встреча.",
+      "answer": [
+        "Hoy tengo una reunión importante.",
+        "Tengo una reunión importante hoy."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

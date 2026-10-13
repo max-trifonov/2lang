@@ -1,0 +1,3048 @@
+{
+  "format": "2lang/dictionary",
+  "version": 1,
+  "lang": "es",
+  "license": "cc-by-sa",
+  "source": "Черновик ИИ (D-25) на частотном каркасе wordhoard v0.1.0 (CC BY-SA 4.0, D-24): https://github.com/natema/wordhoard; см. content/frequency/NOTICE.md",
+  "entries": [
+    {
+      "id": "bueno",
+      "lemma": "bueno",
+      "pos": "adj",
+      "rank": 1,
+      "translations": {
+        "ru": "хороший; добрый"
+      },
+      "pair": "en:good",
+      "forms": {
+        "f": "buena",
+        "pl": "buenos",
+        "fpl": "buenas"
+      },
+      "examples": [
+        {
+          "es": "Es un hotel bueno y barato.",
+          "ru": "Это хороший и недорогой отель.",
+          "topic": "travel"
+        },
+        {
+          "es": "Buenas noticias: el error está arreglado.",
+          "ru": "Хорошие новости: ошибка исправлена.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Перед существительным м. р. ед. ч. — buen: un buen hotel"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mejor",
+      "lemma": "mejor",
+      "pos": "adj",
+      "rank": 2,
+      "translations": {
+        "ru": "лучше, лучший"
+      },
+      "forms": {
+        "f": "mejor",
+        "pl": "mejores",
+        "fpl": "mejores"
+      },
+      "examples": [
+        {
+          "es": "Es la mejor playa de la isla.",
+          "ru": "Это лучший пляж на острове.",
+          "topic": "travel"
+        },
+        {
+          "es": "Esta versión es mejor que la anterior.",
+          "ru": "Эта версия лучше предыдущей.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "nuevo",
+      "lemma": "nuevo",
+      "pos": "adj",
+      "rank": 3,
+      "translations": {
+        "ru": "новый"
+      },
+      "pair": "en:new",
+      "forms": {
+        "f": "nueva",
+        "pl": "nuevos",
+        "fpl": "nuevas"
+      },
+      "examples": [
+        {
+          "es": "Tengo un móvil nuevo.",
+          "ru": "У меня новый телефон.",
+          "topic": "daily"
+        },
+        {
+          "es": "Instala la nueva versión de la app.",
+          "ru": "Установи новую версию приложения.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "seguro",
+      "lemma": "seguro",
+      "pos": "adj",
+      "rank": 4,
+      "translations": {
+        "ru": "уверенный; безопасный"
+      },
+      "pair": "en:sure",
+      "forms": {
+        "f": "segura",
+        "pl": "seguros",
+        "fpl": "seguras"
+      },
+      "examples": [
+        {
+          "es": "¿Es seguro el barrio por la noche?",
+          "ru": "Безопасен ли район ночью?",
+          "topic": "travel"
+        },
+        {
+          "es": "Estoy seguro de que funciona.",
+          "ru": "Я уверен, что это работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "chico-adj",
+      "lemma": "chico",
+      "pos": "adj",
+      "rank": 5,
+      "translations": {
+        "ru": "маленький (Лат. Америка)"
+      },
+      "forms": {
+        "f": "chica",
+        "pl": "chicos",
+        "fpl": "chicas"
+      },
+      "examples": [
+        {
+          "es": "La habitación es muy chica.",
+          "ru": "Номер очень маленький.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es un cambio chico en el código.",
+          "ru": "Это маленькое изменение в коде.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "claro",
+      "lemma": "claro",
+      "pos": "adj",
+      "rank": 6,
+      "translations": {
+        "ru": "ясный; светлый; ¡claro! — конечно!"
+      },
+      "forms": {
+        "f": "clara",
+        "pl": "claros",
+        "fpl": "claras"
+      },
+      "examples": [
+        {
+          "es": "¡Claro que sí! Te ayudo.",
+          "ru": "Конечно! Помогу тебе.",
+          "topic": "daily"
+        },
+        {
+          "es": "La habitación es clara y grande.",
+          "ru": "Номер светлый и просторный.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "grande",
+      "lemma": "grande",
+      "pos": "adj",
+      "rank": 7,
+      "translations": {
+        "ru": "большой; великий"
+      },
+      "pair": "en:big",
+      "forms": {
+        "f": "grande",
+        "pl": "grandes",
+        "fpl": "grandes"
+      },
+      "examples": [
+        {
+          "es": "Quiero una maleta grande.",
+          "ru": "Мне нужен большой чемодан.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es un proyecto muy grande.",
+          "ru": "Это очень большой проект.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Перед существительным в ед. ч. — gran: una gran idea"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "pequeño",
+      "lemma": "pequeño",
+      "pos": "adj",
+      "rank": 8,
+      "rules": [
+        "es-n-tilde",
+        "es-qu"
+      ],
+      "translations": {
+        "ru": "маленький"
+      },
+      "pair": "en:little",
+      "forms": {
+        "f": "pequeña",
+        "pl": "pequeños",
+        "fpl": "pequeñas"
+      },
+      "examples": [
+        {
+          "es": "Es un pueblo pequeño junto al mar.",
+          "ru": "Это маленький городок у моря.",
+          "topic": "travel"
+        },
+        {
+          "es": "Hay un pequeño error en el texto.",
+          "ru": "В тексте маленькая ошибка.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "último",
+      "lemma": "último",
+      "pos": "adj",
+      "rank": 9,
+      "translations": {
+        "ru": "последний"
+      },
+      "pair": "en:last",
+      "forms": {
+        "f": "última",
+        "pl": "últimos",
+        "fpl": "últimas"
+      },
+      "examples": [
+        {
+          "es": "¿A qué hora sale el último tren?",
+          "ru": "Во сколько последний поезд?",
+          "topic": "travel"
+        },
+        {
+          "es": "Instala la última actualización.",
+          "ru": "Установи последнее обновление.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "serio",
+      "lemma": "serio",
+      "pos": "adj",
+      "rank": 10,
+      "translations": {
+        "ru": "серьёзный"
+      },
+      "pair": "en:serious",
+      "forms": {
+        "f": "seria",
+        "pl": "serios",
+        "fpl": "serias"
+      },
+      "examples": [
+        {
+          "es": "Es un problema serio con el pasaporte.",
+          "ru": "Это серьёзная проблема с паспортом.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿En serio? ¿Otra reunión?",
+          "ru": "Серьёзно? Ещё одна встреча?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "listo",
+      "lemma": "listo",
+      "pos": "adj",
+      "rank": 11,
+      "translations": {
+        "ru": "готовый (estar listo); умный (ser listo)"
+      },
+      "pair": "en:ready",
+      "forms": {
+        "f": "lista",
+        "pl": "listos",
+        "fpl": "listas"
+      },
+      "examples": [
+        {
+          "es": "¿Estás listo? El taxi está abajo.",
+          "ru": "Ты готов? Такси внизу.",
+          "topic": "travel"
+        },
+        {
+          "es": "La versión está lista para producción.",
+          "ru": "Версия готова к продакшену.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "pasado",
+      "lemma": "pasado",
+      "pos": "adj",
+      "rank": 12,
+      "translations": {
+        "ru": "прошлый"
+      },
+      "pair": "en:past",
+      "forms": {
+        "f": "pasada",
+        "pl": "pasados",
+        "fpl": "pasadas"
+      },
+      "examples": [
+        {
+          "es": "El año pasado fuimos a Perú.",
+          "ru": "В прошлом году мы ездили в Перу.",
+          "topic": "travel"
+        },
+        {
+          "es": "La semana pasada lanzamos la app.",
+          "ru": "На прошлой неделе мы выпустили приложение.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "único",
+      "lemma": "único",
+      "pos": "adj",
+      "rank": 13,
+      "translations": {
+        "ru": "единственный; уникальный"
+      },
+      "pair": "en:single",
+      "forms": {
+        "f": "única",
+        "pl": "únicos",
+        "fpl": "únicas"
+      },
+      "examples": [
+        {
+          "es": "Es el único hotel del pueblo.",
+          "ru": "Это единственный отель в городке.",
+          "topic": "travel"
+        },
+        {
+          "es": "Cada usuario tiene un identificador único.",
+          "ru": "У каждого пользователя уникальный идентификатор.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "junto",
+      "lemma": "junto",
+      "pos": "adj",
+      "rank": 14,
+      "translations": {
+        "ru": "вместе (juntos); рядом (junto a)"
+      },
+      "forms": {
+        "f": "junta",
+        "pl": "juntos",
+        "fpl": "juntas"
+      },
+      "examples": [
+        {
+          "es": "Viajamos juntos a Italia.",
+          "ru": "Мы едем в Италию вместе.",
+          "topic": "travel"
+        },
+        {
+          "es": "Trabajamos juntas en el mismo equipo.",
+          "ru": "Мы работаем вместе в одной команде.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cierto",
+      "lemma": "cierto",
+      "pos": "adj",
+      "rank": 15,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "верный; некий, определённый"
+      },
+      "pair": "en:true",
+      "forms": {
+        "f": "cierta",
+        "pl": "ciertos",
+        "fpl": "ciertas"
+      },
+      "examples": [
+        {
+          "es": "Es cierto, el museo está cerrado.",
+          "ru": "Верно, музей закрыт.",
+          "topic": "travel"
+        },
+        {
+          "es": "Solo pasa en ciertos navegadores.",
+          "ru": "Это бывает только в некоторых браузерах.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "muerto-adj",
+      "lemma": "muerto",
+      "pos": "adj",
+      "rank": 16,
+      "translations": {
+        "ru": "мёртвый; смертельно уставший (разг.)"
+      },
+      "forms": {
+        "f": "muerta",
+        "pl": "muertos",
+        "fpl": "muertas"
+      },
+      "examples": [
+        {
+          "es": "Estoy muerto después del viaje.",
+          "ru": "Я без сил после поездки.",
+          "topic": "travel"
+        },
+        {
+          "es": "El enlace está muerto.",
+          "ru": "Ссылка битая.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "primero",
+      "lemma": "primero",
+      "pos": "adj",
+      "rank": 17,
+      "translations": {
+        "ru": "первый"
+      },
+      "forms": {
+        "f": "primera",
+        "pl": "primeros",
+        "fpl": "primeras"
+      },
+      "examples": [
+        {
+          "es": "Es la primera vez que vengo.",
+          "ru": "Я здесь впервые.",
+          "topic": "travel"
+        },
+        {
+          "es": "Los primeros usuarios están contentos.",
+          "ru": "Первые пользователи довольны.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Перед существительным м. р. ед. ч. — primer: el primer día"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "malo",
+      "lemma": "malo",
+      "pos": "adj",
+      "rank": 18,
+      "translations": {
+        "ru": "плохой"
+      },
+      "pair": "en:bad",
+      "forms": {
+        "f": "mala",
+        "pl": "malos",
+        "fpl": "malas"
+      },
+      "examples": [
+        {
+          "es": "La comida del avión es mala.",
+          "ru": "Еда в самолёте плохая.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es una mala idea cambiar todo ahora.",
+          "ru": "Плохая идея всё менять сейчас.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Перед существительным м. р. ед. ч. — mal: un mal día"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "viejo",
+      "lemma": "viejo",
+      "pos": "adj",
+      "rank": 19,
+      "translations": {
+        "ru": "старый"
+      },
+      "pair": "en:old",
+      "forms": {
+        "f": "vieja",
+        "pl": "viejos",
+        "fpl": "viejas"
+      },
+      "examples": [
+        {
+          "es": "Me gusta la parte vieja de la ciudad.",
+          "ru": "Мне нравится старая часть города.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mi portátil es muy viejo.",
+          "ru": "Мой ноутбук очень старый.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "rápido",
+      "lemma": "rápido",
+      "pos": "adj",
+      "rank": 20,
+      "translations": {
+        "ru": "быстрый"
+      },
+      "pair": "en:fast",
+      "forms": {
+        "f": "rápida",
+        "pl": "rápidos",
+        "fpl": "rápidas"
+      },
+      "examples": [
+        {
+          "es": "El tren rápido llega en dos horas.",
+          "ru": "Скоростной поезд доезжает за два часа.",
+          "topic": "travel"
+        },
+        {
+          "es": "La nueva versión es más rápida.",
+          "ru": "Новая версия быстрее.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "genial",
+      "lemma": "genial",
+      "pos": "adj",
+      "rank": 21,
+      "rules": [
+        "es-g-before-e-i"
+      ],
+      "translations": {
+        "ru": "отличный, классный"
+      },
+      "pair": "en:great",
+      "forms": {
+        "f": "genial",
+        "pl": "geniales",
+        "fpl": "geniales"
+      },
+      "examples": [
+        {
+          "es": "¡Qué genial es esta playa!",
+          "ru": "Какой классный пляж!",
+          "topic": "travel"
+        },
+        {
+          "es": "Genial, ya funciona.",
+          "ru": "Отлично, уже работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "feliz",
+      "lemma": "feliz",
+      "pos": "adj",
+      "rank": 22,
+      "rules": [
+        "es-z"
+      ],
+      "translations": {
+        "ru": "счастливый"
+      },
+      "pair": "en:happy",
+      "forms": {
+        "f": "feliz",
+        "pl": "felices",
+        "fpl": "felices"
+      },
+      "examples": [
+        {
+          "es": "Estamos felices de estar aquí.",
+          "ru": "Мы счастливы быть здесь.",
+          "topic": "travel"
+        },
+        {
+          "es": "¡Feliz cumpleaños!",
+          "ru": "С днём рождения!",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "supuesto",
+      "lemma": "supuesto",
+      "pos": "adj",
+      "rank": 23,
+      "translations": {
+        "ru": "предполагаемый; por supuesto — конечно"
+      },
+      "forms": {
+        "f": "supuesta",
+        "pl": "supuestos",
+        "fpl": "supuestas"
+      },
+      "examples": [
+        {
+          "es": "Por supuesto, puede pagar con tarjeta.",
+          "ru": "Конечно, можно оплатить картой.",
+          "topic": "travel"
+        },
+        {
+          "es": "El supuesto error era un problema de red.",
+          "ru": "Предполагаемая ошибка была проблемой сети.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mismo",
+      "lemma": "mismo",
+      "pos": "adj",
+      "rank": 24,
+      "translations": {
+        "ru": "тот же самый; сам"
+      },
+      "pair": "en:same",
+      "forms": {
+        "f": "misma",
+        "pl": "mismos",
+        "fpl": "mismas"
+      },
+      "examples": [
+        {
+          "es": "Tenemos el mismo vuelo.",
+          "ru": "У нас один и тот же рейс.",
+          "topic": "travel"
+        },
+        {
+          "es": "Lo hago yo mismo.",
+          "ru": "Я сделаю это сам.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "importante",
+      "lemma": "importante",
+      "pos": "adj",
+      "rank": 25,
+      "translations": {
+        "ru": "важный"
+      },
+      "pair": "en:important",
+      "forms": {
+        "f": "importante",
+        "pl": "importantes",
+        "fpl": "importantes"
+      },
+      "examples": [
+        {
+          "es": "Es importante llevar el pasaporte.",
+          "ru": "Важно взять с собой паспорт.",
+          "topic": "travel"
+        },
+        {
+          "es": "Tengo una reunión importante.",
+          "ru": "У меня важная встреча.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "querido",
+      "lemma": "querido",
+      "pos": "adj",
+      "rank": 26,
+      "rules": [
+        "es-qu"
+      ],
+      "translations": {
+        "ru": "дорогой, любимый"
+      },
+      "pair": "en:dear",
+      "forms": {
+        "f": "querida",
+        "pl": "queridos",
+        "fpl": "queridas"
+      },
+      "examples": [
+        {
+          "es": "Querida Ana: te escribo desde Roma.",
+          "ru": "Дорогая Анна, пишу тебе из Рима.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es el lenguaje más querido del equipo.",
+          "ru": "Это самый любимый язык в команде.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "propio",
+      "lemma": "propio",
+      "pos": "adj",
+      "rank": 27,
+      "translations": {
+        "ru": "собственный"
+      },
+      "pair": "en:own-adj",
+      "forms": {
+        "f": "propia",
+        "pl": "propios",
+        "fpl": "propias"
+      },
+      "examples": [
+        {
+          "es": "El apartamento tiene baño propio.",
+          "ru": "В квартире свой санузел.",
+          "topic": "travel"
+        },
+        {
+          "es": "Tengo mi propia empresa.",
+          "ru": "У меня своя компания.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "segundo-adj",
+      "lemma": "segundo",
+      "pos": "adj",
+      "rank": 28,
+      "translations": {
+        "ru": "второй"
+      },
+      "forms": {
+        "f": "segunda",
+        "pl": "segundos",
+        "fpl": "segundas"
+      },
+      "examples": [
+        {
+          "es": "Vivimos en el segundo piso.",
+          "ru": "Мы живём на втором этаже.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es la segunda versión del diseño.",
+          "ru": "Это вторая версия дизайна.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "justo",
+      "lemma": "justo",
+      "pos": "adj",
+      "rank": 29,
+      "translations": {
+        "ru": "справедливый; точный, ровно"
+      },
+      "pair": "en:fair",
+      "forms": {
+        "f": "justa",
+        "pl": "justos",
+        "fpl": "justas"
+      },
+      "examples": [
+        {
+          "es": "No es justo pagar tanto.",
+          "ru": "Несправедливо столько платить.",
+          "topic": "travel"
+        },
+        {
+          "es": "Llegamos justos a la reunión.",
+          "ru": "Мы еле успели на встречу.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "loco",
+      "lemma": "loco",
+      "pos": "adj",
+      "rank": 30,
+      "translations": {
+        "ru": "сумасшедший"
+      },
+      "pair": "en:crazy",
+      "forms": {
+        "f": "loca",
+        "pl": "locos",
+        "fpl": "locas"
+      },
+      "examples": [
+        {
+          "es": "¡Estás loco! Es muy caro.",
+          "ru": "Ты с ума сошёл! Это очень дорого.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es una idea loca, pero funciona.",
+          "ru": "Безумная идея, но работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "alto",
+      "lemma": "alto",
+      "pos": "adj",
+      "rank": 31,
+      "translations": {
+        "ru": "высокий; громкий"
+      },
+      "pair": "en:high",
+      "forms": {
+        "f": "alta",
+        "pl": "altos",
+        "fpl": "altas"
+      },
+      "examples": [
+        {
+          "es": "El edificio más alto de la ciudad.",
+          "ru": "Самое высокое здание города.",
+          "topic": "travel"
+        },
+        {
+          "es": "Habla más alto, no te oigo.",
+          "ru": "Говори громче, не слышу тебя.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "vivo",
+      "lemma": "vivo",
+      "pos": "adj",
+      "rank": 32,
+      "translations": {
+        "ru": "живой; яркий"
+      },
+      "pair": "en:live-adj",
+      "forms": {
+        "f": "viva",
+        "pl": "vivos",
+        "fpl": "vivas"
+      },
+      "examples": [
+        {
+          "es": "Me gusta la música en vivo.",
+          "ru": "Мне нравится живая музыка.",
+          "topic": "travel"
+        },
+        {
+          "es": "La ciudad está muy viva por la noche.",
+          "ru": "Ночью город очень живой.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "suficiente",
+      "lemma": "suficiente",
+      "pos": "adj",
+      "rank": 33,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "достаточный"
+      },
+      "forms": {
+        "f": "suficiente",
+        "pl": "suficientes",
+        "fpl": "suficientes"
+      },
+      "examples": [
+        {
+          "es": "No tengo suficiente dinero en efectivo.",
+          "ru": "У меня недостаточно наличных.",
+          "topic": "travel"
+        },
+        {
+          "es": "La memoria no es suficiente.",
+          "ru": "Памяти недостаточно.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "solo",
+      "lemma": "solo",
+      "pos": "adj",
+      "rank": 34,
+      "translations": {
+        "ru": "один, одинокий"
+      },
+      "forms": {
+        "f": "sola",
+        "pl": "solos",
+        "fpl": "solas"
+      },
+      "examples": [
+        {
+          "es": "Viajo solo por primera vez.",
+          "ru": "Я впервые путешествую один.",
+          "topic": "travel"
+        },
+        {
+          "es": "Trabajo sola en este proyecto.",
+          "ru": "Я одна работаю над этим проектом.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "difícil",
+      "lemma": "difícil",
+      "pos": "adj",
+      "rank": 35,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "трудный"
+      },
+      "pair": "en:hard",
+      "forms": {
+        "f": "difícil",
+        "pl": "difíciles",
+        "fpl": "difíciles"
+      },
+      "examples": [
+        {
+          "es": "Es difícil encontrar taxi aquí.",
+          "ru": "Здесь трудно найти такси.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es una tarea difícil.",
+          "ru": "Это трудная задача.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fuerte",
+      "lemma": "fuerte",
+      "pos": "adj",
+      "rank": 36,
+      "translations": {
+        "ru": "сильный; крепкий"
+      },
+      "pair": "en:strong",
+      "forms": {
+        "f": "fuerte",
+        "pl": "fuertes",
+        "fpl": "fuertes"
+      },
+      "examples": [
+        {
+          "es": "Este café es muy fuerte.",
+          "ru": "Этот кофе очень крепкий.",
+          "topic": "travel"
+        },
+        {
+          "es": "Usa una contraseña fuerte.",
+          "ru": "Используй надёжный пароль.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mayor",
+      "lemma": "mayor",
+      "pos": "adj",
+      "rank": 37,
+      "translations": {
+        "ru": "больший; старший; пожилой"
+      },
+      "forms": {
+        "f": "mayor",
+        "pl": "mayores",
+        "fpl": "mayores"
+      },
+      "examples": [
+        {
+          "es": "Mi hermano mayor vive en Chile.",
+          "ru": "Мой старший брат живёт в Чили.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es el mayor problema del proyecto.",
+          "ru": "Это самая большая проблема проекта.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "posible",
+      "lemma": "posible",
+      "pos": "adj",
+      "rank": 38,
+      "translations": {
+        "ru": "возможный"
+      },
+      "pair": "en:possible",
+      "forms": {
+        "f": "posible",
+        "pl": "posibles",
+        "fpl": "posibles"
+      },
+      "examples": [
+        {
+          "es": "¿Es posible cambiar el vuelo?",
+          "ru": "Можно поменять рейс?",
+          "topic": "travel"
+        },
+        {
+          "es": "Lo arreglo lo antes posible.",
+          "ru": "Исправлю как можно скорее.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "derecho-adj",
+      "lemma": "derecho",
+      "pos": "adj",
+      "rank": 39,
+      "translations": {
+        "ru": "правый; прямой"
+      },
+      "forms": {
+        "f": "derecha",
+        "pl": "derechos",
+        "fpl": "derechas"
+      },
+      "examples": [
+        {
+          "es": "La farmacia está a mano derecha.",
+          "ru": "Аптека по правую руку.",
+          "topic": "travel"
+        },
+        {
+          "es": "Haz clic con el botón derecho.",
+          "ru": "Нажми правую кнопку мыши.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "final",
+      "lemma": "final",
+      "pos": "adj",
+      "rank": 40,
+      "translations": {
+        "ru": "окончательный, последний"
+      },
+      "forms": {
+        "f": "final",
+        "pl": "finales",
+        "fpl": "finales"
+      },
+      "examples": [
+        {
+          "es": "La parada final es la estación central.",
+          "ru": "Конечная — центральный вокзал.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es la versión final del informe.",
+          "ru": "Это окончательная версия отчёта.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "duro",
+      "lemma": "duro",
+      "pos": "adj",
+      "rank": 41,
+      "translations": {
+        "ru": "твёрдый; тяжёлый, суровый"
+      },
+      "pair": "en:tough",
+      "forms": {
+        "f": "dura",
+        "pl": "duros",
+        "fpl": "duras"
+      },
+      "examples": [
+        {
+          "es": "Fue un viaje muy duro.",
+          "ru": "Это была очень тяжёлая поездка.",
+          "topic": "travel"
+        },
+        {
+          "es": "El disco duro está lleno.",
+          "ru": "Жёсткий диск заполнен.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fácil",
+      "lemma": "fácil",
+      "pos": "adj",
+      "rank": 42,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "лёгкий, простой"
+      },
+      "pair": "en:easy",
+      "forms": {
+        "f": "fácil",
+        "pl": "fáciles",
+        "fpl": "fáciles"
+      },
+      "examples": [
+        {
+          "es": "Es fácil llegar en metro.",
+          "ru": "Легко доехать на метро.",
+          "topic": "travel"
+        },
+        {
+          "es": "La instalación es muy fácil.",
+          "ru": "Установка очень простая.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "extraño",
+      "lemma": "extraño",
+      "pos": "adj",
+      "rank": 43,
+      "rules": [
+        "es-n-tilde"
+      ],
+      "translations": {
+        "ru": "странный; чужой"
+      },
+      "pair": "en:strange",
+      "forms": {
+        "f": "extraña",
+        "pl": "extraños",
+        "fpl": "extrañas"
+      },
+      "examples": [
+        {
+          "es": "Es extraño, el tren no llega.",
+          "ru": "Странно, поезд не приходит.",
+          "topic": "travel"
+        },
+        {
+          "es": "Veo un error extraño en los logs.",
+          "ru": "Вижу странную ошибку в логах.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "correcto",
+      "lemma": "correcto",
+      "pos": "adj",
+      "rank": 44,
+      "translations": {
+        "ru": "правильный, верный"
+      },
+      "forms": {
+        "f": "correcta",
+        "pl": "correctos",
+        "fpl": "correctas"
+      },
+      "examples": [
+        {
+          "es": "¿Es el andén correcto para Toledo?",
+          "ru": "Это правильная платформа на Толедо?",
+          "topic": "travel"
+        },
+        {
+          "es": "La respuesta es correcta.",
+          "ru": "Ответ правильный.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "perdido",
+      "lemma": "perdido",
+      "pos": "adj",
+      "rank": 45,
+      "translations": {
+        "ru": "потерянный; заблудившийся"
+      },
+      "forms": {
+        "f": "perdida",
+        "pl": "perdidos",
+        "fpl": "perdidas"
+      },
+      "examples": [
+        {
+          "es": "Estamos perdidos, ¿nos ayuda?",
+          "ru": "Мы заблудились, поможете?",
+          "topic": "travel"
+        },
+        {
+          "es": "La maleta perdida llega mañana.",
+          "ru": "Потерянный чемодан привезут завтра.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "próximo",
+      "lemma": "próximo",
+      "pos": "adj",
+      "rank": 46,
+      "translations": {
+        "ru": "следующий; ближайший"
+      },
+      "pair": "en:next",
+      "forms": {
+        "f": "próxima",
+        "pl": "próximos",
+        "fpl": "próximas"
+      },
+      "examples": [
+        {
+          "es": "¿Cuándo sale el próximo autobús?",
+          "ru": "Когда следующий автобус?",
+          "topic": "travel"
+        },
+        {
+          "es": "La próxima reunión es el lunes.",
+          "ru": "Следующая встреча в понедельник.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hermoso",
+      "lemma": "hermoso",
+      "pos": "adj",
+      "rank": 47,
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "прекрасный, красивый"
+      },
+      "pair": "en:beautiful",
+      "forms": {
+        "f": "hermosa",
+        "pl": "hermosos",
+        "fpl": "hermosas"
+      },
+      "examples": [
+        {
+          "es": "Qué paisaje tan hermoso.",
+          "ru": "Какой прекрасный пейзаж.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es un código hermoso y limpio.",
+          "ru": "Это красивый и чистый код.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "blanco",
+      "lemma": "blanco",
+      "pos": "adj",
+      "rank": 48,
+      "translations": {
+        "ru": "белый"
+      },
+      "pair": "en:white",
+      "forms": {
+        "f": "blanca",
+        "pl": "blancos",
+        "fpl": "blancas"
+      },
+      "examples": [
+        {
+          "es": "Un vino blanco, por favor.",
+          "ru": "Белое вино, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "es": "La pantalla está en blanco.",
+          "ru": "Экран пустой.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "bonito",
+      "lemma": "bonito",
+      "pos": "adj",
+      "rank": 49,
+      "translations": {
+        "ru": "красивый, милый"
+      },
+      "pair": "en:nice",
+      "forms": {
+        "f": "bonita",
+        "pl": "bonitos",
+        "fpl": "bonitas"
+      },
+      "examples": [
+        {
+          "es": "Es un pueblo muy bonito.",
+          "ru": "Очень красивый городок.",
+          "topic": "travel"
+        },
+        {
+          "es": "La nueva web es muy bonita.",
+          "ru": "Новый сайт очень красивый.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "perfecto",
+      "lemma": "perfecto",
+      "pos": "adj",
+      "rank": 50,
+      "translations": {
+        "ru": "идеальный; ¡perfecto! — отлично!"
+      },
+      "pair": "en:perfect",
+      "forms": {
+        "f": "perfecta",
+        "pl": "perfectos",
+        "fpl": "perfectas"
+      },
+      "examples": [
+        {
+          "es": "Perfecto, nos vemos en el hotel.",
+          "ru": "Отлично, увидимся в отеле.",
+          "topic": "travel"
+        },
+        {
+          "es": "Ningún código es perfecto.",
+          "ru": "Идеального кода не бывает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "largo",
+      "lemma": "largo",
+      "pos": "adj",
+      "rank": 51,
+      "translations": {
+        "ru": "длинный; долгий"
+      },
+      "forms": {
+        "f": "larga",
+        "pl": "largos",
+        "fpl": "largas"
+      },
+      "examples": [
+        {
+          "es": "Fue un vuelo muy largo.",
+          "ru": "Это был очень долгий перелёт.",
+          "topic": "travel"
+        },
+        {
+          "es": "La lista es demasiado larga.",
+          "ru": "Список слишком длинный.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "diferente",
+      "lemma": "diferente",
+      "pos": "adj",
+      "rank": 52,
+      "translations": {
+        "ru": "другой, различный"
+      },
+      "pair": "en:different",
+      "forms": {
+        "f": "diferente",
+        "pl": "diferentes",
+        "fpl": "diferentes"
+      },
+      "examples": [
+        {
+          "es": "La comida aquí es muy diferente.",
+          "ru": "Еда здесь совсем другая.",
+          "topic": "travel"
+        },
+        {
+          "es": "Probamos un enfoque diferente.",
+          "ru": "Мы попробовали другой подход.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "raro",
+      "lemma": "raro",
+      "pos": "adj",
+      "rank": 53,
+      "translations": {
+        "ru": "странный; редкий"
+      },
+      "pair": "en:weird",
+      "forms": {
+        "f": "rara",
+        "pl": "raros",
+        "fpl": "raras"
+      },
+      "examples": [
+        {
+          "es": "Es raro, el hotel está vacío.",
+          "ru": "Странно, отель пустой.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es un error raro, casi no pasa.",
+          "ru": "Это редкая ошибка, почти не случается.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "peor",
+      "lemma": "peor",
+      "pos": "adj",
+      "rank": 54,
+      "translations": {
+        "ru": "хуже, худший"
+      },
+      "forms": {
+        "f": "peor",
+        "pl": "peores",
+        "fpl": "peores"
+      },
+      "examples": [
+        {
+          "es": "Es el peor asiento del avión.",
+          "ru": "Это худшее место в самолёте.",
+          "topic": "travel"
+        },
+        {
+          "es": "La situación es peor de lo que pensaba.",
+          "ru": "Ситуация хуже, чем я думал.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "estúpido",
+      "lemma": "estúpido",
+      "pos": "adj",
+      "rank": 55,
+      "translations": {
+        "ru": "глупый"
+      },
+      "pair": "en:stupid",
+      "forms": {
+        "f": "estúpida",
+        "pl": "estúpidos",
+        "fpl": "estúpidas"
+      },
+      "examples": [
+        {
+          "es": "Fue un error estúpido, perdí el tren.",
+          "ru": "Глупая ошибка — я опоздал на поезд.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es una pregunta estúpida, pero ¿cómo se instala?",
+          "ru": "Глупый вопрос, но как это установить?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "lindo",
+      "lemma": "lindo",
+      "pos": "adj",
+      "rank": 56,
+      "translations": {
+        "ru": "милый, красивый (Лат. Америка)"
+      },
+      "pair": "en:lovely",
+      "forms": {
+        "f": "linda",
+        "pl": "lindos",
+        "fpl": "lindas"
+      },
+      "examples": [
+        {
+          "es": "¡Qué lindo es Buenos Aires!",
+          "ru": "Как красив Буэнос-Айрес!",
+          "topic": "travel"
+        },
+        {
+          "es": "Es una app muy linda.",
+          "ru": "Очень милое приложение.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "especial",
+      "lemma": "especial",
+      "pos": "adj",
+      "rank": 57,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "особенный, специальный"
+      },
+      "pair": "en:special",
+      "forms": {
+        "f": "especial",
+        "pl": "especiales",
+        "fpl": "especiales"
+      },
+      "examples": [
+        {
+          "es": "Hoy hay un menú especial.",
+          "ru": "Сегодня особое меню.",
+          "topic": "travel"
+        },
+        {
+          "es": "No uses caracteres especiales en el nombre.",
+          "ru": "Не используй спецсимволы в имени.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "real",
+      "lemma": "real",
+      "pos": "adj",
+      "rank": 58,
+      "translations": {
+        "ru": "настоящий, реальный; королевский"
+      },
+      "pair": "en:real",
+      "forms": {
+        "f": "real",
+        "pl": "reales",
+        "fpl": "reales"
+      },
+      "examples": [
+        {
+          "es": "Visitamos el Palacio Real.",
+          "ru": "Мы посетили Королевский дворец.",
+          "topic": "travel"
+        },
+        {
+          "es": "Probamos la app con datos reales.",
+          "ru": "Мы проверили приложение на реальных данных.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "libre",
+      "lemma": "libre",
+      "pos": "adj",
+      "rank": 59,
+      "translations": {
+        "ru": "свободный"
+      },
+      "pair": "en:free",
+      "forms": {
+        "f": "libre",
+        "pl": "libres",
+        "fpl": "libres"
+      },
+      "examples": [
+        {
+          "es": "¿Está libre esta mesa?",
+          "ru": "Этот столик свободен?",
+          "topic": "travel"
+        },
+        {
+          "es": "Es software libre.",
+          "ru": "Это свободное ПО.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "bienvenido",
+      "lemma": "bienvenido",
+      "pos": "adj",
+      "rank": 60,
+      "translations": {
+        "ru": "добро пожаловать"
+      },
+      "forms": {
+        "f": "bienvenida",
+        "pl": "bienvenidos",
+        "fpl": "bienvenidas"
+      },
+      "examples": [
+        {
+          "es": "¡Bienvenidos a Madrid!",
+          "ru": "Добро пожаловать в Мадрид!",
+          "topic": "travel"
+        },
+        {
+          "es": "Bienvenida al equipo, Ana.",
+          "ru": "Добро пожаловать в команду, Анна.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tranquilo",
+      "lemma": "tranquilo",
+      "pos": "adj",
+      "rank": 61,
+      "rules": [
+        "es-qu"
+      ],
+      "translations": {
+        "ru": "спокойный; ¡tranquilo! — спокойно!"
+      },
+      "pair": "en:quiet",
+      "forms": {
+        "f": "tranquila",
+        "pl": "tranquilos",
+        "fpl": "tranquilas"
+      },
+      "examples": [
+        {
+          "es": "Buscamos un hotel tranquilo.",
+          "ru": "Мы ищем тихий отель.",
+          "topic": "travel"
+        },
+        {
+          "es": "Tranquilo, tenemos copia de seguridad.",
+          "ru": "Спокойно, у нас есть резервная копия.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "increíble",
+      "lemma": "increíble",
+      "pos": "adj",
+      "rank": 62,
+      "translations": {
+        "ru": "невероятный"
+      },
+      "pair": "en:amazing",
+      "forms": {
+        "f": "increíble",
+        "pl": "increíbles",
+        "fpl": "increíbles"
+      },
+      "examples": [
+        {
+          "es": "La vista es increíble.",
+          "ru": "Вид невероятный.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es increíble lo rápido que va.",
+          "ru": "Невероятно, как быстро работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "negro-adj",
+      "lemma": "negro",
+      "pos": "adj",
+      "rank": 63,
+      "translations": {
+        "ru": "чёрный"
+      },
+      "forms": {
+        "f": "negra",
+        "pl": "negros",
+        "fpl": "negras"
+      },
+      "examples": [
+        {
+          "es": "Un café negro, sin azúcar.",
+          "ru": "Чёрный кофе без сахара.",
+          "topic": "travel"
+        },
+        {
+          "es": "La pantalla se quedó negra.",
+          "ru": "Экран стал чёрным.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cuarto",
+      "lemma": "cuarto",
+      "pos": "adj",
+      "rank": 64,
+      "translations": {
+        "ru": "четвёртый"
+      },
+      "forms": {
+        "f": "cuarta",
+        "pl": "cuartos",
+        "fpl": "cuartas"
+      },
+      "examples": [
+        {
+          "es": "Vivimos en el cuarto piso.",
+          "ru": "Мы живём на четвёртом этаже.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es la cuarta reunión de hoy.",
+          "ru": "Это четвёртая встреча за сегодня.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "divertido",
+      "lemma": "divertido",
+      "pos": "adj",
+      "rank": 65,
+      "translations": {
+        "ru": "весёлый, забавный"
+      },
+      "forms": {
+        "f": "divertida",
+        "pl": "divertidos",
+        "fpl": "divertidas"
+      },
+      "examples": [
+        {
+          "es": "Fue un viaje muy divertido.",
+          "ru": "Это была очень весёлая поездка.",
+          "topic": "travel"
+        },
+        {
+          "es": "Programar juegos es divertido.",
+          "ru": "Программировать игры весело.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "verdadero",
+      "lemma": "verdadero",
+      "pos": "adj",
+      "rank": 66,
+      "translations": {
+        "ru": "настоящий, истинный"
+      },
+      "forms": {
+        "f": "verdadera",
+        "pl": "verdaderos",
+        "fpl": "verdaderas"
+      },
+      "examples": [
+        {
+          "es": "Es un verdadero paraíso.",
+          "ru": "Это настоящий рай.",
+          "topic": "travel"
+        },
+        {
+          "es": "El verdadero problema está en la base de datos.",
+          "ru": "Настоящая проблема — в базе данных.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "pobre",
+      "lemma": "pobre",
+      "pos": "adj",
+      "rank": 67,
+      "translations": {
+        "ru": "бедный"
+      },
+      "pair": "en:poor",
+      "forms": {
+        "f": "pobre",
+        "pl": "pobres",
+        "fpl": "pobres"
+      },
+      "examples": [
+        {
+          "es": "Es un barrio pobre pero muy auténtico.",
+          "ru": "Бедный, но очень колоритный район.",
+          "topic": "travel"
+        },
+        {
+          "es": "¡Pobre! Perdió el vuelo.",
+          "ru": "Бедняга! Опоздал на рейс.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "general",
+      "lemma": "general",
+      "pos": "adj",
+      "rank": 68,
+      "rules": [
+        "es-g-before-e-i"
+      ],
+      "translations": {
+        "ru": "общий, генеральный"
+      },
+      "pair": "en:general",
+      "forms": {
+        "f": "general",
+        "pl": "generales",
+        "fpl": "generales"
+      },
+      "examples": [
+        {
+          "es": "En general, la gente es amable.",
+          "ru": "В целом люди приветливые.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es una configuración general.",
+          "ru": "Это общая настройка.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "oficial",
+      "lemma": "oficial",
+      "pos": "adj",
+      "rank": 69,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "официальный"
+      },
+      "forms": {
+        "f": "oficial",
+        "pl": "oficiales",
+        "fpl": "oficiales"
+      },
+      "examples": [
+        {
+          "es": "Compra los billetes en la web oficial.",
+          "ru": "Покупай билеты на официальном сайте.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es la documentación oficial.",
+          "ru": "Это официальная документация.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "lleno",
+      "lemma": "lleno",
+      "pos": "adj",
+      "rank": 70,
+      "translations": {
+        "ru": "полный, заполненный"
+      },
+      "pair": "en:full",
+      "forms": {
+        "f": "llena",
+        "pl": "llenos",
+        "fpl": "llenas"
+      },
+      "examples": [
+        {
+          "es": "El tren va lleno.",
+          "ru": "Поезд переполнен.",
+          "topic": "travel"
+        },
+        {
+          "es": "El disco está lleno.",
+          "ru": "Диск заполнен.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "siguiente",
+      "lemma": "siguiente",
+      "pos": "adj",
+      "rank": 71,
+      "translations": {
+        "ru": "следующий"
+      },
+      "forms": {
+        "f": "siguiente",
+        "pl": "siguientes",
+        "fpl": "siguientes"
+      },
+      "examples": [
+        {
+          "es": "Bajamos en la siguiente parada.",
+          "ru": "Выходим на следующей остановке.",
+          "topic": "travel"
+        },
+        {
+          "es": "Pasa a la siguiente tarea.",
+          "ru": "Переходи к следующей задаче.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "maravilloso",
+      "lemma": "maravilloso",
+      "pos": "adj",
+      "rank": 72,
+      "translations": {
+        "ru": "чудесный"
+      },
+      "pair": "en:wonderful",
+      "forms": {
+        "f": "maravillosa",
+        "pl": "maravillosos",
+        "fpl": "maravillosas"
+      },
+      "examples": [
+        {
+          "es": "Fue un día maravilloso.",
+          "ru": "Это был чудесный день.",
+          "topic": "travel"
+        },
+        {
+          "es": "Tienes un equipo maravilloso.",
+          "ru": "У тебя чудесная команда.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "personal",
+      "lemma": "personal",
+      "pos": "adj",
+      "rank": 73,
+      "translations": {
+        "ru": "личный"
+      },
+      "forms": {
+        "f": "personal",
+        "pl": "personales",
+        "fpl": "personales"
+      },
+      "examples": [
+        {
+          "es": "Es un viaje personal, no de trabajo.",
+          "ru": "Это личная поездка, не рабочая.",
+          "topic": "travel"
+        },
+        {
+          "es": "No compartas tus datos personales.",
+          "ru": "Не делись своими личными данными.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "rojo",
+      "lemma": "rojo",
+      "pos": "adj",
+      "rank": 74,
+      "translations": {
+        "ru": "красный"
+      },
+      "pair": "en:red",
+      "forms": {
+        "f": "roja",
+        "pl": "rojos",
+        "fpl": "rojas"
+      },
+      "examples": [
+        {
+          "es": "Busca el autobús rojo de la ciudad.",
+          "ru": "Ищи красный городской автобус.",
+          "topic": "travel"
+        },
+        {
+          "es": "El test está en rojo.",
+          "ru": "Тест красный.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "humano-adj",
+      "lemma": "humano",
+      "pos": "adj",
+      "rank": 75,
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "человеческий"
+      },
+      "forms": {
+        "f": "humana",
+        "pl": "humanos",
+        "fpl": "humanas"
+      },
+      "examples": [
+        {
+          "es": "Es un error humano.",
+          "ru": "Это человеческая ошибка.",
+          "topic": "it"
+        },
+        {
+          "es": "Los derechos humanos son universales.",
+          "ru": "Права человека универсальны.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "normal",
+      "lemma": "normal",
+      "pos": "adj",
+      "rank": 76,
+      "translations": {
+        "ru": "обычный, нормальный"
+      },
+      "pair": "en:normal",
+      "forms": {
+        "f": "normal",
+        "pl": "normales",
+        "fpl": "normales"
+      },
+      "examples": [
+        {
+          "es": "Es normal esperar un poco aquí.",
+          "ru": "Здесь нормально немного подождать.",
+          "topic": "travel"
+        },
+        {
+          "es": "En modo normal todo funciona.",
+          "ru": "В обычном режиме всё работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ocupado",
+      "lemma": "ocupado",
+      "pos": "adj",
+      "rank": 77,
+      "translations": {
+        "ru": "занятой; занятый"
+      },
+      "pair": "en:busy",
+      "forms": {
+        "f": "ocupada",
+        "pl": "ocupados",
+        "fpl": "ocupadas"
+      },
+      "examples": [
+        {
+          "es": "El baño está ocupado.",
+          "ru": "Туалет занят.",
+          "topic": "travel"
+        },
+        {
+          "es": "Estoy muy ocupado esta semana.",
+          "ru": "Я очень занят на этой неделе.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "terminado",
+      "lemma": "terminado",
+      "pos": "adj",
+      "rank": 78,
+      "translations": {
+        "ru": "законченный"
+      },
+      "forms": {
+        "f": "terminada",
+        "pl": "terminados",
+        "fpl": "terminadas"
+      },
+      "examples": [
+        {
+          "es": "El trabajo está terminado.",
+          "ru": "Работа закончена.",
+          "topic": "it"
+        },
+        {
+          "es": "La obra del hotel no está terminada.",
+          "ru": "Ремонт в отеле не закончен.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "capaz",
+      "lemma": "capaz",
+      "pos": "adj",
+      "rank": 79,
+      "rules": [
+        "es-z"
+      ],
+      "translations": {
+        "ru": "способный"
+      },
+      "pair": "en:able",
+      "forms": {
+        "f": "capaz",
+        "pl": "capaces",
+        "fpl": "capaces"
+      },
+      "examples": [
+        {
+          "es": "¿Eres capaz de hablar solo en español?",
+          "ru": "Ты можешь говорить только по-испански?",
+          "topic": "travel"
+        },
+        {
+          "es": "El sistema es capaz de procesar mil peticiones.",
+          "ru": "Система способна обработать тысячу запросов.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "equivocado",
+      "lemma": "equivocado",
+      "pos": "adj",
+      "rank": 80,
+      "rules": [
+        "es-qu"
+      ],
+      "translations": {
+        "ru": "ошибочный; estar equivocado — ошибаться"
+      },
+      "pair": "en:wrong",
+      "forms": {
+        "f": "equivocada",
+        "pl": "equivocados",
+        "fpl": "equivocadas"
+      },
+      "examples": [
+        {
+          "es": "Tomamos el tren equivocado.",
+          "ru": "Мы сели не на тот поезд.",
+          "topic": "travel"
+        },
+        {
+          "es": "Estás equivocado, el error es otro.",
+          "ru": "Ты ошибаешься, ошибка в другом.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "preparado",
+      "lemma": "preparado",
+      "pos": "adj",
+      "rank": 81,
+      "translations": {
+        "ru": "готовый, подготовленный"
+      },
+      "forms": {
+        "f": "preparada",
+        "pl": "preparados",
+        "fpl": "preparadas"
+      },
+      "examples": [
+        {
+          "es": "¿Estáis preparados para la excursión?",
+          "ru": "Вы готовы к экскурсии?",
+          "topic": "travel"
+        },
+        {
+          "es": "El servidor está preparado.",
+          "ru": "Сервер готов.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "necesario",
+      "lemma": "necesario",
+      "pos": "adj",
+      "rank": 82,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "необходимый"
+      },
+      "forms": {
+        "f": "necesaria",
+        "pl": "necesarios",
+        "fpl": "necesarias"
+      },
+      "examples": [
+        {
+          "es": "¿Es necesario reservar?",
+          "ru": "Нужно бронировать?",
+          "topic": "travel"
+        },
+        {
+          "es": "No es necesario reiniciar.",
+          "ru": "Перезапускать не нужно.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "abierto",
+      "lemma": "abierto",
+      "pos": "adj",
+      "rank": 83,
+      "translations": {
+        "ru": "открытый"
+      },
+      "pair": "en:open-adj",
+      "forms": {
+        "f": "abierta",
+        "pl": "abiertos",
+        "fpl": "abiertas"
+      },
+      "examples": [
+        {
+          "es": "¿Está abierto el museo hoy?",
+          "ru": "Музей сегодня открыт?",
+          "topic": "travel"
+        },
+        {
+          "es": "Es un proyecto de código abierto.",
+          "ru": "Это проект с открытым кодом.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "casado",
+      "lemma": "casado",
+      "pos": "adj",
+      "rank": 84,
+      "translations": {
+        "ru": "женатый, замужняя"
+      },
+      "forms": {
+        "f": "casada",
+        "pl": "casados",
+        "fpl": "casadas"
+      },
+      "examples": [
+        {
+          "es": "Estamos casados desde hace diez años.",
+          "ru": "Мы женаты десять лет.",
+          "topic": "daily"
+        },
+        {
+          "es": "¿Estás casada?",
+          "ru": "Ты замужем?",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "público",
+      "lemma": "público",
+      "pos": "adj",
+      "rank": 85,
+      "translations": {
+        "ru": "общественный, публичный"
+      },
+      "forms": {
+        "f": "pública",
+        "pl": "públicos",
+        "fpl": "públicas"
+      },
+      "examples": [
+        {
+          "es": "El transporte público es barato.",
+          "ru": "Общественный транспорт дешёвый.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es una API pública.",
+          "ru": "Это публичный API.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "rico",
+      "lemma": "rico",
+      "pos": "adj",
+      "rank": 86,
+      "translations": {
+        "ru": "богатый; вкусный"
+      },
+      "pair": "en:rich",
+      "forms": {
+        "f": "rica",
+        "pl": "ricos",
+        "fpl": "ricas"
+      },
+      "examples": [
+        {
+          "es": "¡Qué rica está la paella!",
+          "ru": "Какая вкусная паэлья!",
+          "topic": "travel"
+        },
+        {
+          "es": "Es un barrio rico.",
+          "ru": "Это богатый район.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "conocido",
+      "lemma": "conocido",
+      "pos": "adj",
+      "rank": 87,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "известный; знакомый"
+      },
+      "forms": {
+        "f": "conocida",
+        "pl": "conocidos",
+        "fpl": "conocidas"
+      },
+      "examples": [
+        {
+          "es": "Es un restaurante muy conocido.",
+          "ru": "Это очень известный ресторан.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es un error conocido.",
+          "ru": "Это известная ошибка.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "vestido",
+      "lemma": "vestido",
+      "pos": "adj",
+      "rank": 88,
+      "translations": {
+        "ru": "одетый"
+      },
+      "forms": {
+        "f": "vestida",
+        "pl": "vestidos",
+        "fpl": "vestidas"
+      },
+      "examples": [
+        {
+          "es": "Ya estoy vestido, nos vamos.",
+          "ru": "Я уже одет, пошли.",
+          "topic": "travel"
+        },
+        {
+          "es": "Ven vestida de forma informal.",
+          "ru": "Приходи одетой неформально.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "horrible",
+      "lemma": "horrible",
+      "pos": "adj",
+      "rank": 89,
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "ужасный"
+      },
+      "forms": {
+        "f": "horrible",
+        "pl": "horribles",
+        "fpl": "horribles"
+      },
+      "examples": [
+        {
+          "es": "El tiempo es horrible hoy.",
+          "ru": "Погода сегодня ужасная.",
+          "topic": "travel"
+        },
+        {
+          "es": "El código es horrible, pero funciona.",
+          "ru": "Код ужасный, но работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "peligroso",
+      "lemma": "peligroso",
+      "pos": "adj",
+      "rank": 90,
+      "translations": {
+        "ru": "опасный"
+      },
+      "pair": "en:dangerous",
+      "forms": {
+        "f": "peligrosa",
+        "pl": "peligrosos",
+        "fpl": "peligrosas"
+      },
+      "examples": [
+        {
+          "es": "¿Es peligroso nadar aquí?",
+          "ru": "Здесь опасно купаться?",
+          "topic": "travel"
+        },
+        {
+          "es": "Es peligroso borrar esa tabla.",
+          "ru": "Опасно удалять эту таблицу.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "interesante",
+      "lemma": "interesante",
+      "pos": "adj",
+      "rank": 91,
+      "translations": {
+        "ru": "интересный"
+      },
+      "pair": "en:interesting",
+      "forms": {
+        "f": "interesante",
+        "pl": "interesantes",
+        "fpl": "interesantes"
+      },
+      "examples": [
+        {
+          "es": "Es un museo muy interesante.",
+          "ru": "Это очень интересный музей.",
+          "topic": "travel"
+        },
+        {
+          "es": "Tengo una oferta de trabajo interesante.",
+          "ru": "У меня интересное предложение о работе.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "imposible",
+      "lemma": "imposible",
+      "pos": "adj",
+      "rank": 92,
+      "translations": {
+        "ru": "невозможный"
+      },
+      "forms": {
+        "f": "imposible",
+        "pl": "imposibles",
+        "fpl": "imposibles"
+      },
+      "examples": [
+        {
+          "es": "Es imposible aparcar en el centro.",
+          "ru": "В центре невозможно припарковаться.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es imposible terminar hoy.",
+          "ru": "Невозможно закончить сегодня.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "gracioso",
+      "lemma": "gracioso",
+      "pos": "adj",
+      "rank": 93,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "смешной, забавный"
+      },
+      "pair": "en:funny",
+      "forms": {
+        "f": "graciosa",
+        "pl": "graciosos",
+        "fpl": "graciosas"
+      },
+      "examples": [
+        {
+          "es": "El guía era muy gracioso.",
+          "ru": "Гид был очень забавный.",
+          "topic": "travel"
+        },
+        {
+          "es": "¡Qué gracioso tu meme!",
+          "ru": "Какой смешной у тебя мем!",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "terrible",
+      "lemma": "terrible",
+      "pos": "adj",
+      "rank": 94,
+      "translations": {
+        "ru": "ужасный"
+      },
+      "pair": "en:terrible",
+      "forms": {
+        "f": "terrible",
+        "pl": "terribles",
+        "fpl": "terribles"
+      },
+      "examples": [
+        {
+          "es": "El tráfico es terrible a esta hora.",
+          "ru": "В это время пробки ужасные.",
+          "topic": "travel"
+        },
+        {
+          "es": "Tuve un día terrible en el trabajo.",
+          "ru": "У меня был ужасный день на работе.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "completo",
+      "lemma": "completo",
+      "pos": "adj",
+      "rank": 95,
+      "translations": {
+        "ru": "полный, весь; заполненный"
+      },
+      "forms": {
+        "f": "completa",
+        "pl": "completos",
+        "fpl": "completas"
+      },
+      "examples": [
+        {
+          "es": "El hotel está completo.",
+          "ru": "В отеле нет мест.",
+          "topic": "travel"
+        },
+        {
+          "es": "Escribe tu nombre completo.",
+          "ru": "Напиши своё полное имя.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "preocupado",
+      "lemma": "preocupado",
+      "pos": "adj",
+      "rank": 96,
+      "translations": {
+        "ru": "обеспокоенный"
+      },
+      "forms": {
+        "f": "preocupada",
+        "pl": "preocupados",
+        "fpl": "preocupadas"
+      },
+      "examples": [
+        {
+          "es": "Estoy preocupado, el vuelo se retrasa.",
+          "ru": "Я волнуюсь, рейс задерживается.",
+          "topic": "travel"
+        },
+        {
+          "es": "El cliente está preocupado por la fecha.",
+          "ru": "Клиента беспокоит срок.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "amable",
+      "lemma": "amable",
+      "pos": "adj",
+      "rank": 97,
+      "translations": {
+        "ru": "любезный, добрый"
+      },
+      "forms": {
+        "f": "amable",
+        "pl": "amables",
+        "fpl": "amables"
+      },
+      "examples": [
+        {
+          "es": "Es usted muy amable.",
+          "ru": "Вы очень любезны.",
+          "topic": "travel"
+        },
+        {
+          "es": "El equipo es muy amable conmigo.",
+          "ru": "Команда очень добра ко мне.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "antiguo",
+      "lemma": "antiguo",
+      "pos": "adj",
+      "rank": 98,
+      "translations": {
+        "ru": "старинный; бывший"
+      },
+      "forms": {
+        "f": "antigua",
+        "pl": "antiguos",
+        "fpl": "antiguas"
+      },
+      "examples": [
+        {
+          "es": "Visitamos el barrio antiguo.",
+          "ru": "Мы посетили старый квартал.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es mi antiguo jefe.",
+          "ru": "Это мой бывший начальник.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "izquierdo",
+      "lemma": "izquierdo",
+      "pos": "adj",
+      "rank": 99,
+      "rules": [
+        "es-z",
+        "es-qu"
+      ],
+      "translations": {
+        "ru": "левый"
+      },
+      "forms": {
+        "f": "izquierda",
+        "pl": "izquierdos",
+        "fpl": "izquierdas"
+      },
+      "examples": [
+        {
+          "es": "La salida está a mano izquierda.",
+          "ru": "Выход по левую руку.",
+          "topic": "travel"
+        },
+        {
+          "es": "Haz clic con el botón izquierdo.",
+          "ru": "Нажми левую кнопку мыши.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "bajo",
+      "lemma": "bajo",
+      "pos": "adj",
+      "rank": 100,
+      "translations": {
+        "ru": "низкий; тихий"
+      },
+      "forms": {
+        "f": "baja",
+        "pl": "bajos",
+        "fpl": "bajas"
+      },
+      "examples": [
+        {
+          "es": "Habla en voz baja, por favor.",
+          "ru": "Говори тихо, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "es": "El precio es bastante bajo.",
+          "ru": "Цена довольно низкая.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-sound-01",
+  "lang": "es",
+  "kind": "sound",
+  "code": "ES-P1",
+  "order": 1,
+  "level": "A1",
+  "title": {
+    "ru": "Алфавит и диктовка по буквам",
+    "en": "The alphabet and spelling out",
+    "es": "El alfabeto y deletrear"
+  },
+  "letters": [
+    {
+      "letter": "a",
+      "name": "a"
+    },
+    {
+      "letter": "b",
+      "name": "be"
+    },
+    {
+      "letter": "c",
+      "name": "ce"
+    },
+    {
+      "letter": "d",
+      "name": "de"
+    },
+    {
+      "letter": "e",
+      "name": "e"
+    },
+    {
+      "letter": "f",
+      "name": "efe"
+    },
+    {
+      "letter": "g",
+      "name": "ge"
+    },
+    {
+      "letter": "h",
+      "name": "hache"
+    },
+    {
+      "letter": "i",
+      "name": "i"
+    },
+    {
+      "letter": "j",
+      "name": "jota"
+    },
+    {
+      "letter": "k",
+      "name": "ka"
+    },
+    {
+      "letter": "l",
+      "name": "ele"
+    },
+    {
+      "letter": "m",
+      "name": "eme"
+    },
+    {
+      "letter": "n",
+      "name": "ene"
+    },
+    {
+      "letter": "ñ",
+      "name": "eñe",
+      "ipa": "ɲ"
+    },
+    {
+      "letter": "o",
+      "name": "o"
+    },
+    {
+      "letter": "p",
+      "name": "pe"
+    },
+    {
+      "letter": "q",
+      "name": "cu"
+    },
+    {
+      "letter": "r",
+      "name": "erre"
+    },
+    {
+      "letter": "s",
+      "name": "ese"
+    },
+    {
+      "letter": "t",
+      "name": "te"
+    },
+    {
+      "letter": "u",
+      "name": "u"
+    },
+    {
+      "letter": "v",
+      "name": "uve"
+    },
+    {
+      "letter": "w",
+      "name": "uve doble"
+    },
+    {
+      "letter": "x",
+      "name": "equis"
+    },
+    {
+      "letter": "y",
+      "name": "ye"
+    },
+    {
+      "letter": "z",
+      "name": "zeta"
+    }
+  ],
+  "rules": [
+    {
+      "id": "es-n-tilde",
+      "title": {
+        "ru": "ñ — отдельная буква",
+        "en": "ñ is a separate letter",
+        "es": "La ñ es una letra"
+      },
+      "text": {
+        "ru": "ñ читается как мягкое «нь» [ɲ] и стоит в алфавите после n. Без тильды это другое слово: año «год», ano — совсем не то.",
+        "en": "ñ sounds like “ny” in canyon [ɲ] and comes after n. Without the tilde it is a different word: año “year”.",
+        "es": "La ñ suena [ɲ] y va después de la n en el alfabeto. Sin tilde es otra palabra."
+      },
+      "ipa": "ɲ",
+      "examples": [
+        {
+          "es": "año",
+          "ru": "год"
+        },
+        {
+          "es": "mañana",
+          "ru": "завтра; утро"
+        },
+        {
+          "es": "España",
+          "ru": "Испания"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "spell",
+      "items": [
+        "García",
+        "Peña",
+        "ana.garcia@mail.com"
+      ]
+    },
+    {
+      "type": "pairs",
+      "items": [
+        [
+          "pena",
+          "peña"
+        ],
+        [
+          "mono",
+          "moño"
+        ]
+      ]
+    },
+    {
+      "type": "dictation",
+      "items": [
+        "año",
+        "mañana",
+        "España"
+      ]
+    }
+  ]
+}

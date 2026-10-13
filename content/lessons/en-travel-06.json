@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-06",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 6,
+  "level": "B1",
+  "title": {
+    "ru": "Счёт и чаевые",
+    "en": "The bill and the tip",
+    "es": "La cuenta y la propina"
+  },
+  "words": [
+    "include",
+    "bill",
+    "tip",
+    "extra"
+  ],
+  "phrase": {
+    "en": "Is the tip included in the bill?",
+    "ru": "Чаевые включены в счёт?",
+    "es": "¿La propina está incluida en la cuenta?"
+  },
+  "rule": {
+    "text": {
+      "ru": "«Включено ли» — пассив: be + 3-я форма — Is breakfast included? Is the tip included? «Доплата» — an extra charge.",
+      "en": "For “is it included?” use the passive: be + past participle — Is breakfast included? An extra charge is money you pay on top.",
+      "es": "«¿Está incluido?» — pasiva be + participio: Is breakfast included? an extra charge — un cargo adicional."
+    },
+    "examples": [
+      {
+        "en": "Breakfast is included in the price.",
+        "ru": "Завтрак включён в цену."
+      },
+      {
+        "en": "Is there an extra charge for parking?",
+        "ru": "За парковку есть доплата?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Is breakfast ___?",
+      "answer": "included",
+      "ru": "Завтрак включён?"
+    },
+    {
+      "type": "fill",
+      "en": "Could we have the ___, please?",
+      "answer": "bill",
+      "ru": "Можно счёт, пожалуйста?"
+    },
+    {
+      "type": "build",
+      "en": "There is an extra charge for the tip.",
+      "ru": "За чаевые есть доплата.",
+      "extra": [
+        "include"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Чаевые включены?",
+      "answer": [
+        "Is the tip included?",
+        "Is tip included?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

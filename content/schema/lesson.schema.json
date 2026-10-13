@@ -1,0 +1,793 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://2lang.local/schema/lesson.v1.json",
+  "title": "2Lang lesson v1",
+  "description": "Structural contract. Gaps, original/translation per lesson language, distinct words in pairs, uniqueness of id/order/rule ids, prerequisites and dictionary references are checked by the app validator — see .flow/lesson-format.md.",
+  "type": "object",
+  "required": [
+    "format",
+    "version",
+    "id",
+    "lang",
+    "kind",
+    "order",
+    "title"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "format": {
+      "const": "2lang/lesson"
+    },
+    "version": {
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "lang": {
+      "type": "string",
+      "pattern": "^[a-z]{2}$"
+    },
+    "kind": {
+      "enum": [
+        "words",
+        "sound",
+        "grammar"
+      ]
+    },
+    "topic": {
+      "enum": [
+        "travel",
+        "it",
+        "daily"
+      ]
+    },
+    "order": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "title": {
+      "$ref": "#/$defs/localized"
+    },
+    "requires": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      }
+    },
+    "level": {
+      "enum": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ]
+    },
+    "ext": {
+      "type": "object"
+    },
+    "words": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "phrase": {
+      "type": "object",
+      "minProperties": 2,
+      "properties": {
+        "note": {
+          "$ref": "#/$defs/localized"
+        },
+        "ext": {
+          "type": "object"
+        }
+      },
+      "patternProperties": {
+        "^[a-z]{2}$": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
+    },
+    "rule": {
+      "type": "object"
+    },
+    "exercises": {
+      "type": "array"
+    },
+    "code": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}-[A-Z]?\\d+$"
+    },
+    "letters": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/letter"
+      }
+    },
+    "rules": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/readingRule"
+      }
+    },
+    "pattern": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/example"
+      }
+    },
+    "bridge": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/bridge"
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "kind": {
+            "const": "words"
+          }
+        },
+        "required": [
+          "kind"
+        ]
+      },
+      "then": {
+        "required": [
+          "topic",
+          "words",
+          "phrase"
+        ],
+        "properties": {
+          "exercises": {
+            "items": {
+              "$ref": "#/$defs/exercise"
+            }
+          },
+          "letters": false,
+          "rules": false,
+          "rule": {
+            "type": "object",
+            "required": [
+              "text"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "text": {
+                "$ref": "#/$defs/localized"
+              },
+              "examples": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/$defs/example"
+                }
+              },
+              "ext": {
+                "type": "object"
+              }
+            }
+          },
+          "pattern": false,
+          "bridge": false
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "kind": {
+            "const": "sound"
+          }
+        },
+        "required": [
+          "kind"
+        ]
+      },
+      "then": {
+        "not": {
+          "required": [
+            "topic"
+          ]
+        },
+        "anyOf": [
+          {
+            "required": [
+              "letters"
+            ]
+          },
+          {
+            "required": [
+              "rules"
+            ]
+          }
+        ],
+        "properties": {
+          "exercises": {
+            "items": {
+              "$ref": "#/$defs/soundExercise"
+            }
+          },
+          "words": false,
+          "phrase": false,
+          "rule": false,
+          "pattern": false,
+          "bridge": false
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "kind": {
+            "const": "grammar"
+          }
+        },
+        "required": [
+          "kind"
+        ]
+      },
+      "then": {
+        "not": {
+          "required": [
+            "topic"
+          ]
+        },
+        "required": [
+          "pattern",
+          "rule"
+        ],
+        "properties": {
+          "rule": {
+            "$ref": "#/$defs/grammarRule"
+          },
+          "exercises": {
+            "items": {
+              "$ref": "#/$defs/grammarExercise"
+            }
+          },
+          "phrase": false,
+          "letters": false,
+          "rules": false
+        }
+      }
+    }
+  ],
+  "$defs": {
+    "localized": {
+      "type": "object",
+      "minProperties": 1,
+      "propertyNames": {
+        "pattern": "^[a-z]{2}$"
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "exercise": {
+      "type": "object",
+      "required": [
+        "type"
+      ],
+      "patternProperties": {
+        "^[a-z]{2}$": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false,
+      "properties": {
+        "type": {
+          "enum": [
+            "fill",
+            "build",
+            "translate"
+          ]
+        },
+        "answer": {
+          "oneOf": [
+            {
+              "type": "string",
+              "minLength": 1
+            },
+            {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          ]
+        },
+        "extra": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "ext": {
+          "type": "object"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "enum": [
+                  "fill",
+                  "translate"
+                ]
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "answer"
+            ]
+          }
+        }
+      ]
+    },
+    "letter": {
+      "type": "object",
+      "required": [
+        "letter",
+        "name"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "letter": {
+          "type": "string",
+          "minLength": 1
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "ipa": {
+          "type": "string",
+          "minLength": 1
+        },
+        "audio": {
+          "type": "string",
+          "pattern": "^audio/[a-z]{2}/[a-z0-9_\\-/]+\\.(mp3|ogg|m4a)$"
+        },
+        "ext": {
+          "type": "object"
+        }
+      }
+    },
+    "readingRule": {
+      "type": "object",
+      "required": [
+        "id",
+        "title",
+        "text",
+        "examples"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+        },
+        "title": {
+          "$ref": "#/$defs/localized"
+        },
+        "text": {
+          "$ref": "#/$defs/localized"
+        },
+        "ipa": {
+          "type": "string",
+          "minLength": 1
+        },
+        "audio": {
+          "type": "string",
+          "pattern": "^audio/[a-z]{2}/[a-z0-9_\\-/]+\\.(mp3|ogg|m4a)$"
+        },
+        "ext": {
+          "type": "object"
+        },
+        "examples": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "minProperties": 1,
+            "properties": {
+              "ext": {
+                "type": "object"
+              }
+            },
+            "patternProperties": {
+              "^[a-z]{2}$": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "additionalProperties": false
+          }
+        }
+      }
+    },
+    "soundExercise": {
+      "type": "object",
+      "required": [
+        "type",
+        "items"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "type": {
+          "enum": [
+            "pairs",
+            "read",
+            "dictation",
+            "spell"
+          ]
+        },
+        "items": {
+          "type": "array",
+          "minItems": 1
+        },
+        "ext": {
+          "type": "object"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "pairs"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "items": {
+                "items": {
+                  "type": "array",
+                  "minItems": 2,
+                  "maxItems": 2,
+                  "items": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                }
+              }
+            }
+          },
+          "else": {
+            "properties": {
+              "items": {
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "example": {
+      "type": "object",
+      "minProperties": 2,
+      "properties": {
+        "ext": {
+          "type": "object"
+        }
+      },
+      "patternProperties": {
+        "^[a-z]{2}$": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
+    },
+    "grammarRule": {
+      "type": "object",
+      "required": [
+        "text"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "text": {
+          "$ref": "#/$defs/localized"
+        },
+        "formula": {
+          "type": "string",
+          "minLength": 1
+        },
+        "ext": {
+          "type": "object"
+        },
+        "table": {
+          "type": "object",
+          "required": [
+            "head",
+            "rows"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "head": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "string"
+              }
+            },
+            "rows": {
+              "type": "array",
+              "items": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        },
+        "timeline": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "from"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "from": {
+                "enum": [
+                  "past",
+                  "now",
+                  "future"
+                ]
+              },
+              "until": {
+                "enum": [
+                  "past",
+                  "now",
+                  "future"
+                ]
+              },
+              "label": {
+                "$ref": "#/$defs/localized"
+              }
+            }
+          }
+        }
+      }
+    },
+    "bridge": {
+      "type": "object",
+      "required": [
+        "lang"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "lang": {
+          "type": "string",
+          "pattern": "^[a-z]{2}$"
+        },
+        "formula": {
+          "type": "string",
+          "minLength": 1
+        },
+        "examples": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/example"
+          }
+        },
+        "note": {
+          "$ref": "#/$defs/localized"
+        },
+        "ext": {
+          "type": "object"
+        }
+      }
+    },
+    "grammarExercise": {
+      "type": "object",
+      "required": [
+        "type"
+      ],
+      "patternProperties": {
+        "^[a-z]{2}$": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false,
+      "properties": {
+        "type": {
+          "enum": [
+            "transform",
+            "choose",
+            "fill",
+            "build",
+            "compose"
+          ]
+        },
+        "answer": {
+          "oneOf": [
+            {
+              "type": "string",
+              "minLength": 1
+            },
+            {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          ]
+        },
+        "extra": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "into": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": [
+              "form",
+              "answer"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "form": {
+                "enum": [
+                  "negative",
+                  "question",
+                  "wh-question",
+                  "imperative",
+                  "polite",
+                  "past",
+                  "future"
+                ]
+              },
+              "answer": {
+                "oneOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  {
+                    "type": "array",
+                    "minItems": 1,
+                    "items": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "options": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "prompt": {
+          "$ref": "#/$defs/localized"
+        },
+        "template": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sample": {
+          "oneOf": [
+            {
+              "type": "string",
+              "minLength": 1
+            },
+            {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          ]
+        },
+        "ext": {
+          "type": "object"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "transform"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "into"
+            ]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "choose"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "options",
+              "answer"
+            ]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "fill"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "answer"
+            ]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "compose"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "prompt",
+              "sample"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-08",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 8,
+  "level": "A1",
+  "title": {
+    "ru": "Переименовать файл",
+    "en": "Rename the file",
+    "es": "Cambiar el nombre"
+  },
+  "words": [
+    "cambiar",
+    "nombre",
+    "fácil",
+    "antes"
+  ],
+  "phrase": {
+    "es": "¿Es fácil cambiar el nombre del archivo?",
+    "ru": "Легко поменять имя файла?",
+    "en": "Is it easy to rename the file?"
+  },
+  "rule": {
+    "text": {
+      "ru": "es fácil / es difícil + инфинитив — «легко / трудно сделать»: Es fácil cambiar el nombre. antes de + инфинитив — «перед тем как»: antes de salir.",
+      "en": "es fácil / es difícil + infinitive — “it’s easy / hard to do”: Es fácil cambiar el nombre. antes de + infinitive — “before doing”: antes de salir.",
+      "es": "es fácil / difícil + infinitivo: Es fácil cambiar el nombre. antes de + infinitivo: antes de salir."
+    },
+    "examples": [
+      {
+        "es": "Es fácil usar la app.",
+        "ru": "Приложением легко пользоваться."
+      },
+      {
+        "es": "Cambia el nombre antes de enviar el archivo.",
+        "ru": "Поменяй имя перед отправкой файла."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Quiero ___ el nombre del proyecto.",
+      "answer": "cambiar",
+      "ru": "Я хочу поменять название проекта."
+    },
+    {
+      "type": "fill",
+      "es": "No es ___.",
+      "answer": "fácil",
+      "ru": "Это не легко."
+    },
+    {
+      "type": "build",
+      "es": "Es fácil cambiar el nombre.",
+      "ru": "Поменять имя легко.",
+      "extra": [
+        "difícil"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Можно поменять имя?",
+      "answer": [
+        "¿Puedo cambiar el nombre?",
+        "¿Se puede cambiar el nombre?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

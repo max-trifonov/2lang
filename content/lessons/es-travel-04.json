@@ -1,0 +1,77 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-04",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 4,
+  "level": "A1",
+  "title": {
+    "ru": "Билет на завтра",
+    "en": "A ticket for tomorrow",
+    "es": "Un billete para mañana"
+  },
+  "words": [
+    "querer",
+    "comprar",
+    "billete",
+    "mañana"
+  ],
+  "phrase": {
+    "es": "Quiero comprar un billete para mañana.",
+    "ru": "Я хочу купить билет на завтра.",
+    "en": "I want to buy a ticket for tomorrow."
+  },
+  "rule": {
+    "text": {
+      "ru": "querer + инфинитив — «хотеть сделать»: Quiero comprar. Меняется только querer (quiero, quieres, quiere…), второй глагол всегда в начальной форме.",
+      "en": "querer + infinitive means “want to do”: Quiero comprar. Only querer changes (quiero, quieres, quiere…); the second verb stays in the infinitive.",
+      "es": "querer + infinitivo: Quiero comprar. Solo cambia querer (quiero, quieres, quiere…); el segundo verbo va en infinitivo."
+    },
+    "examples": [
+      {
+        "es": "Quiero viajar a Madrid.",
+        "ru": "Я хочу поехать в Мадрид."
+      },
+      {
+        "es": "¿Quieres comer algo?",
+        "ru": "Хочешь что-нибудь съесть?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "___ comprar dos billetes.",
+      "answer": "Quiero",
+      "ru": "Я хочу купить два билета."
+    },
+    {
+      "type": "fill",
+      "es": "Quiero ___ un billete de tren.",
+      "answer": "comprar",
+      "ru": "Я хочу купить билет на поезд."
+    },
+    {
+      "type": "build",
+      "es": "¿Quieres comprar el billete mañana?",
+      "ru": "Хочешь купить билет завтра?",
+      "extra": [
+        "quiero"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я хочу купить билет.",
+      "answer": [
+        "Quiero comprar un billete.",
+        "Yo quiero comprar un billete.",
+        "Quiero comprar el billete."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-01",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 1,
+  "level": "B1",
+  "title": {
+    "ru": "Баг уже исправил?",
+    "en": "Fixed the bug yet?",
+    "es": "¿Ya arreglaste el error?"
+  },
+  "words": [
+    "fix",
+    "bug",
+    "yet"
+  ],
+  "phrase": {
+    "en": "Have you fixed the bug yet?",
+    "ru": "Ты уже исправил баг?",
+    "es": "¿Ya has arreglado el error?"
+  },
+  "rule": {
+    "text": {
+      "ru": "yet — в вопросах «уже?» и в отрицаниях «ещё не», стоит в конце: Have you fixed it yet? I haven't fixed it yet. В утверждении «уже» — already.",
+      "en": "yet is used in questions (“already?”) and negatives (“not yet”), at the end: Have you fixed it yet? I haven’t fixed it yet. In positive sentences use already.",
+      "es": "yet va al final en preguntas y negaciones: Have you fixed it yet? I haven’t fixed it yet. En afirmativas, already."
+    },
+    "examples": [
+      {
+        "en": "I haven't fixed it yet.",
+        "ru": "Я ещё не исправил."
+      },
+      {
+        "en": "This bug only happens on Android.",
+        "ru": "Этот баг бывает только на Android."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Have you ___ the login bug yet?",
+      "answer": "fixed",
+      "ru": "Ты уже исправил баг со входом?"
+    },
+    {
+      "type": "fill",
+      "en": "I haven't tested it ___.",
+      "answer": "yet",
+      "ru": "Я ещё это не протестировал."
+    },
+    {
+      "type": "build",
+      "en": "We haven't fixed the bug yet.",
+      "ru": "Мы ещё не исправили баг.",
+      "extra": [
+        "already"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Ты уже исправил баг?",
+      "answer": [
+        "Have you fixed the bug yet?",
+        "Did you fix the bug yet?",
+        "Have you already fixed the bug?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

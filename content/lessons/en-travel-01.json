@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-01",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 1,
+  "level": "B1",
+  "title": {
+    "ru": "Заселение: подтвердите бронь",
+    "en": "Check-in: confirm my booking",
+    "es": "Check-in: confirme mi reserva"
+  },
+  "words": [
+    "confirm",
+    "hotel",
+    "already"
+  ],
+  "phrase": {
+    "en": "Could you confirm my booking? I've already paid online.",
+    "ru": "Не могли бы вы подтвердить мою бронь? Я уже оплатил онлайн.",
+    "es": "¿Podría confirmar mi reserva? Ya he pagado en línea."
+  },
+  "rule": {
+    "text": {
+      "ru": "Вежливая просьба — Could you + глагол: Could you confirm…? «Уже сделал» с результатом сейчас — Present Perfect: I have (I've) already paid; already — между have и глаголом.",
+      "en": "A polite request is Could you + verb: Could you confirm…? For a result that matters now, use the Present Perfect: I have (I’ve) already paid; already goes between have and the verb.",
+      "es": "Petición cortés: Could you + verbo. Resultado presente: Present Perfect — I have already paid; already va entre have y el verbo."
+    },
+    "examples": [
+      {
+        "en": "I've already checked in.",
+        "ru": "Я уже заселился."
+      },
+      {
+        "en": "Could you call a taxi for us?",
+        "ru": "Не могли бы вы вызвать нам такси?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Could you ___ my reservation, please?",
+      "answer": "confirm",
+      "ru": "Не могли бы вы подтвердить мою бронь?"
+    },
+    {
+      "type": "fill",
+      "en": "I've ___ paid for the room.",
+      "answer": "already",
+      "ru": "Я уже оплатил номер."
+    },
+    {
+      "type": "build",
+      "en": "The hotel has already confirmed our booking.",
+      "ru": "Отель уже подтвердил нашу бронь.",
+      "extra": [
+        "confirm"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я уже оплатил.",
+      "answer": [
+        "I've already paid.",
+        "I have already paid."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,124 @@
+:root {
+  --ion-safe-area-top: env(safe-area-inset-top, 0px);
+  --ion-safe-area-right: env(safe-area-inset-right, 0px);
+  --ion-safe-area-bottom: env(safe-area-inset-bottom, 0px);
+  --ion-safe-area-left: env(safe-area-inset-left, 0px);
+
+  --motion-duration-sheet: 200ms;
+  --motion-duration-fade: 150ms;
+  --motion-duration-pop: 320ms;
+  --motion-ease-standard: cubic-bezier(0.4, 0, 0.2, 1);
+  --motion-ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+
+  --ion-toolbar-background: var(--color-bg);
+  --ion-toolbar-border-color: transparent;
+  --ion-tab-bar-background: var(--color-surface);
+  --ion-tab-bar-border-color: var(--color-stroke);
+  --ion-tab-bar-color: var(--color-fg-subtle);
+  --ion-tab-bar-color-selected: var(--color-fg);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --motion-duration-sheet: 0ms;
+    --motion-duration-fade: 0ms;
+    --motion-duration-pop: 0ms;
+  }
+}
+
+html,
+body {
+  overflow-x: hidden;
+  overscroll-behavior-x: none;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-feature-settings: 'ss01';
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 650;
+  letter-spacing: -0.015em;
+  line-height: 1.2;
+}
+
+ion-content {
+  --padding-top: calc(var(--size-gutter) * 0.75);
+  --padding-bottom: calc(var(--size-gutter) * 1.5 + var(--ion-safe-area-bottom));
+  --padding-start: calc(var(--size-gutter) + var(--ion-safe-area-left));
+  --padding-end: calc(var(--size-gutter) + var(--ion-safe-area-right));
+}
+
+ion-header.header-md {
+  box-shadow: none;
+}
+
+ion-header ion-toolbar:first-of-type {
+  --border-width: 0;
+}
+
+ion-toolbar {
+  --padding-top: calc(var(--size-gutter) * 0.33);
+  --padding-bottom: calc(var(--size-gutter) * 0.33);
+  --padding-start: calc(var(--size-gutter) * 0.5 + var(--ion-safe-area-left));
+  --padding-end: calc(var(--size-gutter) * 0.5 + var(--ion-safe-area-right));
+}
+
+ion-back-button {
+  --color: var(--color-fg);
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+ion-title {
+  font-size: var(--fs-h3);
+  font-weight: 650;
+  letter-spacing: -0.01em;
+}
+
+/* Полоса прогресса урока — в цвете языка, толстая и скруглённая. */
+ion-progress-bar {
+  --background: var(--color-chip);
+  --progress-background: var(--tint, var(--color-fg));
+  height: 8px;
+  margin: 0 var(--size-gutter) 6px;
+  width: auto;
+  border-radius: var(--radius-xl);
+}
+
+ion-tab-bar {
+  height: calc(64px + var(--ion-safe-area-bottom));
+  padding-bottom: var(--ion-safe-area-bottom);
+  border-top: 1px solid var(--color-stroke);
+}
+
+ion-tab-button {
+  --ripple-color: transparent;
+  font-weight: 600;
+}
+
+ion-tab-button ion-icon {
+  width: 52px;
+  height: 30px;
+  padding: 4px 0;
+  border-radius: var(--radius-xl);
+  transition: background-color var(--motion-duration-fade) var(--motion-ease-standard);
+}
+
+ion-tab-button.tab-selected ion-icon {
+  background: var(--color-chip);
+}
+
+ion-tab-button ion-label {
+  margin-top: 2px;
+  font-size: 0.6875rem;
+}
+
+:focus-visible {
+  outline: 2px solid var(--tint, var(--color-fg));
+  outline-offset: 2px;
+}

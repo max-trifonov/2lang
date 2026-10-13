@@ -1,0 +1,10 @@
+:root {
+  --fs-display: calc(var(--font-base) * var(--font-scale) * 2);
+  --fs-h1: calc(var(--font-base) * var(--font-scale) * 1.375);
+  --fs-h2: calc(var(--font-base) * var(--font-scale) * 1.25);
+  --fs-h3: calc(var(--font-base) * var(--font-scale) * 1.125);
+  --fs-body: calc(var(--font-base) * var(--font-scale) * 1);
+  --fs-meta: calc(var(--font-base) * var(--font-scale) * 0.875);
+  --fs-small: calc(var(--font-base) * var(--font-scale) * 0.8125);
+  --fs-tag: calc(var(--font-base) * var(--font-scale) * 0.625);
+}

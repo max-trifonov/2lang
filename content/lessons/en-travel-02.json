@@ -1,0 +1,80 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-02",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 2,
+  "level": "B1",
+  "title": {
+    "ru": "Рейс отменили",
+    "en": "The flight is cancelled",
+    "es": "Han cancelado el vuelo"
+  },
+  "words": [
+    "cancel",
+    "flight",
+    "unfortunately"
+  ],
+  "phrase": {
+    "en": "Unfortunately, our flight has been cancelled.",
+    "ru": "К сожалению, наш рейс отменили.",
+    "es": "Por desgracia, han cancelado nuestro vuelo."
+  },
+  "rule": {
+    "text": {
+      "ru": "Когда неважно, кто сделал, — пассив: has been + 3-я форма. Русское «рейс отменили» = The flight has been cancelled. Unfortunately обычно в начале, через запятую.",
+      "en": "When who did it doesn’t matter, use the passive: has been + past participle. The flight has been cancelled. Unfortunately usually starts the sentence, followed by a comma.",
+      "es": "Cuando no importa quién lo hizo: pasiva has been + participio — The flight has been cancelled. Unfortunately suele ir al principio."
+    },
+    "examples": [
+      {
+        "en": "The train has been delayed.",
+        "ru": "Поезд задержали."
+      },
+      {
+        "en": "Unfortunately, the hotel is full.",
+        "ru": "К сожалению, отель заполнен."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Our flight has been ___.",
+      "answer": [
+        "cancelled",
+        "canceled"
+      ],
+      "ru": "Наш рейс отменили."
+    },
+    {
+      "type": "fill",
+      "en": "___, the museum is closed today.",
+      "answer": "Unfortunately",
+      "ru": "К сожалению, музей сегодня закрыт."
+    },
+    {
+      "type": "build",
+      "en": "Unfortunately, the flight has been cancelled.",
+      "ru": "К сожалению, рейс отменили.",
+      "extra": [
+        "cancel"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Рейс отменили.",
+      "answer": [
+        "The flight has been cancelled.",
+        "The flight has been canceled.",
+        "The flight was cancelled.",
+        "The flight was canceled."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

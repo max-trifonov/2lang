@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-05",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 5,
+  "level": "A1",
+  "title": {
+    "ru": "Компьютер барахлит",
+    "en": "My computer is acting up",
+    "es": "El ordenador no funciona bien"
+  },
+  "words": [
+    "funcionar",
+    "ordenador",
+    "pantalla",
+    "bien"
+  ],
+  "phrase": {
+    "es": "Mi ordenador no funciona bien.",
+    "ru": "Мой компьютер плохо работает.",
+    "en": "My computer isn't working well."
+  },
+  "rule": {
+    "text": {
+      "ru": "funcionar — «работать» о технике, а о людях — trabajar: El ordenador funciona, yo trabajo. Отрицание — no перед глаголом: no funciona.",
+      "en": "funcionar is “to work” for machines; for people it’s trabajar: El ordenador funciona, yo trabajo. Negation — no before the verb: no funciona.",
+      "es": "funcionar (máquinas) y trabajar (personas): El ordenador funciona, yo trabajo. Negación: no funciona."
+    },
+    "examples": [
+      {
+        "es": "La pantalla no funciona.",
+        "ru": "Экран не работает."
+      },
+      {
+        "es": "Ahora todo funciona bien.",
+        "ru": "Теперь всё работает хорошо."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "El ordenador no ___.",
+      "answer": "funciona",
+      "ru": "Компьютер не работает."
+    },
+    {
+      "type": "fill",
+      "es": "La ___ está negra.",
+      "answer": "pantalla",
+      "ru": "Экран чёрный."
+    },
+    {
+      "type": "build",
+      "es": "Mi pantalla no funciona bien.",
+      "ru": "Мой экран плохо работает.",
+      "extra": [
+        "trabaja"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Компьютер работает хорошо.",
+      "answer": [
+        "El ordenador funciona bien.",
+        "Mi ordenador funciona bien."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

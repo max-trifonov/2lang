@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-09",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 9,
+  "level": "A1",
+  "title": {
+    "ru": "Команда помогает",
+    "en": "The team helps",
+    "es": "El equipo me ayuda"
+  },
+  "words": [
+    "ayudar",
+    "equipo",
+    "semana",
+    "siempre"
+  ],
+  "phrase": {
+    "es": "Mi equipo siempre me ayuda.",
+    "ru": "Моя команда всегда мне помогает.",
+    "en": "My team always helps me."
+  },
+  "rule": {
+    "text": {
+      "ru": "me — «мне, меня», стоит перед глаголом: me ayuda — «помогает мне»; ¿Me ayudas? — «Поможешь мне?». esta semana — «на этой неделе», без предлога.",
+      "en": "me means “me” and goes before the verb: me ayuda — “helps me”; ¿Me ayudas? — “Can you help me?”. esta semana — “this week”, no preposition.",
+      "es": "me va delante del verbo: me ayuda; ¿Me ayudas? esta semana, sin preposición."
+    },
+    "examples": [
+      {
+        "es": "¿Me ayudas con el código?",
+        "ru": "Поможешь мне с кодом?"
+      },
+      {
+        "es": "Esta semana trabajamos en equipo.",
+        "ru": "На этой неделе мы работаем командой."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "¿Me ___ con la tarea?",
+      "answer": "ayudas",
+      "ru": "Поможешь мне с задачей?"
+    },
+    {
+      "type": "fill",
+      "es": "El ___ trabaja en el proyecto.",
+      "answer": "equipo",
+      "ru": "Команда работает над проектом."
+    },
+    {
+      "type": "build",
+      "es": "Esta semana el equipo me ayuda.",
+      "ru": "На этой неделе команда мне помогает.",
+      "extra": [
+        "ayudo"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Команда всегда помогает.",
+      "answer": [
+        "El equipo siempre ayuda.",
+        "El equipo ayuda siempre."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

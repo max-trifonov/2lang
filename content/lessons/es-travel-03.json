@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-03",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 3,
+  "level": "A1",
+  "title": {
+    "ru": "Близко или далеко?",
+    "en": "Near or far?",
+    "es": "¿Cerca o lejos?"
+  },
+  "words": [
+    "estar",
+    "calle",
+    "cerca",
+    "lejos"
+  ],
+  "phrase": {
+    "es": "¿El hotel está cerca o lejos?",
+    "ru": "Отель близко или далеко?",
+    "en": "Is the hotel near or far?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Где что находится — глагол estar: El hotel está cerca. «Рядом с чем-то» — cerca de, «далеко от» — lejos de: cerca de la estación.",
+      "en": "Where something is — the verb estar: El hotel está cerca. “Near something” is cerca de, “far from” is lejos de: cerca de la estación.",
+      "es": "Para decir dónde está algo usamos estar: El hotel está cerca. Cerca de, lejos de: cerca de la estación."
+    },
+    "examples": [
+      {
+        "es": "La playa está lejos.",
+        "ru": "Пляж далеко."
+      },
+      {
+        "es": "Estamos cerca de la calle Mayor.",
+        "ru": "Мы рядом с улицей Майор."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "El museo ___ en esta calle.",
+      "answer": "está",
+      "ru": "Музей на этой улице."
+    },
+    {
+      "type": "fill",
+      "es": "La playa está muy ___.",
+      "answer": "lejos",
+      "ru": "Пляж очень далеко."
+    },
+    {
+      "type": "build",
+      "es": "La estación está cerca de aquí.",
+      "ru": "Вокзал недалеко отсюда.",
+      "extra": [
+        "lejos"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Улица далеко?",
+      "answer": [
+        "¿La calle está lejos?",
+        "¿Está lejos la calle?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

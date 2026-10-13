@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-07",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 7,
+  "level": "A1",
+  "title": {
+    "ru": "Можно оставить чемодан?",
+    "en": "Can I leave my suitcase?",
+    "es": "¿Puedo dejar la maleta?"
+  },
+  "words": [
+    "poder",
+    "dejar",
+    "maleta",
+    "ahí"
+  ],
+  "phrase": {
+    "es": "¿Puedo dejar la maleta aquí?",
+    "ru": "Можно оставить чемодан здесь?",
+    "en": "Can I leave the suitcase here?"
+  },
+  "rule": {
+    "text": {
+      "ru": "poder + инфинитив — «мочь сделать», а вопрос ¿Puedo…? — вежливое «можно?»: ¿Puedo pagar con tarjeta? aquí — здесь (у меня), ahí — там (у тебя, недалеко).",
+      "en": "poder + infinitive means “can do”; ¿Puedo…? is a polite “may I?”: ¿Puedo pagar con tarjeta? aquí — here (by me), ahí — there (by you, nearby).",
+      "es": "poder + infinitivo; ¿Puedo…? para pedir permiso: ¿Puedo pagar con tarjeta? aquí (cerca de mí), ahí (cerca de ti)."
+    },
+    "examples": [
+      {
+        "es": "¿Puedo dejar el coche ahí?",
+        "ru": "Можно оставить машину там?"
+      },
+      {
+        "es": "No puedo encontrar mi maleta.",
+        "ru": "Не могу найти свой чемодан."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "¿___ dejar la maleta en el hotel?",
+      "answer": "Puedo",
+      "ru": "Можно оставить чемодан в отеле?"
+    },
+    {
+      "type": "fill",
+      "es": "Puede ___ la maleta ahí.",
+      "answer": "dejar",
+      "ru": "Можете оставить чемодан там."
+    },
+    {
+      "type": "build",
+      "es": "¿Puedo dejar mi maleta ahí?",
+      "ru": "Можно оставить мой чемодан там?",
+      "extra": [
+        "puede"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Можно оставить чемодан?",
+      "answer": [
+        "¿Puedo dejar la maleta?",
+        "¿Puedo dejar mi maleta?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

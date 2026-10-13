@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-10",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 10,
+  "level": "B1",
+  "title": {
+    "ru": "Жалоба в отеле",
+    "en": "A complaint at the hotel",
+    "es": "Una queja en el hotel"
+  },
+  "words": [
+    "complain",
+    "view",
+    "quiet"
+  ],
+  "phrase": {
+    "en": "I'm afraid I have to complain: our room isn't quiet at all.",
+    "ru": "Боюсь, мне придётся пожаловаться: в нашем номере совсем не тихо.",
+    "es": "Me temo que tengo que quejarme: nuestra habitación no es nada tranquila."
+  },
+  "rule": {
+    "text": {
+      "ru": "Вежливо начать неприятное — I'm afraid…: I'm afraid there's a problem. complain about что-то, complain to кому-то: complain to the manager about the noise.",
+      "en": "Soften bad news with I’m afraid…: I’m afraid there’s a problem. complain about something, complain to someone: complain to the manager about the noise.",
+      "es": "Para suavizar: I’m afraid… complain about algo, complain to alguien."
+    },
+    "examples": [
+      {
+        "en": "We asked for a room with a sea view.",
+        "ru": "Мы просили номер с видом на море."
+      },
+      {
+        "en": "I want to complain to the manager.",
+        "ru": "Я хочу пожаловаться управляющему."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I want to ___ about the noise.",
+      "answer": "complain",
+      "ru": "Я хочу пожаловаться на шум."
+    },
+    {
+      "type": "fill",
+      "en": "Could we have a ___ room, please?",
+      "answer": "quiet",
+      "ru": "Можно нам тихий номер?"
+    },
+    {
+      "type": "build",
+      "en": "We would like a room with a view.",
+      "ru": "Мы бы хотели номер с видом.",
+      "extra": [
+        "about"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я хочу пожаловаться управляющему.",
+      "answer": [
+        "I want to complain to the manager.",
+        "I'd like to complain to the manager.",
+        "I would like to complain to the manager."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

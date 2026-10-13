@@ -1,0 +1,117 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "mambru-se-fue-a-la-guerra",
+  "kind": "song",
+  "lang": "es",
+  "license": "public-domain",
+  "title": {
+    "es": "Mambrú se fue a la guerra",
+    "ru": "Мамбрю ушёл на войну",
+    "en": "Mambrú Went to War"
+  },
+  "author": "народная",
+  "level": "A2",
+  "tags": [
+    "kids",
+    "traditional"
+  ],
+  "note": {
+    "ru": "Старинная детская песня; Pretérito indefinido: se fue."
+  },
+  "stanzas": [
+    {
+      "id": "verse",
+      "lines": [
+        {
+          "es": "Mambrú se fue a la guerra,",
+          "ru": "Мамбрю ушёл на войну,",
+          "en": "Mambrú went off to war,",
+          "phrases": [
+            {
+              "es": "se fue a la guerra",
+              "ru": "ушёл на войну",
+              "en": "went off to war",
+              "note": {
+                "ru": "irse — «уходить, уезжать»; se fue — прошедшее от ir, возвратная форма"
+              }
+            }
+          ],
+          "words": [
+            {
+              "es": "se fue",
+              "lemma": "irse",
+              "pos": "verb",
+              "ru": "ушёл",
+              "en": "went off"
+            },
+            {
+              "es": "guerra",
+              "lemma": "guerra",
+              "pos": "noun",
+              "ru": "война",
+              "en": "war"
+            }
+          ]
+        },
+        {
+          "es": "¡qué dolor, qué dolor, qué pena!",
+          "ru": "какая боль, какая боль, какая печаль!",
+          "en": "what sorrow, what sorrow, what pain!",
+          "words": [
+            {
+              "es": "dolor",
+              "lemma": "dolor",
+              "pos": "noun",
+              "ru": "боль",
+              "en": "pain"
+            },
+            {
+              "es": "pena",
+              "lemma": "pena",
+              "pos": "noun",
+              "ru": "печаль, горе",
+              "en": "sorrow"
+            }
+          ]
+        },
+        {
+          "es": "Mambrú se fue a la guerra,",
+          "ru": "Мамбрю ушёл на войну,",
+          "en": "Mambrú went off to war,"
+        },
+        {
+          "es": "no sé cuándo vendrá.",
+          "ru": "не знаю, когда вернётся.",
+          "en": "I don't know when he will come back.",
+          "phrases": [
+            {
+              "es": "no sé cuándo vendrá",
+              "ru": "не знаю, когда придёт",
+              "en": "I don't know when he'll come",
+              "note": {
+                "ru": "vendrá — будущее время от venir; cuándo с ударением в косвенном вопросе"
+              }
+            }
+          ],
+          "words": [
+            {
+              "es": "sé",
+              "lemma": "saber",
+              "pos": "verb",
+              "ru": "знаю",
+              "en": "I know"
+            },
+            {
+              "es": "vendrá",
+              "lemma": "venir",
+              "pos": "verb",
+              "ru": "придёт, вернётся",
+              "en": "will come"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

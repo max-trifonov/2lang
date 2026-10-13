@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-07",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 7,
+  "level": "B1",
+  "title": {
+    "ru": "Система падает",
+    "en": "The system keeps crashing",
+    "es": "El sistema se cae"
+  },
+  "words": [
+    "crash",
+    "system",
+    "recently"
+  ],
+  "phrase": {
+    "en": "The system has crashed twice recently.",
+    "ru": "В последнее время система упала дважды.",
+    "es": "El sistema se ha caído dos veces últimamente."
+  },
+  "rule": {
+    "text": {
+      "ru": "recently, twice, this week — период ещё не закончился, поэтому Present Perfect: It has crashed twice this week. Конкретное время в прошлом — Past Simple: It crashed yesterday.",
+      "en": "recently, twice, this week — the period isn’t over, so use the Present Perfect: It has crashed twice this week. A finished time — Past Simple: It crashed yesterday.",
+      "es": "recently, twice, this week: Present Perfect. Un momento pasado concreto: Past Simple — It crashed yesterday."
+    },
+    "examples": [
+      {
+        "en": "The app crashed yesterday at noon.",
+        "ru": "Вчера в полдень приложение упало."
+      },
+      {
+        "en": "We've recently moved to a new system.",
+        "ru": "Недавно мы перешли на новую систему."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "The server ___ last night.",
+      "answer": "crashed",
+      "ru": "Сервер упал вчера ночью."
+    },
+    {
+      "type": "fill",
+      "en": "We've had a lot of bugs ___.",
+      "answer": "recently",
+      "ru": "В последнее время у нас много багов."
+    },
+    {
+      "type": "build",
+      "en": "The system has crashed twice this week.",
+      "ru": "На этой неделе система упала дважды.",
+      "extra": [
+        "crash"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Приложение упало вчера.",
+      "answer": [
+        "The app crashed yesterday.",
+        "The application crashed yesterday."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

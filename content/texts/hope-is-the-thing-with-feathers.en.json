@@ -1,0 +1,109 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "hope-is-the-thing-with-feathers",
+  "kind": "poem",
+  "lang": "en",
+  "license": "public-domain",
+  "title": {
+    "en": "Hope is the thing with feathers",
+    "ru": "Надежда — это птица с перьями"
+  },
+  "author": "Emily Dickinson (1891)",
+  "level": "B1",
+  "tags": [
+    "hope",
+    "classic"
+  ],
+  "note": {
+    "ru": "Первая строфа. Образ надежды-птицы; обратите внимание на that perches — определительное придаточное."
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "en": "Hope is the thing with feathers",
+          "ru": "Надежда — это существо с перьями,",
+          "phrases": [
+            {
+              "en": "the thing with feathers",
+              "ru": "существо с перьями",
+              "note": {
+                "ru": "thing — «вещь», здесь поэтично о птице; with + существительное — «с чем-то»"
+              }
+            }
+          ],
+          "words": [
+            {
+              "en": "Hope",
+              "lemma": "hope",
+              "pos": "noun",
+              "ru": "надежда"
+            },
+            {
+              "en": "feathers",
+              "lemma": "feather",
+              "pos": "noun",
+              "ru": "перья"
+            }
+          ]
+        },
+        {
+          "en": "That perches in the soul,",
+          "ru": "что сидит в душе,",
+          "words": [
+            {
+              "en": "perches",
+              "lemma": "perch",
+              "pos": "verb",
+              "ru": "сидит, устроилась (на жёрдочке)"
+            },
+            {
+              "en": "soul",
+              "lemma": "soul",
+              "pos": "noun",
+              "ru": "душа"
+            }
+          ]
+        },
+        {
+          "en": "And sings the tune without the words,",
+          "ru": "и поёт мелодию без слов,",
+          "phrases": [
+            {
+              "en": "without the words",
+              "ru": "без слов"
+            }
+          ],
+          "words": [
+            {
+              "en": "sings",
+              "lemma": "sing",
+              "pos": "verb",
+              "ru": "поёт"
+            },
+            {
+              "en": "tune",
+              "lemma": "tune",
+              "pos": "noun",
+              "ru": "мелодия"
+            }
+          ]
+        },
+        {
+          "en": "And never stops at all,",
+          "ru": "и никогда не умолкает.",
+          "phrases": [
+            {
+              "en": "never stops at all",
+              "ru": "никогда совсем не останавливается",
+              "note": {
+                "ru": "never + глагол в утверждении: отрицание уже внутри never"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

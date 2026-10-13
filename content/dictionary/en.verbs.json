@@ -1,0 +1,3685 @@
+{
+  "format": "2lang/dictionary",
+  "version": 1,
+  "lang": "en",
+  "license": "cc-by-sa",
+  "source": "Черновик ИИ (D-25) на частотном каркасе wordhoard v0.1.0 (CC BY-SA 4.0, D-24): https://github.com/natema/wordhoard; см. content/frequency/NOTICE.md",
+  "entries": [
+    {
+      "id": "be",
+      "lemma": "be",
+      "pos": "verb",
+      "rank": 1,
+      "irregular": true,
+      "translations": {
+        "ru": "быть"
+      },
+      "pair": "es:ser",
+      "forms": {
+        "s": "is",
+        "past": "was / were",
+        "participle": "been",
+        "ing": "being"
+      },
+      "examples": [
+        {
+          "en": "The hotel is near the station.",
+          "ru": "Отель рядом с вокзалом.",
+          "topic": "travel"
+        },
+        {
+          "en": "The build was green yesterday.",
+          "ru": "Вчера сборка была зелёной.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Формы настоящего: I am, you/we/they are, he/she/it is"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "have",
+      "lemma": "have",
+      "pos": "verb",
+      "rank": 2,
+      "irregular": true,
+      "translations": {
+        "ru": "иметь; have to — быть должным"
+      },
+      "pair": "es:tener",
+      "forms": {
+        "s": "has",
+        "past": "had",
+        "participle": "had",
+        "ing": "having"
+      },
+      "examples": [
+        {
+          "en": "I have a reservation for two nights.",
+          "ru": "У меня бронь на две ночи.",
+          "topic": "travel"
+        },
+        {
+          "en": "We have to deploy today.",
+          "ru": "Нам нужно задеплоить сегодня.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "do",
+      "lemma": "do",
+      "pos": "verb",
+      "rank": 3,
+      "irregular": true,
+      "translations": {
+        "ru": "делать; вспомогательный глагол вопросов и отрицаний"
+      },
+      "pair": "es:hacer",
+      "forms": {
+        "s": "does",
+        "past": "did",
+        "participle": "done",
+        "ing": "doing"
+      },
+      "examples": [
+        {
+          "en": "What do you do in the evenings?",
+          "ru": "Чем ты занимаешься по вечерам?",
+          "topic": "daily"
+        },
+        {
+          "en": "Did you do a backup?",
+          "ru": "Ты сделал резервную копию?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "get",
+      "lemma": "get",
+      "pos": "verb",
+      "rank": 4,
+      "irregular": true,
+      "translations": {
+        "ru": "получать; добираться; становиться"
+      },
+      "pair": "es:conseguir",
+      "forms": {
+        "s": "gets",
+        "past": "got",
+        "participle": "got / gotten",
+        "ing": "getting"
+      },
+      "examples": [
+        {
+          "en": "How do I get to the airport?",
+          "ru": "Как добраться до аэропорта?",
+          "topic": "travel"
+        },
+        {
+          "en": "I got an error message.",
+          "ru": "Я получил сообщение об ошибке.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "go",
+      "lemma": "go",
+      "pos": "verb",
+      "rank": 5,
+      "irregular": true,
+      "translations": {
+        "ru": "идти, ехать; be going to — собираться"
+      },
+      "pair": "es:ir",
+      "forms": {
+        "s": "goes",
+        "past": "went",
+        "participle": "gone",
+        "ing": "going"
+      },
+      "examples": [
+        {
+          "en": "We went to the beach yesterday.",
+          "ru": "Вчера мы ходили на пляж.",
+          "topic": "travel"
+        },
+        {
+          "en": "I'm going to fix it tomorrow.",
+          "ru": "Я исправлю это завтра.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "know",
+      "lemma": "know",
+      "pos": "verb",
+      "rank": 6,
+      "irregular": true,
+      "translations": {
+        "ru": "знать"
+      },
+      "pair": "es:saber",
+      "forms": {
+        "s": "knows",
+        "past": "knew",
+        "participle": "known",
+        "ing": "knowing"
+      },
+      "examples": [
+        {
+          "en": "Do you know a good restaurant here?",
+          "ru": "Знаешь хороший ресторан поблизости?",
+          "topic": "travel"
+        },
+        {
+          "en": "I don't know why the test fails.",
+          "ru": "Не знаю, почему тест падает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "can",
+      "lemma": "can",
+      "pos": "verb",
+      "rank": 7,
+      "translations": {
+        "ru": "мочь, уметь"
+      },
+      "pair": "es:poder",
+      "examples": [
+        {
+          "en": "Can I pay by card?",
+          "ru": "Можно оплатить картой?",
+          "topic": "travel"
+        },
+        {
+          "en": "I can't log in.",
+          "ru": "Не могу войти.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Модальный: без to и без -s; прошедшее — could; в других временах — be able to"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "come",
+      "lemma": "come",
+      "pos": "verb",
+      "rank": 8,
+      "irregular": true,
+      "translations": {
+        "ru": "приходить, приезжать"
+      },
+      "pair": "es:venir",
+      "forms": {
+        "s": "comes",
+        "past": "came",
+        "participle": "come",
+        "ing": "coming"
+      },
+      "examples": [
+        {
+          "en": "The bus comes every ten minutes.",
+          "ru": "Автобус ходит каждые десять минут.",
+          "topic": "travel"
+        },
+        {
+          "en": "Are you coming to the meeting?",
+          "ru": "Придёшь на встречу?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "think",
+      "lemma": "think",
+      "pos": "verb",
+      "rank": 9,
+      "irregular": true,
+      "translations": {
+        "ru": "думать"
+      },
+      "pair": "es:pensar",
+      "forms": {
+        "s": "thinks",
+        "past": "thought",
+        "participle": "thought",
+        "ing": "thinking"
+      },
+      "examples": [
+        {
+          "en": "I think the museum is closed today.",
+          "ru": "Думаю, музей сегодня закрыт.",
+          "topic": "travel"
+        },
+        {
+          "en": "What do you think about this solution?",
+          "ru": "Что думаешь об этом решении?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "want",
+      "lemma": "want",
+      "pos": "verb",
+      "rank": 10,
+      "translations": {
+        "ru": "хотеть"
+      },
+      "pair": "es:querer",
+      "forms": {
+        "s": "wants",
+        "past": "wanted",
+        "participle": "wanted",
+        "ing": "wanting"
+      },
+      "examples": [
+        {
+          "en": "I want a window seat.",
+          "ru": "Я хочу место у окна.",
+          "topic": "travel"
+        },
+        {
+          "en": "We want to release on Monday.",
+          "ru": "Мы хотим выпустить релиз в понедельник.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "see",
+      "lemma": "see",
+      "pos": "verb",
+      "rank": 11,
+      "irregular": true,
+      "translations": {
+        "ru": "видеть"
+      },
+      "pair": "es:ver",
+      "forms": {
+        "s": "sees",
+        "past": "saw",
+        "participle": "seen",
+        "ing": "seeing"
+      },
+      "examples": [
+        {
+          "en": "You can see the sea from the hotel.",
+          "ru": "Из отеля видно море.",
+          "topic": "travel"
+        },
+        {
+          "en": "Do you see the error in the console?",
+          "ru": "Видишь ошибку в консоли?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "say",
+      "lemma": "say",
+      "pos": "verb",
+      "rank": 12,
+      "irregular": true,
+      "translations": {
+        "ru": "сказать, говорить"
+      },
+      "pair": "es:decir",
+      "forms": {
+        "s": "says",
+        "past": "said",
+        "participle": "said",
+        "ing": "saying"
+      },
+      "examples": [
+        {
+          "en": "How do you say «ticket» in Spanish?",
+          "ru": "Как сказать «билет» по-испански?",
+          "topic": "travel"
+        },
+        {
+          "en": "The manager said the meeting is at ten.",
+          "ru": "Менеджер сказал, что встреча в десять.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "look",
+      "lemma": "look",
+      "pos": "verb",
+      "rank": 13,
+      "translations": {
+        "ru": "смотреть; выглядеть; look for — искать"
+      },
+      "pair": "es:mirar",
+      "forms": {
+        "s": "looks",
+        "past": "looked",
+        "participle": "looked",
+        "ing": "looking"
+      },
+      "examples": [
+        {
+          "en": "I'm looking for a pharmacy.",
+          "ru": "Я ищу аптеку.",
+          "topic": "travel"
+        },
+        {
+          "en": "Look at the logs first.",
+          "ru": "Сначала посмотри логи.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "will",
+      "lemma": "will",
+      "pos": "verb",
+      "rank": 14,
+      "translations": {
+        "ru": "вспомогательный глагол будущего времени"
+      },
+      "examples": [
+        {
+          "en": "I will call you from the airport.",
+          "ru": "Я позвоню тебе из аэропорта.",
+          "topic": "travel"
+        },
+        {
+          "en": "It will work after the update.",
+          "ru": "Это заработает после обновления.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Модальный: will + глагол без to; отрицание — won't"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "take",
+      "lemma": "take",
+      "pos": "verb",
+      "rank": 15,
+      "irregular": true,
+      "translations": {
+        "ru": "брать; занимать (время); ехать на транспорте"
+      },
+      "pair": "es:tomar",
+      "forms": {
+        "s": "takes",
+        "past": "took",
+        "participle": "taken",
+        "ing": "taking"
+      },
+      "examples": [
+        {
+          "en": "We took a taxi to the hotel.",
+          "ru": "Мы взяли такси до отеля.",
+          "topic": "travel"
+        },
+        {
+          "en": "The build takes ten minutes.",
+          "ru": "Сборка занимает десять минут.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tell",
+      "lemma": "tell",
+      "pos": "verb",
+      "rank": 16,
+      "irregular": true,
+      "translations": {
+        "ru": "сказать (кому-то), рассказать"
+      },
+      "pair": "es:contar",
+      "forms": {
+        "s": "tells",
+        "past": "told",
+        "participle": "told",
+        "ing": "telling"
+      },
+      "examples": [
+        {
+          "en": "Can you tell me the way to the station?",
+          "ru": "Подскажете дорогу к вокзалу?",
+          "topic": "travel"
+        },
+        {
+          "en": "Tell me if it works.",
+          "ru": "Скажи мне, если заработает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "make",
+      "lemma": "make",
+      "pos": "verb",
+      "rank": 17,
+      "irregular": true,
+      "translations": {
+        "ru": "делать, производить; заставлять"
+      },
+      "pair": "es:hacer",
+      "forms": {
+        "s": "makes",
+        "past": "made",
+        "participle": "made",
+        "ing": "making"
+      },
+      "examples": [
+        {
+          "en": "I made a reservation online.",
+          "ru": "Я забронировал онлайн.",
+          "topic": "travel"
+        },
+        {
+          "en": "Make a copy of the file.",
+          "ru": "Сделай копию файла.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "let",
+      "lemma": "let",
+      "pos": "verb",
+      "rank": 18,
+      "irregular": true,
+      "translations": {
+        "ru": "позволять; let's — давай"
+      },
+      "pair": "es:dejar",
+      "forms": {
+        "s": "lets",
+        "past": "let",
+        "participle": "let",
+        "ing": "letting"
+      },
+      "examples": [
+        {
+          "en": "Let's take the train.",
+          "ru": "Давай поедем на поезде.",
+          "topic": "travel"
+        },
+        {
+          "en": "Let me check the code.",
+          "ru": "Дай я проверю код.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "would",
+      "lemma": "would",
+      "pos": "verb",
+      "rank": 19,
+      "translations": {
+        "ru": "вспомогательный глагол (бы); I would like — я бы хотел"
+      },
+      "examples": [
+        {
+          "en": "I would like a coffee, please.",
+          "ru": "Я бы хотел кофе, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "en": "Would you review my code?",
+          "ru": "Посмотришь мой код?",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Модальный: would + глагол без to; вежливые просьбы — Would you…?"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "give",
+      "lemma": "give",
+      "pos": "verb",
+      "rank": 20,
+      "irregular": true,
+      "translations": {
+        "ru": "давать"
+      },
+      "pair": "es:dar",
+      "forms": {
+        "s": "gives",
+        "past": "gave",
+        "participle": "given",
+        "ing": "giving"
+      },
+      "examples": [
+        {
+          "en": "Can you give me the bill, please?",
+          "ru": "Дайте счёт, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "en": "They gave us access to the server.",
+          "ru": "Нам дали доступ к серверу.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "need",
+      "lemma": "need",
+      "pos": "verb",
+      "rank": 21,
+      "translations": {
+        "ru": "нуждаться; нужно"
+      },
+      "pair": "es:necesitar",
+      "forms": {
+        "s": "needs",
+        "past": "needed",
+        "participle": "needed",
+        "ing": "needing"
+      },
+      "examples": [
+        {
+          "en": "I need a taxi to the airport.",
+          "ru": "Мне нужно такси до аэропорта.",
+          "topic": "travel"
+        },
+        {
+          "en": "We need more memory on the server.",
+          "ru": "Серверу нужно больше памяти.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "could",
+      "lemma": "could",
+      "pos": "verb",
+      "rank": 22,
+      "translations": {
+        "ru": "мог бы; мог (прошедшее от can)"
+      },
+      "examples": [
+        {
+          "en": "Could you help me with my bag?",
+          "ru": "Не могли бы вы помочь с сумкой?",
+          "topic": "travel"
+        },
+        {
+          "en": "I could not find the bug.",
+          "ru": "Я не смог найти баг.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Модальный: could + глагол без to; вежливая просьба — Could you…?"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mean",
+      "lemma": "mean",
+      "pos": "verb",
+      "rank": 23,
+      "irregular": true,
+      "translations": {
+        "ru": "значить, иметь в виду"
+      },
+      "pair": "es:significar",
+      "forms": {
+        "s": "means",
+        "past": "meant",
+        "participle": "meant",
+        "ing": "meaning"
+      },
+      "examples": [
+        {
+          "en": "What does this sign mean?",
+          "ru": "Что значит этот знак?",
+          "topic": "travel"
+        },
+        {
+          "en": "This error means the file is missing.",
+          "ru": "Эта ошибка значит, что файла нет.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "find",
+      "lemma": "find",
+      "pos": "verb",
+      "rank": 24,
+      "irregular": true,
+      "translations": {
+        "ru": "находить"
+      },
+      "pair": "es:encontrar",
+      "forms": {
+        "s": "finds",
+        "past": "found",
+        "participle": "found",
+        "ing": "finding"
+      },
+      "examples": [
+        {
+          "en": "I can't find my ticket.",
+          "ru": "Не могу найти свой билет.",
+          "topic": "travel"
+        },
+        {
+          "en": "We found the bug in line 42.",
+          "ru": "Мы нашли баг в строке 42.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "leave",
+      "lemma": "leave",
+      "pos": "verb",
+      "rank": 25,
+      "irregular": true,
+      "translations": {
+        "ru": "уходить, уезжать; оставлять"
+      },
+      "pair": "es:salir",
+      "forms": {
+        "s": "leaves",
+        "past": "left",
+        "participle": "left",
+        "ing": "leaving"
+      },
+      "examples": [
+        {
+          "en": "The train leaves at eight.",
+          "ru": "Поезд отправляется в восемь.",
+          "topic": "travel"
+        },
+        {
+          "en": "I left my laptop at the office.",
+          "ru": "Я оставил ноутбук в офисе.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "work",
+      "lemma": "work",
+      "pos": "verb",
+      "rank": 26,
+      "translations": {
+        "ru": "работать"
+      },
+      "pair": "es:trabajar",
+      "forms": {
+        "s": "works",
+        "past": "worked",
+        "participle": "worked",
+        "ing": "working"
+      },
+      "examples": [
+        {
+          "en": "I work from home on Fridays.",
+          "ru": "По пятницам я работаю из дома.",
+          "topic": "it"
+        },
+        {
+          "en": "The air conditioning doesn't work.",
+          "ru": "Кондиционер не работает.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "talk",
+      "lemma": "talk",
+      "pos": "verb",
+      "rank": 27,
+      "translations": {
+        "ru": "разговаривать"
+      },
+      "pair": "es:hablar",
+      "forms": {
+        "s": "talks",
+        "past": "talked",
+        "participle": "talked",
+        "ing": "talking"
+      },
+      "examples": [
+        {
+          "en": "We talked to the guide.",
+          "ru": "Мы поговорили с гидом.",
+          "topic": "travel"
+        },
+        {
+          "en": "Let's talk after the meeting.",
+          "ru": "Давай поговорим после встречи.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "call",
+      "lemma": "call",
+      "pos": "verb",
+      "rank": 28,
+      "translations": {
+        "ru": "звонить; звать, называть"
+      },
+      "pair": "es:llamar",
+      "forms": {
+        "s": "calls",
+        "past": "called",
+        "participle": "called",
+        "ing": "calling"
+      },
+      "examples": [
+        {
+          "en": "Call the reception, please.",
+          "ru": "Позвони на ресепшен, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "en": "This function is called twice.",
+          "ru": "Эта функция вызывается дважды.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "should",
+      "lemma": "should",
+      "pos": "verb",
+      "rank": 29,
+      "translations": {
+        "ru": "следует, стоит"
+      },
+      "examples": [
+        {
+          "en": "You should book in advance.",
+          "ru": "Тебе стоит забронировать заранее.",
+          "topic": "travel"
+        },
+        {
+          "en": "We should add more tests.",
+          "ru": "Нам стоит добавить больше тестов.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Модальный: should + глагол без to"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "thank",
+      "lemma": "thank",
+      "pos": "verb",
+      "rank": 30,
+      "translations": {
+        "ru": "благодарить; thank you — спасибо"
+      },
+      "forms": {
+        "s": "thanks",
+        "past": "thanked",
+        "participle": "thanked",
+        "ing": "thanking"
+      },
+      "examples": [
+        {
+          "en": "Thank you for your help.",
+          "ru": "Спасибо за помощь.",
+          "topic": "travel"
+        },
+        {
+          "en": "Thanks for the code review.",
+          "ru": "Спасибо за ревью кода.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "try",
+      "lemma": "try",
+      "pos": "verb",
+      "rank": 31,
+      "translations": {
+        "ru": "пытаться, пробовать"
+      },
+      "pair": "es:intentar",
+      "forms": {
+        "s": "tries",
+        "past": "tried",
+        "participle": "tried",
+        "ing": "trying"
+      },
+      "examples": [
+        {
+          "en": "Try the local food.",
+          "ru": "Попробуй местную еду.",
+          "topic": "travel"
+        },
+        {
+          "en": "Try to restart the router.",
+          "ru": "Попробуй перезагрузить роутер.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "help",
+      "lemma": "help",
+      "pos": "verb",
+      "rank": 32,
+      "translations": {
+        "ru": "помогать"
+      },
+      "pair": "es:ayudar",
+      "forms": {
+        "s": "helps",
+        "past": "helped",
+        "participle": "helped",
+        "ing": "helping"
+      },
+      "examples": [
+        {
+          "en": "Can you help me with my suitcase?",
+          "ru": "Можете помочь мне с чемоданом?",
+          "topic": "travel"
+        },
+        {
+          "en": "I help my colleague with the deployment.",
+          "ru": "Я помогаю коллеге с развёртыванием.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "wait",
+      "lemma": "wait",
+      "pos": "verb",
+      "rank": 33,
+      "translations": {
+        "ru": "ждать"
+      },
+      "pair": "es:esperar",
+      "forms": {
+        "s": "waits",
+        "past": "waited",
+        "participle": "waited",
+        "ing": "waiting"
+      },
+      "examples": [
+        {
+          "en": "Wait for me at the entrance.",
+          "ru": "Подожди меня у входа.",
+          "topic": "travel"
+        },
+        {
+          "en": "Wait, the page is loading.",
+          "ru": "Подожди, страница грузится.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "happen",
+      "lemma": "happen",
+      "pos": "verb",
+      "rank": 34,
+      "translations": {
+        "ru": "происходить, случаться"
+      },
+      "pair": "es:pasar",
+      "forms": {
+        "s": "happens",
+        "past": "happened",
+        "participle": "happened",
+        "ing": "happening"
+      },
+      "examples": [
+        {
+          "en": "What happened at the airport?",
+          "ru": "Что случилось в аэропорту?",
+          "topic": "travel"
+        },
+        {
+          "en": "It only happens in production.",
+          "ru": "Это происходит только в продакшене.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "feel",
+      "lemma": "feel",
+      "pos": "verb",
+      "rank": 35,
+      "irregular": true,
+      "translations": {
+        "ru": "чувствовать"
+      },
+      "pair": "es:sentir",
+      "forms": {
+        "s": "feels",
+        "past": "felt",
+        "participle": "felt",
+        "ing": "feeling"
+      },
+      "examples": [
+        {
+          "en": "I feel tired after the flight.",
+          "ru": "После перелёта я чувствую усталость.",
+          "topic": "travel"
+        },
+        {
+          "en": "The new design feels faster.",
+          "ru": "Новый дизайн кажется быстрее.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "win",
+      "lemma": "win",
+      "pos": "verb",
+      "rank": 36,
+      "irregular": true,
+      "translations": {
+        "ru": "выигрывать, побеждать"
+      },
+      "pair": "es:ganar",
+      "forms": {
+        "s": "wins",
+        "past": "won",
+        "participle": "won",
+        "ing": "winning"
+      },
+      "examples": [
+        {
+          "en": "Our team won the hackathon.",
+          "ru": "Наша команда выиграла хакатон.",
+          "topic": "it"
+        },
+        {
+          "en": "We won two tickets to the concert.",
+          "ru": "Мы выиграли два билета на концерт.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "stop",
+      "lemma": "stop",
+      "pos": "verb",
+      "rank": 37,
+      "translations": {
+        "ru": "останавливать(ся), прекращать"
+      },
+      "forms": {
+        "s": "stops",
+        "past": "stopped",
+        "participle": "stopped",
+        "ing": "stopping"
+      },
+      "examples": [
+        {
+          "en": "Does this bus stop at the museum?",
+          "ru": "Этот автобус останавливается у музея?",
+          "topic": "travel"
+        },
+        {
+          "en": "Stop the server before the update.",
+          "ru": "Останови сервер перед обновлением.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hear",
+      "lemma": "hear",
+      "pos": "verb",
+      "rank": 38,
+      "irregular": true,
+      "translations": {
+        "ru": "слышать"
+      },
+      "pair": "es:oír",
+      "forms": {
+        "s": "hears",
+        "past": "heard",
+        "participle": "heard",
+        "ing": "hearing"
+      },
+      "examples": [
+        {
+          "en": "I can't hear the announcement.",
+          "ru": "Я не слышу объявление.",
+          "topic": "travel"
+        },
+        {
+          "en": "Can you hear me? My microphone is on.",
+          "ru": "Слышишь меня? Микрофон включён.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "keep",
+      "lemma": "keep",
+      "pos": "verb",
+      "rank": 39,
+      "irregular": true,
+      "translations": {
+        "ru": "держать, хранить; продолжать (keep doing)"
+      },
+      "pair": "es:mantener",
+      "forms": {
+        "s": "keeps",
+        "past": "kept",
+        "participle": "kept",
+        "ing": "keeping"
+      },
+      "examples": [
+        {
+          "en": "Keep your passport with you.",
+          "ru": "Держи паспорт при себе.",
+          "topic": "travel"
+        },
+        {
+          "en": "The test keeps failing.",
+          "ru": "Тест продолжает падать.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ask",
+      "lemma": "ask",
+      "pos": "verb",
+      "rank": 40,
+      "translations": {
+        "ru": "спрашивать; просить"
+      },
+      "pair": "es:preguntar",
+      "forms": {
+        "s": "asks",
+        "past": "asked",
+        "participle": "asked",
+        "ing": "asking"
+      },
+      "examples": [
+        {
+          "en": "Ask the driver where to get off.",
+          "ru": "Спроси водителя, где выходить.",
+          "topic": "travel"
+        },
+        {
+          "en": "Ask for access to the repository.",
+          "ru": "Попроси доступ к репозиторию.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "kill",
+      "lemma": "kill",
+      "pos": "verb",
+      "rank": 41,
+      "translations": {
+        "ru": "убивать"
+      },
+      "pair": "es:matar",
+      "forms": {
+        "s": "kills",
+        "past": "killed",
+        "participle": "killed",
+        "ing": "killing"
+      },
+      "examples": [
+        {
+          "en": "Kill the process and start it again.",
+          "ru": "Убей процесс и запусти заново.",
+          "topic": "it"
+        },
+        {
+          "en": "This heat is killing me.",
+          "ru": "Эта жара меня убивает.",
+          "topic": "travel"
+        }
+      ],
+      "note": {
+        "ru": "Часто переносно: kill time — убивать время, kill a process — завершить процесс"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "put",
+      "lemma": "put",
+      "pos": "verb",
+      "rank": 42,
+      "irregular": true,
+      "translations": {
+        "ru": "класть, ставить"
+      },
+      "pair": "es:poner",
+      "forms": {
+        "s": "puts",
+        "past": "put",
+        "participle": "put",
+        "ing": "putting"
+      },
+      "examples": [
+        {
+          "en": "Put your bag under the seat.",
+          "ru": "Положите сумку под сиденье.",
+          "topic": "travel"
+        },
+        {
+          "en": "Put the config in a separate file.",
+          "ru": "Положи конфиг в отдельный файл.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "must",
+      "lemma": "must",
+      "pos": "verb",
+      "rank": 43,
+      "translations": {
+        "ru": "должен (обязанность, вывод)"
+      },
+      "examples": [
+        {
+          "en": "You must show your passport.",
+          "ru": "Вы должны показать паспорт.",
+          "topic": "travel"
+        },
+        {
+          "en": "It must be a cache problem.",
+          "ru": "Должно быть, это проблема кэша.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Модальный: must + глагол без to; mustn't — нельзя"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "start",
+      "lemma": "start",
+      "pos": "verb",
+      "rank": 44,
+      "translations": {
+        "ru": "начинать(ся)"
+      },
+      "pair": "es:empezar",
+      "forms": {
+        "s": "starts",
+        "past": "started",
+        "participle": "started",
+        "ing": "starting"
+      },
+      "examples": [
+        {
+          "en": "The tour starts at eleven.",
+          "ru": "Экскурсия начинается в одиннадцать.",
+          "topic": "travel"
+        },
+        {
+          "en": "Start the server locally.",
+          "ru": "Запусти сервер локально.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "stay",
+      "lemma": "stay",
+      "pos": "verb",
+      "rank": 45,
+      "translations": {
+        "ru": "оставаться; останавливаться (в отеле)"
+      },
+      "pair": "es:quedar",
+      "forms": {
+        "s": "stays",
+        "past": "stayed",
+        "participle": "stayed",
+        "ing": "staying"
+      },
+      "examples": [
+        {
+          "en": "We are staying at a small hotel.",
+          "ru": "Мы остановились в маленьком отеле.",
+          "topic": "travel"
+        },
+        {
+          "en": "Stay on the call, please.",
+          "ru": "Останься на звонке, пожалуйста.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "show",
+      "lemma": "show",
+      "pos": "verb",
+      "rank": 46,
+      "irregular": true,
+      "translations": {
+        "ru": "показывать"
+      },
+      "pair": "es:mostrar",
+      "forms": {
+        "s": "shows",
+        "past": "showed",
+        "participle": "shown",
+        "ing": "showing"
+      },
+      "examples": [
+        {
+          "en": "Can you show me on the map?",
+          "ru": "Покажете на карте?",
+          "topic": "travel"
+        },
+        {
+          "en": "The screen shows an error.",
+          "ru": "Экран показывает ошибку.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "play",
+      "lemma": "play",
+      "pos": "verb",
+      "rank": 47,
+      "translations": {
+        "ru": "играть"
+      },
+      "pair": "es:jugar",
+      "forms": {
+        "s": "plays",
+        "past": "played",
+        "participle": "played",
+        "ing": "playing"
+      },
+      "examples": [
+        {
+          "en": "The kids play on the beach.",
+          "ru": "Дети играют на пляже.",
+          "topic": "travel"
+        },
+        {
+          "en": "Play the video again.",
+          "ru": "Включи видео ещё раз.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "believe",
+      "lemma": "believe",
+      "pos": "verb",
+      "rank": 48,
+      "translations": {
+        "ru": "верить"
+      },
+      "pair": "es:creer",
+      "forms": {
+        "s": "believes",
+        "past": "believed",
+        "participle": "believed",
+        "ing": "believing"
+      },
+      "examples": [
+        {
+          "en": "I can't believe the view!",
+          "ru": "Не могу поверить в такой вид!",
+          "topic": "travel"
+        },
+        {
+          "en": "I believe the bug is fixed.",
+          "ru": "Думаю, баг исправлен.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "run",
+      "lemma": "run",
+      "pos": "verb",
+      "rank": 49,
+      "irregular": true,
+      "translations": {
+        "ru": "бежать; управлять; запускать (программу)"
+      },
+      "pair": "es:correr",
+      "forms": {
+        "s": "runs",
+        "past": "ran",
+        "participle": "run",
+        "ing": "running"
+      },
+      "examples": [
+        {
+          "en": "Run, the train is leaving!",
+          "ru": "Беги, поезд уходит!",
+          "topic": "travel"
+        },
+        {
+          "en": "Run the tests before merging.",
+          "ru": "Запусти тесты перед слиянием.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "bring",
+      "lemma": "bring",
+      "pos": "verb",
+      "rank": 50,
+      "irregular": true,
+      "translations": {
+        "ru": "приносить, привозить"
+      },
+      "pair": "es:traer",
+      "forms": {
+        "s": "brings",
+        "past": "brought",
+        "participle": "brought",
+        "ing": "bringing"
+      },
+      "examples": [
+        {
+          "en": "Bring a jacket, it gets cold.",
+          "ru": "Возьми куртку, становится холодно.",
+          "topic": "travel"
+        },
+        {
+          "en": "I brought my laptop charger.",
+          "ru": "Я принёс зарядку от ноутбука.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "listen",
+      "lemma": "listen",
+      "pos": "verb",
+      "rank": 51,
+      "translations": {
+        "ru": "слушать"
+      },
+      "pair": "es:escuchar",
+      "forms": {
+        "s": "listens",
+        "past": "listened",
+        "participle": "listened",
+        "ing": "listening"
+      },
+      "examples": [
+        {
+          "en": "Listen to the announcement.",
+          "ru": "Послушай объявление.",
+          "topic": "travel"
+        },
+        {
+          "en": "The server listens on port 8080.",
+          "ru": "Сервер слушает порт 8080.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "understand",
+      "lemma": "understand",
+      "pos": "verb",
+      "rank": 52,
+      "irregular": true,
+      "translations": {
+        "ru": "понимать"
+      },
+      "pair": "es:entender",
+      "forms": {
+        "s": "understands",
+        "past": "understood",
+        "participle": "understood",
+        "ing": "understanding"
+      },
+      "examples": [
+        {
+          "en": "Sorry, I don't understand.",
+          "ru": "Простите, я не понимаю.",
+          "topic": "travel"
+        },
+        {
+          "en": "Now I understand how the API works.",
+          "ru": "Теперь я понимаю, как работает API.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "die",
+      "lemma": "die",
+      "pos": "verb",
+      "rank": 53,
+      "translations": {
+        "ru": "умирать"
+      },
+      "pair": "es:morir",
+      "forms": {
+        "s": "dies",
+        "past": "died",
+        "participle": "died",
+        "ing": "dying"
+      },
+      "examples": [
+        {
+          "en": "My phone battery died.",
+          "ru": "У телефона сел аккумулятор.",
+          "topic": "travel"
+        },
+        {
+          "en": "I'm dying for a coffee.",
+          "ru": "Умираю, как хочу кофе.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "miss",
+      "lemma": "miss",
+      "pos": "verb",
+      "rank": 54,
+      "translations": {
+        "ru": "скучать; опоздать; пропустить"
+      },
+      "forms": {
+        "s": "misses",
+        "past": "missed",
+        "participle": "missed",
+        "ing": "missing"
+      },
+      "examples": [
+        {
+          "en": "We missed the last bus.",
+          "ru": "Мы опоздали на последний автобус.",
+          "topic": "travel"
+        },
+        {
+          "en": "I miss my family.",
+          "ru": "Я скучаю по семье.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "move",
+      "lemma": "move",
+      "pos": "verb",
+      "rank": 55,
+      "translations": {
+        "ru": "двигать(ся); переезжать"
+      },
+      "pair": "es:mover",
+      "forms": {
+        "s": "moves",
+        "past": "moved",
+        "participle": "moved",
+        "ing": "moving"
+      },
+      "examples": [
+        {
+          "en": "Can you move your car, please?",
+          "ru": "Можете переставить машину?",
+          "topic": "travel"
+        },
+        {
+          "en": "Move the file to another folder.",
+          "ru": "Перемести файл в другую папку.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "meet",
+      "lemma": "meet",
+      "pos": "verb",
+      "rank": 56,
+      "irregular": true,
+      "translations": {
+        "ru": "встречать(ся), знакомиться"
+      },
+      "forms": {
+        "s": "meets",
+        "past": "met",
+        "participle": "met",
+        "ing": "meeting"
+      },
+      "examples": [
+        {
+          "en": "Let's meet at the station.",
+          "ru": "Давай встретимся на вокзале.",
+          "topic": "travel"
+        },
+        {
+          "en": "Nice to meet you!",
+          "ru": "Приятно познакомиться!",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "lose",
+      "lemma": "lose",
+      "pos": "verb",
+      "rank": 57,
+      "irregular": true,
+      "translations": {
+        "ru": "терять; проигрывать"
+      },
+      "pair": "es:perder",
+      "forms": {
+        "s": "loses",
+        "past": "lost",
+        "participle": "lost",
+        "ing": "losing"
+      },
+      "examples": [
+        {
+          "en": "I lost my passport.",
+          "ru": "Я потерял паспорт.",
+          "topic": "travel"
+        },
+        {
+          "en": "We lost the changes.",
+          "ru": "Мы потеряли изменения.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "remember",
+      "lemma": "remember",
+      "pos": "verb",
+      "rank": 58,
+      "translations": {
+        "ru": "помнить, вспоминать"
+      },
+      "pair": "es:recordar",
+      "forms": {
+        "s": "remembers",
+        "past": "remembered",
+        "participle": "remembered",
+        "ing": "remembering"
+      },
+      "examples": [
+        {
+          "en": "I don't remember the room number.",
+          "ru": "Не помню номер комнаты.",
+          "topic": "travel"
+        },
+        {
+          "en": "Remember to save your work.",
+          "ru": "Не забудь сохранить работу.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "turn",
+      "lemma": "turn",
+      "pos": "verb",
+      "rank": 59,
+      "translations": {
+        "ru": "поворачивать; turn on/off — включать/выключать"
+      },
+      "forms": {
+        "s": "turns",
+        "past": "turned",
+        "participle": "turned",
+        "ing": "turning"
+      },
+      "examples": [
+        {
+          "en": "Turn left at the corner.",
+          "ru": "На углу поверни налево.",
+          "topic": "travel"
+        },
+        {
+          "en": "Turn off the notifications.",
+          "ru": "Выключи уведомления.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "care",
+      "lemma": "care",
+      "pos": "verb",
+      "rank": 60,
+      "translations": {
+        "ru": "заботиться; беспокоиться"
+      },
+      "forms": {
+        "s": "cares",
+        "past": "cared",
+        "participle": "cared",
+        "ing": "caring"
+      },
+      "examples": [
+        {
+          "en": "I don't care, you choose.",
+          "ru": "Мне всё равно, выбирай ты.",
+          "topic": "travel"
+        },
+        {
+          "en": "We care about performance.",
+          "ru": "Нам важна производительность.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "may",
+      "lemma": "may",
+      "pos": "verb",
+      "rank": 61,
+      "translations": {
+        "ru": "мочь (разрешение, вероятность)"
+      },
+      "examples": [
+        {
+          "en": "May I sit here?",
+          "ru": "Можно сюда сесть?",
+          "topic": "travel"
+        },
+        {
+          "en": "It may take a few minutes.",
+          "ru": "Это может занять несколько минут.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Модальный: may + глагол без to"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "might",
+      "lemma": "might",
+      "pos": "verb",
+      "rank": 62,
+      "translations": {
+        "ru": "может быть, возможно (малая вероятность)"
+      },
+      "examples": [
+        {
+          "en": "It might rain tomorrow.",
+          "ru": "Завтра, возможно, будет дождь.",
+          "topic": "travel"
+        },
+        {
+          "en": "It might be a network issue.",
+          "ru": "Возможно, это проблема сети.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Модальный: might + глагол без to"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hold",
+      "lemma": "hold",
+      "pos": "verb",
+      "rank": 63,
+      "irregular": true,
+      "translations": {
+        "ru": "держать; проводить (встречу)"
+      },
+      "forms": {
+        "s": "holds",
+        "past": "held",
+        "participle": "held",
+        "ing": "holding"
+      },
+      "examples": [
+        {
+          "en": "Hold my bag for a second.",
+          "ru": "Подержи мою сумку секунду.",
+          "topic": "travel"
+        },
+        {
+          "en": "We hold a meeting every Monday.",
+          "ru": "Мы проводим встречу каждый понедельник.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "use",
+      "lemma": "use",
+      "pos": "verb",
+      "rank": 64,
+      "translations": {
+        "ru": "использовать"
+      },
+      "pair": "es:usar",
+      "forms": {
+        "s": "uses",
+        "past": "used",
+        "participle": "used",
+        "ing": "using"
+      },
+      "examples": [
+        {
+          "en": "Can I use the hotel wifi?",
+          "ru": "Можно пользоваться вайфаем отеля?",
+          "topic": "travel"
+        },
+        {
+          "en": "We use Git for version control.",
+          "ru": "Мы используем Git для контроля версий.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mind",
+      "lemma": "mind",
+      "pos": "verb",
+      "rank": 65,
+      "translations": {
+        "ru": "возражать; do you mind…? — вы не против…?"
+      },
+      "forms": {
+        "s": "minds",
+        "past": "minded",
+        "participle": "minded",
+        "ing": "minding"
+      },
+      "examples": [
+        {
+          "en": "Do you mind if I open the window?",
+          "ru": "Не возражаете, если я открою окно?",
+          "topic": "travel"
+        },
+        {
+          "en": "Never mind, I found it.",
+          "ru": "Неважно, я нашёл.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "speak",
+      "lemma": "speak",
+      "pos": "verb",
+      "rank": 66,
+      "irregular": true,
+      "translations": {
+        "ru": "говорить (на языке), выступать"
+      },
+      "pair": "es:hablar",
+      "forms": {
+        "s": "speaks",
+        "past": "spoke",
+        "participle": "spoken",
+        "ing": "speaking"
+      },
+      "examples": [
+        {
+          "en": "Do you speak English?",
+          "ru": "Вы говорите по-английски?",
+          "topic": "travel"
+        },
+        {
+          "en": "She spoke at the conference.",
+          "ru": "Она выступила на конференции.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "watch",
+      "lemma": "watch",
+      "pos": "verb",
+      "rank": 67,
+      "translations": {
+        "ru": "смотреть, наблюдать"
+      },
+      "pair": "es:mirar",
+      "forms": {
+        "s": "watches",
+        "past": "watched",
+        "participle": "watched",
+        "ing": "watching"
+      },
+      "examples": [
+        {
+          "en": "We watched the sunset from the beach.",
+          "ru": "Мы смотрели закат с пляжа.",
+          "topic": "travel"
+        },
+        {
+          "en": "Watch the logs during the deploy.",
+          "ru": "Следи за логами во время деплоя.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "worry",
+      "lemma": "worry",
+      "pos": "verb",
+      "rank": 68,
+      "translations": {
+        "ru": "беспокоиться, волноваться"
+      },
+      "pair": "es:preocupar",
+      "forms": {
+        "s": "worries",
+        "past": "worried",
+        "participle": "worried",
+        "ing": "worrying"
+      },
+      "examples": [
+        {
+          "en": "Don't worry, there is another train.",
+          "ru": "Не волнуйся, есть другой поезд.",
+          "topic": "travel"
+        },
+        {
+          "en": "I worry about the deadline.",
+          "ru": "Меня беспокоит срок.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "break",
+      "lemma": "break",
+      "pos": "verb",
+      "rank": 69,
+      "irregular": true,
+      "translations": {
+        "ru": "ломать; break down — сломаться"
+      },
+      "forms": {
+        "s": "breaks",
+        "past": "broke",
+        "participle": "broken",
+        "ing": "breaking"
+      },
+      "examples": [
+        {
+          "en": "I broke my sunglasses.",
+          "ru": "Я сломал солнечные очки.",
+          "topic": "travel"
+        },
+        {
+          "en": "Don't break the build!",
+          "ru": "Не ломай сборку!",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "pay",
+      "lemma": "pay",
+      "pos": "verb",
+      "rank": 70,
+      "irregular": true,
+      "translations": {
+        "ru": "платить"
+      },
+      "pair": "es:pagar",
+      "forms": {
+        "s": "pays",
+        "past": "paid",
+        "participle": "paid",
+        "ing": "paying"
+      },
+      "examples": [
+        {
+          "en": "Can I pay in cash?",
+          "ru": "Можно заплатить наличными?",
+          "topic": "travel"
+        },
+        {
+          "en": "I paid for the annual plan.",
+          "ru": "Я оплатил годовой тариф.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "eat",
+      "lemma": "eat",
+      "pos": "verb",
+      "rank": 71,
+      "irregular": true,
+      "translations": {
+        "ru": "есть"
+      },
+      "pair": "es:comer",
+      "forms": {
+        "s": "eats",
+        "past": "ate",
+        "participle": "eaten",
+        "ing": "eating"
+      },
+      "examples": [
+        {
+          "en": "Where do we eat tonight?",
+          "ru": "Где поужинаем сегодня?",
+          "topic": "travel"
+        },
+        {
+          "en": "I eat lunch at my desk.",
+          "ru": "Я обедаю за рабочим столом.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "change",
+      "lemma": "change",
+      "pos": "verb",
+      "rank": 72,
+      "translations": {
+        "ru": "менять(ся)"
+      },
+      "pair": "es:cambiar",
+      "forms": {
+        "s": "changes",
+        "past": "changed",
+        "participle": "changed",
+        "ing": "changing"
+      },
+      "examples": [
+        {
+          "en": "I want to change money.",
+          "ru": "Я хочу обменять деньги.",
+          "topic": "travel"
+        },
+        {
+          "en": "We change the password every month.",
+          "ru": "Мы меняем пароль каждый месяц.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "forget",
+      "lemma": "forget",
+      "pos": "verb",
+      "rank": 73,
+      "irregular": true,
+      "translations": {
+        "ru": "забывать"
+      },
+      "pair": "es:olvidar",
+      "forms": {
+        "s": "forgets",
+        "past": "forgot",
+        "participle": "forgotten",
+        "ing": "forgetting"
+      },
+      "examples": [
+        {
+          "en": "I forgot my charger at the hotel.",
+          "ru": "Я забыл зарядку в отеле.",
+          "topic": "travel"
+        },
+        {
+          "en": "Don't forget to commit.",
+          "ru": "Не забудь сделать коммит.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "sit",
+      "lemma": "sit",
+      "pos": "verb",
+      "rank": 74,
+      "irregular": true,
+      "translations": {
+        "ru": "сидеть; sit down — садиться"
+      },
+      "pair": "es:sentar",
+      "forms": {
+        "s": "sits",
+        "past": "sat",
+        "participle": "sat",
+        "ing": "sitting"
+      },
+      "examples": [
+        {
+          "en": "Let's sit on the terrace.",
+          "ru": "Сядем на террасе.",
+          "topic": "travel"
+        },
+        {
+          "en": "I sit next to the designers.",
+          "ru": "Я сижу рядом с дизайнерами.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "shoot",
+      "lemma": "shoot",
+      "pos": "verb",
+      "rank": 75,
+      "irregular": true,
+      "translations": {
+        "ru": "стрелять; снимать (фото, видео)"
+      },
+      "pair": "es:disparar",
+      "forms": {
+        "s": "shoots",
+        "past": "shot",
+        "participle": "shot",
+        "ing": "shooting"
+      },
+      "examples": [
+        {
+          "en": "We shot a video at the waterfall.",
+          "ru": "Мы сняли видео у водопада.",
+          "topic": "travel"
+        },
+        {
+          "en": "Shoot me a message when you are ready.",
+          "ru": "Черкни мне, когда будешь готов.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "send",
+      "lemma": "send",
+      "pos": "verb",
+      "rank": 76,
+      "irregular": true,
+      "translations": {
+        "ru": "отправлять"
+      },
+      "pair": "es:enviar",
+      "forms": {
+        "s": "sends",
+        "past": "sent",
+        "participle": "sent",
+        "ing": "sending"
+      },
+      "examples": [
+        {
+          "en": "I'll send you the hotel address.",
+          "ru": "Отправлю тебе адрес отеля.",
+          "topic": "travel"
+        },
+        {
+          "en": "I sent the report by email.",
+          "ru": "Я отправил отчёт по почте.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "seem",
+      "lemma": "seem",
+      "pos": "verb",
+      "rank": 77,
+      "translations": {
+        "ru": "казаться"
+      },
+      "pair": "es:parecer",
+      "forms": {
+        "s": "seems",
+        "past": "seemed",
+        "participle": "seemed",
+        "ing": "seeming"
+      },
+      "examples": [
+        {
+          "en": "It seems the museum is closed.",
+          "ru": "Кажется, музей закрыт.",
+          "topic": "travel"
+        },
+        {
+          "en": "It seems to work now.",
+          "ru": "Похоже, теперь работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "guess",
+      "lemma": "guess",
+      "pos": "verb",
+      "rank": 78,
+      "translations": {
+        "ru": "угадывать; полагать (I guess — наверное)"
+      },
+      "forms": {
+        "s": "guesses",
+        "past": "guessed",
+        "participle": "guessed",
+        "ing": "guessing"
+      },
+      "examples": [
+        {
+          "en": "I guess we are lost.",
+          "ru": "Похоже, мы заблудились.",
+          "topic": "travel"
+        },
+        {
+          "en": "Guess the password? No way.",
+          "ru": "Угадать пароль? Ни за что.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "face",
+      "lemma": "face",
+      "pos": "verb",
+      "rank": 79,
+      "translations": {
+        "ru": "сталкиваться (с проблемой); стоять лицом к"
+      },
+      "forms": {
+        "s": "faces",
+        "past": "faced",
+        "participle": "faced",
+        "ing": "facing"
+      },
+      "examples": [
+        {
+          "en": "Our room faces the sea.",
+          "ru": "Наш номер выходит на море.",
+          "topic": "travel"
+        },
+        {
+          "en": "We faced a lot of bugs.",
+          "ru": "Мы столкнулись со множеством багов.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "stand",
+      "lemma": "stand",
+      "pos": "verb",
+      "rank": 80,
+      "irregular": true,
+      "translations": {
+        "ru": "стоять; терпеть"
+      },
+      "forms": {
+        "s": "stands",
+        "past": "stood",
+        "participle": "stood",
+        "ing": "standing"
+      },
+      "examples": [
+        {
+          "en": "We stood in line for an hour.",
+          "ru": "Мы час простояли в очереди.",
+          "topic": "travel"
+        },
+        {
+          "en": "Stand up for the daily meeting.",
+          "ru": "Встаньте на ежедневную встречу.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "marry",
+      "lemma": "marry",
+      "pos": "verb",
+      "rank": 81,
+      "translations": {
+        "ru": "жениться, выходить замуж"
+      },
+      "forms": {
+        "s": "marries",
+        "past": "married",
+        "participle": "married",
+        "ing": "marrying"
+      },
+      "examples": [
+        {
+          "en": "They married in Spain.",
+          "ru": "Они поженились в Испании.",
+          "topic": "travel"
+        },
+        {
+          "en": "Will you marry me?",
+          "ru": "Ты выйдешь за меня?",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fight",
+      "lemma": "fight",
+      "pos": "verb",
+      "rank": 82,
+      "irregular": true,
+      "translations": {
+        "ru": "драться, бороться"
+      },
+      "forms": {
+        "s": "fights",
+        "past": "fought",
+        "participle": "fought",
+        "ing": "fighting"
+      },
+      "examples": [
+        {
+          "en": "The kids fight over the window seat.",
+          "ru": "Дети спорят за место у окна.",
+          "topic": "travel"
+        },
+        {
+          "en": "We fight technical debt every sprint.",
+          "ru": "Мы боремся с техдолгом каждый спринт.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "lie",
+      "lemma": "lie",
+      "pos": "verb",
+      "rank": 83,
+      "irregular": true,
+      "translations": {
+        "ru": "лежать; лгать"
+      },
+      "forms": {
+        "s": "lies",
+        "past": "lay / lied",
+        "participle": "lain / lied",
+        "ing": "lying"
+      },
+      "examples": [
+        {
+          "en": "I want to lie on the beach all day.",
+          "ru": "Хочу весь день лежать на пляже.",
+          "topic": "travel"
+        },
+        {
+          "en": "Don't lie, did you test it?",
+          "ru": "Не ври, ты это проверял?",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Два глагола: lie — lay — lain (лежать), lie — lied — lied (лгать)"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "write",
+      "lemma": "write",
+      "pos": "verb",
+      "rank": 84,
+      "irregular": true,
+      "translations": {
+        "ru": "писать"
+      },
+      "pair": "es:escribir",
+      "forms": {
+        "s": "writes",
+        "past": "wrote",
+        "participle": "written",
+        "ing": "writing"
+      },
+      "examples": [
+        {
+          "en": "I wrote a postcard to my parents.",
+          "ru": "Я написал открытку родителям.",
+          "topic": "travel"
+        },
+        {
+          "en": "Write the function, then the tests.",
+          "ru": "Напиши функцию, потом тесты.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "walk",
+      "lemma": "walk",
+      "pos": "verb",
+      "rank": 85,
+      "translations": {
+        "ru": "ходить пешком, гулять"
+      },
+      "forms": {
+        "s": "walks",
+        "past": "walked",
+        "participle": "walked",
+        "ing": "walking"
+      },
+      "examples": [
+        {
+          "en": "We walked to the old town.",
+          "ru": "Мы дошли пешком до старого города.",
+          "topic": "travel"
+        },
+        {
+          "en": "I walk to the office.",
+          "ru": "Я хожу в офис пешком.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "sound",
+      "lemma": "sound",
+      "pos": "verb",
+      "rank": 86,
+      "translations": {
+        "ru": "звучать"
+      },
+      "forms": {
+        "s": "sounds",
+        "past": "sounded",
+        "participle": "sounded",
+        "ing": "sounding"
+      },
+      "examples": [
+        {
+          "en": "That sounds like a great plan.",
+          "ru": "Звучит как отличный план.",
+          "topic": "travel"
+        },
+        {
+          "en": "It sounds good to me.",
+          "ru": "По-моему, хорошо.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "check",
+      "lemma": "check",
+      "pos": "verb",
+      "rank": 87,
+      "translations": {
+        "ru": "проверять; check in/out — заселяться/выселяться"
+      },
+      "forms": {
+        "s": "checks",
+        "past": "checked",
+        "participle": "checked",
+        "ing": "checking"
+      },
+      "examples": [
+        {
+          "en": "We check in at three.",
+          "ru": "Мы заселяемся в три.",
+          "topic": "travel"
+        },
+        {
+          "en": "Check the logs first.",
+          "ru": "Сначала проверь логи.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "excuse",
+      "lemma": "excuse",
+      "pos": "verb",
+      "rank": 88,
+      "translations": {
+        "ru": "извинять; excuse me — извините"
+      },
+      "pair": "es:disculpar",
+      "forms": {
+        "s": "excuses",
+        "past": "excused",
+        "participle": "excused",
+        "ing": "excusing"
+      },
+      "examples": [
+        {
+          "en": "Excuse me, where is the toilet?",
+          "ru": "Извините, где туалет?",
+          "topic": "travel"
+        },
+        {
+          "en": "Excuse me, can I ask a question?",
+          "ru": "Простите, можно вопрос?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "suppose",
+      "lemma": "suppose",
+      "pos": "verb",
+      "rank": 89,
+      "translations": {
+        "ru": "предполагать; be supposed to — должно"
+      },
+      "pair": "es:suponer",
+      "forms": {
+        "s": "supposes",
+        "past": "supposed",
+        "participle": "supposed",
+        "ing": "supposing"
+      },
+      "examples": [
+        {
+          "en": "I suppose the shops are closed today.",
+          "ru": "Полагаю, сегодня магазины закрыты.",
+          "topic": "travel"
+        },
+        {
+          "en": "It is supposed to work offline.",
+          "ru": "Это должно работать офлайн.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "drink",
+      "lemma": "drink",
+      "pos": "verb",
+      "rank": 90,
+      "irregular": true,
+      "translations": {
+        "ru": "пить"
+      },
+      "pair": "es:tomar",
+      "forms": {
+        "s": "drinks",
+        "past": "drank",
+        "participle": "drunk",
+        "ing": "drinking"
+      },
+      "examples": [
+        {
+          "en": "What would you like to drink?",
+          "ru": "Что будете пить?",
+          "topic": "travel"
+        },
+        {
+          "en": "I drink too much coffee at work.",
+          "ru": "Я пью слишком много кофе на работе.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "buy",
+      "lemma": "buy",
+      "pos": "verb",
+      "rank": 91,
+      "irregular": true,
+      "translations": {
+        "ru": "покупать"
+      },
+      "pair": "es:comprar",
+      "forms": {
+        "s": "buys",
+        "past": "bought",
+        "participle": "bought",
+        "ing": "buying"
+      },
+      "examples": [
+        {
+          "en": "We bought the tickets online.",
+          "ru": "Мы купили билеты онлайн.",
+          "topic": "travel"
+        },
+        {
+          "en": "I bought a new keyboard.",
+          "ru": "Я купил новую клавиатуру.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "become",
+      "lemma": "become",
+      "pos": "verb",
+      "rank": 92,
+      "irregular": true,
+      "translations": {
+        "ru": "становиться"
+      },
+      "forms": {
+        "s": "becomes",
+        "past": "became",
+        "participle": "become",
+        "ing": "becoming"
+      },
+      "examples": [
+        {
+          "en": "The city becomes busy in summer.",
+          "ru": "Летом город становится оживлённым.",
+          "topic": "travel"
+        },
+        {
+          "en": "She became a team lead.",
+          "ru": "Она стала тимлидом.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "save",
+      "lemma": "save",
+      "pos": "verb",
+      "rank": 93,
+      "translations": {
+        "ru": "сохранять; спасать; экономить"
+      },
+      "forms": {
+        "s": "saves",
+        "past": "saved",
+        "participle": "saved",
+        "ing": "saving"
+      },
+      "examples": [
+        {
+          "en": "We save money with the train pass.",
+          "ru": "Мы экономим с проездным на поезд.",
+          "topic": "travel"
+        },
+        {
+          "en": "Save your changes.",
+          "ru": "Сохрани изменения.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hit",
+      "lemma": "hit",
+      "pos": "verb",
+      "rank": 94,
+      "irregular": true,
+      "translations": {
+        "ru": "ударять; попадать"
+      },
+      "forms": {
+        "s": "hits",
+        "past": "hit",
+        "participle": "hit",
+        "ing": "hitting"
+      },
+      "examples": [
+        {
+          "en": "We hit traffic on the way.",
+          "ru": "По дороге мы попали в пробку.",
+          "topic": "travel"
+        },
+        {
+          "en": "Hit Enter to continue.",
+          "ru": "Нажми Enter, чтобы продолжить.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "read",
+      "lemma": "read",
+      "pos": "verb",
+      "rank": 95,
+      "irregular": true,
+      "translations": {
+        "ru": "читать"
+      },
+      "pair": "es:leer",
+      "forms": {
+        "s": "reads",
+        "past": "read",
+        "participle": "read",
+        "ing": "reading"
+      },
+      "examples": [
+        {
+          "en": "I read a book on the plane.",
+          "ru": "Я читаю книгу в самолёте.",
+          "topic": "travel"
+        },
+        {
+          "en": "Did you read the docs?",
+          "ru": "Ты прочитал документацию?",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Прошедшее пишется так же, но читается [red]"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "pick",
+      "lemma": "pick",
+      "pos": "verb",
+      "rank": 96,
+      "translations": {
+        "ru": "выбирать; pick up — забирать"
+      },
+      "forms": {
+        "s": "picks",
+        "past": "picked",
+        "participle": "picked",
+        "ing": "picking"
+      },
+      "examples": [
+        {
+          "en": "I will pick you up at the airport.",
+          "ru": "Я заберу тебя из аэропорта.",
+          "topic": "travel"
+        },
+        {
+          "en": "Pick a task from the board.",
+          "ru": "Возьми задачу с доски.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "drive",
+      "lemma": "drive",
+      "pos": "verb",
+      "rank": 97,
+      "irregular": true,
+      "translations": {
+        "ru": "водить машину, ехать"
+      },
+      "forms": {
+        "s": "drives",
+        "past": "drove",
+        "participle": "driven",
+        "ing": "driving"
+      },
+      "examples": [
+        {
+          "en": "We drove along the coast.",
+          "ru": "Мы ехали вдоль побережья.",
+          "topic": "travel"
+        },
+        {
+          "en": "I drive to the office on Mondays.",
+          "ru": "По понедельникам я езжу в офис на машине.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "shut",
+      "lemma": "shut",
+      "pos": "verb",
+      "rank": 98,
+      "irregular": true,
+      "translations": {
+        "ru": "закрывать; shut down — выключать"
+      },
+      "forms": {
+        "s": "shuts",
+        "past": "shut",
+        "participle": "shut",
+        "ing": "shutting"
+      },
+      "examples": [
+        {
+          "en": "Shut the window, it is cold.",
+          "ru": "Закрой окно, холодно.",
+          "topic": "travel"
+        },
+        {
+          "en": "Shut down the old server.",
+          "ru": "Выключи старый сервер.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "catch",
+      "lemma": "catch",
+      "pos": "verb",
+      "rank": 99,
+      "irregular": true,
+      "translations": {
+        "ru": "ловить; успеть на (транспорт)"
+      },
+      "forms": {
+        "s": "catches",
+        "past": "caught",
+        "participle": "caught",
+        "ing": "catching"
+      },
+      "examples": [
+        {
+          "en": "We caught the last train.",
+          "ru": "Мы успели на последний поезд.",
+          "topic": "travel"
+        },
+        {
+          "en": "Catch the exception and log it.",
+          "ru": "Перехвати исключение и запиши в лог.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "set",
+      "lemma": "set",
+      "pos": "verb",
+      "rank": 100,
+      "irregular": true,
+      "translations": {
+        "ru": "устанавливать, ставить; set up — настраивать"
+      },
+      "forms": {
+        "s": "sets",
+        "past": "set",
+        "participle": "set",
+        "ing": "setting"
+      },
+      "examples": [
+        {
+          "en": "Set an alarm for six.",
+          "ru": "Поставь будильник на шесть.",
+          "topic": "travel"
+        },
+        {
+          "en": "I set up the new laptop.",
+          "ru": "Я настроил новый ноутбук.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "spend",
+      "lemma": "spend",
+      "pos": "verb",
+      "rank": 121,
+      "irregular": true,
+      "translations": {
+        "ru": "тратить; проводить (время)"
+      },
+      "forms": {
+        "s": "spends",
+        "past": "spent",
+        "participle": "spent",
+        "ing": "spending"
+      },
+      "examples": [
+        {
+          "en": "We spent a week in Spain.",
+          "ru": "Мы провели неделю в Испании.",
+          "topic": "travel"
+        },
+        {
+          "en": "I spent all day on this bug.",
+          "ru": "Я потратил весь день на этот баг.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "expect",
+      "lemma": "expect",
+      "pos": "verb",
+      "rank": 127,
+      "translations": {
+        "ru": "ожидать, рассчитывать"
+      },
+      "pair": "es:esperar",
+      "forms": {
+        "s": "expects",
+        "past": "expected",
+        "participle": "expected",
+        "ing": "expecting"
+      },
+      "examples": [
+        {
+          "en": "They expect rain tomorrow.",
+          "ru": "Завтра ожидается дождь.",
+          "topic": "travel"
+        },
+        {
+          "en": "We expect the release next week.",
+          "ru": "Мы ожидаем релиз на следующей неделе.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "explain",
+      "lemma": "explain",
+      "pos": "verb",
+      "rank": 142,
+      "translations": {
+        "ru": "объяснять"
+      },
+      "forms": {
+        "s": "explains",
+        "past": "explained",
+        "participle": "explained",
+        "ing": "explaining"
+      },
+      "examples": [
+        {
+          "en": "Can you explain the map to me?",
+          "ru": "Можете объяснить мне карту?",
+          "topic": "travel"
+        },
+        {
+          "en": "Can you explain your solution to the team?",
+          "ru": "Можешь объяснить своё решение команде?",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "explain something to someone — не explain me: Explain it to me"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "finish",
+      "lemma": "finish",
+      "pos": "verb",
+      "rank": 183,
+      "translations": {
+        "ru": "заканчивать"
+      },
+      "pair": "es:terminar",
+      "forms": {
+        "s": "finishes",
+        "past": "finished",
+        "participle": "finished",
+        "ing": "finishing"
+      },
+      "examples": [
+        {
+          "en": "The tour finishes at the museum.",
+          "ru": "Экскурсия заканчивается у музея.",
+          "topic": "travel"
+        },
+        {
+          "en": "I need to finish this task by Friday.",
+          "ru": "Мне нужно закончить эту задачу к пятнице.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "manage",
+      "lemma": "manage",
+      "pos": "verb",
+      "rank": 232,
+      "translations": {
+        "ru": "управлять, руководить; справляться"
+      },
+      "forms": {
+        "s": "manages",
+        "past": "managed",
+        "participle": "managed",
+        "ing": "managing"
+      },
+      "examples": [
+        {
+          "en": "We managed to find a hotel.",
+          "ru": "Нам удалось найти отель.",
+          "topic": "travel"
+        },
+        {
+          "en": "She manages two teams.",
+          "ru": "Она руководит двумя командами.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "manage to do — суметь, удаться"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "discuss",
+      "lemma": "discuss",
+      "pos": "verb",
+      "rank": 253,
+      "translations": {
+        "ru": "обсуждать"
+      },
+      "forms": {
+        "s": "discusses",
+        "past": "discussed",
+        "participle": "discussed",
+        "ing": "discussing"
+      },
+      "examples": [
+        {
+          "en": "Let's discuss the plan for tomorrow.",
+          "ru": "Давай обсудим план на завтра.",
+          "topic": "travel"
+        },
+        {
+          "en": "Let's discuss it at the meeting.",
+          "ru": "Обсудим это на встрече.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Без about: discuss the plan, а не discuss about the plan"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "include",
+      "lemma": "include",
+      "pos": "verb",
+      "rank": 262,
+      "translations": {
+        "ru": "включать (в состав)"
+      },
+      "forms": {
+        "s": "includes",
+        "past": "included",
+        "participle": "included",
+        "ing": "including"
+      },
+      "examples": [
+        {
+          "en": "Is breakfast included?",
+          "ru": "Завтрак включён?",
+          "topic": "travel"
+        },
+        {
+          "en": "The release includes three new features.",
+          "ru": "Релиз включает три новые функции.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "solve",
+      "lemma": "solve",
+      "pos": "verb",
+      "rank": 307,
+      "translations": {
+        "ru": "решать (задачу, проблему)"
+      },
+      "forms": {
+        "s": "solves",
+        "past": "solved",
+        "participle": "solved",
+        "ing": "solving"
+      },
+      "examples": [
+        {
+          "en": "The receptionist solved our problem.",
+          "ru": "Администратор решил нашу проблему.",
+          "topic": "travel"
+        },
+        {
+          "en": "We solved the problem with the data.",
+          "ru": "Мы решили проблему с данными.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "afford",
+      "lemma": "afford",
+      "pos": "verb",
+      "rank": 321,
+      "translations": {
+        "ru": "позволить себе (по деньгам, времени)"
+      },
+      "forms": {
+        "s": "affords",
+        "past": "afforded",
+        "participle": "afforded",
+        "ing": "affording"
+      },
+      "examples": [
+        {
+          "en": "We can't afford a taxi.",
+          "ru": "Мы не можем позволить себе такси.",
+          "topic": "travel"
+        },
+        {
+          "en": "We can't afford another delay.",
+          "ru": "Мы не можем позволить себе ещё одну задержку.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Обычно с can / can't: can afford, can't afford"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "confirm",
+      "lemma": "confirm",
+      "pos": "verb",
+      "rank": 326,
+      "translations": {
+        "ru": "подтверждать"
+      },
+      "forms": {
+        "s": "confirms",
+        "past": "confirmed",
+        "participle": "confirmed",
+        "ing": "confirming"
+      },
+      "examples": [
+        {
+          "en": "Could you confirm my booking?",
+          "ru": "Не могли бы вы подтвердить мою бронь?",
+          "topic": "travel"
+        },
+        {
+          "en": "Can you confirm the fix works?",
+          "ru": "Можешь подтвердить, что исправление работает?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fix",
+      "lemma": "fix",
+      "pos": "verb",
+      "rank": 327,
+      "translations": {
+        "ru": "чинить, исправлять"
+      },
+      "forms": {
+        "s": "fixes",
+        "past": "fixed",
+        "participle": "fixed",
+        "ing": "fixing"
+      },
+      "examples": [
+        {
+          "en": "Can you fix the air conditioning?",
+          "ru": "Можете починить кондиционер?",
+          "topic": "travel"
+        },
+        {
+          "en": "Have you fixed the bug yet?",
+          "ru": "Ты уже исправил баг?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "require",
+      "lemma": "require",
+      "pos": "verb",
+      "rank": 337,
+      "translations": {
+        "ru": "требовать, нуждаться"
+      },
+      "forms": {
+        "s": "requires",
+        "past": "required",
+        "participle": "required",
+        "ing": "requiring"
+      },
+      "examples": [
+        {
+          "en": "This trip requires a visa.",
+          "ru": "Для этой поездки нужна виза.",
+          "topic": "travel"
+        },
+        {
+          "en": "This change requires a new test.",
+          "ru": "Это изменение требует нового теста.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Официальнее, чем need: The job requires…"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cancel",
+      "lemma": "cancel",
+      "pos": "verb",
+      "rank": 351,
+      "translations": {
+        "ru": "отменять"
+      },
+      "forms": {
+        "s": "cancels",
+        "past": "cancelled",
+        "participle": "cancelled",
+        "ing": "cancelling"
+      },
+      "examples": [
+        {
+          "en": "Our flight has been cancelled.",
+          "ru": "Наш рейс отменили.",
+          "topic": "travel"
+        },
+        {
+          "en": "We cancelled the meeting.",
+          "ru": "Мы отменили встречу.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Британское cancelled, американское canceled"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "complain",
+      "lemma": "complain",
+      "pos": "verb",
+      "rank": 373,
+      "translations": {
+        "ru": "жаловаться"
+      },
+      "forms": {
+        "s": "complains",
+        "past": "complained",
+        "participle": "complained",
+        "ing": "complaining"
+      },
+      "examples": [
+        {
+          "en": "I want to complain about the noise.",
+          "ru": "Я хочу пожаловаться на шум.",
+          "topic": "travel"
+        },
+        {
+          "en": "Users complain about the slow app.",
+          "ru": "Пользователи жалуются на медленное приложение.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "complain about something, complain to someone"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "release",
+      "lemma": "release",
+      "pos": "verb",
+      "rank": 399,
+      "translations": {
+        "ru": "выпускать (релиз); отпускать"
+      },
+      "forms": {
+        "s": "releases",
+        "past": "released",
+        "participle": "released",
+        "ing": "releasing"
+      },
+      "examples": [
+        {
+          "en": "The hotel released our room early.",
+          "ru": "Отель рано освободил наш номер.",
+          "topic": "travel"
+        },
+        {
+          "en": "We release a new version every month.",
+          "ru": "Мы выпускаем новую версию каждый месяц.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "share",
+      "lemma": "share",
+      "pos": "verb",
+      "rank": 411,
+      "translations": {
+        "ru": "делиться; давать доступ"
+      },
+      "forms": {
+        "s": "shares",
+        "past": "shared",
+        "participle": "shared",
+        "ing": "sharing"
+      },
+      "examples": [
+        {
+          "en": "We can share a taxi.",
+          "ru": "Можем взять одно такси на двоих.",
+          "topic": "travel"
+        },
+        {
+          "en": "Could you share the file with me?",
+          "ru": "Можешь дать мне доступ к файлу?",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "share something with someone"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "crash",
+      "lemma": "crash",
+      "pos": "verb",
+      "rank": 427,
+      "translations": {
+        "ru": "падать (о программе); разбиться"
+      },
+      "forms": {
+        "s": "crashes",
+        "past": "crashed",
+        "participle": "crashed",
+        "ing": "crashing"
+      },
+      "examples": [
+        {
+          "en": "The booking site crashed again.",
+          "ru": "Сайт бронирования опять упал.",
+          "topic": "travel"
+        },
+        {
+          "en": "The app crashes when I open the camera.",
+          "ru": "Приложение падает, когда я открываю камеру.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "recommend",
+      "lemma": "recommend",
+      "pos": "verb",
+      "rank": 490,
+      "translations": {
+        "ru": "рекомендовать, советовать"
+      },
+      "forms": {
+        "s": "recommends",
+        "past": "recommended",
+        "participle": "recommended",
+        "ing": "recommending"
+      },
+      "examples": [
+        {
+          "en": "Could you recommend a good restaurant?",
+          "ru": "Посоветуете хороший ресторан?",
+          "topic": "travel"
+        },
+        {
+          "en": "I recommend a code review first.",
+          "ru": "Советую сначала сделать ревью кода.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "recommend something; «советую сделать» — recommend doing или recommend that you do"
+      },
+      "ext": {
+        "draft": true
+      }
+    }
+  ]
+}

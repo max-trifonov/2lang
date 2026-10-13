@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-03",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 3,
+  "level": "B1",
+  "title": {
+    "ru": "Чуть не опоздал",
+    "en": "I nearly missed it",
+    "es": "Casi lo pierdo"
+  },
+  "words": [
+    "miss",
+    "bus",
+    "nearly"
+  ],
+  "phrase": {
+    "en": "I nearly missed the last bus.",
+    "ru": "Я чуть не опоздал на последний автобус.",
+    "es": "Casi pierdo el último autobús."
+  },
+  "rule": {
+    "text": {
+      "ru": "miss — «опоздать на транспорт, пропустить»: miss the bus, miss a meeting; ещё — «скучать»: I miss you. nearly + прошедшее — «чуть не»: I nearly missed it.",
+      "en": "miss means “to be too late for, to not catch”: miss the bus, miss a meeting; also “to feel sad without”: I miss you. nearly + past means “almost happened”: I nearly missed it.",
+      "es": "miss: perder el transporte o una reunión; también «echar de menos». nearly + pasado = «casi»: I nearly missed it."
+    },
+    "examples": [
+      {
+        "en": "Hurry up, or we'll miss the train!",
+        "ru": "Поторопись, а то опоздаем на поезд!"
+      },
+      {
+        "en": "I nearly forgot my passport.",
+        "ru": "Я чуть не забыл паспорт."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We ___ the bus and took a taxi.",
+      "answer": "missed",
+      "ru": "Мы опоздали на автобус и взяли такси."
+    },
+    {
+      "type": "fill",
+      "en": "I ___ missed my flight.",
+      "answer": "nearly",
+      "ru": "Я чуть не опоздал на рейс."
+    },
+    {
+      "type": "build",
+      "en": "Don't miss the last bus.",
+      "ru": "Не опоздай на последний автобус.",
+      "extra": [
+        "nearly"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я чуть не опоздал на автобус.",
+      "answer": [
+        "I nearly missed the bus.",
+        "I almost missed the bus."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-08",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 8,
+  "level": "B1",
+  "title": {
+    "ru": "Выходные за границей",
+    "en": "A weekend abroad",
+    "es": "Un fin de semana en el extranjero"
+  },
+  "words": [
+    "spend",
+    "weekend",
+    "trip",
+    "abroad"
+  ],
+  "phrase": {
+    "en": "We're spending the weekend abroad.",
+    "ru": "Мы проводим выходные за границей.",
+    "es": "Pasamos el fin de semana en el extranjero."
+  },
+  "rule": {
+    "text": {
+      "ru": "Договорённость на ближайшее будущее — Present Continuous: We're spending the weekend in Rome. abroad — без предлога: go abroad, live abroad (не to abroad).",
+      "en": "For fixed plans in the near future, use the Present Continuous: We’re spending the weekend in Rome. abroad takes no preposition: go abroad, not to abroad.",
+      "es": "Planes cercanos: Present Continuous — We’re spending the weekend in Rome. abroad sin preposición: go abroad."
+    },
+    "examples": [
+      {
+        "en": "We're flying to Lisbon on Friday.",
+        "ru": "В пятницу мы летим в Лиссабон."
+      },
+      {
+        "en": "How much did you spend on the trip?",
+        "ru": "Сколько ты потратил на поездку?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We ___ a week in Italy last summer.",
+      "answer": "spent",
+      "ru": "Прошлым летом мы провели неделю в Италии."
+    },
+    {
+      "type": "fill",
+      "en": "Are you going ___ this year?",
+      "answer": "abroad",
+      "ru": "Ты едешь за границу в этом году?"
+    },
+    {
+      "type": "build",
+      "en": "We're spending the weekend abroad.",
+      "ru": "Мы проводим выходные за границей.",
+      "extra": [
+        "to"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Как прошла поездка?",
+      "answer": [
+        "How was your trip?",
+        "How was the trip?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

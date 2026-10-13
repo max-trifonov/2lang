@@ -1,0 +1,163 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-06",
+  "lang": "es",
+  "kind": "grammar",
+  "code": "ES-6",
+  "order": 6,
+  "level": "A1",
+  "requires": [
+    "es-travel-01"
+  ],
+  "title": {
+    "ru": "Нужно сделать: tener que + инфинитив",
+    "en": "Have to: tener que + infinitive",
+    "es": "Obligación: tener que + infinitivo"
+  },
+  "words": [
+    "tener",
+    "hacer",
+    "ir"
+  ],
+  "pattern": [
+    {
+      "es": "Tengo que trabajar mañana.",
+      "ru": "Мне нужно работать завтра."
+    },
+    {
+      "es": "Tenemos que hacer un deploy hoy.",
+      "ru": "Нам нужно сделать деплой сегодня."
+    },
+    {
+      "es": "Tienes que ir al aeropuerto a las seis.",
+      "ru": "Тебе нужно ехать в аэропорт к шести."
+    }
+  ],
+  "rule": {
+    "formula": "tener que + инфинитив",
+    "text": {
+      "ru": "«Нужно, должен что-то сделать» — tener по лицам + que + глагол в начальной форме. Отрицание: no tengo que — «не нужно».",
+      "en": "“Have to do something” is tener (by person) + que + infinitive. Negative: no tengo que — “don’t have to”.",
+      "es": "Obligación: tener (conjugado) + que + infinitivo. Negación: no tengo que."
+    },
+    "table": {
+      "head": [
+        "",
+        "tener que + ir"
+      ],
+      "rows": [
+        [
+          "yo",
+          "tengo que ir"
+        ],
+        [
+          "tú",
+          "tienes que ir"
+        ],
+        [
+          "él / ella / usted",
+          "tiene que ir"
+        ],
+        [
+          "nosotros",
+          "tenemos que ir"
+        ],
+        [
+          "vosotros",
+          "tenéis que ir"
+        ],
+        [
+          "ellos / ustedes",
+          "tienen que ir"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "now",
+        "until": "future",
+        "label": {
+          "ru": "обязанность сейчас или впереди",
+          "en": "an obligation now or ahead",
+          "es": "una obligación ahora o más adelante"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "formula": "have to + V",
+      "examples": [
+        {
+          "en": "I have to work tomorrow.",
+          "ru": "Мне нужно работать завтра."
+        }
+      ],
+      "note": {
+        "ru": "почти 1:1; don't have to = no tengo que — «не обязательно», а не «нельзя»"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Tengo que trabajar hoy.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": "No tengo que trabajar hoy."
+        },
+        {
+          "form": "question",
+          "answer": [
+            "¿Tengo que trabajar hoy?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "Nosotros ___ que salir a las ocho.",
+      "options": [
+        "tengo",
+        "tenemos",
+        "tienen"
+      ],
+      "answer": "tenemos",
+      "ru": "Нам нужно выйти в восемь."
+    },
+    {
+      "type": "fill",
+      "es": "¿___ que pagar ahora?",
+      "answer": [
+        "Tengo",
+        "Tenemos",
+        "Tienes"
+      ],
+      "ru": "Нужно платить сейчас?"
+    },
+    {
+      "type": "build",
+      "es": "Tenemos que hacer un deploy hoy.",
+      "ru": "Нам нужно сделать деплой сегодня.",
+      "extra": [
+        "tiene"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вам нужно сделать завтра.",
+        "en": "Write what you have to do tomorrow.",
+        "es": "Escribe qué tienes que hacer mañana."
+      },
+      "template": "Mañana tengo que …",
+      "sample": [
+        "Mañana tengo que ir al aeropuerto.",
+        "Mañana tengo que trabajar."
+      ]
+    }
+  ]
+}

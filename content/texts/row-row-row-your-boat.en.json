@@ -1,0 +1,97 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "row-row-row-your-boat",
+  "kind": "song",
+  "lang": "en",
+  "license": "public-domain",
+  "title": {
+    "en": "Row, Row, Row Your Boat",
+    "ru": "Греби, греби на лодке"
+  },
+  "author": "народная (1852)",
+  "level": "A1",
+  "tags": [
+    "kids",
+    "traditional"
+  ],
+  "note": {
+    "ru": "Детская песня-канон. Хорошо тренирует повелительное наклонение и звук [r]."
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "en": "Row, row, row your boat,",
+          "ru": "Греби, греби, греби на своей лодке,",
+          "phrases": [
+            {
+              "en": "row your boat",
+              "ru": "греби на своей лодке",
+              "note": {
+                "ru": "Повелительное наклонение — глагол без to и без подлежащего"
+              }
+            }
+          ],
+          "words": [
+            {
+              "en": "Row",
+              "lemma": "row",
+              "pos": "verb",
+              "ru": "грести"
+            },
+            {
+              "en": "boat",
+              "lemma": "boat",
+              "pos": "noun",
+              "ru": "лодка"
+            }
+          ]
+        },
+        {
+          "en": "Gently down the stream.",
+          "ru": "Тихонько вниз по течению.",
+          "words": [
+            {
+              "en": "Gently",
+              "lemma": "gently",
+              "pos": "adv",
+              "ru": "мягко, тихонько"
+            },
+            {
+              "en": "stream",
+              "lemma": "stream",
+              "pos": "noun",
+              "ru": "ручей, течение"
+            }
+          ]
+        },
+        {
+          "en": "Merrily, merrily, merrily, merrily,",
+          "ru": "Весело, весело, весело, весело,",
+          "words": [
+            {
+              "en": "Merrily",
+              "lemma": "merrily",
+              "pos": "adv",
+              "ru": "весело"
+            }
+          ]
+        },
+        {
+          "en": "Life is but a dream.",
+          "ru": "Жизнь — всего лишь сон.",
+          "phrases": [
+            {
+              "en": "Life is but a dream",
+              "ru": "жизнь — всего лишь сон",
+              "note": {
+                "ru": "but здесь значит «только, всего лишь» (как only)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

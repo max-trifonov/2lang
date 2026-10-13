@@ -1,0 +1,42 @@
+/* Статический снимок defaultTheme — первый кадр уже стилизован. Рантайм пишет те же имена через applyTheme(). */
+:root {
+  --color-bg: #f4f5f9;
+  --color-bg-rgb: 244, 245, 249;
+  --color-surface: #ffffff;
+  --color-surface-rgb: 255, 255, 255;
+  --color-surface-alt: #eceef4;
+  --color-primary: #23264d;
+  --color-primary-rgb: 35, 38, 77;
+  --color-on-primary: #ffffff;
+  --color-accent: #ffc53d;
+  --color-on-accent: #2a1e00;
+  --color-fg: #15172e;
+  --color-fg-muted: #4a4f6a;
+  --color-fg-subtle: #676c8a;
+  --color-fg-on-dark: #ffffff;
+  --color-chip: #e6e8f0;
+  --color-chip-strong: #d3d6e2;
+  --color-stroke: #e3e5ee;
+  --color-success: #0b7d52;
+  --color-danger: #d33a40;
+  --color-info: #23264d;
+  --color-overlay: rgba(21, 23, 46, 0.72);
+  --color-primary-pressed: #1f2244;
+  --color-primary-disabled: #a7a8b8;
+  --font-sans: 'Onest Variable', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-serif: 'Fraunces Variable', ui-serif, Georgia, serif;
+  --font-base: 16px;
+  --font-scale: 1;
+  --radius-xs: 10px;
+  --radius-sm: 14px;
+  --radius-md: 18px;
+  --radius-lg: 24px;
+  --radius-xl: 999px;
+  --size-gutter: 16px;
+  --shadow-card: 0 1px 2px rgba(21, 23, 46, 0.04), 0 6px 20px -8px rgba(21, 23, 46, 0.12);
+  --ion-background-color: #f4f5f9;
+  --ion-text-color: #15172e;
+  --ion-font-family: 'Onest Variable', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --ion-color-primary: #23264d;
+  --ion-color-primary-contrast: #ffffff;
+}

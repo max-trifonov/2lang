@@ -1,0 +1,547 @@
+# Импорт частотности — es
+
+## Алиасы (форма → лемма): 42
+
+- sólo (adv, ранг источника 72) → solo
+- buen (adj, ранг источника 111) → bueno
+- gran (adj, ранг источника 174) → grande
+- oir (verb, ранг источника 187) → oír
+- vaya (verb, ранг источника 249) → ir
+- buena (adj, ранг источника 259) → bueno
+- quizás (adv, ранг источника 300) → quizá
+- primer (adj, ранг источника 373) → primero
+- mas (adv, ранг источника 374) → más
+- vetar (verb, ранг источника 391) → ir
+- aqui (adv, ранг источника 532) → aquí
+- haz (verb, ранг источника 636) → hacer
+- asi (adv, ранг источника 713) → así
+- sal (verb, ранг источника 794) → salir
+- dale (verb, ранг источника 872) → dar
+- órden (noun, ранг источника 1060) → orden
+- hayas (verb, ранг источника 1084) → haber
+- estáis (verb, ранг источника 1130) → estar
+- embarazado (adj, ранг источника 1167) → embarazada
+- vacación (noun, ранг источника 1224) → vacaciones
+- oiga (verb, ранг источника 1294) → oír
+- mala (adj, ранг источника 1336) → malo
+- estan (verb, ранг источника 1392) → estar
+- ahi (adv, ранг источника 1501) → ahí
+- tomé (verb, ранг источника 1546) → tomar
+- dígamir (verb, ранг источника 1600) → decir
+- quedo (verb, ранг источника 1609) → quedar
+- tambien (adv, ранг источника 1625) → también
+- mama (noun, ранг источника 1732) → mamá
+- tercer (adj, ранг источника 1788) → tercero
+- corta (verb, ранг источника 1818) → cortar
+- decírselo (verb, ранг источника 1971) → decir
+- despues (adv, ранг источника 1985) → después
+- vean (verb, ранг источника 2030) → ver
+- dímelo (verb, ранг источника 2139) → decir
+- adonde (adv, ранг источника 2612) → adónde
+- alli (adv, ранг источника 3126) → allí
+- cuan (adv, ранг источника 5417) → cuán
+- bién (adv, ранг источника 5442) → bien
+- constructor (noun, ранг источника 7696) → function Object() { [native code] }
+- ultimamente (adv, ранг источника 8645) → últimamente
+- constructor (adj, ранг источника 16837) → function Object() { [native code] }
+
+## Слиты дубли: 55
+
+- ser (verb, ранг источника 35) → ser
+- ir (verb, ранг источника 37) → ir
+- poder (verb, ранг источника 39) → poder
+- haber (verb, ранг источника 60) → haber
+- solo (adv, ранг источника 86) → solo
+- buen (adj, ранг источника 111) → bueno
+- oír (verb, ранг источника 228) → oír
+- grande (adj, ранг источника 233) → grande
+- vaya (verb, ранг источника 249) → ir
+- buena (adj, ранг источника 259) → bueno
+- quizás (adv, ранг источника 300) → quizá
+- primer (adj, ранг источника 373) → primero
+- mas (adv, ранг источника 374) → más
+- vetar (verb, ранг источника 391) → ir
+- aqui (adv, ранг источника 532) → aquí
+- haz (verb, ранг источника 636) → hacer
+- asi (adv, ранг источника 713) → así
+- sal (verb, ранг источника 794) → salir
+- dale (verb, ранг источника 872) → dar
+- órden (noun, ранг источника 1060) → orden
+- hayas (verb, ранг источника 1084) → haber
+- estáis (verb, ранг источника 1130) → estar
+- oiga (verb, ранг источника 1294) → oír
+- mala (adj, ранг источника 1336) → malo
+- estan (verb, ранг источника 1392) → estar
+- ahi (adv, ранг источника 1501) → ahí
+- tomé (verb, ранг источника 1546) → tomar
+- dígamir (verb, ранг источника 1600) → decir
+- quedo (verb, ранг источника 1609) → quedar
+- tambien (adv, ранг источника 1625) → también
+- deber (verb, ранг источника 1638) → deber
+- mama (noun, ранг источника 1732) → mamá
+- tercer (adj, ранг источника 1788) → tercero
+- corta (verb, ранг источника 1818) → cortar
+- decírselo (verb, ранг источника 1971) → decir
+- despues (adv, ранг источника 1985) → después
+- vean (verb, ранг источника 2030) → ver
+- dímelo (verb, ранг источника 2139) → decir
+- adonde (adv, ранг источника 2612) → adónde
+- alli (adv, ранг источника 3126) → allí
+- eir (verb, ранг источника 3781) → eir
+- cuan (adv, ранг источника 5417) → cuán
+- bién (adv, ранг источника 5442) → bien
+- ultimamente (adv, ранг источника 8645) → últimamente
+- livir (verb, ранг источника 11160) → livir
+- herir (verb, ранг источника 12373) → herir
+- erar (verb, ранг источника 16038) → erar
+- empecer (verb, ранг источника 19450) → empecer
+- har (verb, ранг источника 37120) → har
+- etienne (verb, ранг источника 38217) → etienne
+- edir (verb, ранг источника 40617) → edir
+- estar (verb, ранг источника 44284) → estar
+- ter (verb, ранг источника 46508) → ter
+- heer (verb, ранг источника 51103) → heer
+- luir (verb, ранг источника 54554) → luir
+
+## Стоп-лист: 243
+
+- dio (adj, ранг источника 108) → mistagged
+- hecho (adj, ранг источника 125) → not-lemma (participle)
+- estadir (verb, ранг источника 161) → mistagged
+- visto (adj, ранг источника 176) → not-lemma (participle)
+- mierdo (adj, ранг источника 195) → vulgar
+- dicho (adj, ранг источника 220) → not-lemma (participle)
+- haz (adj, ранг источника 242) → mistagged
+- veo (noun, ранг источника 250) → mistagged
+- llamado (adj, ранг источника 262) → not-lemma (participle)
+- maldito (adj, ранг источника 276) → vulgar
+- siquiera (noun, ранг источника 308) → mistagged
+- escucha (noun, ранг источника 323) → mistagged
+- cuidado (adj, ранг источника 335) → mistagged
+- ido (adj, ранг источника 413) → not-lemma (participle)
+- puta (noun, ранг источника 421) → vulgar
+- idiota (noun, ранг источника 430) → vulgar
+- podría (noun, ранг источника 454) → mistagged
+- oído (adj, ранг источника 485) → not-lemma (participle)
+- dado (adj, ранг источника 496) → not-lemma (participle)
+- puesto (adj, ранг источника 498) → not-lemma (participle)
+- asesino (adj, ранг источника 501) → mistagged
+- cuanto (noun, ранг источника 504) → mistagged
+- señoritar (verb, ранг источника 525) → mistagged
+- médico (adj, ранг источника 535) → mistagged
+- encontrado (adj, ранг источника 541) → not-lemma (participle)
+- afuero (adj, ранг источника 543) → mistagged
+- sexo (noun, ранг источника 580) → sensitive
+- cállatir (verb, ранг источника 602) → mistagged
+- joder (verb, ранг источника 608) → vulgar
+- sea (noun, ранг источника 612) → mistagged
+- ay (verb, ранг источника 640) → fragment
+- tuyo (verb, ранг источника 671) → mistagged
+- vosotro (noun, ранг источника 678) → mistagged
+- locar (verb, ранг источника 682) → mistagged
+- habla (noun, ранг источника 687) → mistagged
+- viste (adj, ранг источника 698) → mistagged
+- través (noun, ранг источника 705) → mistagged
+- entendido (adj, ранг источника 721) → not-lemma (participle)
+- frank (adj, ранг источника 751) → name
+- charlie (verb, ранг источника 753) → name
+- dejado (adj, ранг источника 756) → not-lemma (participle)
+- trasero (adj, ранг источника 760) → mistagged
+- tom (verb, ранг источника 763) → name
+- culo (noun, ранг источника 767) → vulgar
+- embargo (noun, ранг источника 792) → mistagged
+- carajo (adj, ранг источника 795) → vulgar
+- io (verb, ранг источника 808) → fragment
+- mike (noun, ранг источника 811) → name
+- dulce (verb, ранг источника 827) → mistagged
+- juro (noun, ранг источника 837) → mistagged
+- vaya (noun, ранг источника 857) → mistagged
+- esposo (adj, ранг источника 866) → mistagged
+- rato (adj, ранг источника 886) → mistagged
+- tir (verb, ранг источника 898) → fragment
+- vera (noun, ранг источника 923) → name
+- adentro (adj, ранг источника 930) → mistagged
+- cambiado (adj, ранг источника 944) → not-lemma (participle)
+- paul (verb, ранг источника 956) → name
+- hablado (adj, ранг источника 980) → not-lemma (participle)
+- cuánto (noun, ранг источника 985) → mistagged
+- ia (noun, ранг источника 997) → mistagged
+- bir (verb, ранг источника 999) → fragment
+- sar (verb, ранг источника 1000) → fragment
+- diferenciar (verb, ранг источника 1013) → mistagged
+- coronel (verb, ранг источника 1020) → name
+- max (verb, ранг источника 1024) → name
+- tomado (adj, ранг источника 1057) → not-lemma (participle)
+- dej (noun, ранг источника 1070) → mistagged
+- mary (verb, ранг источника 1089) → name
+- diablir (verb, ранг источника 1090) → mistagged
+- matado (adj, ранг источника 1101) → not-lemma (participle)
+- jimmy (verb, ранг источника 1118) → name
+- pedido (adj, ранг источника 1123) → not-lemma (participle)
+- jim (noun, ранг источника 1136) → name
+- exacto (noun, ранг источника 1140) → mistagged
+- saco (adj, ранг источника 1153) → mistagged
+- danny (noun, ранг источника 1154) → name
+- escrito (adj, ранг источника 1159) → not-lemma (participle)
+- repente (noun, ранг источника 1162) → mistagged
+- sexual (adj, ранг источника 1165) → sensitive
+- tony (noun, ранг источника 1182) → name
+- islar (verb, ранг источника 1193) → mistagged
+- olvidado (adj, ранг источника 1198) → not-lemma (participle)
+- imbécil (adj, ранг источника 1199) → vulgar
+- cerdo (adj, ранг источника 1204) → mistagged
+- jodido (adj, ранг источника 1211) → vulgar
+- pesar (noun, ранг источника 1229) → mistagged
+- salido (adj, ранг источника 1234) → not-lemma (participle)
+- asesinado (adj, ранг источника 1237) → not-lemma (participle)
+- vuestra (adj, ранг источника 1239) → mistagged
+- tommy (verb, ранг источника 1252) → name
+- ray (verb, ранг источника 1279) → name
+- billy (noun, ранг источника 1283) → name
+- johnny (adj, ранг источника 1285) → name
+- detente (adj, ранг источника 1315) → mistagged
+- eddie (noun, ранг источника 1340) → name
+- mark (adj, ранг источника 1349) → name
+- papo (adj, ранг источника 1367) → mistagged
+- bebido (adj, ранг источника 1369) → not-lemma (participle)
+- nosotra (adj, ранг источника 1382) → mistagged
+- jurado (adj, ранг источника 1389) → mistagged
+- ryar (verb, ранг источника 1399) → mistagged
+- evidenciar (verb, ранг источника 1404) → mistagged
+- romar (verb, ранг источника 1408) → mistagged
+- jake (verb, ранг источника 1436) → name
+- and (noun, ранг источника 1440) → mistagged
+- cabrón (noun, ранг источника 1467) → vulgar
+- distir (verb, ранг источника 1470) → mistagged
+- puto (adj, ранг источника 1471) → vulgar
+- date (noun, ранг источника 1478) → mistagged
+- tenia (noun, ранг источника 1515) → mistagged
+- gratis (verb, ранг источника 1543) → mistagged
+- to (verb, ранг источника 1564) → fragment
+- pedo (noun, ранг источника 1566) → vulgar
+- mio (noun, ранг источника 1574) → mistagged
+- eric (verb, ранг источника 1584) → name
+- ama (noun, ранг источника 1585) → mistagged
+- adn (noun, ранг источника 1588) → fragment
+- sr (noun, ранг источника 1592) → fragment
+- bastardo (noun, ранг источника 1594) → vulgar
+- fuera (noun, ранг источника 1627) → mistagged
+- thoma (noun, ранг источника 1646) → name
+- tv (noun, ранг источника 1649) → fragment
+- india (noun, ранг источника 1659) → name
+- rachel (verb, ранг источника 1669) → name
+- fría (noun, ранг источника 1684) → mistagged
+- scott (noun, ранг источника 1699) → name
+- pudiste (noun, ранг источника 1707) → mistagged
+- star (verb, ранг источника 1709) → fragment
+- diar (verb, ранг источника 1710) → fragment
+- fué (verb, ранг источника 1713) → mistagged
+- pete (noun, ранг источника 1717) → name
+- lisa (noun, ранг источника 1739) → name
+- emily (verb, ранг источника 1754) → name
+- truco (verb, ранг источника 1757) → mistagged
+- jeff (verb, ранг источника 1761) → name
+- cagar (verb, ранг источника 1763) → vulgar
+- kelly (noun, ранг источника 1781) → name
+- muera (noun, ранг источника 1810) → mistagged
+- it (verb, ранг источника 1817) → fragment
+- vivar (verb, ранг источника 1827) → mistagged
+- quieto (verb, ранг источника 1842) → mistagged
+- suicidar (verb, ранг источника 1858) → sensitive
+- maldito (noun, ранг источника 1860) → vulgar
+- gracir (verb, ранг источника 1866) → mistagged
+- alar (verb, ранг источника 1887) → mistagged
+- clark (noun, ранг источника 1890) → name
+- carl (verb, ранг источника 1894) → name
+- clairir (verb, ранг источника 1905) → mistagged
+- ed (verb, ранг источника 1910) → fragment
+- encantador (noun, ранг источника 1914) → mistagged
+- kyle (noun, ранг источника 1920) → name
+- violar (verb, ранг источника 1922) → sensitive
+- honesto (noun, ранг источника 1966) → mistagged
+- roger (verb, ранг источника 1977) → name
+- gary (noun, ранг источника 1986) → name
+- zorra (noun, ранг источника 1988) → vulgar
+- alizar (verb, ранг источника 2009) → mistagged
+- lucy (noun, ранг источника 2010) → name
+- suicidio (noun, ранг источника 2011) → sensitive
+- abrigo (verb, ранг источника 2012) → mistagged
+- smith (noun, ранг источника 2023) → name
+- susar (verb, ранг источника 2032) → mistagged
+- phil (verb, ранг источника 2049) → name
+- lord (noun, ранг источника 2056) → name
+- mir (noun, ранг источника 2091) → mistagged
+- salvaje (noun, ранг источника 2093) → mistagged
+- vega (noun, ранг источника 2102) → name
+- lady (noun, ранг источника 2121) → name
+- jenny (verb, ранг источника 2122) → name
+- jackson (noun, ранг источника 2126) → name
+- taylor (noun, ранг источника 2137) → name
+- doc (verb, ранг источника 2140) → name
+- piens (noun, ранг источника 2145) → mistagged
+- mira (noun, ранг источника 2156) → mistagged
+- chuck (verb, ранг источника 2171) → name
+- morgar (verb, ранг источника 2177) → mistagged
+- penir (verb, ранг источника 2179) → mistagged
+- teta (noun, ранг источника 2180) → vulgar
+- karir (verb, ранг источника 2182) → mistagged
+- torrir (verb, ранг источника 2186) → mistagged
+- alarma (verb, ранг источника 2205) → mistagged
+- julie (adv, ранг источника 2219) → name
+- suelta (noun, ранг источника 2228) → mistagged
+- jón (noun, ранг источника 2230) → name
+- fred (noun, ранг источника 2233) → name
+- salsar (verb, ранг источника 2265) → mistagged
+- violación (noun, ранг источника 2266) → sensitive
+- jackie (verb, ранг источника 2268) → name
+- contesta (noun, ранг источника 2283) → mistagged
+- crea (noun, ранг источника 2310) → mistagged
+- howard (verb, ранг источника 2321) → name
+- follar (verb, ранг источника 2387) → vulgar
+- terry (adv, ранг источника 2446) → name
+- miente (adv, ранг источника 3351) → mistagged
+- ví (adv, ранг источника 3363) → fragment
+- ali (adv, ранг источника 3376) → name
+- am (adv, ранг источника 3409) → fragment
+- bastardo (adj, ранг источника 3661) → vulgar
+- shh (adv, ранг источника 3718) → fragment
+- … ещё 43
+
+## Существительные без рода (не вошли): 8
+
+- tal (noun, ранг источника 144)
+- sient (noun, ранг источника 689)
+- cuánta (noun, ранг источника 1263)
+- chri (noun, ранг источника 1372)
+- matt (noun, ранг источника 1776)
+- annie (noun, ранг источника 1885)
+- sienta (noun, ранг источника 2187)
+- maggie (noun, ранг источника 2226)
+
+## Лемма не по правилу id (не вошла): 187
+
+- ver yo (verb, ранг источника 1049)
+- cie él (verb, ранг источника 1105)
+- char él (verb, ранг источника 2025)
+- ro él (verb, ранг источника 2028)
+- co él (verb, ранг источника 2782)
+- gilipol él (verb, ранг источника 2833)
+- poner él (verb, ранг источника 3058)
+- tranqui él (verb, ранг источника 3073)
+- ve él (verb, ранг источника 3402)
+- buscar él (verb, ранг источника 3731)
+- nico él (verb, ранг источника 3844)
+- ver él (verb, ранг источника 4368)
+- car él (verb, ранг источника 5641)
+- quejar él (verb, ранг источника 5878)
+- cu él (verb, ранг источника 6261)
+- bur él (verb, ранг источника 6451)
+- pasar él (verb, ранг источника 6613)
+- confor yo (verb, ранг источника 6727)
+- mor él (verb, ранг источника 7446)
+- per él (verb, ранг источника 7464)
+- function Object() { [native code] } (noun, ранг источника 7696)
+- pegar yo (verb, ранг источника 7932)
+- po él (verb, ранг источника 8548)
+- oir él (verb, ранг источника 10821)
+- ambro él (verb, ранг источника 11444)
+- cump él (verb, ранг источника 11974)
+- poo él (verb, ранг источника 12309)
+- ampol él (verb, ранг источника 12396)
+- mar él (verb, ранг источника 12443)
+- aquel él (verb, ранг источника 12513)
+- esca él (verb, ранг источника 13612)
+- ar él (verb, ранг источника 13918)
+- arrepentir él (verb, ранг источника 14368)
+- hacer él (verb, ранг источника 15060)
+- moo él (verb, ранг источника 15155)
+- mal él (verb, ранг источника 15180)
+- mo él (verb, ранг источника 15509)
+- cortar él (verb, ранг источника 15622)
+- caro él (verb, ранг источника 15674)
+- arrepentir yo (verb, ранг источника 16013)
+- lleva tú él (verb, ранг источника 16091)
+- function Object() { [native code] } (adj, ранг источника 16837)
+- defor yo (verb, ранг источника 16939)
+- hor él (verb, ранг источника 17116)
+- so él (verb, ранг источника 17152)
+- mer él (verb, ранг источника 17224)
+- tho él (verb, ранг источника 17693)
+- ho él (verb, ранг источника 17778)
+- de yo (verb, ранг источника 17865)
+- kar él (verb, ранг источника 17932)
+- da él él (verb, ранг источника 18081)
+- reir él (verb, ранг источника 18106)
+- pegar él (verb, ранг источника 18442)
+- goo él (verb, ранг источника 18744)
+- montecar él (verb, ранг источника 18797)
+- afroamerica yo (verb, ранг источника 19039)
+- c él él (verb, ранг источника 19944)
+- arreglar tú él (verb, ранг источника 19971)
+- melro él (verb, ранг источника 20090)
+- caer él (verb, ранг источника 20116)
+- vo él (verb, ранг источника 21012)
+- no él (verb, ранг источника 21060)
+- e yo (verb, ранг источника 21339)
+- decir él él (verb, ранг источника 21612)
+- too él (verb, ранг источника 21755)
+- ear él (verb, ранг источника 23791)
+- articu él (verb, ранг источника 23969)
+- por él (verb, ранг источника 24212)
+- vigi él él (verb, ранг источника 24218)
+- cour él (verb, ранг источника 24228)
+- matad él (verb, ранг источника 24507)
+- giancar él (verb, ранг источника 25039)
+- montro él (verb, ранг источника 25176)
+- montar él (verb, ранг источника 25239)
+- él él (verb, ранг источника 25562)
+- consigue yo (verb, ранг источника 25970)
+- dar él (verb, ранг источника 26046)
+- deva él (verb, ранг источника 26086)
+- mirar yo (verb, ранг источника 26898)
+- penro él (verb, ранг источника 27171)
+- de yo él (verb, ранг источника 27295)
+- mover él (verb, ранг источника 27386)
+- libera yo (verb, ранг источника 28491)
+- reir yo (verb, ранг источника 28558)
+- who él (verb, ранг источника 28580)
+- niko él (verb, ранг источника 28764)
+- queda tú él (verb, ранг источника 29192)
+- atrapa él (verb, ранг источника 29319)
+- di él él (verb, ранг источника 29338)
+- tibeta yo (verb, ранг источника 29432)
+- olvida él (verb, ранг источника 29452)
+- ver él él (verb, ранг источника 30055)
+- vehicu él (verb, ранг источника 30058)
+- acomodar él (verb, ранг источника 30122)
+- quedar tú él (verb, ранг источника 30267)
+- decir él (verb, ранг источника 30330)
+- romo él (verb, ранг источника 30913)
+- do él (verb, ранг источника 30919)
+- anato él (verb, ранг источника 30976)
+- sirve yo (verb, ранг источника 31110)
+- nur él (verb, ранг источника 31113)
+- or él (verb, ранг источника 31404)
+- busca él (verb, ранг источника 31491)
+- suelta él (verb, ранг источника 31694)
+- acercar él (verb, ранг источника 31816)
+- deten él (verb, ранг источника 31993)
+- acomodar yo (verb, ранг источника 32003)
+- lleve él él (verb, ранг источника 33236)
+- dominica yo (verb, ранг источника 33250)
+- llegar él (verb, ранг источника 33265)
+- liar él (verb, ранг источника 33354)
+- subalter yo (verb, ранг источника 33377)
+- mueve él (verb, ранг источника 34953)
+- a él (verb, ранг источника 35386)
+- armar él (verb, ранг источника 35543)
+- loo él (verb, ранг источника 36884)
+- dormir él (verb, ранг источника 37197)
+- quita tú él (verb, ранг источника 37497)
+- amber él (verb, ранг источника 37801)
+- otoma yo (verb, ранг источника 37819)
+- semp él (verb, ранг источника 38540)
+- trae yo él (verb, ранг источника 38947)
+- univer él (verb, ранг источника 39148)
+- primro él (verb, ранг источника 39349)
+- erco él (verb, ранг источника 40527)
+- llevar tú él (verb, ранг источника 40570)
+- prueba tú él (verb, ранг источника 40794)
+- venecia yo (verb, ранг источника 40967)
+- ber él (verb, ранг источника 41273)
+- jar él (verb, ранг источника 41663)
+- anil él (verb, ранг источника 41685)
+- lleva yo (verb, ранг источника 41727)
+- suppo él (verb, ранг источника 42359)
+- sear él (verb, ранг источника 42822)
+- assho él (verb, ранг источника 42889)
+- guilher yo (verb, ранг источника 43083)
+- desg él él (verb, ранг источника 43159)
+- clavar él (verb, ранг источника 43207)
+- agui él (verb, ранг источника 43435)
+- poned él (verb, ранг источника 43492)
+- star él (verb, ранг источника 43918)
+- there él (verb, ранг источника 45277)
+- lleva él (verb, ранг источника 45373)
+- adentrar él (verb, ранг источника 45458)
+- gro él (verb, ранг источника 45686)
+- footloo él (verb, ранг источника 45964)
+- poner tú él (verb, ранг источника 46065)
+- papadopou él (verb, ранг источника 46282)
+- separa él (verb, ранг источника 46415)
+- dejen él (verb, ранг источника 46855)
+- dirigir él (verb, ранг источника 47170)
+- hao él (verb, ранг источника 47171)
+- levanta él (verb, ранг источника 47186)
+- creo él (verb, ранг источника 47325)
+- nardo él (verb, ранг источника 47602)
+- esconder él (verb, ранг источника 47793)
+- whitehor él (verb, ранг источника 47946)
+- preparar él (verb, ранг источника 48048)
+- doo él (verb, ранг источника 48389)
+- revisa él (verb, ранг источника 48493)
+- quiz yo (verb, ранг источника 48518)
+- invita él (verb, ранг источника 49281)
+- ko él (verb, ранг источника 49320)
+- aproximar él (verb, ранг источника 50190)
+- prepara él (verb, ранг источника 50252)
+- yo él (verb, ранг источника 52008)
+- prueba él (verb, ранг источника 52229)
+- quiten yo él (verb, ранг источника 52370)
+- meter él (verb, ранг источника 52379)
+- toma tú él (verb, ранг источника 52827)
+- mata él (verb, ранг источника 53671)
+- cuneifor yo (verb, ранг источника 53741)
+- peta él (verb, ранг источника 54194)
+- pedir yo (verb, ранг источника 54262)
+- ocea yo (verb, ранг источника 54462)
+- vende él (verb, ранг источника 54473)
+- besar él (verb, ранг источника 54491)
+- añade él (verb, ранг источника 55009)
+- comer tú él (verb, ранг источника 55031)
+- saoir él (verb, ранг источника 55581)
+- decar él (verb, ранг источника 55828)
+- luparel él (verb, ранг источника 55956)
+- deja él (verb, ранг источника 56110)
+- wor él (verb, ранг источника 56111)
+- r yo (verb, ранг источника 56149)
+- ndo él (verb, ранг источника 56313)
+- llevar él (verb, ранг источника 56323)
+
+## Поправки рода: 35
+
+- policía (noun, ранг источника 212) → f → mf
+- fin (noun, ранг источника 334) → f → m
+- joven (noun, ранг источника 354) → f → mf
+- bebé (noun, ранг источника 382) → f → mf
+- agente (noun, ранг источника 474) → f → mf
+- presidente (noun, ранг источника 524) → f → m
+- cliente (noun, ранг источника 578) → m → mf
+- detective (noun, ранг источника 694) → f → mf
+- soldado (noun, ранг источника 701) → f → m
+- testigo (noun, ранг источника 820) → f → mf
+- guardia (noun, ранг источника 823) → m → mf
+- juez (noun, ранг источника 921) → f → mf
+- sargento (noun, ранг источника 987) → f → m
+- radio (noun, ранг источника 1009) → m → f
+- colega (noun, ранг источника 1056) → f → mf
+- comandante (noun, ранг источника 1078) → f → mf
+- estudiante (noun, ранг источника 1091) → f → mf
+- responsable (noun, ранг источника 1144) → f → mf
+- calor (noun, ранг источника 1207) → f → m
+- líder (noun, ранг источника 1246) → m → mf
+- amante (noun, ранг источника 1320) → f → mf
+- disco (noun, ранг источника 1362) → f → m
+- artista (noun, ранг источника 1376) → f → mf
+- modelo (noun, ранг источника 1379) → m → mf
+- lobo (noun, ранг источника 1555) → f → m
+- piloto (noun, ранг источника 1579) → f → m
+- personaje (noun, ранг источника 1657) → f → m
+- paciente (noun, ранг источника 1703) → f → mf
+- asistente (noun, ранг источника 1721) → m → mf
+- espía (noun, ранг источника 1948) → f → mf
+- cobarde (noun, ранг источника 2017) → f → mf
+- adolescente (noun, ранг источника 2040) → f → mf
+- periodista (noun, ранг источника 2047) → f → mf
+- sacerdote (noun, ранг источника 2218) → f → m
+- camarada (noun, ранг источника 2239) → f → mf

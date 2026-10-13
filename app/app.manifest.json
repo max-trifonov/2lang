@@ -1,0 +1,52 @@
+{
+  "identity": {
+    "displayName": "2Lang",
+    "appId": "com.trifonov.twolang",
+    "slug": "twolang",
+    "version": "0.1.0"
+  },
+  "platforms": {
+    "android": true,
+    "ios": true,
+    "pwa": true
+  },
+  "locales": {
+    "default": "ru",
+    "supported": [
+      "ru",
+      "en",
+      "es"
+    ]
+  },
+  "theme": {
+    "primary": "#2563EB",
+    "accent": "#F59E0B",
+    "preference": "system"
+  },
+  "navigation": {
+    "style": "tabs",
+    "tabs": [
+      "home",
+      "profile"
+    ]
+  },
+  "api": {
+    "baseUrl": ""
+  },
+  "capabilities": {
+    "geolocation": false,
+    "push": true,
+    "camera": false,
+    "secureStorage": false,
+    "offlineCache": false,
+    "deepLinks": false
+  },
+  "permissions": {
+    "locationPurpose": "Чтобы показать объекты рядом с вами",
+    "cameraPurpose": "Чтобы сделать снимок",
+    "notificationsPurpose": "Чтобы напоминать о ежедневном уроке"
+  },
+  "deepLink": {
+    "scheme": "twolang"
+  }
+}

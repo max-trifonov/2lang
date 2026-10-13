@@ -1,0 +1,2535 @@
+{
+  "format": "2lang/dictionary",
+  "version": 1,
+  "lang": "es",
+  "license": "cc-by-sa",
+  "source": "Черновик ИИ (D-25) на частотном каркасе wordhoard v0.1.0 (CC BY-SA 4.0, D-24): https://github.com/natema/wordhoard; см. content/frequency/NOTICE.md",
+  "entries": [
+    {
+      "id": "no",
+      "lemma": "no",
+      "pos": "adv",
+      "rank": 1,
+      "translations": {
+        "ru": "не; нет"
+      },
+      "examples": [
+        {
+          "es": "No hablo español muy bien.",
+          "ru": "Я не очень хорошо говорю по-испански.",
+          "topic": "travel"
+        },
+        {
+          "es": "No, no funciona en Safari.",
+          "ru": "Нет, в Safari не работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "bien",
+      "lemma": "bien",
+      "pos": "adv",
+      "rank": 2,
+      "translations": {
+        "ru": "хорошо"
+      },
+      "pair": "en:well",
+      "examples": [
+        {
+          "es": "¿Está todo bien con la habitación?",
+          "ru": "С номером всё в порядке?",
+          "topic": "travel"
+        },
+        {
+          "es": "El código funciona bien.",
+          "ru": "Код работает хорошо.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "aquí",
+      "lemma": "aquí",
+      "pos": "adv",
+      "rank": 3,
+      "rules": [
+        "es-qu"
+      ],
+      "translations": {
+        "ru": "здесь, сюда"
+      },
+      "pair": "en:here",
+      "examples": [
+        {
+          "es": "La parada está aquí.",
+          "ru": "Остановка здесь.",
+          "topic": "travel"
+        },
+        {
+          "es": "Aquí está el log del error.",
+          "ru": "Вот лог ошибки.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "más",
+      "lemma": "más",
+      "pos": "adv",
+      "rank": 4,
+      "translations": {
+        "ru": "больше, ещё; более"
+      },
+      "pair": "en:more",
+      "examples": [
+        {
+          "es": "¿Quiere algo más?",
+          "ru": "Хотите что-нибудь ещё?",
+          "topic": "travel"
+        },
+        {
+          "es": "Necesitamos más tiempo.",
+          "ru": "Нам нужно больше времени.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ya",
+      "lemma": "ya",
+      "pos": "adv",
+      "rank": 5,
+      "translations": {
+        "ru": "уже; ¡ya! — сейчас, понял"
+      },
+      "pair": "en:already",
+      "examples": [
+        {
+          "es": "Ya estamos en el hotel.",
+          "ru": "Мы уже в отеле.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Ya terminaste la tarea?",
+          "ru": "Ты уже закончил задачу?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ahora",
+      "lemma": "ahora",
+      "pos": "adv",
+      "rank": 6,
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "сейчас"
+      },
+      "pair": "en:now",
+      "examples": [
+        {
+          "es": "Ahora vamos a la playa.",
+          "ru": "Сейчас идём на пляж.",
+          "topic": "travel"
+        },
+        {
+          "es": "Ahora no puedo, estoy en una llamada.",
+          "ru": "Сейчас не могу, я на звонке.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "muy",
+      "lemma": "muy",
+      "pos": "adv",
+      "rank": 7,
+      "translations": {
+        "ru": "очень"
+      },
+      "pair": "en:very",
+      "examples": [
+        {
+          "es": "El hotel es muy bonito.",
+          "ru": "Отель очень красивый.",
+          "topic": "travel"
+        },
+        {
+          "es": "La app es muy rápida.",
+          "ru": "Приложение очень быстрое.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "así",
+      "lemma": "así",
+      "pos": "adv",
+      "rank": 8,
+      "translations": {
+        "ru": "так, таким образом"
+      },
+      "examples": [
+        {
+          "es": "Se dice así: «la cuenta, por favor».",
+          "ru": "Говорят так: «счёт, пожалуйста».",
+          "topic": "travel"
+        },
+        {
+          "es": "Hazlo así, es más simple.",
+          "ru": "Делай так, это проще.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tanto",
+      "lemma": "tanto",
+      "pos": "adv",
+      "rank": 9,
+      "translations": {
+        "ru": "так много, столько"
+      },
+      "pair": "en:so",
+      "examples": [
+        {
+          "es": "No comas tanto antes del vuelo.",
+          "ru": "Не ешь так много перед полётом.",
+          "topic": "travel"
+        },
+        {
+          "es": "Trabajas tanto que no descansas.",
+          "ru": "Ты так много работаешь, что не отдыхаешь.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "solo-adv",
+      "lemma": "solo",
+      "pos": "adv",
+      "rank": 10,
+      "translations": {
+        "ru": "только"
+      },
+      "pair": "en:just",
+      "examples": [
+        {
+          "es": "Solo tengo una maleta.",
+          "ru": "У меня только один чемодан.",
+          "topic": "travel"
+        },
+        {
+          "es": "Solo falta un test.",
+          "ru": "Остался только один тест.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Раньше писали sólo; по правилам RAE 2010 — solo"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "entonces",
+      "lemma": "entonces",
+      "pos": "adv",
+      "rank": 11,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "тогда, значит"
+      },
+      "pair": "en:then",
+      "examples": [
+        {
+          "es": "Entonces nos vemos en la estación.",
+          "ru": "Тогда увидимся на вокзале.",
+          "topic": "travel"
+        },
+        {
+          "es": "Entonces el error está en el servidor.",
+          "ru": "Значит, ошибка на сервере.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "nunca",
+      "lemma": "nunca",
+      "pos": "adv",
+      "rank": 12,
+      "translations": {
+        "ru": "никогда"
+      },
+      "pair": "en:never",
+      "examples": [
+        {
+          "es": "Nunca he estado en Argentina.",
+          "ru": "Я никогда не был в Аргентине.",
+          "topic": "travel"
+        },
+        {
+          "es": "Nunca borres datos sin copia.",
+          "ru": "Никогда не удаляй данные без копии.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mucho",
+      "lemma": "mucho",
+      "pos": "adv",
+      "rank": 13,
+      "translations": {
+        "ru": "много; очень"
+      },
+      "examples": [
+        {
+          "es": "Hace mucho calor hoy.",
+          "ru": "Сегодня очень жарко.",
+          "topic": "travel"
+        },
+        {
+          "es": "Aprendí mucho en este proyecto.",
+          "ru": "Я многому научился на этом проекте.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "también",
+      "lemma": "también",
+      "pos": "adv",
+      "rank": 14,
+      "translations": {
+        "ru": "тоже, также"
+      },
+      "pair": "en:too",
+      "examples": [
+        {
+          "es": "Yo también quiero ir al museo.",
+          "ru": "Я тоже хочу в музей.",
+          "topic": "travel"
+        },
+        {
+          "es": "Yo también trabajo en IT.",
+          "ru": "Я тоже работаю в IT.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "siempre",
+      "lemma": "siempre",
+      "pos": "adv",
+      "rank": 15,
+      "translations": {
+        "ru": "всегда"
+      },
+      "pair": "en:always",
+      "examples": [
+        {
+          "es": "Siempre viajo con poco equipaje.",
+          "ru": "Я всегда путешествую налегке.",
+          "topic": "travel"
+        },
+        {
+          "es": "Siempre hacemos pruebas antes de publicar.",
+          "ru": "Мы всегда тестируем перед публикацией.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ahí",
+      "lemma": "ahí",
+      "pos": "adv",
+      "rank": 16,
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "там (рядом с собеседником)"
+      },
+      "examples": [
+        {
+          "es": "Deja la maleta ahí.",
+          "ru": "Оставь чемодан там.",
+          "topic": "travel"
+        },
+        {
+          "es": "Ahí está el problema.",
+          "ru": "Вот в чём проблема.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "antes",
+      "lemma": "antes",
+      "pos": "adv",
+      "rank": 17,
+      "translations": {
+        "ru": "раньше, прежде"
+      },
+      "examples": [
+        {
+          "es": "Llega dos horas antes del vuelo.",
+          "ru": "Приезжай за два часа до вылета.",
+          "topic": "travel"
+        },
+        {
+          "es": "Antes usábamos otro framework.",
+          "ru": "Раньше мы использовали другой фреймворк.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "poco",
+      "lemma": "poco",
+      "pos": "adv",
+      "rank": 18,
+      "translations": {
+        "ru": "мало, немного"
+      },
+      "examples": [
+        {
+          "es": "Hablo un poco de español.",
+          "ru": "Я немного говорю по-испански.",
+          "topic": "travel"
+        },
+        {
+          "es": "Queda poco espacio en el disco.",
+          "ru": "На диске мало места.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "después",
+      "lemma": "después",
+      "pos": "adv",
+      "rank": 19,
+      "translations": {
+        "ru": "после, потом"
+      },
+      "examples": [
+        {
+          "es": "Después vamos a cenar.",
+          "ru": "Потом пойдём ужинать.",
+          "topic": "travel"
+        },
+        {
+          "es": "Te llamo después de la reunión.",
+          "ru": "Позвоню после встречи.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mañana",
+      "lemma": "mañana",
+      "pos": "adv",
+      "rank": 20,
+      "rules": [
+        "es-n-tilde"
+      ],
+      "translations": {
+        "ru": "завтра"
+      },
+      "examples": [
+        {
+          "es": "Mañana salimos temprano.",
+          "ru": "Завтра выезжаем рано.",
+          "topic": "travel"
+        },
+        {
+          "es": "Lo termino mañana.",
+          "ru": "Закончу завтра.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Как существительное la mañana — утро"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "allí",
+      "lemma": "allí",
+      "pos": "adv",
+      "rank": 21,
+      "translations": {
+        "ru": "там (далеко)"
+      },
+      "examples": [
+        {
+          "es": "Allí está la catedral.",
+          "ru": "Вон там собор.",
+          "topic": "travel"
+        },
+        {
+          "es": "Trabajé allí dos años.",
+          "ru": "Я проработал там два года.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "menos",
+      "lemma": "menos",
+      "pos": "adv",
+      "rank": 22,
+      "translations": {
+        "ru": "меньше"
+      },
+      "pair": "en:less",
+      "examples": [
+        {
+          "es": "Este tren tarda menos.",
+          "ru": "Этот поезд идёт быстрее.",
+          "topic": "travel"
+        },
+        {
+          "es": "La nueva versión usa menos memoria.",
+          "ru": "Новая версия использует меньше памяти.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "luego",
+      "lemma": "luego",
+      "pos": "adv",
+      "rank": 23,
+      "translations": {
+        "ru": "потом; ¡hasta luego! — пока!"
+      },
+      "pair": "en:later",
+      "examples": [
+        {
+          "es": "¡Hasta luego!",
+          "ru": "Пока, до встречи!",
+          "topic": "daily"
+        },
+        {
+          "es": "Primero el diseño, luego el código.",
+          "ru": "Сначала дизайн, потом код.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hoy",
+      "lemma": "hoy",
+      "pos": "adv",
+      "rank": 24,
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "сегодня"
+      },
+      "examples": [
+        {
+          "es": "Hoy visitamos el museo.",
+          "ru": "Сегодня идём в музей.",
+          "topic": "travel"
+        },
+        {
+          "es": "Hoy hay despliegue.",
+          "ru": "Сегодня деплой.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "conmigo",
+      "lemma": "conmigo",
+      "pos": "adv",
+      "rank": 25,
+      "translations": {
+        "ru": "со мной"
+      },
+      "examples": [
+        {
+          "es": "¿Vienes conmigo a la playa?",
+          "ru": "Пойдёшь со мной на пляж?",
+          "topic": "travel"
+        },
+        {
+          "es": "Trabaja conmigo en el proyecto.",
+          "ru": "Он работает со мной над проектом.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mal",
+      "lemma": "mal",
+      "pos": "adv",
+      "rank": 26,
+      "translations": {
+        "ru": "плохо"
+      },
+      "examples": [
+        {
+          "es": "Dormí mal en el avión.",
+          "ru": "Я плохо спал в самолёте.",
+          "topic": "travel"
+        },
+        {
+          "es": "Algo va mal con la conexión.",
+          "ru": "Что-то не так с соединением.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "realmente",
+      "lemma": "realmente",
+      "pos": "adv",
+      "rank": 27,
+      "translations": {
+        "ru": "действительно"
+      },
+      "pair": "en:really",
+      "examples": [
+        {
+          "es": "Es realmente bonito.",
+          "ru": "Это действительно красиво.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Realmente necesitamos otra reunión?",
+          "ru": "Нам правда нужна ещё одна встреча?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "aún",
+      "lemma": "aún",
+      "pos": "adv",
+      "rank": 28,
+      "translations": {
+        "ru": "ещё, всё ещё"
+      },
+      "examples": [
+        {
+          "es": "Aún no tenemos hotel.",
+          "ru": "У нас ещё нет отеля.",
+          "topic": "travel"
+        },
+        {
+          "es": "El error aún existe.",
+          "ru": "Ошибка всё ещё есть.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "aún (= todavía) — «ещё»; aun без знака — «даже»"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "contigo",
+      "lemma": "contigo",
+      "pos": "adv",
+      "rank": 29,
+      "translations": {
+        "ru": "с тобой"
+      },
+      "examples": [
+        {
+          "es": "Voy contigo al aeropuerto.",
+          "ru": "Я поеду с тобой в аэропорт.",
+          "topic": "travel"
+        },
+        {
+          "es": "Hablo contigo después.",
+          "ru": "Поговорю с тобой позже.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tarde-adv",
+      "lemma": "tarde",
+      "pos": "adv",
+      "rank": 30,
+      "translations": {
+        "ru": "поздно"
+      },
+      "examples": [
+        {
+          "es": "Llegamos tarde al hotel.",
+          "ru": "Мы поздно приехали в отель.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es tarde, mañana seguimos.",
+          "ru": "Поздно, продолжим завтра.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Как существительное la tarde — день, вечер"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "demasiado",
+      "lemma": "demasiado",
+      "pos": "adv",
+      "rank": 31,
+      "translations": {
+        "ru": "слишком"
+      },
+      "examples": [
+        {
+          "es": "Es demasiado caro.",
+          "ru": "Это слишком дорого.",
+          "topic": "travel"
+        },
+        {
+          "es": "Tarda demasiado en cargar.",
+          "ru": "Слишком долго грузится.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "todavía",
+      "lemma": "todavía",
+      "pos": "adv",
+      "rank": 32,
+      "translations": {
+        "ru": "ещё, всё ещё"
+      },
+      "pair": "en:still",
+      "examples": [
+        {
+          "es": "Todavía no he comido.",
+          "ru": "Я ещё не ел.",
+          "topic": "travel"
+        },
+        {
+          "es": "Todavía estamos probando.",
+          "ru": "Мы всё ещё тестируем.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "quizá",
+      "lemma": "quizá",
+      "pos": "adv",
+      "rank": 33,
+      "rules": [
+        "es-z",
+        "es-qu"
+      ],
+      "translations": {
+        "ru": "может быть"
+      },
+      "pair": "en:maybe",
+      "examples": [
+        {
+          "es": "Quizá vamos a Toledo mañana.",
+          "ru": "Может, завтра поедем в Толедо.",
+          "topic": "travel"
+        },
+        {
+          "es": "Quizá es un problema de caché.",
+          "ru": "Может быть, это проблема кэша.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "dentro",
+      "lemma": "dentro",
+      "pos": "adv",
+      "rank": 34,
+      "translations": {
+        "ru": "внутри; через (о времени)"
+      },
+      "pair": "en:inside",
+      "examples": [
+        {
+          "es": "Esperamos dentro del aeropuerto.",
+          "ru": "Ждём внутри аэропорта.",
+          "topic": "travel"
+        },
+        {
+          "es": "Te respondo dentro de una hora.",
+          "ru": "Отвечу тебе через час.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "casi",
+      "lemma": "casi",
+      "pos": "adv",
+      "rank": 35,
+      "translations": {
+        "ru": "почти"
+      },
+      "pair": "en:almost",
+      "examples": [
+        {
+          "es": "Casi perdemos el tren.",
+          "ru": "Мы чуть не опоздали на поезд.",
+          "topic": "travel"
+        },
+        {
+          "es": "Casi termino.",
+          "ru": "Почти закончил.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "primero-adv",
+      "lemma": "primero",
+      "pos": "adv",
+      "rank": 36,
+      "translations": {
+        "ru": "сначала"
+      },
+      "pair": "en:first",
+      "examples": [
+        {
+          "es": "Primero vamos al hotel.",
+          "ru": "Сначала едем в отель.",
+          "topic": "travel"
+        },
+        {
+          "es": "Primero haz una copia de seguridad.",
+          "ru": "Сначала сделай резервную копию.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "pronto",
+      "lemma": "pronto",
+      "pos": "adv",
+      "rank": 37,
+      "translations": {
+        "ru": "скоро; рано"
+      },
+      "pair": "en:soon",
+      "examples": [
+        {
+          "es": "Llegamos pronto.",
+          "ru": "Скоро приедем.",
+          "topic": "travel"
+        },
+        {
+          "es": "¡Hasta pronto!",
+          "ru": "До скорого!",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "adelante",
+      "lemma": "adelante",
+      "pos": "adv",
+      "rank": 38,
+      "translations": {
+        "ru": "вперёд; ¡adelante! — входите, давай"
+      },
+      "pair": "en:ahead",
+      "examples": [
+        {
+          "es": "Siga adelante hasta la plaza.",
+          "ru": "Идите вперёд до площади.",
+          "topic": "travel"
+        },
+        {
+          "es": "¡Adelante, puedes empezar!",
+          "ru": "Давай, можешь начинать!",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cerca",
+      "lemma": "cerca",
+      "pos": "adv",
+      "rank": 39,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "близко, рядом"
+      },
+      "pair": "en:close-adv",
+      "examples": [
+        {
+          "es": "¿Hay un cajero cerca?",
+          "ru": "Поблизости есть банкомат?",
+          "topic": "travel"
+        },
+        {
+          "es": "Vivo cerca de la oficina.",
+          "ru": "Я живу рядом с офисом.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "bastante",
+      "lemma": "bastante",
+      "pos": "adv",
+      "rank": 40,
+      "translations": {
+        "ru": "довольно; достаточно"
+      },
+      "pair": "en:enough",
+      "examples": [
+        {
+          "es": "El hotel está bastante lejos.",
+          "ru": "Отель довольно далеко.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es bastante rápido.",
+          "ru": "Это довольно быстро.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cuándo",
+      "lemma": "cuándo",
+      "pos": "adv",
+      "rank": 41,
+      "translations": {
+        "ru": "когда (в вопросе)"
+      },
+      "examples": [
+        {
+          "es": "¿Cuándo sale el autobús?",
+          "ru": "Когда отправляется автобус?",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Cuándo es la reunión?",
+          "ru": "Когда встреча?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "incluso",
+      "lemma": "incluso",
+      "pos": "adv",
+      "rank": 42,
+      "translations": {
+        "ru": "даже"
+      },
+      "pair": "en:even",
+      "examples": [
+        {
+          "es": "Incluso hay playa en la ciudad.",
+          "ru": "В городе даже есть пляж.",
+          "topic": "travel"
+        },
+        {
+          "es": "Funciona incluso sin internet.",
+          "ru": "Работает даже без интернета.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "allá",
+      "lemma": "allá",
+      "pos": "adv",
+      "rank": 43,
+      "translations": {
+        "ru": "туда, там (далеко)"
+      },
+      "examples": [
+        {
+          "es": "Vamos allá en taxi.",
+          "ru": "Поедем туда на такси.",
+          "topic": "travel"
+        },
+        {
+          "es": "¡Allá vamos, empezamos!",
+          "ru": "Поехали, начинаем!",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "arriba",
+      "lemma": "arriba",
+      "pos": "adv",
+      "rank": 44,
+      "translations": {
+        "ru": "наверху, вверх"
+      },
+      "pair": "en:up",
+      "examples": [
+        {
+          "es": "La habitación está arriba.",
+          "ru": "Номер наверху.",
+          "topic": "travel"
+        },
+        {
+          "es": "El menú está arriba a la derecha.",
+          "ru": "Меню вверху справа.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "igual",
+      "lemma": "igual",
+      "pos": "adv",
+      "rank": 45,
+      "translations": {
+        "ru": "одинаково; всё равно; может быть (разг.)"
+      },
+      "examples": [
+        {
+          "es": "Me da igual, elige tú.",
+          "ru": "Мне всё равно, выбирай ты.",
+          "topic": "travel"
+        },
+        {
+          "es": "Igual mañana llueve.",
+          "ru": "Может, завтра будет дождь.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "exactamente",
+      "lemma": "exactamente",
+      "pos": "adv",
+      "rank": 46,
+      "translations": {
+        "ru": "точно, именно"
+      },
+      "pair": "en:exactly",
+      "examples": [
+        {
+          "es": "¿Dónde está exactamente el hotel?",
+          "ru": "Где именно находится отель?",
+          "topic": "travel"
+        },
+        {
+          "es": "Exactamente, ese es el problema.",
+          "ru": "Именно, в этом и проблема.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "abajo",
+      "lemma": "abajo",
+      "pos": "adv",
+      "rank": 47,
+      "translations": {
+        "ru": "внизу, вниз"
+      },
+      "pair": "en:down",
+      "examples": [
+        {
+          "es": "El taxi espera abajo.",
+          "ru": "Такси ждёт внизу.",
+          "topic": "travel"
+        },
+        {
+          "es": "Desplázate hacia abajo.",
+          "ru": "Пролистай вниз.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "atrás",
+      "lemma": "atrás",
+      "pos": "adv",
+      "rank": 48,
+      "translations": {
+        "ru": "назад, сзади"
+      },
+      "pair": "en:back",
+      "examples": [
+        {
+          "es": "Siéntate atrás, hay más espacio.",
+          "ru": "Садись сзади, там больше места.",
+          "topic": "travel"
+        },
+        {
+          "es": "Vuelve atrás a la versión anterior.",
+          "ru": "Вернись к предыдущей версии.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "probablemente",
+      "lemma": "probablemente",
+      "pos": "adv",
+      "rank": 49,
+      "translations": {
+        "ru": "вероятно"
+      },
+      "pair": "en:probably",
+      "examples": [
+        {
+          "es": "Probablemente llueve mañana.",
+          "ru": "Завтра, вероятно, будет дождь.",
+          "topic": "travel"
+        },
+        {
+          "es": "Probablemente es un problema de red.",
+          "ru": "Вероятно, это проблема сети.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tampoco",
+      "lemma": "tampoco",
+      "pos": "adv",
+      "rank": 50,
+      "translations": {
+        "ru": "тоже не"
+      },
+      "pair": "en:either",
+      "examples": [
+        {
+          "es": "Yo tampoco hablo francés.",
+          "ru": "Я тоже не говорю по-французски.",
+          "topic": "travel"
+        },
+        {
+          "es": "Tampoco funciona en el móvil.",
+          "ru": "На телефоне тоже не работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "simplemente",
+      "lemma": "simplemente",
+      "pos": "adv",
+      "rank": 51,
+      "translations": {
+        "ru": "просто"
+      },
+      "pair": "en:simply",
+      "examples": [
+        {
+          "es": "Simplemente pide la cuenta.",
+          "ru": "Просто попроси счёт.",
+          "topic": "travel"
+        },
+        {
+          "es": "Simplemente reinicia el servidor.",
+          "ru": "Просто перезапусти сервер.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "lejos",
+      "lemma": "lejos",
+      "pos": "adv",
+      "rank": 52,
+      "translations": {
+        "ru": "далеко"
+      },
+      "pair": "en:away",
+      "examples": [
+        {
+          "es": "¿Está lejos el aeropuerto?",
+          "ru": "Аэропорт далеко?",
+          "topic": "travel"
+        },
+        {
+          "es": "Trabajo lejos de la oficina.",
+          "ru": "Я работаю далеко от офиса.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "además",
+      "lemma": "además",
+      "pos": "adv",
+      "rank": 53,
+      "translations": {
+        "ru": "кроме того"
+      },
+      "pair": "en:besides",
+      "examples": [
+        {
+          "es": "Además, el desayuno está incluido.",
+          "ru": "Кроме того, завтрак включён.",
+          "topic": "travel"
+        },
+        {
+          "es": "Además, hay que actualizar la librería.",
+          "ru": "Кроме того, нужно обновить библиотеку.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "acerca",
+      "lemma": "acerca",
+      "pos": "adv",
+      "rank": 54,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "acerca de — о, насчёт"
+      },
+      "pair": "en:about",
+      "examples": [
+        {
+          "es": "Pregunté acerca de los horarios.",
+          "ru": "Я спросил насчёт расписания.",
+          "topic": "travel"
+        },
+        {
+          "es": "Hablamos acerca del proyecto.",
+          "ru": "Мы поговорили о проекте.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "anoche",
+      "lemma": "anoche",
+      "pos": "adv",
+      "rank": 55,
+      "translations": {
+        "ru": "вчера вечером, прошлой ночью"
+      },
+      "examples": [
+        {
+          "es": "Anoche llegamos a Madrid.",
+          "ru": "Вчера вечером мы прилетели в Мадрид.",
+          "topic": "travel"
+        },
+        {
+          "es": "Anoche se cayó el servidor.",
+          "ru": "Прошлой ночью упал сервер.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "detrás",
+      "lemma": "detrás",
+      "pos": "adv",
+      "rank": 56,
+      "translations": {
+        "ru": "сзади, позади"
+      },
+      "pair": "en:behind",
+      "examples": [
+        {
+          "es": "El parking está detrás del hotel.",
+          "ru": "Парковка за отелем.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Quién está detrás de este proyecto?",
+          "ru": "Кто стоит за этим проектом?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ayer",
+      "lemma": "ayer",
+      "pos": "adv",
+      "rank": 57,
+      "translations": {
+        "ru": "вчера"
+      },
+      "examples": [
+        {
+          "es": "Ayer visitamos el museo.",
+          "ru": "Вчера мы были в музее.",
+          "topic": "travel"
+        },
+        {
+          "es": "Ayer arreglé el error.",
+          "ru": "Вчера я исправил ошибку.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "encima",
+      "lemma": "encima",
+      "pos": "adv",
+      "rank": 58,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "сверху, наверху"
+      },
+      "pair": "en:above",
+      "examples": [
+        {
+          "es": "Deja la llave encima de la mesa.",
+          "ru": "Оставь ключ на столе.",
+          "topic": "travel"
+        },
+        {
+          "es": "El botón está encima del formulario.",
+          "ru": "Кнопка над формой.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "jamás",
+      "lemma": "jamás",
+      "pos": "adv",
+      "rank": 59,
+      "translations": {
+        "ru": "никогда (сильнее, чем nunca)"
+      },
+      "examples": [
+        {
+          "es": "Jamás he visto un mar tan azul.",
+          "ru": "Никогда не видел такого синего моря.",
+          "topic": "travel"
+        },
+        {
+          "es": "Jamás compartas tu contraseña.",
+          "ru": "Никогда не сообщай свой пароль.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "adónde",
+      "lemma": "adónde",
+      "pos": "adv",
+      "rank": 60,
+      "translations": {
+        "ru": "куда (в вопросе)"
+      },
+      "examples": [
+        {
+          "es": "¿Adónde vamos mañana?",
+          "ru": "Куда поедем завтра?",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Adónde envío el informe?",
+          "ru": "Куда отправить отчёт?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "alrededor",
+      "lemma": "alrededor",
+      "pos": "adv",
+      "rank": 61,
+      "translations": {
+        "ru": "вокруг; около"
+      },
+      "pair": "en:around",
+      "examples": [
+        {
+          "es": "Hay muchos bares alrededor de la plaza.",
+          "ru": "Вокруг площади много баров.",
+          "topic": "travel"
+        },
+        {
+          "es": "Tardamos alrededor de una hora.",
+          "ru": "Это заняло около часа.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "completamente",
+      "lemma": "completamente",
+      "pos": "adv",
+      "rank": 62,
+      "translations": {
+        "ru": "полностью"
+      },
+      "pair": "en:completely",
+      "examples": [
+        {
+          "es": "El hotel está completamente lleno.",
+          "ru": "Отель полностью заполнен.",
+          "topic": "travel"
+        },
+        {
+          "es": "Borré completamente la caché.",
+          "ru": "Я полностью очистил кэш.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "totalmente",
+      "lemma": "totalmente",
+      "pos": "adv",
+      "rank": 63,
+      "translations": {
+        "ru": "полностью, совершенно"
+      },
+      "pair": "en:totally",
+      "examples": [
+        {
+          "es": "Estoy totalmente de acuerdo.",
+          "ru": "Я полностью согласен.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es totalmente gratis.",
+          "ru": "Это совершенно бесплатно.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "delante",
+      "lemma": "delante",
+      "pos": "adv",
+      "rank": 64,
+      "translations": {
+        "ru": "впереди, перед"
+      },
+      "examples": [
+        {
+          "es": "Te espero delante del museo.",
+          "ru": "Жду тебя перед музеем.",
+          "topic": "travel"
+        },
+        {
+          "es": "Siéntate delante de la pantalla.",
+          "ru": "Сядь перед экраном.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "aun",
+      "lemma": "aun",
+      "pos": "adv",
+      "rank": 65,
+      "translations": {
+        "ru": "даже"
+      },
+      "examples": [
+        {
+          "es": "Aun con lluvia, la ciudad es bonita.",
+          "ru": "Даже в дождь город красивый.",
+          "topic": "travel"
+        },
+        {
+          "es": "Aun así, no funciona.",
+          "ru": "И всё равно не работает.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "aun без знака — «даже»; aún — «ещё»"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "enseguida",
+      "lemma": "enseguida",
+      "pos": "adv",
+      "rank": 66,
+      "translations": {
+        "ru": "сразу, сейчас же"
+      },
+      "examples": [
+        {
+          "es": "Enseguida le traigo la cuenta.",
+          "ru": "Сейчас принесу вам счёт.",
+          "topic": "travel"
+        },
+        {
+          "es": "Lo reviso enseguida.",
+          "ru": "Сейчас же проверю.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "finalmente",
+      "lemma": "finalmente",
+      "pos": "adv",
+      "rank": 67,
+      "translations": {
+        "ru": "наконец, в конце концов"
+      },
+      "pair": "en:finally",
+      "examples": [
+        {
+          "es": "Finalmente llegamos al hotel.",
+          "ru": "Наконец мы добрались до отеля.",
+          "topic": "travel"
+        },
+        {
+          "es": "Finalmente lanzamos la app.",
+          "ru": "В конце концов мы выпустили приложение.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "apenas",
+      "lemma": "apenas",
+      "pos": "adv",
+      "rank": 68,
+      "translations": {
+        "ru": "едва, почти не"
+      },
+      "pair": "en:hardly",
+      "examples": [
+        {
+          "es": "Apenas dormí en el avión.",
+          "ru": "Я почти не спал в самолёте.",
+          "topic": "travel"
+        },
+        {
+          "es": "Apenas hay usuarios hoy.",
+          "ru": "Сегодня почти нет пользователей.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "debajo",
+      "lemma": "debajo",
+      "pos": "adv",
+      "rank": 69,
+      "translations": {
+        "ru": "внизу, под"
+      },
+      "examples": [
+        {
+          "es": "La maleta está debajo de la cama.",
+          "ru": "Чемодан под кроватью.",
+          "topic": "travel"
+        },
+        {
+          "es": "El texto aparece debajo de la imagen.",
+          "ru": "Текст появляется под картинкой.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "definitivamente",
+      "lemma": "definitivamente",
+      "pos": "adv",
+      "rank": 70,
+      "translations": {
+        "ru": "определённо, окончательно"
+      },
+      "pair": "en:definitely",
+      "examples": [
+        {
+          "es": "Definitivamente volvemos el año que viene.",
+          "ru": "Мы определённо вернёмся в следующем году.",
+          "topic": "travel"
+        },
+        {
+          "es": "Definitivamente es un error del cliente.",
+          "ru": "Это определённо ошибка на клиенте.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "acaso",
+      "lemma": "acaso",
+      "pos": "adv",
+      "rank": 71,
+      "translations": {
+        "ru": "разве; может быть"
+      },
+      "examples": [
+        {
+          "es": "¿Acaso no hay otro tren?",
+          "ru": "Разве нет другого поезда?",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Acaso alguien probó esto?",
+          "ru": "Кто-нибудь вообще это проверял?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "obviamente",
+      "lemma": "obviamente",
+      "pos": "adv",
+      "rank": 72,
+      "translations": {
+        "ru": "очевидно, конечно"
+      },
+      "pair": "en:obviously",
+      "examples": [
+        {
+          "es": "Obviamente, no hay taxis a esta hora.",
+          "ru": "Конечно, в это время такси нет.",
+          "topic": "travel"
+        },
+        {
+          "es": "Obviamente, falta una variable.",
+          "ru": "Очевидно, не хватает переменной.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "absolutamente",
+      "lemma": "absolutamente",
+      "pos": "adv",
+      "rank": 73,
+      "translations": {
+        "ru": "абсолютно"
+      },
+      "pair": "en:absolutely",
+      "examples": [
+        {
+          "es": "Es absolutamente precioso.",
+          "ru": "Это абсолютно прекрасно.",
+          "topic": "travel"
+        },
+        {
+          "es": "No cambié absolutamente nada.",
+          "ru": "Я абсолютно ничего не менял.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "especialmente",
+      "lemma": "especialmente",
+      "pos": "adv",
+      "rank": 74,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "особенно"
+      },
+      "pair": "en:especially",
+      "examples": [
+        {
+          "es": "Me gusta especialmente la comida.",
+          "ru": "Мне особенно нравится еда.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es lento, especialmente en el móvil.",
+          "ru": "Медленно, особенно на телефоне.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "inmediatamente",
+      "lemma": "inmediatamente",
+      "pos": "adv",
+      "rank": 75,
+      "translations": {
+        "ru": "немедленно"
+      },
+      "pair": "en:immediately",
+      "examples": [
+        {
+          "es": "Llame inmediatamente a la recepción.",
+          "ru": "Немедленно позвоните на ресепшен.",
+          "topic": "travel"
+        },
+        {
+          "es": "Reinicia inmediatamente el servicio.",
+          "ru": "Немедленно перезапусти сервис.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "solamente",
+      "lemma": "solamente",
+      "pos": "adv",
+      "rank": 76,
+      "translations": {
+        "ru": "только"
+      },
+      "pair": "en:only",
+      "examples": [
+        {
+          "es": "Solamente aceptan efectivo.",
+          "ru": "Принимают только наличные.",
+          "topic": "travel"
+        },
+        {
+          "es": "Solamente falla en producción.",
+          "ru": "Падает только в продакшене.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "seguramente",
+      "lemma": "seguramente",
+      "pos": "adv",
+      "rank": 77,
+      "translations": {
+        "ru": "наверняка"
+      },
+      "examples": [
+        {
+          "es": "Seguramente el museo está cerrado.",
+          "ru": "Наверняка музей закрыт.",
+          "topic": "travel"
+        },
+        {
+          "es": "Seguramente es la caché.",
+          "ru": "Наверняка это кэш.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "suficientemente",
+      "lemma": "suficientemente",
+      "pos": "adv",
+      "rank": 78,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "достаточно"
+      },
+      "examples": [
+        {
+          "es": "No es suficientemente grande para cuatro.",
+          "ru": "Недостаточно большой для четверых.",
+          "topic": "travel"
+        },
+        {
+          "es": "El servidor no es suficientemente rápido.",
+          "ru": "Сервер недостаточно быстрый.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "despacio",
+      "lemma": "despacio",
+      "pos": "adv",
+      "rank": 79,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "медленно"
+      },
+      "examples": [
+        {
+          "es": "Hable más despacio, por favor.",
+          "ru": "Говорите медленнее, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "es": "Ve despacio con los cambios.",
+          "ru": "Не торопись с изменениями.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "directamente",
+      "lemma": "directamente",
+      "pos": "adv",
+      "rank": 80,
+      "translations": {
+        "ru": "прямо, напрямую"
+      },
+      "examples": [
+        {
+          "es": "El autobús va directamente al aeropuerto.",
+          "ru": "Автобус идёт прямо в аэропорт.",
+          "topic": "travel"
+        },
+        {
+          "es": "Escríbeme directamente.",
+          "ru": "Пиши мне напрямую.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "últimamente",
+      "lemma": "últimamente",
+      "pos": "adv",
+      "rank": 81,
+      "translations": {
+        "ru": "в последнее время"
+      },
+      "examples": [
+        {
+          "es": "Últimamente viajo mucho.",
+          "ru": "В последнее время я много путешествую.",
+          "topic": "travel"
+        },
+        {
+          "es": "Últimamente la app va lenta.",
+          "ru": "В последнее время приложение тормозит.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "perfectamente",
+      "lemma": "perfectamente",
+      "pos": "adv",
+      "rank": 82,
+      "translations": {
+        "ru": "отлично, прекрасно"
+      },
+      "examples": [
+        {
+          "es": "Le entiendo perfectamente.",
+          "ru": "Я прекрасно вас понимаю.",
+          "topic": "travel"
+        },
+        {
+          "es": "Funciona perfectamente.",
+          "ru": "Работает отлично.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "normalmente",
+      "lemma": "normalmente",
+      "pos": "adv",
+      "rank": 83,
+      "translations": {
+        "ru": "обычно"
+      },
+      "pair": "en:usually",
+      "examples": [
+        {
+          "es": "Normalmente cenamos a las nueve.",
+          "ru": "Обычно мы ужинаем в девять.",
+          "topic": "travel"
+        },
+        {
+          "es": "Normalmente trabajo desde casa.",
+          "ru": "Обычно я работаю из дома.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "deprisa",
+      "lemma": "deprisa",
+      "pos": "adv",
+      "rank": 84,
+      "translations": {
+        "ru": "быстро, торопливо"
+      },
+      "pair": "en:fast-adv",
+      "examples": [
+        {
+          "es": "Vamos deprisa, el tren sale.",
+          "ru": "Давай быстрее, поезд отправляется.",
+          "topic": "travel"
+        },
+        {
+          "es": "No lo hagas deprisa.",
+          "ru": "Не делай это наспех.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "claramente",
+      "lemma": "claramente",
+      "pos": "adv",
+      "rank": 85,
+      "translations": {
+        "ru": "ясно, явно"
+      },
+      "pair": "en:clear-adv",
+      "examples": [
+        {
+          "es": "El guía habla claramente.",
+          "ru": "Гид говорит понятно.",
+          "topic": "travel"
+        },
+        {
+          "es": "Claramente es un error de diseño.",
+          "ru": "Явно ошибка дизайна.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "recién",
+      "lemma": "recién",
+      "pos": "adv",
+      "rank": 86,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "только что, недавно"
+      },
+      "examples": [
+        {
+          "es": "Recién llegamos al hotel.",
+          "ru": "Мы только что приехали в отель.",
+          "topic": "travel"
+        },
+        {
+          "es": "El código recién subido falla.",
+          "ru": "Только что залитый код падает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "aparte",
+      "lemma": "aparte",
+      "pos": "adv",
+      "rank": 87,
+      "translations": {
+        "ru": "отдельно; кроме"
+      },
+      "pair": "en:apart",
+      "examples": [
+        {
+          "es": "¿Me cobra la bebida aparte?",
+          "ru": "Напиток посчитаете отдельно?",
+          "topic": "travel"
+        },
+        {
+          "es": "Aparte de eso, todo funciona.",
+          "ru": "Кроме этого, всё работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "rápidamente",
+      "lemma": "rápidamente",
+      "pos": "adv",
+      "rank": 88,
+      "translations": {
+        "ru": "быстро"
+      },
+      "pair": "en:quickly",
+      "examples": [
+        {
+          "es": "El tren llega rápidamente.",
+          "ru": "Поезд быстро доезжает.",
+          "topic": "travel"
+        },
+        {
+          "es": "Lo arreglamos rápidamente.",
+          "ru": "Мы быстро это исправили.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "aparentemente",
+      "lemma": "aparentemente",
+      "pos": "adv",
+      "rank": 89,
+      "translations": {
+        "ru": "по-видимому"
+      },
+      "pair": "en:apparently",
+      "examples": [
+        {
+          "es": "Aparentemente el museo está cerrado.",
+          "ru": "По-видимому, музей закрыт.",
+          "topic": "travel"
+        },
+        {
+          "es": "Aparentemente todo está bien.",
+          "ru": "Похоже, всё в порядке.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "muchísimo",
+      "lemma": "muchísimo",
+      "pos": "adv",
+      "rank": 90,
+      "translations": {
+        "ru": "очень много, очень сильно"
+      },
+      "examples": [
+        {
+          "es": "Me gustó muchísimo el viaje.",
+          "ru": "Мне очень понравилась поездка.",
+          "topic": "travel"
+        },
+        {
+          "es": "Aprendí muchísimo.",
+          "ru": "Я очень многому научился.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "personalmente",
+      "lemma": "personalmente",
+      "pos": "adv",
+      "rank": 91,
+      "translations": {
+        "ru": "лично"
+      },
+      "examples": [
+        {
+          "es": "Personalmente, prefiero el tren.",
+          "ru": "Лично я предпочитаю поезд.",
+          "topic": "travel"
+        },
+        {
+          "es": "Lo reviso personalmente.",
+          "ru": "Проверю лично.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "básicamente",
+      "lemma": "básicamente",
+      "pos": "adv",
+      "rank": 92,
+      "translations": {
+        "ru": "в основном, по сути"
+      },
+      "examples": [
+        {
+          "es": "Básicamente, el hotel está en el centro.",
+          "ru": "По сути, отель в центре.",
+          "topic": "travel"
+        },
+        {
+          "es": "Básicamente es un problema de permisos.",
+          "ru": "В основном это проблема прав.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ciertamente",
+      "lemma": "ciertamente",
+      "pos": "adv",
+      "rank": 93,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "конечно, безусловно"
+      },
+      "pair": "en:certainly",
+      "examples": [
+        {
+          "es": "Ciertamente es una ciudad cara.",
+          "ru": "Безусловно, город дорогой.",
+          "topic": "travel"
+        },
+        {
+          "es": "Ciertamente hay que mejorar el diseño.",
+          "ru": "Дизайн, безусловно, надо улучшить.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "anteriormente",
+      "lemma": "anteriormente",
+      "pos": "adv",
+      "rank": 94,
+      "translations": {
+        "ru": "ранее"
+      },
+      "examples": [
+        {
+          "es": "Como dije anteriormente, el tren sale a las ocho.",
+          "ru": "Как я говорил ранее, поезд в восемь.",
+          "topic": "travel"
+        },
+        {
+          "es": "Anteriormente usábamos otra base de datos.",
+          "ru": "Ранее мы использовали другую базу данных.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fácilmente",
+      "lemma": "fácilmente",
+      "pos": "adv",
+      "rank": 95,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "легко"
+      },
+      "examples": [
+        {
+          "es": "Se llega fácilmente en metro.",
+          "ru": "Легко доехать на метро.",
+          "topic": "travel"
+        },
+        {
+          "es": "Se instala fácilmente.",
+          "ru": "Устанавливается легко.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "precisamente",
+      "lemma": "precisamente",
+      "pos": "adv",
+      "rank": 96,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "именно, как раз"
+      },
+      "examples": [
+        {
+          "es": "Precisamente por eso viajamos en tren.",
+          "ru": "Именно поэтому мы едем на поезде.",
+          "topic": "travel"
+        },
+        {
+          "es": "Precisamente ahí está el error.",
+          "ru": "Как раз там и ошибка.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "nuevamente",
+      "lemma": "nuevamente",
+      "pos": "adv",
+      "rank": 97,
+      "translations": {
+        "ru": "снова, опять"
+      },
+      "pair": "en:again",
+      "examples": [
+        {
+          "es": "Nuevamente perdimos el autobús.",
+          "ru": "Мы снова опоздали на автобус.",
+          "topic": "travel"
+        },
+        {
+          "es": "Inténtalo nuevamente.",
+          "ru": "Попробуй снова.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cuán",
+      "lemma": "cuán",
+      "pos": "adv",
+      "rank": 98,
+      "translations": {
+        "ru": "насколько, как (книжн.)"
+      },
+      "examples": [
+        {
+          "es": "No sabes cuán bonito es el pueblo.",
+          "ru": "Ты не представляешь, насколько красив городок.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mira cuán rápido carga ahora.",
+          "ru": "Смотри, как быстро теперь грузится.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "literalmente",
+      "lemma": "literalmente",
+      "pos": "adv",
+      "rank": 99,
+      "translations": {
+        "ru": "буквально"
+      },
+      "examples": [
+        {
+          "es": "Literalmente no hay ni un taxi.",
+          "ru": "Буквально ни одного такси.",
+          "topic": "travel"
+        },
+        {
+          "es": "Copié el código literalmente.",
+          "ru": "Я скопировал код дословно.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "honestamente",
+      "lemma": "honestamente",
+      "pos": "adv",
+      "rank": 100,
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "честно"
+      },
+      "examples": [
+        {
+          "es": "Honestamente, el hotel no vale la pena.",
+          "ru": "Честно, отель того не стоит.",
+          "topic": "travel"
+        },
+        {
+          "es": "Honestamente, no sé qué pasó.",
+          "ru": "Честно, не знаю, что случилось.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    }
+  ]
+}

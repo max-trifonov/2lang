@@ -1,0 +1,68 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "arroz-con-leche",
+  "kind": "song",
+  "lang": "es",
+  "license": "public-domain",
+  "title": { "es": "Arroz con leche", "ru": "Рис с молоком", "en": "Rice Pudding" },
+  "author": "народная",
+  "level": "A1",
+  "tags": ["kids", "traditional"],
+  "note": { "ru": "Традиционная детская песня-игра, известна по всему испаноязычному миру." },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "es": "Arroz con leche, me quiero casar",
+          "ru": "Рис с молоком, я хочу жениться",
+          "en": "Rice pudding, I want to get married",
+          "phrases": [
+            {
+              "es": "me quiero casar",
+              "ru": "я хочу жениться",
+              "en": "I want to get married",
+              "note": { "ru": "querer + инфинитив = «хочу что-то сделать». Возвратное se встаёт перед quiero: me quiero casar = quiero casarme" }
+            }
+          ],
+          "words": [
+            { "es": "quiero", "lemma": "querer", "pos": "verb", "ru": "хочу" },
+            { "es": "casar", "lemma": "casarse", "pos": "verb", "ru": "жениться, выйти замуж" },
+            { "es": "leche", "lemma": "leche", "pos": "noun", "ru": "молоко" }
+          ]
+        },
+        {
+          "es": "con una señorita de San Nicolás,",
+          "ru": "на сеньорите из Сан-Николаса,",
+          "en": "to a young lady from San Nicolás,",
+          "note": { "ru": "casarse con — «жениться на», предлог con, а не en" }
+        },
+        {
+          "es": "que sepa coser, que sepa bordar,",
+          "ru": "которая умеет шить, умеет вышивать,",
+          "en": "who knows how to sew, who knows how to embroider,",
+          "phrases": [
+            {
+              "es": "que sepa",
+              "ru": "которая умела бы",
+              "en": "who knows how to",
+              "note": { "ru": "sepa — сослагательное наклонение от saber: описываем желаемого, а не конкретного человека. saber + инфинитив = «уметь»" }
+            }
+          ],
+          "words": [
+            { "es": "sepa", "lemma": "saber", "pos": "verb", "ru": "умела бы" }
+          ]
+        },
+        {
+          "es": "que sepa abrir la puerta para ir a jugar.",
+          "ru": "которая умеет открыть дверь, чтобы пойти поиграть.",
+          "en": "who knows how to open the door to go and play.",
+          "phrases": [
+            { "es": "abrir la puerta", "ru": "открыть дверь", "en": "open the door" },
+            { "es": "para ir a jugar", "ru": "чтобы пойти поиграть", "en": "to go and play" }
+          ]
+        }
+      ]
+    }
+  ]
+}

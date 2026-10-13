@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://2lang.local/schema/text.v1.json",
+  "title": "2Lang text v1 (song / poem)",
+  "description": "Structural contract. Cross-field rules (original-language key present, phrase is a substring of its line, ref targets) are checked by the app validator — see .flow/content-format.md.",
+  "type": "object",
+  "required": ["format", "version", "id", "kind", "lang", "license", "title", "stanzas"],
+  "additionalProperties": false,
+  "properties": {
+    "format": { "const": "2lang/text" },
+    "version": { "const": 1 },
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "kind": { "enum": ["song", "poem"] },
+    "lang": { "$ref": "#/$defs/langCode" },
+    "license": { "enum": ["public-domain", "own", "personal"] },
+    "title": { "$ref": "#/$defs/localized" },
+    "author": { "type": "string" },
+    "performer": { "type": "string" },
+    "year": { "type": "integer" },
+    "level": { "enum": ["A1", "A2", "B1", "B2", "C1", "C2"] },
+    "tags": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "url"],
+        "additionalProperties": false,
+        "properties": {
+          "type": { "enum": ["youtube", "audio", "source"] },
+          "url": { "type": "string", "format": "uri" }
+        }
+      }
+    },
+    "note": { "$ref": "#/$defs/localized" },
+    "stanzas": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/stanza" } },
+    "ext": { "type": "object" }
+  },
+  "$defs": {
+    "langCode": { "type": "string", "pattern": "^[a-z]{2}$" },
+    "localized": {
+      "type": "object",
+      "minProperties": 1,
+      "propertyNames": { "pattern": "^[a-z]{2}$" },
+      "additionalProperties": { "type": "string", "minLength": 1 }
+    },
+    "stanza": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+        "type": { "enum": ["verse", "chorus", "bridge", "intro", "outro"] },
+        "lines": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/line" } },
+        "ref": { "type": "string" },
+        "ext": { "type": "object" }
+      },
+      "oneOf": [
+        { "required": ["lines"], "not": { "required": ["ref"] } },
+        { "required": ["ref"], "not": { "required": ["lines"] } }
+      ]
+    },
+    "line": {
+      "type": "object",
+      "minProperties": 1,
+      "properties": {
+        "lit": { "$ref": "#/$defs/localized" },
+        "phrases": { "type": "array", "items": { "$ref": "#/$defs/phrase" } },
+        "words": { "type": "array", "items": { "$ref": "#/$defs/word" } },
+        "note": { "$ref": "#/$defs/localized" },
+        "t": { "type": "number", "minimum": 0 },
+        "ext": { "type": "object" }
+      },
+      "patternProperties": { "^[a-z]{2}$": { "type": "string", "minLength": 1 } },
+      "additionalProperties": false
+    },
+    "phrase": {
+      "type": "object",
+      "minProperties": 2,
+      "properties": {
+        "note": { "$ref": "#/$defs/localized" },
+        "ext": { "type": "object" }
+      },
+      "patternProperties": { "^[a-z]{2}$": { "type": "string", "minLength": 1 } },
+      "additionalProperties": false
+    },
+    "word": {
+      "type": "object",
+      "minProperties": 1,
+      "properties": {
+        "lemma": { "type": "string", "minLength": 1 },
+        "pos": { "enum": ["verb", "noun", "adj", "adv", "pron", "prep", "conj", "det", "num", "intj"] },
+        "ext": { "type": "object" }
+      },
+      "patternProperties": { "^[a-z]{2}$": { "type": "string", "minLength": 1 } },
+      "additionalProperties": false
+    }
+  }
+}

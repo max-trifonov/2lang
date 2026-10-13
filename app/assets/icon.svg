@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Исходник иконок 2Lang (LNG-S1-004): PNG собирает `npm run icons`.
+       Синий — английский (ведущий), янтарный — испанский: у каждого языка свой цвет (brief). -->
+  <rect id="bg" width="512" height="512" rx="0" fill="#2563EB"/>
+  <g id="mark" font-family="'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-weight="800" text-anchor="middle">
+    <text x="196" y="352" font-size="300" fill="#FFFFFF">2</text>
+    <text x="352" y="352" font-size="300" fill="#F59E0B">L</text>
+    <rect x="120" y="392" width="272" height="24" rx="12" fill="#FFFFFF" opacity="0.9"/>
+  </g>
+</svg>

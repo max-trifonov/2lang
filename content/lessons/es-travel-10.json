@@ -1,0 +1,80 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-10",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 10,
+  "level": "A1",
+  "title": {
+    "ru": "Я заблудился",
+    "en": "I'm lost",
+    "es": "Estoy perdido"
+  },
+  "words": [
+    "buscar",
+    "mapa",
+    "camino",
+    "perdido"
+  ],
+  "phrase": {
+    "es": "Estoy perdido: busco el camino al hotel.",
+    "ru": "Я заблудился: ищу дорогу к отелю.",
+    "en": "I'm lost: I'm looking for the way to the hotel."
+  },
+  "rule": {
+    "text": {
+      "ru": "«Я заблудился» — estoy perdido (о женщине — perdida): это состояние, поэтому estar. buscar — «искать», без предлога: Busco el hotel.",
+      "en": "“I’m lost” is estoy perdido (a woman says perdida): a state, so estar. buscar means “to look for”, with no preposition: Busco el hotel.",
+      "es": "Estoy perdido / perdida: es un estado, por eso estar. buscar sin preposición: Busco el hotel."
+    },
+    "examples": [
+      {
+        "es": "Busco la estación de tren.",
+        "ru": "Я ищу вокзал."
+      },
+      {
+        "es": "Estamos perdidos. ¿Tiene un mapa?",
+        "ru": "Мы заблудились. У вас есть карта?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "___ el camino a la playa.",
+      "answer": "Busco",
+      "ru": "Я ищу дорогу к пляжу."
+    },
+    {
+      "type": "fill",
+      "es": "Estoy ___. ¿Dónde está la calle Mayor?",
+      "answer": [
+        "perdido",
+        "perdida"
+      ],
+      "ru": "Я заблудился. Где улица Майор?"
+    },
+    {
+      "type": "build",
+      "es": "¿Tiene un mapa de la ciudad?",
+      "ru": "У вас есть карта города?",
+      "extra": [
+        "camino"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я ищу дорогу.",
+      "answer": [
+        "Busco el camino.",
+        "Yo busco el camino.",
+        "Estoy buscando el camino."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

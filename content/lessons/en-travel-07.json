@@ -1,0 +1,77 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-07",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 7,
+  "level": "B1",
+  "title": {
+    "ru": "Слишком дорого",
+    "en": "Too expensive",
+    "es": "Demasiado caro"
+  },
+  "words": [
+    "afford",
+    "price",
+    "expensive",
+    "cheap"
+  ],
+  "phrase": {
+    "en": "It's too expensive — we can't afford it.",
+    "ru": "Это слишком дорого — мы не можем себе это позволить.",
+    "es": "Es demasiado caro: no nos lo podemos permitir."
+  },
+  "rule": {
+    "text": {
+      "ru": "too + прилагательное — «слишком»: too expensive. Сравнение коротких — -er: cheaper; длинных — more: more expensive. «Позволить себе» — can afford, обычно с can / can't.",
+      "en": "too + adjective means “more than you want”: too expensive. Short adjectives add -er (cheaper), long ones take more (more expensive). afford is usually used with can / can’t.",
+      "es": "too + adjetivo = demasiado: too expensive. Comparativo: cheaper, more expensive. afford suele ir con can / can’t."
+    },
+    "examples": [
+      {
+        "en": "The bus is cheaper than a taxi.",
+        "ru": "Автобус дешевле такси."
+      },
+      {
+        "en": "Prices are higher in summer.",
+        "ru": "Летом цены выше."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We can't ___ a hotel in the centre.",
+      "answer": "afford",
+      "ru": "Мы не можем позволить себе отель в центре."
+    },
+    {
+      "type": "fill",
+      "en": "The train is ___ than the plane.",
+      "answer": "cheaper",
+      "ru": "Поезд дешевле самолёта."
+    },
+    {
+      "type": "build",
+      "en": "The price is too high for us.",
+      "ru": "Цена для нас слишком высокая.",
+      "extra": [
+        "expensive"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Это слишком дорого.",
+      "answer": [
+        "It's too expensive.",
+        "It is too expensive.",
+        "This is too expensive."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

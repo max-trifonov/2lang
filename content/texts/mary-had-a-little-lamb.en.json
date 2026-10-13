@@ -1,0 +1,106 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "mary-had-a-little-lamb",
+  "kind": "poem",
+  "lang": "en",
+  "license": "public-domain",
+  "title": {
+    "en": "Mary Had a Little Lamb",
+    "ru": "У Мэри был ягнёнок"
+  },
+  "author": "Sarah Josepha Hale (1830)",
+  "level": "A2",
+  "tags": [
+    "kids",
+    "traditional"
+  ],
+  "note": {
+    "ru": "Детское стихотворение; Past Simple: had, went."
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "en": "Mary had a little lamb,",
+          "ru": "У Мэри был маленький ягнёнок,",
+          "phrases": [
+            {
+              "en": "Mary had a little lamb",
+              "ru": "у Мэри был маленький ягнёнок",
+              "note": {
+                "ru": "had — прошедшее от have: «имела, у неё был»"
+              }
+            }
+          ],
+          "words": [
+            {
+              "en": "had",
+              "lemma": "have",
+              "pos": "verb",
+              "ru": "имела, у неё был"
+            },
+            {
+              "en": "lamb",
+              "lemma": "lamb",
+              "pos": "noun",
+              "ru": "ягнёнок"
+            }
+          ]
+        },
+        {
+          "en": "Its fleece was white as snow;",
+          "ru": "Его шёрстка была белой, как снег;",
+          "phrases": [
+            {
+              "en": "white as snow",
+              "ru": "белый как снег",
+              "note": {
+                "ru": "as + прилагательное + as — сравнение «такой же ... как»; в песне первый as опущен"
+              }
+            }
+          ],
+          "words": [
+            {
+              "en": "white",
+              "lemma": "white",
+              "pos": "adj",
+              "ru": "белый"
+            },
+            {
+              "en": "snow",
+              "lemma": "snow",
+              "pos": "noun",
+              "ru": "снег"
+            }
+          ]
+        },
+        {
+          "en": "And everywhere that Mary went",
+          "ru": "И куда бы ни пошла Мэри,",
+          "words": [
+            {
+              "en": "went",
+              "lemma": "go",
+              "pos": "verb",
+              "ru": "шла, пошла"
+            }
+          ]
+        },
+        {
+          "en": "The lamb was sure to go.",
+          "ru": "Ягнёнок обязательно шёл следом.",
+          "phrases": [
+            {
+              "en": "was sure to go",
+              "ru": "непременно шёл",
+              "note": {
+                "ru": "be sure to + глагол — «обязательно сделает»"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

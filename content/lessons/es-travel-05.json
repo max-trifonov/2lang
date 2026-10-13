@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-05",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 5,
+  "level": "A1",
+  "title": {
+    "ru": "На вокзале: поезд",
+    "en": "At the station: the train",
+    "es": "En la estación: el tren"
+  },
+  "words": [
+    "salir",
+    "tren",
+    "estación",
+    "tarde-adv"
+  ],
+  "phrase": {
+    "es": "¿A qué hora sale el tren?",
+    "ru": "Во сколько отправляется поезд?",
+    "en": "What time does the train leave?"
+  },
+  "rule": {
+    "text": {
+      "ru": "salir — «выходить, отправляться»: El tren sale a las nueve. Время — a las + число: a las ocho, но a la una.",
+      "en": "salir means “to leave, to depart”: El tren sale a las nueve. Time is a las + number: a las ocho, but a la una.",
+      "es": "salir: El tren sale a las nueve. La hora: a las + número (a las ocho), pero a la una."
+    },
+    "examples": [
+      {
+        "es": "Salgo del hotel a las siete.",
+        "ru": "Я выхожу из отеля в семь."
+      },
+      {
+        "es": "Hoy el tren sale tarde.",
+        "ru": "Сегодня поезд отправляется поздно."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "El tren ___ a las diez.",
+      "answer": "sale",
+      "ru": "Поезд отправляется в десять."
+    },
+    {
+      "type": "fill",
+      "es": "Llegamos a la ___ a las ocho.",
+      "answer": "estación",
+      "ru": "Мы приезжаем на вокзал в восемь."
+    },
+    {
+      "type": "build",
+      "es": "El tren sale de la estación.",
+      "ru": "Поезд отправляется с вокзала.",
+      "extra": [
+        "salgo"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Поезд отправляется поздно.",
+      "answer": [
+        "El tren sale tarde."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

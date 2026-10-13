@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-03",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 3,
+  "level": "B1",
+  "title": {
+    "ru": "Новая версия",
+    "en": "A new version",
+    "es": "Una nueva versión"
+  },
+  "words": [
+    "release",
+    "version",
+    "currently"
+  ],
+  "phrase": {
+    "en": "We're currently testing the new version and will release it next week.",
+    "ru": "Сейчас мы тестируем новую версию и выпустим её на следующей неделе.",
+    "es": "Ahora mismo estamos probando la nueva versión y la publicaremos la semana que viene."
+  },
+  "rule": {
+    "text": {
+      "ru": "Что идёт сейчас, в этот период — Present Continuous: We're testing. currently — «в настоящее время» — подчёркивает это. Решение о будущем — will: We'll release it.",
+      "en": "For what is going on now or these days, use the Present Continuous: We’re testing; currently stresses it. A decision about the future — will: We’ll release it.",
+      "es": "Lo que pasa ahora: Present Continuous (We’re testing), currently lo subraya. Futuro decidido: will."
+    },
+    "examples": [
+      {
+        "en": "I'm currently working on the API.",
+        "ru": "Сейчас я работаю над API."
+      },
+      {
+        "en": "Which version are you using?",
+        "ru": "Какой версией ты пользуешься?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We ___ a new version every month.",
+      "answer": "release",
+      "ru": "Мы выпускаем новую версию каждый месяц."
+    },
+    {
+      "type": "fill",
+      "en": "We're ___ testing the app.",
+      "answer": "currently",
+      "ru": "Сейчас мы тестируем приложение."
+    },
+    {
+      "type": "build",
+      "en": "We will release the new version tomorrow.",
+      "ru": "Мы выпустим новую версию завтра.",
+      "extra": [
+        "releasing"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Сейчас мы тестируем новую версию.",
+      "answer": [
+        "We're currently testing the new version.",
+        "We are currently testing the new version.",
+        "We're testing the new version now."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

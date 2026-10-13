@@ -1,0 +1,182 @@
+# Импорт частотности — en
+
+## Алиасы (форма → лемма): 11
+
+- gonna (verb, ранг источника 80) → go
+- wouldn (verb, ранг источника 255) → would
+- clothe (noun, ранг источника 728) → clothes
+- stole (verb, ранг источника 1183) → steal
+- datum (noun, ранг источника 1847) → data
+- doin (verb, ранг источника 1859) → do
+- realise (verb, ранг источника 1903) → realize
+- mustn (verb, ранг источника 2238) → must
+- politic (noun, ранг источника 2277) → politics
+- bout (adv, ранг источника 3414) → about
+- constructor (noun, ранг источника 51751) → function Object() { [native code] }
+
+## Слиты дубли: 15
+
+- gonna (verb, ранг источника 80) → go
+- do (verb, ранг источника 84) → do
+- wouldn (verb, ранг источника 255) → would
+- be (verb, ранг источника 270) → be
+- have (verb, ранг источника 340) → have
+- stole (verb, ранг источника 1183) → steal
+- doin (verb, ранг источника 1859) → do
+- realise (verb, ранг источника 1903) → realize
+- mustn (verb, ранг источника 2238) → must
+- bout (adv, ранг источника 3414) → about
+- can (verb, ранг источника 6734) → can
+- will (verb, ранг источника 15936) → will
+- mould (verb, ранг источника 31445) → mould
+- may (verb, ранг источника 42164) → may
+- should (verb, ранг источника 48852) → should
+
+## Стоп-лист: 140
+
+- thank (noun, ранг источника 193) → mistagged
+- wasn (noun, ранг источника 230) → fragment
+- hell (noun, ранг источника 237) → vulgar
+- shit (noun, ранг источника 266) → vulgar
+- fuck (noun, ранг источника 277) → vulgar
+- haven (noun, ранг источника 282) → fragment
+- wanna (noun, ранг источника 296) → fragment
+- fucking (adj, ранг источника 311) → vulgar
+- gotta (verb, ранг источника 315) → fragment
+- mine (noun, ранг источника 375) → mistagged
+- ain (noun, ранг источника 394) → fragment
+- your (noun, ранг источника 443) → mistagged
+- whoa (noun, ранг источника 452) → subtitle annotation
+- sigh (verb, ранг источника 479) → subtitle annotation
+- shouldn (noun, ранг источника 502) → fragment
+- scar (verb, ранг источника 525) → mistagged
+- chuckle (noun, ранг источника 541) → subtitle annotation
+- bitch (verb, ранг источника 557) → vulgar
+- luck (verb, ранг источника 559) → mistagged
+- sex (noun, ранг источника 576) → sensitive
+- other (noun, ранг источника 578) → mistagged
+- fault (verb, ранг источника 619) → mistagged
+- none (noun, ранг источника 657) → mistagged
+- one (noun, ранг источника 660) → mistagged
+- hasn (noun, ранг источника 735) → fragment
+- cheer (noun, ранг источника 829) → mistagged
+- gasp (verb, ранг источника 830) → subtitle annotation
+- tom (noun, ранг источника 833) → name
+- girlfriend (verb, ранг источника 842) → mistagged
+- lt (noun, ранг источника 930) → fragment
+- bloody (adj, ранг источника 934) → vulgar
+- screw (verb, ранг источника 938) → vulgar
+- grab (noun, ранг источника 970) → mistagged
+- laughter (noun, ранг источника 983) → subtitle annotation
+- grunt (noun, ранг источника 1014) → subtitle annotation
+- yo (verb, ранг источника 1041) → fragment
+- piss (verb, ранг источника 1044) → vulgar
+- crowd (verb, ранг источника 1047) → mistagged
+- grunt (verb, ранг источника 1050) → subtitle annotation
+- crap (noun, ранг источника 1055) → vulgar
+- ow (adv, ранг источника 1057) → subtitle annotation
+- asshole (noun, ранг источника 1085) → vulgar
+- narrator (noun, ранг источника 1099) → subtitle annotation
+- accord (verb, ранг источника 1121) → mistagged
+- beep (verb, ранг источника 1130) → subtitle annotation
+- applause (noun, ранг источника 1179) → subtitle annotation
+- groan (noun, ранг источника 1203) → subtitle annotation
+- dick (noun, ранг источника 1204) → vulgar
+- pant (noun, ранг источника 1214) → subtitle annotation
+- billy (adv, ранг источника 1222) → name
+- hat (verb, ранг источника 1236) → mistagged
+- goddamn (noun, ранг источника 1240) → vulgar
+- bullshit (noun, ранг источника 1293) → vulgar
+- martin (verb, ранг источника 1349) → name
+- suicide (noun, ранг источника 1413) → sensitive
+- whoo (verb, ранг источника 1414) → subtitle annotation
+- papa (verb, ранг источника 1422) → name
+- aye (adj, ранг источника 1456) → fragment
+- ours (adj, ранг источника 1503) → mistagged
+- fuck (verb, ранг источника 1539) → vulgar
+- indistinct (adj, ранг источника 1543) → subtitle annotation
+- kinda (adv, ранг источника 1550) → fragment
+- fate (verb, ранг источника 1565) → mistagged
+- ohh (noun, ранг источника 1620) → subtitle annotation
+- naked (adj, ранг источника 1624) → sensitive
+- pete (adj, ранг источника 1627) → name
+- kate (verb, ранг источника 1635) → name
+- pair (verb, ранг источника 1637) → mistagged
+- whore (noun, ранг источника 1659) → vulgar
+- gunshot (noun, ранг источника 1674) → subtitle annotation
+- jerry (noun, ранг источника 1697) → name
+- goin (noun, ранг источника 1706) → fragment
+- chick (noun, ранг источника 1748) → vulgar
+- motherfucker (noun, ранг источника 1754) → vulgar
+- groan (verb, ранг источника 1776) → subtitle annotation
+- sexy (adj, ранг источника 1778) → sensitive
+- re (verb, ранг источника 1780) → fragment
+- rat (verb, ранг источника 1792) → mistagged
+- horn (verb, ранг источника 1810) → mistagged
+- laura (noun, ранг источника 1818) → name
+- ashame (verb, ранг источника 1839) → mistagged
+- pant (verb, ранг источника 1897) → subtitle annotation
+- butt (noun, ранг источника 1920) → vulgar
+- chuckle (verb, ранг источника 1966) → subtitle annotation
+- chuck (verb, ранг источника 1967) → name
+- heh (verb, ранг источника 1982) → subtitle annotation
+- scoff (verb, ранг источника 1994) → subtitle annotation
+- fre (verb, ранг источника 2001) → fragment
+- te (verb, ранг источника 2045) → fragment
+- sean (noun, ранг источника 2048) → name
+- announcer (noun, ранг источника 2090) → subtitle annotation
+- kyle (noun, ранг источника 2097) → name
+- chatter (verb, ранг источника 2144) → subtitle annotation
+- ll (verb, ранг источника 2155) → fragment
+- victor (noun, ранг источника 2161) → name
+- sob (verb, ранг источника 2167) → subtitle annotation
+- exhale (noun, ранг источника 2199) → subtitle annotation
+- gordon (noun, ранг источника 2207) → name
+- whisper (noun, ранг источника 2223) → subtitle annotation
+- merry (verb, ранг источника 2225) → mistagged
+- rape (noun, ранг источника 2228) → sensitive
+- lily (adv, ранг источника 2231) → name
+- bastard (noun, ранг источника 2276) → vulgar
+- put (noun, ранг источника 2279) → mistagged
+- gee (noun, ранг источника 2366) → subtitle annotation
+- terry (noun, ранг источника 2371) → name
+- whispering (noun, ранг источника 2383) → subtitle annotation
+- breast (noun, ранг источника 2388) → sensitive
+- damn (verb, ранг источника 2459) → vulgar
+- molly (adv, ранг источника 2467) → name
+- coward (adv, ранг источника 2538) → mistagged
+- oliver (adv, ранг источника 2614) → name
+- fifth (adv, ранг источника 2651) → mistagged
+- holly (adv, ранг источника 2810) → name
+- beep (noun, ранг источника 2886) → subtitle annotation
+- tattoo (adv, ранг источника 3014) → mistagged
+- aaron (adv, ранг источника 3339) → name
+- ln (adv, ранг источника 3347) → fragment
+- bitch (noun, ранг источника 3384) → vulgar
+- indistinctly (adv, ранг источника 3544) → subtitle annotation
+- swallow (adv, ранг источника 3768) → mistagged
+- sore (adv, ранг источника 3839) → mistagged
+- oops (adv, ранг источника 3913) → subtitle annotation
+- lighter (adv, ранг источника 3914) → mistagged
+- ass (noun, ранг источника 4419) → vulgar
+- sigh (noun, ранг источника 4679) → subtitle annotation
+- gasp (noun, ранг источника 4995) → subtitle annotation
+- shit (verb, ранг источника 5363) → vulgar
+- screw (noun, ранг источника 8094) → vulgar
+- slut (noun, ранг источника 12510) → vulgar
+- bullshit (verb, ранг источника 13783) → vulgar
+- butt (verb, ранг источника 15049) → vulgar
+- crap (verb, ранг источника 15706) → vulgar
+- whore (verb, ранг источника 17598) → vulgar
+- chatter (noun, ранг источника 22722) → subtitle annotation
+- scoff (noun, ранг источника 22829) → subtitle annotation
+- bloody (verb, ранг источника 26758) → vulgar
+- sex (verb, ранг источника 34025) → sensitive
+- ll (verb, ранг источника 65659) → fragment
+- damn (noun, ранг источника 67431) → vulgar
+
+## Лемма не по правилу id (не вошла): 3
+
+- comic_strip (noun, ранг источника 7792)
+- i̇t (noun, ранг источника 51033)
+- function Object() { [native code] } (noun, ранг источника 51751)

@@ -1,0 +1,187 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-sound-03",
+  "lang": "es",
+  "kind": "sound",
+  "code": "ES-P3",
+  "order": 3,
+  "level": "A1",
+  "requires": [
+    "es-sound-01"
+  ],
+  "title": {
+    "ru": "c, z, qu; g, j; немая h",
+    "en": "c, z, qu; g, j; silent h",
+    "es": "c, z, qu; g, j; la h muda"
+  },
+  "rules": [
+    {
+      "id": "es-c-before-e-i",
+      "title": {
+        "ru": "c перед e, i",
+        "en": "c before e, i",
+        "es": "c delante de e, i"
+      },
+      "text": {
+        "ru": "c перед e и i — [θ] в Испании и [s] в Латинской Америке, в остальных случаях — [k]: casa, cosa.",
+        "en": "c before e and i is [θ] in Spain and [s] in Latin America, otherwise [k]: casa, cosa.",
+        "es": "c delante de e, i suena [θ] en España y [s] en América; en los demás casos, [k]."
+      },
+      "ipa": "θ / s",
+      "examples": [
+        {
+          "es": "cena",
+          "ru": "ужин"
+        },
+        {
+          "es": "cine",
+          "ru": "кино"
+        },
+        {
+          "es": "hacer",
+          "ru": "делать"
+        }
+      ]
+    },
+    {
+      "id": "es-z",
+      "title": {
+        "ru": "z",
+        "en": "z",
+        "es": "z"
+      },
+      "text": {
+        "ru": "z всегда как c перед e, i: [θ] / [s]. Перед e и i пишут c, а не z: lápiz → lápices.",
+        "en": "z always sounds like c before e, i: [θ] / [s]. Before e and i Spanish writes c: lápiz → lápices.",
+        "es": "La z suena como la c delante de e, i: [θ] / [s]."
+      },
+      "ipa": "θ / s",
+      "examples": [
+        {
+          "es": "zapato",
+          "ru": "ботинок"
+        },
+        {
+          "es": "plaza",
+          "ru": "площадь"
+        }
+      ]
+    },
+    {
+      "id": "es-qu",
+      "title": {
+        "ru": "qu",
+        "en": "qu",
+        "es": "qu"
+      },
+      "text": {
+        "ru": "qu перед e, i читается [k], u не звучит: queso, aquí.",
+        "en": "qu before e, i is [k], the u is silent: queso, aquí.",
+        "es": "qu delante de e, i suena [k]; la u no se pronuncia."
+      },
+      "ipa": "k",
+      "examples": [
+        {
+          "es": "queso",
+          "ru": "сыр"
+        },
+        {
+          "es": "aquí",
+          "ru": "здесь"
+        }
+      ]
+    },
+    {
+      "id": "es-g-before-e-i",
+      "title": {
+        "ru": "g перед e, i; gu, gü",
+        "en": "g before e, i; gu, gü",
+        "es": "g delante de e, i; gu, gü"
+      },
+      "text": {
+        "ru": "g перед e, i — как j, хриплое [x]: gente. Чтобы сохранить [g], пишут gu: guitarra; gü — u звучит: pingüino.",
+        "en": "g before e, i sounds like j [x]: gente. To keep [g], Spanish writes gu: guitarra; in gü the u is pronounced.",
+        "es": "g delante de e, i suena como la j [x]; gu mantiene [g]; en gü la u suena."
+      },
+      "ipa": "x",
+      "examples": [
+        {
+          "es": "gente",
+          "ru": "люди"
+        },
+        {
+          "es": "guitarra",
+          "ru": "гитара"
+        },
+        {
+          "es": "pingüino",
+          "ru": "пингвин"
+        }
+      ]
+    },
+    {
+      "id": "es-h-silent",
+      "title": {
+        "ru": "h не читается",
+        "en": "h is silent",
+        "es": "La h no suena"
+      },
+      "text": {
+        "ru": "h никогда не читается: hola [ola], hacer [aθer]. Исключение — ch: [tʃ].",
+        "en": "h is never pronounced: hola, hacer. The exception is ch [tʃ].",
+        "es": "La h no se pronuncia, salvo en ch [tʃ]."
+      },
+      "examples": [
+        {
+          "es": "hola",
+          "ru": "привет"
+        },
+        {
+          "es": "hotel",
+          "ru": "отель"
+        },
+        {
+          "es": "hacer",
+          "ru": "делать"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "pairs",
+      "items": [
+        [
+          "casa",
+          "caza"
+        ],
+        [
+          "coser",
+          "cocer"
+        ]
+      ]
+    },
+    {
+      "type": "read",
+      "items": [
+        "cena",
+        "cine",
+        "queso",
+        "guitarra",
+        "gente",
+        "hola"
+      ]
+    },
+    {
+      "type": "dictation",
+      "items": [
+        "ciudad",
+        "zapato",
+        "quince",
+        "gente",
+        "hielo"
+      ]
+    }
+  ]
+}

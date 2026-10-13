@@ -1,0 +1,4688 @@
+{
+  "format": "2lang/dictionary",
+  "version": 1,
+  "lang": "es",
+  "license": "cc-by-sa",
+  "source": "Черновик ИИ (D-25) на частотном каркасе wordhoard v0.1.0 (CC BY-SA 4.0, D-24): https://github.com/natema/wordhoard; см. content/frequency/NOTICE.md",
+  "entries": [
+    {
+      "id": "ser",
+      "lemma": "ser",
+      "pos": "verb",
+      "rank": 1,
+      "irregular": true,
+      "translations": {
+        "ru": "быть (постоянное: кто, какой, откуда)"
+      },
+      "pair": "en:be",
+      "forms": {
+        "present": [
+          "soy",
+          "eres",
+          "es",
+          "somos",
+          "sois",
+          "son"
+        ],
+        "preterite": [
+          "fui",
+          "fuiste",
+          "fue",
+          "fuimos",
+          "fuisteis",
+          "fueron"
+        ],
+        "gerund": "siendo",
+        "participle": "sido",
+        "imperfect": [
+          "era",
+          "eras",
+          "era",
+          "éramos",
+          "erais",
+          "eran"
+        ]
+      },
+      "examples": [
+        {
+          "es": "Soy desarrollador y trabajo desde casa.",
+          "ru": "Я разработчик и работаю из дома.",
+          "topic": "it"
+        },
+        {
+          "es": "¿De dónde eres?",
+          "ru": "Откуда ты?",
+          "topic": "travel"
+        }
+      ],
+      "note": {
+        "ru": "ser — постоянное и суть (кто, какой, откуда), estar — состояние и место"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "estar",
+      "lemma": "estar",
+      "pos": "verb",
+      "rank": 2,
+      "irregular": true,
+      "translations": {
+        "ru": "быть, находиться (состояние, место)"
+      },
+      "forms": {
+        "present": [
+          "estoy",
+          "estás",
+          "está",
+          "estamos",
+          "estáis",
+          "están"
+        ],
+        "preterite": [
+          "estuve",
+          "estuviste",
+          "estuvo",
+          "estuvimos",
+          "estuvisteis",
+          "estuvieron"
+        ],
+        "gerund": "estando",
+        "participle": "estado"
+      },
+      "examples": [
+        {
+          "es": "¿Dónde está la estación de tren?",
+          "ru": "Где железнодорожный вокзал?",
+          "topic": "travel"
+        },
+        {
+          "es": "El servidor está caído otra vez.",
+          "ru": "Сервер снова лежит.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tener",
+      "lemma": "tener",
+      "pos": "verb",
+      "rank": 3,
+      "irregular": true,
+      "translations": {
+        "ru": "иметь; tener que — быть должным"
+      },
+      "pair": "en:have",
+      "forms": {
+        "present": [
+          "tengo",
+          "tienes",
+          "tiene",
+          "tenemos",
+          "tenéis",
+          "tienen"
+        ],
+        "preterite": [
+          "tuve",
+          "tuviste",
+          "tuvo",
+          "tuvimos",
+          "tuvisteis",
+          "tuvieron"
+        ],
+        "gerund": "teniendo",
+        "participle": "tenido"
+      },
+      "examples": [
+        {
+          "es": "Tengo una reserva para dos noches.",
+          "ru": "У меня бронь на две ночи.",
+          "topic": "travel"
+        },
+        {
+          "es": "Tenemos que hacer un deploy hoy.",
+          "ru": "Нам нужно сделать деплой сегодня.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "haber",
+      "lemma": "haber",
+      "pos": "verb",
+      "rank": 4,
+      "irregular": true,
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "вспомогательный глагол (he hecho — я сделал); hay — есть, имеется"
+      },
+      "forms": {
+        "present": [
+          "he",
+          "has",
+          "ha",
+          "hemos",
+          "habéis",
+          "han"
+        ],
+        "preterite": [
+          "hube",
+          "hubiste",
+          "hubo",
+          "hubimos",
+          "hubisteis",
+          "hubieron"
+        ],
+        "gerund": "habiendo",
+        "participle": "habido"
+      },
+      "examples": [
+        {
+          "es": "He reservado una mesa para las ocho.",
+          "ru": "Я забронировал столик на восемь.",
+          "topic": "travel"
+        },
+        {
+          "es": "Ha habido un error en la base de datos.",
+          "ru": "В базе данных произошла ошибка.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "hay — «есть, имеется»: Hay un problema. В сложных временах — he, has, ha + причастие"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hacer",
+      "lemma": "hacer",
+      "pos": "verb",
+      "rank": 5,
+      "irregular": true,
+      "rules": [
+        "es-c-before-e-i",
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "делать"
+      },
+      "pair": "en:do",
+      "forms": {
+        "present": [
+          "hago",
+          "haces",
+          "hace",
+          "hacemos",
+          "hacéis",
+          "hacen"
+        ],
+        "preterite": [
+          "hice",
+          "hiciste",
+          "hizo",
+          "hicimos",
+          "hicisteis",
+          "hicieron"
+        ],
+        "gerund": "haciendo",
+        "participle": "hecho"
+      },
+      "examples": [
+        {
+          "es": "¿Qué haces mañana por la tarde?",
+          "ru": "Что делаешь завтра вечером?",
+          "topic": "daily"
+        },
+        {
+          "es": "Hice una copia de seguridad del proyecto.",
+          "ru": "Я сделал резервную копию проекта.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "decir",
+      "lemma": "decir",
+      "pos": "verb",
+      "rank": 6,
+      "irregular": true,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "говорить, сказать"
+      },
+      "pair": "en:say",
+      "forms": {
+        "present": [
+          "digo",
+          "dices",
+          "dice",
+          "decimos",
+          "decís",
+          "dicen"
+        ],
+        "preterite": [
+          "dije",
+          "dijiste",
+          "dijo",
+          "dijimos",
+          "dijisteis",
+          "dijeron"
+        ],
+        "gerund": "diciendo",
+        "participle": "dicho"
+      },
+      "examples": [
+        {
+          "es": "¿Cómo se dice «billete» en inglés?",
+          "ru": "Как по-английски «билет»?",
+          "topic": "travel"
+        },
+        {
+          "es": "El jefe dijo que la reunión es a las diez.",
+          "ru": "Начальник сказал, что встреча в десять.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "saber",
+      "lemma": "saber",
+      "pos": "verb",
+      "rank": 7,
+      "irregular": true,
+      "translations": {
+        "ru": "знать (факт), уметь"
+      },
+      "pair": "en:know",
+      "forms": {
+        "present": [
+          "sé",
+          "sabes",
+          "sabe",
+          "sabemos",
+          "sabéis",
+          "saben"
+        ],
+        "preterite": [
+          "supe",
+          "supiste",
+          "supo",
+          "supimos",
+          "supisteis",
+          "supieron"
+        ],
+        "gerund": "sabiendo",
+        "participle": "sabido"
+      },
+      "examples": [
+        {
+          "es": "No sé dónde está mi pasaporte.",
+          "ru": "Не знаю, где мой паспорт.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Sabes programar en Python?",
+          "ru": "Ты умеешь программировать на Python?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "querer",
+      "lemma": "querer",
+      "pos": "verb",
+      "rank": 8,
+      "irregular": true,
+      "rules": [
+        "es-qu"
+      ],
+      "translations": {
+        "ru": "хотеть; любить"
+      },
+      "pair": "en:want",
+      "forms": {
+        "present": [
+          "quiero",
+          "quieres",
+          "quiere",
+          "queremos",
+          "queréis",
+          "quieren"
+        ],
+        "preterite": [
+          "quise",
+          "quisiste",
+          "quiso",
+          "quisimos",
+          "quisisteis",
+          "quisieron"
+        ],
+        "gerund": "queriendo",
+        "participle": "querido"
+      },
+      "examples": [
+        {
+          "es": "Quiero un café con leche, por favor.",
+          "ru": "Мне кофе с молоком, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "es": "Queremos lanzar la nueva versión el lunes.",
+          "ru": "Мы хотим выпустить новую версию в понедельник.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ir",
+      "lemma": "ir",
+      "pos": "verb",
+      "rank": 9,
+      "irregular": true,
+      "translations": {
+        "ru": "идти, ехать; ir a + инф. — собираться"
+      },
+      "pair": "en:go",
+      "forms": {
+        "present": [
+          "voy",
+          "vas",
+          "va",
+          "vamos",
+          "vais",
+          "van"
+        ],
+        "preterite": [
+          "fui",
+          "fuiste",
+          "fue",
+          "fuimos",
+          "fuisteis",
+          "fueron"
+        ],
+        "gerund": "yendo",
+        "participle": "ido",
+        "imperfect": [
+          "iba",
+          "ibas",
+          "iba",
+          "íbamos",
+          "ibais",
+          "iban"
+        ]
+      },
+      "examples": [
+        {
+          "es": "Vamos al aeropuerto en taxi.",
+          "ru": "Едем в аэропорт на такси.",
+          "topic": "travel"
+        },
+        {
+          "es": "Voy a revisar el código esta tarde.",
+          "ru": "Я посмотрю код сегодня днём.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "poder",
+      "lemma": "poder",
+      "pos": "verb",
+      "rank": 10,
+      "irregular": true,
+      "translations": {
+        "ru": "мочь"
+      },
+      "pair": "en:can",
+      "forms": {
+        "present": [
+          "puedo",
+          "puedes",
+          "puede",
+          "podemos",
+          "podéis",
+          "pueden"
+        ],
+        "preterite": [
+          "pude",
+          "pudiste",
+          "pudo",
+          "pudimos",
+          "pudisteis",
+          "pudieron"
+        ],
+        "gerund": "pudiendo",
+        "participle": "podido"
+      },
+      "examples": [
+        {
+          "es": "¿Puedo pagar con tarjeta?",
+          "ru": "Можно оплатить картой?",
+          "topic": "travel"
+        },
+        {
+          "es": "No puedo entrar en el sistema.",
+          "ru": "Не могу войти в систему.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ver",
+      "lemma": "ver",
+      "pos": "verb",
+      "rank": 11,
+      "irregular": true,
+      "translations": {
+        "ru": "видеть, смотреть"
+      },
+      "pair": "en:see",
+      "forms": {
+        "present": [
+          "veo",
+          "ves",
+          "ve",
+          "vemos",
+          "veis",
+          "ven"
+        ],
+        "preterite": [
+          "vi",
+          "viste",
+          "vio",
+          "vimos",
+          "visteis",
+          "vieron"
+        ],
+        "gerund": "viendo",
+        "participle": "visto",
+        "imperfect": [
+          "veía",
+          "veías",
+          "veía",
+          "veíamos",
+          "veíais",
+          "veían"
+        ]
+      },
+      "examples": [
+        {
+          "es": "Desde el hotel se ve el mar.",
+          "ru": "Из отеля видно море.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Ves el error en la consola?",
+          "ru": "Видишь ошибку в консоли?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "deber",
+      "lemma": "deber",
+      "pos": "verb",
+      "rank": 12,
+      "translations": {
+        "ru": "быть должным; быть должным (деньги)"
+      },
+      "forms": {
+        "present": [
+          "debo",
+          "debes",
+          "debe",
+          "debemos",
+          "debéis",
+          "deben"
+        ],
+        "preterite": [
+          "debí",
+          "debiste",
+          "debió",
+          "debimos",
+          "debisteis",
+          "debieron"
+        ],
+        "gerund": "debiendo",
+        "participle": "debido"
+      },
+      "examples": [
+        {
+          "es": "Debes llevar el pasaporte siempre.",
+          "ru": "Ты должен всегда иметь при себе паспорт.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Cuánto te debo?",
+          "ru": "Сколько я тебе должен?",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "creer",
+      "lemma": "creer",
+      "pos": "verb",
+      "rank": 13,
+      "translations": {
+        "ru": "верить, думать, полагать"
+      },
+      "pair": "en:believe",
+      "forms": {
+        "present": [
+          "creo",
+          "crees",
+          "cree",
+          "creemos",
+          "creéis",
+          "creen"
+        ],
+        "preterite": [
+          "creí",
+          "creíste",
+          "creyó",
+          "creímos",
+          "creísteis",
+          "creyeron"
+        ],
+        "gerund": "creyendo",
+        "participle": "creído"
+      },
+      "examples": [
+        {
+          "es": "Creo que el vuelo sale a las nueve.",
+          "ru": "Думаю, рейс в девять.",
+          "topic": "travel"
+        },
+        {
+          "es": "No creo que sea un problema de red.",
+          "ru": "Не думаю, что это проблема сети.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "dar",
+      "lemma": "dar",
+      "pos": "verb",
+      "rank": 14,
+      "irregular": true,
+      "translations": {
+        "ru": "давать"
+      },
+      "pair": "en:give",
+      "forms": {
+        "present": [
+          "doy",
+          "das",
+          "da",
+          "damos",
+          "dais",
+          "dan"
+        ],
+        "preterite": [
+          "di",
+          "diste",
+          "dio",
+          "dimos",
+          "disteis",
+          "dieron"
+        ],
+        "gerund": "dando",
+        "participle": "dado"
+      },
+      "examples": [
+        {
+          "es": "¿Me da la cuenta, por favor?",
+          "ru": "Дайте счёт, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "es": "El sistema da un error al guardar.",
+          "ru": "Система выдаёт ошибку при сохранении.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "dejar",
+      "lemma": "dejar",
+      "pos": "verb",
+      "rank": 15,
+      "translations": {
+        "ru": "оставлять; позволять"
+      },
+      "pair": "en:let",
+      "forms": {
+        "present": [
+          "dejo",
+          "dejas",
+          "deja",
+          "dejamos",
+          "dejáis",
+          "dejan"
+        ],
+        "preterite": [
+          "dejé",
+          "dejaste",
+          "dejó",
+          "dejamos",
+          "dejasteis",
+          "dejaron"
+        ],
+        "gerund": "dejando",
+        "participle": "dejado"
+      },
+      "examples": [
+        {
+          "es": "Dejé la maleta en la recepción.",
+          "ru": "Я оставил чемодан на ресепшене.",
+          "topic": "travel"
+        },
+        {
+          "es": "Deja el portátil encendido, por favor.",
+          "ru": "Оставь ноутбук включённым, пожалуйста.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "pasar",
+      "lemma": "pasar",
+      "pos": "verb",
+      "rank": 16,
+      "translations": {
+        "ru": "проходить; проводить (время); происходить"
+      },
+      "pair": "en:happen",
+      "forms": {
+        "present": [
+          "paso",
+          "pasas",
+          "pasa",
+          "pasamos",
+          "pasáis",
+          "pasan"
+        ],
+        "preterite": [
+          "pasé",
+          "pasaste",
+          "pasó",
+          "pasamos",
+          "pasasteis",
+          "pasaron"
+        ],
+        "gerund": "pasando",
+        "participle": "pasado"
+      },
+      "examples": [
+        {
+          "es": "¿Qué pasa?",
+          "ru": "Что происходит?",
+          "topic": "daily"
+        },
+        {
+          "es": "Pasamos una semana en Barcelona.",
+          "ru": "Мы провели неделю в Барселоне.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hablar",
+      "lemma": "hablar",
+      "pos": "verb",
+      "rank": 17,
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "говорить, разговаривать"
+      },
+      "pair": "en:talk",
+      "forms": {
+        "present": [
+          "hablo",
+          "hablas",
+          "habla",
+          "hablamos",
+          "habláis",
+          "hablan"
+        ],
+        "preterite": [
+          "hablé",
+          "hablaste",
+          "habló",
+          "hablamos",
+          "hablasteis",
+          "hablaron"
+        ],
+        "gerund": "hablando",
+        "participle": "hablado"
+      },
+      "examples": [
+        {
+          "es": "¿Hablas inglés?",
+          "ru": "Ты говоришь по-английски?",
+          "topic": "travel"
+        },
+        {
+          "es": "Hablamos del proyecto en la reunión.",
+          "ru": "Мы поговорили о проекте на встрече.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "venir",
+      "lemma": "venir",
+      "pos": "verb",
+      "rank": 18,
+      "irregular": true,
+      "translations": {
+        "ru": "приходить, приезжать"
+      },
+      "pair": "en:come",
+      "forms": {
+        "present": [
+          "vengo",
+          "vienes",
+          "viene",
+          "venimos",
+          "venís",
+          "vienen"
+        ],
+        "preterite": [
+          "vine",
+          "viniste",
+          "vino",
+          "vinimos",
+          "vinisteis",
+          "vinieron"
+        ],
+        "gerund": "viniendo",
+        "participle": "venido"
+      },
+      "examples": [
+        {
+          "es": "El autobús viene cada diez minutos.",
+          "ru": "Автобус ходит каждые десять минут.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Vienes a la reunión?",
+          "ru": "Придёшь на встречу?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "esperar",
+      "lemma": "esperar",
+      "pos": "verb",
+      "rank": 19,
+      "translations": {
+        "ru": "ждать; надеяться"
+      },
+      "pair": "en:wait",
+      "forms": {
+        "present": [
+          "espero",
+          "esperas",
+          "espera",
+          "esperamos",
+          "esperáis",
+          "esperan"
+        ],
+        "preterite": [
+          "esperé",
+          "esperaste",
+          "esperó",
+          "esperamos",
+          "esperasteis",
+          "esperaron"
+        ],
+        "gerund": "esperando",
+        "participle": "esperado"
+      },
+      "examples": [
+        {
+          "es": "Espero el tren en el andén dos.",
+          "ru": "Я жду поезд на второй платформе.",
+          "topic": "travel"
+        },
+        {
+          "es": "Espera, se está cargando la página.",
+          "ru": "Подожди, страница загружается.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "pensar",
+      "lemma": "pensar",
+      "pos": "verb",
+      "rank": 20,
+      "irregular": true,
+      "translations": {
+        "ru": "думать"
+      },
+      "pair": "en:think",
+      "forms": {
+        "present": [
+          "pienso",
+          "piensas",
+          "piensa",
+          "pensamos",
+          "pensáis",
+          "piensan"
+        ],
+        "preterite": [
+          "pensé",
+          "pensaste",
+          "pensó",
+          "pensamos",
+          "pensasteis",
+          "pensaron"
+        ],
+        "gerund": "pensando",
+        "participle": "pensado"
+      },
+      "examples": [
+        {
+          "es": "Pienso viajar a México en verano.",
+          "ru": "Я думаю поехать в Мексику летом.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Qué piensas de esta solución?",
+          "ru": "Что думаешь об этом решении?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "sentir",
+      "lemma": "sentir",
+      "pos": "verb",
+      "rank": 21,
+      "irregular": true,
+      "translations": {
+        "ru": "чувствовать; сожалеть (lo siento — простите)"
+      },
+      "pair": "en:feel",
+      "forms": {
+        "present": [
+          "siento",
+          "sientes",
+          "siente",
+          "sentimos",
+          "sentís",
+          "sienten"
+        ],
+        "preterite": [
+          "sentí",
+          "sentiste",
+          "sintió",
+          "sentimos",
+          "sentisteis",
+          "sintieron"
+        ],
+        "gerund": "sintiendo",
+        "participle": "sentido"
+      },
+      "examples": [
+        {
+          "es": "Lo siento, llego tarde.",
+          "ru": "Простите, я опаздываю.",
+          "topic": "daily"
+        },
+        {
+          "es": "Me siento mejor hoy.",
+          "ru": "Сегодня я чувствую себя лучше.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "necesitar",
+      "lemma": "necesitar",
+      "pos": "verb",
+      "rank": 22,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "нуждаться; нужно"
+      },
+      "pair": "en:need",
+      "forms": {
+        "present": [
+          "necesito",
+          "necesitas",
+          "necesita",
+          "necesitamos",
+          "necesitáis",
+          "necesitan"
+        ],
+        "preterite": [
+          "necesité",
+          "necesitaste",
+          "necesitó",
+          "necesitamos",
+          "necesitasteis",
+          "necesitaron"
+        ],
+        "gerund": "necesitando",
+        "participle": "necesitado"
+      },
+      "examples": [
+        {
+          "es": "Necesito un taxi para el aeropuerto.",
+          "ru": "Мне нужно такси до аэропорта.",
+          "topic": "travel"
+        },
+        {
+          "es": "Necesitamos más memoria en el servidor.",
+          "ru": "Серверу нужно больше памяти.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mirar",
+      "lemma": "mirar",
+      "pos": "verb",
+      "rank": 23,
+      "translations": {
+        "ru": "смотреть"
+      },
+      "pair": "en:look",
+      "forms": {
+        "present": [
+          "miro",
+          "miras",
+          "mira",
+          "miramos",
+          "miráis",
+          "miran"
+        ],
+        "preterite": [
+          "miré",
+          "miraste",
+          "miró",
+          "miramos",
+          "mirasteis",
+          "miraron"
+        ],
+        "gerund": "mirando",
+        "participle": "mirado"
+      },
+      "examples": [
+        {
+          "es": "Mira, allí está la catedral.",
+          "ru": "Смотри, вон собор.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mira los logs antes de reiniciar.",
+          "ru": "Посмотри логи перед перезапуском.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "volver",
+      "lemma": "volver",
+      "pos": "verb",
+      "rank": 24,
+      "irregular": true,
+      "translations": {
+        "ru": "возвращаться; volver a + инф. — снова сделать"
+      },
+      "forms": {
+        "present": [
+          "vuelvo",
+          "vuelves",
+          "vuelve",
+          "volvemos",
+          "volvéis",
+          "vuelven"
+        ],
+        "preterite": [
+          "volví",
+          "volviste",
+          "volvió",
+          "volvimos",
+          "volvisteis",
+          "volvieron"
+        ],
+        "gerund": "volviendo",
+        "participle": "vuelto"
+      },
+      "examples": [
+        {
+          "es": "Volvemos al hotel a las diez.",
+          "ru": "Мы возвращаемся в отель в десять.",
+          "topic": "travel"
+        },
+        {
+          "es": "Vuelve a intentarlo en un minuto.",
+          "ru": "Попробуй снова через минуту.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "llevar",
+      "lemma": "llevar",
+      "pos": "verb",
+      "rank": 25,
+      "translations": {
+        "ru": "носить, нести; брать с собой; вести"
+      },
+      "forms": {
+        "present": [
+          "llevo",
+          "llevas",
+          "lleva",
+          "llevamos",
+          "lleváis",
+          "llevan"
+        ],
+        "preterite": [
+          "llevé",
+          "llevaste",
+          "llevó",
+          "llevamos",
+          "llevasteis",
+          "llevaron"
+        ],
+        "gerund": "llevando",
+        "participle": "llevado"
+      },
+      "examples": [
+        {
+          "es": "Llevo dos maletas.",
+          "ru": "У меня два чемодана.",
+          "topic": "travel"
+        },
+        {
+          "es": "Llevo tres años en esta empresa.",
+          "ru": "Я работаю в этой компании три года.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "llamar",
+      "lemma": "llamar",
+      "pos": "verb",
+      "rank": 26,
+      "translations": {
+        "ru": "звать, называть; звонить"
+      },
+      "pair": "en:call",
+      "forms": {
+        "present": [
+          "llamo",
+          "llamas",
+          "llama",
+          "llamamos",
+          "llamáis",
+          "llaman"
+        ],
+        "preterite": [
+          "llamé",
+          "llamaste",
+          "llamó",
+          "llamamos",
+          "llamasteis",
+          "llamaron"
+        ],
+        "gerund": "llamando",
+        "participle": "llamado"
+      },
+      "examples": [
+        {
+          "es": "Llamo a la recepción para pedir una toalla.",
+          "ru": "Звоню на ресепшен попросить полотенце.",
+          "topic": "travel"
+        },
+        {
+          "es": "Te llamo después de la reunión.",
+          "ru": "Позвоню тебе после встречи.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "llamarse — «зваться»: Me llamo Ana"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "parecer",
+      "lemma": "parecer",
+      "pos": "verb",
+      "rank": 27,
+      "irregular": true,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "казаться"
+      },
+      "pair": "en:seem",
+      "forms": {
+        "present": [
+          "parezco",
+          "pareces",
+          "parece",
+          "parecemos",
+          "parecéis",
+          "parecen"
+        ],
+        "preterite": [
+          "parecí",
+          "pareciste",
+          "pareció",
+          "parecimos",
+          "parecisteis",
+          "parecieron"
+        ],
+        "gerund": "pareciendo",
+        "participle": "parecido"
+      },
+      "examples": [
+        {
+          "es": "Me parece una buena idea.",
+          "ru": "По-моему, хорошая идея.",
+          "topic": "daily"
+        },
+        {
+          "es": "Parece que no hay conexión.",
+          "ru": "Похоже, нет соединения.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "gustar",
+      "lemma": "gustar",
+      "pos": "verb",
+      "rank": 28,
+      "translations": {
+        "ru": "нравиться (me gusta — мне нравится)"
+      },
+      "forms": {
+        "present": [
+          "gusto",
+          "gustas",
+          "gusta",
+          "gustamos",
+          "gustáis",
+          "gustan"
+        ],
+        "preterite": [
+          "gusté",
+          "gustaste",
+          "gustó",
+          "gustamos",
+          "gustasteis",
+          "gustaron"
+        ],
+        "gerund": "gustando",
+        "participle": "gustado"
+      },
+      "examples": [
+        {
+          "es": "Me gusta viajar en tren.",
+          "ru": "Мне нравится ездить на поезде.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Te gusta el nuevo diseño?",
+          "ru": "Тебе нравится новый дизайн?",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Строй «наоборот»: me gusta el café — мне нравится кофе; me gustan los idiomas"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "encontrar",
+      "lemma": "encontrar",
+      "pos": "verb",
+      "rank": 29,
+      "irregular": true,
+      "translations": {
+        "ru": "находить; encontrarse — встречаться"
+      },
+      "pair": "en:find",
+      "forms": {
+        "present": [
+          "encuentro",
+          "encuentras",
+          "encuentra",
+          "encontramos",
+          "encontráis",
+          "encuentran"
+        ],
+        "preterite": [
+          "encontré",
+          "encontraste",
+          "encontró",
+          "encontramos",
+          "encontrasteis",
+          "encontraron"
+        ],
+        "gerund": "encontrando",
+        "participle": "encontrado"
+      },
+      "examples": [
+        {
+          "es": "No encuentro mi billete.",
+          "ru": "Не могу найти свой билет.",
+          "topic": "travel"
+        },
+        {
+          "es": "Encontramos el error en la línea 42.",
+          "ru": "Мы нашли ошибку в строке 42.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "poner",
+      "lemma": "poner",
+      "pos": "verb",
+      "rank": 30,
+      "irregular": true,
+      "translations": {
+        "ru": "класть, ставить; включать"
+      },
+      "pair": "en:put",
+      "forms": {
+        "present": [
+          "pongo",
+          "pones",
+          "pone",
+          "ponemos",
+          "ponéis",
+          "ponen"
+        ],
+        "preterite": [
+          "puse",
+          "pusiste",
+          "puso",
+          "pusimos",
+          "pusisteis",
+          "pusieron"
+        ],
+        "gerund": "poniendo",
+        "participle": "puesto"
+      },
+      "examples": [
+        {
+          "es": "¿Pongo la maleta aquí?",
+          "ru": "Поставить чемодан сюда?",
+          "topic": "travel"
+        },
+        {
+          "es": "Puse una alarma para las seis.",
+          "ru": "Я поставил будильник на шесть.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tomar",
+      "lemma": "tomar",
+      "pos": "verb",
+      "rank": 31,
+      "translations": {
+        "ru": "брать; пить; садиться на транспорт"
+      },
+      "pair": "en:take",
+      "forms": {
+        "present": [
+          "tomo",
+          "tomas",
+          "toma",
+          "tomamos",
+          "tomáis",
+          "toman"
+        ],
+        "preterite": [
+          "tomé",
+          "tomaste",
+          "tomó",
+          "tomamos",
+          "tomasteis",
+          "tomaron"
+        ],
+        "gerund": "tomando",
+        "participle": "tomado"
+      },
+      "examples": [
+        {
+          "es": "Tomamos el metro hasta el centro.",
+          "ru": "Мы едем на метро до центра.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Tomamos un café después de la reunión?",
+          "ru": "Выпьем кофе после встречи?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "quedar",
+      "lemma": "quedar",
+      "pos": "verb",
+      "rank": 32,
+      "rules": [
+        "es-qu"
+      ],
+      "translations": {
+        "ru": "оставаться; договариваться о встрече"
+      },
+      "pair": "en:stay",
+      "forms": {
+        "present": [
+          "quedo",
+          "quedas",
+          "queda",
+          "quedamos",
+          "quedáis",
+          "quedan"
+        ],
+        "preterite": [
+          "quedé",
+          "quedaste",
+          "quedó",
+          "quedamos",
+          "quedasteis",
+          "quedaron"
+        ],
+        "gerund": "quedando",
+        "participle": "quedado"
+      },
+      "examples": [
+        {
+          "es": "Nos quedamos tres noches en el hotel.",
+          "ru": "Мы остаёмся в отеле на три ночи.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Quedamos a las cinco?",
+          "ru": "Встретимся в пять?",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "llegar",
+      "lemma": "llegar",
+      "pos": "verb",
+      "rank": 33,
+      "translations": {
+        "ru": "прибывать, приходить"
+      },
+      "forms": {
+        "present": [
+          "llego",
+          "llegas",
+          "llega",
+          "llegamos",
+          "llegáis",
+          "llegan"
+        ],
+        "preterite": [
+          "llegué",
+          "llegaste",
+          "llegó",
+          "llegamos",
+          "llegasteis",
+          "llegaron"
+        ],
+        "gerund": "llegando",
+        "participle": "llegado"
+      },
+      "examples": [
+        {
+          "es": "El tren llega a las ocho.",
+          "ru": "Поезд прибывает в восемь.",
+          "topic": "travel"
+        },
+        {
+          "es": "Llegué tarde a la reunión.",
+          "ru": "Я опоздал на встречу.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "salir",
+      "lemma": "salir",
+      "pos": "verb",
+      "rank": 34,
+      "irregular": true,
+      "translations": {
+        "ru": "выходить; отправляться"
+      },
+      "pair": "en:leave",
+      "forms": {
+        "present": [
+          "salgo",
+          "sales",
+          "sale",
+          "salimos",
+          "salís",
+          "salen"
+        ],
+        "preterite": [
+          "salí",
+          "saliste",
+          "salió",
+          "salimos",
+          "salisteis",
+          "salieron"
+        ],
+        "gerund": "saliendo",
+        "participle": "salido"
+      },
+      "examples": [
+        {
+          "es": "El vuelo sale a las nueve.",
+          "ru": "Рейс вылетает в девять.",
+          "topic": "travel"
+        },
+        {
+          "es": "Salgo de la oficina a las seis.",
+          "ru": "Я ухожу из офиса в шесть.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "conocer",
+      "lemma": "conocer",
+      "pos": "verb",
+      "rank": 35,
+      "irregular": true,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "знать (лично), быть знакомым; узнавать"
+      },
+      "forms": {
+        "present": [
+          "conozco",
+          "conoces",
+          "conoce",
+          "conocemos",
+          "conocéis",
+          "conocen"
+        ],
+        "preterite": [
+          "conocí",
+          "conociste",
+          "conoció",
+          "conocimos",
+          "conocisteis",
+          "conocieron"
+        ],
+        "gerund": "conociendo",
+        "participle": "conocido"
+      },
+      "examples": [
+        {
+          "es": "¿Conoces un buen restaurante por aquí?",
+          "ru": "Знаешь хороший ресторан поблизости?",
+          "topic": "travel"
+        },
+        {
+          "es": "Conocí a mi equipo en la primera semana.",
+          "ru": "Я познакомился с командой в первую неделю.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "seguir",
+      "lemma": "seguir",
+      "pos": "verb",
+      "rank": 36,
+      "irregular": true,
+      "translations": {
+        "ru": "следовать; продолжать"
+      },
+      "forms": {
+        "present": [
+          "sigo",
+          "sigues",
+          "sigue",
+          "seguimos",
+          "seguís",
+          "siguen"
+        ],
+        "preterite": [
+          "seguí",
+          "seguiste",
+          "siguió",
+          "seguimos",
+          "seguisteis",
+          "siguieron"
+        ],
+        "gerund": "siguiendo",
+        "participle": "seguido"
+      },
+      "examples": [
+        {
+          "es": "Sigue recto hasta el semáforo.",
+          "ru": "Иди прямо до светофора.",
+          "topic": "travel"
+        },
+        {
+          "es": "El error sigue ahí.",
+          "ru": "Ошибка всё ещё там.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ayudar",
+      "lemma": "ayudar",
+      "pos": "verb",
+      "rank": 37,
+      "translations": {
+        "ru": "помогать"
+      },
+      "pair": "en:help",
+      "forms": {
+        "present": [
+          "ayudo",
+          "ayudas",
+          "ayuda",
+          "ayudamos",
+          "ayudáis",
+          "ayudan"
+        ],
+        "preterite": [
+          "ayudé",
+          "ayudaste",
+          "ayudó",
+          "ayudamos",
+          "ayudasteis",
+          "ayudaron"
+        ],
+        "gerund": "ayudando",
+        "participle": "ayudado"
+      },
+      "examples": [
+        {
+          "es": "¿Me puede ayudar con la maleta?",
+          "ru": "Можете помочь с чемоданом?",
+          "topic": "travel"
+        },
+        {
+          "es": "Ayudo a mi colega con el despliegue.",
+          "ru": "Я помогаю коллеге с развёртыванием.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "matar",
+      "lemma": "matar",
+      "pos": "verb",
+      "rank": 38,
+      "translations": {
+        "ru": "убивать"
+      },
+      "pair": "en:kill",
+      "forms": {
+        "present": [
+          "mato",
+          "matas",
+          "mata",
+          "matamos",
+          "matáis",
+          "matan"
+        ],
+        "preterite": [
+          "maté",
+          "mataste",
+          "mató",
+          "matamos",
+          "matasteis",
+          "mataron"
+        ],
+        "gerund": "matando",
+        "participle": "matado"
+      },
+      "examples": [
+        {
+          "es": "Este calor me mata.",
+          "ru": "Эта жара меня убивает.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mata el proceso y vuelve a lanzarlo.",
+          "ru": "Убей процесс и запусти заново.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "В речи часто переносно: me mata — «меня убивает», matar el tiempo — «убивать время»"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tratar",
+      "lemma": "tratar",
+      "pos": "verb",
+      "rank": 39,
+      "translations": {
+        "ru": "обращаться (с кем-то); tratar de — пытаться; tratarse de — речь о"
+      },
+      "forms": {
+        "present": [
+          "trato",
+          "tratas",
+          "trata",
+          "tratamos",
+          "tratáis",
+          "tratan"
+        ],
+        "preterite": [
+          "traté",
+          "trataste",
+          "trató",
+          "tratamos",
+          "tratasteis",
+          "trataron"
+        ],
+        "gerund": "tratando",
+        "participle": "tratado"
+      },
+      "examples": [
+        {
+          "es": "Trato de hablar solo en español.",
+          "ru": "Стараюсь говорить только по-испански.",
+          "topic": "daily"
+        },
+        {
+          "es": "¿De qué trata el proyecto?",
+          "ru": "О чём проект?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "entender",
+      "lemma": "entender",
+      "pos": "verb",
+      "rank": 40,
+      "irregular": true,
+      "translations": {
+        "ru": "понимать"
+      },
+      "pair": "en:understand",
+      "forms": {
+        "present": [
+          "entiendo",
+          "entiendes",
+          "entiende",
+          "entendemos",
+          "entendéis",
+          "entienden"
+        ],
+        "preterite": [
+          "entendí",
+          "entendiste",
+          "entendió",
+          "entendimos",
+          "entendisteis",
+          "entendieron"
+        ],
+        "gerund": "entendiendo",
+        "participle": "entendido"
+      },
+      "examples": [
+        {
+          "es": "No entiendo, ¿puede repetir?",
+          "ru": "Не понимаю, можете повторить?",
+          "topic": "travel"
+        },
+        {
+          "es": "Ahora entiendo cómo funciona la API.",
+          "ru": "Теперь я понимаю, как работает API.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "contar",
+      "lemma": "contar",
+      "pos": "verb",
+      "rank": 41,
+      "irregular": true,
+      "translations": {
+        "ru": "считать; рассказывать"
+      },
+      "pair": "en:tell",
+      "forms": {
+        "present": [
+          "cuento",
+          "cuentas",
+          "cuenta",
+          "contamos",
+          "contáis",
+          "cuentan"
+        ],
+        "preterite": [
+          "conté",
+          "contaste",
+          "contó",
+          "contamos",
+          "contasteis",
+          "contaron"
+        ],
+        "gerund": "contando",
+        "participle": "contado"
+      },
+      "examples": [
+        {
+          "es": "Te cuento cómo fue el viaje.",
+          "ru": "Расскажу тебе, как прошла поездка.",
+          "topic": "travel"
+        },
+        {
+          "es": "Contamos los usuarios activos cada día.",
+          "ru": "Мы считаем активных пользователей каждый день.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "acabar",
+      "lemma": "acabar",
+      "pos": "verb",
+      "rank": 42,
+      "translations": {
+        "ru": "заканчивать; acabar de + инф. — только что сделать"
+      },
+      "forms": {
+        "present": [
+          "acabo",
+          "acabas",
+          "acaba",
+          "acabamos",
+          "acabáis",
+          "acaban"
+        ],
+        "preterite": [
+          "acabé",
+          "acabaste",
+          "acabó",
+          "acabamos",
+          "acabasteis",
+          "acabaron"
+        ],
+        "gerund": "acabando",
+        "participle": "acabado"
+      },
+      "examples": [
+        {
+          "es": "Acabo de llegar al hotel.",
+          "ru": "Я только что приехал в отель.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Acabaste el informe?",
+          "ru": "Ты закончил отчёт?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "buscar",
+      "lemma": "buscar",
+      "pos": "verb",
+      "rank": 43,
+      "translations": {
+        "ru": "искать"
+      },
+      "forms": {
+        "present": [
+          "busco",
+          "buscas",
+          "busca",
+          "buscamos",
+          "buscáis",
+          "buscan"
+        ],
+        "preterite": [
+          "busqué",
+          "buscaste",
+          "buscó",
+          "buscamos",
+          "buscasteis",
+          "buscaron"
+        ],
+        "gerund": "buscando",
+        "participle": "buscado"
+      },
+      "examples": [
+        {
+          "es": "Busco una farmacia.",
+          "ru": "Я ищу аптеку.",
+          "topic": "travel"
+        },
+        {
+          "es": "Busqué la solución en la documentación.",
+          "ru": "Я искал решение в документации.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "preguntar",
+      "lemma": "preguntar",
+      "pos": "verb",
+      "rank": 44,
+      "translations": {
+        "ru": "спрашивать"
+      },
+      "pair": "en:ask",
+      "forms": {
+        "present": [
+          "pregunto",
+          "preguntas",
+          "pregunta",
+          "preguntamos",
+          "preguntáis",
+          "preguntan"
+        ],
+        "preterite": [
+          "pregunté",
+          "preguntaste",
+          "preguntó",
+          "preguntamos",
+          "preguntasteis",
+          "preguntaron"
+        ],
+        "gerund": "preguntando",
+        "participle": "preguntado"
+      },
+      "examples": [
+        {
+          "es": "Pregunta en la recepción a qué hora es el desayuno.",
+          "ru": "Спроси на ресепшене, во сколько завтрак.",
+          "topic": "travel"
+        },
+        {
+          "es": "Si tienes dudas, pregunta en el chat.",
+          "ru": "Если есть сомнения, спроси в чате.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "valer",
+      "lemma": "valer",
+      "pos": "verb",
+      "rank": 45,
+      "irregular": true,
+      "translations": {
+        "ru": "стоить; vale — ладно, хорошо"
+      },
+      "forms": {
+        "present": [
+          "valgo",
+          "vales",
+          "vale",
+          "valemos",
+          "valéis",
+          "valen"
+        ],
+        "preterite": [
+          "valí",
+          "valiste",
+          "valió",
+          "valimos",
+          "valisteis",
+          "valieron"
+        ],
+        "gerund": "valiendo",
+        "participle": "valido"
+      },
+      "examples": [
+        {
+          "es": "¿Cuánto vale la entrada?",
+          "ru": "Сколько стоит вход?",
+          "topic": "travel"
+        },
+        {
+          "es": "Vale, lo reviso mañana.",
+          "ru": "Хорошо, проверю завтра.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "trabajar",
+      "lemma": "trabajar",
+      "pos": "verb",
+      "rank": 46,
+      "translations": {
+        "ru": "работать"
+      },
+      "pair": "en:work",
+      "forms": {
+        "present": [
+          "trabajo",
+          "trabajas",
+          "trabaja",
+          "trabajamos",
+          "trabajáis",
+          "trabajan"
+        ],
+        "preterite": [
+          "trabajé",
+          "trabajaste",
+          "trabajó",
+          "trabajamos",
+          "trabajasteis",
+          "trabajaron"
+        ],
+        "gerund": "trabajando",
+        "participle": "trabajado"
+      },
+      "examples": [
+        {
+          "es": "Trabajo en remoto tres días a la semana.",
+          "ru": "Я работаю удалённо три дня в неделю.",
+          "topic": "it"
+        },
+        {
+          "es": "¿Trabajas este fin de semana?",
+          "ru": "Работаешь в эти выходные?",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "morir",
+      "lemma": "morir",
+      "pos": "verb",
+      "rank": 47,
+      "irregular": true,
+      "translations": {
+        "ru": "умирать"
+      },
+      "pair": "en:die",
+      "forms": {
+        "present": [
+          "muero",
+          "mueres",
+          "muere",
+          "morimos",
+          "morís",
+          "mueren"
+        ],
+        "preterite": [
+          "morí",
+          "moriste",
+          "murió",
+          "morimos",
+          "moristeis",
+          "murieron"
+        ],
+        "gerund": "muriendo",
+        "participle": "muerto"
+      },
+      "examples": [
+        {
+          "es": "Me muero de hambre.",
+          "ru": "Умираю с голоду.",
+          "topic": "daily"
+        },
+        {
+          "es": "Se murió la batería del móvil.",
+          "ru": "Сел аккумулятор телефона.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "crear",
+      "lemma": "crear",
+      "pos": "verb",
+      "rank": 48,
+      "translations": {
+        "ru": "создавать"
+      },
+      "forms": {
+        "present": [
+          "creo",
+          "creas",
+          "crea",
+          "creamos",
+          "creáis",
+          "crean"
+        ],
+        "preterite": [
+          "creé",
+          "creaste",
+          "creó",
+          "creamos",
+          "creasteis",
+          "crearon"
+        ],
+        "gerund": "creando",
+        "participle": "creado"
+      },
+      "examples": [
+        {
+          "es": "Creé una cuenta nueva en la web.",
+          "ru": "Я создал новую учётную запись на сайте.",
+          "topic": "it"
+        },
+        {
+          "es": "Vamos a crear un grupo para el viaje.",
+          "ru": "Давай создадим группу для поездки.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "escuchar",
+      "lemma": "escuchar",
+      "pos": "verb",
+      "rank": 49,
+      "translations": {
+        "ru": "слушать"
+      },
+      "pair": "en:listen",
+      "forms": {
+        "present": [
+          "escucho",
+          "escuchas",
+          "escucha",
+          "escuchamos",
+          "escucháis",
+          "escuchan"
+        ],
+        "preterite": [
+          "escuché",
+          "escuchaste",
+          "escuchó",
+          "escuchamos",
+          "escuchasteis",
+          "escucharon"
+        ],
+        "gerund": "escuchando",
+        "participle": "escuchado"
+      },
+      "examples": [
+        {
+          "es": "Escucha el anuncio del vuelo.",
+          "ru": "Послушай объявление о рейсе.",
+          "topic": "travel"
+        },
+        {
+          "es": "No te escucho bien, se corta.",
+          "ru": "Плохо тебя слышу, связь прерывается.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "recordar",
+      "lemma": "recordar",
+      "pos": "verb",
+      "rank": 50,
+      "irregular": true,
+      "translations": {
+        "ru": "помнить; напоминать"
+      },
+      "pair": "en:remember",
+      "forms": {
+        "present": [
+          "recuerdo",
+          "recuerdas",
+          "recuerda",
+          "recordamos",
+          "recordáis",
+          "recuerdan"
+        ],
+        "preterite": [
+          "recordé",
+          "recordaste",
+          "recordó",
+          "recordamos",
+          "recordasteis",
+          "recordaron"
+        ],
+        "gerund": "recordando",
+        "participle": "recordado"
+      },
+      "examples": [
+        {
+          "es": "No recuerdo el número de la habitación.",
+          "ru": "Не помню номер комнаты.",
+          "topic": "travel"
+        },
+        {
+          "es": "Recuerda guardar los cambios.",
+          "ru": "Не забудь сохранить изменения.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "importar",
+      "lemma": "importar",
+      "pos": "verb",
+      "rank": 51,
+      "translations": {
+        "ru": "иметь значение; импортировать"
+      },
+      "forms": {
+        "present": [
+          "importo",
+          "importas",
+          "importa",
+          "importamos",
+          "importáis",
+          "importan"
+        ],
+        "preterite": [
+          "importé",
+          "importaste",
+          "importó",
+          "importamos",
+          "importasteis",
+          "importaron"
+        ],
+        "gerund": "importando",
+        "participle": "importado"
+      },
+      "examples": [
+        {
+          "es": "No importa, tomamos el siguiente tren.",
+          "ru": "Неважно, сядем на следующий поезд.",
+          "topic": "travel"
+        },
+        {
+          "es": "Importa los datos desde el archivo CSV.",
+          "ru": "Импортируй данные из файла CSV.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "intentar",
+      "lemma": "intentar",
+      "pos": "verb",
+      "rank": 52,
+      "translations": {
+        "ru": "пытаться"
+      },
+      "pair": "en:try",
+      "forms": {
+        "present": [
+          "intento",
+          "intentas",
+          "intenta",
+          "intentamos",
+          "intentáis",
+          "intentan"
+        ],
+        "preterite": [
+          "intenté",
+          "intentaste",
+          "intentó",
+          "intentamos",
+          "intentasteis",
+          "intentaron"
+        ],
+        "gerund": "intentando",
+        "participle": "intentado"
+      },
+      "examples": [
+        {
+          "es": "Intento reservar una mesa para cuatro.",
+          "ru": "Пытаюсь забронировать столик на четверых.",
+          "topic": "travel"
+        },
+        {
+          "es": "Intenta reiniciar el router.",
+          "ru": "Попробуй перезагрузить роутер.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "traer",
+      "lemma": "traer",
+      "pos": "verb",
+      "rank": 53,
+      "irregular": true,
+      "translations": {
+        "ru": "приносить"
+      },
+      "pair": "en:bring",
+      "forms": {
+        "present": [
+          "traigo",
+          "traes",
+          "trae",
+          "traemos",
+          "traéis",
+          "traen"
+        ],
+        "preterite": [
+          "traje",
+          "trajiste",
+          "trajo",
+          "trajimos",
+          "trajisteis",
+          "trajeron"
+        ],
+        "gerund": "trayendo",
+        "participle": "traído"
+      },
+      "examples": [
+        {
+          "es": "¿Nos trae la carta, por favor?",
+          "ru": "Принесите, пожалуйста, меню.",
+          "topic": "travel"
+        },
+        {
+          "es": "Traje el cargador del portátil.",
+          "ru": "Я принёс зарядку от ноутбука.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "perder",
+      "lemma": "perder",
+      "pos": "verb",
+      "rank": 54,
+      "irregular": true,
+      "translations": {
+        "ru": "терять; опаздывать (на транспорт)"
+      },
+      "pair": "en:lose",
+      "forms": {
+        "present": [
+          "pierdo",
+          "pierdes",
+          "pierde",
+          "perdemos",
+          "perdéis",
+          "pierden"
+        ],
+        "preterite": [
+          "perdí",
+          "perdiste",
+          "perdió",
+          "perdimos",
+          "perdisteis",
+          "perdieron"
+        ],
+        "gerund": "perdiendo",
+        "participle": "perdido"
+      },
+      "examples": [
+        {
+          "es": "Perdimos el último autobús.",
+          "ru": "Мы опоздали на последний автобус.",
+          "topic": "travel"
+        },
+        {
+          "es": "Perdí los cambios porque no guardé.",
+          "ru": "Я потерял изменения, потому что не сохранил.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "entrar",
+      "lemma": "entrar",
+      "pos": "verb",
+      "rank": 55,
+      "translations": {
+        "ru": "входить"
+      },
+      "forms": {
+        "present": [
+          "entro",
+          "entras",
+          "entra",
+          "entramos",
+          "entráis",
+          "entran"
+        ],
+        "preterite": [
+          "entré",
+          "entraste",
+          "entró",
+          "entramos",
+          "entrasteis",
+          "entraron"
+        ],
+        "gerund": "entrando",
+        "participle": "entrado"
+      },
+      "examples": [
+        {
+          "es": "¿Se puede entrar con la mochila?",
+          "ru": "Можно войти с рюкзаком?",
+          "topic": "travel"
+        },
+        {
+          "es": "Entra en tu cuenta con el correo.",
+          "ru": "Войди в свою учётную запись по почте.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "oír",
+      "lemma": "oír",
+      "pos": "verb",
+      "rank": 56,
+      "irregular": true,
+      "translations": {
+        "ru": "слышать"
+      },
+      "pair": "en:hear",
+      "forms": {
+        "present": [
+          "oigo",
+          "oyes",
+          "oye",
+          "oímos",
+          "oís",
+          "oyen"
+        ],
+        "preterite": [
+          "oí",
+          "oíste",
+          "oyó",
+          "oímos",
+          "oísteis",
+          "oyeron"
+        ],
+        "gerund": "oyendo",
+        "participle": "oído"
+      },
+      "examples": [
+        {
+          "es": "¿Me oyes? Hay mucho ruido aquí.",
+          "ru": "Слышишь меня? Здесь очень шумно.",
+          "topic": "travel"
+        },
+        {
+          "es": "No oigo nada, revisa el micrófono.",
+          "ru": "Ничего не слышу, проверь микрофон.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "pedir",
+      "lemma": "pedir",
+      "pos": "verb",
+      "rank": 57,
+      "irregular": true,
+      "translations": {
+        "ru": "просить; заказывать"
+      },
+      "forms": {
+        "present": [
+          "pido",
+          "pides",
+          "pide",
+          "pedimos",
+          "pedís",
+          "piden"
+        ],
+        "preterite": [
+          "pedí",
+          "pediste",
+          "pidió",
+          "pedimos",
+          "pedisteis",
+          "pidieron"
+        ],
+        "gerund": "pidiendo",
+        "participle": "pedido"
+      },
+      "examples": [
+        {
+          "es": "Pedimos una paella para dos.",
+          "ru": "Мы заказали паэлью на двоих.",
+          "topic": "travel"
+        },
+        {
+          "es": "Pide acceso al repositorio.",
+          "ru": "Запроси доступ к репозиторию.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "vivir",
+      "lemma": "vivir",
+      "pos": "verb",
+      "rank": 58,
+      "translations": {
+        "ru": "жить"
+      },
+      "forms": {
+        "present": [
+          "vivo",
+          "vives",
+          "vive",
+          "vivimos",
+          "vivís",
+          "viven"
+        ],
+        "preterite": [
+          "viví",
+          "viviste",
+          "vivió",
+          "vivimos",
+          "vivisteis",
+          "vivieron"
+        ],
+        "gerund": "viviendo",
+        "participle": "vivido"
+      },
+      "examples": [
+        {
+          "es": "Vivo en Madrid desde hace un año.",
+          "ru": "Я живу в Мадриде уже год.",
+          "topic": "daily"
+        },
+        {
+          "es": "¿Dónde vives?",
+          "ru": "Где ты живёшь?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "suponer",
+      "lemma": "suponer",
+      "pos": "verb",
+      "rank": 59,
+      "irregular": true,
+      "translations": {
+        "ru": "предполагать"
+      },
+      "pair": "en:suppose",
+      "forms": {
+        "present": [
+          "supongo",
+          "supones",
+          "supone",
+          "suponemos",
+          "suponéis",
+          "suponen"
+        ],
+        "preterite": [
+          "supuse",
+          "supusiste",
+          "supuso",
+          "supusimos",
+          "supusisteis",
+          "supusieron"
+        ],
+        "gerund": "suponiendo",
+        "participle": "supuesto"
+      },
+      "examples": [
+        {
+          "es": "Supongo que el museo cierra a las siete.",
+          "ru": "Полагаю, музей закрывается в семь.",
+          "topic": "travel"
+        },
+        {
+          "es": "Supongo que es un problema de permisos.",
+          "ru": "Полагаю, это проблема прав доступа.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "empezar",
+      "lemma": "empezar",
+      "pos": "verb",
+      "rank": 60,
+      "irregular": true,
+      "rules": [
+        "es-z"
+      ],
+      "translations": {
+        "ru": "начинать"
+      },
+      "pair": "en:start",
+      "forms": {
+        "present": [
+          "empiezo",
+          "empiezas",
+          "empieza",
+          "empezamos",
+          "empezáis",
+          "empiezan"
+        ],
+        "preterite": [
+          "empecé",
+          "empezaste",
+          "empezó",
+          "empezamos",
+          "empezasteis",
+          "empezaron"
+        ],
+        "gerund": "empezando",
+        "participle": "empezado"
+      },
+      "examples": [
+        {
+          "es": "La visita empieza a las once.",
+          "ru": "Экскурсия начинается в одиннадцать.",
+          "topic": "travel"
+        },
+        {
+          "es": "Empecé un curso de JavaScript.",
+          "ru": "Я начал курс по JavaScript.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "conseguir",
+      "lemma": "conseguir",
+      "pos": "verb",
+      "rank": 61,
+      "irregular": true,
+      "translations": {
+        "ru": "добиться, достать, получить"
+      },
+      "pair": "en:get",
+      "forms": {
+        "present": [
+          "consigo",
+          "consigues",
+          "consigue",
+          "conseguimos",
+          "conseguís",
+          "consiguen"
+        ],
+        "preterite": [
+          "conseguí",
+          "conseguiste",
+          "consiguió",
+          "conseguimos",
+          "conseguisteis",
+          "consiguieron"
+        ],
+        "gerund": "consiguiendo",
+        "participle": "conseguido"
+      },
+      "examples": [
+        {
+          "es": "Conseguimos billetes baratos.",
+          "ru": "Мы достали дешёвые билеты.",
+          "topic": "travel"
+        },
+        {
+          "es": "Por fin conseguí arreglar el error.",
+          "ru": "Наконец мне удалось исправить ошибку.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "usar",
+      "lemma": "usar",
+      "pos": "verb",
+      "rank": 62,
+      "translations": {
+        "ru": "использовать"
+      },
+      "pair": "en:use",
+      "forms": {
+        "present": [
+          "uso",
+          "usas",
+          "usa",
+          "usamos",
+          "usáis",
+          "usan"
+        ],
+        "preterite": [
+          "usé",
+          "usaste",
+          "usó",
+          "usamos",
+          "usasteis",
+          "usaron"
+        ],
+        "gerund": "usando",
+        "participle": "usado"
+      },
+      "examples": [
+        {
+          "es": "¿Puedo usar el wifi del hotel?",
+          "ru": "Можно пользоваться вайфаем отеля?",
+          "topic": "travel"
+        },
+        {
+          "es": "Usamos Git para el control de versiones.",
+          "ru": "Мы используем Git для контроля версий.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "preocupar",
+      "lemma": "preocupar",
+      "pos": "verb",
+      "rank": 63,
+      "translations": {
+        "ru": "беспокоить; preocuparse — волноваться"
+      },
+      "pair": "en:worry",
+      "forms": {
+        "present": [
+          "preocupo",
+          "preocupas",
+          "preocupa",
+          "preocupamos",
+          "preocupáis",
+          "preocupan"
+        ],
+        "preterite": [
+          "preocupé",
+          "preocupaste",
+          "preocupó",
+          "preocupamos",
+          "preocupasteis",
+          "preocuparon"
+        ],
+        "gerund": "preocupando",
+        "participle": "preocupado"
+      },
+      "examples": [
+        {
+          "es": "No me preocupa, hay otro tren.",
+          "ru": "Меня это не беспокоит, есть другой поезд.",
+          "topic": "travel"
+        },
+        {
+          "es": "Me preocupa el rendimiento de la app.",
+          "ru": "Меня беспокоит производительность приложения.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "comer",
+      "lemma": "comer",
+      "pos": "verb",
+      "rank": 64,
+      "translations": {
+        "ru": "есть, обедать"
+      },
+      "pair": "en:eat",
+      "forms": {
+        "present": [
+          "como",
+          "comes",
+          "come",
+          "comemos",
+          "coméis",
+          "comen"
+        ],
+        "preterite": [
+          "comí",
+          "comiste",
+          "comió",
+          "comimos",
+          "comisteis",
+          "comieron"
+        ],
+        "gerund": "comiendo",
+        "participle": "comido"
+      },
+      "examples": [
+        {
+          "es": "¿Dónde comemos hoy?",
+          "ru": "Где пообедаем сегодня?",
+          "topic": "travel"
+        },
+        {
+          "es": "Como en la oficina con mis compañeros.",
+          "ru": "Я обедаю в офисе с коллегами.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ganar",
+      "lemma": "ganar",
+      "pos": "verb",
+      "rank": 65,
+      "translations": {
+        "ru": "выигрывать; зарабатывать"
+      },
+      "pair": "en:win",
+      "forms": {
+        "present": [
+          "gano",
+          "ganas",
+          "gana",
+          "ganamos",
+          "ganáis",
+          "ganan"
+        ],
+        "preterite": [
+          "gané",
+          "ganaste",
+          "ganó",
+          "ganamos",
+          "ganasteis",
+          "ganaron"
+        ],
+        "gerund": "ganando",
+        "participle": "ganado"
+      },
+      "examples": [
+        {
+          "es": "Ganamos tiempo con el tren rápido.",
+          "ru": "Мы выиграли время на скоростном поезде.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Cuánto gana un programador aquí?",
+          "ru": "Сколько здесь зарабатывает программист?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "amar",
+      "lemma": "amar",
+      "pos": "verb",
+      "rank": 66,
+      "translations": {
+        "ru": "любить"
+      },
+      "forms": {
+        "present": [
+          "amo",
+          "amas",
+          "ama",
+          "amamos",
+          "amáis",
+          "aman"
+        ],
+        "preterite": [
+          "amé",
+          "amaste",
+          "amó",
+          "amamos",
+          "amasteis",
+          "amaron"
+        ],
+        "gerund": "amando",
+        "participle": "amado"
+      },
+      "examples": [
+        {
+          "es": "Amo esta ciudad.",
+          "ru": "Обожаю этот город.",
+          "topic": "travel"
+        },
+        {
+          "es": "Ama su trabajo.",
+          "ru": "Он любит свою работу.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "terminar",
+      "lemma": "terminar",
+      "pos": "verb",
+      "rank": 67,
+      "translations": {
+        "ru": "заканчивать"
+      },
+      "forms": {
+        "present": [
+          "termino",
+          "terminas",
+          "termina",
+          "terminamos",
+          "termináis",
+          "terminan"
+        ],
+        "preterite": [
+          "terminé",
+          "terminaste",
+          "terminó",
+          "terminamos",
+          "terminasteis",
+          "terminaron"
+        ],
+        "gerund": "terminando",
+        "participle": "terminado"
+      },
+      "examples": [
+        {
+          "es": "El concierto termina a medianoche.",
+          "ru": "Концерт заканчивается в полночь.",
+          "topic": "travel"
+        },
+        {
+          "es": "Termino la tarea y te escribo.",
+          "ru": "Закончу задачу и напишу тебе.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "olvidar",
+      "lemma": "olvidar",
+      "pos": "verb",
+      "rank": 68,
+      "translations": {
+        "ru": "забывать"
+      },
+      "pair": "en:forget",
+      "forms": {
+        "present": [
+          "olvido",
+          "olvidas",
+          "olvida",
+          "olvidamos",
+          "olvidáis",
+          "olvidan"
+        ],
+        "preterite": [
+          "olvidé",
+          "olvidaste",
+          "olvidó",
+          "olvidamos",
+          "olvidasteis",
+          "olvidaron"
+        ],
+        "gerund": "olvidando",
+        "participle": "olvidado"
+      },
+      "examples": [
+        {
+          "es": "Olvidé el cargador en el hotel.",
+          "ru": "Я забыл зарядку в отеле.",
+          "topic": "travel"
+        },
+        {
+          "es": "Siempre olvido hacer commit.",
+          "ru": "Я всегда забываю сделать коммит.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cambiar",
+      "lemma": "cambiar",
+      "pos": "verb",
+      "rank": 69,
+      "translations": {
+        "ru": "менять; меняться"
+      },
+      "pair": "en:change",
+      "forms": {
+        "present": [
+          "cambio",
+          "cambias",
+          "cambia",
+          "cambiamos",
+          "cambiáis",
+          "cambian"
+        ],
+        "preterite": [
+          "cambié",
+          "cambiaste",
+          "cambió",
+          "cambiamos",
+          "cambiasteis",
+          "cambiaron"
+        ],
+        "gerund": "cambiando",
+        "participle": "cambiado"
+      },
+      "examples": [
+        {
+          "es": "Quiero cambiar dinero.",
+          "ru": "Я хочу обменять деньги.",
+          "topic": "travel"
+        },
+        {
+          "es": "Cambiamos la contraseña cada mes.",
+          "ru": "Мы меняем пароль каждый месяц.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mantener",
+      "lemma": "mantener",
+      "pos": "verb",
+      "rank": 70,
+      "irregular": true,
+      "translations": {
+        "ru": "поддерживать, сохранять; содержать"
+      },
+      "pair": "en:keep",
+      "forms": {
+        "present": [
+          "mantengo",
+          "mantienes",
+          "mantiene",
+          "mantenemos",
+          "mantenéis",
+          "mantienen"
+        ],
+        "preterite": [
+          "mantuve",
+          "mantuviste",
+          "mantuvo",
+          "mantuvimos",
+          "mantuvisteis",
+          "mantuvieron"
+        ],
+        "gerund": "manteniendo",
+        "participle": "mantenido"
+      },
+      "examples": [
+        {
+          "es": "Mantengo la ventana cerrada por el ruido.",
+          "ru": "Я держу окно закрытым из-за шума.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mantenemos el servidor actualizado.",
+          "ru": "Мы поддерживаем сервер в актуальном состоянии.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "sacar",
+      "lemma": "sacar",
+      "pos": "verb",
+      "rank": 71,
+      "translations": {
+        "ru": "доставать, вынимать; снимать (деньги, фото)"
+      },
+      "forms": {
+        "present": [
+          "saco",
+          "sacas",
+          "saca",
+          "sacamos",
+          "sacáis",
+          "sacan"
+        ],
+        "preterite": [
+          "saqué",
+          "sacaste",
+          "sacó",
+          "sacamos",
+          "sacasteis",
+          "sacaron"
+        ],
+        "gerund": "sacando",
+        "participle": "sacado"
+      },
+      "examples": [
+        {
+          "es": "Necesito sacar dinero del cajero.",
+          "ru": "Мне нужно снять деньги в банкомате.",
+          "topic": "travel"
+        },
+        {
+          "es": "Saqué una captura de pantalla del error.",
+          "ru": "Я сделал скриншот ошибки.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "pagar",
+      "lemma": "pagar",
+      "pos": "verb",
+      "rank": 72,
+      "translations": {
+        "ru": "платить"
+      },
+      "pair": "en:pay",
+      "forms": {
+        "present": [
+          "pago",
+          "pagas",
+          "paga",
+          "pagamos",
+          "pagáis",
+          "pagan"
+        ],
+        "preterite": [
+          "pagué",
+          "pagaste",
+          "pagó",
+          "pagamos",
+          "pagasteis",
+          "pagaron"
+        ],
+        "gerund": "pagando",
+        "participle": "pagado"
+      },
+      "examples": [
+        {
+          "es": "¿Puedo pagar en efectivo?",
+          "ru": "Можно заплатить наличными?",
+          "topic": "travel"
+        },
+        {
+          "es": "Pagué la suscripción anual.",
+          "ru": "Я оплатил годовую подписку.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "dormir",
+      "lemma": "dormir",
+      "pos": "verb",
+      "rank": 73,
+      "irregular": true,
+      "translations": {
+        "ru": "спать"
+      },
+      "forms": {
+        "present": [
+          "duermo",
+          "duermes",
+          "duerme",
+          "dormimos",
+          "dormís",
+          "duermen"
+        ],
+        "preterite": [
+          "dormí",
+          "dormiste",
+          "durmió",
+          "dormimos",
+          "dormisteis",
+          "durmieron"
+        ],
+        "gerund": "durmiendo",
+        "participle": "dormido"
+      },
+      "examples": [
+        {
+          "es": "No duermo bien en los aviones.",
+          "ru": "Я плохо сплю в самолётах.",
+          "topic": "travel"
+        },
+        {
+          "es": "Esta noche dormimos en Sevilla.",
+          "ru": "Сегодня ночуем в Севилье.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "significar",
+      "lemma": "significar",
+      "pos": "verb",
+      "rank": 74,
+      "translations": {
+        "ru": "означать"
+      },
+      "pair": "en:mean",
+      "forms": {
+        "present": [
+          "significo",
+          "significas",
+          "significa",
+          "significamos",
+          "significáis",
+          "significan"
+        ],
+        "preterite": [
+          "signifiqué",
+          "significaste",
+          "significó",
+          "significamos",
+          "significasteis",
+          "significaron"
+        ],
+        "gerund": "significando",
+        "participle": "significado"
+      },
+      "examples": [
+        {
+          "es": "¿Qué significa esta palabra?",
+          "ru": "Что значит это слово?",
+          "topic": "travel"
+        },
+        {
+          "es": "Este código de error significa «no encontrado».",
+          "ru": "Этот код ошибки означает «не найдено».",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "suceder",
+      "lemma": "suceder",
+      "pos": "verb",
+      "rank": 75,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "происходить, случаться"
+      },
+      "forms": {
+        "present": [
+          "sucedo",
+          "sucedes",
+          "sucede",
+          "sucedemos",
+          "sucedéis",
+          "suceden"
+        ],
+        "preterite": [
+          "sucedí",
+          "sucediste",
+          "sucedió",
+          "sucedimos",
+          "sucedisteis",
+          "sucedieron"
+        ],
+        "gerund": "sucediendo",
+        "participle": "sucedido"
+      },
+      "examples": [
+        {
+          "es": "¿Qué sucede en la calle?",
+          "ru": "Что происходит на улице?",
+          "topic": "travel"
+        },
+        {
+          "es": "Esto sucede solo en producción.",
+          "ru": "Это происходит только в продакшене.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "jugar",
+      "lemma": "jugar",
+      "pos": "verb",
+      "rank": 76,
+      "irregular": true,
+      "translations": {
+        "ru": "играть"
+      },
+      "pair": "en:play",
+      "forms": {
+        "present": [
+          "juego",
+          "juegas",
+          "juega",
+          "jugamos",
+          "jugáis",
+          "juegan"
+        ],
+        "preterite": [
+          "jugué",
+          "jugaste",
+          "jugó",
+          "jugamos",
+          "jugasteis",
+          "jugaron"
+        ],
+        "gerund": "jugando",
+        "participle": "jugado"
+      },
+      "examples": [
+        {
+          "es": "Los niños juegan en la playa.",
+          "ru": "Дети играют на пляже.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Juegas al fútbol los domingos?",
+          "ru": "Ты играешь в футбол по воскресеньям?",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "abrir",
+      "lemma": "abrir",
+      "pos": "verb",
+      "rank": 77,
+      "translations": {
+        "ru": "открывать"
+      },
+      "forms": {
+        "present": [
+          "abro",
+          "abres",
+          "abre",
+          "abrimos",
+          "abrís",
+          "abren"
+        ],
+        "preterite": [
+          "abrí",
+          "abriste",
+          "abrió",
+          "abrimos",
+          "abristeis",
+          "abrieron"
+        ],
+        "gerund": "abriendo",
+        "participle": "abierto"
+      },
+      "examples": [
+        {
+          "es": "¿A qué hora abre el museo?",
+          "ru": "Во сколько открывается музей?",
+          "topic": "travel"
+        },
+        {
+          "es": "Abre una incidencia en el sistema.",
+          "ru": "Заведи инцидент в системе.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mover",
+      "lemma": "mover",
+      "pos": "verb",
+      "rank": 78,
+      "irregular": true,
+      "translations": {
+        "ru": "двигать, перемещать"
+      },
+      "pair": "en:move",
+      "forms": {
+        "present": [
+          "muevo",
+          "mueves",
+          "mueve",
+          "movemos",
+          "movéis",
+          "mueven"
+        ],
+        "preterite": [
+          "moví",
+          "moviste",
+          "movió",
+          "movimos",
+          "movisteis",
+          "movieron"
+        ],
+        "gerund": "moviendo",
+        "participle": "movido"
+      },
+      "examples": [
+        {
+          "es": "¿Puede mover el coche, por favor?",
+          "ru": "Можете переставить машину, пожалуйста?",
+          "topic": "travel"
+        },
+        {
+          "es": "Mueve el archivo a otra carpeta.",
+          "ru": "Перемести файл в другую папку.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "regresar",
+      "lemma": "regresar",
+      "pos": "verb",
+      "rank": 79,
+      "translations": {
+        "ru": "возвращаться"
+      },
+      "forms": {
+        "present": [
+          "regreso",
+          "regresas",
+          "regresa",
+          "regresamos",
+          "regresáis",
+          "regresan"
+        ],
+        "preterite": [
+          "regresé",
+          "regresaste",
+          "regresó",
+          "regresamos",
+          "regresasteis",
+          "regresaron"
+        ],
+        "gerund": "regresando",
+        "participle": "regresado"
+      },
+      "examples": [
+        {
+          "es": "Regresamos a casa el domingo.",
+          "ru": "Мы возвращаемся домой в воскресенье.",
+          "topic": "travel"
+        },
+        {
+          "es": "Regreso a la oficina después de comer.",
+          "ru": "Я вернусь в офис после обеда.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "sentar",
+      "lemma": "sentar",
+      "pos": "verb",
+      "rank": 80,
+      "irregular": true,
+      "translations": {
+        "ru": "сажать; sentarse — садиться"
+      },
+      "pair": "en:sit",
+      "forms": {
+        "present": [
+          "siento",
+          "sientas",
+          "sienta",
+          "sentamos",
+          "sentáis",
+          "sientan"
+        ],
+        "preterite": [
+          "senté",
+          "sentaste",
+          "sentó",
+          "sentamos",
+          "sentasteis",
+          "sentaron"
+        ],
+        "gerund": "sentando",
+        "participle": "sentado"
+      },
+      "examples": [
+        {
+          "es": "¿Nos sentamos en la terraza?",
+          "ru": "Сядем на террасе?",
+          "topic": "travel"
+        },
+        {
+          "es": "Se sienta junto a la ventana.",
+          "ru": "Он садится у окна.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "enviar",
+      "lemma": "enviar",
+      "pos": "verb",
+      "rank": 81,
+      "translations": {
+        "ru": "отправлять"
+      },
+      "pair": "en:send",
+      "forms": {
+        "present": [
+          "envío",
+          "envías",
+          "envía",
+          "enviamos",
+          "enviáis",
+          "envían"
+        ],
+        "preterite": [
+          "envié",
+          "enviaste",
+          "envió",
+          "enviamos",
+          "enviasteis",
+          "enviaron"
+        ],
+        "gerund": "enviando",
+        "participle": "enviado"
+      },
+      "examples": [
+        {
+          "es": "Te envío la ubicación del hotel.",
+          "ru": "Отправляю тебе местоположение отеля.",
+          "topic": "travel"
+        },
+        {
+          "es": "Envié el informe por correo.",
+          "ru": "Я отправил отчёт по почте.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "comprar",
+      "lemma": "comprar",
+      "pos": "verb",
+      "rank": 82,
+      "translations": {
+        "ru": "покупать"
+      },
+      "pair": "en:buy",
+      "forms": {
+        "present": [
+          "compro",
+          "compras",
+          "compra",
+          "compramos",
+          "compráis",
+          "compran"
+        ],
+        "preterite": [
+          "compré",
+          "compraste",
+          "compró",
+          "compramos",
+          "comprasteis",
+          "compraron"
+        ],
+        "gerund": "comprando",
+        "participle": "comprado"
+      },
+      "examples": [
+        {
+          "es": "Compramos los billetes en la estación.",
+          "ru": "Мы купили билеты на вокзале.",
+          "topic": "travel"
+        },
+        {
+          "es": "Compré un teclado nuevo.",
+          "ru": "Я купил новую клавиатуру.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "funcionar",
+      "lemma": "funcionar",
+      "pos": "verb",
+      "rank": 83,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "работать (о механизме), функционировать"
+      },
+      "forms": {
+        "present": [
+          "funciono",
+          "funcionas",
+          "funciona",
+          "funcionamos",
+          "funcionáis",
+          "funcionan"
+        ],
+        "preterite": [
+          "funcioné",
+          "funcionaste",
+          "funcionó",
+          "funcionamos",
+          "funcionasteis",
+          "funcionaron"
+        ],
+        "gerund": "funcionando",
+        "participle": "funcionado"
+      },
+      "examples": [
+        {
+          "es": "El aire acondicionado no funciona.",
+          "ru": "Кондиционер не работает.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Funciona ya la nueva versión?",
+          "ru": "Новая версия уже работает?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ocurrir",
+      "lemma": "ocurrir",
+      "pos": "verb",
+      "rank": 84,
+      "translations": {
+        "ru": "происходить; ocurrirse — прийти в голову"
+      },
+      "forms": {
+        "present": [
+          "ocurro",
+          "ocurres",
+          "ocurre",
+          "ocurrimos",
+          "ocurrís",
+          "ocurren"
+        ],
+        "preterite": [
+          "ocurrí",
+          "ocurriste",
+          "ocurrió",
+          "ocurrimos",
+          "ocurristeis",
+          "ocurrieron"
+        ],
+        "gerund": "ocurriendo",
+        "participle": "ocurrido"
+      },
+      "examples": [
+        {
+          "es": "¿Qué ocurrió en el aeropuerto?",
+          "ru": "Что случилось в аэропорту?",
+          "topic": "travel"
+        },
+        {
+          "es": "Se me ocurre una idea para el diseño.",
+          "ru": "Мне пришла идея для дизайна.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "leer",
+      "lemma": "leer",
+      "pos": "verb",
+      "rank": 85,
+      "translations": {
+        "ru": "читать"
+      },
+      "pair": "en:read",
+      "forms": {
+        "present": [
+          "leo",
+          "lees",
+          "lee",
+          "leemos",
+          "leéis",
+          "leen"
+        ],
+        "preterite": [
+          "leí",
+          "leíste",
+          "leyó",
+          "leímos",
+          "leísteis",
+          "leyeron"
+        ],
+        "gerund": "leyendo",
+        "participle": "leído"
+      },
+      "examples": [
+        {
+          "es": "Leo un libro en el avión.",
+          "ru": "Я читаю книгу в самолёте.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Leíste la documentación?",
+          "ru": "Ты прочитал документацию?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "disculpar",
+      "lemma": "disculpar",
+      "pos": "verb",
+      "rank": 86,
+      "translations": {
+        "ru": "извинять (disculpe — извините)"
+      },
+      "pair": "en:excuse",
+      "forms": {
+        "present": [
+          "disculpo",
+          "disculpas",
+          "disculpa",
+          "disculpamos",
+          "disculpáis",
+          "disculpan"
+        ],
+        "preterite": [
+          "disculpé",
+          "disculpaste",
+          "disculpó",
+          "disculpamos",
+          "disculpasteis",
+          "disculparon"
+        ],
+        "gerund": "disculpando",
+        "participle": "disculpado"
+      },
+      "examples": [
+        {
+          "es": "Disculpa, ¿dónde está el baño?",
+          "ru": "Извини, где туалет?",
+          "topic": "travel"
+        },
+        {
+          "es": "Disculpa el retraso en responder.",
+          "ru": "Извини за задержку с ответом.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "desear",
+      "lemma": "desear",
+      "pos": "verb",
+      "rank": 87,
+      "translations": {
+        "ru": "желать"
+      },
+      "forms": {
+        "present": [
+          "deseo",
+          "deseas",
+          "desea",
+          "deseamos",
+          "deseáis",
+          "desean"
+        ],
+        "preterite": [
+          "deseé",
+          "deseaste",
+          "deseó",
+          "deseamos",
+          "deseasteis",
+          "desearon"
+        ],
+        "gerund": "deseando",
+        "participle": "deseado"
+      },
+      "examples": [
+        {
+          "es": "¿Desea algo más?",
+          "ru": "Желаете что-нибудь ещё?",
+          "topic": "travel"
+        },
+        {
+          "es": "Te deseo suerte con la entrevista.",
+          "ru": "Желаю удачи на собеседовании.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "echar",
+      "lemma": "echar",
+      "pos": "verb",
+      "rank": 88,
+      "translations": {
+        "ru": "бросать, выбрасывать; echar de menos — скучать"
+      },
+      "forms": {
+        "present": [
+          "echo",
+          "echas",
+          "echa",
+          "echamos",
+          "echáis",
+          "echan"
+        ],
+        "preterite": [
+          "eché",
+          "echaste",
+          "echó",
+          "echamos",
+          "echasteis",
+          "echaron"
+        ],
+        "gerund": "echando",
+        "participle": "echado"
+      },
+      "examples": [
+        {
+          "es": "Echo de menos a mi familia.",
+          "ru": "Я скучаю по семье.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Le echas un vistazo a mi código?",
+          "ru": "Глянешь мой код?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mostrar",
+      "lemma": "mostrar",
+      "pos": "verb",
+      "rank": 89,
+      "irregular": true,
+      "translations": {
+        "ru": "показывать"
+      },
+      "pair": "en:show",
+      "forms": {
+        "present": [
+          "muestro",
+          "muestras",
+          "muestra",
+          "mostramos",
+          "mostráis",
+          "muestran"
+        ],
+        "preterite": [
+          "mostré",
+          "mostraste",
+          "mostró",
+          "mostramos",
+          "mostrasteis",
+          "mostraron"
+        ],
+        "gerund": "mostrando",
+        "participle": "mostrado"
+      },
+      "examples": [
+        {
+          "es": "¿Me muestra el camino en el mapa?",
+          "ru": "Покажете дорогу на карте?",
+          "topic": "travel"
+        },
+        {
+          "es": "La pantalla muestra un mensaje de error.",
+          "ru": "Экран показывает сообщение об ошибке.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "correr",
+      "lemma": "correr",
+      "pos": "verb",
+      "rank": 90,
+      "translations": {
+        "ru": "бегать, бежать; запускать (программу)"
+      },
+      "pair": "en:run",
+      "forms": {
+        "present": [
+          "corro",
+          "corres",
+          "corre",
+          "corremos",
+          "corréis",
+          "corren"
+        ],
+        "preterite": [
+          "corrí",
+          "corriste",
+          "corrió",
+          "corrimos",
+          "corristeis",
+          "corrieron"
+        ],
+        "gerund": "corriendo",
+        "participle": "corrido"
+      },
+      "examples": [
+        {
+          "es": "Corre, el tren ya sale.",
+          "ru": "Беги, поезд уже отправляется.",
+          "topic": "travel"
+        },
+        {
+          "es": "Corre los tests antes del merge.",
+          "ru": "Запусти тесты перед слиянием.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tocar",
+      "lemma": "tocar",
+      "pos": "verb",
+      "rank": 91,
+      "translations": {
+        "ru": "трогать; играть (на инструменте); быть чьей-то очередью"
+      },
+      "forms": {
+        "present": [
+          "toco",
+          "tocas",
+          "toca",
+          "tocamos",
+          "tocáis",
+          "tocan"
+        ],
+        "preterite": [
+          "toqué",
+          "tocaste",
+          "tocó",
+          "tocamos",
+          "tocasteis",
+          "tocaron"
+        ],
+        "gerund": "tocando",
+        "participle": "tocado"
+      },
+      "examples": [
+        {
+          "es": "No toco la pantalla con los dedos sucios.",
+          "ru": "Я не трогаю экран грязными пальцами.",
+          "topic": "daily"
+        },
+        {
+          "es": "Te toca presentar hoy.",
+          "ru": "Сегодня твоя очередь выступать.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "disparar",
+      "lemma": "disparar",
+      "pos": "verb",
+      "rank": 92,
+      "translations": {
+        "ru": "стрелять; запускать, вызывать (событие)"
+      },
+      "pair": "en:shoot",
+      "forms": {
+        "present": [
+          "disparo",
+          "disparas",
+          "dispara",
+          "disparamos",
+          "disparáis",
+          "disparan"
+        ],
+        "preterite": [
+          "disparé",
+          "disparaste",
+          "disparó",
+          "disparamos",
+          "disparasteis",
+          "dispararon"
+        ],
+        "gerund": "disparando",
+        "participle": "disparado"
+      },
+      "examples": [
+        {
+          "es": "Este botón dispara el evento de guardado.",
+          "ru": "Эта кнопка вызывает событие сохранения.",
+          "topic": "it"
+        },
+        {
+          "es": "Los precios se disparan en verano.",
+          "ru": "Летом цены взлетают.",
+          "topic": "travel"
+        }
+      ],
+      "note": {
+        "ru": "В IT: disparar un evento — вызвать событие"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "recibir",
+      "lemma": "recibir",
+      "pos": "verb",
+      "rank": 93,
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "получать"
+      },
+      "forms": {
+        "present": [
+          "recibo",
+          "recibes",
+          "recibe",
+          "recibimos",
+          "recibís",
+          "reciben"
+        ],
+        "preterite": [
+          "recibí",
+          "recibiste",
+          "recibió",
+          "recibimos",
+          "recibisteis",
+          "recibieron"
+        ],
+        "gerund": "recibiendo",
+        "participle": "recibido"
+      },
+      "examples": [
+        {
+          "es": "¿Recibiste la confirmación de la reserva?",
+          "ru": "Ты получил подтверждение брони?",
+          "topic": "travel"
+        },
+        {
+          "es": "Recibimos muchas solicitudes hoy.",
+          "ru": "Сегодня мы получили много запросов.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "caer",
+      "lemma": "caer",
+      "pos": "verb",
+      "rank": 94,
+      "irregular": true,
+      "translations": {
+        "ru": "падать"
+      },
+      "forms": {
+        "present": [
+          "caigo",
+          "caes",
+          "cae",
+          "caemos",
+          "caéis",
+          "caen"
+        ],
+        "preterite": [
+          "caí",
+          "caíste",
+          "cayó",
+          "caímos",
+          "caísteis",
+          "cayeron"
+        ],
+        "gerund": "cayendo",
+        "participle": "caído"
+      },
+      "examples": [
+        {
+          "es": "Cuidado, el suelo está mojado y te caes.",
+          "ru": "Осторожно, пол мокрый — упадёшь.",
+          "topic": "daily"
+        },
+        {
+          "es": "El servidor se cayó anoche.",
+          "ru": "Сервер упал прошлой ночью.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "escribir",
+      "lemma": "escribir",
+      "pos": "verb",
+      "rank": 95,
+      "translations": {
+        "ru": "писать"
+      },
+      "pair": "en:write",
+      "forms": {
+        "present": [
+          "escribo",
+          "escribes",
+          "escribe",
+          "escribimos",
+          "escribís",
+          "escriben"
+        ],
+        "preterite": [
+          "escribí",
+          "escribiste",
+          "escribió",
+          "escribimos",
+          "escribisteis",
+          "escribieron"
+        ],
+        "gerund": "escribiendo",
+        "participle": "escrito"
+      },
+      "examples": [
+        {
+          "es": "Escribo una postal a mis padres.",
+          "ru": "Я пишу открытку родителям.",
+          "topic": "travel"
+        },
+        {
+          "es": "Escribe la función y luego los tests.",
+          "ru": "Напиши функцию, а потом тесты.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "meter",
+      "lemma": "meter",
+      "pos": "verb",
+      "rank": 96,
+      "translations": {
+        "ru": "класть внутрь, засовывать"
+      },
+      "forms": {
+        "present": [
+          "meto",
+          "metes",
+          "mete",
+          "metemos",
+          "metéis",
+          "meten"
+        ],
+        "preterite": [
+          "metí",
+          "metiste",
+          "metió",
+          "metimos",
+          "metisteis",
+          "metieron"
+        ],
+        "gerund": "metiendo",
+        "participle": "metido"
+      },
+      "examples": [
+        {
+          "es": "Mete la ropa en la maleta.",
+          "ru": "Положи одежду в чемодан.",
+          "topic": "travel"
+        },
+        {
+          "es": "Metí la tarjeta pero no funciona.",
+          "ru": "Я вставил карту, но не работает.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "perdonar",
+      "lemma": "perdonar",
+      "pos": "verb",
+      "rank": 97,
+      "translations": {
+        "ru": "прощать (perdón, perdone — простите)"
+      },
+      "forms": {
+        "present": [
+          "perdono",
+          "perdonas",
+          "perdona",
+          "perdonamos",
+          "perdonáis",
+          "perdonan"
+        ],
+        "preterite": [
+          "perdoné",
+          "perdonaste",
+          "perdonó",
+          "perdonamos",
+          "perdonasteis",
+          "perdonaron"
+        ],
+        "gerund": "perdonando",
+        "participle": "perdonado"
+      },
+      "examples": [
+        {
+          "es": "Perdona, ¿está libre este asiento?",
+          "ru": "Прости, это место свободно?",
+          "topic": "travel"
+        },
+        {
+          "es": "Perdona, no vi tu mensaje.",
+          "ru": "Прости, не видел твоего сообщения.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "comenzar",
+      "lemma": "comenzar",
+      "pos": "verb",
+      "rank": 98,
+      "irregular": true,
+      "rules": [
+        "es-z"
+      ],
+      "translations": {
+        "ru": "начинать"
+      },
+      "forms": {
+        "present": [
+          "comienzo",
+          "comienzas",
+          "comienza",
+          "comenzamos",
+          "comenzáis",
+          "comienzan"
+        ],
+        "preterite": [
+          "comencé",
+          "comenzaste",
+          "comenzó",
+          "comenzamos",
+          "comenzasteis",
+          "comenzaron"
+        ],
+        "gerund": "comenzando",
+        "participle": "comenzado"
+      },
+      "examples": [
+        {
+          "es": "El embarque comienza en diez minutos.",
+          "ru": "Посадка начинается через десять минут.",
+          "topic": "travel"
+        },
+        {
+          "es": "Comenzamos el sprint el lunes.",
+          "ru": "Мы начинаем спринт в понедельник.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "robar",
+      "lemma": "robar",
+      "pos": "verb",
+      "rank": 99,
+      "translations": {
+        "ru": "красть"
+      },
+      "forms": {
+        "present": [
+          "robo",
+          "robas",
+          "roba",
+          "robamos",
+          "robáis",
+          "roban"
+        ],
+        "preterite": [
+          "robé",
+          "robaste",
+          "robó",
+          "robamos",
+          "robasteis",
+          "robaron"
+        ],
+        "gerund": "robando",
+        "participle": "robado"
+      },
+      "examples": [
+        {
+          "es": "Me robaron la cartera en el metro.",
+          "ru": "У меня украли кошелёк в метро.",
+          "topic": "travel"
+        },
+        {
+          "es": "Alguien intentó robar las contraseñas.",
+          "ru": "Кто-то пытался украсть пароли.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "permitir",
+      "lemma": "permitir",
+      "pos": "verb",
+      "rank": 100,
+      "translations": {
+        "ru": "позволять, разрешать"
+      },
+      "forms": {
+        "present": [
+          "permito",
+          "permites",
+          "permite",
+          "permitimos",
+          "permitís",
+          "permiten"
+        ],
+        "preterite": [
+          "permití",
+          "permitiste",
+          "permitió",
+          "permitimos",
+          "permitisteis",
+          "permitieron"
+        ],
+        "gerund": "permitiendo",
+        "participle": "permitido"
+      },
+      "examples": [
+        {
+          "es": "No se permite fumar en el hotel.",
+          "ru": "В отеле курить запрещено.",
+          "topic": "travel"
+        },
+        {
+          "es": "El sistema no permite archivos grandes.",
+          "ru": "Система не позволяет загружать большие файлы.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "probar",
+      "lemma": "probar",
+      "pos": "verb",
+      "rank": 138,
+      "irregular": true,
+      "translations": {
+        "ru": "пробовать; проверять, тестировать"
+      },
+      "forms": {
+        "present": [
+          "pruebo",
+          "pruebas",
+          "prueba",
+          "probamos",
+          "probáis",
+          "prueban"
+        ],
+        "preterite": [
+          "probé",
+          "probaste",
+          "probó",
+          "probamos",
+          "probasteis",
+          "probaron"
+        ],
+        "gerund": "probando",
+        "participle": "probado"
+      },
+      "examples": [
+        {
+          "es": "¿Puedo probar la paella?",
+          "ru": "Можно попробовать паэлью?",
+          "topic": "travel"
+        },
+        {
+          "es": "Voy a probar la nueva versión.",
+          "ru": "Я протестирую новую версию.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "guardar",
+      "lemma": "guardar",
+      "pos": "verb",
+      "rank": 160,
+      "translations": {
+        "ru": "сохранять; хранить"
+      },
+      "forms": {
+        "present": [
+          "guardo",
+          "guardas",
+          "guarda",
+          "guardamos",
+          "guardáis",
+          "guardan"
+        ],
+        "preterite": [
+          "guardé",
+          "guardaste",
+          "guardó",
+          "guardamos",
+          "guardasteis",
+          "guardaron"
+        ],
+        "gerund": "guardando",
+        "participle": "guardado"
+      },
+      "examples": [
+        {
+          "es": "¿Me puede guardar la maleta?",
+          "ru": "Можете подержать мой чемодан?",
+          "topic": "travel"
+        },
+        {
+          "es": "Guarda los cambios antes de salir.",
+          "ru": "Сохрани изменения перед выходом.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    }
+  ]
+}

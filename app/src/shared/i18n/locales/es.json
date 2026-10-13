@@ -1,0 +1,501 @@
+{
+  "app": {
+    "name": "2Lang"
+  },
+  "boot": {
+    "loading": "Cargando"
+  },
+  "tabs": {
+    "home": "Inicio",
+    "profile": "Perfil",
+    "texts": "Textos",
+    "dictionary": "Diccionario",
+    "lessons": "Lecciones"
+  },
+  "home": {
+    "title": "Inicio",
+    "hello": "Esta es la base. Añade las pantallas del dominio en src/features/.",
+    "geo": "Ubicación",
+    "push": "Notificaciones",
+    "camera": "Cámara",
+    "granted": "concedido",
+    "denied": "denegado",
+    "blocked": "bloqueado",
+    "unavailable": "no disponible",
+    "unsupported": "no en esta plataforma",
+    "prompt": "preguntar",
+    "ask": "Solicitar",
+    "greeting": "¡Hola, {name}!",
+    "today": "Lecciones para hoy: {goal}",
+    "lessons": {
+      "title": "Lecciones",
+      "start": "Empezar",
+      "allDone": "Todas las lecciones completadas: pronto habrá más",
+      "none": "Aún no hay lecciones",
+      "next": "Siguiente lección"
+    },
+    "placement": {
+      "title": "Prueba rápida de palabras",
+      "hint": "Marca las palabras que no conoces y saltaremos las lecciones con palabras conocidas. Unos 5 minutos; puedes parar cuando quieras.",
+      "start": "Empezar",
+      "continue": "Continuar la prueba"
+    },
+    "review": {
+      "due": "Para repasar: {n} palabra | Para repasar: {n} palabras",
+      "start": "Repasar"
+    }
+  },
+  "profile": {
+    "title": "Perfil",
+    "theme": "Tema",
+    "themeSystem": "Sistema",
+    "themeLight": "Claro",
+    "themeDark": "Oscuro",
+    "language": "Idioma",
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión",
+    "guest": "Invitado"
+  },
+  "session": {
+    "title": "Iniciar sesión",
+    "hint": "Marcador. Sustitúyelo por tu OTP/OAuth en src/shared/session.",
+    "submit": "Continuar como demo"
+  },
+  "network": {
+    "offline": "Sin conexión"
+  },
+  "speech": {
+    "unavailable": "No se pudo reproducir: el dispositivo no tiene voz para este idioma y la voz en línea necesita conexión"
+  },
+  "dev": {
+    "tokens": "Tokens",
+    "uiKit": "Kit de UI"
+  },
+  "texts": {
+    "ui": {
+      "title": "Textos",
+      "emptyTitle": "Aún no hay textos",
+      "emptyText": "Sube un archivo JSON con una canción o un poema y tu traducción",
+      "upload": "Subir archivo",
+      "loadFailed": "No se pudo abrir la biblioteca de textos",
+      "retry": "Reintentar",
+      "kind": {
+        "song": "Canción",
+        "poem": "Poema"
+      },
+      "personal": "personal",
+      "resultsTitle": "Resultado de la carga",
+      "close": "Cerrar",
+      "status": {
+        "added": "Cargado",
+        "replaced": "Actualizado",
+        "unchanged": "Ya cargado, sin cambios",
+        "declined": "No reemplazado: se mantiene el anterior",
+        "rejected": "No cargado: corrige los errores",
+        "failed": "No se pudo leer o guardar el archivo"
+      },
+      "errorsHeading": "Errores: {n}",
+      "warningsHeading": "Observaciones: {n}",
+      "wholeFile": "todo el archivo",
+      "phrases": "Frases: se mantienen {kept}, nuevas {added}, eliminadas {removed}",
+      "replaceTitle": "¿Reemplazar «{title}»?",
+      "replaceText": "Este texto ya está cargado. Frases: se mantienen {kept}, se añaden {added}, se eliminan {removed}. El progreso de las frases que se mantienen se conserva.",
+      "replaceConfirm": "Reemplazar",
+      "replaceKeep": "Mantener el anterior",
+      "all": "Todos",
+      "filteredEmpty": "Ningún texto coincide con los filtros",
+      "kindFilter": "Tipo",
+      "read": {
+        "notFound": "Texto no encontrado",
+        "notFoundHint": "Puede haberse reemplazado o no estar cargado en este dispositivo",
+        "literal": "Literalmente",
+        "note": "Nota",
+        "phrases": "Frases",
+        "words": "Palabras",
+        "openWord": "Abrir en el diccionario",
+        "noTranslation": "Sin traducción",
+        "hideDetails": "Ocultar análisis",
+        "showDetails": "Analizar la línea",
+        "speakLine": "Leer la línea: {text}",
+        "repeat": "repetición",
+        "stanza": {
+          "verse": "Estrofa",
+          "chorus": "Estribillo",
+          "bridge": "Puente",
+          "intro": "Introducción",
+          "outro": "Final"
+        },
+        "addToReview": "Añadir al repaso",
+        "inReview": "En el repaso"
+      }
+    }
+  },
+  "profiles": {
+    "welcomeTitle": "¿Quién aprende?",
+    "welcomeHint": "El perfil se guarda solo en este dispositivo. Cada miembro de la familia tiene sus idiomas y su progreso.",
+    "start": "Empezar",
+    "newTitle": "Nuevo perfil",
+    "editTitle": "Editar perfil",
+    "create": "Crear",
+    "save": "Guardar",
+    "name": "Nombre",
+    "interfaceLanguage": "Idioma de la interfaz",
+    "studyLanguages": "Qué aprendemos",
+    "goal": "Meta diaria, lecciones",
+    "goalHint": "Una lección dura 5–7 minutos",
+    "color": "Color",
+    "edit": "Editar",
+    "add": "Añadir perfil",
+    "others": "Otros perfiles",
+    "delete": "Eliminar perfil",
+    "deleteTitle": "¿Eliminar el perfil «{name}»?",
+    "deleteText": "El progreso de este perfil se borrará del dispositivo. No se puede deshacer.",
+    "deleteConfirm": "Eliminar",
+    "cancel": "Cancelar",
+    "lastProfile": "No se puede eliminar el único perfil",
+    "saveFailed": "No se pudo guardar el perfil. Inténtalo de nuevo",
+    "studying": "Aprendemos: {langs}",
+    "goalValue": "Meta diaria: {n} lección | Meta diaria: {n} lecciones",
+    "errors": {
+      "name_empty": "Escribe un nombre",
+      "name_too_long": "No más de {max} caracteres",
+      "name_taken": "Ese nombre ya existe",
+      "languages_empty": "Elige al menos un idioma",
+      "goal_range": "De {min} a {max} lecciones"
+    },
+    "lang": {
+      "en": "Inglés",
+      "es": "Español"
+    },
+    "colors": {
+      "blue": "Azul",
+      "amber": "Ámbar",
+      "green": "Verde",
+      "rose": "Rosa",
+      "violet": "Violeta",
+      "teal": "Turquesa",
+      "orange": "Naranja",
+      "slate": "Gris"
+    },
+    "localeNames": {
+      "ru": "Русский",
+      "en": "English",
+      "es": "Español"
+    },
+    "backup": {
+      "title": "Copia de seguridad",
+      "hint": "Los datos se guardan solo en este teléfono. Guarda una copia para restaurar el perfil en cualquier dispositivo.",
+      "export": "Guardar en un archivo",
+      "import": "Restaurar desde un archivo",
+      "welcomeRestore": "¿Ya aprendías? Restaurar desde un archivo",
+      "saved": "Copia guardada",
+      "restored": "Perfil «{name}» restaurado",
+      "saveFailed": "No se pudo guardar la copia",
+      "replaceTitle": "¿Reemplazar el perfil «{name}»?",
+      "replaceText": "La copia del {date} reemplazará el perfil de este dispositivo. No se puede deshacer.",
+      "replaceConfirm": "Reemplazar",
+      "errors": {
+        "not_json": "No es un archivo de copia de 2Lang",
+        "not_backup": "No es un archivo de copia de 2Lang",
+        "newer_version": "La copia se hizo con una versión más nueva de 2Lang: actualiza la aplicación",
+        "bad_profile": "La copia está dañada: no se leen los datos del perfil",
+        "bad_data": "La copia está dañada: no se lee el progreso",
+        "read_failed": "No se pudo leer el archivo"
+      }
+    }
+  },
+  "common": {
+    "back": "Atrás"
+  },
+  "content": {
+    "issue": {
+      "json_syntax": "El archivo no es un JSON válido: línea {line}, columna {column}, cerca de «{near}»",
+      "not_object": "Se espera un objeto JSON con una canción o un poema",
+      "required": "Falta el campo obligatorio «{key}»",
+      "unknown_key": "Campo desconocido «{key}». ¿Una errata? Pon tus propios datos en ext",
+      "wrong_type": "Tipo de valor incorrecto: se espera {expected}",
+      "empty": "Valor vacío",
+      "bad_value": "Valor no válido. Se admite: {allowed}",
+      "bad_slug": "Solo letras latinas minúsculas, cifras y guiones, por ejemplo my-song",
+      "bad_lang": "El código de idioma son dos letras latinas minúsculas: en, es, ru",
+      "bad_url": "Enlace no válido: {url}",
+      "duplicate_tag": "La etiqueta «{tag}» ya está indicada",
+      "missing_original": "Falta el original en el idioma del texto ({lang})",
+      "phrase_no_translation": "La frase no tiene ninguna traducción",
+      "phrase_not_in_line": "La frase «{fragment}» no aparece en el verso «{line}»",
+      "word_not_in_line": "La palabra «{fragment}» no aparece en el verso «{line}»",
+      "stanza_lines_and_ref": "La estrofa tiene lines y ref a la vez: deja solo uno",
+      "stanza_no_content": "La estrofa no tiene ni lines ni ref",
+      "ref_unknown": "ref «{ref}» apunta a una estrofa que no está declarada antes",
+      "duplicate_stanza_id": "El id de estrofa «{id}» ya se usa",
+      "line_no_translation": "El verso no tiene traducción",
+      "line_missing_langs": "Falta la traducción a: {langs}",
+      "file_too_large": "El archivo es demasiado grande: {size} KB, se admiten hasta {max} KB. ¿Es el archivo correcto?",
+      "bad_word_id": "El id de la palabra: minúsculas, cifras y guiones, sin espacios: tener, año, banco-2",
+      "duplicate_id": "El id «{id}» ya existe: {other}",
+      "duplicate_rank": "El rango {rank} de la categoría {pos} ya está ocupado: {other}",
+      "gender_required": "Un sustantivo español necesita género: m, f o mf",
+      "gender_not_allowed": "El género solo se indica en sustantivos españoles",
+      "forms_not_allowed": "Esta categoría ({pos}) no tiene formas",
+      "form_persons": "Formas por persona necesarias: {expected}",
+      "no_translation": "No hay ninguna traducción",
+      "translation_own_lang": "No hace falta traducir al idioma de la propia palabra",
+      "bad_pair": "El par es «idioma:id» de una palabra del otro idioma que se estudia, por ejemplo en:have",
+      "pair_not_found": "El par «{pair}» no está en los diccionarios",
+      "example_without_word": "El ejemplo no contiene ninguna forma de «{word}»",
+      "no_examples": "La palabra no tiene ejemplos",
+      "no_ru": "No hay traducción al ruso",
+      "duplicate_word": "La palabra «{word}» ya está en la lección",
+      "gap_count": "Debe haber exactamente un hueco ___, ahora: {count}",
+      "duplicate_order": "La posición {order} en el recorrido {topic} ya está ocupada: {other}",
+      "unknown_lesson": "No se encuentra la lección «{id}»",
+      "self_require": "Una lección no puede requerirse a sí misma",
+      "word_not_in_dictionary": "La palabra «{word}» no está en el diccionario ({lang})",
+      "file_name": "El archivo de la lección debe llamarse {expected}",
+      "lesson_word_count": "La lección tiene {count} palabras nuevas, se recomiendan de {min} a {max}",
+      "lesson_composition": "A la lección le falta: {missing}; se recomiendan un verbo, un sustantivo y un adverbio o adjetivo",
+      "fill_answer_unknown": "La respuesta «{answer}» no coincide con ninguna palabra de la lección",
+      "topic_not_allowed": "Solo la lección de palabras tiene tema (el tipo {kind} tiene su propio recorrido)",
+      "sound_empty": "Una lección de sonidos necesita letras (letters) o reglas de lectura (rules)",
+      "duplicate_rule": "La regla «{id}» ya está declarada: {other}",
+      "pair_size": "Un par son exactamente dos palabras distintas",
+      "bad_audio": "La ruta del audio es audio/<idioma>/….mp3, ahora: {path}",
+      "rule_not_found": "La regla de lectura «{rule}» no está en ninguna lección de sonidos",
+      "table_shape": "La fila de la tabla tiene {actual} celdas y la cabecera {expected}",
+      "duplicate_form": "La forma «{form}» ya está en este transformador",
+      "answer_not_in_options": "La respuesta «{answer}» no está entre las opciones",
+      "duplicate_option": "La opción «{option}» se repite",
+      "options_count": "Hacen falta al menos {min} opciones",
+      "pattern_size": "El patrón tiene {count} ejemplos, se recomiendan de {min} a {max}"
+    },
+    "type": {
+      "string": "una cadena",
+      "integer": "un número entero",
+      "number": "un número",
+      "object": "un objeto",
+      "array": "una lista",
+      "boolean": "true o false"
+    }
+  },
+  "dictionary": {
+    "title": "Diccionario",
+    "lists": {
+      "verb": "Verbos",
+      "noun": "Sustantivos",
+      "adj": "Adjetivos",
+      "adv": "Adverbios",
+      "saved": "Mis palabras"
+    },
+    "search": "Palabra, forma o traducción",
+    "count": "{n} palabra | {n} palabras",
+    "irregular": "irreg.",
+    "save": "Añadir «{word}» a mis palabras",
+    "unsave": "Quitar «{word}» de mis palabras",
+    "savedEmpty": "Aún no hay palabras marcadas",
+    "savedHint": "Marca con una estrella las palabras que quieres aprender",
+    "notFound": "No se encontró nada",
+    "loadFailed": "No se pudo abrir el diccionario",
+    "retry": "Reintentar",
+    "more": "Mostrar más",
+    "forms": {
+      "present": "Presente",
+      "preterite": "Pretérito indefinido",
+      "imperfect": "Pretérito imperfecto",
+      "future": "Futuro",
+      "conditional": "Condicional",
+      "subjunctive": "Subjuntivo",
+      "imperative": "Imperativo",
+      "s": "3.ª persona (he/she/it)",
+      "past": "Pasado (Past Simple)",
+      "participle": "Participio",
+      "ing": "Forma en -ing",
+      "gerund": "Gerundio",
+      "plural": "Plural",
+      "f": "Femenino",
+      "pl": "Plural",
+      "fpl": "Femenino plural",
+      "comparative": "Comparativo",
+      "superlative": "Superlativo"
+    },
+    "card": {
+      "notFound": "Palabra no encontrada",
+      "notFoundHint": "Puede que se haya renombrado: búscala en el diccionario",
+      "speak": "Pronunciar: {text}",
+      "forms": "Formas",
+      "examples": "Ejemplos",
+      "note": "Atención",
+      "pair": "En el otro idioma",
+      "rank": "N.º {rank} · {list}",
+      "topics": {
+        "travel": "viajes",
+        "it": "IT",
+        "daily": "vida diaria"
+      },
+      "pos": {
+        "verb": "verbo",
+        "noun": "sustantivo",
+        "adj": "adjetivo",
+        "adv": "adverbio",
+        "phrase": "expresión"
+      },
+      "reading": "Cómo se lee",
+      "topicCode": "tema {code}"
+    },
+    "known": "conocida",
+    "knownCount": "{n} conocidas",
+    "train": "Entrenamiento",
+    "trainHint": "Palabras nuevas por frecuencia y repaso de errores"
+  },
+  "lessons": {
+    "title": "Lección",
+    "close": "Cerrar la lección",
+    "progress": "{n} % completado",
+    "next": "Siguiente",
+    "check": "Comprobar",
+    "newWord": "Palabra nueva",
+    "phrase": "Frase del día",
+    "rule": "Minirregla",
+    "notFound": "Lección no encontrada",
+    "notFoundHint": "Puede que se haya eliminado o renombrado",
+    "toHome": "Ir al inicio",
+    "loadFailed": "No se pudo abrir la lección",
+    "retry": "Reintentar",
+    "task": {
+      "recognize": "¿Qué significa esta palabra?",
+      "hear": "Escucha y elige la palabra",
+      "pick": "Elige la palabra",
+      "listen": "Escuchar",
+      "recall": "Escribe la palabra",
+      "fill": "Completa la palabra que falta",
+      "build": "Forma la frase",
+      "translate": "Traduce",
+      "answer": "Tu respuesta",
+      "reset": "Borrar",
+      "again": "Otra vez"
+    },
+    "feedback": {
+      "correct": "¡Correcto!",
+      "accent": "Fíjate en la ortografía:",
+      "wrong": "Respuesta correcta:",
+      "later": "Volveremos a este ejercicio al final de la lección"
+    },
+    "summary": {
+      "title": "¡Lección completada!",
+      "score": "A la primera: {correct} de {total}",
+      "words": "Palabras de la lección",
+      "done": "Listo",
+      "again": "Repetir"
+    },
+    "toLessons": "A las lecciones",
+    "sound": {
+      "letters": "Alfabeto",
+      "rule": "Regla de lectura",
+      "readHint": "Léela en voz alta, luego escucha y compara",
+      "spellHint": "Deletrea la palabra en voz alta y compruébalo",
+      "reveal": "Mostrar los nombres de las letras",
+      "gotIt": "Me salió",
+      "again": "Otra vez",
+      "task": {
+        "pairs": "Escucha y elige la palabra",
+        "read": "Lee la palabra",
+        "dictation": "Escribe la palabra que oyes",
+        "spell": "Deletréala"
+      }
+    }
+  },
+  "placement": {
+    "title": "¿Qué palabras conoces?",
+    "close": "Cerrar la prueba",
+    "prompt": "Toca las palabras que no conoces. Las demás se marcarán como conocidas.",
+    "checked": "Revisadas {n} de {total}",
+    "marked": "No conozco: {n} palabra | No conozco: {n} palabras",
+    "next": "Siguiente",
+    "finish": "Terminar la prueba",
+    "loadFailed": "No se pudo abrir el diccionario",
+    "summary": {
+      "title": "Prueba guardada",
+      "known": "Palabras conocidas: {known} de {checked} revisadas.",
+      "hint": "Saltaremos las lecciones en las que conoces todas las palabras. Las palabras conocidas están marcadas en el diccionario.",
+      "done": "Listo",
+      "more": "Revisar más palabras"
+    }
+  },
+  "path": {
+    "title": "Lecciones",
+    "progress": "Completadas {done} de {total}",
+    "empty": "Aún no hay lecciones",
+    "emptyHint": "Las lecciones de este idioma llegarán más tarde",
+    "status": {
+      "done": "Completada",
+      "known": "Palabras conocidas",
+      "next": "Siguiente",
+      "open": "Abierta"
+    },
+    "sound": "Sonidos"
+  },
+  "review": {
+    "title": "Repaso",
+    "close": "Cerrar el repaso",
+    "loadFailed": "No se pudo abrir el repaso",
+    "empty": "Todo listo por hoy",
+    "emptyHint": "Las palabras volverán cuando toque repasarlas",
+    "toHome": "Ir al inicio",
+    "summary": {
+      "title": "¡Repaso completado!",
+      "score": "A la primera: {correct} de {total}",
+      "next": "Próximo repaso: {date}",
+      "done": "Listo"
+    }
+  },
+  "train": {
+    "title": "Entrenamiento",
+    "close": "Cerrar entrenamiento",
+    "loadFailed": "No se pudo abrir el diccionario",
+    "language": "Idioma",
+    "scope": "Qué entrenar",
+    "scopes": {
+      "all": "Todas",
+      "verb": "Verbos",
+      "noun": "Sustantivos",
+      "adj": "Adjetivos",
+      "adv": "Adverbios",
+      "saved": "Mis palabras",
+      "hard": "Con errores"
+    },
+    "stats": {
+      "due": "para repasar",
+      "fresh": "nuevas en reserva",
+      "hard": "palabras con errores"
+    },
+    "how": "Primero, las palabras que toca repasar; después, hasta {n} nuevas por frecuencia. La palabra fallada vuelve mañana; las aprendidas, cada vez más espaciadas.",
+    "howHard": "Palabras en las que te equivocaste, sin importar la fecha. Aquí no hay palabras nuevas: solo refuerzo.",
+    "start": "Empezar · {n} palabra | Empezar · {n} palabras",
+    "newWord": "Palabra nueva",
+    "empty": {
+      "done": "Por hoy, todo listo aquí",
+      "doneHint": "Elige otra sección o vuelve mañana",
+      "saved": "«Mis palabras» está vacío",
+      "savedHint": "Marca palabras con la estrella en el diccionario para entrenarlas aquí",
+      "hard": "Aún no hay errores",
+      "hardHint": "Aquí aparecerán las palabras en las que te equivocaste"
+    },
+    "summary": {
+      "title": "¡Ronda terminada!",
+      "score": "Correctas a la primera: {correct} de {total}",
+      "fresh": "palabras nuevas",
+      "reviewed": "repasadas",
+      "mistakes": "Vuelven mañana",
+      "again": "Otra ronda",
+      "done": "Listo"
+    }
+  },
+  "today": {
+    "title": "Hoy",
+    "goal": "Hoy: {done} de {goal} lección | Hoy: {done} de {goal} lecciones",
+    "goalDone": "Objetivo del día cumplido",
+    "streak": "Racha: {n} día | Racha: {n} días",
+    "freezes": "{n} congelación | {n} congelaciones",
+    "keep": "estudia hoy para mantener la racha",
+    "phrase": "Frase del día"
+  }
+}

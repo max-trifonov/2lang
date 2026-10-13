@@ -1,0 +1,77 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-02",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 2,
+  "level": "A1",
+  "title": {
+    "ru": "Нашёл ошибку",
+    "en": "I found the bug",
+    "es": "Encontré el error"
+  },
+  "words": [
+    "encontrar",
+    "error",
+    "código",
+    "ya"
+  ],
+  "phrase": {
+    "es": "Ya encontré el error en el código.",
+    "ru": "Я уже нашёл ошибку в коде.",
+    "en": "I already found the bug in the code."
+  },
+  "rule": {
+    "text": {
+      "ru": "Законченное действие в прошлом — pretérito indefinido: encontré — «я нашёл», encontramos — «мы нашли». ya — «уже»; Ya está — «Готово».",
+      "en": "A finished past action uses the pretérito indefinido: encontré — “I found”, encontramos — “we found”. ya means “already”; Ya está — “Done”.",
+      "es": "Pretérito indefinido para una acción terminada: encontré, encontramos. ya: Ya está."
+    },
+    "examples": [
+      {
+        "es": "¿Ya encontraste el problema?",
+        "ru": "Ты уже нашёл проблему?"
+      },
+      {
+        "es": "No encuentro el archivo.",
+        "ru": "Не могу найти файл."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Ya ___ el error.",
+      "answer": "encontré",
+      "ru": "Я уже нашёл ошибку."
+    },
+    {
+      "type": "fill",
+      "es": "Hay un ___ en el código.",
+      "answer": "error",
+      "ru": "В коде ошибка."
+    },
+    {
+      "type": "build",
+      "es": "Ya encontramos el error en el código.",
+      "ru": "Мы уже нашли ошибку в коде.",
+      "extra": [
+        "encuentro"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я нашёл ошибку.",
+      "answer": [
+        "Encontré el error.",
+        "Encontré un error.",
+        "Ya encontré el error."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

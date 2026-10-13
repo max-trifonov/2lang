@@ -1,0 +1,63 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "twinkle-twinkle",
+  "kind": "song",
+  "lang": "en",
+  "license": "public-domain",
+  "title": { "en": "Twinkle, Twinkle, Little Star", "ru": "Мерцай, мерцай, звёздочка" },
+  "author": "Jane Taylor",
+  "year": 1806,
+  "level": "A2",
+  "tags": ["kids", "night"],
+  "stanzas": [
+    {
+      "id": "chorus",
+      "type": "chorus",
+      "lines": [
+        {
+          "en": "Twinkle, twinkle, little star,",
+          "ru": "Мерцай, мерцай, звёздочка,",
+          "lit": { "ru": "Мерцай, мерцай, маленькая звезда," },
+          "words": [
+            { "en": "twinkle", "lemma": "twinkle", "pos": "verb", "ru": "мерцать" }
+          ]
+        },
+        {
+          "en": "How I wonder what you are!",
+          "ru": "Как хочу я знать, кто ты!",
+          "lit": { "ru": "Как же я гадаю, что ты такое!" },
+          "phrases": [
+            {
+              "en": "I wonder what",
+              "ru": "интересно, что",
+              "note": { "ru": "I wonder + вопросительное слово: мягкий способ задать вопрос. I wonder what time it is — интересно, который час" }
+            }
+          ],
+          "words": [
+            { "en": "wonder", "lemma": "wonder", "pos": "verb", "ru": "задаваться вопросом, интересоваться" }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "en": "Up above the world so high,",
+          "ru": "Высоко-высоко над миром,",
+          "phrases": [
+            { "en": "up above", "ru": "высоко над" }
+          ]
+        },
+        {
+          "en": "Like a diamond in the sky.",
+          "ru": "Как алмаз на небе.",
+          "phrases": [
+            { "en": "in the sky", "ru": "в небе" }
+          ]
+        }
+      ]
+    },
+    { "ref": "chorus" }
+  ]
+}

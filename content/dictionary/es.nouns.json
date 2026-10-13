@@ -1,0 +1,3672 @@
+{
+  "format": "2lang/dictionary",
+  "version": 1,
+  "lang": "es",
+  "license": "cc-by-sa",
+  "source": "Черновик ИИ (D-25) на частотном каркасе wordhoard v0.1.0 (CC BY-SA 4.0, D-24): https://github.com/natema/wordhoard; см. content/frequency/NOTICE.md",
+  "entries": [
+    {
+      "id": "vez",
+      "lemma": "vez",
+      "pos": "noun",
+      "rank": 1,
+      "gender": "f",
+      "rules": [
+        "es-z"
+      ],
+      "translations": {
+        "ru": "раз"
+      },
+      "forms": {
+        "plural": "veces"
+      },
+      "examples": [
+        {
+          "es": "Es mi primera vez en España.",
+          "ru": "Я впервые в Испании.",
+          "topic": "travel"
+        },
+        {
+          "es": "Lo intenté dos veces y no funciona.",
+          "ru": "Я пробовал дважды, и не работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "gracias",
+      "lemma": "gracias",
+      "pos": "noun",
+      "rank": 2,
+      "gender": "f",
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "спасибо, благодарность"
+      },
+      "examples": [
+        {
+          "es": "Muchas gracias por la ayuda.",
+          "ru": "Большое спасибо за помощь.",
+          "topic": "travel"
+        },
+        {
+          "es": "Gracias por revisar el código.",
+          "ru": "Спасибо, что посмотрел код.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Обычно как «спасибо»: muchas gracias — большое спасибо"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cosa",
+      "lemma": "cosa",
+      "pos": "noun",
+      "rank": 3,
+      "gender": "f",
+      "translations": {
+        "ru": "вещь, дело"
+      },
+      "pair": "en:thing",
+      "forms": {
+        "plural": "cosas"
+      },
+      "examples": [
+        {
+          "es": "Tengo que comprar unas cosas para el viaje.",
+          "ru": "Мне нужно купить кое-что для поездки.",
+          "topic": "travel"
+        },
+        {
+          "es": "Otra cosa: el login no funciona.",
+          "ru": "Ещё одно: вход не работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "día",
+      "lemma": "día",
+      "pos": "noun",
+      "rank": 4,
+      "gender": "m",
+      "translations": {
+        "ru": "день"
+      },
+      "pair": "en:day",
+      "forms": {
+        "plural": "días"
+      },
+      "examples": [
+        {
+          "es": "Buenos días, ¿tiene una habitación libre?",
+          "ru": "Добрый день, у вас есть свободный номер?",
+          "topic": "travel"
+        },
+        {
+          "es": "Trabajo ocho horas al día.",
+          "ru": "Я работаю восемь часов в день.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hombre",
+      "lemma": "hombre",
+      "pos": "noun",
+      "rank": 5,
+      "gender": "m",
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "мужчина, человек"
+      },
+      "pair": "en:man",
+      "forms": {
+        "plural": "hombres"
+      },
+      "examples": [
+        {
+          "es": "El hombre de la recepción habla inglés.",
+          "ru": "Мужчина на ресепшене говорит по-английски.",
+          "topic": "travel"
+        },
+        {
+          "es": "¡Hombre, cuánto tiempo!",
+          "ru": "Ну надо же, сколько лет!",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "casa",
+      "lemma": "casa",
+      "pos": "noun",
+      "rank": 6,
+      "gender": "f",
+      "translations": {
+        "ru": "дом"
+      },
+      "pair": "en:home",
+      "forms": {
+        "plural": "casas"
+      },
+      "examples": [
+        {
+          "es": "Trabajo desde casa los viernes.",
+          "ru": "По пятницам я работаю из дома.",
+          "topic": "it"
+        },
+        {
+          "es": "Volvemos a casa el domingo.",
+          "ru": "Мы возвращаемся домой в воскресенье.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "verdad",
+      "lemma": "verdad",
+      "pos": "noun",
+      "rank": 7,
+      "gender": "f",
+      "translations": {
+        "ru": "правда"
+      },
+      "pair": "en:truth",
+      "forms": {
+        "plural": "verdades"
+      },
+      "examples": [
+        {
+          "es": "¿Es verdad que el museo es gratis hoy?",
+          "ru": "Правда, что сегодня музей бесплатный?",
+          "topic": "travel"
+        },
+        {
+          "es": "La verdad es que el código es muy antiguo.",
+          "ru": "По правде говоря, код очень старый.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tiempo",
+      "lemma": "tiempo",
+      "pos": "noun",
+      "rank": 8,
+      "gender": "m",
+      "translations": {
+        "ru": "время; погода"
+      },
+      "pair": "en:time",
+      "forms": {
+        "plural": "tiempos"
+      },
+      "examples": [
+        {
+          "es": "No tengo tiempo hoy.",
+          "ru": "У меня сегодня нет времени.",
+          "topic": "daily"
+        },
+        {
+          "es": "¿Qué tiempo hace en Madrid?",
+          "ru": "Какая погода в Мадриде?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "año",
+      "lemma": "año",
+      "pos": "noun",
+      "rank": 9,
+      "gender": "m",
+      "rules": [
+        "es-n-tilde"
+      ],
+      "translations": {
+        "ru": "год"
+      },
+      "pair": "en:year",
+      "forms": {
+        "plural": "años"
+      },
+      "examples": [
+        {
+          "es": "Este año viajo a México.",
+          "ru": "В этом году еду в Мексику.",
+          "topic": "travel"
+        },
+        {
+          "es": "Llevo dos años en la empresa.",
+          "ru": "Я два года работаю в компании.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "ñ обязательна: ano — совсем другое слово"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "señor",
+      "lemma": "señor",
+      "pos": "noun",
+      "rank": 10,
+      "gender": "m",
+      "rules": [
+        "es-n-tilde"
+      ],
+      "translations": {
+        "ru": "господин, сеньор; мужчина"
+      },
+      "pair": "en:sir",
+      "forms": {
+        "plural": "señores"
+      },
+      "examples": [
+        {
+          "es": "Perdone, señor, ¿dónde está la parada?",
+          "ru": "Простите, сеньор, где остановка?",
+          "topic": "travel"
+        },
+        {
+          "es": "El señor García es nuestro cliente.",
+          "ru": "Сеньор Гарсия — наш клиент.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "favor",
+      "lemma": "favor",
+      "pos": "noun",
+      "rank": 11,
+      "gender": "m",
+      "translations": {
+        "ru": "одолжение; por favor — пожалуйста"
+      },
+      "forms": {
+        "plural": "favores"
+      },
+      "examples": [
+        {
+          "es": "Un café, por favor.",
+          "ru": "Кофе, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Me haces un favor?",
+          "ru": "Сделаешь мне одолжение?",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "noche",
+      "lemma": "noche",
+      "pos": "noun",
+      "rank": 12,
+      "gender": "f",
+      "translations": {
+        "ru": "ночь, вечер"
+      },
+      "pair": "en:night",
+      "forms": {
+        "plural": "noches"
+      },
+      "examples": [
+        {
+          "es": "Buenas noches, tengo una reserva.",
+          "ru": "Добрый вечер, у меня бронь.",
+          "topic": "travel"
+        },
+        {
+          "es": "El despliegue es por la noche.",
+          "ru": "Развёртывание ночью.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "vida",
+      "lemma": "vida",
+      "pos": "noun",
+      "rank": 13,
+      "gender": "f",
+      "translations": {
+        "ru": "жизнь"
+      },
+      "pair": "en:life",
+      "forms": {
+        "plural": "vidas"
+      },
+      "examples": [
+        {
+          "es": "La vida en Barcelona es cara.",
+          "ru": "Жизнь в Барселоне дорогая.",
+          "topic": "travel"
+        },
+        {
+          "es": "Así es la vida.",
+          "ru": "Такова жизнь.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "padre",
+      "lemma": "padre",
+      "pos": "noun",
+      "rank": 14,
+      "gender": "m",
+      "translations": {
+        "ru": "отец; padres — родители"
+      },
+      "forms": {
+        "plural": "padres"
+      },
+      "examples": [
+        {
+          "es": "Viajo con mis padres.",
+          "ru": "Я путешествую с родителями.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mi padre también es ingeniero.",
+          "ru": "Мой отец тоже инженер.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "amigo",
+      "lemma": "amigo",
+      "pos": "noun",
+      "rank": 15,
+      "gender": "m",
+      "translations": {
+        "ru": "друг"
+      },
+      "pair": "en:friend",
+      "forms": {
+        "plural": "amigos"
+      },
+      "examples": [
+        {
+          "es": "Voy a visitar a un amigo en Valencia.",
+          "ru": "Еду навестить друга в Валенсии.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mis amigos trabajan en IT.",
+          "ru": "Мои друзья работают в IT.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "trabajo",
+      "lemma": "trabajo",
+      "pos": "noun",
+      "rank": 16,
+      "gender": "m",
+      "translations": {
+        "ru": "работа"
+      },
+      "pair": "en:job",
+      "forms": {
+        "plural": "trabajos"
+      },
+      "examples": [
+        {
+          "es": "Estoy aquí por trabajo.",
+          "ru": "Я здесь по работе.",
+          "topic": "travel"
+        },
+        {
+          "es": "Busco trabajo de programador.",
+          "ru": "Я ищу работу программиста.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "acuerdo",
+      "lemma": "acuerdo",
+      "pos": "noun",
+      "rank": 17,
+      "gender": "m",
+      "translations": {
+        "ru": "согласие, договор; de acuerdo — согласен"
+      },
+      "pair": "en:deal-noun",
+      "forms": {
+        "plural": "acuerdos"
+      },
+      "examples": [
+        {
+          "es": "De acuerdo, nos vemos a las ocho.",
+          "ru": "Договорились, увидимся в восемь.",
+          "topic": "daily"
+        },
+        {
+          "es": "Firmamos el acuerdo con el cliente.",
+          "ru": "Мы подписали договор с клиентом.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "gente",
+      "lemma": "gente",
+      "pos": "noun",
+      "rank": 18,
+      "gender": "f",
+      "rules": [
+        "es-g-before-e-i"
+      ],
+      "translations": {
+        "ru": "люди"
+      },
+      "pair": "en:people",
+      "forms": {
+        "plural": "gentes"
+      },
+      "examples": [
+        {
+          "es": "Hay mucha gente en la playa.",
+          "ru": "На пляже много людей.",
+          "topic": "travel"
+        },
+        {
+          "es": "La gente usa la app en el móvil.",
+          "ru": "Люди пользуются приложением на телефоне.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Единственное число: la gente es — люди (есть)"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hijo",
+      "lemma": "hijo",
+      "pos": "noun",
+      "rank": 19,
+      "gender": "m",
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "сын; hijos — дети"
+      },
+      "pair": "en:son",
+      "forms": {
+        "plural": "hijos"
+      },
+      "examples": [
+        {
+          "es": "Viajamos con dos hijos.",
+          "ru": "Мы путешествуем с двумя детьми.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mi hijo aprende a programar.",
+          "ru": "Мой сын учится программировать.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mujer",
+      "lemma": "mujer",
+      "pos": "noun",
+      "rank": 20,
+      "gender": "f",
+      "translations": {
+        "ru": "женщина; жена"
+      },
+      "pair": "en:woman",
+      "forms": {
+        "plural": "mujeres"
+      },
+      "examples": [
+        {
+          "es": "La mujer de la taquilla es muy amable.",
+          "ru": "Женщина в кассе очень любезная.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mi mujer trabaja en un banco.",
+          "ru": "Моя жена работает в банке.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "momento",
+      "lemma": "momento",
+      "pos": "noun",
+      "rank": 21,
+      "gender": "m",
+      "translations": {
+        "ru": "момент"
+      },
+      "pair": "en:moment",
+      "forms": {
+        "plural": "momentos"
+      },
+      "examples": [
+        {
+          "es": "Un momento, por favor.",
+          "ru": "Минутку, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "es": "En este momento estoy en una reunión.",
+          "ru": "Сейчас я на встрече.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "problema",
+      "lemma": "problema",
+      "pos": "noun",
+      "rank": 22,
+      "gender": "m",
+      "translations": {
+        "ru": "проблема"
+      },
+      "pair": "en:problem",
+      "forms": {
+        "plural": "problemas"
+      },
+      "examples": [
+        {
+          "es": "Hay un problema con mi reserva.",
+          "ru": "С моей бронью проблема.",
+          "topic": "travel"
+        },
+        {
+          "es": "No hay problema, lo arreglo ahora.",
+          "ru": "Не проблема, сейчас исправлю.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Мужской род, хотя на -a: el problema"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hora",
+      "lemma": "hora",
+      "pos": "noun",
+      "rank": 23,
+      "gender": "f",
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "час; время"
+      },
+      "pair": "en:hour",
+      "forms": {
+        "plural": "horas"
+      },
+      "examples": [
+        {
+          "es": "¿A qué hora sale el tren?",
+          "ru": "Во сколько отправляется поезд?",
+          "topic": "travel"
+        },
+        {
+          "es": "La reunión dura una hora.",
+          "ru": "Встреча длится час.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mundo",
+      "lemma": "mundo",
+      "pos": "noun",
+      "rank": 24,
+      "gender": "m",
+      "translations": {
+        "ru": "мир, свет"
+      },
+      "pair": "en:world",
+      "forms": {
+        "plural": "mundos"
+      },
+      "examples": [
+        {
+          "es": "Quiero viajar por todo el mundo.",
+          "ru": "Хочу путешествовать по всему миру.",
+          "topic": "travel"
+        },
+        {
+          "es": "El primer programa imprime «Hola, mundo».",
+          "ru": "Первая программа печатает «Привет, мир».",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "lugar",
+      "lemma": "lugar",
+      "pos": "noun",
+      "rank": 25,
+      "gender": "m",
+      "translations": {
+        "ru": "место"
+      },
+      "pair": "en:place",
+      "forms": {
+        "plural": "lugares"
+      },
+      "examples": [
+        {
+          "es": "Es un lugar muy bonito.",
+          "ru": "Это очень красивое место.",
+          "topic": "travel"
+        },
+        {
+          "es": "Guarda el archivo en otro lugar.",
+          "ru": "Сохрани файл в другом месте.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "dinero",
+      "lemma": "dinero",
+      "pos": "noun",
+      "rank": 26,
+      "gender": "m",
+      "translations": {
+        "ru": "деньги"
+      },
+      "pair": "en:money",
+      "forms": {
+        "plural": "dineros"
+      },
+      "examples": [
+        {
+          "es": "No llevo mucho dinero en efectivo.",
+          "ru": "У меня с собой мало наличных.",
+          "topic": "travel"
+        },
+        {
+          "es": "El proyecto necesita más dinero.",
+          "ru": "Проекту нужно больше денег.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Единственное число: el dinero"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tipo",
+      "lemma": "tipo",
+      "pos": "noun",
+      "rank": 27,
+      "gender": "m",
+      "translations": {
+        "ru": "тип, вид; парень (разг.)"
+      },
+      "forms": {
+        "plural": "tipos"
+      },
+      "examples": [
+        {
+          "es": "¿Qué tipo de habitación quiere?",
+          "ru": "Какой тип номера вы хотите?",
+          "topic": "travel"
+        },
+        {
+          "es": "Este campo es de tipo texto.",
+          "ru": "Это поле текстового типа.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "persona",
+      "lemma": "persona",
+      "pos": "noun",
+      "rank": 28,
+      "gender": "f",
+      "translations": {
+        "ru": "человек, персона"
+      },
+      "pair": "en:person",
+      "forms": {
+        "plural": "personas"
+      },
+      "examples": [
+        {
+          "es": "Una mesa para cuatro personas, por favor.",
+          "ru": "Столик на четверых, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es la persona responsable del proyecto.",
+          "ru": "Это человек, отвечающий за проект.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "parte",
+      "lemma": "parte",
+      "pos": "noun",
+      "rank": 29,
+      "gender": "f",
+      "translations": {
+        "ru": "часть; сторона"
+      },
+      "pair": "en:part",
+      "forms": {
+        "plural": "partes"
+      },
+      "examples": [
+        {
+          "es": "¿De parte de quién?",
+          "ru": "Кто спрашивает?",
+          "topic": "daily"
+        },
+        {
+          "es": "Esta parte del código es nueva.",
+          "ru": "Эта часть кода новая.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mamá",
+      "lemma": "mamá",
+      "pos": "noun",
+      "rank": 30,
+      "gender": "f",
+      "translations": {
+        "ru": "мама"
+      },
+      "pair": "en:mother",
+      "forms": {
+        "plural": "mamás"
+      },
+      "examples": [
+        {
+          "es": "Llamo a mi mamá desde el aeropuerto.",
+          "ru": "Звоню маме из аэропорта.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mi mamá usa la app todos los días.",
+          "ru": "Моя мама пользуется приложением каждый день.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "nombre",
+      "lemma": "nombre",
+      "pos": "noun",
+      "rank": 31,
+      "gender": "m",
+      "translations": {
+        "ru": "имя; название"
+      },
+      "pair": "en:name-noun",
+      "forms": {
+        "plural": "nombres"
+      },
+      "examples": [
+        {
+          "es": "La reserva está a nombre de Ana.",
+          "ru": "Бронь на имя Анны.",
+          "topic": "travel"
+        },
+        {
+          "es": "Cambia el nombre de la variable.",
+          "ru": "Поменяй имя переменной.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "papá",
+      "lemma": "papá",
+      "pos": "noun",
+      "rank": 32,
+      "gender": "m",
+      "translations": {
+        "ru": "папа"
+      },
+      "pair": "en:dad",
+      "forms": {
+        "plural": "papás"
+      },
+      "examples": [
+        {
+          "es": "Mi papá nos recoge en la estación.",
+          "ru": "Папа встречает нас на вокзале.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mi papá no entiende qué hago en el trabajo.",
+          "ru": "Папа не понимает, чем я занимаюсь на работе.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "niño",
+      "lemma": "niño",
+      "pos": "noun",
+      "rank": 33,
+      "gender": "m",
+      "rules": [
+        "es-n-tilde"
+      ],
+      "translations": {
+        "ru": "ребёнок, мальчик"
+      },
+      "pair": "en:boy",
+      "forms": {
+        "plural": "niños"
+      },
+      "examples": [
+        {
+          "es": "¿Hay descuento para niños?",
+          "ru": "Есть скидка для детей?",
+          "topic": "travel"
+        },
+        {
+          "es": "Los niños juegan en el parque.",
+          "ru": "Дети играют в парке.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mano",
+      "lemma": "mano",
+      "pos": "noun",
+      "rank": 34,
+      "gender": "f",
+      "translations": {
+        "ru": "рука (кисть)"
+      },
+      "pair": "en:hand",
+      "forms": {
+        "plural": "manos"
+      },
+      "examples": [
+        {
+          "es": "Lávate las manos antes de comer.",
+          "ru": "Помой руки перед едой.",
+          "topic": "daily"
+        },
+        {
+          "es": "¿Me echas una mano con la instalación?",
+          "ru": "Поможешь мне с установкой?",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Женский род, хотя на -o: la mano"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "razón",
+      "lemma": "razón",
+      "pos": "noun",
+      "rank": 35,
+      "gender": "f",
+      "rules": [
+        "es-z"
+      ],
+      "translations": {
+        "ru": "причина; tener razón — быть правым"
+      },
+      "pair": "en:reason",
+      "forms": {
+        "plural": "razones"
+      },
+      "examples": [
+        {
+          "es": "Tienes razón, el museo cierra los lunes.",
+          "ru": "Ты прав, музей закрыт по понедельникам.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Cuál es la razón del error?",
+          "ru": "В чём причина ошибки?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "idea",
+      "lemma": "idea",
+      "pos": "noun",
+      "rank": 36,
+      "gender": "f",
+      "translations": {
+        "ru": "идея"
+      },
+      "pair": "en:idea",
+      "forms": {
+        "plural": "ideas"
+      },
+      "examples": [
+        {
+          "es": "Es buena idea comprar los billetes antes.",
+          "ru": "Хорошая идея купить билеты заранее.",
+          "topic": "travel"
+        },
+        {
+          "es": "No tengo ni idea de por qué falla.",
+          "ru": "Понятия не имею, почему падает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "policía",
+      "lemma": "policía",
+      "pos": "noun",
+      "rank": 37,
+      "gender": "mf",
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "полиция; полицейский"
+      },
+      "pair": "en:police",
+      "forms": {
+        "plural": "policías"
+      },
+      "examples": [
+        {
+          "es": "Llama a la policía, me han robado.",
+          "ru": "Вызови полицию, меня обокрали.",
+          "topic": "travel"
+        },
+        {
+          "es": "El policía nos indicó el camino.",
+          "ru": "Полицейский показал нам дорогу.",
+          "topic": "travel"
+        }
+      ],
+      "note": {
+        "ru": "la policía — полиция; el/la policía — полицейский"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "semana",
+      "lemma": "semana",
+      "pos": "noun",
+      "rank": 38,
+      "gender": "f",
+      "translations": {
+        "ru": "неделя"
+      },
+      "pair": "en:week",
+      "forms": {
+        "plural": "semanas"
+      },
+      "examples": [
+        {
+          "es": "Estamos aquí una semana.",
+          "ru": "Мы здесь на неделю.",
+          "topic": "travel"
+        },
+        {
+          "es": "El sprint dura dos semanas.",
+          "ru": "Спринт длится две недели.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "minuto",
+      "lemma": "minuto",
+      "pos": "noun",
+      "rank": 39,
+      "gender": "m",
+      "translations": {
+        "ru": "минута"
+      },
+      "pair": "en:minute",
+      "forms": {
+        "plural": "minutos"
+      },
+      "examples": [
+        {
+          "es": "El autobús llega en cinco minutos.",
+          "ru": "Автобус придёт через пять минут.",
+          "topic": "travel"
+        },
+        {
+          "es": "Dame un minuto, termino esto.",
+          "ru": "Дай минуту, закончу это.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hermano",
+      "lemma": "hermano",
+      "pos": "noun",
+      "rank": 40,
+      "gender": "m",
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "брат; hermanos — братья и сёстры"
+      },
+      "pair": "en:brother",
+      "forms": {
+        "plural": "hermanos"
+      },
+      "examples": [
+        {
+          "es": "Mi hermano vive en Buenos Aires.",
+          "ru": "Мой брат живёт в Буэнос-Айресе.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Tienes hermanos?",
+          "ru": "У тебя есть братья или сёстры?",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "familia",
+      "lemma": "familia",
+      "pos": "noun",
+      "rank": 41,
+      "gender": "f",
+      "translations": {
+        "ru": "семья"
+      },
+      "pair": "en:family",
+      "forms": {
+        "plural": "familias"
+      },
+      "examples": [
+        {
+          "es": "Viajamos en familia.",
+          "ru": "Мы путешествуем всей семьёй.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mi familia usa la misma app.",
+          "ru": "Моя семья пользуется тем же приложением.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "amor",
+      "lemma": "amor",
+      "pos": "noun",
+      "rank": 42,
+      "gender": "m",
+      "translations": {
+        "ru": "любовь"
+      },
+      "pair": "en:love-noun",
+      "forms": {
+        "plural": "amores"
+      },
+      "examples": [
+        {
+          "es": "Es una canción de amor.",
+          "ru": "Это песня о любви.",
+          "topic": "daily"
+        },
+        {
+          "es": "¡Hola, amor! Ya estoy en el hotel.",
+          "ru": "Привет, любимый! Я уже в отеле.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "forma",
+      "lemma": "forma",
+      "pos": "noun",
+      "rank": 43,
+      "gender": "f",
+      "translations": {
+        "ru": "форма; способ"
+      },
+      "forms": {
+        "plural": "formas"
+      },
+      "examples": [
+        {
+          "es": "¿Cuál es la mejor forma de llegar al centro?",
+          "ru": "Как лучше добраться до центра?",
+          "topic": "travel"
+        },
+        {
+          "es": "Rellena el formulario de esta forma.",
+          "ru": "Заполни форму вот так.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "chico",
+      "lemma": "chico",
+      "pos": "noun",
+      "rank": 44,
+      "gender": "m",
+      "translations": {
+        "ru": "парень, мальчик"
+      },
+      "pair": "en:guy",
+      "forms": {
+        "plural": "chicos"
+      },
+      "examples": [
+        {
+          "es": "El chico del bar habla ruso.",
+          "ru": "Парень в баре говорит по-русски.",
+          "topic": "travel"
+        },
+        {
+          "es": "Los chicos del equipo son muy buenos.",
+          "ru": "Ребята из команды очень хорошие.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cabeza",
+      "lemma": "cabeza",
+      "pos": "noun",
+      "rank": 45,
+      "gender": "f",
+      "rules": [
+        "es-z"
+      ],
+      "translations": {
+        "ru": "голова"
+      },
+      "pair": "en:head-noun",
+      "forms": {
+        "plural": "cabezas"
+      },
+      "examples": [
+        {
+          "es": "Me duele la cabeza después del vuelo.",
+          "ru": "После перелёта у меня болит голова.",
+          "topic": "travel"
+        },
+        {
+          "es": "Tengo la cabeza llena de tareas.",
+          "ru": "Голова забита задачами.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "caso",
+      "lemma": "caso",
+      "pos": "noun",
+      "rank": 46,
+      "gender": "m",
+      "translations": {
+        "ru": "случай; дело"
+      },
+      "pair": "en:case",
+      "forms": {
+        "plural": "casos"
+      },
+      "examples": [
+        {
+          "es": "En caso de emergencia, llame al 112.",
+          "ru": "В экстренном случае звоните 112.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es un caso raro, no pasa siempre.",
+          "ru": "Это редкий случай, бывает не всегда.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "lado",
+      "lemma": "lado",
+      "pos": "noun",
+      "rank": 47,
+      "gender": "m",
+      "translations": {
+        "ru": "сторона, бок"
+      },
+      "pair": "en:side",
+      "forms": {
+        "plural": "lados"
+      },
+      "examples": [
+        {
+          "es": "La farmacia está al lado del hotel.",
+          "ru": "Аптека рядом с отелем.",
+          "topic": "travel"
+        },
+        {
+          "es": "El error está del lado del servidor.",
+          "ru": "Ошибка на стороне сервера.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "señora",
+      "lemma": "señora",
+      "pos": "noun",
+      "rank": 48,
+      "gender": "f",
+      "rules": [
+        "es-n-tilde"
+      ],
+      "translations": {
+        "ru": "госпожа, сеньора; женщина"
+      },
+      "forms": {
+        "plural": "señoras"
+      },
+      "examples": [
+        {
+          "es": "Buenos días, señora.",
+          "ru": "Добрый день, сеньора.",
+          "topic": "travel"
+        },
+        {
+          "es": "La señora López es la jefa del equipo.",
+          "ru": "Сеньора Лопес — руководитель команды.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "historia",
+      "lemma": "historia",
+      "pos": "noun",
+      "rank": 49,
+      "gender": "f",
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "история; рассказ"
+      },
+      "pair": "en:story",
+      "forms": {
+        "plural": "historias"
+      },
+      "examples": [
+        {
+          "es": "El museo de historia está cerca.",
+          "ru": "Исторический музей рядом.",
+          "topic": "travel"
+        },
+        {
+          "es": "Me encanta la historia de esta ciudad.",
+          "ru": "Обожаю историю этого города.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "puerta",
+      "lemma": "puerta",
+      "pos": "noun",
+      "rank": 50,
+      "gender": "f",
+      "translations": {
+        "ru": "дверь; выход (в аэропорту)"
+      },
+      "pair": "en:door",
+      "forms": {
+        "plural": "puertas"
+      },
+      "examples": [
+        {
+          "es": "El embarque es por la puerta doce.",
+          "ru": "Посадка через выход двенадцать.",
+          "topic": "travel"
+        },
+        {
+          "es": "Cierra la puerta, por favor.",
+          "ru": "Закрой дверь, пожалуйста.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cariño",
+      "lemma": "cariño",
+      "pos": "noun",
+      "rank": 51,
+      "gender": "m",
+      "rules": [
+        "es-n-tilde"
+      ],
+      "translations": {
+        "ru": "нежность, любовь; дорогой/дорогая (обращение)"
+      },
+      "forms": {
+        "plural": "cariños"
+      },
+      "examples": [
+        {
+          "es": "Cariño, ¿dónde están los pasaportes?",
+          "ru": "Дорогой, где паспорта?",
+          "topic": "travel"
+        },
+        {
+          "es": "Le tengo mucho cariño a esta ciudad.",
+          "ru": "Я очень люблю этот город.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "manera",
+      "lemma": "manera",
+      "pos": "noun",
+      "rank": 52,
+      "gender": "f",
+      "translations": {
+        "ru": "способ, манера"
+      },
+      "forms": {
+        "plural": "maneras"
+      },
+      "examples": [
+        {
+          "es": "No hay manera de abrir la maleta.",
+          "ru": "Никак не открыть чемодан.",
+          "topic": "travel"
+        },
+        {
+          "es": "Hay otra manera de hacerlo.",
+          "ru": "Есть другой способ это сделать.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "camino",
+      "lemma": "camino",
+      "pos": "noun",
+      "rank": 53,
+      "gender": "m",
+      "translations": {
+        "ru": "дорога, путь"
+      },
+      "pair": "en:way",
+      "forms": {
+        "plural": "caminos"
+      },
+      "examples": [
+        {
+          "es": "¿Es este el camino al castillo?",
+          "ru": "Это дорога к замку?",
+          "topic": "travel"
+        },
+        {
+          "es": "Estoy en camino, llego en diez minutos.",
+          "ru": "Я в пути, буду через десять минут.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ayuda",
+      "lemma": "ayuda",
+      "pos": "noun",
+      "rank": 54,
+      "gender": "f",
+      "translations": {
+        "ru": "помощь"
+      },
+      "forms": {
+        "plural": "ayudas"
+      },
+      "examples": [
+        {
+          "es": "Necesito ayuda con el equipaje.",
+          "ru": "Мне нужна помощь с багажом.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mira la ayuda del programa.",
+          "ru": "Посмотри справку программы.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ojo",
+      "lemma": "ojo",
+      "pos": "noun",
+      "rank": 55,
+      "gender": "m",
+      "translations": {
+        "ru": "глаз; ¡ojo! — внимание!"
+      },
+      "pair": "en:eye",
+      "forms": {
+        "plural": "ojos"
+      },
+      "examples": [
+        {
+          "es": "Ojo con la cartera en el metro.",
+          "ru": "Осторожно с кошельком в метро.",
+          "topic": "travel"
+        },
+        {
+          "es": "Tiene los ojos azules.",
+          "ru": "У него голубые глаза.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tío",
+      "lemma": "tío",
+      "pos": "noun",
+      "rank": 56,
+      "gender": "m",
+      "translations": {
+        "ru": "дядя; чувак (разг., Испания)"
+      },
+      "forms": {
+        "plural": "tíos"
+      },
+      "examples": [
+        {
+          "es": "Mi tío vive en Sevilla.",
+          "ru": "Мой дядя живёт в Севилье.",
+          "topic": "travel"
+        },
+        {
+          "es": "¡Tío, el código funciona!",
+          "ru": "Чувак, код работает!",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mes",
+      "lemma": "mes",
+      "pos": "noun",
+      "rank": 57,
+      "gender": "m",
+      "translations": {
+        "ru": "месяц"
+      },
+      "pair": "en:month",
+      "forms": {
+        "plural": "meses"
+      },
+      "examples": [
+        {
+          "es": "Me quedo un mes en Lisboa.",
+          "ru": "Я остаюсь в Лиссабоне на месяц.",
+          "topic": "travel"
+        },
+        {
+          "es": "Pagamos el servidor cada mes.",
+          "ru": "Мы платим за сервер каждый месяц.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "palabra",
+      "lemma": "palabra",
+      "pos": "noun",
+      "rank": 58,
+      "gender": "f",
+      "translations": {
+        "ru": "слово"
+      },
+      "pair": "en:word",
+      "forms": {
+        "plural": "palabras"
+      },
+      "examples": [
+        {
+          "es": "¿Cómo se pronuncia esta palabra?",
+          "ru": "Как произносится это слово?",
+          "topic": "travel"
+        },
+        {
+          "es": "La contraseña no puede ser una palabra simple.",
+          "ru": "Пароль не может быть простым словом.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "arma",
+      "lemma": "arma",
+      "pos": "noun",
+      "rank": 59,
+      "gender": "f",
+      "translations": {
+        "ru": "оружие"
+      },
+      "forms": {
+        "plural": "armas"
+      },
+      "examples": [
+        {
+          "es": "No se permiten armas en el avión.",
+          "ru": "В самолёте запрещено оружие.",
+          "topic": "travel"
+        },
+        {
+          "es": "La paciencia es tu mejor arma.",
+          "ru": "Терпение — твоё лучшее оружие.",
+          "topic": "daily"
+        }
+      ],
+      "note": {
+        "ru": "el arma (мужской артикль перед ударной a-), но las armas"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "jefe",
+      "lemma": "jefe",
+      "pos": "noun",
+      "rank": 60,
+      "gender": "m",
+      "translations": {
+        "ru": "начальник, шеф"
+      },
+      "forms": {
+        "plural": "jefes"
+      },
+      "examples": [
+        {
+          "es": "Mi jefe me dio el viernes libre.",
+          "ru": "Начальник дал мне выходной в пятницу.",
+          "topic": "it"
+        },
+        {
+          "es": "El jefe de cocina recomienda el pescado.",
+          "ru": "Шеф-повар рекомендует рыбу.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hija",
+      "lemma": "hija",
+      "pos": "noun",
+      "rank": 61,
+      "gender": "f",
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "дочь"
+      },
+      "pair": "en:daughter",
+      "forms": {
+        "plural": "hijas"
+      },
+      "examples": [
+        {
+          "es": "Mi hija estudia en Madrid.",
+          "ru": "Моя дочь учится в Мадриде.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mi hija quiere ser programadora.",
+          "ru": "Моя дочь хочет стать программистом.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ciudad",
+      "lemma": "ciudad",
+      "pos": "noun",
+      "rank": 62,
+      "gender": "f",
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "город"
+      },
+      "pair": "en:city",
+      "forms": {
+        "plural": "ciudades"
+      },
+      "examples": [
+        {
+          "es": "¿Qué ver en la ciudad en un día?",
+          "ru": "Что посмотреть в городе за день?",
+          "topic": "travel"
+        },
+        {
+          "es": "Trabajo en una empresa de la ciudad.",
+          "ru": "Я работаю в городской компании.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "corazón",
+      "lemma": "corazón",
+      "pos": "noun",
+      "rank": 63,
+      "gender": "m",
+      "rules": [
+        "es-z"
+      ],
+      "translations": {
+        "ru": "сердце"
+      },
+      "pair": "en:heart",
+      "forms": {
+        "plural": "corazones"
+      },
+      "examples": [
+        {
+          "es": "Madrid está en el corazón de España.",
+          "ru": "Мадрид — в сердце Испании.",
+          "topic": "travel"
+        },
+        {
+          "es": "Te lo digo de corazón.",
+          "ru": "Говорю тебе от всего сердца.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "muerte",
+      "lemma": "muerte",
+      "pos": "noun",
+      "rank": 64,
+      "gender": "f",
+      "translations": {
+        "ru": "смерть"
+      },
+      "pair": "en:death",
+      "forms": {
+        "plural": "muertes"
+      },
+      "examples": [
+        {
+          "es": "El museo cuenta la vida y muerte del pintor.",
+          "ru": "Музей рассказывает о жизни и смерти художника.",
+          "topic": "travel"
+        },
+        {
+          "es": "Me aburro a muerte en esta reunión.",
+          "ru": "Смертельно скучаю на этой встрече.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "suerte",
+      "lemma": "suerte",
+      "pos": "noun",
+      "rank": 65,
+      "gender": "f",
+      "translations": {
+        "ru": "удача; ¡suerte! — удачи!"
+      },
+      "forms": {
+        "plural": "suertes"
+      },
+      "examples": [
+        {
+          "es": "¡Buena suerte con el viaje!",
+          "ru": "Удачи в поездке!",
+          "topic": "travel"
+        },
+        {
+          "es": "Tuvimos suerte, el error era fácil.",
+          "ru": "Нам повезло, ошибка была простой.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "punto",
+      "lemma": "punto",
+      "pos": "noun",
+      "rank": 66,
+      "gender": "m",
+      "translations": {
+        "ru": "точка; пункт"
+      },
+      "pair": "en:point",
+      "forms": {
+        "plural": "puntos"
+      },
+      "examples": [
+        {
+          "es": "El punto de encuentro es la plaza.",
+          "ru": "Место встречи — площадь.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mi correo es ana punto garcía arroba mail punto com.",
+          "ru": "Моя почта: ana точка garcia собака mail точка com.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "agua",
+      "lemma": "agua",
+      "pos": "noun",
+      "rank": 67,
+      "gender": "f",
+      "translations": {
+        "ru": "вода"
+      },
+      "pair": "en:water",
+      "forms": {
+        "plural": "aguas"
+      },
+      "examples": [
+        {
+          "es": "Una botella de agua, por favor.",
+          "ru": "Бутылку воды, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "es": "No pongas el agua cerca del portátil.",
+          "ru": "Не ставь воду рядом с ноутбуком.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "el agua (мужской артикль перед ударной a-), но el agua fría"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "esposa",
+      "lemma": "esposa",
+      "pos": "noun",
+      "rank": 68,
+      "gender": "f",
+      "translations": {
+        "ru": "жена, супруга"
+      },
+      "pair": "en:wife",
+      "forms": {
+        "plural": "esposas"
+      },
+      "examples": [
+        {
+          "es": "Viajo con mi esposa.",
+          "ru": "Я путешествую с женой.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mi esposa también trabaja en remoto.",
+          "ru": "Моя жена тоже работает удалённо.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "clase",
+      "lemma": "clase",
+      "pos": "noun",
+      "rank": 69,
+      "gender": "f",
+      "translations": {
+        "ru": "класс; урок, занятие"
+      },
+      "forms": {
+        "plural": "clases"
+      },
+      "examples": [
+        {
+          "es": "Un billete en clase turista, por favor.",
+          "ru": "Билет эконом-класса, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "es": "Tengo clase de español a las siete.",
+          "ru": "У меня урок испанского в семь.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cara",
+      "lemma": "cara",
+      "pos": "noun",
+      "rank": 70,
+      "gender": "f",
+      "translations": {
+        "ru": "лицо"
+      },
+      "forms": {
+        "plural": "caras"
+      },
+      "examples": [
+        {
+          "es": "Tienes cara de cansado.",
+          "ru": "У тебя усталый вид.",
+          "topic": "daily"
+        },
+        {
+          "es": "Prefiero hablar cara a cara.",
+          "ru": "Предпочитаю говорить лицом к лицу.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "realidad",
+      "lemma": "realidad",
+      "pos": "noun",
+      "rank": 71,
+      "gender": "f",
+      "translations": {
+        "ru": "реальность, действительность"
+      },
+      "forms": {
+        "plural": "realidades"
+      },
+      "examples": [
+        {
+          "es": "En realidad, el hotel está lejos del centro.",
+          "ru": "На самом деле отель далеко от центра.",
+          "topic": "travel"
+        },
+        {
+          "es": "Probamos gafas de realidad virtual.",
+          "ru": "Мы попробовали очки виртуальной реальности.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "miedo",
+      "lemma": "miedo",
+      "pos": "noun",
+      "rank": 72,
+      "gender": "m",
+      "translations": {
+        "ru": "страх"
+      },
+      "forms": {
+        "plural": "miedos"
+      },
+      "examples": [
+        {
+          "es": "Tengo miedo de volar.",
+          "ru": "Я боюсь летать.",
+          "topic": "travel"
+        },
+        {
+          "es": "No tengas miedo de preguntar.",
+          "ru": "Не бойся спрашивать.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "equipo",
+      "lemma": "equipo",
+      "pos": "noun",
+      "rank": 73,
+      "gender": "m",
+      "rules": [
+        "es-qu"
+      ],
+      "translations": {
+        "ru": "команда; оборудование"
+      },
+      "pair": "en:team",
+      "forms": {
+        "plural": "equipos"
+      },
+      "examples": [
+        {
+          "es": "Nuestro equipo trabaja en tres países.",
+          "ru": "Наша команда работает в трёх странах.",
+          "topic": "it"
+        },
+        {
+          "es": "¿Dónde puedo dejar el equipo de esquí?",
+          "ru": "Где можно оставить лыжное снаряжение?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "coche",
+      "lemma": "coche",
+      "pos": "noun",
+      "rank": 74,
+      "gender": "m",
+      "translations": {
+        "ru": "машина, автомобиль (Испания)"
+      },
+      "pair": "en:car",
+      "forms": {
+        "plural": "coches"
+      },
+      "examples": [
+        {
+          "es": "Alquilamos un coche en el aeropuerto.",
+          "ru": "Мы взяли машину напрокат в аэропорту.",
+          "topic": "travel"
+        },
+        {
+          "es": "Voy a la oficina en coche.",
+          "ru": "Я езжу в офис на машине.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "juego",
+      "lemma": "juego",
+      "pos": "noun",
+      "rank": 75,
+      "gender": "m",
+      "translations": {
+        "ru": "игра"
+      },
+      "pair": "en:game",
+      "forms": {
+        "plural": "juegos"
+      },
+      "examples": [
+        {
+          "es": "Compré un juego para el viaje.",
+          "ru": "Я купил игру в дорогу.",
+          "topic": "travel"
+        },
+        {
+          "es": "Trabaja en un estudio de juegos.",
+          "ru": "Он работает в студии игр.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fin",
+      "lemma": "fin",
+      "pos": "noun",
+      "rank": 76,
+      "gender": "m",
+      "translations": {
+        "ru": "конец; fin de semana — выходные"
+      },
+      "pair": "en:end-noun",
+      "forms": {
+        "plural": "fines"
+      },
+      "examples": [
+        {
+          "es": "¿Qué hacemos el fin de semana?",
+          "ru": "Что будем делать на выходных?",
+          "topic": "travel"
+        },
+        {
+          "es": "Por fin funciona.",
+          "ru": "Наконец-то работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cuerpo",
+      "lemma": "cuerpo",
+      "pos": "noun",
+      "rank": 77,
+      "gender": "m",
+      "translations": {
+        "ru": "тело"
+      },
+      "pair": "en:body",
+      "forms": {
+        "plural": "cuerpos"
+      },
+      "examples": [
+        {
+          "es": "Me duele todo el cuerpo después de la excursión.",
+          "ru": "После экскурсии болит всё тело.",
+          "topic": "travel"
+        },
+        {
+          "es": "El cuerpo del mensaje está vacío.",
+          "ru": "Тело сообщения пустое.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "vuelta",
+      "lemma": "vuelta",
+      "pos": "noun",
+      "rank": 78,
+      "gender": "f",
+      "translations": {
+        "ru": "возвращение; круг; сдача"
+      },
+      "forms": {
+        "plural": "vueltas"
+      },
+      "examples": [
+        {
+          "es": "Un billete de ida y vuelta, por favor.",
+          "ru": "Билет туда и обратно, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "es": "Quédese con la vuelta.",
+          "ru": "Сдачи не надо.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tierra",
+      "lemma": "tierra",
+      "pos": "noun",
+      "rank": 79,
+      "gender": "f",
+      "translations": {
+        "ru": "земля"
+      },
+      "forms": {
+        "plural": "tierras"
+      },
+      "examples": [
+        {
+          "es": "El avión ya está en tierra.",
+          "ru": "Самолёт уже на земле.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es la tierra de mis abuelos.",
+          "ru": "Это земля моих бабушки и дедушки.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "doctor",
+      "lemma": "doctor",
+      "pos": "noun",
+      "rank": 80,
+      "gender": "m",
+      "translations": {
+        "ru": "доктор, врач"
+      },
+      "pair": "en:doctor",
+      "forms": {
+        "plural": "doctores"
+      },
+      "examples": [
+        {
+          "es": "Necesito un doctor, me siento mal.",
+          "ru": "Мне нужен врач, мне плохо.",
+          "topic": "travel"
+        },
+        {
+          "es": "El doctor me dio una receta.",
+          "ru": "Врач выписал мне рецепт.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "número",
+      "lemma": "número",
+      "pos": "noun",
+      "rank": 81,
+      "gender": "m",
+      "translations": {
+        "ru": "номер; число"
+      },
+      "pair": "en:number",
+      "forms": {
+        "plural": "números"
+      },
+      "examples": [
+        {
+          "es": "¿Cuál es el número de tu habitación?",
+          "ru": "Какой номер твоей комнаты?",
+          "topic": "travel"
+        },
+        {
+          "es": "Introduce solo números en este campo.",
+          "ru": "Вводи в это поле только цифры.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "prueba",
+      "lemma": "prueba",
+      "pos": "noun",
+      "rank": 82,
+      "gender": "f",
+      "translations": {
+        "ru": "проба, тест; доказательство"
+      },
+      "forms": {
+        "plural": "pruebas"
+      },
+      "examples": [
+        {
+          "es": "Hacemos pruebas antes de cada versión.",
+          "ru": "Мы проводим тесты перед каждой версией.",
+          "topic": "it"
+        },
+        {
+          "es": "¿Puedo hacer una prueba de este vino?",
+          "ru": "Можно попробовать это вино?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "joven",
+      "lemma": "joven",
+      "pos": "noun",
+      "rank": 83,
+      "gender": "mf",
+      "translations": {
+        "ru": "молодой человек, юноша, девушка"
+      },
+      "pair": "en:young",
+      "forms": {
+        "plural": "jóvenes"
+      },
+      "examples": [
+        {
+          "es": "El albergue es para jóvenes.",
+          "ru": "Хостел для молодёжи.",
+          "topic": "travel"
+        },
+        {
+          "es": "Un joven nos ayudó con el mapa.",
+          "ru": "Молодой человек помог нам с картой.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hermana",
+      "lemma": "hermana",
+      "pos": "noun",
+      "rank": 84,
+      "gender": "f",
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "сестра"
+      },
+      "pair": "en:sister",
+      "forms": {
+        "plural": "hermanas"
+      },
+      "examples": [
+        {
+          "es": "Mi hermana nos visita en verano.",
+          "ru": "Летом к нам приезжает сестра.",
+          "topic": "travel"
+        },
+        {
+          "es": "Mi hermana es diseñadora web.",
+          "ru": "Моя сестра — веб-дизайнер.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fiesta",
+      "lemma": "fiesta",
+      "pos": "noun",
+      "rank": 85,
+      "gender": "f",
+      "translations": {
+        "ru": "праздник, вечеринка"
+      },
+      "pair": "en:party",
+      "forms": {
+        "plural": "fiestas"
+      },
+      "examples": [
+        {
+          "es": "Hoy es fiesta y las tiendas están cerradas.",
+          "ru": "Сегодня праздник, и магазины закрыты.",
+          "topic": "travel"
+        },
+        {
+          "es": "Hacemos una fiesta para el lanzamiento.",
+          "ru": "Устраиваем вечеринку по случаю запуска.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "auto",
+      "lemma": "auto",
+      "pos": "noun",
+      "rank": 86,
+      "gender": "m",
+      "translations": {
+        "ru": "машина, автомобиль (Латинская Америка)"
+      },
+      "forms": {
+        "plural": "autos"
+      },
+      "examples": [
+        {
+          "es": "En México alquilamos un auto.",
+          "ru": "В Мексике мы взяли машину.",
+          "topic": "travel"
+        },
+        {
+          "es": "El auto eléctrico tiene mucho software.",
+          "ru": "В электромобиле много софта.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "guerra",
+      "lemma": "guerra",
+      "pos": "noun",
+      "rank": 87,
+      "gender": "f",
+      "translations": {
+        "ru": "война"
+      },
+      "pair": "en:war",
+      "forms": {
+        "plural": "guerras"
+      },
+      "examples": [
+        {
+          "es": "Visitamos un museo sobre la guerra civil.",
+          "ru": "Мы посетили музей гражданской войны.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es una guerra de precios entre las aerolíneas.",
+          "ru": "Между авиакомпаниями ценовая война.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "oportunidad",
+      "lemma": "oportunidad",
+      "pos": "noun",
+      "rank": 88,
+      "gender": "f",
+      "translations": {
+        "ru": "возможность, шанс"
+      },
+      "pair": "en:chance",
+      "forms": {
+        "plural": "oportunidades"
+      },
+      "examples": [
+        {
+          "es": "Es una oportunidad de ver la ciudad.",
+          "ru": "Это возможность увидеть город.",
+          "topic": "travel"
+        },
+        {
+          "es": "Tengo una oportunidad de trabajo en Madrid.",
+          "ru": "У меня есть шанс получить работу в Мадриде.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "teléfono",
+      "lemma": "teléfono",
+      "pos": "noun",
+      "rank": 89,
+      "gender": "m",
+      "translations": {
+        "ru": "телефон"
+      },
+      "pair": "en:phone",
+      "forms": {
+        "plural": "teléfonos"
+      },
+      "examples": [
+        {
+          "es": "¿Me da su número de teléfono?",
+          "ru": "Дадите свой номер телефона?",
+          "topic": "travel"
+        },
+        {
+          "es": "La app funciona en el teléfono y en la web.",
+          "ru": "Приложение работает на телефоне и в браузере.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "bebé",
+      "lemma": "bebé",
+      "pos": "noun",
+      "rank": 90,
+      "gender": "mf",
+      "translations": {
+        "ru": "младенец, малыш"
+      },
+      "pair": "en:baby",
+      "forms": {
+        "plural": "bebés"
+      },
+      "examples": [
+        {
+          "es": "¿Tienen una cuna para el bebé?",
+          "ru": "У вас есть кроватка для малыша?",
+          "topic": "travel"
+        },
+        {
+          "es": "El bebé duerme en el avión.",
+          "ru": "Малыш спит в самолёте.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "sangre",
+      "lemma": "sangre",
+      "pos": "noun",
+      "rank": 91,
+      "gender": "f",
+      "translations": {
+        "ru": "кровь"
+      },
+      "pair": "en:blood",
+      "forms": {
+        "plural": "sangres"
+      },
+      "examples": [
+        {
+          "es": "Me sale sangre de la nariz.",
+          "ru": "У меня идёт кровь из носа.",
+          "topic": "travel"
+        },
+        {
+          "es": "El flamenco lo lleva en la sangre.",
+          "ru": "Фламенко у него в крови.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "luz",
+      "lemma": "luz",
+      "pos": "noun",
+      "rank": 92,
+      "gender": "f",
+      "rules": [
+        "es-z"
+      ],
+      "translations": {
+        "ru": "свет"
+      },
+      "pair": "en:light",
+      "forms": {
+        "plural": "luces"
+      },
+      "examples": [
+        {
+          "es": "No hay luz en la habitación.",
+          "ru": "В номере нет света.",
+          "topic": "travel"
+        },
+        {
+          "es": "Apaga la luz al salir.",
+          "ru": "Выключай свет, когда уходишь.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "muchacho",
+      "lemma": "muchacho",
+      "pos": "noun",
+      "rank": 93,
+      "gender": "m",
+      "translations": {
+        "ru": "парень, юноша"
+      },
+      "forms": {
+        "plural": "muchachos"
+      },
+      "examples": [
+        {
+          "es": "Un muchacho nos ayudó con las maletas.",
+          "ru": "Парень помог нам с чемоданами.",
+          "topic": "travel"
+        },
+        {
+          "es": "Los muchachos del equipo son nuevos.",
+          "ru": "Ребята в команде новые.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "plan",
+      "lemma": "plan",
+      "pos": "noun",
+      "rank": 94,
+      "gender": "m",
+      "translations": {
+        "ru": "план"
+      },
+      "pair": "en:plan-noun",
+      "forms": {
+        "plural": "planes"
+      },
+      "examples": [
+        {
+          "es": "¿Cuál es el plan para mañana?",
+          "ru": "Какой план на завтра?",
+          "topic": "travel"
+        },
+        {
+          "es": "Cambiamos el plan del proyecto.",
+          "ru": "Мы поменяли план проекта.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "escuela",
+      "lemma": "escuela",
+      "pos": "noun",
+      "rank": 95,
+      "gender": "f",
+      "translations": {
+        "ru": "школа"
+      },
+      "pair": "en:school",
+      "forms": {
+        "plural": "escuelas"
+      },
+      "examples": [
+        {
+          "es": "Hay una escuela de español en el centro.",
+          "ru": "В центре есть школа испанского.",
+          "topic": "travel"
+        },
+        {
+          "es": "Los niños van a la escuela a las nueve.",
+          "ru": "Дети идут в школу к девяти.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "habitación",
+      "lemma": "habitación",
+      "pos": "noun",
+      "rank": 96,
+      "gender": "f",
+      "rules": [
+        "es-c-before-e-i",
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "комната; номер (в отеле)"
+      },
+      "pair": "en:room",
+      "forms": {
+        "plural": "habitaciones"
+      },
+      "examples": [
+        {
+          "es": "Quiero una habitación doble.",
+          "ru": "Я хочу двухместный номер.",
+          "topic": "travel"
+        },
+        {
+          "es": "Trabajo en mi habitación.",
+          "ru": "Я работаю в своей комнате.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "libro",
+      "lemma": "libro",
+      "pos": "noun",
+      "rank": 97,
+      "gender": "m",
+      "translations": {
+        "ru": "книга"
+      },
+      "forms": {
+        "plural": "libros"
+      },
+      "examples": [
+        {
+          "es": "Leo un libro en el tren.",
+          "ru": "Я читаю книгу в поезде.",
+          "topic": "travel"
+        },
+        {
+          "es": "Es un buen libro sobre algoritmos.",
+          "ru": "Это хорошая книга об алгоритмах.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "culpa",
+      "lemma": "culpa",
+      "pos": "noun",
+      "rank": 98,
+      "gender": "f",
+      "translations": {
+        "ru": "вина"
+      },
+      "forms": {
+        "plural": "culpas"
+      },
+      "examples": [
+        {
+          "es": "No es culpa tuya, el vuelo se retrasó.",
+          "ru": "Это не твоя вина, рейс задержали.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿De quién es la culpa del error?",
+          "ru": "Чья вина в ошибке?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "medio",
+      "lemma": "medio",
+      "pos": "noun",
+      "rank": 99,
+      "gender": "m",
+      "translations": {
+        "ru": "середина; средство"
+      },
+      "forms": {
+        "plural": "medios"
+      },
+      "examples": [
+        {
+          "es": "El hotel está en medio del centro.",
+          "ru": "Отель в самом центре.",
+          "topic": "travel"
+        },
+        {
+          "es": "¿Qué medio de pago aceptan?",
+          "ru": "Какой способ оплаты вы принимаете?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "demonio",
+      "lemma": "demonio",
+      "pos": "noun",
+      "rank": 100,
+      "gender": "m",
+      "translations": {
+        "ru": "демон, дьявол; демон (фоновый процесс)"
+      },
+      "forms": {
+        "plural": "demonios"
+      },
+      "examples": [
+        {
+          "es": "El demonio de la base de datos no arranca.",
+          "ru": "Демон базы данных не запускается.",
+          "topic": "it"
+        },
+        {
+          "es": "¿Qué demonios pasa aquí?",
+          "ru": "Что здесь, чёрт возьми, происходит?",
+          "topic": "daily"
+        }
+      ],
+      "note": {
+        "ru": "В IT: proceso demonio — служба, фоновый процесс"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "calle",
+      "lemma": "calle",
+      "pos": "noun",
+      "rank": 115,
+      "gender": "f",
+      "translations": {
+        "ru": "улица"
+      },
+      "forms": {
+        "plural": "calles"
+      },
+      "examples": [
+        {
+          "es": "¿En qué calle está el museo?",
+          "ru": "На какой улице музей?",
+          "topic": "travel"
+        },
+        {
+          "es": "La oficina está en la calle Mayor.",
+          "ru": "Офис на улице Майор.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "error",
+      "lemma": "error",
+      "pos": "noun",
+      "rank": 142,
+      "gender": "m",
+      "translations": {
+        "ru": "ошибка"
+      },
+      "forms": {
+        "plural": "errores"
+      },
+      "examples": [
+        {
+          "es": "Hay un error en la línea diez.",
+          "ru": "В десятой строке ошибка.",
+          "topic": "it"
+        },
+        {
+          "es": "Hay un error en mi reserva.",
+          "ru": "В моей брони ошибка.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "café",
+      "lemma": "café",
+      "pos": "noun",
+      "rank": 148,
+      "gender": "m",
+      "translations": {
+        "ru": "кофе; кафе"
+      },
+      "forms": {
+        "plural": "cafés"
+      },
+      "examples": [
+        {
+          "es": "Un café con leche, por favor.",
+          "ru": "Кофе с молоком, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "es": "Hablamos del proyecto con un café.",
+          "ru": "Обсудим проект за кофе.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cliente",
+      "lemma": "cliente",
+      "pos": "noun",
+      "rank": 164,
+      "gender": "mf",
+      "translations": {
+        "ru": "клиент"
+      },
+      "forms": {
+        "plural": "clientes"
+      },
+      "examples": [
+        {
+          "es": "El cliente quiere un cambio.",
+          "ru": "Клиент хочет изменение.",
+          "topic": "it"
+        },
+        {
+          "es": "El hotel tiene muchos clientes en verano.",
+          "ru": "Летом в отеле много клиентов.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hotel",
+      "lemma": "hotel",
+      "pos": "noun",
+      "rank": 192,
+      "gender": "m",
+      "rules": [
+        "es-h-silent"
+      ],
+      "translations": {
+        "ru": "отель, гостиница"
+      },
+      "forms": {
+        "plural": "hoteles"
+      },
+      "examples": [
+        {
+          "es": "El hotel está en el centro.",
+          "ru": "Отель в центре.",
+          "topic": "travel"
+        },
+        {
+          "es": "Trabajo desde el hotel esta semana.",
+          "ru": "На этой неделе я работаю из отеля.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "reunión",
+      "lemma": "reunión",
+      "pos": "noun",
+      "rank": 203,
+      "gender": "f",
+      "translations": {
+        "ru": "встреча, совещание"
+      },
+      "forms": {
+        "plural": "reuniones"
+      },
+      "examples": [
+        {
+          "es": "La reunión empieza a las diez.",
+          "ru": "Совещание начинается в десять.",
+          "topic": "it"
+        },
+        {
+          "es": "Tengo una reunión en el hotel.",
+          "ru": "У меня встреча в отеле.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mesa",
+      "lemma": "mesa",
+      "pos": "noun",
+      "rank": 206,
+      "gender": "f",
+      "translations": {
+        "ru": "стол; столик"
+      },
+      "forms": {
+        "plural": "mesas"
+      },
+      "examples": [
+        {
+          "es": "Una mesa para dos, por favor.",
+          "ru": "Столик на двоих, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "es": "El portátil está en la mesa.",
+          "ru": "Ноутбук на столе.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tren",
+      "lemma": "tren",
+      "pos": "noun",
+      "rank": 244,
+      "gender": "m",
+      "translations": {
+        "ru": "поезд"
+      },
+      "forms": {
+        "plural": "trenes"
+      },
+      "examples": [
+        {
+          "es": "El tren sale a las nueve.",
+          "ru": "Поезд отправляется в девять.",
+          "topic": "travel"
+        },
+        {
+          "es": "Trabajo en el tren con el portátil.",
+          "ru": "Я работаю в поезде на ноутбуке.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "estación",
+      "lemma": "estación",
+      "pos": "noun",
+      "rank": 339,
+      "gender": "f",
+      "rules": [
+        "es-c-before-e-i"
+      ],
+      "translations": {
+        "ru": "вокзал, станция; время года"
+      },
+      "forms": {
+        "plural": "estaciones"
+      },
+      "examples": [
+        {
+          "es": "¿Dónde está la estación de tren?",
+          "ru": "Где железнодорожный вокзал?",
+          "topic": "travel"
+        },
+        {
+          "es": "La oficina está cerca de la estación.",
+          "ru": "Офис рядом со станцией.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "vuelo",
+      "lemma": "vuelo",
+      "pos": "noun",
+      "rank": 382,
+      "gender": "m",
+      "translations": {
+        "ru": "рейс, полёт"
+      },
+      "forms": {
+        "plural": "vuelos"
+      },
+      "examples": [
+        {
+          "es": "Mi vuelo sale a las seis.",
+          "ru": "Мой рейс вылетает в шесть.",
+          "topic": "travel"
+        },
+        {
+          "es": "Reviso el correo durante el vuelo.",
+          "ru": "Я проверяю почту во время полёта.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "código",
+      "lemma": "código",
+      "pos": "noun",
+      "rank": 435,
+      "gender": "m",
+      "translations": {
+        "ru": "код"
+      },
+      "forms": {
+        "plural": "códigos"
+      },
+      "examples": [
+        {
+          "es": "El código no compila.",
+          "ru": "Код не компилируется.",
+          "topic": "it"
+        },
+        {
+          "es": "¿Cuál es el código de la wifi?",
+          "ru": "Какой пароль от вайфая?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "proyecto",
+      "lemma": "proyecto",
+      "pos": "noun",
+      "rank": 443,
+      "gender": "m",
+      "translations": {
+        "ru": "проект"
+      },
+      "forms": {
+        "plural": "proyectos"
+      },
+      "examples": [
+        {
+          "es": "Empiezo un proyecto nuevo el lunes.",
+          "ru": "В понедельник я начинаю новый проект.",
+          "topic": "it"
+        },
+        {
+          "es": "El viaje es un proyecto de toda la familia.",
+          "ru": "Поездка — проект всей семьи.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cuenta",
+      "lemma": "cuenta",
+      "pos": "noun",
+      "rank": 475,
+      "gender": "f",
+      "translations": {
+        "ru": "счёт; учётная запись, аккаунт"
+      },
+      "forms": {
+        "plural": "cuentas"
+      },
+      "examples": [
+        {
+          "es": "La cuenta, por favor.",
+          "ru": "Счёт, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "es": "No puedo entrar en mi cuenta.",
+          "ru": "Не могу войти в свой аккаунт.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "La cuenta, por favor — «счёт, пожалуйста»; crear una cuenta — создать аккаунт"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tarea",
+      "lemma": "tarea",
+      "pos": "noun",
+      "rank": 537,
+      "gender": "f",
+      "translations": {
+        "ru": "задача, задание"
+      },
+      "forms": {
+        "plural": "tareas"
+      },
+      "examples": [
+        {
+          "es": "Tengo tres tareas para hoy.",
+          "ru": "У меня на сегодня три задачи.",
+          "topic": "it"
+        },
+        {
+          "es": "Hacer la maleta es una tarea difícil.",
+          "ru": "Собрать чемодан — трудная задача.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "correo",
+      "lemma": "correo",
+      "pos": "noun",
+      "rank": 605,
+      "gender": "m",
+      "translations": {
+        "ru": "почта; письмо (e-mail)"
+      },
+      "forms": {
+        "plural": "correos"
+      },
+      "examples": [
+        {
+          "es": "Te envío el archivo por correo.",
+          "ru": "Пришлю тебе файл по почте.",
+          "topic": "it"
+        },
+        {
+          "es": "La confirmación llega por correo.",
+          "ru": "Подтверждение приходит на почту.",
+          "topic": "travel"
+        }
+      ],
+      "note": {
+        "ru": "correo electrónico — электронная почта; часто просто correo"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mapa",
+      "lemma": "mapa",
+      "pos": "noun",
+      "rank": 626,
+      "gender": "m",
+      "translations": {
+        "ru": "карта (местности)"
+      },
+      "forms": {
+        "plural": "mapas"
+      },
+      "examples": [
+        {
+          "es": "¿Tiene un mapa de la ciudad?",
+          "ru": "У вас есть карта города?",
+          "topic": "travel"
+        },
+        {
+          "es": "El mapa no carga en la app.",
+          "ru": "Карта не грузится в приложении.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "Мужской род, хотя на -a: el mapa"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "aeropuerto",
+      "lemma": "aeropuerto",
+      "pos": "noun",
+      "rank": 629,
+      "gender": "m",
+      "translations": {
+        "ru": "аэропорт"
+      },
+      "forms": {
+        "plural": "aeropuertos"
+      },
+      "examples": [
+        {
+          "es": "¿Cómo llego al aeropuerto?",
+          "ru": "Как добраться до аэропорта?",
+          "topic": "travel"
+        },
+        {
+          "es": "Tengo una llamada desde el aeropuerto.",
+          "ru": "У меня созвон из аэропорта.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "maleta",
+      "lemma": "maleta",
+      "pos": "noun",
+      "rank": 647,
+      "gender": "f",
+      "translations": {
+        "ru": "чемодан"
+      },
+      "forms": {
+        "plural": "maletas"
+      },
+      "examples": [
+        {
+          "es": "Mi maleta no ha llegado.",
+          "ru": "Мой чемодан не прибыл.",
+          "topic": "travel"
+        },
+        {
+          "es": "Llevo el portátil en la maleta.",
+          "ru": "Я везу ноутбук в чемодане.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "billete",
+      "lemma": "billete",
+      "pos": "noun",
+      "rank": 726,
+      "gender": "m",
+      "translations": {
+        "ru": "билет"
+      },
+      "forms": {
+        "plural": "billetes"
+      },
+      "examples": [
+        {
+          "es": "Quiero un billete de ida y vuelta.",
+          "ru": "Мне билет туда и обратно.",
+          "topic": "travel"
+        },
+        {
+          "es": "Compro el billete en la app.",
+          "ru": "Я покупаю билет в приложении.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "В Латинской Америке чаще boleto"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "archivo",
+      "lemma": "archivo",
+      "pos": "noun",
+      "rank": 747,
+      "gender": "m",
+      "translations": {
+        "ru": "файл; архив"
+      },
+      "forms": {
+        "plural": "archivos"
+      },
+      "examples": [
+        {
+          "es": "Guarda el archivo antes de cerrar.",
+          "ru": "Сохрани файл перед закрытием.",
+          "topic": "it"
+        },
+        {
+          "es": "El billete está en un archivo PDF.",
+          "ru": "Билет — в PDF-файле.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "versión",
+      "lemma": "versión",
+      "pos": "noun",
+      "rank": 823,
+      "gender": "f",
+      "translations": {
+        "ru": "версия"
+      },
+      "forms": {
+        "plural": "versiones"
+      },
+      "examples": [
+        {
+          "es": "Hay una versión nueva de la app.",
+          "ru": "Вышла новая версия приложения.",
+          "topic": "it"
+        },
+        {
+          "es": "¿Tiene la versión en papel del mapa?",
+          "ru": "У вас есть бумажная версия карты?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "reserva",
+      "lemma": "reserva",
+      "pos": "noun",
+      "rank": 834,
+      "gender": "f",
+      "translations": {
+        "ru": "бронь, бронирование"
+      },
+      "forms": {
+        "plural": "reservas"
+      },
+      "examples": [
+        {
+          "es": "Quiero cambiar mi reserva.",
+          "ru": "Я хочу изменить бронь.",
+          "topic": "travel"
+        },
+        {
+          "es": "Tengo una reserva a nombre de Ana.",
+          "ru": "У меня бронь на имя Анны.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ordenador",
+      "lemma": "ordenador",
+      "pos": "noun",
+      "rank": 863,
+      "gender": "m",
+      "translations": {
+        "ru": "компьютер"
+      },
+      "forms": {
+        "plural": "ordenadores"
+      },
+      "examples": [
+        {
+          "es": "Mi ordenador es muy lento.",
+          "ru": "Мой компьютер очень медленный.",
+          "topic": "it"
+        },
+        {
+          "es": "¿Hay un ordenador en el hotel?",
+          "ru": "В отеле есть компьютер?",
+          "topic": "travel"
+        }
+      ],
+      "note": {
+        "ru": "В Испании ordenador, в Латинской Америке computadora"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "pantalla",
+      "lemma": "pantalla",
+      "pos": "noun",
+      "rank": 925,
+      "gender": "f",
+      "translations": {
+        "ru": "экран"
+      },
+      "forms": {
+        "plural": "pantallas"
+      },
+      "examples": [
+        {
+          "es": "La pantalla está negra.",
+          "ru": "Экран чёрный.",
+          "topic": "it"
+        },
+        {
+          "es": "Mira la pantalla de salidas.",
+          "ru": "Посмотри на табло вылетов.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    }
+  ]
+}

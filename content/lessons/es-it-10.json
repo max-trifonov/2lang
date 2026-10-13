@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-10",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 10,
+  "level": "A1",
+  "title": {
+    "ru": "Протестирую новую версию",
+    "en": "I'm going to test the new version",
+    "es": "Voy a probar la versión nueva"
+  },
+  "words": [
+    "probar",
+    "guardar",
+    "versión",
+    "primero-adv"
+  ],
+  "phrase": {
+    "es": "Primero guardo los cambios y después voy a probar la versión nueva.",
+    "ru": "Сначала сохраню изменения, а потом протестирую новую версию.",
+    "en": "First I'll save the changes, and then I'm going to test the new version."
+  },
+  "rule": {
+    "text": {
+      "ru": "ir a + инфинитив — ближайшее будущее, «собираюсь сделать»: Voy a probar. Спрягается только ir: voy, vas, va, vamos, vais, van.",
+      "en": "ir a + infinitive is the near future, “going to do”: Voy a probar. Only ir changes: voy, vas, va, vamos, vais, van.",
+      "es": "ir a + infinitivo para el futuro próximo: Voy a probar. Solo cambia ir: voy, vas, va, vamos, vais, van."
+    },
+    "examples": [
+      {
+        "es": "Mañana vamos a probar la app.",
+        "ru": "Завтра мы протестируем приложение."
+      },
+      {
+        "es": "Primero guarda el archivo.",
+        "ru": "Сначала сохрани файл."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Voy a ___ la versión nueva.",
+      "answer": "probar",
+      "ru": "Я протестирую новую версию."
+    },
+    {
+      "type": "fill",
+      "es": "___ los cambios antes de salir.",
+      "answer": "Guarda",
+      "ru": "Сохрани изменения перед выходом."
+    },
+    {
+      "type": "build",
+      "es": "Primero voy a guardar el archivo.",
+      "ru": "Сначала я сохраню файл.",
+      "extra": [
+        "pruebo"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я протестирую новую версию.",
+      "answer": [
+        "Voy a probar la versión nueva.",
+        "Voy a probar la nueva versión."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-09",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 9,
+  "level": "A1",
+  "title": {
+    "ru": "В ресторане: столик и счёт",
+    "en": "At the restaurant: a table and the bill",
+    "es": "En el restaurante: la mesa y la cuenta"
+  },
+  "words": [
+    "pedir",
+    "mesa",
+    "cuenta",
+    "listo"
+  ],
+  "phrase": {
+    "es": "¿Podemos pedir la cuenta?",
+    "ru": "Можно попросить счёт?",
+    "en": "Can we ask for the bill?",
+    "note": {
+      "ru": "Короче: La cuenta, por favor.",
+      "en": "Shorter: La cuenta, por favor.",
+      "es": "Más corto: La cuenta, por favor."
+    }
+  },
+  "rule": {
+    "text": {
+      "ru": "pedir — «просить, заказывать», меняет e → i: pido, pides, pide, но pedimos. estar listo — «быть готовым»; с женским словом — lista: ¿Está lista la mesa?",
+      "en": "pedir means “to ask for, to order”; e changes to i: pido, pides, pide, but pedimos. estar listo — “to be ready”; with a feminine noun — lista: ¿Está lista la mesa?",
+      "es": "pedir (e → i): pido, pides, pide, pedimos. estar listo / lista: ¿Está lista la mesa?"
+    },
+    "examples": [
+      {
+        "es": "Pido una mesa para tres.",
+        "ru": "Я прошу столик на троих."
+      },
+      {
+        "es": "La mesa está lista.",
+        "ru": "Столик готов."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Quiero ___ una paella.",
+      "answer": "pedir",
+      "ru": "Я хочу заказать паэлью."
+    },
+    {
+      "type": "fill",
+      "es": "¿Está ___ la mesa?",
+      "answer": "lista",
+      "ru": "Столик готов?"
+    },
+    {
+      "type": "build",
+      "es": "Pedimos una mesa para dos.",
+      "ru": "Мы просим столик на двоих.",
+      "extra": [
+        "pido"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Счёт, пожалуйста.",
+      "answer": [
+        "La cuenta, por favor.",
+        "La cuenta por favor."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

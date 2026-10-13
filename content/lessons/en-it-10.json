@@ -1,0 +1,77 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-10",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 10,
+  "level": "B1",
+  "title": {
+    "ru": "Проблема решена",
+    "en": "Problem solved",
+    "es": "Problema resuelto"
+  },
+  "words": [
+    "solve",
+    "data",
+    "correct"
+  ],
+  "phrase": {
+    "en": "We solved the problem: the data is correct now.",
+    "ru": "Мы решили проблему: теперь данные верные.",
+    "es": "Hemos resuelto el problema: ahora los datos son correctos."
+  },
+  "rule": {
+    "text": {
+      "ru": "data в IT — неисчисляемое, с глаголом в единственном числе: The data is correct (не are). Так же information, software, advice, feedback — без a и без -s.",
+      "en": "In IT, data is usually uncountable, with a singular verb: The data is correct. So are information, software, advice, feedback — no a, no -s.",
+      "es": "data en informática es incontable: The data is correct. Igual information, software, advice, feedback."
+    },
+    "examples": [
+      {
+        "en": "The information is on the wiki.",
+        "ru": "Информация в вики."
+      },
+      {
+        "en": "Thanks for the feedback!",
+        "ru": "Спасибо за отзыв!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We ___ the problem in an hour.",
+      "answer": "solved",
+      "ru": "Мы решили проблему за час."
+    },
+    {
+      "type": "fill",
+      "en": "Is this answer ___?",
+      "answer": "correct",
+      "ru": "Этот ответ верный?"
+    },
+    {
+      "type": "build",
+      "en": "The data is correct now.",
+      "ru": "Теперь данные верные.",
+      "extra": [
+        "are"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Данные неверные.",
+      "answer": [
+        "The data is wrong.",
+        "The data is incorrect.",
+        "The data is not correct.",
+        "The data isn't correct."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

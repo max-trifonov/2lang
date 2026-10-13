@@ -1,0 +1,77 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-09",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 9,
+  "level": "B1",
+  "title": {
+    "ru": "Погода и планы",
+    "en": "Weather and plans",
+    "es": "El tiempo y los planes"
+  },
+  "words": [
+    "expect",
+    "weather",
+    "rain",
+    "probably"
+  ],
+  "phrase": {
+    "en": "They expect rain tomorrow, so we'll probably stay in.",
+    "ru": "Завтра обещают дождь, так что мы, наверное, останемся дома.",
+    "es": "Mañana esperan lluvia, así que probablemente nos quedaremos en casa."
+  },
+  "rule": {
+    "text": {
+      "ru": "probably с will — после will, а с won't — перед ним: We'll probably stay. We probably won't go. weather неисчисляемое: nice weather, без a.",
+      "en": "With will, probably goes after it; with won’t, before it: We’ll probably stay. We probably won’t go. weather is uncountable: nice weather, no a.",
+      "es": "probably: después de will y antes de won’t. weather es incontable: nice weather, sin a."
+    },
+    "examples": [
+      {
+        "en": "We probably won't go to the beach.",
+        "ru": "Мы, наверное, не пойдём на пляж."
+      },
+      {
+        "en": "What lovely weather!",
+        "ru": "Какая чудесная погода!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We ___ rain in the afternoon.",
+      "answer": "expect",
+      "ru": "Днём ожидаем дождь."
+    },
+    {
+      "type": "fill",
+      "en": "We'll ___ take a taxi.",
+      "answer": "probably",
+      "ru": "Мы, наверное, возьмём такси."
+    },
+    {
+      "type": "build",
+      "en": "We probably won't go out today.",
+      "ru": "Мы, наверное, сегодня не выйдем.",
+      "extra": [
+        "will"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Какая будет погода завтра?",
+      "answer": [
+        "What will the weather be like tomorrow?",
+        "What's the weather like tomorrow?",
+        "What will the weather be tomorrow?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

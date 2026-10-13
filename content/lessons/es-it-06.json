@@ -1,0 +1,77 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-06",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 6,
+  "level": "A1",
+  "title": {
+    "ru": "Трудная задача",
+    "en": "A hard task",
+    "es": "Una tarea difícil"
+  },
+  "words": [
+    "terminar",
+    "tarea",
+    "difícil",
+    "casi"
+  ],
+  "phrase": {
+    "es": "La tarea es difícil, pero casi termino.",
+    "ru": "Задача трудная, но я почти закончил.",
+    "en": "The task is hard, but I’m almost done."
+  },
+  "rule": {
+    "text": {
+      "ru": "Какое что-то — ser + прилагательное: La tarea es difícil. casi — «почти», стоит перед глаголом: Casi termino.",
+      "en": "What something is like — ser + adjective: La tarea es difícil. casi means “almost” and goes before the verb: Casi termino.",
+      "es": "ser + adjetivo: La tarea es difícil. casi va delante del verbo: Casi termino."
+    },
+    "examples": [
+      {
+        "es": "No es difícil.",
+        "ru": "Это не трудно."
+      },
+      {
+        "es": "¿Terminas hoy?",
+        "ru": "Ты сегодня закончишь?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Casi ___ el proyecto.",
+      "answer": "termino",
+      "ru": "Я почти заканчиваю проект."
+    },
+    {
+      "type": "fill",
+      "es": "Es una tarea muy ___.",
+      "answer": "difícil",
+      "ru": "Это очень трудная задача."
+    },
+    {
+      "type": "build",
+      "es": "La tarea es muy difícil.",
+      "ru": "Задача очень трудная.",
+      "extra": [
+        "fácil"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я почти закончил.",
+      "answer": [
+        "Casi termino.",
+        "Casi terminé.",
+        "Ya casi termino."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

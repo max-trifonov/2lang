@@ -1,0 +1,119 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "rima-xxi-que-es-poesia",
+  "kind": "poem",
+  "lang": "es",
+  "license": "public-domain",
+  "title": {
+    "es": "Rima XXI",
+    "ru": "Рима XXI («Что такое поэзия?»)",
+    "en": "Rhyme XXI"
+  },
+  "author": "Gustavo Adolfo Bécquer (1871)",
+  "level": "B1",
+  "tags": [
+    "love",
+    "classic"
+  ],
+  "note": {
+    "ru": "Самая известная из «Рим» Беккера. Обратите внимание на tú: прямая речь без кавычек, через тире."
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "es": "¿Qué es poesía? —dices mientras clavas",
+          "ru": "«Что такое поэзия?» — говоришь ты, вонзая",
+          "en": "\"What is poetry?\" you say, as you fix",
+          "phrases": [
+            {
+              "es": "¿Qué es poesía?",
+              "ru": "Что такое поэзия?",
+              "en": "What is poetry?",
+              "note": {
+                "ru": "Qué с ударением — вопросительное слово; поэзия без артикля, как явление вообще"
+              }
+            }
+          ],
+          "words": [
+            {
+              "es": "dices",
+              "lemma": "decir",
+              "pos": "verb",
+              "ru": "говоришь",
+              "en": "you say"
+            },
+            {
+              "es": "clavas",
+              "lemma": "clavar",
+              "pos": "verb",
+              "ru": "вонзаешь, устремляешь",
+              "en": "you fix"
+            }
+          ]
+        },
+        {
+          "es": "en mi pupila tu pupila azul.",
+          "ru": "в мои глаза свои голубые глаза.",
+          "en": "your blue eyes on my eyes.",
+          "words": [
+            {
+              "es": "pupila",
+              "lemma": "pupila",
+              "pos": "noun",
+              "ru": "зрачок, глаз (поэтически)",
+              "en": "eye"
+            },
+            {
+              "es": "azul",
+              "lemma": "azul",
+              "pos": "adj",
+              "ru": "голубой, синий",
+              "en": "blue"
+            }
+          ]
+        },
+        {
+          "es": "¿Qué es poesía? ¿Y tú me lo preguntas?",
+          "ru": "Что такое поэзия? И ты меня об этом спрашиваешь?",
+          "en": "What is poetry? And you ask me that?",
+          "phrases": [
+            {
+              "es": "¿Y tú me lo preguntas?",
+              "ru": "И ты меня об этом спрашиваешь?",
+              "en": "And you ask me that?",
+              "note": {
+                "ru": "me lo preguntas — местоимения перед глаголом: me (мне/меня), lo (это)"
+              }
+            }
+          ]
+        },
+        {
+          "es": "Poesía... eres tú.",
+          "ru": "Поэзия... это ты.",
+          "en": "Poetry... is you.",
+          "phrases": [
+            {
+              "es": "eres tú",
+              "ru": "это ты",
+              "en": "it is you",
+              "note": {
+                "ru": "ser: eres — «ты есть»; подлежащее tú стоит после глагола ради ударения"
+              }
+            }
+          ],
+          "words": [
+            {
+              "es": "eres",
+              "lemma": "ser",
+              "pos": "verb",
+              "ru": "ты есть",
+              "en": "you are"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

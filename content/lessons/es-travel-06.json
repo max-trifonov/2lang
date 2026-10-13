@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-06",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 6,
+  "level": "A1",
+  "title": {
+    "ru": "В аэропорту: рейс",
+    "en": "At the airport: the flight",
+    "es": "En el aeropuerto: el vuelo"
+  },
+  "words": [
+    "llegar",
+    "aeropuerto",
+    "vuelo",
+    "todavía"
+  ],
+  "phrase": {
+    "es": "Todavía estoy en el aeropuerto.",
+    "ru": "Я всё ещё в аэропорту.",
+    "en": "I'm still at the airport."
+  },
+  "rule": {
+    "text": {
+      "ru": "todavía — «ещё, всё ещё»: Todavía estoy aquí. todavía no — «ещё не»: Todavía no tengo billete. llegar a — «прибывать куда»; a + el сливаются в al: Llego al aeropuerto.",
+      "en": "todavía means “still”: Todavía estoy aquí. todavía no means “not yet”: Todavía no tengo billete. llegar a — “arrive at”; a + el become al: Llego al aeropuerto.",
+      "es": "todavía: Todavía estoy aquí. todavía no: Todavía no tengo billete. llegar a; a + el = al: Llego al aeropuerto."
+    },
+    "examples": [
+      {
+        "es": "Llegamos al aeropuerto a las cinco.",
+        "ru": "Мы приезжаем в аэропорт в пять."
+      },
+      {
+        "es": "Todavía no tengo billete.",
+        "ru": "У меня ещё нет билета."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "El vuelo ___ a las once.",
+      "answer": "llega",
+      "ru": "Рейс прибывает в одиннадцать."
+    },
+    {
+      "type": "fill",
+      "es": "___ estoy en el hotel.",
+      "answer": "Todavía",
+      "ru": "Я всё ещё в отеле."
+    },
+    {
+      "type": "build",
+      "es": "¿Cómo llego al aeropuerto?",
+      "ru": "Как добраться до аэропорта?",
+      "extra": [
+        "llega"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Мой рейс прибывает в шесть.",
+      "answer": [
+        "Mi vuelo llega a las seis.",
+        "El vuelo llega a las seis."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

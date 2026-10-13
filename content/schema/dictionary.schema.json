@@ -1,0 +1,208 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://2lang.local/schema/dictionary.v1.json",
+  "title": "2Lang dictionary v1",
+  "description": "Structural contract. Rules depending on language and part of speech (form keys, persons, gender, irregular EN verbs), uniqueness of id/rank across files and pairs are checked by the app validator — see .flow/dictionary-format.md.",
+  "type": "object",
+  "required": [
+    "format",
+    "version",
+    "lang",
+    "license",
+    "entries"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "format": {
+      "const": "2lang/dictionary"
+    },
+    "version": {
+      "const": 1
+    },
+    "lang": {
+      "type": "string",
+      "pattern": "^[a-z]{2}$"
+    },
+    "license": {
+      "enum": [
+        "own",
+        "public-domain",
+        "cc0",
+        "cc-by",
+        "cc-by-sa"
+      ]
+    },
+    "source": {
+      "type": "string",
+      "minLength": 1
+    },
+    "entries": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/entry"
+      }
+    },
+    "ext": {
+      "type": "object"
+    }
+  },
+  "$defs": {
+    "localized": {
+      "type": "object",
+      "minProperties": 1,
+      "propertyNames": {
+        "pattern": "^[a-z]{2}$"
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "topic": {
+      "enum": [
+        "travel",
+        "it",
+        "daily"
+      ]
+    },
+    "entry": {
+      "type": "object",
+      "required": [
+        "id",
+        "lemma",
+        "pos",
+        "rank",
+        "translations"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[\\p{Ll}\\p{Lo}\\p{N}]+(-[\\p{Ll}\\p{Lo}\\p{N}]+)*$"
+        },
+        "lemma": {
+          "type": "string",
+          "minLength": 1
+        },
+        "pos": {
+          "enum": [
+            "verb",
+            "noun",
+            "adj",
+            "adv",
+            "pron",
+            "prep",
+            "conj",
+            "det",
+            "num",
+            "intj",
+            "phrase"
+          ]
+        },
+        "rank": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "irregular": {
+          "type": "boolean"
+        },
+        "gender": {
+          "enum": [
+            "m",
+            "f",
+            "mf"
+          ]
+        },
+        "ipa": {
+          "type": "string",
+          "minLength": 1
+        },
+        "rules": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          }
+        },
+        "translations": {
+          "$ref": "#/$defs/localized"
+        },
+        "pair": {
+          "type": "string",
+          "pattern": "^[a-z]{2}:.+$"
+        },
+        "forms": {
+          "type": "object",
+          "additionalProperties": {
+            "oneOf": [
+              {
+                "type": "string",
+                "minLength": 1
+              },
+              {
+                "type": "array",
+                "minItems": 5,
+                "maxItems": 6,
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            ]
+          }
+        },
+        "topics": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/topic"
+          }
+        },
+        "level": {
+          "enum": [
+            "A1",
+            "A2",
+            "B1",
+            "B2",
+            "C1",
+            "C2"
+          ]
+        },
+        "examples": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/example"
+          }
+        },
+        "note": {
+          "$ref": "#/$defs/localized"
+        },
+        "ext": {
+          "type": "object"
+        }
+      }
+    },
+    "example": {
+      "type": "object",
+      "required": [
+        "topic"
+      ],
+      "minProperties": 3,
+      "properties": {
+        "topic": {
+          "$ref": "#/$defs/topic"
+        },
+        "ext": {
+          "type": "object"
+        }
+      },
+      "patternProperties": {
+        "^[a-z]{2}$": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

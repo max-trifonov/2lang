@@ -1,0 +1,2872 @@
+{
+  "format": "2lang/dictionary",
+  "version": 1,
+  "lang": "en",
+  "license": "cc-by-sa",
+  "source": "Черновик ИИ (D-25) на частотном каркасе wordhoard v0.1.0 (CC BY-SA 4.0, D-24): https://github.com/natema/wordhoard; см. content/frequency/NOTICE.md",
+  "entries": [
+    {
+      "id": "good",
+      "lemma": "good",
+      "pos": "adj",
+      "rank": 1,
+      "translations": {
+        "ru": "хороший"
+      },
+      "pair": "es:bueno",
+      "forms": {
+        "comparative": "better",
+        "superlative": "best"
+      },
+      "examples": [
+        {
+          "en": "Is there a good restaurant near here?",
+          "ru": "Есть поблизости хороший ресторан?",
+          "topic": "travel"
+        },
+        {
+          "en": "Good job, the tests pass!",
+          "ru": "Отличная работа, тесты проходят!",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "little",
+      "lemma": "little",
+      "pos": "adj",
+      "rank": 2,
+      "translations": {
+        "ru": "маленький; a little — немного"
+      },
+      "pair": "es:pequeño",
+      "forms": {
+        "comparative": "less",
+        "superlative": "least"
+      },
+      "examples": [
+        {
+          "en": "It is a little town by the sea.",
+          "ru": "Это маленький городок у моря.",
+          "topic": "travel"
+        },
+        {
+          "en": "I speak a little Spanish.",
+          "ru": "Я немного говорю по-испански.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "sorry",
+      "lemma": "sorry",
+      "pos": "adj",
+      "rank": 3,
+      "translations": {
+        "ru": "сожалеющий; sorry — простите"
+      },
+      "examples": [
+        {
+          "en": "Sorry, I am late.",
+          "ru": "Простите, я опоздал.",
+          "topic": "travel"
+        },
+        {
+          "en": "Sorry, I broke the build.",
+          "ru": "Простите, я сломал сборку.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "much",
+      "lemma": "much",
+      "pos": "adj",
+      "rank": 4,
+      "translations": {
+        "ru": "много (с неисчисляемыми)"
+      },
+      "forms": {
+        "comparative": "more",
+        "superlative": "most"
+      },
+      "examples": [
+        {
+          "en": "How much is the ticket?",
+          "ru": "Сколько стоит билет?",
+          "topic": "travel"
+        },
+        {
+          "en": "There isn't much time left.",
+          "ru": "Времени осталось немного.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "much — с неисчисляемыми (much time), many — с исчисляемыми (many people)"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "sure",
+      "lemma": "sure",
+      "pos": "adj",
+      "rank": 5,
+      "translations": {
+        "ru": "уверенный; sure! — конечно!"
+      },
+      "pair": "es:seguro",
+      "examples": [
+        {
+          "en": "Are you sure this is our stop?",
+          "ru": "Ты уверен, что это наша остановка?",
+          "topic": "travel"
+        },
+        {
+          "en": "Sure, I can help with that.",
+          "ru": "Конечно, помогу с этим.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "great",
+      "lemma": "great",
+      "pos": "adj",
+      "rank": 6,
+      "translations": {
+        "ru": "отличный; великий; огромный"
+      },
+      "pair": "es:genial",
+      "forms": {
+        "comparative": "greater",
+        "superlative": "greatest"
+      },
+      "examples": [
+        {
+          "en": "The view is great!",
+          "ru": "Вид отличный!",
+          "topic": "travel"
+        },
+        {
+          "en": "Great, it works now.",
+          "ru": "Отлично, теперь работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "other",
+      "lemma": "other",
+      "pos": "adj",
+      "rank": 7,
+      "translations": {
+        "ru": "другой"
+      },
+      "examples": [
+        {
+          "en": "The pharmacy is on the other side.",
+          "ru": "Аптека на другой стороне.",
+          "topic": "travel"
+        },
+        {
+          "en": "Try the other browser.",
+          "ru": "Попробуй другой браузер.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "last",
+      "lemma": "last",
+      "pos": "adj",
+      "rank": 8,
+      "translations": {
+        "ru": "последний; прошлый"
+      },
+      "pair": "es:último",
+      "examples": [
+        {
+          "en": "When is the last train?",
+          "ru": "Когда последний поезд?",
+          "topic": "travel"
+        },
+        {
+          "en": "Last week we released the app.",
+          "ru": "На прошлой неделе мы выпустили приложение.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "new",
+      "lemma": "new",
+      "pos": "adj",
+      "rank": 9,
+      "translations": {
+        "ru": "новый"
+      },
+      "pair": "es:nuevo",
+      "forms": {
+        "comparative": "newer",
+        "superlative": "newest"
+      },
+      "examples": [
+        {
+          "en": "I have a new phone.",
+          "ru": "У меня новый телефон.",
+          "topic": "daily"
+        },
+        {
+          "en": "Install the new version.",
+          "ru": "Установи новую версию.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "big",
+      "lemma": "big",
+      "pos": "adj",
+      "rank": 10,
+      "translations": {
+        "ru": "большой"
+      },
+      "pair": "es:grande",
+      "forms": {
+        "comparative": "bigger",
+        "superlative": "biggest"
+      },
+      "examples": [
+        {
+          "en": "I need a big suitcase.",
+          "ru": "Мне нужен большой чемодан.",
+          "topic": "travel"
+        },
+        {
+          "en": "It is a big project.",
+          "ru": "Это большой проект.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "old",
+      "lemma": "old",
+      "pos": "adj",
+      "rank": 11,
+      "translations": {
+        "ru": "старый"
+      },
+      "pair": "es:viejo",
+      "forms": {
+        "comparative": "older",
+        "superlative": "oldest"
+      },
+      "examples": [
+        {
+          "en": "I love the old town.",
+          "ru": "Обожаю старый город.",
+          "topic": "travel"
+        },
+        {
+          "en": "My laptop is very old.",
+          "ru": "Мой ноутбук очень старый.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "bad",
+      "lemma": "bad",
+      "pos": "adj",
+      "rank": 12,
+      "translations": {
+        "ru": "плохой"
+      },
+      "pair": "es:malo",
+      "forms": {
+        "comparative": "worse",
+        "superlative": "worst"
+      },
+      "examples": [
+        {
+          "en": "The weather is bad today.",
+          "ru": "Сегодня плохая погода.",
+          "topic": "travel"
+        },
+        {
+          "en": "It is a bad idea to change everything now.",
+          "ru": "Плохая идея менять всё сейчас.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fine",
+      "lemma": "fine",
+      "pos": "adj",
+      "rank": 13,
+      "translations": {
+        "ru": "прекрасный; в порядке"
+      },
+      "forms": {
+        "comparative": "finer",
+        "superlative": "finest"
+      },
+      "examples": [
+        {
+          "en": "I'm fine, thanks.",
+          "ru": "У меня всё хорошо, спасибо.",
+          "topic": "daily"
+        },
+        {
+          "en": "Everything is fine on the server.",
+          "ru": "На сервере всё в порядке.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "nice",
+      "lemma": "nice",
+      "pos": "adj",
+      "rank": 14,
+      "translations": {
+        "ru": "приятный, милый, хороший"
+      },
+      "pair": "es:bonito",
+      "forms": {
+        "comparative": "nicer",
+        "superlative": "nicest"
+      },
+      "examples": [
+        {
+          "en": "Nice to meet you!",
+          "ru": "Приятно познакомиться!",
+          "topic": "travel"
+        },
+        {
+          "en": "The new design looks nice.",
+          "ru": "Новый дизайн выглядит хорошо.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "wrong",
+      "lemma": "wrong",
+      "pos": "adj",
+      "rank": 15,
+      "translations": {
+        "ru": "неправильный; не тот"
+      },
+      "pair": "es:equivocado",
+      "examples": [
+        {
+          "en": "We took the wrong train.",
+          "ru": "Мы сели не на тот поезд.",
+          "topic": "travel"
+        },
+        {
+          "en": "Something is wrong with the connection.",
+          "ru": "Что-то не так с соединением.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "own-adj",
+      "lemma": "own",
+      "pos": "adj",
+      "rank": 16,
+      "translations": {
+        "ru": "собственный"
+      },
+      "pair": "es:propio",
+      "examples": [
+        {
+          "en": "The apartment has its own bathroom.",
+          "ru": "В квартире свой санузел.",
+          "topic": "travel"
+        },
+        {
+          "en": "I have my own company.",
+          "ru": "У меня своя компания.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "same",
+      "lemma": "same",
+      "pos": "adj",
+      "rank": 17,
+      "translations": {
+        "ru": "тот же самый"
+      },
+      "pair": "es:mismo",
+      "examples": [
+        {
+          "en": "We have the same flight.",
+          "ru": "У нас один и тот же рейс.",
+          "topic": "travel"
+        },
+        {
+          "en": "It is the same error again.",
+          "ru": "Опять та же ошибка.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "next",
+      "lemma": "next",
+      "pos": "adj",
+      "rank": 18,
+      "translations": {
+        "ru": "следующий"
+      },
+      "pair": "es:próximo",
+      "examples": [
+        {
+          "en": "When is the next bus?",
+          "ru": "Когда следующий автобус?",
+          "topic": "travel"
+        },
+        {
+          "en": "The next meeting is on Monday.",
+          "ru": "Следующая встреча в понедельник.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "dead",
+      "lemma": "dead",
+      "pos": "adj",
+      "rank": 19,
+      "translations": {
+        "ru": "мёртвый; разряженный (о батарее)"
+      },
+      "examples": [
+        {
+          "en": "My phone is dead.",
+          "ru": "У меня сел телефон.",
+          "topic": "travel"
+        },
+        {
+          "en": "This link is dead.",
+          "ru": "Эта ссылка битая.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "many",
+      "lemma": "many",
+      "pos": "adj",
+      "rank": 20,
+      "translations": {
+        "ru": "много (с исчисляемыми)"
+      },
+      "forms": {
+        "comparative": "more",
+        "superlative": "most"
+      },
+      "examples": [
+        {
+          "en": "There are many tourists in summer.",
+          "ru": "Летом много туристов.",
+          "topic": "travel"
+        },
+        {
+          "en": "How many users do we have?",
+          "ru": "Сколько у нас пользователей?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "real",
+      "lemma": "real",
+      "pos": "adj",
+      "rank": 21,
+      "translations": {
+        "ru": "настоящий, реальный"
+      },
+      "pair": "es:real",
+      "examples": [
+        {
+          "en": "Is this real leather?",
+          "ru": "Это настоящая кожа?",
+          "topic": "travel"
+        },
+        {
+          "en": "We tested it with real data.",
+          "ru": "Мы проверили это на реальных данных.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "live-adj",
+      "lemma": "live",
+      "pos": "adj",
+      "rank": 22,
+      "translations": {
+        "ru": "живой; прямой (эфир)"
+      },
+      "pair": "es:vivo",
+      "examples": [
+        {
+          "en": "There is live music tonight.",
+          "ru": "Сегодня живая музыка.",
+          "topic": "travel"
+        },
+        {
+          "en": "The site is live now.",
+          "ru": "Сайт уже запущен.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "happy",
+      "lemma": "happy",
+      "pos": "adj",
+      "rank": 23,
+      "translations": {
+        "ru": "счастливый, довольный"
+      },
+      "pair": "es:feliz",
+      "forms": {
+        "comparative": "happier",
+        "superlative": "happiest"
+      },
+      "examples": [
+        {
+          "en": "We are happy to be here.",
+          "ru": "Мы рады быть здесь.",
+          "topic": "travel"
+        },
+        {
+          "en": "The client is happy with the result.",
+          "ru": "Клиент доволен результатом.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ready",
+      "lemma": "ready",
+      "pos": "adj",
+      "rank": 24,
+      "translations": {
+        "ru": "готовый"
+      },
+      "pair": "es:listo",
+      "examples": [
+        {
+          "en": "Are you ready? The taxi is here.",
+          "ru": "Ты готов? Такси приехало.",
+          "topic": "travel"
+        },
+        {
+          "en": "The release is ready.",
+          "ru": "Релиз готов.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "such",
+      "lemma": "such",
+      "pos": "adj",
+      "rank": 25,
+      "translations": {
+        "ru": "такой"
+      },
+      "examples": [
+        {
+          "en": "It is such a beautiful city!",
+          "ru": "Такой красивый город!",
+          "topic": "travel"
+        },
+        {
+          "en": "I have never seen such a bug.",
+          "ru": "Никогда не видел такого бага.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "whole",
+      "lemma": "whole",
+      "pos": "adj",
+      "rank": 26,
+      "translations": {
+        "ru": "целый, весь"
+      },
+      "examples": [
+        {
+          "en": "We spent the whole day at the beach.",
+          "ru": "Мы провели весь день на пляже.",
+          "topic": "travel"
+        },
+        {
+          "en": "The whole team is online.",
+          "ru": "Вся команда онлайн.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hard",
+      "lemma": "hard",
+      "pos": "adj",
+      "rank": 27,
+      "translations": {
+        "ru": "трудный; твёрдый"
+      },
+      "pair": "es:difícil",
+      "forms": {
+        "comparative": "harder",
+        "superlative": "hardest"
+      },
+      "examples": [
+        {
+          "en": "It is hard to find a taxi here.",
+          "ru": "Здесь трудно найти такси.",
+          "topic": "travel"
+        },
+        {
+          "en": "The hard drive is full.",
+          "ru": "Жёсткий диск заполнен.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "few",
+      "lemma": "few",
+      "pos": "adj",
+      "rank": 28,
+      "translations": {
+        "ru": "немногие; a few — несколько"
+      },
+      "forms": {
+        "comparative": "fewer",
+        "superlative": "fewest"
+      },
+      "examples": [
+        {
+          "en": "We stayed a few days in Porto.",
+          "ru": "Мы провели несколько дней в Порту.",
+          "topic": "travel"
+        },
+        {
+          "en": "Only a few tests fail.",
+          "ru": "Падают только несколько тестов.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "open-adj",
+      "lemma": "open",
+      "pos": "adj",
+      "rank": 29,
+      "translations": {
+        "ru": "открытый"
+      },
+      "pair": "es:abierto",
+      "examples": [
+        {
+          "en": "Is the museum open today?",
+          "ru": "Музей сегодня открыт?",
+          "topic": "travel"
+        },
+        {
+          "en": "It is an open source project.",
+          "ru": "Это проект с открытым кодом.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "young",
+      "lemma": "young",
+      "pos": "adj",
+      "rank": 30,
+      "translations": {
+        "ru": "молодой"
+      },
+      "pair": "es:joven",
+      "forms": {
+        "comparative": "younger",
+        "superlative": "youngest"
+      },
+      "examples": [
+        {
+          "en": "The hostel is full of young people.",
+          "ru": "Хостел полон молодёжи.",
+          "topic": "travel"
+        },
+        {
+          "en": "We have a young team.",
+          "ru": "У нас молодая команда.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "true",
+      "lemma": "true",
+      "pos": "adj",
+      "rank": 31,
+      "translations": {
+        "ru": "верный, правдивый"
+      },
+      "pair": "es:cierto",
+      "examples": [
+        {
+          "en": "Is it true the museum is free today?",
+          "ru": "Правда, что сегодня музей бесплатный?",
+          "topic": "travel"
+        },
+        {
+          "en": "The value is true by default.",
+          "ru": "По умолчанию значение — true.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "easy",
+      "lemma": "easy",
+      "pos": "adj",
+      "rank": 32,
+      "translations": {
+        "ru": "лёгкий, простой"
+      },
+      "pair": "es:fácil",
+      "forms": {
+        "comparative": "easier",
+        "superlative": "easiest"
+      },
+      "examples": [
+        {
+          "en": "It is easy to get there by metro.",
+          "ru": "Туда легко доехать на метро.",
+          "topic": "travel"
+        },
+        {
+          "en": "The setup is very easy.",
+          "ru": "Настройка очень простая.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "beautiful",
+      "lemma": "beautiful",
+      "pos": "adj",
+      "rank": 33,
+      "translations": {
+        "ru": "красивый"
+      },
+      "pair": "es:hermoso",
+      "forms": {
+        "comparative": "more beautiful",
+        "superlative": "most beautiful"
+      },
+      "examples": [
+        {
+          "en": "What a beautiful beach!",
+          "ru": "Какой красивый пляж!",
+          "topic": "travel"
+        },
+        {
+          "en": "It is a beautiful piece of code.",
+          "ru": "Это красивый код.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "second-adj",
+      "lemma": "second",
+      "pos": "adj",
+      "rank": 34,
+      "translations": {
+        "ru": "второй"
+      },
+      "examples": [
+        {
+          "en": "We live on the second floor.",
+          "ru": "Мы живём на втором этаже.",
+          "topic": "travel"
+        },
+        {
+          "en": "This is the second version of the design.",
+          "ru": "Это вторая версия дизайна.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "crazy",
+      "lemma": "crazy",
+      "pos": "adj",
+      "rank": 35,
+      "translations": {
+        "ru": "сумасшедший"
+      },
+      "pair": "es:loco",
+      "forms": {
+        "comparative": "crazier",
+        "superlative": "craziest"
+      },
+      "examples": [
+        {
+          "en": "Prices here are crazy!",
+          "ru": "Цены здесь безумные!",
+          "topic": "travel"
+        },
+        {
+          "en": "It is a crazy idea, but it works.",
+          "ru": "Безумная идея, но работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "different",
+      "lemma": "different",
+      "pos": "adj",
+      "rank": 36,
+      "translations": {
+        "ru": "другой, разный"
+      },
+      "pair": "es:diferente",
+      "forms": {
+        "comparative": "more different",
+        "superlative": "most different"
+      },
+      "examples": [
+        {
+          "en": "The food here is very different.",
+          "ru": "Еда здесь совсем другая.",
+          "topic": "travel"
+        },
+        {
+          "en": "We tried a different approach.",
+          "ru": "Мы попробовали другой подход.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "afraid",
+      "lemma": "afraid",
+      "pos": "adj",
+      "rank": 37,
+      "translations": {
+        "ru": "испуганный; I'm afraid — боюсь, что"
+      },
+      "examples": [
+        {
+          "en": "I'm afraid of flying.",
+          "ru": "Я боюсь летать.",
+          "topic": "travel"
+        },
+        {
+          "en": "I'm afraid the server is down.",
+          "ru": "Боюсь, сервер упал.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "dear",
+      "lemma": "dear",
+      "pos": "adj",
+      "rank": 38,
+      "translations": {
+        "ru": "дорогой (обращение)"
+      },
+      "pair": "es:querido",
+      "examples": [
+        {
+          "en": "Dear Ana, I am writing from Rome.",
+          "ru": "Дорогая Анна, пишу тебе из Рима.",
+          "topic": "travel"
+        },
+        {
+          "en": "Dear team, the release is on Monday.",
+          "ru": "Дорогая команда, релиз в понедельник.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "important",
+      "lemma": "important",
+      "pos": "adj",
+      "rank": 39,
+      "translations": {
+        "ru": "важный"
+      },
+      "pair": "es:importante",
+      "forms": {
+        "comparative": "more important",
+        "superlative": "most important"
+      },
+      "examples": [
+        {
+          "en": "It is important to carry your passport.",
+          "ru": "Важно носить с собой паспорт.",
+          "topic": "travel"
+        },
+        {
+          "en": "I have an important meeting.",
+          "ru": "У меня важная встреча.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "least",
+      "lemma": "least",
+      "pos": "adj",
+      "rank": 40,
+      "translations": {
+        "ru": "наименьший; at least — по крайней мере"
+      },
+      "examples": [
+        {
+          "en": "At least we caught the train.",
+          "ru": "По крайней мере, мы успели на поезд.",
+          "topic": "travel"
+        },
+        {
+          "en": "Choose the least risky option.",
+          "ru": "Выбери наименее рискованный вариант.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "high",
+      "lemma": "high",
+      "pos": "adj",
+      "rank": 41,
+      "translations": {
+        "ru": "высокий"
+      },
+      "pair": "es:alto",
+      "forms": {
+        "comparative": "higher",
+        "superlative": "highest"
+      },
+      "examples": [
+        {
+          "en": "Prices are high in summer.",
+          "ru": "Летом цены высокие.",
+          "topic": "travel"
+        },
+        {
+          "en": "This task has high priority.",
+          "ru": "У этой задачи высокий приоритет.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "able",
+      "lemma": "able",
+      "pos": "adj",
+      "rank": 42,
+      "translations": {
+        "ru": "способный; be able to — мочь"
+      },
+      "pair": "es:capaz",
+      "examples": [
+        {
+          "en": "Will you be able to come?",
+          "ru": "Ты сможешь прийти?",
+          "topic": "travel"
+        },
+        {
+          "en": "The system is able to handle a thousand requests.",
+          "ru": "Система способна обработать тысячу запросов.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cool",
+      "lemma": "cool",
+      "pos": "adj",
+      "rank": 43,
+      "translations": {
+        "ru": "прохладный; классный"
+      },
+      "forms": {
+        "comparative": "cooler",
+        "superlative": "coolest"
+      },
+      "examples": [
+        {
+          "en": "It is cool in the evening.",
+          "ru": "Вечером прохладно.",
+          "topic": "travel"
+        },
+        {
+          "en": "That is a cool feature!",
+          "ru": "Классная функция!",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "half",
+      "lemma": "half",
+      "pos": "adj",
+      "rank": 44,
+      "translations": {
+        "ru": "половинный; половина"
+      },
+      "examples": [
+        {
+          "en": "The train is half empty.",
+          "ru": "Поезд наполовину пуст.",
+          "topic": "travel"
+        },
+        {
+          "en": "Half the tests are failing.",
+          "ru": "Половина тестов падает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "free",
+      "lemma": "free",
+      "pos": "adj",
+      "rank": 45,
+      "translations": {
+        "ru": "свободный; бесплатный"
+      },
+      "pair": "es:libre",
+      "forms": {
+        "comparative": "freer",
+        "superlative": "freest"
+      },
+      "examples": [
+        {
+          "en": "Is this seat free?",
+          "ru": "Это место свободно?",
+          "topic": "travel"
+        },
+        {
+          "en": "It is free software.",
+          "ru": "Это бесплатное ПО.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "stupid",
+      "lemma": "stupid",
+      "pos": "adj",
+      "rank": 46,
+      "translations": {
+        "ru": "глупый"
+      },
+      "pair": "es:estúpido",
+      "forms": {
+        "comparative": "stupider",
+        "superlative": "stupidest"
+      },
+      "examples": [
+        {
+          "en": "It was a stupid mistake — I missed the train.",
+          "ru": "Глупая ошибка — я опоздал на поезд.",
+          "topic": "travel"
+        },
+        {
+          "en": "Sorry for the stupid question.",
+          "ru": "Простите за глупый вопрос.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "full",
+      "lemma": "full",
+      "pos": "adj",
+      "rank": 47,
+      "translations": {
+        "ru": "полный"
+      },
+      "pair": "es:lleno",
+      "forms": {
+        "comparative": "fuller",
+        "superlative": "fullest"
+      },
+      "examples": [
+        {
+          "en": "The hotel is full.",
+          "ru": "Отель заполнен.",
+          "topic": "travel"
+        },
+        {
+          "en": "The disk is full.",
+          "ru": "Диск заполнен.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hot",
+      "lemma": "hot",
+      "pos": "adj",
+      "rank": 48,
+      "translations": {
+        "ru": "горячий; жаркий; острый"
+      },
+      "forms": {
+        "comparative": "hotter",
+        "superlative": "hottest"
+      },
+      "examples": [
+        {
+          "en": "It is very hot today.",
+          "ru": "Сегодня очень жарко.",
+          "topic": "travel"
+        },
+        {
+          "en": "The laptop gets hot.",
+          "ru": "Ноутбук нагревается.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "small",
+      "lemma": "small",
+      "pos": "adj",
+      "rank": 49,
+      "translations": {
+        "ru": "маленький"
+      },
+      "pair": "es:pequeño",
+      "forms": {
+        "comparative": "smaller",
+        "superlative": "smallest"
+      },
+      "examples": [
+        {
+          "en": "The room is very small.",
+          "ru": "Номер очень маленький.",
+          "topic": "travel"
+        },
+        {
+          "en": "It is a small change in the code.",
+          "ru": "Это маленькое изменение в коде.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "safe",
+      "lemma": "safe",
+      "pos": "adj",
+      "rank": 50,
+      "translations": {
+        "ru": "безопасный"
+      },
+      "pair": "es:seguro",
+      "forms": {
+        "comparative": "safer",
+        "superlative": "safest"
+      },
+      "examples": [
+        {
+          "en": "Is this area safe at night?",
+          "ru": "Этот район безопасен ночью?",
+          "topic": "travel"
+        },
+        {
+          "en": "Keep your passwords safe.",
+          "ru": "Храни пароли в безопасности.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "black",
+      "lemma": "black",
+      "pos": "adj",
+      "rank": 51,
+      "translations": {
+        "ru": "чёрный"
+      },
+      "examples": [
+        {
+          "en": "A black coffee, please.",
+          "ru": "Чёрный кофе, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "en": "The screen went black.",
+          "ru": "Экран стал чёрным.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "funny",
+      "lemma": "funny",
+      "pos": "adj",
+      "rank": 52,
+      "translations": {
+        "ru": "смешной, забавный"
+      },
+      "pair": "es:gracioso",
+      "forms": {
+        "comparative": "funnier",
+        "superlative": "funniest"
+      },
+      "examples": [
+        {
+          "en": "The guide was very funny.",
+          "ru": "Гид был очень забавный.",
+          "topic": "travel"
+        },
+        {
+          "en": "That is a funny bug.",
+          "ru": "Забавный баг.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "alive",
+      "lemma": "alive",
+      "pos": "adj",
+      "rank": 53,
+      "translations": {
+        "ru": "живой"
+      },
+      "pair": "es:vivo",
+      "examples": [
+        {
+          "en": "The city is alive at night.",
+          "ru": "Ночью город живой.",
+          "topic": "travel"
+        },
+        {
+          "en": "Is the server still alive?",
+          "ru": "Сервер ещё жив?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "white",
+      "lemma": "white",
+      "pos": "adj",
+      "rank": 54,
+      "translations": {
+        "ru": "белый"
+      },
+      "pair": "es:blanco",
+      "examples": [
+        {
+          "en": "A glass of white wine, please.",
+          "ru": "Бокал белого вина, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "en": "The page is blank and white.",
+          "ru": "Страница пустая и белая.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "perfect",
+      "lemma": "perfect",
+      "pos": "adj",
+      "rank": 55,
+      "translations": {
+        "ru": "идеальный"
+      },
+      "pair": "es:perfecto",
+      "examples": [
+        {
+          "en": "Perfect, see you at the hotel.",
+          "ru": "Отлично, увидимся в отеле.",
+          "topic": "travel"
+        },
+        {
+          "en": "No code is perfect.",
+          "ru": "Идеального кода не бывает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "special",
+      "lemma": "special",
+      "pos": "adj",
+      "rank": 56,
+      "translations": {
+        "ru": "особенный"
+      },
+      "pair": "es:especial",
+      "forms": {
+        "comparative": "more special",
+        "superlative": "most special"
+      },
+      "examples": [
+        {
+          "en": "There is a special menu today.",
+          "ru": "Сегодня особое меню.",
+          "topic": "travel"
+        },
+        {
+          "en": "Don't use special characters.",
+          "ru": "Не используй спецсимволы.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "poor",
+      "lemma": "poor",
+      "pos": "adj",
+      "rank": 57,
+      "translations": {
+        "ru": "бедный; плохой (по качеству)"
+      },
+      "pair": "es:pobre",
+      "forms": {
+        "comparative": "poorer",
+        "superlative": "poorest"
+      },
+      "examples": [
+        {
+          "en": "The wifi signal is poor here.",
+          "ru": "Здесь слабый сигнал вайфая.",
+          "topic": "travel"
+        },
+        {
+          "en": "Poor guy, he missed his flight.",
+          "ru": "Бедняга, опоздал на рейс.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "sick",
+      "lemma": "sick",
+      "pos": "adj",
+      "rank": 58,
+      "translations": {
+        "ru": "больной; меня тошнит (feel sick)"
+      },
+      "examples": [
+        {
+          "en": "I feel sick on the boat.",
+          "ru": "Меня укачивает на лодке.",
+          "topic": "travel"
+        },
+        {
+          "en": "She is off sick today.",
+          "ru": "Она сегодня на больничном.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "serious",
+      "lemma": "serious",
+      "pos": "adj",
+      "rank": 59,
+      "translations": {
+        "ru": "серьёзный"
+      },
+      "pair": "es:serio",
+      "forms": {
+        "comparative": "more serious",
+        "superlative": "most serious"
+      },
+      "examples": [
+        {
+          "en": "Is it a serious problem?",
+          "ru": "Это серьёзная проблема?",
+          "topic": "travel"
+        },
+        {
+          "en": "Are you serious? Another meeting?",
+          "ru": "Ты серьёзно? Ещё одна встреча?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "red",
+      "lemma": "red",
+      "pos": "adj",
+      "rank": 60,
+      "translations": {
+        "ru": "красный"
+      },
+      "pair": "es:rojo",
+      "examples": [
+        {
+          "en": "Take the red line to the centre.",
+          "ru": "Езжай по красной линии до центра.",
+          "topic": "travel"
+        },
+        {
+          "en": "The test is red.",
+          "ru": "Тест красный.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "past",
+      "lemma": "past",
+      "pos": "adj",
+      "rank": 61,
+      "translations": {
+        "ru": "прошлый, прошедший"
+      },
+      "pair": "es:pasado",
+      "examples": [
+        {
+          "en": "In the past few days we saw a lot.",
+          "ru": "За последние дни мы многое увидели.",
+          "topic": "travel"
+        },
+        {
+          "en": "This bug is in the past now.",
+          "ru": "Этот баг теперь в прошлом.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "possible",
+      "lemma": "possible",
+      "pos": "adj",
+      "rank": 62,
+      "translations": {
+        "ru": "возможный"
+      },
+      "pair": "es:posible",
+      "examples": [
+        {
+          "en": "Is it possible to change the flight?",
+          "ru": "Можно поменять рейс?",
+          "topic": "travel"
+        },
+        {
+          "en": "I will fix it as soon as possible.",
+          "ru": "Исправлю как можно скорее.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "strong",
+      "lemma": "strong",
+      "pos": "adj",
+      "rank": 63,
+      "translations": {
+        "ru": "сильный; крепкий"
+      },
+      "pair": "es:fuerte",
+      "forms": {
+        "comparative": "stronger",
+        "superlative": "strongest"
+      },
+      "examples": [
+        {
+          "en": "This coffee is very strong.",
+          "ru": "Этот кофе очень крепкий.",
+          "topic": "travel"
+        },
+        {
+          "en": "Use a strong password.",
+          "ru": "Используй надёжный пароль.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "top",
+      "lemma": "top",
+      "pos": "adj",
+      "rank": 64,
+      "translations": {
+        "ru": "верхний; лучший"
+      },
+      "examples": [
+        {
+          "en": "The view from the top floor is amazing.",
+          "ru": "Вид с верхнего этажа потрясающий.",
+          "topic": "travel"
+        },
+        {
+          "en": "The menu is at the top of the page.",
+          "ru": "Меню вверху страницы.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "glad",
+      "lemma": "glad",
+      "pos": "adj",
+      "rank": 65,
+      "translations": {
+        "ru": "довольный, радостный"
+      },
+      "examples": [
+        {
+          "en": "Glad to see you!",
+          "ru": "Рад тебя видеть!",
+          "topic": "travel"
+        },
+        {
+          "en": "I'm glad it works.",
+          "ru": "Рад, что работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cold",
+      "lemma": "cold",
+      "pos": "adj",
+      "rank": 66,
+      "translations": {
+        "ru": "холодный"
+      },
+      "forms": {
+        "comparative": "colder",
+        "superlative": "coldest"
+      },
+      "examples": [
+        {
+          "en": "It is cold in the mountains.",
+          "ru": "В горах холодно.",
+          "topic": "travel"
+        },
+        {
+          "en": "Try a cold restart.",
+          "ru": "Попробуй холодный перезапуск.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fast",
+      "lemma": "fast",
+      "pos": "adj",
+      "rank": 67,
+      "translations": {
+        "ru": "быстрый"
+      },
+      "pair": "es:rápido",
+      "forms": {
+        "comparative": "faster",
+        "superlative": "fastest"
+      },
+      "examples": [
+        {
+          "en": "The fast train takes two hours.",
+          "ru": "Скоростной поезд едет два часа.",
+          "topic": "travel"
+        },
+        {
+          "en": "The new version is faster.",
+          "ru": "Новая версия быстрее.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "sweet",
+      "lemma": "sweet",
+      "pos": "adj",
+      "rank": 68,
+      "translations": {
+        "ru": "сладкий; милый"
+      },
+      "forms": {
+        "comparative": "sweeter",
+        "superlative": "sweetest"
+      },
+      "examples": [
+        {
+          "en": "The dessert is too sweet.",
+          "ru": "Десерт слишком сладкий.",
+          "topic": "travel"
+        },
+        {
+          "en": "That is so sweet of you!",
+          "ru": "Как мило с твоей стороны!",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "strange",
+      "lemma": "strange",
+      "pos": "adj",
+      "rank": 69,
+      "translations": {
+        "ru": "странный"
+      },
+      "pair": "es:extraño",
+      "forms": {
+        "comparative": "stranger",
+        "superlative": "strangest"
+      },
+      "examples": [
+        {
+          "en": "It is strange, the train is late.",
+          "ru": "Странно, поезд опаздывает.",
+          "topic": "travel"
+        },
+        {
+          "en": "I see a strange error in the logs.",
+          "ru": "Вижу странную ошибку в логах.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "lucky",
+      "lemma": "lucky",
+      "pos": "adj",
+      "rank": 70,
+      "translations": {
+        "ru": "везучий"
+      },
+      "forms": {
+        "comparative": "luckier",
+        "superlative": "luckiest"
+      },
+      "examples": [
+        {
+          "en": "We were lucky with the weather.",
+          "ru": "Нам повезло с погодой.",
+          "topic": "travel"
+        },
+        {
+          "en": "Lucky you, the bug was easy!",
+          "ru": "Повезло тебе, баг был простой!",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "quiet",
+      "lemma": "quiet",
+      "pos": "adj",
+      "rank": 71,
+      "translations": {
+        "ru": "тихий, спокойный"
+      },
+      "pair": "es:tranquilo",
+      "forms": {
+        "comparative": "quieter",
+        "superlative": "quietest"
+      },
+      "examples": [
+        {
+          "en": "We want a quiet room.",
+          "ru": "Мы хотим тихий номер.",
+          "topic": "travel"
+        },
+        {
+          "en": "The office is quiet on Fridays.",
+          "ru": "По пятницам в офисе тихо.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "careful",
+      "lemma": "careful",
+      "pos": "adj",
+      "rank": 72,
+      "translations": {
+        "ru": "осторожный"
+      },
+      "forms": {
+        "comparative": "more careful",
+        "superlative": "most careful"
+      },
+      "examples": [
+        {
+          "en": "Be careful, the floor is wet.",
+          "ru": "Осторожно, пол мокрый.",
+          "topic": "travel"
+        },
+        {
+          "en": "Be careful with production data.",
+          "ru": "Осторожнее с боевыми данными.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "secret-adj",
+      "lemma": "secret",
+      "pos": "adj",
+      "rank": 73,
+      "translations": {
+        "ru": "секретный"
+      },
+      "examples": [
+        {
+          "en": "This beach is a secret place.",
+          "ru": "Этот пляж — секретное место.",
+          "topic": "travel"
+        },
+        {
+          "en": "Keep the API key secret.",
+          "ru": "Держи ключ API в секрете.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "wonderful",
+      "lemma": "wonderful",
+      "pos": "adj",
+      "rank": 74,
+      "translations": {
+        "ru": "чудесный"
+      },
+      "pair": "es:maravilloso",
+      "forms": {
+        "comparative": "more wonderful",
+        "superlative": "most wonderful"
+      },
+      "examples": [
+        {
+          "en": "It was a wonderful day.",
+          "ru": "Это был чудесный день.",
+          "topic": "travel"
+        },
+        {
+          "en": "You have a wonderful team.",
+          "ru": "У тебя чудесная команда.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mad",
+      "lemma": "mad",
+      "pos": "adj",
+      "rank": 75,
+      "translations": {
+        "ru": "сумасшедший; злой (разг.)"
+      },
+      "pair": "es:loco",
+      "forms": {
+        "comparative": "madder",
+        "superlative": "maddest"
+      },
+      "examples": [
+        {
+          "en": "Are you mad? It is too expensive.",
+          "ru": "Ты с ума сошёл? Это слишком дорого.",
+          "topic": "travel"
+        },
+        {
+          "en": "The client is mad about the delay.",
+          "ru": "Клиент злится из-за задержки.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "clean-adj",
+      "lemma": "clean",
+      "pos": "adj",
+      "rank": 76,
+      "translations": {
+        "ru": "чистый"
+      },
+      "forms": {
+        "comparative": "cleaner",
+        "superlative": "cleanest"
+      },
+      "examples": [
+        {
+          "en": "The room is very clean.",
+          "ru": "Номер очень чистый.",
+          "topic": "travel"
+        },
+        {
+          "en": "Write clean code.",
+          "ru": "Пиши чистый код.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "quick",
+      "lemma": "quick",
+      "pos": "adj",
+      "rank": 77,
+      "translations": {
+        "ru": "быстрый"
+      },
+      "pair": "es:rápido",
+      "forms": {
+        "comparative": "quicker",
+        "superlative": "quickest"
+      },
+      "examples": [
+        {
+          "en": "Can I ask a quick question?",
+          "ru": "Можно быстрый вопрос?",
+          "topic": "it"
+        },
+        {
+          "en": "We had a quick lunch at the station.",
+          "ru": "Мы быстро пообедали на вокзале.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "worth",
+      "lemma": "worth",
+      "pos": "adj",
+      "rank": 78,
+      "translations": {
+        "ru": "стоящий; be worth — стоить того"
+      },
+      "examples": [
+        {
+          "en": "The museum is worth a visit.",
+          "ru": "Музей стоит посетить.",
+          "topic": "travel"
+        },
+        {
+          "en": "Is it worth refactoring this?",
+          "ru": "Стоит ли это рефакторить?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "weird",
+      "lemma": "weird",
+      "pos": "adj",
+      "rank": 79,
+      "translations": {
+        "ru": "странный, чудной (разг.)"
+      },
+      "pair": "es:raro",
+      "forms": {
+        "comparative": "weirder",
+        "superlative": "weirdest"
+      },
+      "examples": [
+        {
+          "en": "The food here is a bit weird.",
+          "ru": "Еда здесь немного странная.",
+          "topic": "travel"
+        },
+        {
+          "en": "That is a weird bug.",
+          "ru": "Странный баг.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "amazing",
+      "lemma": "amazing",
+      "pos": "adj",
+      "rank": 80,
+      "translations": {
+        "ru": "потрясающий"
+      },
+      "pair": "es:increíble",
+      "forms": {
+        "comparative": "more amazing",
+        "superlative": "most amazing"
+      },
+      "examples": [
+        {
+          "en": "The view is amazing!",
+          "ru": "Вид потрясающий!",
+          "topic": "travel"
+        },
+        {
+          "en": "The new feature is amazing.",
+          "ru": "Новая функция потрясающая.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "busy",
+      "lemma": "busy",
+      "pos": "adj",
+      "rank": 81,
+      "translations": {
+        "ru": "занятой; оживлённый"
+      },
+      "pair": "es:ocupado",
+      "forms": {
+        "comparative": "busier",
+        "superlative": "busiest"
+      },
+      "examples": [
+        {
+          "en": "The streets are busy in summer.",
+          "ru": "Летом на улицах людно.",
+          "topic": "travel"
+        },
+        {
+          "en": "I am busy this week.",
+          "ru": "Я занят на этой неделе.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "general",
+      "lemma": "general",
+      "pos": "adj",
+      "rank": 82,
+      "translations": {
+        "ru": "общий"
+      },
+      "pair": "es:general",
+      "examples": [
+        {
+          "en": "In general, people are friendly.",
+          "ru": "В целом люди приветливые.",
+          "topic": "travel"
+        },
+        {
+          "en": "It is a general setting.",
+          "ru": "Это общая настройка.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tired",
+      "lemma": "tired",
+      "pos": "adj",
+      "rank": 83,
+      "translations": {
+        "ru": "уставший"
+      },
+      "forms": {
+        "comparative": "more tired",
+        "superlative": "most tired"
+      },
+      "examples": [
+        {
+          "en": "I am tired after the flight.",
+          "ru": "Я устал после перелёта.",
+          "topic": "travel"
+        },
+        {
+          "en": "I am tired of meetings.",
+          "ru": "Я устал от встреч.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "dark",
+      "lemma": "dark",
+      "pos": "adj",
+      "rank": 84,
+      "translations": {
+        "ru": "тёмный"
+      },
+      "forms": {
+        "comparative": "darker",
+        "superlative": "darkest"
+      },
+      "examples": [
+        {
+          "en": "It gets dark early in winter.",
+          "ru": "Зимой рано темнеет.",
+          "topic": "travel"
+        },
+        {
+          "en": "I use the dark theme.",
+          "ru": "Я пользуюсь тёмной темой.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "round",
+      "lemma": "round",
+      "pos": "adj",
+      "rank": 85,
+      "translations": {
+        "ru": "круглый; round trip — туда и обратно"
+      },
+      "examples": [
+        {
+          "en": "A round-trip ticket, please.",
+          "ru": "Билет туда и обратно, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "en": "We sat at a round table.",
+          "ru": "Мы сели за круглый стол.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "terrible",
+      "lemma": "terrible",
+      "pos": "adj",
+      "rank": 86,
+      "translations": {
+        "ru": "ужасный"
+      },
+      "pair": "es:terrible",
+      "forms": {
+        "comparative": "more terrible",
+        "superlative": "most terrible"
+      },
+      "examples": [
+        {
+          "en": "The traffic is terrible at this hour.",
+          "ru": "В это время ужасные пробки.",
+          "topic": "travel"
+        },
+        {
+          "en": "I had a terrible day at work.",
+          "ru": "У меня был ужасный день на работе.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "simple",
+      "lemma": "simple",
+      "pos": "adj",
+      "rank": 87,
+      "translations": {
+        "ru": "простой"
+      },
+      "forms": {
+        "comparative": "simpler",
+        "superlative": "simplest"
+      },
+      "examples": [
+        {
+          "en": "The menu is simple but good.",
+          "ru": "Меню простое, но хорошее.",
+          "topic": "travel"
+        },
+        {
+          "en": "Keep it simple.",
+          "ru": "Делай проще.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "short",
+      "lemma": "short",
+      "pos": "adj",
+      "rank": 88,
+      "translations": {
+        "ru": "короткий; низкий (рост)"
+      },
+      "forms": {
+        "comparative": "shorter",
+        "superlative": "shortest"
+      },
+      "examples": [
+        {
+          "en": "It is a short walk to the beach.",
+          "ru": "До пляжа недалеко пешком.",
+          "topic": "travel"
+        },
+        {
+          "en": "Keep the meeting short.",
+          "ru": "Сделай встречу короткой.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "blue",
+      "lemma": "blue",
+      "pos": "adj",
+      "rank": 89,
+      "translations": {
+        "ru": "синий, голубой"
+      },
+      "examples": [
+        {
+          "en": "The sea is so blue here.",
+          "ru": "Море здесь такое синее.",
+          "topic": "travel"
+        },
+        {
+          "en": "Click the blue button.",
+          "ru": "Нажми синюю кнопку.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "lovely",
+      "lemma": "lovely",
+      "pos": "adj",
+      "rank": 90,
+      "translations": {
+        "ru": "прекрасный, милый"
+      },
+      "pair": "es:lindo",
+      "forms": {
+        "comparative": "lovelier",
+        "superlative": "loveliest"
+      },
+      "examples": [
+        {
+          "en": "What a lovely village!",
+          "ru": "Какая милая деревня!",
+          "topic": "travel"
+        },
+        {
+          "en": "Thanks, that is lovely of you.",
+          "ru": "Спасибо, это очень мило.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "entire",
+      "lemma": "entire",
+      "pos": "adj",
+      "rank": 91,
+      "translations": {
+        "ru": "весь, целый"
+      },
+      "examples": [
+        {
+          "en": "We walked the entire old town.",
+          "ru": "Мы обошли весь старый город.",
+          "topic": "travel"
+        },
+        {
+          "en": "The entire system is down.",
+          "ru": "Вся система лежит.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "middle",
+      "lemma": "middle",
+      "pos": "adj",
+      "rank": 92,
+      "translations": {
+        "ru": "средний; in the middle — посередине"
+      },
+      "examples": [
+        {
+          "en": "The hotel is in the middle of the city.",
+          "ru": "Отель в самом центре города.",
+          "topic": "travel"
+        },
+        {
+          "en": "I am in the middle of a meeting.",
+          "ru": "Я посреди встречи.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fair",
+      "lemma": "fair",
+      "pos": "adj",
+      "rank": 93,
+      "translations": {
+        "ru": "справедливый; ярмарка"
+      },
+      "pair": "es:justo",
+      "forms": {
+        "comparative": "fairer",
+        "superlative": "fairest"
+      },
+      "examples": [
+        {
+          "en": "That is not a fair price.",
+          "ru": "Это несправедливая цена.",
+          "topic": "travel"
+        },
+        {
+          "en": "Fair point, let us change it.",
+          "ru": "Справедливо, давай поменяем.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "dangerous",
+      "lemma": "dangerous",
+      "pos": "adj",
+      "rank": 94,
+      "translations": {
+        "ru": "опасный"
+      },
+      "pair": "es:peligroso",
+      "forms": {
+        "comparative": "more dangerous",
+        "superlative": "most dangerous"
+      },
+      "examples": [
+        {
+          "en": "Is it dangerous to swim here?",
+          "ru": "Здесь опасно купаться?",
+          "topic": "travel"
+        },
+        {
+          "en": "It is dangerous to delete that table.",
+          "ru": "Опасно удалять эту таблицу.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "interesting",
+      "lemma": "interesting",
+      "pos": "adj",
+      "rank": 95,
+      "translations": {
+        "ru": "интересный"
+      },
+      "pair": "es:interesante",
+      "forms": {
+        "comparative": "more interesting",
+        "superlative": "most interesting"
+      },
+      "examples": [
+        {
+          "en": "It is a very interesting museum.",
+          "ru": "Это очень интересный музей.",
+          "topic": "travel"
+        },
+        {
+          "en": "I got an interesting job offer.",
+          "ru": "Я получил интересное предложение о работе.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "deep",
+      "lemma": "deep",
+      "pos": "adj",
+      "rank": 96,
+      "translations": {
+        "ru": "глубокий"
+      },
+      "forms": {
+        "comparative": "deeper",
+        "superlative": "deepest"
+      },
+      "examples": [
+        {
+          "en": "The water is deep here.",
+          "ru": "Здесь глубоко.",
+          "topic": "travel"
+        },
+        {
+          "en": "We did a deep dive into the code.",
+          "ru": "Мы глубоко погрузились в код.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "single",
+      "lemma": "single",
+      "pos": "adj",
+      "rank": 97,
+      "translations": {
+        "ru": "одиночный; одноместный; холостой"
+      },
+      "pair": "es:único",
+      "examples": [
+        {
+          "en": "A single room, please.",
+          "ru": "Одноместный номер, пожалуйста.",
+          "topic": "travel"
+        },
+        {
+          "en": "It is a single point of failure.",
+          "ru": "Это единая точка отказа.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "rich",
+      "lemma": "rich",
+      "pos": "adj",
+      "rank": 98,
+      "translations": {
+        "ru": "богатый"
+      },
+      "pair": "es:rico",
+      "forms": {
+        "comparative": "richer",
+        "superlative": "richest"
+      },
+      "examples": [
+        {
+          "en": "It is a rich neighbourhood.",
+          "ru": "Это богатый район.",
+          "topic": "travel"
+        },
+        {
+          "en": "The editor has rich features.",
+          "ru": "У редактора богатые возможности.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "normal",
+      "lemma": "normal",
+      "pos": "adj",
+      "rank": 99,
+      "translations": {
+        "ru": "обычный"
+      },
+      "pair": "es:normal",
+      "forms": {
+        "comparative": "more normal",
+        "superlative": "most normal"
+      },
+      "examples": [
+        {
+          "en": "Is it normal to tip here?",
+          "ru": "Здесь принято оставлять чаевые?",
+          "topic": "travel"
+        },
+        {
+          "en": "In normal mode everything works.",
+          "ru": "В обычном режиме всё работает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tough",
+      "lemma": "tough",
+      "pos": "adj",
+      "rank": 100,
+      "translations": {
+        "ru": "трудный; жёсткий"
+      },
+      "pair": "es:duro",
+      "forms": {
+        "comparative": "tougher",
+        "superlative": "toughest"
+      },
+      "examples": [
+        {
+          "en": "It was a tough trip.",
+          "ru": "Это была трудная поездка.",
+          "topic": "travel"
+        },
+        {
+          "en": "That is a tough deadline.",
+          "ru": "Это жёсткий срок.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "extra",
+      "lemma": "extra",
+      "pos": "adj",
+      "rank": 145,
+      "translations": {
+        "ru": "дополнительный, лишний"
+      },
+      "examples": [
+        {
+          "en": "Is there an extra charge for the bag?",
+          "ru": "За сумку есть доплата?",
+          "topic": "travel"
+        },
+        {
+          "en": "We need an extra day for testing.",
+          "ru": "Нам нужен лишний день на тестирование.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "local",
+      "lemma": "local",
+      "pos": "adj",
+      "rank": 151,
+      "translations": {
+        "ru": "местный"
+      },
+      "examples": [
+        {
+          "en": "Could you recommend a local dish?",
+          "ru": "Посоветуете местное блюдо?",
+          "topic": "travel"
+        },
+        {
+          "en": "Run the tests on your local machine.",
+          "ru": "Запусти тесты на своей машине.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "due",
+      "lemma": "due",
+      "pos": "adj",
+      "rank": 158,
+      "translations": {
+        "ru": "ожидаемый к сроку; должный"
+      },
+      "examples": [
+        {
+          "en": "The train is due at five.",
+          "ru": "Поезд должен прибыть в пять.",
+          "topic": "travel"
+        },
+        {
+          "en": "The task is due on Friday.",
+          "ru": "Срок задачи — пятница.",
+          "topic": "it"
+        }
+      ],
+      "note": {
+        "ru": "be due — «срок — …», «ожидается»: The report is due tomorrow"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "correct",
+      "lemma": "correct",
+      "pos": "adj",
+      "rank": 159,
+      "translations": {
+        "ru": "правильный, верный"
+      },
+      "examples": [
+        {
+          "en": "Is this the correct platform?",
+          "ru": "Это правильная платформа?",
+          "topic": "travel"
+        },
+        {
+          "en": "The data is correct now.",
+          "ru": "Теперь данные верные.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cheap",
+      "lemma": "cheap",
+      "pos": "adj",
+      "rank": 180,
+      "translations": {
+        "ru": "дешёвый"
+      },
+      "forms": {
+        "comparative": "cheaper",
+        "superlative": "cheapest"
+      },
+      "examples": [
+        {
+          "en": "The bus is cheaper than a taxi.",
+          "ru": "Автобус дешевле такси.",
+          "topic": "travel"
+        },
+        {
+          "en": "Cheap hosting is not always reliable.",
+          "ru": "Дешёвый хостинг не всегда надёжен.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "expensive",
+      "lemma": "expensive",
+      "pos": "adj",
+      "rank": 196,
+      "translations": {
+        "ru": "дорогой"
+      },
+      "forms": {
+        "comparative": "more expensive",
+        "superlative": "most expensive"
+      },
+      "examples": [
+        {
+          "en": "It's too expensive for us.",
+          "ru": "Для нас это слишком дорого.",
+          "topic": "travel"
+        },
+        {
+          "en": "The new server is more expensive.",
+          "ru": "Новый сервер дороже.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    }
+  ]
+}

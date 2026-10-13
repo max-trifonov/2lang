@@ -1,0 +1,82 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-08",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 8,
+  "level": "A1",
+  "title": {
+    "ru": "В кафе: кофе и вода",
+    "en": "At the café: coffee and water",
+    "es": "En la cafetería: café y agua"
+  },
+  "words": [
+    "tomar",
+    "café",
+    "agua",
+    "también"
+  ],
+  "phrase": {
+    "es": "Un café y un agua, por favor.",
+    "ru": "Кофе и воду, пожалуйста.",
+    "en": "A coffee and a water, please.",
+    "note": {
+      "ru": "agua — женский род, но говорят el agua, un agua: так легче произнести.",
+      "en": "agua is feminine, but you say el agua, un agua — easier to pronounce.",
+      "es": "agua es femenino, pero decimos el agua, un agua."
+    }
+  },
+  "rule": {
+    "text": {
+      "ru": "tomar — «брать», в кафе — «пить, есть»: tomar un café — выпить кофе. ¿Qué toma? — вежливое «Что будете?». también — «тоже»: Yo también.",
+      "en": "tomar means “to take”; at a café — “to have”: tomar un café. ¿Qué toma? is a polite “What will you have?”. también means “too”: Yo también.",
+      "es": "tomar: tomar un café. ¿Qué toma? (usted). también: Yo también."
+    },
+    "examples": [
+      {
+        "es": "¿Qué quiere tomar?",
+        "ru": "Что желаете?"
+      },
+      {
+        "es": "Yo también tomo un café.",
+        "ru": "Я тоже возьму кофе."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Yo ___ un café con leche.",
+      "answer": "tomo",
+      "ru": "Я возьму кофе с молоком."
+    },
+    {
+      "type": "fill",
+      "es": "Un agua ___, por favor.",
+      "answer": "también",
+      "ru": "И воду тоже, пожалуйста."
+    },
+    {
+      "type": "build",
+      "es": "Quiero tomar un café.",
+      "ru": "Я хочу выпить кофе.",
+      "extra": [
+        "tomo"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я тоже пью кофе.",
+      "answer": [
+        "Yo también tomo café.",
+        "También tomo café.",
+        "Yo también tomo un café."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-08",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 8,
+  "level": "B1",
+  "title": {
+    "ru": "Поделись файлом",
+    "en": "Share the file",
+    "es": "Comparte el archivo"
+  },
+  "words": [
+    "share",
+    "file",
+    "colleague",
+    "together"
+  ],
+  "phrase": {
+    "en": "Could you share the file with my colleague? We're working on it together.",
+    "ru": "Можешь дать доступ к файлу моему коллеге? Мы работаем над ним вместе.",
+    "es": "¿Puedes compartir el archivo con mi compañero? Trabajamos en él juntos."
+  },
+  "rule": {
+    "text": {
+      "ru": "share что-то with кем-то: share the file with me. По-русски часто «скинь, дай доступ», по-английски — share или send.",
+      "en": "share something with someone: share the file with me. Russian often says “send me / give access”; English says share or send.",
+      "es": "share algo with alguien: share the file with me."
+    },
+    "examples": [
+      {
+        "en": "I'll share my screen.",
+        "ru": "Я пошарю экран."
+      },
+      {
+        "en": "My colleague is on holiday this week.",
+        "ru": "Мой коллега на этой неделе в отпуске."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Can you ___ your screen?",
+      "answer": "share",
+      "ru": "Можешь пошарить экран?"
+    },
+    {
+      "type": "fill",
+      "en": "The ___ is too big to send by email.",
+      "answer": "file",
+      "ru": "Файл слишком большой, чтобы отправить по почте."
+    },
+    {
+      "type": "build",
+      "en": "I shared the file with my colleague.",
+      "ru": "Я дал доступ к файлу коллеге.",
+      "extra": [
+        "to"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Поделись файлом со мной.",
+      "answer": [
+        "Share the file with me.",
+        "Please share the file with me.",
+        "Could you share the file with me?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}
