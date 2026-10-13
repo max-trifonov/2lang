@@ -1,0 +1,41 @@
+# Личные тексты (license: personal) — не публикуются (D-5)
+content/private/
+
+# Зависимости и сборка
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+.vite/
+.tmp-assets/
+
+# Нативные проекты (генерируются `npm run native:generate`)
+/app/ios/
+/app/android/
+
+# Окружение и секреты
+.env
+.env.*
+!.env.example
+
+# Python (скрипты сборки контента, venv с piper-tts)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Голосовые модели Piper — тяжёлые, ставятся отдельно
+*.onnx
+*.onnx.json
+
+# Инструменты и редакторы
+.taskctl.lock
+.claude/settings.local.json
+.idea/
+.vscode/
+*.swp
+
+# ОС и логи
+.DS_Store
+Thumbs.db
+*.log
