@@ -1,0 +1,517 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "villains-love-letter",
+  "kind": "song",
+  "lang": "en",
+  "license": "personal",
+  "title": {
+    "en": "Villain's Love Letter",
+    "ru": "Любовное письмо злодея"
+  },
+  "level": "B1",
+  "tags": [
+    "love"
+  ],
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Midnight pen bleeds your name on this page",
+          "ru": "Полночная ручка кровоточит твоим именем на этой странице",
+          "phrases": [
+            {
+              "en": "bleeds",
+              "ru": "кровоточит",
+              "note": {
+                "ru": "bleed — кровоточить; образ: имя проступает, как кровь"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Every line a chain I refuse to tighten",
+          "ru": "Каждая строка — цепь, которую я отказываюсь затягивать",
+          "phrases": [
+            {
+              "en": "I refuse to",
+              "ru": "я отказываюсь",
+              "note": {
+                "ru": "refuse to + глагол — отказываться что-то делать"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Your scent still lingers where I shouldn’t have stayed",
+          "ru": "Твой запах всё ещё витает там, где мне не следовало оставаться",
+          "phrases": [
+            {
+              "en": "still lingers",
+              "ru": "всё ещё витает",
+              "note": {
+                "ru": "linger — задерживаться, не уходить"
+              }
+            },
+            {
+              "en": "shouldn’t have stayed",
+              "ru": "не следовало оставаться",
+              "note": {
+                "ru": "should have + V3 — сожаление о прошлом: «не надо было»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I write what I feel then set it alight, baby",
+          "ru": "Я пишу то, что чувствую, а потом поджигаю это, детка",
+          "phrases": [
+            {
+              "en": "what I feel",
+              "ru": "то, что я чувствую"
+            },
+            {
+              "en": "set it alight",
+              "ru": "поджигаю это",
+              "note": {
+                "ru": "set smth alight — поджечь"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Flames eat the truth I was never meant to say",
+          "ru": "Пламя пожирает правду, которую мне никогда не следовало говорить",
+          "phrases": [
+            {
+              "en": "I was never meant to",
+              "ru": "мне не следовало, не суждено было",
+              "note": {
+                "ru": "be meant to — быть предназначенным, «так задумано»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Heart wants to break, but the villain stays cold",
+          "ru": "Сердце хочет разбиться, но злодей остаётся холодным",
+          "phrases": [
+            {
+              "en": "stays cold",
+              "ru": "остаётся холодным",
+              "note": {
+                "ru": "stay + прилагательное — оставаться каким-то"
+              }
+            }
+          ]
+        },
+        {
+          "en": "One spark, one breath, and I lose all control",
+          "ru": "Одна искра, один вдох — и я теряю весь контроль",
+          "phrases": [
+            {
+              "en": "I lose all control",
+              "ru": "я теряю весь контроль"
+            }
+          ]
+        },
+        {
+          "en": "This is my villain love letter, turning to ashes in the night",
+          "ru": "Это моё любовное письмо злодея, обращающееся в пепел в ночи",
+          "phrases": [
+            {
+              "en": "turning to ashes",
+              "ru": "обращающееся в пепел",
+              "note": {
+                "ru": "turn to — превращаться во что-то"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "I watch it float away, still it holds you in my mind",
+          "ru": "Я смотрю, как оно улетает, но оно всё ещё держит тебя в моих мыслях",
+          "phrases": [
+            {
+              "en": "float away",
+              "ru": "уплывает, улетает",
+              "note": {
+                "ru": "float — плыть, парить; watch + кто-то + глагол без to: I watch it float"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Can’t say I need you, can’t let you inside",
+          "ru": "Не могу сказать, что ты мне нужна, не могу впустить тебя внутрь",
+          "phrases": [
+            {
+              "en": "let you inside",
+              "ru": "впустить тебя внутрь",
+              "note": {
+                "ru": "let smb in(side) — впустить"
+              }
+            }
+          ]
+        },
+        {
+          "en": "So I burn what I wrote just to keep you alive!",
+          "ru": "Поэтому я сжигаю то, что написал, лишь бы сохранить тебя живой!",
+          "phrases": [
+            {
+              "en": "just to keep you alive",
+              "ru": "лишь бы сохранить тебя живой",
+              "note": {
+                "ru": "just to … — лишь бы, только чтобы; keep smb alive — сохранить в живых"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Villain love letter, ashes dance in the dark",
+          "ru": "Любовное письмо злодея, пепел танцует в темноте",
+          "phrases": [
+            {
+              "en": "ashes dance",
+              "ru": "пепел танцует",
+              "note": {
+                "ru": "ashes — мн. ч.; по-русски «пепел» — ед. ч."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "They carry my hunger, they carry my heart",
+          "ru": "Он несёт мой голод, он несёт моё сердце",
+          "phrases": [
+            {
+              "en": "carry my heart",
+              "ru": "несёт моё сердце"
+            }
+          ]
+        },
+        {
+          "en": "I’ll never confess it, I’ll never be free",
+          "ru": "Я никогда не признаюсь, я никогда не буду свободен",
+          "phrases": [
+            {
+              "en": "I’ll never confess it",
+              "ru": "я никогда в этом не признаюсь",
+              "note": {
+                "ru": "confess — признаться; will — будущее"
+              }
+            }
+          ]
+        },
+        {
+          "en": "But every flame whispers I want you beside me",
+          "ru": "Но каждое пламя шепчет: я хочу тебя рядом",
+          "phrases": [
+            {
+              "en": "I want you beside me",
+              "ru": "я хочу тебя рядом",
+              "note": {
+                "ru": "beside — рядом с"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Electric guitar hums low like my pulse in the dark",
+          "ru": "Электрогитара гудит низко, как мой пульс в темноте",
+          "phrases": [
+            {
+              "en": "hums low",
+              "ru": "гудит низко"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Bass wraps around you, pulling you into my arms",
+          "ru": "Бас обвивается вокруг тебя, притягивая тебя в мои объятия",
+          "phrases": [
+            {
+              "en": "wraps around you",
+              "ru": "обвивается вокруг тебя"
+            },
+            {
+              "en": "into my arms",
+              "ru": "в мои объятия"
+            }
+          ]
+        },
+        {
+          "en": "I watch your eyes with the smoke in the air",
+          "ru": "Я смотрю в твои глаза сквозь дым в воздухе"
+        },
+        {
+          "en": "I hug you tight but I…",
+          "ru": "Я крепко обнимаю тебя, но я…",
+          "phrases": [
+            {
+              "en": "hug you tight",
+              "ru": "крепко обнимаю тебя"
+            }
+          ]
+        },
+        {
+          "en": "I swallow the words that would make me fall apart",
+          "ru": "Я проглатываю слова, которые разорвали бы меня на части",
+          "phrases": [
+            {
+              "en": "fall apart",
+              "ru": "развалиться на части, сломаться",
+              "note": {
+                "ru": "make smb + глагол без to: would make me fall apart"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Heart wants to break, but the villain must stays cold",
+          "ru": "Сердце хочет разбиться, но злодей должен оставаться холодным",
+          "phrases": [
+            {
+              "en": "must stays cold",
+              "ru": "должен оставаться холодным",
+              "note": {
+                "ru": "в оригинале ошибка: после must глагол без -s — must stay"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Your spark, one breath, and I lose all control of myself",
+          "ru": "Твоя искра, один вдох — и я теряю весь контроль над собой",
+          "phrases": [
+            {
+              "en": "control of myself",
+              "ru": "контроль над собой"
+            }
+          ]
+        },
+        {
+          "en": "This is my villain love letter, turning to ashes in the night",
+          "ru": "Это моё любовное письмо злодея, обращающееся в пепел в ночи"
+        },
+        {
+          "en": "I watch it float away, still it holds you in my mind",
+          "ru": "Я смотрю, как оно улетает, но оно всё ещё держит тебя в моих мыслях"
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Can’t say I need you, can’t let you inside",
+          "ru": "Не могу сказать, что ты мне нужна, не могу впустить тебя внутрь"
+        },
+        {
+          "en": "So I burn what I wrote just to keep you alive!",
+          "ru": "Поэтому я сжигаю то, что написал, лишь бы сохранить тебя живой!"
+        },
+        {
+          "en": "Villain love letter, ashes dance in the dark",
+          "ru": "Любовное письмо злодея, пепел танцует в темноте"
+        },
+        {
+          "en": "They carry my hunger, they carry my heart",
+          "ru": "Он несёт мой голод, он несёт моё сердце"
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "I’ll never confess it, I’ll never be free",
+          "ru": "Я никогда не признаюсь, я никогда не буду свободен"
+        },
+        {
+          "en": "But every flame whispers I want you beside me",
+          "ru": "Но каждое пламя шепчет: я хочу тебя рядом"
+        },
+        {
+          "en": "If I let you in… I’d burn the whole world instead",
+          "ru": "Если я впущу тебя… я сожгу весь мир",
+          "phrases": [
+            {
+              "en": "If I let you in",
+              "ru": "если я впущу тебя",
+              "note": {
+                "ru": "условное: if + Past Simple, … would (I’d) + глагол — EN-37"
+              }
+            },
+            {
+              "en": "the whole world",
+              "ru": "весь мир"
+            }
+          ]
+        },
+        {
+          "en": "So I stay right here… and watch the embers fall",
+          "ru": "Поэтому я остаюсь здесь… и смотрю, как падают угли",
+          "phrases": [
+            {
+              "en": "watch the embers fall",
+              "ru": "смотрю, как падают угли",
+              "note": {
+                "ru": "embers — тлеющие угли; watch + что-то + глагол без to"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "This is my villain love letter, burning slow in the night",
+          "ru": "Это моё любовное письмо злодея, медленно горящее в ночи",
+          "phrases": [
+            {
+              "en": "burning slow",
+              "ru": "медленно горящее",
+              "note": {
+                "ru": "slow вместо slowly — разговорно и в песнях"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Ashes rise higher, they’re carrying you into my life",
+          "ru": "Пепел поднимается выше, он несёт тебя в мою жизнь",
+          "phrases": [
+            {
+              "en": "rise higher",
+              "ru": "поднимается выше"
+            }
+          ]
+        },
+        {
+          "en": "I can’t say I love you, but the fire burns the truth",
+          "ru": "Я не могу сказать, что люблю тебя, но огонь выжигает правду"
+        },
+        {
+          "en": "I’m already yours, in the ruins I hug",
+          "ru": "Я уже твой — обнимаю тебя среди руин",
+          "lit": {
+            "ru": "Я уже твой, в руинах я обнимаю"
+          },
+          "phrases": [
+            {
+              "en": "I’m already yours",
+              "ru": "я уже твой"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Villain love letter, ashes dance in the dark",
+          "ru": "Любовное письмо злодея, пепел танцует в темноте"
+        },
+        {
+          "en": "They carry my hunger, they carry my heart",
+          "ru": "Он несёт мой голод, он несёт моё сердце"
+        },
+        {
+          "en": "I’ll never confess it, I’ll never let you see",
+          "ru": "Я никогда не признаюсь, никогда не дам тебе увидеть",
+          "phrases": [
+            {
+              "en": "let you see",
+              "ru": "дать тебе увидеть",
+              "note": {
+                "ru": "let + кто-то + глагол без to — позволить"
+              }
+            }
+          ]
+        },
+        {
+          "en": "My whole life depends on how you look at me!",
+          "ru": "Вся моя жизнь зависит от того, как ты на меня смотришь!",
+          "phrases": [
+            {
+              "en": "depends on",
+              "ru": "зависит от"
+            },
+            {
+              "en": "how you look at me",
+              "ru": "как ты на меня смотришь",
+              "note": {
+                "ru": "look at — смотреть на"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "outro",
+      "lines": [
+        {
+          "en": "Smoke on my fingers… words I can’t keep",
+          "ru": "Дым на пальцах… слова, которые я не могу удержать",
+          "phrases": [
+            {
+              "en": "words I can’t keep",
+              "ru": "слова, которые я не могу удержать",
+              "note": {
+                "ru": "придаточное без that: words (that) I can’t keep"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Watch them burn slow… you’re still in my veins",
+          "ru": "Смотрю, как они медленно горят… ты всё ещё в моих венах",
+          "phrases": [
+            {
+              "en": "in my veins",
+              "ru": "в моих венах",
+              "note": {
+                "ru": "образ: «у меня в крови»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "You will always be in my veins…",
+          "ru": "Ты всегда будешь в моих венах…"
+        }
+      ]
+    }
+  ]
+}

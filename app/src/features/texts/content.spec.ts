@@ -8,7 +8,7 @@ import { describe, expect, it } from 'vitest'
 import { checkTextFile, validateText } from './domain/validate'
 
 // Контент репозитория проверяется тем же валидатором, что и загрузка в приложении:
-// невалидный текст в content/ роняет `npm run test`. content/private/ (вне git, D-5)
+// невалидный текст в content/ роняет `npm run test`. content/private/ (D-5, D-41)
 // проверяется, когда он есть у автора локально.
 // Не `new URL(…, import.meta.url)`: Vite принимает такую запись за ассет.
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '../../../../content')

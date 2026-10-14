@@ -1,0 +1,472 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "we-had-a-dream",
+  "kind": "song",
+  "lang": "en",
+  "license": "personal",
+  "title": {
+    "en": "We Had a Dream",
+    "ru": "У нас была мечта"
+  },
+  "performer": "The Kelly Family",
+  "level": "A2",
+  "tags": [
+    "family"
+  ],
+  "note": {
+    "ru": "Песня-обращение к братьям и сёстрам по именам. «Brother acustimas» — скорее всего, ошибка расшифровки текста."
+  },
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "John, what a blast to have you back",
+          "ru": "Джон, как здорово, что ты вернулся",
+          "phrases": [
+            {
+              "en": "what a blast",
+              "ru": "как здорово",
+              "note": {
+                "ru": "разговорное: a blast — «отлично, кайф»"
+              }
+            },
+            {
+              "en": "to have you back",
+              "ru": "что ты снова с нами",
+              "note": {
+                "ru": "have smb back — получить кого-то обратно"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Sorry, brother for the past",
+          "ru": "Прости, брат, за прошлое",
+          "phrases": [
+            {
+              "en": "Sorry",
+              "ru": "прости",
+              "note": {
+                "ru": "sorry for smth — извини за что-то"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Catharina, you've come a long way",
+          "ru": "Катарина, ты прошла долгий путь",
+          "phrases": [
+            {
+              "en": "you've come a long way",
+              "ru": "ты прошла долгий путь",
+              "note": {
+                "ru": "come a long way — сильно продвинуться, многое преодолеть; Present Perfect — результат к настоящему"
+              }
+            }
+          ]
+        },
+        {
+          "en": "With your son",
+          "ru": "Вместе с сыном"
+        },
+        {
+          "en": "Maria Patricia, sister",
+          "ru": "Мария Патрисия, сестра"
+        },
+        {
+          "en": "You're alive",
+          "ru": "Ты жива",
+          "phrases": [
+            {
+              "en": "You're alive",
+              "ru": "ты жива"
+            }
+          ]
+        },
+        {
+          "en": "You survived",
+          "ru": "Ты выжила",
+          "phrases": [
+            {
+              "en": "survived",
+              "ru": "выжила",
+              "note": {
+                "ru": "survive — выжить; Past Simple, правильный глагол"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Sister works in the office",
+          "ru": "Сестра работает в офисе",
+          "phrases": [
+            {
+              "en": "works in the office",
+              "ru": "работает в офисе",
+              "note": {
+                "ru": "Present Simple, 3-е лицо: works"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Brother acustimas",
+          "ru": "Брат акустимас"
+        },
+        {
+          "en": "And father said",
+          "ru": "И отец сказал"
+        },
+        {
+          "en": "\"Keep on working",
+          "ru": "«Продолжай работать",
+          "phrases": [
+            {
+              "en": "Keep on working",
+              "ru": "продолжай работать",
+              "note": {
+                "ru": "keep on + -ing — продолжать делать"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Don't you know, son?",
+          "ru": "Разве ты не знаешь, сынок?",
+          "phrases": [
+            {
+              "en": "Don't you know",
+              "ru": "разве ты не знаешь",
+              "note": {
+                "ru": "отрицательный вопрос — удивление: «разве не…?»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "We have a dream.\"",
+          "ru": "У нас есть мечта»",
+          "phrases": [
+            {
+              "en": "We have a dream",
+              "ru": "у нас есть мечта"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dream",
+      "type": "chorus",
+      "lines": [
+        {
+          "en": "We had a dream",
+          "ru": "У нас была мечта",
+          "phrases": [
+            {
+              "en": "We had a dream",
+              "ru": "у нас была мечта",
+              "note": {
+                "ru": "had — Past Simple от have"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "type": "chorus",
+      "lines": [
+        {
+          "en": "We had a dream",
+          "ru": "У нас была мечта"
+        },
+        {
+          "en": "One big family",
+          "ru": "Одна большая семья",
+          "phrases": [
+            {
+              "en": "One big family",
+              "ru": "одна большая семья"
+            }
+          ]
+        },
+        {
+          "en": "Where people sing",
+          "ru": "Где люди поют"
+        },
+        {
+          "en": "Where people dance",
+          "ru": "Где люди танцуют",
+          "phrases": [
+            {
+              "en": "Where people dance",
+              "ru": "где люди танцуют",
+              "note": {
+                "ru": "where — «где» в придаточном места"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Livin' in harmony",
+          "ru": "Живущая в согласии",
+          "lit": {
+            "ru": "Живущие в гармонии"
+          },
+          "phrases": [
+            {
+              "en": "Livin' in harmony",
+              "ru": "живущая в согласии",
+              "note": {
+                "ru": "livin' = living, разговорное выпадение g"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        {
+          "en": "Oh-whoa-whoa-oh-oh-oh",
+          "ru": "О-оу-оу-оу-оу-оу"
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "type": "chorus",
+      "lines": [
+        {
+          "en": "Home",
+          "ru": "Домой"
+        },
+        {
+          "en": "Home",
+          "ru": "Домой"
+        },
+        {
+          "en": "Home",
+          "ru": "Домой"
+        },
+        {
+          "en": "Take me home",
+          "ru": "Забери меня домой",
+          "phrases": [
+            {
+              "en": "Take me home",
+              "ru": "забери меня домой",
+              "note": {
+                "ru": "take smb home — отвезти, забрать домой; повелительное наклонение"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Paulito, what's up?",
+          "ru": "Паулито, как жизнь?",
+          "phrases": [
+            {
+              "en": "what's up",
+              "ru": "как жизнь, как дела",
+              "note": {
+                "ru": "разговорное приветствие, не «что случилось»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Proud to be back on stage with you",
+          "ru": "Горжусь, что снова на сцене с тобой",
+          "phrases": [
+            {
+              "en": "Proud to be back",
+              "ru": "горжусь, что снова",
+              "note": {
+                "ru": "(I'm) proud to … — горжусь, что…; I'm опущено"
+              }
+            },
+            {
+              "en": "on stage",
+              "ru": "на сцене"
+            }
+          ]
+        },
+        {
+          "en": "(Home, take me home)",
+          "ru": "(Домой, забери меня домой)"
+        },
+        {
+          "en": "Angelino, mother would be so proud of your beautiful family, so am I",
+          "ru": "Анджелино, мама так гордилась бы твоей прекрасной семьёй — и я тоже горжусь",
+          "phrases": [
+            {
+              "en": "would be so proud of",
+              "ru": "так гордилась бы",
+              "note": {
+                "ru": "would + глагол — условное «бы»; proud of — гордиться чем-то"
+              }
+            },
+            {
+              "en": "so am I",
+              "ru": "и я тоже",
+              "note": {
+                "ru": "so + вспомогательный + подлежащее — «и я тоже» (EN-34)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "(Home, take me home)",
+          "ru": "(Домой, забери меня домой)"
+        },
+        {
+          "en": "Victor James, we're back as one",
+          "ru": "Виктор Джеймс, мы снова вместе",
+          "phrases": [
+            {
+              "en": "back as one",
+              "ru": "снова вместе, снова одно целое"
+            }
+          ]
+        },
+        {
+          "en": "Let's keep this dream alive",
+          "ru": "Давайте сохраним эту мечту",
+          "phrases": [
+            {
+              "en": "Let's keep",
+              "ru": "давайте сохраним",
+              "note": {
+                "ru": "Let's + глагол — предложение «давай(те)…» (EN-26)"
+              }
+            },
+            {
+              "en": "keep this dream alive",
+              "ru": "не дать мечте умереть",
+              "note": {
+                "ru": "keep smth alive — поддерживать жизнь в чём-то"
+              }
+            }
+          ]
+        },
+        {
+          "en": "(Home, take me home)",
+          "ru": "(Домой, забери меня домой)"
+        }
+      ]
+    },
+    {
+      "type": "bridge",
+      "lines": [
+        {
+          "en": "You and I we need each other",
+          "ru": "Ты и я — мы нужны друг другу",
+          "phrases": [
+            {
+              "en": "need each other",
+              "ru": "нужны друг другу",
+              "note": {
+                "ru": "each other — друг друга"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Everyone's got a part to play",
+          "ru": "У каждого своя роль",
+          "phrases": [
+            {
+              "en": "a part to play",
+              "ru": "своя роль",
+              "note": {
+                "ru": "have a part to play — играть свою роль; everyone's got = everyone has got"
+              }
+            }
+          ]
+        },
+        {
+          "en": "And you and I we'll hurt each other",
+          "ru": "И мы с тобой будем ранить друг друга",
+          "phrases": [
+            {
+              "en": "hurt each other",
+              "ru": "ранить друг друга",
+              "note": {
+                "ru": "hurt — делать больно; will — будущее"
+              }
+            }
+          ]
+        },
+        {
+          "en": "But with God's help we can make it again",
+          "ru": "Но с Божьей помощью мы снова справимся",
+          "phrases": [
+            {
+              "en": "with God's help",
+              "ru": "с Божьей помощью"
+            },
+            {
+              "en": "make it",
+              "ru": "справиться",
+              "note": {
+                "ru": "make it — справиться, добиться, суметь"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "dream"
+    },
+    {
+      "ref": "chorus"
+    },
+    {
+      "ref": "chorus"
+    },
+    {
+      "ref": "chorus"
+    },
+    {
+      "ref": "home"
+    },
+    {
+      "type": "outro",
+      "lines": [
+        {
+          "en": "Home (Oh-oh-oh, oh-oh-oh-oh)",
+          "ru": "Домой (О-о-о, о-о-о-о)"
+        },
+        {
+          "en": "Home",
+          "ru": "Домой"
+        },
+        {
+          "en": "Home",
+          "ru": "Домой"
+        },
+        {
+          "en": "Take me home",
+          "ru": "Забери меня домой"
+        }
+      ]
+    }
+  ]
+}

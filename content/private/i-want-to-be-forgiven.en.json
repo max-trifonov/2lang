@@ -1,0 +1,206 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "i-want-to-be-forgiven",
+  "kind": "song",
+  "lang": "en",
+  "license": "personal",
+  "title": {
+    "en": "I Want to Be Forgiven",
+    "ru": "Я хочу, чтобы меня простили"
+  },
+  "level": "B1",
+  "tags": [
+    "love"
+  ],
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Still regret I turned my back on you",
+          "ru": "Все еще жалею, что повернулся к тебе спиной",
+          "phrases": [
+            {
+              "en": "turned my back on",
+              "ru": "повернулся спиной к",
+              "note": {
+                "ru": "turn one's back on smb — повернуться спиной, отвернуться от кого-то (и буквально, и «предать»)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "No one makes me feel the way you do",
+          "ru": "Никто не даёт мне таких чувств, как ты",
+          "lit": {
+            "ru": "Никто не заставляет меня чувствовать так, как ты"
+          },
+          "phrases": [
+            {
+              "en": "makes me feel",
+              "ru": "заставляет меня чувствовать",
+              "note": {
+                "ru": "make + кто-то + глагол без to: makes me feel"
+              }
+            },
+            {
+              "en": "the way you do",
+              "ru": "так, как ты",
+              "note": {
+                "ru": "the way — «так, как»; do заменяет повторный глагол (makes me feel)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pre",
+      "type": "bridge",
+      "lines": [
+        {
+          "en": "Never meant to cause you trouble",
+          "ru": "Никогда не хотел причинять тебе неприятностей",
+          "phrases": [
+            {
+              "en": "Never meant to",
+              "ru": "никогда не хотел",
+              "note": {
+                "ru": "mean to do — намереваться; meant — Past Simple, подлежащее I опущено, как часто в песнях"
+              }
+            },
+            {
+              "en": "cause you trouble",
+              "ru": "причинить тебе неприятности"
+            }
+          ]
+        },
+        {
+          "en": "Never meant to do you harm",
+          "ru": "Никогда не хотел причинить тебе вред",
+          "phrases": [
+            {
+              "en": "do you harm",
+              "ru": "причинить тебе вред",
+              "note": {
+                "ru": "do smb harm — устойчивое сочетание"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I was weakened by temptation’s wing of charm",
+          "ru": "Меня ослабили чары искушения",
+          "lit": {
+            "ru": "Я был ослаблен крылом очарования искушения"
+          },
+          "phrases": [
+            {
+              "en": "I was weakened by",
+              "ru": "я был ослаблен",
+              "note": {
+                "ru": "страдательный залог в прошедшем: was + V3 + by"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "type": "chorus",
+      "lines": [
+        {
+          "en": "I want to be forgiven",
+          "ru": "Я хочу, чтобы меня простили",
+          "phrases": [
+            {
+              "en": "I want to be forgiven",
+              "ru": "я хочу, чтобы меня простили",
+              "note": {
+                "ru": "to be + V3 — пассивный инфинитив: «быть прощённым»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I want to hold you in my arms again",
+          "ru": "Я хочу снова заключить тебя в свои объятия",
+          "phrases": [
+            {
+              "en": "hold you in my arms",
+              "ru": "обнять тебя, держать в объятиях"
+            }
+          ]
+        },
+        {
+          "en": "To be forgiven cause I still need a friend",
+          "ru": "Чтобы меня простили, потому что мне все еще нужен друг",
+          "phrases": [
+            {
+              "en": "cause",
+              "ru": "потому что",
+              "note": {
+                "ru": "разговорное сокращение because (’cause)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "chorus"
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        {
+          "en": "I want to be forgiven",
+          "ru": "Я хочу, чтобы меня простили"
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Almost drowning in the sea of sin",
+          "ru": "Я почти тону в море греха",
+          "phrases": [
+            {
+              "en": "Almost drowning",
+              "ru": "почти тону",
+              "note": {
+                "ru": "drown — тонуть; -ing без подлежащего: «(я) почти тону»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Can you ease the pain I feel within",
+          "ru": "Можешь ли ты облегчить боль, которую я чувствую внутри",
+          "phrases": [
+            {
+              "en": "ease the pain",
+              "ru": "облегчить боль"
+            },
+            {
+              "en": "the pain I feel",
+              "ru": "боль, которую я чувствую",
+              "note": {
+                "ru": "придаточное без that/which: the pain (that) I feel"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "pre"
+    },
+    {
+      "ref": "pre"
+    }
+  ]
+}

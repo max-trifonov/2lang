@@ -1,0 +1,478 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "draugrs-got-the-fire",
+  "kind": "song",
+  "lang": "en",
+  "license": "personal",
+  "title": {
+    "en": "Draugr's Got the Fire"
+  },
+  "level": "B2",
+  "tags": [
+    "hip-hop",
+    "vikings"
+  ],
+  "note": {
+    "ru": "Рэп: много сленга и разговорных форм (I got, the sound don't die). Перевод строк — черновик, его нужно выверить."
+  },
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Yo, frost on the mic stand, runes carved in the beat",
+          "ru": "Йоу, иней на микрофонной стойке, руны высечены в бите",
+          "phrases": [
+            {
+              "en": "carved in",
+              "ru": "вырезаны в",
+              "note": {
+                "ru": "carve — вырезать, высекать; carved — V3"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Draugr here waiting, let the whole world meet",
+          "ru": "Драугр здесь и ждёт — пусть весь мир познакомится",
+          "phrases": [
+            {
+              "en": "let the whole world",
+              "ru": "пусть весь мир",
+              "note": {
+                "ru": "let + кто-то + глагол без to — «пусть…»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Brunhild, my partner, spear in her grip",
+          "ru": "Брюнхильд, моя напарница, копьё в её руке",
+          "phrases": [
+            {
+              "en": "in her grip",
+              "ru": "в её руке, в хватке"
+            }
+          ]
+        },
+        {
+          "en": "We don't just make music, we make history flip",
+          "ru": "Мы не просто делаем музыку — мы переворачиваем историю",
+          "phrases": [
+            {
+              "en": "make history",
+              "ru": "творить историю"
+            },
+            {
+              "en": "don't just",
+              "ru": "не просто",
+              "note": {
+                "ru": "not just … — не только / не просто"
+              }
+            }
+          ]
+        },
+        {
+          "en": "From fjords to streets, we bring the cold fire",
+          "ru": "От фьордов до улиц мы несём холодный огонь",
+          "phrases": [
+            {
+              "en": "From fjords to streets",
+              "ru": "от фьордов до улиц",
+              "note": {
+                "ru": "from … to … — от … до …"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Every word's a weapon, every note takes you higher",
+          "ru": "Каждое слово — оружие, каждая нота поднимает тебя выше",
+          "phrases": [
+            {
+              "en": "takes you higher",
+              "ru": "поднимает тебя выше",
+              "note": {
+                "ru": "higher — сравнительная степень high"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "type": "chorus",
+      "lines": [
+        {
+          "en": "Oh, Draugr's got the fire",
+          "ru": "О, у Драугра — огонь",
+          "phrases": [
+            {
+              "en": "Draugr's got",
+              "ru": "у Драугра есть",
+              "note": {
+                "ru": "'s got = has got — «есть, имеется» (EN-14)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I've got the storm",
+          "ru": "А у меня — буря",
+          "phrases": [
+            {
+              "en": "I've got",
+              "ru": "у меня есть",
+              "note": {
+                "ru": "have got — разговорное «у меня есть»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Viking hip hop queens and kings",
+          "ru": "Королевы и короли викинг-хип-хопа"
+        },
+        {
+          "en": "We're in the form",
+          "ru": "Мы в форме",
+          "phrases": [
+            {
+              "en": "in the form",
+              "ru": "в форме",
+              "note": {
+                "ru": "обычно говорят in form / in good form — «в отличной форме»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Spin the runes, hit the beat, let the story soar",
+          "ru": "Крути руны, бей бит, пусть история взлетит",
+          "phrases": [
+            {
+              "en": "let the story soar",
+              "ru": "пусть история взлетит",
+              "note": {
+                "ru": "soar — парить, взмывать"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Brunhilda and Draugr",
+          "ru": "Брюнхильда и Драугр"
+        },
+        {
+          "en": "Yeah, we own the floor",
+          "ru": "Да, танцпол наш",
+          "phrases": [
+            {
+              "en": "we own the floor",
+              "ru": "танцпол наш",
+              "note": {
+                "ru": "own — владеть; the floor — танцпол, сцена"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "chorus"
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "That sharp as my flow, shield tough as my bars",
+          "ru": "(Топор) острый, как мой флоу, щит крепкий, как мои строки",
+          "phrases": [
+            {
+              "en": "tough as my bars",
+              "ru": "крепкий, как мои строки",
+              "note": {
+                "ru": "as … as — сравнение «такой же, как»; bars — строки рэп-куплета; flow — подача, ритм читки"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Brunhilda's voice rings out like morning's first stars",
+          "ru": "Голос Брюнхильды звенит, как первые утренние звёзды",
+          "phrases": [
+            {
+              "en": "rings out",
+              "ru": "звенит, раздаётся",
+              "note": {
+                "ru": "ring out — фразовый глагол: громко прозвучать"
+              }
+            }
+          ]
+        },
+        {
+          "en": "We sailed rough waters, now ride the bass wave",
+          "ru": "Мы ходили по бурным водам, теперь катимся на волне баса",
+          "phrases": [
+            {
+              "en": "rough waters",
+              "ru": "бурные воды"
+            },
+            {
+              "en": "ride the bass wave",
+              "ru": "катимся на волне баса"
+            }
+          ]
+        },
+        {
+          "en": "Turning every doubt into a victory paved",
+          "ru": "Превращая каждое сомнение в проложенный путь к победе",
+          "lit": {
+            "ru": "Превращая каждое сомнение в вымощенную победу"
+          },
+          "phrases": [
+            {
+              "en": "Turning every doubt into",
+              "ru": "превращая каждое сомнение в",
+              "note": {
+                "ru": "turn smth into smth — превращать одно в другое"
+              }
+            }
+          ]
+        },
+        {
+          "en": "She's got heart of warrior, voice of a bird",
+          "ru": "У неё сердце воина и голос птицы",
+          "phrases": [
+            {
+              "en": "She's got",
+              "ru": "у неё есть"
+            }
+          ]
+        },
+        {
+          "en": "I got grit of raider, every line's a word",
+          "ru": "У меня стойкость налётчика, каждая строка — моё слово",
+          "phrases": [
+            {
+              "en": "I got grit",
+              "ru": "у меня есть стойкость",
+              "note": {
+                "ru": "I got — разговорное I've got; grit — упорство, твёрдость"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Remember when we stood on cliff's edge high?",
+          "ru": "Помнишь, как мы стояли высоко на краю утёса?",
+          "phrases": [
+            {
+              "en": "Remember when",
+              "ru": "помнишь, как",
+              "note": {
+                "ru": "Remember when …? — «помнишь, как…?»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Dreamed our sound would touch the endless sky",
+          "ru": "Мечтали, что наш звук коснётся бескрайнего неба",
+          "phrases": [
+            {
+              "en": "would touch",
+              "ru": "коснётся",
+              "note": {
+                "ru": "would — будущее в прошедшем: мечтали, что звук коснётся"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Yeah, through snow and rain, we never broke stride",
+          "ru": "Да, сквозь снег и дождь мы ни разу не сбились с шага",
+          "phrases": [
+            {
+              "en": "never broke stride",
+              "ru": "ни разу не сбились с шага",
+              "note": {
+                "ru": "break stride — сбиться с шага, остановиться"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Now the whole world's listening, let 'em hear us cry out loud",
+          "ru": "Теперь весь мир слушает — пусть слышат, как мы кричим во весь голос",
+          "phrases": [
+            {
+              "en": "the whole world's listening",
+              "ru": "весь мир слушает",
+              "note": {
+                "ru": "Present Continuous: is listening"
+              }
+            },
+            {
+              "en": "cry out loud",
+              "ru": "кричать во весь голос"
+            }
+          ]
+        },
+        {
+          "en": "With the beat as we stand side by side",
+          "ru": "Под бит, пока мы стоим плечом к плечу",
+          "phrases": [
+            {
+              "en": "side by side",
+              "ru": "бок о бок"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Now we're in the zone, Draugr's on attack",
+          "ru": "Теперь мы в ударе, Драугр идёт в атаку",
+          "phrases": [
+            {
+              "en": "in the zone",
+              "ru": "в ударе, в потоке"
+            }
+          ]
+        },
+        {
+          "en": "Brunhild's right there, every note's on track",
+          "ru": "Брюнхильд рядом, каждая нота точно в цель",
+          "phrases": [
+            {
+              "en": "on track",
+              "ru": "в точку, как надо",
+              "note": {
+                "ru": "be on track — идти по плану, быть точным"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Runes glowing bright on the mixing board",
+          "ru": "Руны ярко светятся на микшерном пульте",
+          "phrases": [
+            {
+              "en": "mixing board",
+              "ru": "микшерный пульт"
+            }
+          ]
+        },
+        {
+          "en": "Weather storm coming, ignore at your own reward",
+          "ru": "Надвигается буря — не замечай её, и тебя ждёт «награда»",
+          "lit": {
+            "ru": "Погода: буря надвигается, игнорируй на свою награду"
+          },
+          "phrases": [
+            {
+              "en": "at your own reward",
+              "ru": "на свою награду",
+              "note": {
+                "ru": "игра на устойчивом at your own risk — «на свой страх и риск»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "From Moscow to Tokyo, bumping our track",
+          "ru": "От Москвы до Токио наш трек качает на всю",
+          "phrases": [
+            {
+              "en": "bumping our track",
+              "ru": "врубают наш трек на всю",
+              "note": {
+                "ru": "bump a track — сленг: громко слушать"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Every bar we drop's a fact, hard to pass",
+          "ru": "Каждая наша строка — факт, мимо не пройдёшь",
+          "phrases": [
+            {
+              "en": "Every bar we drop",
+              "ru": "каждая строка, что мы выдаём",
+              "note": {
+                "ru": "придаточное без that: the bar (that) we drop; drop a bar — выдать строку"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "chorus"
+    },
+    {
+      "ref": "chorus"
+    },
+    {
+      "id": "outro",
+      "type": "outro",
+      "lines": [
+        {
+          "en": "Draugr out, but the sound don't die",
+          "ru": "Драугр уходит, но звук не умирает",
+          "phrases": [
+            {
+              "en": "the sound don't die",
+              "ru": "звук не умирает",
+              "note": {
+                "ru": "разговорное don't вместо doesn't — в песнях часто, в обычной речи — ошибка"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Northwind stays",
+          "ru": "Северный ветер остаётся",
+          "phrases": [
+            {
+              "en": "stays",
+              "ru": "остаётся",
+              "note": {
+                "ru": "Present Simple, 3-е лицо: stay → stays"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "outro"
+    },
+    {
+      "ref": "outro"
+    },
+    {
+      "ref": "outro"
+    },
+    {
+      "type": "outro",
+      "lines": [
+        {
+          "en": "Oh, Draugr's got the fire",
+          "ru": "О, у Драугра — огонь"
+        }
+      ]
+    }
+  ]
+}
