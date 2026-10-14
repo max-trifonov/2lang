@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-24",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 24,
+  "level": "A2",
+  "title": {
+    "ru": "Прощание",
+    "en": "Saying goodbye",
+    "es": "Despedirse"
+  },
+  "words": [
+    "prometer",
+    "contacto",
+    "pronto"
+  ],
+  "phrase": {
+    "es": "Te prometo que te escribo pronto. Seguimos en contacto.",
+    "ru": "Обещаю, что скоро напишу. Остаёмся на связи.",
+    "en": "I promise I'll write to you soon. Let's keep in touch."
+  },
+  "rule": {
+    "text": {
+      "ru": "Обещать — prometer que + настоящее время: te prometo que te escribo. Остаться на связи — seguir en contacto. Прощание — Hasta pronto / Cuídate.",
+      "en": "To promise: prometer que + present: te prometo que te escribo. Keep in touch: seguir en contacto. Goodbye: Hasta pronto / Cuídate.",
+      "es": "prometer que. seguir en contacto. Hasta pronto."
+    },
+    "examples": [
+      {
+        "es": "Hasta pronto.",
+        "ru": "До скорого."
+      },
+      {
+        "es": "Cuídate mucho.",
+        "ru": "Береги себя."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Te ___ que te llamo mañana.",
+      "answer": "prometo",
+      "ru": "Обещаю, что позвоню тебе завтра."
+    },
+    {
+      "type": "fill",
+      "es": "Seguimos en ___.",
+      "answer": "contacto",
+      "ru": "Остаёмся на связи."
+    },
+    {
+      "type": "build",
+      "es": "Prometemos seguir en contacto pronto.",
+      "ru": "Мы обещаем скоро оставаться на связи.",
+      "extra": [
+        "prometes"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "До скорого!",
+      "answer": [
+        "¡Hasta pronto!"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

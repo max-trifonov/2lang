@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-22",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 22,
+  "level": "A2",
+  "title": {
+    "ru": "Если пойдёт дождь",
+    "en": "If it rains",
+    "es": "Si llueve"
+  },
+  "words": [
+    "cancelar",
+    "lluvia",
+    "soleado"
+  ],
+  "phrase": {
+    "es": "Si hay lluvia, cancelamos el picnic. Si está soleado, vamos.",
+    "ru": "Если будет дождь, мы отменяем пикник. Если солнечно, едем.",
+    "en": "If it rains, we cancel the picnic. If it's sunny, we go."
+  },
+  "rule": {
+    "text": {
+      "ru": "Условие — si + настоящее, и дальше тоже настоящее или ir a + инфинитив: si llueve, cancelamos. После si нет будущего времени. Погода — hace sol, llueve, está soleado.",
+      "en": "Condition: si + present, then present or ir a + infinitive: si llueve, cancelamos. No future after si.",
+      "es": "si + presente. hace sol / llueve."
+    },
+    "examples": [
+      {
+        "es": "Si hace sol, vamos a la playa.",
+        "ru": "Если будет солнце, поедем на пляж."
+      },
+      {
+        "es": "Si llueve, nos quedamos en casa.",
+        "ru": "Если пойдёт дождь, мы останемся дома."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Si llueve, ___ el picnic.",
+      "answer": "cancelamos",
+      "ru": "Если пойдёт дождь, мы отменим пикник."
+    },
+    {
+      "type": "fill",
+      "es": "Hoy hay mucha ___.",
+      "answer": "lluvia",
+      "ru": "Сегодня сильный дождь."
+    },
+    {
+      "type": "build",
+      "es": "Si hay lluvia, cancelamos la fiesta.",
+      "ru": "Если будет дождь, мы отменим вечеринку.",
+      "extra": [
+        "cancelas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Если будет дождь, мы отменим встречу.",
+      "answer": [
+        "Si llueve, cancelamos la reunión.",
+        "Si hay lluvia, cancelamos la reunión."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

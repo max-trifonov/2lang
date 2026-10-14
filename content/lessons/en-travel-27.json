@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-27",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 27,
+  "level": "B1",
+  "title": {
+    "ru": "Выезд из отеля",
+    "en": "Checking out",
+    "es": "Salida del hotel"
+  },
+  "words": [
+    "leave",
+    "key",
+    "early"
+  ],
+  "phrase": {
+    "en": "What time do I have to leave? I'll return the key early.",
+    "ru": "Во сколько мне нужно освободить номер? Я сдам ключ пораньше.",
+    "es": "¿A qué hora tengo que dejar la habitación? Devolveré la llave temprano."
+  },
+  "rule": {
+    "text": {
+      "ru": "Время выезда — check-out time; I'd like to check out. Early — «рано» (наречие и прилагательное). leave — left — left.",
+      "en": "Check-out time; I'd like to check out. Early works as an adverb and adjective. leave – left – left.",
+      "es": "check-out; early = temprano. leave – left – left."
+    },
+    "examples": [
+      {
+        "en": "Check-out is at eleven.",
+        "ru": "Выезд до одиннадцати."
+      },
+      {
+        "en": "We left early in the morning.",
+        "ru": "Мы уехали рано утром."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We have to ___ the room at noon.",
+      "answer": "leave",
+      "ru": "Мы должны освободить номер в полдень."
+    },
+    {
+      "type": "fill",
+      "en": "Please leave the ___ at the desk.",
+      "answer": "key",
+      "ru": "Пожалуйста, оставьте ключ на стойке."
+    },
+    {
+      "type": "build",
+      "en": "We left the hotel early this morning.",
+      "ru": "Сегодня утром мы рано выехали из отеля.",
+      "extra": [
+        "leaves"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я хочу выехать из отеля.",
+      "answer": [
+        "I want to check out.",
+        "I'd like to check out.",
+        "I would like to check out."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

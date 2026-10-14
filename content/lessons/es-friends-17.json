@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-17",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 17,
+  "level": "A2",
+  "title": {
+    "ru": "Переписка в чате",
+    "en": "The group chat",
+    "es": "El chat del grupo"
+  },
+  "words": [
+    "enviar",
+    "mensaje",
+    "rápidamente"
+  ],
+  "phrase": {
+    "es": "Te envío un mensaje ahora. Responde rápidamente, por favor.",
+    "ru": "Сейчас пришлю тебе сообщение. Ответь, пожалуйста, быстро.",
+    "en": "I'm sending you a message now. Please answer quickly."
+  },
+  "rule": {
+    "text": {
+      "ru": "Кому — te, me, le: te envío (я посылаю тебе). Наречие на -mente: rápido → rápidamente (женский род + mente).",
+      "en": "The person you send to: te envío (I send you). -mente adverbs: rápido → rápidamente (feminine + mente).",
+      "es": "te envío. rápida + mente = rápidamente."
+    },
+    "examples": [
+      {
+        "es": "Te envío la foto.",
+        "ru": "Отправляю тебе фото."
+      },
+      {
+        "es": "Respondo rápidamente.",
+        "ru": "Отвечаю быстро."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Ahora te ___ la dirección.",
+      "answer": "envío",
+      "ru": "Сейчас отправлю тебе адрес."
+    },
+    {
+      "type": "fill",
+      "es": "Recibí tu ___ ayer.",
+      "answer": "mensaje",
+      "ru": "Я получил твоё сообщение вчера."
+    },
+    {
+      "type": "build",
+      "es": "Te envío un mensaje rápidamente.",
+      "ru": "Быстро отправляю тебе сообщение.",
+      "extra": [
+        "envías"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я отправлю тебе сообщение.",
+      "answer": [
+        "Te envío un mensaje.",
+        "Te voy a enviar un mensaje."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

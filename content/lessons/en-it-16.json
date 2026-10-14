@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-16",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 16,
+  "level": "B1",
+  "title": {
+    "ru": "Надёжный пароль",
+    "en": "A strong password",
+    "es": "Una contraseña segura"
+  },
+  "words": [
+    "protect",
+    "security",
+    "strong"
+  ],
+  "phrase": {
+    "en": "You should use a strong password to protect your account.",
+    "ru": "Тебе стоит использовать надёжный пароль для защиты аккаунта.",
+    "es": "Deberías usar una contraseña segura para proteger tu cuenta."
+  },
+  "rule": {
+    "text": {
+      "ru": "Совет — should + глагол: You should use… Запрет — mustn't. protect something (from…). Security — безопасность, неисчисляемое.",
+      "en": "Advice: should + verb — You should use… Prohibition: mustn't. protect something. Security is uncountable.",
+      "es": "should + verbo = consejo. mustn't = prohibido. Security es incontable."
+    },
+    "examples": [
+      {
+        "en": "You shouldn't share your password.",
+        "ru": "Тебе не следует делиться паролем."
+      },
+      {
+        "en": "Security is very important.",
+        "ru": "Безопасность очень важна."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "A strong password will ___ your data.",
+      "answer": "protect",
+      "ru": "Надёжный пароль защитит ваши данные."
+    },
+    {
+      "type": "fill",
+      "en": "We take ___ very seriously.",
+      "answer": "security",
+      "ru": "Мы очень серьёзно относимся к безопасности."
+    },
+    {
+      "type": "build",
+      "en": "You should use a strong password.",
+      "ru": "Тебе стоит использовать надёжный пароль.",
+      "extra": [
+        "protects"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Тебе стоит поменять пароль.",
+      "answer": [
+        "You should change your password."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

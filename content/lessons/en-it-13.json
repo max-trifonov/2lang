@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-13",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 13,
+  "level": "B1",
+  "title": {
+    "ru": "Перед релизом",
+    "en": "Before the release",
+    "es": "Antes del lanzamiento"
+  },
+  "words": [
+    "run",
+    "test",
+    "ready"
+  ],
+  "phrase": {
+    "en": "Run the tests before the release. Is the build ready?",
+    "ru": "Запусти тесты перед релизом. Сборка готова?",
+    "es": "Ejecuta las pruebas antes del lanzamiento. ¿Está lista la compilación?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Приказ — глагол без подлежащего: Run the tests. Be ready for — быть готовым к; ready for the release.",
+      "en": "An instruction is just the verb: Run the tests. Be ready for + noun: ready for the release.",
+      "es": "Imperativo: Run the tests. ready for + sustantivo."
+    },
+    "examples": [
+      {
+        "en": "Run the tests again, please.",
+        "ru": "Запусти тесты ещё раз, пожалуйста."
+      },
+      {
+        "en": "The new version is ready.",
+        "ru": "Новая версия готова."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We usually ___ the tests at night.",
+      "answer": "run",
+      "ru": "Обычно мы запускаем тесты ночью."
+    },
+    {
+      "type": "fill",
+      "en": "Every ___ passed this time.",
+      "answer": "test",
+      "ru": "В этот раз прошёл каждый тест."
+    },
+    {
+      "type": "build",
+      "en": "The tests are ready to run.",
+      "ru": "Тесты готовы к запуску.",
+      "extra": [
+        "runs"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Версия готова.",
+      "answer": [
+        "The version is ready.",
+        "The build is ready.",
+        "The release is ready."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

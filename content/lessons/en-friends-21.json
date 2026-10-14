@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-21",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 21,
+  "level": "B1",
+  "title": {
+    "ru": "Вежливый отказ",
+    "en": "Saying no politely",
+    "es": "Decir que no con educación"
+  },
+  "words": [
+    "join",
+    "plan-noun",
+    "busy"
+  ],
+  "phrase": {
+    "en": "I'd love to join you, but I'm busy. I already have plans.",
+    "ru": "Я бы с радостью к вам присоединился, но я занят. У меня уже есть планы.",
+    "es": "Me encantaría unirme a vosotros, pero estoy ocupado. Ya tengo planes."
+  },
+  "rule": {
+    "text": {
+      "ru": "Вежливый отказ — I'd love to, but… + причина. Сожаление — I wish I could.",
+      "en": "Turn down politely with I'd love to, but… and a reason. Express regret with I wish I could.",
+      "es": "Rechazo cortés: I'd love to, but… Arrepentimiento: I wish I could."
+    },
+    "examples": [
+      {
+        "en": "I wish I could come.",
+        "ru": "Жаль, что я не могу прийти."
+      },
+      {
+        "en": "Sorry, I already have plans.",
+        "ru": "Прости, у меня уже есть планы."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I'd love to ___ you, but I can't.",
+      "answer": "join",
+      "ru": "Я бы присоединился, но не могу."
+    },
+    {
+      "type": "fill",
+      "en": "Sorry, I'm ___ tonight.",
+      "answer": "busy",
+      "ru": "Прости, я сегодня занят."
+    },
+    {
+      "type": "build",
+      "en": "I'm busy, but thanks for the invitation.",
+      "ru": "Я занят, но спасибо за приглашение.",
+      "extra": [
+        "busily"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Жаль, что я не могу прийти.",
+      "answer": [
+        "I wish I could come."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-25",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 25,
+  "level": "A2",
+  "title": {
+    "ru": "Документация",
+    "en": "Writing documentation",
+    "es": "Escribir documentación"
+  },
+  "words": [
+    "escribir",
+    "documento",
+    "claramente"
+  ],
+  "phrase": {
+    "es": "Escribo el documento claramente. Todos lo entienden.",
+    "ru": "Я пишу документ понятно. Все его понимают.",
+    "en": "I write the document clearly. Everyone understands it."
+  },
+  "rule": {
+    "text": {
+      "ru": "Escribir — причастие escrito (he escrito). Todos — «все» + глагол во мн. числе: todos entienden. Claramente — «ясно».",
+      "en": "Escribir has the irregular participle escrito (he escrito). Todos takes a plural verb: todos entienden. Claramente = clearly.",
+      "es": "participio escrito. todos entienden."
+    },
+    "examples": [
+      {
+        "es": "He escrito el informe.",
+        "ru": "Я написал отчёт."
+      },
+      {
+        "es": "Todos entienden el plan.",
+        "ru": "Все понимают план."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Hoy ___ la documentación.",
+      "answer": "escribo",
+      "ru": "Сегодня я пишу документацию."
+    },
+    {
+      "type": "fill",
+      "es": "Lee el ___ con atención.",
+      "answer": "documento",
+      "ru": "Внимательно прочитай документ."
+    },
+    {
+      "type": "build",
+      "es": "Escribo el documento claramente para todos.",
+      "ru": "Я пишу документ понятно для всех.",
+      "extra": [
+        "escribes"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я написал документ.",
+      "answer": [
+        "Escribí el documento.",
+        "He escrito el documento."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-26",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 26,
+  "level": "A2",
+  "title": {
+    "ru": "Новая программа",
+    "en": "A new program",
+    "es": "Un programa nuevo"
+  },
+  "words": [
+    "aprender",
+    "programa",
+    "útil"
+  ],
+  "phrase": {
+    "es": "Aprendo un programa nuevo. Es muy útil para el equipo.",
+    "ru": "Я осваиваю новую программу. Она очень полезна для команды.",
+    "en": "I'm learning a new program. It's very useful for the team."
+  },
+  "rule": {
+    "text": {
+      "ru": "Aprender a + инфинитив — «научиться делать»: aprendo a usarlo. Programa — мужской род, хотя на -a. Útil — одна форма.",
+      "en": "Aprender a + infinitive = learn to do: aprendo a usarlo. Programa is masculine. Útil has one form.",
+      "es": "aprender a + infinitivo. el programa (masculino)."
+    },
+    "examples": [
+      {
+        "es": "Aprendo a usar el programa.",
+        "ru": "Я учусь пользоваться программой."
+      },
+      {
+        "es": "Es un programa muy útil.",
+        "ru": "Это очень полезная программа."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Quiero ___ a usar el programa.",
+      "answer": "aprender",
+      "ru": "Хочу научиться пользоваться программой."
+    },
+    {
+      "type": "fill",
+      "es": "Este ___ es muy rápido.",
+      "answer": "programa",
+      "ru": "Эта программа очень быстрая."
+    },
+    {
+      "type": "build",
+      "es": "Aprendo un programa nuevo que es muy útil.",
+      "ru": "Я осваиваю новую программу, которая очень полезна.",
+      "extra": [
+        "aprendes"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Эта программа полезна.",
+      "answer": [
+        "Este programa es útil.",
+        "Este programa es muy útil."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

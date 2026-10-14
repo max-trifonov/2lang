@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-22",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 22,
+  "level": "B1",
+  "title": {
+    "ru": "Столик в ресторане",
+    "en": "Booking a table",
+    "es": "Reservar mesa"
+  },
+  "words": [
+    "order",
+    "table",
+    "ready"
+  ],
+  "phrase": {
+    "en": "I'd like to book a table for two. We're ready to order.",
+    "ru": "Я хотел бы забронировать столик на двоих. Мы готовы сделать заказ.",
+    "es": "Quisiera reservar una mesa para dos. Estamos listos para pedir."
+  },
+  "rule": {
+    "text": {
+      "ru": "Бронь — book a table for two at eight. Готовы заказывать — We're ready to order. Заказывать еду — order, а не *take.",
+      "en": "Book a table for two at eight. When you want food: We're ready to order.",
+      "es": "Reservar: book a table. Pedir comida: order."
+    },
+    "examples": [
+      {
+        "en": "Can we see the menu, please?",
+        "ru": "Можно меню, пожалуйста?"
+      },
+      {
+        "en": "I'll have the fish, please.",
+        "ru": "Мне рыбу, пожалуйста."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Are you ready to ___?",
+      "answer": "order",
+      "ru": "Вы готовы сделать заказ?"
+    },
+    {
+      "type": "fill",
+      "en": "A ___ for four, please.",
+      "answer": "table",
+      "ru": "Столик на четверых, пожалуйста."
+    },
+    {
+      "type": "build",
+      "en": "We are ready to order dinner now.",
+      "ru": "Мы готовы сделать заказ на ужин.",
+      "extra": [
+        "ordering"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Столик на двоих, пожалуйста.",
+      "answer": [
+        "A table for two, please."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

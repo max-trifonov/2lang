@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-22",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 22,
+  "level": "A2",
+  "title": {
+    "ru": "Столик в ресторане",
+    "en": "Booking a table",
+    "es": "Reservar mesa"
+  },
+  "words": [
+    "pedir",
+    "mesa",
+    "listo"
+  ],
+  "phrase": {
+    "es": "Una mesa para dos, por favor. ¿Están listos para pedir?",
+    "ru": "Столик на двоих, пожалуйста. Вы готовы заказывать?",
+    "en": "A table for two, please. Are you ready to order?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Заказывать еду — pedir (e → i): pido, pides, pide, pedimos. Estar listo para + инфинитив — быть готовым. Una mesa para dos — «столик на двоих».",
+      "en": "To order food: pedir (e → i): pido, pides, pide, pedimos. Estar listo para + infinitive.",
+      "es": "pedir e → i. listo para + infinitivo."
+    },
+    "examples": [
+      {
+        "es": "¿Qué pides?",
+        "ru": "Что ты заказываешь?"
+      },
+      {
+        "es": "Estamos listos para pedir.",
+        "ru": "Мы готовы сделать заказ."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Yo ___ una ensalada.",
+      "answer": "pido",
+      "ru": "Я заказываю салат."
+    },
+    {
+      "type": "fill",
+      "es": "¿Tiene una ___ para cuatro?",
+      "answer": "mesa",
+      "ru": "У вас есть столик на четверых?"
+    },
+    {
+      "type": "build",
+      "es": "Estamos listos para pedir la cena.",
+      "ru": "Мы готовы заказывать ужин.",
+      "extra": [
+        "pides"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Мы готовы заказывать.",
+      "answer": [
+        "Estamos listos para pedir."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

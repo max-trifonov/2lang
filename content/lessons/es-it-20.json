@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-20",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 20,
+  "level": "A2",
+  "title": {
+    "ru": "Собеседование",
+    "en": "A job interview",
+    "es": "Entrevista de trabajo"
+  },
+  "words": [
+    "solicitar",
+    "experiencia",
+    "nervioso"
+  ],
+  "phrase": {
+    "es": "Quiero solicitar este puesto. Tengo experiencia, pero estoy nervioso.",
+    "ru": "Хочу подать заявку на эту должность. У меня есть опыт, но я нервничаю.",
+    "en": "I want to apply for this position. I have experience, but I'm nervous."
+  },
+  "rule": {
+    "text": {
+      "ru": "Подать заявку — solicitar un puesto. Опыт — la experiencia (ж. р.). Estar nervioso — «нервничать» (временное состояние).",
+      "en": "To apply: solicitar un puesto. Experience: la experiencia (feminine). Estar nervioso = to be nervous (temporary).",
+      "es": "solicitar un puesto. la experiencia. estar nervioso."
+    },
+    "examples": [
+      {
+        "es": "Tengo cinco años de experiencia.",
+        "ru": "У меня пять лет опыта."
+      },
+      {
+        "es": "Estoy nervioso por la entrevista.",
+        "ru": "Я волнуюсь из-за собеседования."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Voy a ___ un puesto de programador.",
+      "answer": "solicitar",
+      "ru": "Я подам заявку на должность программиста."
+    },
+    {
+      "type": "fill",
+      "es": "Tengo mucha ___ con bases de datos.",
+      "answer": "experiencia",
+      "ru": "У меня большой опыт работы с базами данных."
+    },
+    {
+      "type": "build",
+      "es": "Solicito un puesto porque tengo experiencia.",
+      "ru": "Я подаю заявку на должность, потому что у меня есть опыт.",
+      "extra": [
+        "solicitas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "У меня есть опыт.",
+      "answer": [
+        "Tengo experiencia."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

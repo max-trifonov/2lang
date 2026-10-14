@@ -40,7 +40,8 @@
       "enum": [
         "travel",
         "it",
-        "daily"
+        "daily",
+        "friends"
       ]
     },
     "order": {

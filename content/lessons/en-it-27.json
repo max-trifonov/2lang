@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-27",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 27,
+  "level": "B1",
+  "title": {
+    "ru": "Достигнутая цель",
+    "en": "A goal achieved",
+    "es": "Un objetivo cumplido"
+  },
+  "words": [
+    "achieve",
+    "goal",
+    "successful"
+  ],
+  "phrase": {
+    "en": "We achieved our goal. The project was successful!",
+    "ru": "Мы достигли цели. Проект удался!",
+    "es": "Hemos logrado nuestro objetivo. ¡El proyecto fue un éxito!"
+  },
+  "rule": {
+    "text": {
+      "ru": "Achieve a goal — достичь цели. Прошедшее с итогом — Past Simple: We achieved it last week. Successful — «успешный», success — «успех».",
+      "en": "We achieve a goal. Past Simple for a finished event: We achieved it last week. Successful is the adjective, success the noun.",
+      "es": "achieve a goal. successful (adj) / success (n)."
+    },
+    "examples": [
+      {
+        "en": "We achieved a great result.",
+        "ru": "Мы достигли отличного результата."
+      },
+      {
+        "en": "The launch was successful.",
+        "ru": "Запуск был успешным."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We want to ___ our goals this year.",
+      "answer": "achieve",
+      "ru": "Мы хотим достичь своих целей в этом году."
+    },
+    {
+      "type": "fill",
+      "en": "Our main ___ is to finish in June.",
+      "answer": "goal",
+      "ru": "Наша главная цель — закончить в июне."
+    },
+    {
+      "type": "build",
+      "en": "We achieved our goal and the project was successful.",
+      "ru": "Мы достигли цели, и проект был успешным.",
+      "extra": [
+        "achieves"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Мы достигли цели.",
+      "answer": [
+        "We achieved our goal.",
+        "We've achieved our goal.",
+        "We have achieved our goal."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

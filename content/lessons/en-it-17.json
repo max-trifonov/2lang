@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-17",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 17,
+  "level": "B1",
+  "title": {
+    "ru": "Замена устройства",
+    "en": "Replacing a device",
+    "es": "Cambiar un dispositivo"
+  },
+  "words": [
+    "replace",
+    "device",
+    "modern"
+  ],
+  "phrase": {
+    "en": "We need to replace the old device with a modern one.",
+    "ru": "Нам нужно заменить старое устройство на современное.",
+    "es": "Necesitamos reemplazar el dispositivo viejo por uno moderno."
+  },
+  "rule": {
+    "text": {
+      "ru": "Замена — replace A with B. one заменяет существительное, чтобы не повторяться: the old one, a modern one.",
+      "en": "We replace A with B. One stands for a noun so we don't repeat it: the old one, a modern one.",
+      "es": "replace A with B. one sustituye al sustantivo: a modern one."
+    },
+    "examples": [
+      {
+        "en": "This one is broken, take that one.",
+        "ru": "Этот сломан, возьми тот."
+      },
+      {
+        "en": "We replaced the old screen.",
+        "ru": "Мы заменили старый экран."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "They will ___ the old servers next month.",
+      "answer": "replace",
+      "ru": "В следующем месяце они заменят старые серверы."
+    },
+    {
+      "type": "fill",
+      "en": "Connect your ___ to the wifi.",
+      "answer": "device",
+      "ru": "Подключи своё устройство к вайфаю."
+    },
+    {
+      "type": "build",
+      "en": "We replaced the old device with a modern one.",
+      "ru": "Мы заменили старое устройство современным.",
+      "extra": [
+        "replaces"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Нам нужно заменить это устройство.",
+      "answer": [
+        "We need to replace this device.",
+        "We have to replace this device."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

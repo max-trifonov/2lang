@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-11",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 11,
+  "level": "A2",
+  "title": {
+    "ru": "Давно не виделись",
+    "en": "Catching up",
+    "es": "Ponerse al día"
+  },
+  "words": [
+    "contar",
+    "noticia",
+    "últimamente"
+  ],
+  "phrase": {
+    "es": "¡Cuéntame! ¿Qué noticias tienes? Últimamente no nos vemos.",
+    "ru": "Рассказывай! Какие у тебя новости? Мы в последнее время не видимся.",
+    "en": "Tell me! What news do you have? We haven't seen each other lately."
+  },
+  "rule": {
+    "text": {
+      "ru": "Contar — «рассказывать»; me, te, le — кому: cuéntame. Чередование o → ue: cuento, cuentas, cuenta, contamos. Noticia — «новость» (одна), noticias — «новости».",
+      "en": "Contar means \"to tell\"; me, te, le show to whom: cuéntame. Stem change o → ue: cuento, cuentas, cuenta, contamos.",
+      "es": "contar o → ue. noticia(s) = news."
+    },
+    "examples": [
+      {
+        "es": "Te cuento una noticia.",
+        "ru": "Расскажу тебе новость."
+      },
+      {
+        "es": "¿Qué tal todo?",
+        "ru": "Как у тебя дела?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Te ___ una noticia increíble.",
+      "answer": "cuento",
+      "ru": "Расскажу тебе невероятную новость."
+    },
+    {
+      "type": "fill",
+      "es": "Tengo buenas ___.",
+      "answer": "noticias",
+      "ru": "У меня хорошие новости."
+    },
+    {
+      "type": "build",
+      "es": "Últimamente no tengo muchas noticias.",
+      "ru": "В последнее время у меня мало новостей.",
+      "extra": [
+        "cuentas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "У меня есть новости.",
+      "answer": [
+        "Tengo noticias.",
+        "Tengo una noticia."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

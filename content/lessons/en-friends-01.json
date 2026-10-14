@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-01",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 1,
+  "level": "B1",
+  "title": {
+    "ru": "Приглашение на вечеринку",
+    "en": "Invitation to a party",
+    "es": "Invitación a una fiesta"
+  },
+  "words": [
+    "invite",
+    "party",
+    "glad"
+  ],
+  "phrase": {
+    "en": "Would you like to come to our party on Saturday?",
+    "ru": "Хочешь прийти к нам на вечеринку в субботу?",
+    "es": "¿Quieres venir a nuestra fiesta el sábado?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Вежливое приглашение — Would you like to + глагол? Согласие — I'd love to или I'd be glad to.",
+      "en": "A polite invitation is Would you like to + verb? To accept, say I'd love to or I'd be glad to.",
+      "es": "Invitación cortés: Would you like to + verbo. Para aceptar: I'd love to / I'd be glad to."
+    },
+    "examples": [
+      {
+        "en": "Would you like to join us?",
+        "ru": "Хочешь присоединиться к нам?"
+      },
+      {
+        "en": "I'd love to, thank you!",
+        "ru": "С удовольствием, спасибо!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We'd like to ___ you to our wedding.",
+      "answer": "invite",
+      "ru": "Мы хотели бы пригласить вас на нашу свадьбу."
+    },
+    {
+      "type": "fill",
+      "en": "I'd be ___ to come.",
+      "answer": "glad",
+      "ru": "Буду рад прийти."
+    },
+    {
+      "type": "build",
+      "en": "They invited all their friends to the party.",
+      "ru": "Они пригласили на вечеринку всех своих друзей.",
+      "extra": [
+        "invites"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я с удовольствием приду.",
+      "answer": [
+        "I'd love to come.",
+        "I would love to come.",
+        "I'd be glad to come."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

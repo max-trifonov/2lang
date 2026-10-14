@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-13",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 13,
+  "level": "A2",
+  "title": {
+    "ru": "В такси",
+    "en": "In a taxi",
+    "es": "En el taxi"
+  },
+  "words": [
+    "tomar",
+    "taxi",
+    "rápido"
+  ],
+  "phrase": {
+    "es": "Tomamos un taxi. Es más rápido que el autobús.",
+    "ru": "Мы берём такси. Оно быстрее, чем автобус.",
+    "en": "We take a taxi. It's faster than the bus."
+  },
+  "rule": {
+    "text": {
+      "ru": "Сравнение — más + прилагательное + que: más rápido que. Взять такси — tomar un taxi. Цена — ¿Cuánto cuesta hasta el aeropuerto?",
+      "en": "Comparison: más + adjective + que: más rápido que. Take a taxi: tomar un taxi.",
+      "es": "más rápido que. tomar un taxi."
+    },
+    "examples": [
+      {
+        "es": "El tren es más rápido que el autobús.",
+        "ru": "Поезд быстрее автобуса."
+      },
+      {
+        "es": "¿Cuánto cuesta hasta el aeropuerto?",
+        "ru": "Сколько стоит до аэропорта?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "¿___ un taxi?",
+      "answer": "Tomamos",
+      "ru": "Возьмём такси?"
+    },
+    {
+      "type": "fill",
+      "es": "Este taxi es muy ___.",
+      "answer": "rápido",
+      "ru": "Это такси очень быстрое."
+    },
+    {
+      "type": "build",
+      "es": "Tomamos un taxi porque es más rápido.",
+      "ru": "Мы берём такси, потому что оно быстрее.",
+      "extra": [
+        "tomas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Возьмём такси.",
+      "answer": [
+        "Tomamos un taxi."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

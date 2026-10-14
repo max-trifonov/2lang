@@ -79,9 +79,12 @@ describe('словари на частотном каркасе', () => {
     const file = checkDictionaryFile(source).file!
     const mismatches = file.entries.flatMap((e) => {
       const row = sk.get(e.lemma)
-      const id = owner.get(e.lemma) === pos ? e.lemma : `${e.lemma}-${pos}`
+      const id = (owner.get(e.lemma) ?? pos) === pos ? e.lemma : `${e.lemma}-${pos}`
+      const extra = e.ext?.extra === true
       const problems = [
-        !row && 'нет в каркасе',
+        !row && !extra && 'нет в каркасе',
+        extra && row && 'слово вне каркаса есть в каркасе',
+        extra && e.rank <= sk.size && 'ранг внутри каркаса',
         row && row.rank !== e.rank && `ранг ${e.rank} ≠ ${row.rank}`,
         row &&
           lang === 'es' &&

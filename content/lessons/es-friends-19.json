@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-19",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 19,
+  "level": "A2",
+  "title": {
+    "ru": "Счёт в кафе",
+    "en": "Splitting the bill",
+    "es": "Pagar la cuenta"
+  },
+  "words": [
+    "dividir",
+    "cuenta",
+    "aparte"
+  ],
+  "phrase": {
+    "es": "¿Dividimos la cuenta? ¿O pagamos aparte?",
+    "ru": "Разделим счёт? Или заплатим отдельно?",
+    "en": "Shall we split the bill? Or pay separately?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Просьба о счёте — La cuenta, por favor. Dividir — «разделить»; aparte — «отдельно». Pagar con tarjeta / en efectivo.",
+      "en": "Ask for the bill: La cuenta, por favor. Dividir = to split; aparte = separately.",
+      "es": "La cuenta, por favor. dividir la cuenta. pagar aparte."
+    },
+    "examples": [
+      {
+        "es": "La cuenta, por favor.",
+        "ru": "Счёт, пожалуйста."
+      },
+      {
+        "es": "¿Pagamos con tarjeta?",
+        "ru": "Платим картой?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "¿___ la cuenta entre todos?",
+      "answer": "Dividimos",
+      "ru": "Разделим счёт на всех?"
+    },
+    {
+      "type": "fill",
+      "es": "Por favor, ¿nos trae la ___?",
+      "answer": "cuenta",
+      "ru": "Принесёте нам счёт, пожалуйста?"
+    },
+    {
+      "type": "build",
+      "es": "Dividimos la cuenta entre todos.",
+      "ru": "Мы делим счёт на всех.",
+      "extra": [
+        "divides"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Счёт, пожалуйста.",
+      "answer": [
+        "La cuenta, por favor."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

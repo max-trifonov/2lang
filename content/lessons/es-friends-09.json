@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-09",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 9,
+  "level": "A2",
+  "title": {
+    "ru": "Футбольный матч",
+    "en": "A football match",
+    "es": "Un partido de fútbol"
+  },
+  "words": [
+    "jugar",
+    "partido",
+    "bien"
+  ],
+  "phrase": {
+    "es": "Hoy jugamos al fútbol. El partido empieza a las seis.",
+    "ru": "Сегодня мы играем в футбол. Матч начинается в шесть.",
+    "en": "Today we play football. The match starts at six."
+  },
+  "rule": {
+    "text": {
+      "ru": "Играть в игру — jugar a + el: jugar al fútbol. Чередование u → ue: juego, juegas, juega, jugamos. Хорошо — bien (наречие).",
+      "en": "To play a game: jugar a + el: jugar al fútbol. Stem change u → ue: juego, juegas, juega, jugamos. Well = bien (adverb).",
+      "es": "jugar al fútbol. u → ue: juego, juegas. bien (adverbio)."
+    },
+    "examples": [
+      {
+        "es": "Juego al tenis los domingos.",
+        "ru": "По воскресеньям я играю в теннис."
+      },
+      {
+        "es": "Ella juega muy bien.",
+        "ru": "Она играет очень хорошо."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Mis amigos ___ al fútbol los sábados.",
+      "answer": "juegan",
+      "ru": "Мои друзья играют в футбол по субботам."
+    },
+    {
+      "type": "fill",
+      "es": "Hoy el ___ es muy importante.",
+      "answer": "partido",
+      "ru": "Сегодня матч очень важный."
+    },
+    {
+      "type": "build",
+      "es": "Hoy jugamos un partido muy bien.",
+      "ru": "Сегодня мы сыграли матч очень хорошо.",
+      "extra": [
+        "juego"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Мы играем в футбол.",
+      "answer": [
+        "Jugamos al fútbol."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

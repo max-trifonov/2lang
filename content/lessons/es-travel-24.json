@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-24",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 24,
+  "level": "A2",
+  "title": {
+    "ru": "Сувениры",
+    "en": "Buying souvenirs",
+    "es": "Comprar recuerdos"
+  },
+  "words": [
+    "vender",
+    "precio",
+    "caro"
+  ],
+  "phrase": {
+    "es": "¿Venden postales? El precio es un poco caro.",
+    "ru": "Вы продаёте открытки? Цена немного высока.",
+    "en": "Do you sell postcards? The price is a bit expensive."
+  },
+  "rule": {
+    "text": {
+      "ru": "Сколько стоит — ¿Cuánto cuesta? / ¿Cuánto cuestan? (мн. число). Caro — «дорогой», barato — «дешёвый». Se venden — «продаются».",
+      "en": "How much: ¿Cuánto cuesta? / ¿Cuánto cuestan? (plural). Caro = expensive, barato = cheap.",
+      "es": "¿Cuánto cuesta / cuestan? caro / barato."
+    },
+    "examples": [
+      {
+        "es": "¿Cuánto cuestan las postales?",
+        "ru": "Сколько стоят открытки?"
+      },
+      {
+        "es": "Es muy caro para mí.",
+        "ru": "Это слишком дорого для меня."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "¿___ postales aquí?",
+      "answer": "Venden",
+      "ru": "Здесь продают открытки?"
+    },
+    {
+      "type": "fill",
+      "es": "El ___ es muy alto.",
+      "answer": "precio",
+      "ru": "Цена очень высокая."
+    },
+    {
+      "type": "build",
+      "es": "Aquí venden recuerdos a un precio caro.",
+      "ru": "Здесь продают сувениры по высокой цене.",
+      "extra": [
+        "vendes"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Это слишком дорого.",
+      "answer": [
+        "Es muy caro.",
+        "Es demasiado caro."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

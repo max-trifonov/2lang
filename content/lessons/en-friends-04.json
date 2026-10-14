@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-04",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 4,
+  "level": "B1",
+  "title": {
+    "ru": "Я опаздываю",
+    "en": "I'm running late",
+    "es": "Voy a llegar tarde"
+  },
+  "words": [
+    "arrive",
+    "traffic",
+    "sorry"
+  ],
+  "phrase": {
+    "en": "Sorry, I'm late! There was so much traffic.",
+    "ru": "Прости, я опоздал! Было столько пробок.",
+    "es": "¡Perdona, llego tarde! Había mucho tráfico."
+  },
+  "rule": {
+    "text": {
+      "ru": "Извинение — Sorry I'm late или Sorry for being late (for + -ing). Причина — There was / is a lot of traffic: traffic неисчисляемое.",
+      "en": "To apologise, say Sorry I'm late or Sorry for being late (for + -ing). Traffic is uncountable: a lot of traffic.",
+      "es": "Disculpa: Sorry I'm late / Sorry for being late. Traffic es incontable."
+    },
+    "examples": [
+      {
+        "en": "Sorry for keeping you waiting.",
+        "ru": "Прости, что заставил тебя ждать."
+      },
+      {
+        "en": "I'll arrive in ten minutes.",
+        "ru": "Я буду через десять минут."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We will ___ at seven.",
+      "answer": "arrive",
+      "ru": "Мы приедем в семь."
+    },
+    {
+      "type": "fill",
+      "en": "Sorry, there was a lot of ___ on the road.",
+      "answer": "traffic",
+      "ru": "Прости, на дороге было много машин."
+    },
+    {
+      "type": "build",
+      "en": "Sorry, I arrived late because of the traffic.",
+      "ru": "Прости, я опоздал из-за пробок.",
+      "extra": [
+        "arrives"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Простите, что опоздал.",
+      "answer": [
+        "Sorry I'm late.",
+        "Sorry for being late."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

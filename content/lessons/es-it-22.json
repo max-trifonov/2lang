@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-22",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 22,
+  "level": "A2",
+  "title": {
+    "ru": "Срочно!",
+    "en": "It's urgent!",
+    "es": "¡Es urgente!"
+  },
+  "words": [
+    "necesitar",
+    "tiempo",
+    "urgente"
+  ],
+  "phrase": {
+    "es": "Es urgente. Necesitamos más tiempo para terminar.",
+    "ru": "Это срочно. Нам нужно больше времени, чтобы закончить.",
+    "en": "It's urgent. We need more time to finish."
+  },
+  "rule": {
+    "text": {
+      "ru": "Цель — para + инфинитив: para terminar. Necesitar + существительное: necesitamos tiempo. Urgente — одна форма для обоих родов.",
+      "en": "Purpose: para + infinitive: para terminar. Necesitar + noun: necesitamos tiempo. Urgente has one form.",
+      "es": "para + infinitivo. necesitar + sustantivo."
+    },
+    "examples": [
+      {
+        "es": "Necesito más tiempo.",
+        "ru": "Мне нужно больше времени."
+      },
+      {
+        "es": "Es un asunto urgente.",
+        "ru": "Это срочное дело."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "___ más tiempo para el proyecto.",
+      "answer": "Necesitamos",
+      "ru": "Нам нужно больше времени на проект."
+    },
+    {
+      "type": "fill",
+      "es": "No tenemos mucho ___.",
+      "answer": "tiempo",
+      "ru": "У нас мало времени."
+    },
+    {
+      "type": "build",
+      "es": "Es urgente, necesitamos más tiempo.",
+      "ru": "Это срочно, нам нужно больше времени.",
+      "extra": [
+        "necesitas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Это срочно.",
+      "answer": [
+        "Es urgente."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-27",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 27,
+  "level": "A2",
+  "title": {
+    "ru": "Достигнутая цель",
+    "en": "A goal achieved",
+    "es": "Un objetivo cumplido"
+  },
+  "words": [
+    "lograr",
+    "meta",
+    "exitoso"
+  ],
+  "phrase": {
+    "es": "Logramos la meta. El proyecto fue exitoso.",
+    "ru": "Мы достигли цели. Проект был успешным.",
+    "en": "We achieved the goal. The project was successful."
+  },
+  "rule": {
+    "text": {
+      "ru": "Lograr — «добиться»: logramos la meta. Fue — pretérito от ser: «был». Exitoso — «успешный», éxito — «успех».",
+      "en": "Lograr = to achieve: logramos la meta. Fue is the preterite of ser. Exitoso = successful; éxito = success.",
+      "es": "lograr una meta. fue. exitoso / éxito."
+    },
+    "examples": [
+      {
+        "es": "Logré mi objetivo.",
+        "ru": "Я достиг своей цели."
+      },
+      {
+        "es": "Fue un día muy exitoso.",
+        "ru": "Это был очень успешный день."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Este año vamos a ___ la meta.",
+      "answer": "lograr",
+      "ru": "В этом году мы добьёмся цели."
+    },
+    {
+      "type": "fill",
+      "es": "Nuestra ___ es terminar en junio.",
+      "answer": "meta",
+      "ru": "Наша цель — закончить в июне."
+    },
+    {
+      "type": "build",
+      "es": "Logramos la meta y el proyecto fue exitoso.",
+      "ru": "Мы достигли цели, и проект был успешным.",
+      "extra": [
+        "logras"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Мы достигли цели.",
+      "answer": [
+        "Logramos la meta.",
+        "Logramos nuestro objetivo."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

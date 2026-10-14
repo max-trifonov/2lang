@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-18",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 18,
+  "level": "B1",
+  "title": {
+    "ru": "Билеты в музей",
+    "en": "Museum tickets",
+    "es": "Entradas para el museo"
+  },
+  "words": [
+    "buy",
+    "ticket",
+    "open-adj"
+  ],
+  "phrase": {
+    "en": "Two tickets, please. Is the museum open on Mondays?",
+    "ru": "Два билета, пожалуйста. Музей открыт по понедельникам?",
+    "es": "Dos entradas, por favor. ¿Está abierto el museo los lunes?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Заказ — Two tickets, please. Время работы — Is it open? / What time does it open? Open здесь прилагательное: The museum is open.",
+      "en": "Order with Two tickets, please. Ask about hours: Is it open? What time does it open? Open can be an adjective.",
+      "es": "Two tickets, please. Is it open? What time does it open?"
+    },
+    "examples": [
+      {
+        "en": "What time does it open?",
+        "ru": "Во сколько он открывается?"
+      },
+      {
+        "en": "Is it open on Sundays?",
+        "ru": "Он открыт по воскресеньям?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Where can I ___ tickets?",
+      "answer": "buy",
+      "ru": "Где можно купить билеты?"
+    },
+    {
+      "type": "fill",
+      "en": "How much is one ___ ?",
+      "answer": "ticket",
+      "ru": "Сколько стоит один билет?"
+    },
+    {
+      "type": "build",
+      "en": "The museum is open until six.",
+      "ru": "Музей открыт до шести.",
+      "extra": [
+        "opens"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Два билета, пожалуйста.",
+      "answer": [
+        "Two tickets, please."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

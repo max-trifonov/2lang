@@ -200,6 +200,7 @@ const translation = (e: CatalogEntry) =>
                 <span class="dict__word">
                   <WordArticle :word="e" />
                   <strong :lang="e.lang">{{ e.lemma }}</strong>
+                  <span v-if="e.level" class="dict__badge">{{ e.level }}</span>
                   <span v-if="e.irregular" class="dict__badge">{{
                     t('dictionary.irregular')
                   }}</span>

@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-25",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 25,
+  "level": "A2",
+  "title": {
+    "ru": "Поход в горы",
+    "en": "A hike together",
+    "es": "Una excursión a la montaña"
+  },
+  "words": [
+    "subir",
+    "montaña",
+    "cansado"
+  ],
+  "phrase": {
+    "es": "El domingo subimos la montaña. Vamos a estar cansados, pero contentos.",
+    "ru": "В воскресенье мы поднимемся на гору. Мы устанем, но будем довольны.",
+    "en": "On Sunday we climb the mountain. We'll be tired, but happy."
+  },
+  "rule": {
+    "text": {
+      "ru": "Подниматься — subir (a la montaña / la montaña). Estar cansado — «быть уставшим». Прилагательное согласуется во мн. числе: cansados.",
+      "en": "To climb: subir (a la montaña / la montaña). Estar cansado = to be tired. Plural agreement: cansados.",
+      "es": "subir a la montaña. estar cansado / cansados."
+    },
+    "examples": [
+      {
+        "es": "Subimos al tren.",
+        "ru": "Мы садимся в поезд."
+      },
+      {
+        "es": "Estoy muy cansado hoy.",
+        "ru": "Сегодня я очень устал."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "El domingo ___ la montaña.",
+      "answer": "subimos",
+      "ru": "В воскресенье мы поднимаемся на гору."
+    },
+    {
+      "type": "fill",
+      "es": "Después del paseo estamos muy ___.",
+      "answer": "cansados",
+      "ru": "После прогулки мы очень устали."
+    },
+    {
+      "type": "build",
+      "es": "Subimos la montaña y estamos muy cansados.",
+      "ru": "Мы поднялись на гору и очень устали.",
+      "extra": [
+        "subes"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Мы поднимаемся на гору.",
+      "answer": [
+        "Subimos la montaña.",
+        "Subimos a la montaña."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

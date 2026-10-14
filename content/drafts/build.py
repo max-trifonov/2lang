@@ -7,6 +7,7 @@
 import csv, glob, importlib.util, json, os, re, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
 ROOT = os.path.abspath(os.path.join(HERE, '..'))
 LISTS = {'verb': 'verbs', 'noun': 'nouns', 'adj': 'adjectives', 'adv': 'adverbs'}
 SRC = 'Черновик ИИ (D-25) на частотном каркасе wordhoard v0.1.0 (CC BY-SA 4.0, D-24): https://github.com/natema/wordhoard; см. content/frequency/NOTICE.md'
@@ -28,26 +29,7 @@ def skeleton(lang, pos):
     with open(f'{ROOT}/frequency/{lang}.{pos}.csv') as f:
         return {r['lemma']: r for r in csv.DictReader(f)}
 
-# --- испанский: правильное спряжение ----------------------------------------------------
-END = {
-    'ar': (['o', 'as', 'a', 'amos', 'áis', 'an'], ['é', 'aste', 'ó', 'amos', 'asteis', 'aron'], 'ando', 'ado'),
-    'er': (['o', 'es', 'e', 'emos', 'éis', 'en'], ['í', 'iste', 'ió', 'imos', 'isteis', 'ieron'], 'iendo', 'ido'),
-    'ir': (['o', 'es', 'e', 'imos', 'ís', 'en'], ['í', 'iste', 'ió', 'imos', 'isteis', 'ieron'], 'iendo', 'ido'),
-}
-
-def es_regular(lemma):
-    inf = lemma.replace('í', 'i')  # oír → oir для окончания; формы oír даются явно
-    stem, cls = inf[:-2], inf[-2:]
-    pres, pret, ger, part = END[cls]
-    pret = [stem + e for e in pret]
-    # Орфография 1-го лица pretérito: buscar → busqué, llegar → llegué, empezar → empecé.
-    if cls == 'ar':
-        yo = pret[0]
-        if stem.endswith('c'): yo = stem[:-1] + 'qué'
-        elif stem.endswith('g'): yo = stem[:-1] + 'gué'
-        elif stem.endswith('z'): yo = stem[:-1] + 'cé'
-        pret[0] = yo
-    return {'present': [stem + e for e in pres], 'preterite': pret, 'gerund': stem + ger, 'participle': stem + part}
+from dsl import es_regular
 
 ACCENT_OFF = str.maketrans('áéíóú', 'aeiou')
 
@@ -89,10 +71,14 @@ def word_ids(lang):
     for pos in PRIORITY:
         for lemma in skeleton(lang, pos):
             owner.setdefault(lemma, pos)
-    return lambda lemma, pos: lemma if owner[lemma] == pos else f'{lemma}-{pos}'
+    # Слово вне каркаса (extras) нигде не конфликтует — простой id.
+    return lambda lemma, pos: lemma if owner.get(lemma, pos) == pos else f'{lemma}-{pos}'
 
 def build_entry(lang, pos, lemma, sk, d, wid):
     e = {'id': wid(lemma, pos), 'lemma': lemma, 'pos': pos, 'rank': int(sk['rank'])}
+    level = sk.get('cefr') or d.get('lvl')
+    if level: e['level'] = level
+    if d.get('extra'): d['ext_extra'] = True
     if d.get('irr'): e['irregular'] = True
     if lang == 'es' and pos == 'noun': e['gender'] = sk['gender']
     if d.get('ipa'): e['ipa'] = d['ipa']
@@ -110,11 +96,11 @@ def build_entry(lang, pos, lemma, sk, d, wid):
     e['examples'] = [{lang: s, 'ru': ru, 'topic': t} for s, ru, t in d['ex']]
     if d.get('note'): e['note'] = {'ru': d['note']}
     if d.get('pair'): e['pair'] = d['pair']
-    e['ext'] = {'draft': True}
-    order = ['id', 'lemma', 'pos', 'rank', 'irregular', 'gender', 'ipa', 'rules', 'translations', 'pair', 'forms', 'topics', 'examples', 'note', 'ext']
+    e['ext'] = {'draft': True, **({'extra': True} if d.get('extra') else {})}
+    order = ['id', 'lemma', 'pos', 'rank', 'level', 'irregular', 'gender', 'ipa', 'rules', 'translations', 'pair', 'forms', 'topics', 'examples', 'note', 'ext']
     return {k: e[k] for k in order if k in e}
 
-ORDER = ['id', 'lemma', 'pos', 'rank', 'irregular', 'gender', 'ipa', 'rules', 'translations', 'pair', 'forms', 'topics', 'examples', 'note', 'ext']
+ORDER = ['id', 'lemma', 'pos', 'rank', 'level', 'irregular', 'gender', 'ipa', 'rules', 'translations', 'pair', 'forms', 'topics', 'examples', 'note', 'ext']
 
 def existing(lang, name):
     path = f'{ROOT}/dictionary/{lang}.{name}.json'
@@ -129,18 +115,46 @@ def main():
     for lang in ('es', 'en'):
         for pos, name in LISTS.items():
             data = load(f'{lang}_{pos}')
-            if data is None: continue
+            extras = load(f'{lang}_{pos}_x')
+            if data is None and extras is None: continue
+            data = data or {}
             sk = skeleton(lang, pos)
             wid = word_ids(lang)
             missing = [l for l in data if l not in sk]
             if missing: sys.exit(f'{lang}.{pos}: нет в каркасе: {missing}')
             entries = [build_entry(lang, pos, l, sk[l], d, wid) for l, d in data.items()]
+            # Слова вне каркаса (прилагательные и наречия сверх топ-200): ранг продолжает каркас
+            # и уже выданные ранги словаря; лемма не должна быть в каркасе ни в одной части речи.
+            if extras:
+                # Лемма, уже стоящая в каркасе этого списка, — не «вне каркаса»: пропускаем.
+                extras = {l: d for l, d in extras.items() if l not in sk}
+                top = max([int(r['rank']) for r in sk.values()] + [e['rank'] for e in kept.get((lang, name), [])])
+                have = {e['lemma'] for e in kept.get((lang, name), [])}
+                for l, d in extras.items():
+                    if l in have: continue
+                    top += 1
+                    entries.append(build_entry(lang, pos, l, {'rank': top}, {**d, 'extra': 1}, wid))
             # Слияние: черновик статьи, уже лежащей в словаре, не применяется.
             built[(lang, name)] = [e for e in entries if (lang, e['id']) not in kept_ids]
     ids = {f'{lang}:{e["id"]}' for (lang, _), es in [*built.items(), *kept.items()] for e in es}
+    # Пара задаётся леммой (en:town): разрешается в id статьи той же части речи, иначе любой.
+    by_lemma = {}
+    for (lang, _), es in [*kept.items(), *built.items()]:
+        for e in es:
+            by_lemma.setdefault((lang, e['lemma']), []).append(e)
+    def resolve(pair, pos):
+        if pair in ids: return pair
+        lang, _, lemma = pair.partition(':')
+        cands = by_lemma.get((lang, lemma), [])
+        if not cands: return None
+        best = min(cands, key=lambda c: (c['pos'] != pos, c['rank']))
+        return f'{lang}:{best["id"]}'
     for entries in built.values():
         for e in entries:
-            if 'pair' in e and e['pair'] not in ids: del e['pair']
+            if 'pair' in e:
+                r = resolve(e['pair'], e['pos'])
+                if r: e['pair'] = r
+                else: del e['pair']
     # Обратные пары ES → EN: из английских статей, ссылающихся на испанскую, — той же части
     # речи и самая частотная (say/tell → decir: say). Только у новых статей.
     back = {}
@@ -162,7 +176,15 @@ def main():
         lang, name = key
         added = built.get(key, [])
         old = kept.get(key, [])
-        if not added and not rebuild: continue
+        if not added and not rebuild and all('level' in e for e in old): continue
+        if not rebuild:
+            # Уровень CEFR из каркаса — всем статьям, у кого его нет (выверенные поля не трогаем).
+            levels = {r['lemma']: r.get('cefr') for r in skeleton(lang, [p for p, n in LISTS.items() if n == name][0]).values()}
+            for e in old:
+                if 'level' not in e and levels.get(e['lemma']):
+                    e['level'] = levels[e['lemma']]
+                    e.update({k: e[k] for k in ORDER if k in e})
+            old = [{k: e[k] for k in ORDER if k in e} | {k: v for k, v in e.items() if k not in ORDER} for e in old]
         entries = sorted([*old, *added], key=lambda e: e['rank'])
         doc = {'format': '2lang/dictionary', 'version': 1, 'lang': lang, 'license': 'cc-by-sa', 'source': SRC, 'entries': entries}
         path = f'{ROOT}/dictionary/{lang}.{name}.json'

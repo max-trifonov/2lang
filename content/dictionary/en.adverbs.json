@@ -10,6 +10,7 @@
       "lemma": "so",
       "pos": "adv",
       "rank": 1,
+      "level": "A1",
       "translations": {
         "ru": "так, настолько; поэтому"
       },
@@ -35,6 +36,7 @@
       "lemma": "just",
       "pos": "adv",
       "rank": 2,
+      "level": "A1",
       "translations": {
         "ru": "только что; просто; как раз"
       },
@@ -60,6 +62,7 @@
       "lemma": "here",
       "pos": "adv",
       "rank": 3,
+      "level": "A1",
       "translations": {
         "ru": "здесь, сюда"
       },
@@ -85,6 +88,7 @@
       "lemma": "well",
       "pos": "adv",
       "rank": 4,
+      "level": "A1",
       "translations": {
         "ru": "хорошо; well… — ну…"
       },
@@ -110,6 +114,7 @@
       "lemma": "out",
       "pos": "adv",
       "rank": 5,
+      "level": "A1",
       "translations": {
         "ru": "вне, наружу; out of — из"
       },
@@ -134,6 +139,7 @@
       "lemma": "about",
       "pos": "adv",
       "rank": 6,
+      "level": "A1",
       "translations": {
         "ru": "около, примерно; о"
       },
@@ -159,6 +165,7 @@
       "lemma": "up",
       "pos": "adv",
       "rank": 7,
+      "level": "A1",
       "translations": {
         "ru": "вверх, наверх"
       },
@@ -184,6 +191,7 @@
       "lemma": "now",
       "pos": "adv",
       "rank": 8,
+      "level": "A1",
       "translations": {
         "ru": "сейчас"
       },
@@ -209,6 +217,7 @@
       "lemma": "back",
       "pos": "adv",
       "rank": 9,
+      "level": "A1",
       "translations": {
         "ru": "назад, обратно"
       },
@@ -234,6 +243,7 @@
       "lemma": "then",
       "pos": "adv",
       "rank": 10,
+      "level": "A1",
       "translations": {
         "ru": "тогда; потом"
       },
@@ -259,6 +269,7 @@
       "lemma": "really",
       "pos": "adv",
       "rank": 11,
+      "level": "A1",
       "translations": {
         "ru": "действительно, очень"
       },
@@ -284,6 +295,7 @@
       "lemma": "too",
       "pos": "adv",
       "rank": 12,
+      "level": "A1",
       "translations": {
         "ru": "тоже; слишком"
       },
@@ -309,6 +321,7 @@
       "lemma": "more",
       "pos": "adv",
       "rank": 13,
+      "level": "A1",
       "translations": {
         "ru": "больше, ещё; более"
       },
@@ -334,6 +347,7 @@
       "lemma": "down",
       "pos": "adv",
       "rank": 14,
+      "level": "A1",
       "translations": {
         "ru": "вниз; не работает (о системе)"
       },
@@ -359,6 +373,7 @@
       "lemma": "very",
       "pos": "adv",
       "rank": 15,
+      "level": "A1",
       "translations": {
         "ru": "очень"
       },
@@ -384,6 +399,7 @@
       "lemma": "never",
       "pos": "adv",
       "rank": 16,
+      "level": "A1",
       "translations": {
         "ru": "никогда"
       },
@@ -409,6 +425,7 @@
       "lemma": "only",
       "pos": "adv",
       "rank": 17,
+      "level": "A1",
       "translations": {
         "ru": "только"
       },
@@ -434,6 +451,7 @@
       "lemma": "over",
       "pos": "adv",
       "rank": 18,
+      "level": "A1",
       "translations": {
         "ru": "над; через; закончено"
       },
@@ -458,6 +476,7 @@
       "lemma": "even",
       "pos": "adv",
       "rank": 19,
+      "level": "A1",
       "translations": {
         "ru": "даже"
       },
@@ -483,6 +502,7 @@
       "lemma": "first",
       "pos": "adv",
       "rank": 20,
+      "level": "A1",
       "translations": {
         "ru": "сначала, сперва"
       },
@@ -508,6 +528,7 @@
       "lemma": "still",
       "pos": "adv",
       "rank": 21,
+      "level": "A1",
       "translations": {
         "ru": "всё ещё, до сих пор"
       },
@@ -533,6 +554,7 @@
       "lemma": "again",
       "pos": "adv",
       "rank": 22,
+      "level": "A1",
       "translations": {
         "ru": "снова, опять"
       },
@@ -558,6 +580,7 @@
       "lemma": "long",
       "pos": "adv",
       "rank": 23,
+      "level": "A1",
       "translations": {
         "ru": "долго"
       },
@@ -582,6 +605,7 @@
       "lemma": "maybe",
       "pos": "adv",
       "rank": 24,
+      "level": "A1",
       "translations": {
         "ru": "может быть"
       },
@@ -607,6 +631,7 @@
       "lemma": "away",
       "pos": "adv",
       "rank": 25,
+      "level": "A1",
       "translations": {
         "ru": "прочь; далеко; в отъезде"
       },
@@ -632,6 +657,7 @@
       "lemma": "always",
       "pos": "adv",
       "rank": 26,
+      "level": "A1",
       "translations": {
         "ru": "всегда"
       },
@@ -657,6 +683,7 @@
       "lemma": "around",
       "pos": "adv",
       "rank": 27,
+      "level": "A1",
       "translations": {
         "ru": "вокруг; около; поблизости"
       },
@@ -682,6 +709,7 @@
       "lemma": "ever",
       "pos": "adv",
       "rank": 28,
+      "level": "A1",
       "translations": {
         "ru": "когда-либо"
       },
@@ -706,6 +734,7 @@
       "lemma": "kind",
       "pos": "adv",
       "rank": 29,
+      "level": "A1",
       "translations": {
         "ru": "kind of — вроде, отчасти (разг.)"
       },
@@ -733,6 +762,7 @@
       "lemma": "enough",
       "pos": "adv",
       "rank": 30,
+      "level": "A1",
       "translations": {
         "ru": "достаточно"
       },
@@ -758,6 +788,7 @@
       "lemma": "else",
       "pos": "adv",
       "rank": 31,
+      "level": "A1",
       "translations": {
         "ru": "ещё, кроме того"
       },
@@ -782,6 +813,7 @@
       "lemma": "together",
       "pos": "adv",
       "rank": 32,
+      "level": "A1",
       "translations": {
         "ru": "вместе"
       },
@@ -806,6 +838,7 @@
       "lemma": "already",
       "pos": "adv",
       "rank": 33,
+      "level": "A1",
       "translations": {
         "ru": "уже"
       },
@@ -831,6 +864,7 @@
       "lemma": "most",
       "pos": "adv",
       "rank": 34,
+      "level": "A1",
       "translations": {
         "ru": "больше всего; самый"
       },
@@ -855,6 +889,7 @@
       "lemma": "actually",
       "pos": "adv",
       "rank": 35,
+      "level": "A1",
       "translations": {
         "ru": "на самом деле, вообще-то"
       },
@@ -883,6 +918,7 @@
       "lemma": "once",
       "pos": "adv",
       "rank": 36,
+      "level": "A1",
       "translations": {
         "ru": "один раз; когда-то"
       },
@@ -907,6 +943,7 @@
       "lemma": "also",
       "pos": "adv",
       "rank": 37,
+      "level": "A1",
       "translations": {
         "ru": "также, тоже"
       },
@@ -932,6 +969,7 @@
       "lemma": "pretty",
       "pos": "adv",
       "rank": 38,
+      "level": "A1",
       "translations": {
         "ru": "довольно (разг.)"
       },
@@ -957,6 +995,7 @@
       "lemma": "yet",
       "pos": "adv",
       "rank": 39,
+      "level": "A1",
       "translations": {
         "ru": "ещё (в отрицании); уже (в вопросе)"
       },
@@ -982,6 +1021,7 @@
       "lemma": "alone",
       "pos": "adv",
       "rank": 40,
+      "level": "A1",
       "translations": {
         "ru": "один, в одиночку"
       },
@@ -1006,6 +1046,7 @@
       "lemma": "soon",
       "pos": "adv",
       "rank": 41,
+      "level": "A1",
       "translations": {
         "ru": "скоро"
       },
@@ -1031,6 +1072,7 @@
       "lemma": "far",
       "pos": "adv",
       "rank": 42,
+      "level": "A1",
       "translations": {
         "ru": "далеко"
       },
@@ -1056,6 +1098,7 @@
       "lemma": "ago",
       "pos": "adv",
       "rank": 43,
+      "level": "A1",
       "translations": {
         "ru": "назад (тому)"
       },
@@ -1080,6 +1123,7 @@
       "lemma": "later",
       "pos": "adv",
       "rank": 44,
+      "level": "A1",
       "translations": {
         "ru": "позже, потом"
       },
@@ -1105,6 +1149,7 @@
       "lemma": "close",
       "pos": "adv",
       "rank": 45,
+      "level": "A1",
       "translations": {
         "ru": "близко"
       },
@@ -1130,6 +1175,7 @@
       "lemma": "probably",
       "pos": "adv",
       "rank": 46,
+      "level": "A1",
       "translations": {
         "ru": "вероятно"
       },
@@ -1155,6 +1201,7 @@
       "lemma": "late",
       "pos": "adv",
       "rank": 47,
+      "level": "A1",
       "translations": {
         "ru": "поздно"
       },
@@ -1179,6 +1226,7 @@
       "lemma": "exactly",
       "pos": "adv",
       "rank": 48,
+      "level": "A1",
       "translations": {
         "ru": "точно, именно"
       },
@@ -1204,6 +1252,7 @@
       "lemma": "inside",
       "pos": "adv",
       "rank": 49,
+      "level": "A1",
       "translations": {
         "ru": "внутри"
       },
@@ -1229,6 +1278,7 @@
       "lemma": "quite",
       "pos": "adv",
       "rank": 50,
+      "level": "A1",
       "translations": {
         "ru": "довольно; вполне"
       },
@@ -1254,6 +1304,7 @@
       "lemma": "anyway",
       "pos": "adv",
       "rank": 51,
+      "level": "A1",
       "translations": {
         "ru": "всё равно, в любом случае"
       },
@@ -1278,6 +1329,7 @@
       "lemma": "behind",
       "pos": "adv",
       "rank": 52,
+      "level": "A1",
       "translations": {
         "ru": "сзади, позади"
       },
@@ -1303,6 +1355,7 @@
       "lemma": "almost",
       "pos": "adv",
       "rank": 53,
+      "level": "A1",
       "translations": {
         "ru": "почти"
       },
@@ -1328,6 +1381,7 @@
       "lemma": "anymore",
       "pos": "adv",
       "rank": 54,
+      "level": "A1",
       "translations": {
         "ru": "больше (не)"
       },
@@ -1352,6 +1406,7 @@
       "lemma": "either",
       "pos": "adv",
       "rank": 55,
+      "level": "A1",
       "translations": {
         "ru": "тоже (в отрицании); либо"
       },
@@ -1377,6 +1432,7 @@
       "lemma": "sometimes",
       "pos": "adv",
       "rank": 56,
+      "level": "A1",
       "translations": {
         "ru": "иногда"
       },
@@ -1401,6 +1457,7 @@
       "lemma": "outside",
       "pos": "adv",
       "rank": 57,
+      "level": "A1",
       "translations": {
         "ru": "снаружи, на улице"
       },
@@ -1425,6 +1482,7 @@
       "lemma": "early",
       "pos": "adv",
       "rank": 58,
+      "level": "A1",
       "translations": {
         "ru": "рано"
       },
@@ -1450,6 +1508,7 @@
       "lemma": "clear",
       "pos": "adv",
       "rank": 59,
+      "level": "A1",
       "translations": {
         "ru": "ясно; в стороне (stay clear)"
       },
@@ -1475,6 +1534,7 @@
       "lemma": "ahead",
       "pos": "adv",
       "rank": 60,
+      "level": "A1",
       "translations": {
         "ru": "впереди, вперёд"
       },
@@ -1500,6 +1560,7 @@
       "lemma": "alright",
       "pos": "adv",
       "rank": 61,
+      "level": "A1",
       "translations": {
         "ru": "хорошо, ладно"
       },
@@ -1525,6 +1586,7 @@
       "lemma": "perhaps",
       "pos": "adv",
       "rank": 62,
+      "level": "A1",
       "translations": {
         "ru": "возможно"
       },
@@ -1550,6 +1612,7 @@
       "lemma": "finally",
       "pos": "adv",
       "rank": 63,
+      "level": "A1",
       "translations": {
         "ru": "наконец"
       },
@@ -1575,6 +1638,7 @@
       "lemma": "rather",
       "pos": "adv",
       "rank": 64,
+      "level": "A1",
       "translations": {
         "ru": "довольно; скорее, лучше"
       },
@@ -1599,6 +1663,7 @@
       "lemma": "somewhere",
       "pos": "adv",
       "rank": 65,
+      "level": "A1",
       "translations": {
         "ru": "где-то, куда-то"
       },
@@ -1623,6 +1688,7 @@
       "lemma": "less",
       "pos": "adv",
       "rank": 66,
+      "level": "A1",
       "translations": {
         "ru": "меньше"
       },
@@ -1648,6 +1714,7 @@
       "lemma": "straight",
       "pos": "adv",
       "rank": 67,
+      "level": "A1",
       "translations": {
         "ru": "прямо; сразу"
       },
@@ -1672,6 +1739,7 @@
       "lemma": "absolutely",
       "pos": "adv",
       "rank": 68,
+      "level": "A1",
       "translations": {
         "ru": "абсолютно; конечно"
       },
@@ -1697,6 +1765,7 @@
       "lemma": "completely",
       "pos": "adv",
       "rank": 69,
+      "level": "A1",
       "translations": {
         "ru": "полностью"
       },
@@ -1722,6 +1791,7 @@
       "lemma": "totally",
       "pos": "adv",
       "rank": 70,
+      "level": "A1",
       "translations": {
         "ru": "совершенно, полностью"
       },
@@ -1747,6 +1817,7 @@
       "lemma": "instead",
       "pos": "adv",
       "rank": 71,
+      "level": "A1",
       "translations": {
         "ru": "вместо этого"
       },
@@ -1771,6 +1842,7 @@
       "lemma": "definitely",
       "pos": "adv",
       "rank": 72,
+      "level": "A1",
       "translations": {
         "ru": "определённо"
       },
@@ -1796,6 +1868,7 @@
       "lemma": "certainly",
       "pos": "adv",
       "rank": 73,
+      "level": "A1",
       "translations": {
         "ru": "конечно, безусловно"
       },
@@ -1821,6 +1894,7 @@
       "lemma": "seriously",
       "pos": "adv",
       "rank": 74,
+      "level": "A2",
       "translations": {
         "ru": "серьёзно"
       },
@@ -1845,6 +1919,7 @@
       "lemma": "forever",
       "pos": "adv",
       "rank": 75,
+      "level": "A2",
       "translations": {
         "ru": "навсегда; целую вечность"
       },
@@ -1869,6 +1944,7 @@
       "lemma": "anywhere",
       "pos": "adv",
       "rank": 76,
+      "level": "A2",
       "translations": {
         "ru": "где угодно, куда угодно"
       },
@@ -1893,6 +1969,7 @@
       "lemma": "quickly",
       "pos": "adv",
       "rank": 77,
+      "level": "A2",
       "translations": {
         "ru": "быстро"
       },
@@ -1918,6 +1995,7 @@
       "lemma": "forward",
       "pos": "adv",
       "rank": 78,
+      "level": "A2",
       "translations": {
         "ru": "вперёд"
       },
@@ -1943,6 +2021,7 @@
       "lemma": "often",
       "pos": "adv",
       "rank": 79,
+      "level": "A2",
       "translations": {
         "ru": "часто"
       },
@@ -1967,6 +2046,7 @@
       "lemma": "especially",
       "pos": "adv",
       "rank": 80,
+      "level": "A2",
       "translations": {
         "ru": "особенно"
       },
@@ -1992,6 +2072,7 @@
       "lemma": "obviously",
       "pos": "adv",
       "rank": 81,
+      "level": "A2",
       "translations": {
         "ru": "очевидно"
       },
@@ -2017,6 +2098,7 @@
       "lemma": "besides",
       "pos": "adv",
       "rank": 82,
+      "level": "A2",
       "translations": {
         "ru": "кроме того"
       },
@@ -2042,6 +2124,7 @@
       "lemma": "immediately",
       "pos": "adv",
       "rank": 83,
+      "level": "A2",
       "translations": {
         "ru": "немедленно"
       },
@@ -2067,6 +2150,7 @@
       "lemma": "suddenly",
       "pos": "adv",
       "rank": 84,
+      "level": "A2",
       "translations": {
         "ru": "вдруг, внезапно"
       },
@@ -2091,6 +2175,7 @@
       "lemma": "usually",
       "pos": "adv",
       "rank": 85,
+      "level": "A2",
       "translations": {
         "ru": "обычно"
       },
@@ -2116,6 +2201,7 @@
       "lemma": "worst",
       "pos": "adv",
       "rank": 86,
+      "level": "A2",
       "translations": {
         "ru": "хуже всего"
       },
@@ -2140,6 +2226,7 @@
       "lemma": "everywhere",
       "pos": "adv",
       "rank": 87,
+      "level": "A2",
       "translations": {
         "ru": "везде, повсюду"
       },
@@ -2164,6 +2251,7 @@
       "lemma": "otherwise",
       "pos": "adv",
       "rank": 88,
+      "level": "A2",
       "translations": {
         "ru": "иначе, в противном случае"
       },
@@ -2188,6 +2276,7 @@
       "lemma": "apart",
       "pos": "adv",
       "rank": 89,
+      "level": "A2",
       "translations": {
         "ru": "отдельно; на расстоянии; apart from — кроме"
       },
@@ -2213,6 +2302,7 @@
       "lemma": "upstairs",
       "pos": "adv",
       "rank": 90,
+      "level": "A2",
       "translations": {
         "ru": "наверху, наверх (по лестнице)"
       },
@@ -2238,6 +2328,7 @@
       "lemma": "twice",
       "pos": "adv",
       "rank": 91,
+      "level": "A2",
       "translations": {
         "ru": "дважды"
       },
@@ -2262,6 +2353,7 @@
       "lemma": "indeed",
       "pos": "adv",
       "rank": 92,
+      "level": "A2",
       "translations": {
         "ru": "действительно; в самом деле"
       },
@@ -2286,6 +2378,7 @@
       "lemma": "fast",
       "pos": "adv",
       "rank": 93,
+      "level": "A2",
       "translations": {
         "ru": "быстро"
       },
@@ -2311,6 +2404,7 @@
       "lemma": "above",
       "pos": "adv",
       "rank": 94,
+      "level": "A2",
       "translations": {
         "ru": "выше, над"
       },
@@ -2336,6 +2430,7 @@
       "lemma": "however",
       "pos": "adv",
       "rank": 95,
+      "level": "A2",
       "translations": {
         "ru": "однако"
       },
@@ -2360,6 +2455,7 @@
       "lemma": "apparently",
       "pos": "adv",
       "rank": 96,
+      "level": "A2",
       "translations": {
         "ru": "по-видимому"
       },
@@ -2385,6 +2481,7 @@
       "lemma": "simply",
       "pos": "adv",
       "rank": 97,
+      "level": "A2",
       "translations": {
         "ru": "просто"
       },
@@ -2410,6 +2507,7 @@
       "lemma": "clearly",
       "pos": "adv",
       "rank": 98,
+      "level": "A2",
       "translations": {
         "ru": "ясно, явно"
       },
@@ -2435,6 +2533,7 @@
       "lemma": "hardly",
       "pos": "adv",
       "rank": 99,
+      "level": "A2",
       "translations": {
         "ru": "едва, почти не"
       },
@@ -2460,6 +2559,7 @@
       "lemma": "possibly",
       "pos": "adv",
       "rank": 100,
+      "level": "A2",
       "translations": {
         "ru": "возможно"
       },
@@ -2480,10 +2580,31 @@
       }
     },
     {
+      "id": "somehow",
+      "lemma": "somehow",
+      "pos": "adv",
+      "rank": 101,
+      "level": "A2",
+      "translations": {
+        "ru": "как-нибудь; каким-то образом"
+      },
+      "examples": [
+        {
+          "en": "Somehow we missed the bus.",
+          "ru": "Каким-то образом мы упустили автобус.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
       "id": "nearly",
       "lemma": "nearly",
       "pos": "adv",
       "rank": 102,
+      "level": "A2",
       "translations": {
         "ru": "почти, чуть не"
       },
@@ -2507,10 +2628,131 @@
       }
     },
     {
+      "id": "hard-adv",
+      "lemma": "hard",
+      "pos": "adv",
+      "rank": 103,
+      "level": "A2",
+      "translations": {
+        "ru": "усердно; сильно"
+      },
+      "examples": [
+        {
+          "en": "We worked hard all week.",
+          "ru": "Мы всю неделю усердно работали.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "truly",
+      "lemma": "truly",
+      "pos": "adv",
+      "rank": 104,
+      "level": "A2",
+      "translations": {
+        "ru": "поистине"
+      },
+      "examples": [
+        {
+          "en": "The view was truly amazing.",
+          "ru": "Вид был по-настоящему потрясающим.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "honestly",
+      "lemma": "honestly",
+      "pos": "adv",
+      "rank": 105,
+      "level": "A2",
+      "translations": {
+        "ru": "честно говоря"
+      },
+      "examples": [
+        {
+          "en": "Honestly, I prefer the first hotel.",
+          "ru": "Честно говоря, мне больше нравится первый отель.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "perfectly",
+      "lemma": "perfectly",
+      "pos": "adv",
+      "rank": 106,
+      "level": "A2",
+      "translations": {
+        "ru": "идеально"
+      },
+      "examples": [
+        {
+          "en": "Everything worked perfectly.",
+          "ru": "Всё сработало идеально.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "nowhere",
+      "lemma": "nowhere",
+      "pos": "adv",
+      "rank": 107,
+      "level": "A2",
+      "translations": {
+        "ru": "нигде, никуда"
+      },
+      "examples": [
+        {
+          "en": "There is nowhere to sit.",
+          "ru": "Сесть негде.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "deeply",
+      "lemma": "deeply",
+      "pos": "adv",
+      "rank": 108,
+      "level": "A2",
+      "translations": {
+        "ru": "глубоко"
+      },
+      "examples": [
+        {
+          "en": "I'm deeply sorry for the delay.",
+          "ru": "Мне очень жаль из-за задержки.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
       "id": "unfortunately",
       "lemma": "unfortunately",
       "pos": "adv",
       "rank": 109,
+      "level": "A2",
       "translations": {
         "ru": "к сожалению"
       },
@@ -2531,10 +2773,51 @@
       }
     },
     {
+      "id": "surely",
+      "lemma": "surely",
+      "pos": "adv",
+      "rank": 110,
+      "level": "A2",
+      "translations": {
+        "ru": "несомненно, наверняка"
+      },
+      "examples": [
+        {
+          "en": "Surely there's a train at nine?",
+          "ru": "Наверняка есть поезд в девять?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "lately",
+      "lemma": "lately",
+      "pos": "adv",
+      "rank": 111,
+      "level": "B1",
+      "translations": {
+        "ru": "в последнее время"
+      },
+      "examples": [
+        {
+          "en": "I've been tired lately.",
+          "ru": "Я в последнее время устаю.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
       "id": "recently",
       "lemma": "recently",
       "pos": "adv",
       "rank": 112,
+      "level": "B1",
       "translations": {
         "ru": "недавно, в последнее время"
       },
@@ -2555,10 +2838,1131 @@
       }
     },
     {
+      "id": "slowly",
+      "lemma": "slowly",
+      "pos": "adv",
+      "rank": 113,
+      "level": "B1",
+      "translations": {
+        "ru": "медленно"
+      },
+      "examples": [
+        {
+          "en": "Could you speak more slowly?",
+          "ru": "Не могли бы вы говорить медленнее?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "easily",
+      "lemma": "easily",
+      "pos": "adv",
+      "rank": 114,
+      "level": "B1",
+      "translations": {
+        "ru": "легко"
+      },
+      "examples": [
+        {
+          "en": "You can easily walk there.",
+          "ru": "Туда легко дойти пешком.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "basically",
+      "lemma": "basically",
+      "pos": "adv",
+      "rank": 115,
+      "level": "B1",
+      "translations": {
+        "ru": "в основном, по сути"
+      },
+      "examples": [
+        {
+          "en": "Basically, we need one more day.",
+          "ru": "По сути, нам нужен ещё один день.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "personally",
+      "lemma": "personally",
+      "pos": "adv",
+      "rank": 116,
+      "level": "B1",
+      "translations": {
+        "ru": "лично"
+      },
+      "examples": [
+        {
+          "en": "Personally, I like the old town.",
+          "ru": "Лично мне нравится старый город.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "barely",
+      "lemma": "barely",
+      "pos": "adv",
+      "rank": 117,
+      "level": "B1",
+      "translations": {
+        "ru": "едва, еле"
+      },
+      "examples": [
+        {
+          "en": "I barely slept on the plane.",
+          "ru": "Я едва поспал в самолёте.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "lower",
+      "lemma": "lower",
+      "pos": "adv",
+      "rank": 118,
+      "level": "B1",
+      "translations": {
+        "ru": "ниже"
+      },
+      "examples": [
+        {
+          "en": "Is there a lower price?",
+          "ru": "Есть ли цена пониже?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "downstairs",
+      "lemma": "downstairs",
+      "pos": "adv",
+      "rank": 119,
+      "level": "B1",
+      "translations": {
+        "ru": "внизу, вниз"
+      },
+      "examples": [
+        {
+          "en": "Breakfast is served downstairs.",
+          "ru": "Завтрак подают внизу.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "higher",
+      "lemma": "higher",
+      "pos": "adv",
+      "rank": 120,
+      "level": "B1",
+      "translations": {
+        "ru": "выше"
+      },
+      "examples": [
+        {
+          "en": "The price is higher in summer.",
+          "ru": "Летом цена выше.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "eventually",
+      "lemma": "eventually",
+      "pos": "adv",
+      "rank": 121,
+      "level": "B1",
+      "translations": {
+        "ru": "в конце концов"
+      },
+      "examples": [
+        {
+          "en": "Eventually we found the hotel.",
+          "ru": "В конце концов мы нашли отель.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "carefully",
+      "lemma": "carefully",
+      "pos": "adv",
+      "rank": 122,
+      "level": "B1",
+      "translations": {
+        "ru": "осторожно, тщательно"
+      },
+      "examples": [
+        {
+          "en": "Read the instructions carefully.",
+          "ru": "Внимательно прочитайте инструкцию.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "badly",
+      "lemma": "badly",
+      "pos": "adv",
+      "rank": 123,
+      "level": "B1",
+      "translations": {
+        "ru": "плохо"
+      },
+      "examples": [
+        {
+          "en": "The bus badly needs repair.",
+          "ru": "Автобус сильно нуждается в ремонте.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "aside",
+      "lemma": "aside",
+      "pos": "adv",
+      "rank": 124,
+      "level": "B1",
+      "translations": {
+        "ru": "в сторону"
+      },
+      "examples": [
+        {
+          "en": "Let's put the phones aside.",
+          "ru": "Давай отложим телефоны.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "extremely",
+      "lemma": "extremely",
+      "pos": "adv",
+      "rank": 125,
+      "level": "B1",
+      "translations": {
+        "ru": "чрезвычайно"
+      },
+      "examples": [
+        {
+          "en": "It was extremely hot.",
+          "ru": "Было чрезвычайно жарко.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "literally",
+      "lemma": "literally",
+      "pos": "adv",
+      "rank": 126,
+      "level": "B1",
+      "translations": {
+        "ru": "буквально"
+      },
+      "examples": [
+        {
+          "en": "It was literally the best meal ever.",
+          "ru": "Это был буквально лучший обед в жизни.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "properly",
+      "lemma": "properly",
+      "pos": "adv",
+      "rank": 127,
+      "level": "B1",
+      "translations": {
+        "ru": "как следует"
+      },
+      "examples": [
+        {
+          "en": "The app isn't working properly.",
+          "ru": "Приложение работает неправильно.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "mostly",
+      "lemma": "mostly",
+      "pos": "adv",
+      "rank": 128,
+      "level": "B1",
+      "translations": {
+        "ru": "в основном"
+      },
+      "examples": [
+        {
+          "en": "We mostly eat out.",
+          "ru": "Мы в основном едим вне дома.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "directly",
+      "lemma": "directly",
+      "pos": "adv",
+      "rank": 129,
+      "level": "B1",
+      "translations": {
+        "ru": "прямо, напрямую"
+      },
+      "examples": [
+        {
+          "en": "The bus goes directly to the airport.",
+          "ru": "Автобус идёт напрямую в аэропорт.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "someday",
+      "lemma": "someday",
+      "pos": "adv",
+      "rank": 130,
+      "level": "B1",
+      "translations": {
+        "ru": "когда-нибудь"
+      },
+      "examples": [
+        {
+          "en": "Someday I'll visit Japan.",
+          "ru": "Когда-нибудь я побываю в Японии.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "therefore",
+      "lemma": "therefore",
+      "pos": "adv",
+      "rank": 131,
+      "level": "B1",
+      "translations": {
+        "ru": "поэтому"
+      },
+      "examples": [
+        {
+          "en": "It rained; therefore, we stayed in.",
+          "ru": "Шёл дождь, поэтому мы остались дома.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "wide",
+      "lemma": "wide",
+      "pos": "adv",
+      "rank": 132,
+      "level": "B1",
+      "translations": {
+        "ru": "широко"
+      },
+      "examples": [
+        {
+          "en": "Open your mouth wide.",
+          "ru": "Откройте рот шире.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "sometime",
+      "lemma": "sometime",
+      "pos": "adv",
+      "rank": 133,
+      "level": "B1",
+      "translations": {
+        "ru": "когда-нибудь, как-нибудь"
+      },
+      "examples": [
+        {
+          "en": "Let's meet sometime next week.",
+          "ru": "Давай встретимся как-нибудь на следующей неделе.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fully",
+      "lemma": "fully",
+      "pos": "adv",
+      "rank": 134,
+      "level": "B1",
+      "translations": {
+        "ru": "полностью"
+      },
+      "examples": [
+        {
+          "en": "The hotel is fully booked.",
+          "ru": "Отель полностью забронирован.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "previously",
+      "lemma": "previously",
+      "pos": "adv",
+      "rank": 135,
+      "level": "B1",
+      "translations": {
+        "ru": "ранее"
+      },
+      "examples": [
+        {
+          "en": "The room was previously a library.",
+          "ru": "Раньше в этой комнате была библиотека.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "normally",
+      "lemma": "normally",
+      "pos": "adv",
+      "rank": 136,
+      "level": "B1",
+      "translations": {
+        "ru": "обычно"
+      },
+      "examples": [
+        {
+          "en": "Normally we have breakfast at eight.",
+          "ru": "Обычно мы завтракаем в восемь.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "highly",
+      "lemma": "highly",
+      "pos": "adv",
+      "rank": 137,
+      "level": "B1",
+      "translations": {
+        "ru": "высоко; весьма"
+      },
+      "examples": [
+        {
+          "en": "The restaurant is highly recommended.",
+          "ru": "Ресторан настоятельно рекомендуют.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "entirely",
+      "lemma": "entirely",
+      "pos": "adv",
+      "rank": 138,
+      "level": "B1",
+      "translations": {
+        "ru": "полностью, целиком"
+      },
+      "examples": [
+        {
+          "en": "I entirely agree.",
+          "ru": "Я полностью согласен.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "naturally",
+      "lemma": "naturally",
+      "pos": "adv",
+      "rank": 139,
+      "level": "B1",
+      "translations": {
+        "ru": "естественно, конечно"
+      },
+      "examples": [
+        {
+          "en": "Naturally, we said yes.",
+          "ru": "Конечно, мы согласились.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "online",
+      "lemma": "online",
+      "pos": "adv",
+      "rank": 140,
+      "level": "B1",
+      "translations": {
+        "ru": "онлайн"
+      },
+      "examples": [
+        {
+          "en": "I booked the tickets online.",
+          "ru": "Я купил билеты онлайн.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "heavily",
+      "lemma": "heavily",
+      "pos": "adv",
+      "rank": 141,
+      "level": "B1",
+      "translations": {
+        "ru": "сильно, тяжело"
+      },
+      "examples": [
+        {
+          "en": "It rained heavily all night.",
+          "ru": "Всю ночь шёл сильный дождь.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "quietly",
+      "lemma": "quietly",
+      "pos": "adv",
+      "rank": 142,
+      "level": "B1",
+      "translations": {
+        "ru": "тихо"
+      },
+      "examples": [
+        {
+          "en": "The kids are playing quietly.",
+          "ru": "Дети тихо играют.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "daily",
+      "lemma": "daily",
+      "pos": "adv",
+      "rank": 143,
+      "level": "B1",
+      "translations": {
+        "ru": "ежедневно"
+      },
+      "examples": [
+        {
+          "en": "The museum is open daily.",
+          "ru": "Музей открыт ежедневно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hopefully",
+      "lemma": "hopefully",
+      "pos": "adv",
+      "rank": 144,
+      "level": "B1",
+      "translations": {
+        "ru": "надеюсь; хочется надеяться"
+      },
+      "examples": [
+        {
+          "en": "Hopefully the weather will be nice.",
+          "ru": "Надеюсь, погода будет хорошей.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "particularly",
+      "lemma": "particularly",
+      "pos": "adv",
+      "rank": 145,
+      "level": "B1",
+      "translations": {
+        "ru": "особенно"
+      },
+      "examples": [
+        {
+          "en": "I particularly liked the old town.",
+          "ru": "Мне особенно понравился старый город.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "terribly",
+      "lemma": "terribly",
+      "pos": "adv",
+      "rank": 146,
+      "level": "B1",
+      "translations": {
+        "ru": "ужасно; очень"
+      },
+      "examples": [
+        {
+          "en": "I'm terribly sorry!",
+          "ru": "Мне ужасно жаль!",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "anytime",
+      "lemma": "anytime",
+      "pos": "adv",
+      "rank": 147,
+      "level": "B1",
+      "translations": {
+        "ru": "в любое время"
+      },
+      "examples": [
+        {
+          "en": "Call me anytime.",
+          "ru": "Звони мне в любое время.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "afterwards",
+      "lemma": "afterwards",
+      "pos": "adv",
+      "rank": 148,
+      "level": "B1",
+      "translations": {
+        "ru": "потом, после"
+      },
+      "examples": [
+        {
+          "en": "We had dinner and walked afterwards.",
+          "ru": "Мы поужинали, а потом погуляли.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "throughout",
+      "lemma": "throughout",
+      "pos": "adv",
+      "rank": 149,
+      "level": "B1",
+      "translations": {
+        "ru": "на протяжении"
+      },
+      "examples": [
+        {
+          "en": "It was sunny throughout the trip.",
+          "ru": "Всю поездку было солнечно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "practically",
+      "lemma": "practically",
+      "pos": "adv",
+      "rank": 150,
+      "level": "B1",
+      "translations": {
+        "ru": "практически"
+      },
+      "examples": [
+        {
+          "en": "It's practically free.",
+          "ru": "Это практически бесплатно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "frankly",
+      "lemma": "frankly",
+      "pos": "adv",
+      "rank": 152,
+      "level": "B1",
+      "translations": {
+        "ru": "откровенно говоря"
+      },
+      "examples": [
+        {
+          "en": "Frankly, I didn't like the film.",
+          "ru": "Откровенно говоря, фильм мне не понравился.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "incredibly",
+      "lemma": "incredibly",
+      "pos": "adv",
+      "rank": 153,
+      "level": "B1",
+      "translations": {
+        "ru": "невероятно"
+      },
+      "examples": [
+        {
+          "en": "The food was incredibly good.",
+          "ru": "Еда была невероятно вкусной.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "officially",
+      "lemma": "officially",
+      "pos": "adv",
+      "rank": 155,
+      "level": "B1",
+      "translations": {
+        "ru": "официально"
+      },
+      "examples": [
+        {
+          "en": "The museum is officially closed.",
+          "ru": "Музей официально закрыт.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "nearby",
+      "lemma": "nearby",
+      "pos": "adv",
+      "rank": 157,
+      "level": "B1",
+      "translations": {
+        "ru": "поблизости"
+      },
+      "examples": [
+        {
+          "en": "Is there a pharmacy nearby?",
+          "ru": "Поблизости есть аптека?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "thus",
+      "lemma": "thus",
+      "pos": "adv",
+      "rank": 158,
+      "level": "B1",
+      "translations": {
+        "ru": "таким образом"
+      },
+      "examples": [
+        {
+          "en": "The tickets sold out; thus, we took the bus.",
+          "ru": "Билеты раскупили, так что мы поехали на автобусе.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "meantime",
+      "lemma": "meantime",
+      "pos": "adv",
+      "rank": 159,
+      "level": "B1",
+      "translations": {
+        "ru": "тем временем (in the meantime)"
+      },
+      "examples": [
+        {
+          "en": "In the meantime, have some coffee.",
+          "ru": "А пока выпейте кофе.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "slightly",
+      "lemma": "slightly",
+      "pos": "adv",
+      "rank": 160,
+      "level": "B2",
+      "translations": {
+        "ru": "слегка"
+      },
+      "examples": [
+        {
+          "en": "The train is slightly late.",
+          "ru": "Поезд немного опаздывает.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "precisely",
+      "lemma": "precisely",
+      "pos": "adv",
+      "rank": 161,
+      "level": "B2",
+      "translations": {
+        "ru": "точно"
+      },
+      "examples": [
+        {
+          "en": "The train leaves at precisely nine.",
+          "ru": "Поезд отправляется ровно в девять.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "merely",
+      "lemma": "merely",
+      "pos": "adv",
+      "rank": 162,
+      "level": "B2",
+      "translations": {
+        "ru": "всего лишь"
+      },
+      "examples": [
+        {
+          "en": "It was merely a mistake.",
+          "ru": "Это была всего лишь ошибка.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "technically",
+      "lemma": "technically",
+      "pos": "adv",
+      "rank": 163,
+      "level": "B2",
+      "translations": {
+        "ru": "технически"
+      },
+      "examples": [
+        {
+          "en": "Technically, the room is ready.",
+          "ru": "Формально номер готов.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "meanwhile",
+      "lemma": "meanwhile",
+      "pos": "adv",
+      "rank": 164,
+      "level": "B2",
+      "translations": {
+        "ru": "между тем"
+      },
+      "examples": [
+        {
+          "en": "Meanwhile, the others were waiting outside.",
+          "ru": "Тем временем остальные ждали на улице.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "softly",
+      "lemma": "softly",
+      "pos": "adv",
+      "rank": 165,
+      "level": "B2",
+      "translations": {
+        "ru": "тихо, мягко"
+      },
+      "examples": [
+        {
+          "en": "She spoke softly.",
+          "ru": "Она говорила тихо.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "safely",
+      "lemma": "safely",
+      "pos": "adv",
+      "rank": 166,
+      "level": "B2",
+      "translations": {
+        "ru": "безопасно"
+      },
+      "examples": [
+        {
+          "en": "We arrived safely.",
+          "ru": "Мы добрались благополучно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "constantly",
+      "lemma": "constantly",
+      "pos": "adv",
+      "rank": 167,
+      "level": "B2",
+      "translations": {
+        "ru": "постоянно"
+      },
+      "examples": [
+        {
+          "en": "The app constantly crashes.",
+          "ru": "Приложение постоянно падает.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "nicely",
+      "lemma": "nicely",
+      "pos": "adv",
+      "rank": 168,
+      "level": "B2",
+      "translations": {
+        "ru": "хорошо, приятно"
+      },
+      "examples": [
+        {
+          "en": "The room is nicely decorated.",
+          "ru": "Номер приятно оформлен.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "happily",
+      "lemma": "happily",
+      "pos": "adv",
+      "rank": 169,
+      "level": "B2",
+      "translations": {
+        "ru": "счастливо; охотно"
+      },
+      "examples": [
+        {
+          "en": "I'll happily help you.",
+          "ru": "Я с удовольствием помогу.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "awfully",
+      "lemma": "awfully",
+      "pos": "adv",
+      "rank": 170,
+      "level": "B2",
+      "translations": {
+        "ru": "ужасно; очень"
+      },
+      "examples": [
+        {
+          "en": "I'm awfully sorry to be late.",
+          "ru": "Мне ужасно жаль, что я опоздал.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "differently",
+      "lemma": "differently",
+      "pos": "adv",
+      "rank": 171,
+      "level": "B2",
+      "translations": {
+        "ru": "по-другому"
+      },
+      "examples": [
+        {
+          "en": "Everyone does it differently.",
+          "ru": "Каждый делает это по-своему.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
       "id": "currently",
       "lemma": "currently",
       "pos": "adv",
       "rank": 172,
+      "level": "B2",
       "translations": {
         "ru": "в настоящее время, сейчас"
       },
@@ -2579,10 +3983,71 @@
       }
     },
     {
+      "id": "shortly",
+      "lemma": "shortly",
+      "pos": "adv",
+      "rank": 173,
+      "level": "B2",
+      "translations": {
+        "ru": "вскоре"
+      },
+      "examples": [
+        {
+          "en": "The train will arrive shortly.",
+          "ru": "Поезд прибудет в ближайшее время.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "halfway",
+      "lemma": "halfway",
+      "pos": "adv",
+      "rank": 174,
+      "level": "B2",
+      "translations": {
+        "ru": "на полпути"
+      },
+      "examples": [
+        {
+          "en": "We stopped halfway for lunch.",
+          "ru": "На полпути мы остановились пообедать.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "necessarily",
+      "lemma": "necessarily",
+      "pos": "adv",
+      "rank": 175,
+      "level": "B2",
+      "translations": {
+        "ru": "обязательно"
+      },
+      "examples": [
+        {
+          "en": "It doesn't necessarily mean it's cheap.",
+          "ru": "Это необязательно означает, что дёшево.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
       "id": "abroad",
       "lemma": "abroad",
       "pos": "adv",
       "rank": 176,
+      "level": "B2",
       "translations": {
         "ru": "за границей, за границу"
       },
@@ -2603,6 +4068,4228 @@
       },
       "ext": {
         "draft": true
+      }
+    },
+    {
+      "id": "nowadays",
+      "lemma": "nowadays",
+      "pos": "adv",
+      "rank": 177,
+      "level": "B2",
+      "translations": {
+        "ru": "в наши дни"
+      },
+      "examples": [
+        {
+          "en": "Nowadays everyone uses a smartphone.",
+          "ru": "В наши дни у всех есть смартфон.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "gently",
+      "lemma": "gently",
+      "pos": "adv",
+      "rank": 178,
+      "level": "B2",
+      "translations": {
+        "ru": "нежно, осторожно"
+      },
+      "examples": [
+        {
+          "en": "Handle the box gently.",
+          "ru": "Обращайтесь с коробкой осторожно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "backwards",
+      "lemma": "backwards",
+      "pos": "adv",
+      "rank": 179,
+      "level": "B2",
+      "translations": {
+        "ru": "назад, задом наперёд"
+      },
+      "examples": [
+        {
+          "en": "Don't walk backwards.",
+          "ru": "Не иди задом наперёд.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "closely",
+      "lemma": "closely",
+      "pos": "adv",
+      "rank": 180,
+      "level": "B2",
+      "translations": {
+        "ru": "внимательно; близко"
+      },
+      "examples": [
+        {
+          "en": "Watch closely, please.",
+          "ru": "Смотрите внимательно, пожалуйста.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fairly",
+      "lemma": "fairly",
+      "pos": "adv",
+      "rank": 181,
+      "level": "B2",
+      "translations": {
+        "ru": "довольно, справедливо"
+      },
+      "examples": [
+        {
+          "en": "The room is fairly big.",
+          "ru": "Номер довольно большой.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "specifically",
+      "lemma": "specifically",
+      "pos": "adv",
+      "rank": 182,
+      "level": "B2",
+      "translations": {
+        "ru": "конкретно"
+      },
+      "examples": [
+        {
+          "en": "I asked specifically for a quiet room.",
+          "ru": "Я специально просил тихий номер.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "alike",
+      "lemma": "alike",
+      "pos": "adv",
+      "rank": 183,
+      "level": "B2",
+      "translations": {
+        "ru": "одинаково"
+      },
+      "examples": [
+        {
+          "en": "The two hotels look alike.",
+          "ru": "Два отеля выглядят одинаково.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "physically",
+      "lemma": "physically",
+      "pos": "adv",
+      "rank": 184,
+      "level": "B2",
+      "translations": {
+        "ru": "физически"
+      },
+      "examples": [
+        {
+          "en": "I was physically tired.",
+          "ru": "Я физически устал.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "overnight",
+      "lemma": "overnight",
+      "pos": "adv",
+      "rank": 185,
+      "level": "B2",
+      "translations": {
+        "ru": "на ночь, ночью"
+      },
+      "examples": [
+        {
+          "en": "We stayed overnight in Seville.",
+          "ru": "Мы остались на ночь в Севилье.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "louder",
+      "lemma": "louder",
+      "pos": "adv",
+      "rank": 186,
+      "level": "B2",
+      "translations": {
+        "ru": "громче"
+      },
+      "examples": [
+        {
+          "en": "Please speak louder.",
+          "ru": "Говорите, пожалуйста, громче.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "elsewhere",
+      "lemma": "elsewhere",
+      "pos": "adv",
+      "rank": 187,
+      "level": "B2",
+      "translations": {
+        "ru": "в другом месте"
+      },
+      "examples": [
+        {
+          "en": "Let's go elsewhere for dinner.",
+          "ru": "Давай поужинаем в другом месте.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "luckily",
+      "lemma": "luckily",
+      "pos": "adv",
+      "rank": 189,
+      "level": "B2",
+      "translations": {
+        "ru": "к счастью"
+      },
+      "examples": [
+        {
+          "en": "Luckily, we found a taxi.",
+          "ru": "К счастью, мы нашли такси.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "kindly",
+      "lemma": "kindly",
+      "pos": "adv",
+      "rank": 191,
+      "level": "B2",
+      "translations": {
+        "ru": "любезно"
+      },
+      "examples": [
+        {
+          "en": "Kindly wait here.",
+          "ru": "Любезно подождите здесь.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "accidentally",
+      "lemma": "accidentally",
+      "pos": "adv",
+      "rank": 193,
+      "level": "B2",
+      "translations": {
+        "ru": "случайно"
+      },
+      "examples": [
+        {
+          "en": "I accidentally deleted the file.",
+          "ru": "Я случайно удалил файл.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "anyways",
+      "lemma": "anyways",
+      "pos": "adv",
+      "rank": 194,
+      "level": "B2",
+      "translations": {
+        "ru": "в любом случае (разг.)"
+      },
+      "examples": [
+        {
+          "en": "Anyways, let's go.",
+          "ru": "Ладно, пойдём.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "somewhat",
+      "lemma": "somewhat",
+      "pos": "adv",
+      "rank": 195,
+      "level": "B2",
+      "translations": {
+        "ru": "несколько, отчасти"
+      },
+      "examples": [
+        {
+          "en": "The hotel was somewhat noisy.",
+          "ru": "В отеле было довольно шумно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "strictly",
+      "lemma": "strictly",
+      "pos": "adv",
+      "rank": 196,
+      "level": "B2",
+      "translations": {
+        "ru": "строго"
+      },
+      "examples": [
+        {
+          "en": "Smoking is strictly forbidden.",
+          "ru": "Курение строго запрещено.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fortunately",
+      "lemma": "fortunately",
+      "pos": "adv",
+      "rank": 198,
+      "level": "B2",
+      "translations": {
+        "ru": "к счастью"
+      },
+      "examples": [
+        {
+          "en": "Fortunately, nobody was hurt.",
+          "ru": "К счастью, никто не пострадал.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "loudly",
+      "lemma": "loudly",
+      "pos": "adv",
+      "rank": 199,
+      "level": "B2",
+      "translations": {
+        "ru": "громко"
+      },
+      "examples": [
+        {
+          "en": "They sang loudly.",
+          "ru": "Они громко пели.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "anyhow",
+      "lemma": "anyhow",
+      "pos": "adv",
+      "rank": 200,
+      "level": "B2",
+      "translations": {
+        "ru": "так или иначе"
+      },
+      "examples": [
+        {
+          "en": "Anyhow, thanks for your help.",
+          "ru": "Так или иначе, спасибо за помощь.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "accordingly",
+      "lemma": "accordingly",
+      "pos": "adv",
+      "rank": 201,
+      "level": "B2",
+      "translations": {
+        "ru": "соответственно"
+      },
+      "examples": [
+        {
+          "en": "Please dress accordingly.",
+          "ru": "Пожалуйста, оденьтесь соответственно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "actively",
+      "lemma": "actively",
+      "pos": "adv",
+      "rank": 202,
+      "level": "B2",
+      "translations": {
+        "ru": "активно"
+      },
+      "examples": [
+        {
+          "en": "She actively looks for a new job.",
+          "ru": "Она активно ищет новую работу.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "admittedly",
+      "lemma": "admittedly",
+      "pos": "adv",
+      "rank": 203,
+      "level": "B2",
+      "translations": {
+        "ru": "надо признать"
+      },
+      "examples": [
+        {
+          "en": "Admittedly, it was my mistake.",
+          "ru": "Надо признать, это была моя ошибка.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "afterward",
+      "lemma": "afterward",
+      "pos": "adv",
+      "rank": 204,
+      "level": "B2",
+      "translations": {
+        "ru": "после, потом"
+      },
+      "examples": [
+        {
+          "en": "Afterward we went for a walk.",
+          "ru": "После этого мы пошли гулять.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "aloud",
+      "lemma": "aloud",
+      "pos": "adv",
+      "rank": 205,
+      "level": "B1",
+      "translations": {
+        "ru": "вслух"
+      },
+      "examples": [
+        {
+          "en": "Read the text aloud.",
+          "ru": "Прочитай текст вслух.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "altogether",
+      "lemma": "altogether",
+      "pos": "adv",
+      "rank": 206,
+      "level": "B2",
+      "translations": {
+        "ru": "в целом; полностью"
+      },
+      "examples": [
+        {
+          "en": "Altogether we spent three hundred euros.",
+          "ru": "Всего мы потратили триста евро.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "annually",
+      "lemma": "annually",
+      "pos": "adv",
+      "rank": 207,
+      "level": "B2",
+      "translations": {
+        "ru": "ежегодно"
+      },
+      "examples": [
+        {
+          "en": "The festival is held annually.",
+          "ru": "Фестиваль проводится ежегодно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "anyplace",
+      "lemma": "anyplace",
+      "pos": "adv",
+      "rank": 208,
+      "level": "B2",
+      "translations": {
+        "ru": "где угодно"
+      },
+      "examples": [
+        {
+          "en": "You can sit anyplace.",
+          "ru": "Можно садиться где угодно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "approximately",
+      "lemma": "approximately",
+      "pos": "adv",
+      "rank": 209,
+      "level": "B2",
+      "translations": {
+        "ru": "приблизительно"
+      },
+      "examples": [
+        {
+          "en": "The trip takes approximately two hours.",
+          "ru": "Поездка занимает примерно два часа.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "automatically",
+      "lemma": "automatically",
+      "pos": "adv",
+      "rank": 210,
+      "level": "B1",
+      "translations": {
+        "ru": "автоматически"
+      },
+      "examples": [
+        {
+          "en": "The app updates automatically.",
+          "ru": "Приложение обновляется автоматически.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "awkwardly",
+      "lemma": "awkwardly",
+      "pos": "adv",
+      "rank": 211,
+      "level": "B2",
+      "translations": {
+        "ru": "неловко"
+      },
+      "examples": [
+        {
+          "en": "He smiled awkwardly.",
+          "ru": "Он неловко улыбнулся.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "bitterly",
+      "lemma": "bitterly",
+      "pos": "adv",
+      "rank": 212,
+      "level": "B2",
+      "translations": {
+        "ru": "горько; сильно"
+      },
+      "examples": [
+        {
+          "en": "It was bitterly cold.",
+          "ru": "Было пронзительно холодно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "boldly",
+      "lemma": "boldly",
+      "pos": "adv",
+      "rank": 213,
+      "level": "B2",
+      "translations": {
+        "ru": "смело"
+      },
+      "examples": [
+        {
+          "en": "She boldly asked for a discount.",
+          "ru": "Она смело попросила скидку.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "brightly",
+      "lemma": "brightly",
+      "pos": "adv",
+      "rank": 214,
+      "level": "B1",
+      "translations": {
+        "ru": "ярко"
+      },
+      "examples": [
+        {
+          "en": "The sun shone brightly.",
+          "ru": "Ярко светило солнце.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "briefly",
+      "lemma": "briefly",
+      "pos": "adv",
+      "rank": 215,
+      "level": "B2",
+      "translations": {
+        "ru": "кратко"
+      },
+      "examples": [
+        {
+          "en": "Briefly, we need more time.",
+          "ru": "Коротко говоря, нам нужно больше времени.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "broadly",
+      "lemma": "broadly",
+      "pos": "adv",
+      "rank": 216,
+      "level": "B2",
+      "translations": {
+        "ru": "широко; в общем"
+      },
+      "examples": [
+        {
+          "en": "Broadly speaking, I agree.",
+          "ru": "В целом я согласен.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "calmly",
+      "lemma": "calmly",
+      "pos": "adv",
+      "rank": 217,
+      "level": "B1",
+      "translations": {
+        "ru": "спокойно"
+      },
+      "examples": [
+        {
+          "en": "He calmly explained the problem.",
+          "ru": "Он спокойно объяснил проблему.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "carelessly",
+      "lemma": "carelessly",
+      "pos": "adv",
+      "rank": 218,
+      "level": "B2",
+      "translations": {
+        "ru": "небрежно"
+      },
+      "examples": [
+        {
+          "en": "He carelessly left the door open.",
+          "ru": "Он по небрежности оставил дверь открытой.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "casually",
+      "lemma": "casually",
+      "pos": "adv",
+      "rank": 219,
+      "level": "B2",
+      "translations": {
+        "ru": "непринуждённо"
+      },
+      "examples": [
+        {
+          "en": "We dressed casually for dinner.",
+          "ru": "На ужин мы оделись просто.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "cheaply",
+      "lemma": "cheaply",
+      "pos": "adv",
+      "rank": 220,
+      "level": "B1",
+      "translations": {
+        "ru": "дёшево"
+      },
+      "examples": [
+        {
+          "en": "We travel cheaply.",
+          "ru": "Мы путешествуем дёшево.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "cheerfully",
+      "lemma": "cheerfully",
+      "pos": "adv",
+      "rank": 221,
+      "level": "B2",
+      "translations": {
+        "ru": "весело"
+      },
+      "examples": [
+        {
+          "en": "They sang cheerfully.",
+          "ru": "Они весело пели.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "cleverly",
+      "lemma": "cleverly",
+      "pos": "adv",
+      "rank": 222,
+      "level": "B2",
+      "translations": {
+        "ru": "умело"
+      },
+      "examples": [
+        {
+          "en": "She cleverly saved the file.",
+          "ru": "Она догадливо сохранила файл.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "commonly",
+      "lemma": "commonly",
+      "pos": "adv",
+      "rank": 223,
+      "level": "B2",
+      "translations": {
+        "ru": "обычно"
+      },
+      "examples": [
+        {
+          "en": "English is commonly spoken here.",
+          "ru": "Здесь обычно говорят по-английски.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "consequently",
+      "lemma": "consequently",
+      "pos": "adv",
+      "rank": 224,
+      "level": "B2",
+      "translations": {
+        "ru": "следовательно"
+      },
+      "examples": [
+        {
+          "en": "Consequently, the flight was cancelled.",
+          "ru": "Следовательно, рейс отменили.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "considerably",
+      "lemma": "considerably",
+      "pos": "adv",
+      "rank": 225,
+      "level": "B2",
+      "translations": {
+        "ru": "значительно"
+      },
+      "examples": [
+        {
+          "en": "Prices rose considerably.",
+          "ru": "Цены значительно выросли.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "continuously",
+      "lemma": "continuously",
+      "pos": "adv",
+      "rank": 226,
+      "level": "B2",
+      "translations": {
+        "ru": "непрерывно"
+      },
+      "examples": [
+        {
+          "en": "It rained continuously for two days.",
+          "ru": "Дождь шёл непрерывно два дня.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "conveniently",
+      "lemma": "conveniently",
+      "pos": "adv",
+      "rank": 227,
+      "level": "B1",
+      "translations": {
+        "ru": "удобно"
+      },
+      "examples": [
+        {
+          "en": "The hotel is conveniently located.",
+          "ru": "Отель удобно расположен.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "correctly",
+      "lemma": "correctly",
+      "pos": "adv",
+      "rank": 228,
+      "level": "B1",
+      "translations": {
+        "ru": "правильно"
+      },
+      "examples": [
+        {
+          "en": "Is the name spelled correctly?",
+          "ru": "Имя написано правильно?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "dangerously",
+      "lemma": "dangerously",
+      "pos": "adv",
+      "rank": 229,
+      "level": "B2",
+      "translations": {
+        "ru": "опасно"
+      },
+      "examples": [
+        {
+          "en": "He drives dangerously fast.",
+          "ru": "Он ездит опасно быстро.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "daringly",
+      "lemma": "daringly",
+      "pos": "adv",
+      "rank": 230,
+      "level": "B2",
+      "translations": {
+        "ru": "дерзко"
+      },
+      "examples": [
+        {
+          "en": "They daringly crossed the river.",
+          "ru": "Они дерзко пересекли реку.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "decidedly",
+      "lemma": "decidedly",
+      "pos": "adv",
+      "rank": 231,
+      "level": "B2",
+      "translations": {
+        "ru": "определённо"
+      },
+      "examples": [
+        {
+          "en": "It was a decidedly good idea.",
+          "ru": "Это определённо была хорошая идея.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "delicately",
+      "lemma": "delicately",
+      "pos": "adv",
+      "rank": 232,
+      "level": "B2",
+      "translations": {
+        "ru": "деликатно"
+      },
+      "examples": [
+        {
+          "en": "Handle the glass delicately.",
+          "ru": "Обращайтесь со стеклом бережно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "deliberately",
+      "lemma": "deliberately",
+      "pos": "adv",
+      "rank": 233,
+      "level": "B2",
+      "translations": {
+        "ru": "намеренно"
+      },
+      "examples": [
+        {
+          "en": "He didn't do it deliberately.",
+          "ru": "Он сделал это не нарочно.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "densely",
+      "lemma": "densely",
+      "pos": "adv",
+      "rank": 234,
+      "level": "B2",
+      "translations": {
+        "ru": "густо"
+      },
+      "examples": [
+        {
+          "en": "The area is densely populated.",
+          "ru": "Район густо заселён.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "desperately",
+      "lemma": "desperately",
+      "pos": "adv",
+      "rank": 235,
+      "level": "B2",
+      "translations": {
+        "ru": "отчаянно"
+      },
+      "examples": [
+        {
+          "en": "We desperately needed a taxi.",
+          "ru": "Нам отчаянно нужно было такси.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "doubtless",
+      "lemma": "doubtless",
+      "pos": "adv",
+      "rank": 236,
+      "level": "B2",
+      "translations": {
+        "ru": "несомненно"
+      },
+      "examples": [
+        {
+          "en": "Doubtless, you will like it.",
+          "ru": "Несомненно, тебе понравится.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "downward",
+      "lemma": "downward",
+      "pos": "adv",
+      "rank": 237,
+      "level": "B2",
+      "translations": {
+        "ru": "вниз"
+      },
+      "examples": [
+        {
+          "en": "The path leads downward to the sea.",
+          "ru": "Тропа ведёт вниз к морю.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "dramatically",
+      "lemma": "dramatically",
+      "pos": "adv",
+      "rank": 238,
+      "level": "B2",
+      "translations": {
+        "ru": "резко, драматично"
+      },
+      "examples": [
+        {
+          "en": "The weather changed dramatically.",
+          "ru": "Погода резко изменилась.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "eagerly",
+      "lemma": "eagerly",
+      "pos": "adv",
+      "rank": 239,
+      "level": "B2",
+      "translations": {
+        "ru": "с нетерпением"
+      },
+      "examples": [
+        {
+          "en": "The kids eagerly waited for the show.",
+          "ru": "Дети с нетерпением ждали представления.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "earnestly",
+      "lemma": "earnestly",
+      "pos": "adv",
+      "rank": 240,
+      "level": "B2",
+      "translations": {
+        "ru": "серьёзно, искренне"
+      },
+      "examples": [
+        {
+          "en": "She earnestly asked for help.",
+          "ru": "Она искренне попросила о помощи.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "effectively",
+      "lemma": "effectively",
+      "pos": "adv",
+      "rank": 241,
+      "level": "B2",
+      "translations": {
+        "ru": "эффективно"
+      },
+      "examples": [
+        {
+          "en": "The team works effectively.",
+          "ru": "Команда работает эффективно.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "efficiently",
+      "lemma": "efficiently",
+      "pos": "adv",
+      "rank": 242,
+      "level": "B2",
+      "translations": {
+        "ru": "эффективно, чётко"
+      },
+      "examples": [
+        {
+          "en": "The staff worked efficiently.",
+          "ru": "Персонал работал чётко.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "elegantly",
+      "lemma": "elegantly",
+      "pos": "adv",
+      "rank": 243,
+      "level": "B2",
+      "translations": {
+        "ru": "элегантно"
+      },
+      "examples": [
+        {
+          "en": "She was elegantly dressed.",
+          "ru": "Она была элегантно одета.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "endlessly",
+      "lemma": "endlessly",
+      "pos": "adv",
+      "rank": 244,
+      "level": "B2",
+      "translations": {
+        "ru": "бесконечно"
+      },
+      "examples": [
+        {
+          "en": "The road went on endlessly.",
+          "ru": "Дорога тянулась бесконечно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "equally",
+      "lemma": "equally",
+      "pos": "adv",
+      "rank": 245,
+      "level": "B1",
+      "translations": {
+        "ru": "одинаково, поровну"
+      },
+      "examples": [
+        {
+          "en": "Let's share the cost equally.",
+          "ru": "Давайте разделим расходы поровну.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "essentially",
+      "lemma": "essentially",
+      "pos": "adv",
+      "rank": 246,
+      "level": "B2",
+      "translations": {
+        "ru": "по существу"
+      },
+      "examples": [
+        {
+          "en": "Essentially, we need a new plan.",
+          "ru": "По сути, нам нужен новый план.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "evenly",
+      "lemma": "evenly",
+      "pos": "adv",
+      "rank": 247,
+      "level": "B2",
+      "translations": {
+        "ru": "ровно, поровну"
+      },
+      "examples": [
+        {
+          "en": "Spread the butter evenly.",
+          "ru": "Намажьте масло ровным слоем.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "excitedly",
+      "lemma": "excitedly",
+      "pos": "adv",
+      "rank": 248,
+      "level": "B2",
+      "translations": {
+        "ru": "взволнованно"
+      },
+      "examples": [
+        {
+          "en": "The kids talked excitedly.",
+          "ru": "Дети взволнованно говорили.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "exclusively",
+      "lemma": "exclusively",
+      "pos": "adv",
+      "rank": 249,
+      "level": "B2",
+      "translations": {
+        "ru": "исключительно"
+      },
+      "examples": [
+        {
+          "en": "The pool is exclusively for guests.",
+          "ru": "Бассейн только для гостей.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "extra-adv",
+      "lemma": "extra",
+      "pos": "adv",
+      "rank": 250,
+      "level": "B1",
+      "translations": {
+        "ru": "дополнительно"
+      },
+      "examples": [
+        {
+          "en": "Pay extra for breakfast.",
+          "ru": "За завтрак нужно доплатить.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "faithfully",
+      "lemma": "faithfully",
+      "pos": "adv",
+      "rank": 251,
+      "level": "B2",
+      "translations": {
+        "ru": "верно"
+      },
+      "examples": [
+        {
+          "en": "He faithfully visited his aunt every Sunday.",
+          "ru": "Он преданно навещал тётю каждое воскресенье.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "fantastically",
+      "lemma": "fantastically",
+      "pos": "adv",
+      "rank": 252,
+      "level": "B2",
+      "translations": {
+        "ru": "фантастически"
+      },
+      "examples": [
+        {
+          "en": "The team played fantastically.",
+          "ru": "Команда играла фантастически.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "fiercely",
+      "lemma": "fiercely",
+      "pos": "adv",
+      "rank": 253,
+      "level": "B2",
+      "translations": {
+        "ru": "яростно"
+      },
+      "examples": [
+        {
+          "en": "The wind blew fiercely.",
+          "ru": "Ветер яростно дул.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "firmly",
+      "lemma": "firmly",
+      "pos": "adv",
+      "rank": 254,
+      "level": "B2",
+      "translations": {
+        "ru": "твёрдо"
+      },
+      "examples": [
+        {
+          "en": "She firmly said no.",
+          "ru": "Она твёрдо сказала нет.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "firstly",
+      "lemma": "firstly",
+      "pos": "adv",
+      "rank": 255,
+      "level": "B1",
+      "translations": {
+        "ru": "во-первых"
+      },
+      "examples": [
+        {
+          "en": "Firstly, we need a reservation.",
+          "ru": "Во-первых, нам нужна бронь.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "fluently",
+      "lemma": "fluently",
+      "pos": "adv",
+      "rank": 256,
+      "level": "B1",
+      "translations": {
+        "ru": "свободно (о языке)"
+      },
+      "examples": [
+        {
+          "en": "She speaks Spanish fluently.",
+          "ru": "Она свободно говорит по-испански.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "foolishly",
+      "lemma": "foolishly",
+      "pos": "adv",
+      "rank": 257,
+      "level": "B2",
+      "translations": {
+        "ru": "глупо"
+      },
+      "examples": [
+        {
+          "en": "He foolishly left his bag on the bus.",
+          "ru": "Он по глупости оставил сумку в автобусе.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "formally",
+      "lemma": "formally",
+      "pos": "adv",
+      "rank": 258,
+      "level": "B2",
+      "translations": {
+        "ru": "формально"
+      },
+      "examples": [
+        {
+          "en": "We were formally invited.",
+          "ru": "Нас приглашали официально.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "freely",
+      "lemma": "freely",
+      "pos": "adv",
+      "rank": 259,
+      "level": "B2",
+      "translations": {
+        "ru": "свободно"
+      },
+      "examples": [
+        {
+          "en": "You can move freely in the museum.",
+          "ru": "В музее можно свободно передвигаться.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "frequently",
+      "lemma": "frequently",
+      "pos": "adv",
+      "rank": 260,
+      "level": "B1",
+      "translations": {
+        "ru": "часто"
+      },
+      "examples": [
+        {
+          "en": "Trains run frequently.",
+          "ru": "Поезда ходят часто.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "freshly",
+      "lemma": "freshly",
+      "pos": "adv",
+      "rank": 262,
+      "level": "B2",
+      "translations": {
+        "ru": "только что, свеже"
+      },
+      "examples": [
+        {
+          "en": "The coffee is freshly made.",
+          "ru": "Кофе только что сварен.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "furthermore",
+      "lemma": "furthermore",
+      "pos": "adv",
+      "rank": 263,
+      "level": "B2",
+      "translations": {
+        "ru": "кроме того"
+      },
+      "examples": [
+        {
+          "en": "Furthermore, the hotel is cheap.",
+          "ru": "Кроме того, отель недорогой.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "generally",
+      "lemma": "generally",
+      "pos": "adv",
+      "rank": 264,
+      "level": "B1",
+      "translations": {
+        "ru": "обычно, в целом"
+      },
+      "examples": [
+        {
+          "en": "Generally, it's quiet here.",
+          "ru": "Обычно здесь тихо.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "gladly",
+      "lemma": "gladly",
+      "pos": "adv",
+      "rank": 265,
+      "level": "B2",
+      "translations": {
+        "ru": "с радостью"
+      },
+      "examples": [
+        {
+          "en": "I'll gladly help you.",
+          "ru": "Я с радостью помогу.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "gracefully",
+      "lemma": "gracefully",
+      "pos": "adv",
+      "rank": 266,
+      "level": "B2",
+      "translations": {
+        "ru": "изящно"
+      },
+      "examples": [
+        {
+          "en": "She danced gracefully.",
+          "ru": "Она изящно танцевала.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "gradually",
+      "lemma": "gradually",
+      "pos": "adv",
+      "rank": 267,
+      "level": "B2",
+      "translations": {
+        "ru": "постепенно"
+      },
+      "examples": [
+        {
+          "en": "The weather gradually improved.",
+          "ru": "Погода постепенно улучшилась.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "greatly",
+      "lemma": "greatly",
+      "pos": "adv",
+      "rank": 268,
+      "level": "B2",
+      "translations": {
+        "ru": "очень, значительно"
+      },
+      "examples": [
+        {
+          "en": "We greatly appreciate your help.",
+          "ru": "Мы очень ценим вашу помощь.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "heartily",
+      "lemma": "heartily",
+      "pos": "adv",
+      "rank": 269,
+      "level": "B2",
+      "translations": {
+        "ru": "от души"
+      },
+      "examples": [
+        {
+          "en": "We laughed heartily.",
+          "ru": "Мы от души смеялись.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "hence",
+      "lemma": "hence",
+      "pos": "adv",
+      "rank": 270,
+      "level": "B2",
+      "translations": {
+        "ru": "отсюда, следовательно"
+      },
+      "examples": [
+        {
+          "en": "Hence the delay.",
+          "ru": "Отсюда и задержка.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "henceforth",
+      "lemma": "henceforth",
+      "pos": "adv",
+      "rank": 271,
+      "level": "B2",
+      "translations": {
+        "ru": "впредь"
+      },
+      "examples": [
+        {
+          "en": "Henceforth we will meet on Fridays.",
+          "ru": "Впредь мы будем встречаться по пятницам.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "hopelessly",
+      "lemma": "hopelessly",
+      "pos": "adv",
+      "rank": 272,
+      "level": "B2",
+      "translations": {
+        "ru": "безнадёжно"
+      },
+      "examples": [
+        {
+          "en": "We were hopelessly lost.",
+          "ru": "Мы безнадёжно заблудились.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "horribly",
+      "lemma": "horribly",
+      "pos": "adv",
+      "rank": 273,
+      "level": "B2",
+      "translations": {
+        "ru": "ужасно"
+      },
+      "examples": [
+        {
+          "en": "The room smelled horribly.",
+          "ru": "В номере ужасно пахло.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "hugely",
+      "lemma": "hugely",
+      "pos": "adv",
+      "rank": 274,
+      "level": "B2",
+      "translations": {
+        "ru": "огромно"
+      },
+      "examples": [
+        {
+          "en": "The festival was hugely popular.",
+          "ru": "Фестиваль был необыкновенно популярен.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "importantly",
+      "lemma": "importantly",
+      "pos": "adv",
+      "rank": 275,
+      "level": "B2",
+      "translations": {
+        "ru": "важно"
+      },
+      "examples": [
+        {
+          "en": "Importantly, bring your passport.",
+          "ru": "Важно: возьмите паспорт.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "inevitably",
+      "lemma": "inevitably",
+      "pos": "adv",
+      "rank": 276,
+      "level": "B2",
+      "translations": {
+        "ru": "неизбежно"
+      },
+      "examples": [
+        {
+          "en": "Inevitably, we missed the train.",
+          "ru": "Неизбежно, мы опоздали на поезд.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "infinitely",
+      "lemma": "infinitely",
+      "pos": "adv",
+      "rank": 277,
+      "level": "B2",
+      "translations": {
+        "ru": "бесконечно"
+      },
+      "examples": [
+        {
+          "en": "It's infinitely better.",
+          "ru": "Это бесконечно лучше.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "initially",
+      "lemma": "initially",
+      "pos": "adv",
+      "rank": 278,
+      "level": "B2",
+      "translations": {
+        "ru": "сначала"
+      },
+      "examples": [
+        {
+          "en": "Initially, we planned two days.",
+          "ru": "Сначала мы планировали два дня.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "instantly",
+      "lemma": "instantly",
+      "pos": "adv",
+      "rank": 279,
+      "level": "B2",
+      "translations": {
+        "ru": "мгновенно"
+      },
+      "examples": [
+        {
+          "en": "The photo loaded instantly.",
+          "ru": "Фото загрузилось мгновенно.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "intensely",
+      "lemma": "intensely",
+      "pos": "adv",
+      "rank": 280,
+      "level": "B2",
+      "translations": {
+        "ru": "сильно, напряжённо"
+      },
+      "examples": [
+        {
+          "en": "She worked intensely all week.",
+          "ru": "Она напряжённо работала всю неделю.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "internationally",
+      "lemma": "internationally",
+      "pos": "adv",
+      "rank": 281,
+      "level": "B2",
+      "translations": {
+        "ru": "на международном уровне"
+      },
+      "examples": [
+        {
+          "en": "The festival is known internationally.",
+          "ru": "Фестиваль известен во всём мире.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "jokingly",
+      "lemma": "jokingly",
+      "pos": "adv",
+      "rank": 282,
+      "level": "B2",
+      "translations": {
+        "ru": "в шутку"
+      },
+      "examples": [
+        {
+          "en": "He said it jokingly.",
+          "ru": "Он сказал это в шутку.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "joyfully",
+      "lemma": "joyfully",
+      "pos": "adv",
+      "rank": 283,
+      "level": "B2",
+      "translations": {
+        "ru": "радостно"
+      },
+      "examples": [
+        {
+          "en": "They joyfully welcomed us.",
+          "ru": "Они радостно встретили нас.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "largely",
+      "lemma": "largely",
+      "pos": "adv",
+      "rank": 284,
+      "level": "B2",
+      "translations": {
+        "ru": "в основном"
+      },
+      "examples": [
+        {
+          "en": "The delay was largely my fault.",
+          "ru": "Задержка во многом моя вина.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "lastly",
+      "lemma": "lastly",
+      "pos": "adv",
+      "rank": 285,
+      "level": "B2",
+      "translations": {
+        "ru": "наконец"
+      },
+      "examples": [
+        {
+          "en": "Lastly, don't forget your passport.",
+          "ru": "И наконец, не забудьте паспорт.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "lazily",
+      "lemma": "lazily",
+      "pos": "adv",
+      "rank": 286,
+      "level": "B2",
+      "translations": {
+        "ru": "лениво"
+      },
+      "examples": [
+        {
+          "en": "We lay lazily on the beach.",
+          "ru": "Мы лениво лежали на пляже.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "legally",
+      "lemma": "legally",
+      "pos": "adv",
+      "rank": 287,
+      "level": "B2",
+      "translations": {
+        "ru": "законно"
+      },
+      "examples": [
+        {
+          "en": "You can legally park here.",
+          "ru": "Здесь можно парковаться по закону.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "lightly",
+      "lemma": "lightly",
+      "pos": "adv",
+      "rank": 288,
+      "level": "B2",
+      "translations": {
+        "ru": "слегка; легко"
+      },
+      "examples": [
+        {
+          "en": "It rained lightly in the evening.",
+          "ru": "Вечером шёл лёгкий дождь.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "likewise",
+      "lemma": "likewise",
+      "pos": "adv",
+      "rank": 289,
+      "level": "B2",
+      "translations": {
+        "ru": "так же; взаимно"
+      },
+      "examples": [
+        {
+          "en": "Nice to meet you. – Likewise!",
+          "ru": "Приятно познакомиться. — Взаимно!",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "locally",
+      "lemma": "locally",
+      "pos": "adv",
+      "rank": 290,
+      "level": "B2",
+      "translations": {
+        "ru": "на месте"
+      },
+      "examples": [
+        {
+          "en": "The food is locally produced.",
+          "ru": "Еда произведена на месте.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "madly",
+      "lemma": "madly",
+      "pos": "adv",
+      "rank": 291,
+      "level": "B2",
+      "translations": {
+        "ru": "безумно"
+      },
+      "examples": [
+        {
+          "en": "They are madly in love.",
+          "ru": "Они безумно влюблены.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "mainly",
+      "lemma": "mainly",
+      "pos": "adv",
+      "rank": 292,
+      "level": "B1",
+      "translations": {
+        "ru": "главным образом"
+      },
+      "examples": [
+        {
+          "en": "We mainly travel by train.",
+          "ru": "Мы в основном ездим на поезде.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "manually",
+      "lemma": "manually",
+      "pos": "adv",
+      "rank": 293,
+      "level": "B2",
+      "translations": {
+        "ru": "вручную"
+      },
+      "examples": [
+        {
+          "en": "You can restart it manually.",
+          "ru": "Можно перезапустить вручную.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "marginally",
+      "lemma": "marginally",
+      "pos": "adv",
+      "rank": 294,
+      "level": "B2",
+      "translations": {
+        "ru": "незначительно"
+      },
+      "examples": [
+        {
+          "en": "Prices rose only marginally.",
+          "ru": "Цены выросли лишь незначительно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "massively",
+      "lemma": "massively",
+      "pos": "adv",
+      "rank": 295,
+      "level": "B2",
+      "translations": {
+        "ru": "массово; очень"
+      },
+      "examples": [
+        {
+          "en": "The app has grown massively.",
+          "ru": "Приложение очень сильно выросло.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "mentally",
+      "lemma": "mentally",
+      "pos": "adv",
+      "rank": 296,
+      "level": "B2",
+      "translations": {
+        "ru": "мысленно"
+      },
+      "examples": [
+        {
+          "en": "I'm mentally tired.",
+          "ru": "Я морально устал.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "merrily",
+      "lemma": "merrily",
+      "pos": "adv",
+      "rank": 297,
+      "level": "B2",
+      "translations": {
+        "ru": "весело"
+      },
+      "examples": [
+        {
+          "en": "They sang merrily.",
+          "ru": "Они весело пели.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "mildly",
+      "lemma": "mildly",
+      "pos": "adv",
+      "rank": 298,
+      "level": "B2",
+      "translations": {
+        "ru": "мягко"
+      },
+      "examples": [
+        {
+          "en": "It's mildly interesting.",
+          "ru": "Это немного интересно.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "moreover",
+      "lemma": "moreover",
+      "pos": "adv",
+      "rank": 299,
+      "level": "B2",
+      "translations": {
+        "ru": "более того"
+      },
+      "examples": [
+        {
+          "en": "Moreover, the room is cheap.",
+          "ru": "Более того, номер недорогой.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "mysteriously",
+      "lemma": "mysteriously",
+      "pos": "adv",
+      "rank": 300,
+      "level": "B2",
+      "translations": {
+        "ru": "загадочно"
+      },
+      "examples": [
+        {
+          "en": "The file mysteriously disappeared.",
+          "ru": "Файл загадочным образом исчез.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "namely",
+      "lemma": "namely",
+      "pos": "adv",
+      "rank": 301,
+      "level": "B2",
+      "translations": {
+        "ru": "а именно"
+      },
+      "examples": [
+        {
+          "en": "Two things, namely time and money.",
+          "ru": "Две вещи, а именно время и деньги.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "neatly",
+      "lemma": "neatly",
+      "pos": "adv",
+      "rank": 302,
+      "level": "B2",
+      "translations": {
+        "ru": "аккуратно"
+      },
+      "examples": [
+        {
+          "en": "She packed her bag neatly.",
+          "ru": "Она аккуратно собрала сумку.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "nervously",
+      "lemma": "nervously",
+      "pos": "adv",
+      "rank": 303,
+      "level": "B2",
+      "translations": {
+        "ru": "нервно"
+      },
+      "examples": [
+        {
+          "en": "He waited nervously.",
+          "ru": "Он нервно ждал.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "nevertheless",
+      "lemma": "nevertheless",
+      "pos": "adv",
+      "rank": 304,
+      "level": "B2",
+      "translations": {
+        "ru": "тем не менее"
+      },
+      "examples": [
+        {
+          "en": "Nevertheless, we enjoyed the trip.",
+          "ru": "Тем не менее поездка нам понравилась.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "noisily",
+      "lemma": "noisily",
+      "pos": "adv",
+      "rank": 305,
+      "level": "B2",
+      "translations": {
+        "ru": "шумно"
+      },
+      "examples": [
+        {
+          "en": "The kids played noisily.",
+          "ru": "Дети шумно играли.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "north-adv",
+      "lemma": "north",
+      "pos": "adv",
+      "rank": 306,
+      "level": "B1",
+      "translations": {
+        "ru": "на север"
+      },
+      "examples": [
+        {
+          "en": "We drove north along the coast.",
+          "ru": "Мы ехали на север вдоль побережья.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "noticeably",
+      "lemma": "noticeably",
+      "pos": "adv",
+      "rank": 307,
+      "level": "B2",
+      "translations": {
+        "ru": "заметно"
+      },
+      "examples": [
+        {
+          "en": "It's noticeably colder today.",
+          "ru": "Сегодня заметно холоднее.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "occasionally",
+      "lemma": "occasionally",
+      "pos": "adv",
+      "rank": 308,
+      "level": "B1",
+      "translations": {
+        "ru": "время от времени"
+      },
+      "examples": [
+        {
+          "en": "We occasionally eat out.",
+          "ru": "Мы изредка едим вне дома.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "openly",
+      "lemma": "openly",
+      "pos": "adv",
+      "rank": 310,
+      "level": "B2",
+      "translations": {
+        "ru": "открыто"
+      },
+      "examples": [
+        {
+          "en": "He openly said what he thought.",
+          "ru": "Он открыто сказал, что думает.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "outdoors",
+      "lemma": "outdoors",
+      "pos": "adv",
+      "rank": 311,
+      "level": "B1",
+      "translations": {
+        "ru": "на улице"
+      },
+      "examples": [
+        {
+          "en": "We love eating outdoors.",
+          "ru": "Мы любим есть на открытом воздухе.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "overall",
+      "lemma": "overall",
+      "pos": "adv",
+      "rank": 312,
+      "level": "B2",
+      "translations": {
+        "ru": "в целом"
+      },
+      "examples": [
+        {
+          "en": "Overall, it was a great trip.",
+          "ru": "В целом это была отличная поездка.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "partially",
+      "lemma": "partially",
+      "pos": "adv",
+      "rank": 313,
+      "level": "B2",
+      "translations": {
+        "ru": "частично"
+      },
+      "examples": [
+        {
+          "en": "The road is partially closed.",
+          "ru": "Дорога частично закрыта.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "partly",
+      "lemma": "partly",
+      "pos": "adv",
+      "rank": 314,
+      "level": "B2",
+      "translations": {
+        "ru": "отчасти"
+      },
+      "examples": [
+        {
+          "en": "It's partly my fault.",
+          "ru": "Это отчасти моя вина.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "passionately",
+      "lemma": "passionately",
+      "pos": "adv",
+      "rank": 315,
+      "level": "B2",
+      "translations": {
+        "ru": "страстно"
+      },
+      "examples": [
+        {
+          "en": "She sang passionately.",
+          "ru": "Она пела страстно.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "patiently",
+      "lemma": "patiently",
+      "pos": "adv",
+      "rank": 316,
+      "level": "B1",
+      "translations": {
+        "ru": "терпеливо"
+      },
+      "examples": [
+        {
+          "en": "We waited patiently.",
+          "ru": "Мы терпеливо ждали.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "peacefully",
+      "lemma": "peacefully",
+      "pos": "adv",
+      "rank": 317,
+      "level": "B2",
+      "translations": {
+        "ru": "мирно"
+      },
+      "examples": [
+        {
+          "en": "The baby slept peacefully.",
+          "ru": "Малыш мирно спал.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "permanently",
+      "lemma": "permanently",
+      "pos": "adv",
+      "rank": 318,
+      "level": "B2",
+      "translations": {
+        "ru": "постоянно"
+      },
+      "examples": [
+        {
+          "en": "The shop is permanently closed.",
+          "ru": "Магазин закрыт навсегда.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "plainly",
+      "lemma": "plainly",
+      "pos": "adv",
+      "rank": 319,
+      "level": "B2",
+      "translations": {
+        "ru": "ясно; просто"
+      },
+      "examples": [
+        {
+          "en": "He plainly said no.",
+          "ru": "Он ясно сказал нет.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "playfully",
+      "lemma": "playfully",
+      "pos": "adv",
+      "rank": 320,
+      "level": "B2",
+      "translations": {
+        "ru": "игриво"
+      },
+      "examples": [
+        {
+          "en": "The kids played playfully.",
+          "ru": "Дети весело играли.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "politely",
+      "lemma": "politely",
+      "pos": "adv",
+      "rank": 321,
+      "level": "B1",
+      "translations": {
+        "ru": "вежливо"
+      },
+      "examples": [
+        {
+          "en": "He politely asked for the menu.",
+          "ru": "Он вежливо попросил меню.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "poorly",
+      "lemma": "poorly",
+      "pos": "adv",
+      "rank": 322,
+      "level": "B2",
+      "translations": {
+        "ru": "плохо"
+      },
+      "examples": [
+        {
+          "en": "The signal works poorly here.",
+          "ru": "Здесь сигнал работает плохо.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "positively",
+      "lemma": "positively",
+      "pos": "adv",
+      "rank": 323,
+      "level": "B2",
+      "translations": {
+        "ru": "положительно"
+      },
+      "examples": [
+        {
+          "en": "She reacted positively.",
+          "ru": "Она отреагировала положительно.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "potentially",
+      "lemma": "potentially",
+      "pos": "adv",
+      "rank": 324,
+      "level": "B2",
+      "translations": {
+        "ru": "потенциально"
+      },
+      "examples": [
+        {
+          "en": "It's potentially dangerous.",
+          "ru": "Это потенциально опасно.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "presently",
+      "lemma": "presently",
+      "pos": "adv",
+      "rank": 325,
+      "level": "B2",
+      "translations": {
+        "ru": "в настоящее время"
+      },
+      "examples": [
+        {
+          "en": "The hotel is presently closed.",
+          "ru": "Отель в настоящее время закрыт.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "presumably",
+      "lemma": "presumably",
+      "pos": "adv",
+      "rank": 326,
+      "level": "B2",
+      "translations": {
+        "ru": "предположительно"
+      },
+      "examples": [
+        {
+          "en": "Presumably, they are on their way.",
+          "ru": "Предположительно, они уже в пути.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "prettily",
+      "lemma": "prettily",
+      "pos": "adv",
+      "rank": 327,
+      "level": "B2",
+      "translations": {
+        "ru": "мило"
+      },
+      "examples": [
+        {
+          "en": "She was prettily dressed.",
+          "ru": "Она была мило одета.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "primarily",
+      "lemma": "primarily",
+      "pos": "adv",
+      "rank": 328,
+      "level": "B2",
+      "translations": {
+        "ru": "прежде всего"
+      },
+      "examples": [
+        {
+          "en": "The app is primarily for learning.",
+          "ru": "Приложение прежде всего для обучения.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "privately",
+      "lemma": "privately",
+      "pos": "adv",
+      "rank": 329,
+      "level": "B2",
+      "translations": {
+        "ru": "в частном порядке"
+      },
+      "examples": [
+        {
+          "en": "We talked privately.",
+          "ru": "Мы поговорили наедине.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "promptly",
+      "lemma": "promptly",
+      "pos": "adv",
+      "rank": 330,
+      "level": "B2",
+      "translations": {
+        "ru": "быстро, своевременно"
+      },
+      "examples": [
+        {
+          "en": "Please pay promptly.",
+          "ru": "Пожалуйста, платите вовремя.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "proudly",
+      "lemma": "proudly",
+      "pos": "adv",
+      "rank": 331,
+      "level": "B2",
+      "translations": {
+        "ru": "гордо"
+      },
+      "examples": [
+        {
+          "en": "He proudly showed us his photos.",
+          "ru": "Он гордо показал нам свои фото.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "publicly",
+      "lemma": "publicly",
+      "pos": "adv",
+      "rank": 332,
+      "level": "B2",
+      "translations": {
+        "ru": "публично"
+      },
+      "examples": [
+        {
+          "en": "The plan was publicly announced.",
+          "ru": "План был объявлен публично.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "purely",
+      "lemma": "purely",
+      "pos": "adv",
+      "rank": 333,
+      "level": "B2",
+      "translations": {
+        "ru": "чисто; исключительно"
+      },
+      "examples": [
+        {
+          "en": "It was purely a coincidence.",
+          "ru": "Это было чистое совпадение.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "randomly",
+      "lemma": "randomly",
+      "pos": "adv",
+      "rank": 334,
+      "level": "B2",
+      "translations": {
+        "ru": "случайно"
+      },
+      "examples": [
+        {
+          "en": "The seats were assigned randomly.",
+          "ru": "Места распределили случайно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "rapidly",
+      "lemma": "rapidly",
+      "pos": "adv",
+      "rank": 335,
+      "level": "B2",
+      "translations": {
+        "ru": "быстро"
+      },
+      "examples": [
+        {
+          "en": "The city is growing rapidly.",
+          "ru": "Город быстро растёт.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "rarely",
+      "lemma": "rarely",
+      "pos": "adv",
+      "rank": 336,
+      "level": "B1",
+      "translations": {
+        "ru": "редко"
+      },
+      "examples": [
+        {
+          "en": "We rarely eat out.",
+          "ru": "Мы редко едим вне дома.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "readily",
+      "lemma": "readily",
+      "pos": "adv",
+      "rank": 337,
+      "level": "B2",
+      "translations": {
+        "ru": "охотно"
+      },
+      "examples": [
+        {
+          "en": "They readily helped us.",
+          "ru": "Они охотно нам помогли.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "reasonably",
+      "lemma": "reasonably",
+      "pos": "adv",
+      "rank": 338,
+      "level": "B2",
+      "translations": {
+        "ru": "разумно; довольно"
+      },
+      "examples": [
+        {
+          "en": "The hotel is reasonably priced.",
+          "ru": "Цены в отеле вполне разумные.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "regularly",
+      "lemma": "regularly",
+      "pos": "adv",
+      "rank": 339,
+      "level": "B1",
+      "translations": {
+        "ru": "регулярно"
+      },
+      "examples": [
+        {
+          "en": "I regularly practice English.",
+          "ru": "Я регулярно практикую английский.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "relatively",
+      "lemma": "relatively",
+      "pos": "adv",
+      "rank": 340,
+      "level": "B2",
+      "translations": {
+        "ru": "относительно"
+      },
+      "examples": [
+        {
+          "en": "The room is relatively cheap.",
+          "ru": "Номер относительно дешёвый.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "reluctantly",
+      "lemma": "reluctantly",
+      "pos": "adv",
+      "rank": 341,
+      "level": "B2",
+      "translations": {
+        "ru": "неохотно"
+      },
+      "examples": [
+        {
+          "en": "He reluctantly agreed.",
+          "ru": "Он неохотно согласился.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "remarkably",
+      "lemma": "remarkably",
+      "pos": "adv",
+      "rank": 342,
+      "level": "B2",
+      "translations": {
+        "ru": "замечательно"
+      },
+      "examples": [
+        {
+          "en": "The weather was remarkably warm.",
+          "ru": "Погода была на удивление тёплой.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "repeatedly",
+      "lemma": "repeatedly",
+      "pos": "adv",
+      "rank": 343,
+      "level": "B2",
+      "translations": {
+        "ru": "неоднократно"
+      },
+      "examples": [
+        {
+          "en": "I repeatedly called the hotel.",
+          "ru": "Я неоднократно звонил в отель.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "respectively",
+      "lemma": "respectively",
+      "pos": "adv",
+      "rank": 344,
+      "level": "B2",
+      "translations": {
+        "ru": "соответственно"
+      },
+      "examples": [
+        {
+          "en": "Anna and Tom are 25 and 30, respectively.",
+          "ru": "Анне и Тому 25 и 30 лет соответственно.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "rightly",
+      "lemma": "rightly",
+      "pos": "adv",
+      "rank": 345,
+      "level": "B2",
+      "translations": {
+        "ru": "справедливо"
+      },
+      "examples": [
+        {
+          "en": "She rightly complained.",
+          "ru": "Она справедливо пожаловалась.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "roughly",
+      "lemma": "roughly",
+      "pos": "adv",
+      "rank": 346,
+      "level": "B1",
+      "translations": {
+        "ru": "примерно"
+      },
+      "examples": [
+        {
+          "en": "The trip takes roughly three hours.",
+          "ru": "Поездка занимает примерно три часа.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "rudely",
+      "lemma": "rudely",
+      "pos": "adv",
+      "rank": 347,
+      "level": "B2",
+      "translations": {
+        "ru": "грубо"
+      },
+      "examples": [
+        {
+          "en": "He answered rudely.",
+          "ru": "Он ответил грубо.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "sadly",
+      "lemma": "sadly",
+      "pos": "adv",
+      "rank": 348,
+      "level": "B1",
+      "translations": {
+        "ru": "к сожалению; грустно"
+      },
+      "examples": [
+        {
+          "en": "Sadly, the museum is closed today.",
+          "ru": "К сожалению, музей сегодня закрыт.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "seemingly",
+      "lemma": "seemingly",
+      "pos": "adv",
+      "rank": 349,
+      "level": "B2",
+      "translations": {
+        "ru": "по-видимому"
+      },
+      "examples": [
+        {
+          "en": "Seemingly nobody noticed.",
+          "ru": "Похоже, никто не заметил.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "seldom",
+      "lemma": "seldom",
+      "pos": "adv",
+      "rank": 350,
+      "level": "B2",
+      "translations": {
+        "ru": "редко"
+      },
+      "examples": [
+        {
+          "en": "We seldom go out on weekdays.",
+          "ru": "В будни мы редко куда-то ходим.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "separately",
+      "lemma": "separately",
+      "pos": "adv",
+      "rank": 351,
+      "level": "B1",
+      "translations": {
+        "ru": "раздельно"
+      },
+      "examples": [
+        {
+          "en": "Can we pay separately?",
+          "ru": "Можно заплатить отдельно?",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "severely",
+      "lemma": "severely",
+      "pos": "adv",
+      "rank": 352,
+      "level": "B2",
+      "translations": {
+        "ru": "сильно"
+      },
+      "examples": [
+        {
+          "en": "The road was severely damaged.",
+          "ru": "Дорога была сильно повреждена.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "significantly",
+      "lemma": "significantly",
+      "pos": "adv",
+      "rank": 353,
+      "level": "B2",
+      "translations": {
+        "ru": "значительно"
+      },
+      "examples": [
+        {
+          "en": "Prices dropped significantly.",
+          "ru": "Цены значительно упали.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "similarly",
+      "lemma": "similarly",
+      "pos": "adv",
+      "rank": 354,
+      "level": "B2",
+      "translations": {
+        "ru": "аналогично"
+      },
+      "examples": [
+        {
+          "en": "Similarly, you can pay by card.",
+          "ru": "Аналогично, можно платить картой.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "sincerely",
+      "lemma": "sincerely",
+      "pos": "adv",
+      "rank": 355,
+      "level": "B2",
+      "translations": {
+        "ru": "искренне"
+      },
+      "examples": [
+        {
+          "en": "I sincerely thank you.",
+          "ru": "Искренне благодарю вас.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "skillfully",
+      "lemma": "skillfully",
+      "pos": "adv",
+      "rank": 356,
+      "level": "B2",
+      "translations": {
+        "ru": "умело"
+      },
+      "examples": [
+        {
+          "en": "She skillfully parked the car.",
+          "ru": "Она умело припарковала машину.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "smoothly",
+      "lemma": "smoothly",
+      "pos": "adv",
+      "rank": 357,
+      "level": "B1",
+      "translations": {
+        "ru": "гладко"
+      },
+      "examples": [
+        {
+          "en": "The trip went smoothly.",
+          "ru": "Поездка прошла гладко.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "specially",
+      "lemma": "specially",
+      "pos": "adv",
+      "rank": 358,
+      "level": "B2",
+      "translations": {
+        "ru": "специально"
+      },
+      "examples": [
+        {
+          "en": "The cake was specially made for her.",
+          "ru": "Торт специально испекли для неё.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "steadily",
+      "lemma": "steadily",
+      "pos": "adv",
+      "rank": 359,
+      "level": "B2",
+      "translations": {
+        "ru": "неуклонно"
+      },
+      "examples": [
+        {
+          "en": "Prices are rising steadily.",
+          "ru": "Цены неуклонно растут.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "strangely",
+      "lemma": "strangely",
+      "pos": "adv",
+      "rank": 360,
+      "level": "B2",
+      "translations": {
+        "ru": "странно"
+      },
+      "examples": [
+        {
+          "en": "Strangely, nobody was there.",
+          "ru": "Странно, но там никого не было.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "strongly",
+      "lemma": "strongly",
+      "pos": "adv",
+      "rank": 361,
+      "level": "B1",
+      "translations": {
+        "ru": "сильно"
+      },
+      "examples": [
+        {
+          "en": "I strongly recommend this café.",
+          "ru": "Я настоятельно рекомендую это кафе.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "successfully",
+      "lemma": "successfully",
+      "pos": "adv",
+      "rank": 362,
+      "level": "B2",
+      "translations": {
+        "ru": "успешно"
+      },
+      "examples": [
+        {
+          "en": "The app was successfully updated.",
+          "ru": "Приложение успешно обновилось.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "supposedly",
+      "lemma": "supposedly",
+      "pos": "adv",
+      "rank": 363,
+      "level": "B2",
+      "translations": {
+        "ru": "предположительно"
+      },
+      "examples": [
+        {
+          "en": "Supposedly, it's the best café in town.",
+          "ru": "Говорят, это лучшее кафе в городе.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "tenderly",
+      "lemma": "tenderly",
+      "pos": "adv",
+      "rank": 364,
+      "level": "B2",
+      "translations": {
+        "ru": "нежно"
+      },
+      "examples": [
+        {
+          "en": "She tenderly kissed the child.",
+          "ru": "Она нежно поцеловала ребёнка.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "thankfully",
+      "lemma": "thankfully",
+      "pos": "adv",
+      "rank": 365,
+      "level": "B2",
+      "translations": {
+        "ru": "к счастью"
+      },
+      "examples": [
+        {
+          "en": "Thankfully, nobody was hurt.",
+          "ru": "К счастью, никто не пострадал.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "thoroughly",
+      "lemma": "thoroughly",
+      "pos": "adv",
+      "rank": 366,
+      "level": "B2",
+      "translations": {
+        "ru": "тщательно"
+      },
+      "examples": [
+        {
+          "en": "Wash your hands thoroughly.",
+          "ru": "Тщательно вымойте руки.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "tightly",
+      "lemma": "tightly",
+      "pos": "adv",
+      "rank": 367,
+      "level": "B2",
+      "translations": {
+        "ru": "крепко"
+      },
+      "examples": [
+        {
+          "en": "Hold the rope tightly.",
+          "ru": "Крепко держи верёвку.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "tonight-adv",
+      "lemma": "tonight",
+      "pos": "adv",
+      "rank": 368,
+      "level": "A1",
+      "translations": {
+        "ru": "сегодня вечером"
+      },
+      "examples": [
+        {
+          "en": "What are you doing tonight?",
+          "ru": "Что ты делаешь сегодня вечером?",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "truthfully",
+      "lemma": "truthfully",
+      "pos": "adv",
+      "rank": 369,
+      "level": "B2",
+      "translations": {
+        "ru": "правдиво"
+      },
+      "examples": [
+        {
+          "en": "Truthfully, I didn't like it.",
+          "ru": "Честно говоря, мне не понравилось.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "typically",
+      "lemma": "typically",
+      "pos": "adv",
+      "rank": 370,
+      "level": "B2",
+      "translations": {
+        "ru": "как правило"
+      },
+      "examples": [
+        {
+          "en": "Typically, shops close at nine.",
+          "ru": "Как правило, магазины закрываются в девять.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "ultimately",
+      "lemma": "ultimately",
+      "pos": "adv",
+      "rank": 371,
+      "level": "B2",
+      "translations": {
+        "ru": "в конечном счёте"
+      },
+      "examples": [
+        {
+          "en": "Ultimately, the choice is yours.",
+          "ru": "В конечном счёте выбор за тобой.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "unexpectedly",
+      "lemma": "unexpectedly",
+      "pos": "adv",
+      "rank": 372,
+      "level": "B2",
+      "translations": {
+        "ru": "неожиданно"
+      },
+      "examples": [
+        {
+          "en": "The train stopped unexpectedly.",
+          "ru": "Поезд неожиданно остановился.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "urgently",
+      "lemma": "urgently",
+      "pos": "adv",
+      "rank": 373,
+      "level": "B2",
+      "translations": {
+        "ru": "срочно"
+      },
+      "examples": [
+        {
+          "en": "I urgently need a doctor.",
+          "ru": "Мне срочно нужен врач.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "utterly",
+      "lemma": "utterly",
+      "pos": "adv",
+      "rank": 374,
+      "level": "B2",
+      "translations": {
+        "ru": "совершенно"
+      },
+      "examples": [
+        {
+          "en": "The film was utterly boring.",
+          "ru": "Фильм был совершенно скучным.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "vaguely",
+      "lemma": "vaguely",
+      "pos": "adv",
+      "rank": 375,
+      "level": "B2",
+      "translations": {
+        "ru": "смутно"
+      },
+      "examples": [
+        {
+          "en": "I vaguely remember the street.",
+          "ru": "Я смутно помню эту улицу.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "verbally",
+      "lemma": "verbally",
+      "pos": "adv",
+      "rank": 376,
+      "level": "B2",
+      "translations": {
+        "ru": "устно"
+      },
+      "examples": [
+        {
+          "en": "He confirmed it verbally.",
+          "ru": "Он подтвердил это устно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "warmly",
+      "lemma": "warmly",
+      "pos": "adv",
+      "rank": 377,
+      "level": "B1",
+      "translations": {
+        "ru": "тепло"
+      },
+      "examples": [
+        {
+          "en": "They warmly welcomed us.",
+          "ru": "Они тепло нас встретили.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "weekly",
+      "lemma": "weekly",
+      "pos": "adv",
+      "rank": 378,
+      "level": "B1",
+      "translations": {
+        "ru": "еженедельно"
+      },
+      "examples": [
+        {
+          "en": "The market is held weekly.",
+          "ru": "Рынок проводится еженедельно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "widely",
+      "lemma": "widely",
+      "pos": "adv",
+      "rank": 379,
+      "level": "B2",
+      "translations": {
+        "ru": "широко"
+      },
+      "examples": [
+        {
+          "en": "The song is widely known.",
+          "ru": "Эта песня широко известна.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "willingly",
+      "lemma": "willingly",
+      "pos": "adv",
+      "rank": 380,
+      "level": "B2",
+      "translations": {
+        "ru": "охотно"
+      },
+      "examples": [
+        {
+          "en": "She willingly helped us.",
+          "ru": "Она охотно нам помогла.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "wisely",
+      "lemma": "wisely",
+      "pos": "adv",
+      "rank": 381,
+      "level": "B2",
+      "translations": {
+        "ru": "мудро"
+      },
+      "examples": [
+        {
+          "en": "You chose wisely.",
+          "ru": "Ты выбрал мудро.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "wonderfully",
+      "lemma": "wonderfully",
+      "pos": "adv",
+      "rank": 382,
+      "level": "B1",
+      "translations": {
+        "ru": "чудесно"
+      },
+      "examples": [
+        {
+          "en": "The evening went wonderfully.",
+          "ru": "Вечер прошёл чудесно.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "worldwide",
+      "lemma": "worldwide",
+      "pos": "adv",
+      "rank": 383,
+      "level": "B2",
+      "translations": {
+        "ru": "по всему миру"
+      },
+      "examples": [
+        {
+          "en": "The app is used worldwide.",
+          "ru": "Приложением пользуются по всему миру.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "yearly",
+      "lemma": "yearly",
+      "pos": "adv",
+      "rank": 384,
+      "level": "B2",
+      "translations": {
+        "ru": "ежегодно"
+      },
+      "examples": [
+        {
+          "en": "The festival is held yearly.",
+          "ru": "Фестиваль проводится ежегодно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
       }
     }
   ]

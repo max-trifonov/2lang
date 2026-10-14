@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-15",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 15,
+  "level": "A2",
+  "title": {
+    "ru": "Аренда машины",
+    "en": "Renting a car",
+    "es": "Alquilar un coche"
+  },
+  "words": [
+    "conducir",
+    "coche",
+    "disponible"
+  ],
+  "phrase": {
+    "es": "Sé conducir. ¿Tiene un coche disponible para el fin de semana?",
+    "ru": "Я умею водить. У вас есть свободная машина на выходные?",
+    "en": "I can drive. Do you have a car available for the weekend?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Уметь — saber + инфинитив: sé conducir. Disponible не меняется по роду: coche disponible, habitación disponible. Conducir: conduzco, conduces, conduce.",
+      "en": "Ability: saber + infinitive: sé conducir. Disponible has one form for both genders. Conducir: conduzco, conduces, conduce.",
+      "es": "saber + infinitivo. disponible (masc. y fem.). conducir: conduzco."
+    },
+    "examples": [
+      {
+        "es": "¿Hay habitaciones disponibles?",
+        "ru": "Есть свободные номера?"
+      },
+      {
+        "es": "No sé conducir.",
+        "ru": "Я не умею водить."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Yo ___ todos los días al trabajo.",
+      "answer": "conduzco",
+      "ru": "Я езжу на машине на работу каждый день."
+    },
+    {
+      "type": "fill",
+      "es": "¿Hay un ___ disponible?",
+      "answer": "coche",
+      "ru": "Есть ли свободная машина?"
+    },
+    {
+      "type": "build",
+      "es": "Hay un coche disponible para mañana.",
+      "ru": "На завтра есть свободная машина.",
+      "extra": [
+        "conduces"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Есть ли свободная машина?",
+      "answer": [
+        "¿Hay un coche disponible?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

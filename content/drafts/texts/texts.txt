@@ -1,0 +1,236 @@
+# Тексты партии 4 (LNG-S1-032): public-domain. Переводы — рабочие подстрочники ИИ, ждут выверки автора.
+=== auld-lang-syne | song | en | Auld Lang Syne | Старая добрая дружба (Auld Lang Syne) | Viejos tiempos (Auld Lang Syne) | Robert Burns (1788) | 1788 | C1 | friends,classic,newyear
+note: Шотландская песня на слова Роберта Бёрнса, её поют на Новый год. Auld lang syne по-шотландски — «давным-давно, добрые старые времена». Слова шотландские (tak = take, o' = of, ye'll = you will, gude-willie waught = дружеский глоток) | A Scots song by Robert Burns, sung at New Year. Auld lang syne means "long, long ago; the good old days". | Canción escocesa de Robert Burns, que se canta en Nochevieja. Auld lang syne = «los viejos tiempos».
+S: verse
+L: Should auld acquaintance be forgot, | Разве можно забыть старых знакомых | ¿Debe olvidarse a los viejos conocidos
+P: auld acquaintance | старые знакомые, старые друзья | los viejos conocidos | auld — шотл. old; acquaintance — знакомый, не всегда близкий друг
+L: And never brought to mind? | И никогда не вспоминать их? | y no volver a recordarlos?
+P: brought to mind | вспоминать, приходить на ум | traer a la memoria | bring to mind — «напомнить, вызвать в памяти»
+L: Should auld acquaintance be forgot, | Разве можно забыть старых знакомых | ¿Debe olvidarse a los viejos conocidos
+L: And days of auld lang syne? | И дни доброго старого времени? | y los días de los viejos tiempos?
+S: chorus chorus
+L: For auld lang syne, my dear, | За старые добрые времена, мой друг, | Por los viejos tiempos, querido,
+P: my dear | мой дорогой | querido | обращение к другу
+L: For auld lang syne, | За старые добрые времена, | por los viejos tiempos,
+L: We'll tak a cup o' kindness yet, | Мы ещё выпьем чашу дружбы, | aún tomaremos una copa de afecto,
+P: a cup o' kindness | чаша доброты, дружеский тост | una copa de afecto | o' = of; tak = take
+L: For auld lang syne. | За старые добрые времена. | por los viejos tiempos.
+S: verse
+L: And there's a hand, my trusty friend! | Вот моя рука, мой верный друг! | ¡Y aquí tienes una mano, mi fiel amigo!
+P: my trusty friend | мой верный друг | mi fiel amigo | trusty — надёжный, верный
+L: And give me a hand o' thine! | Дай мне и свою руку! | ¡Y dame la tuya!
+L: And we'll take a right good-will draught, | И мы выпьем от всей души, | Y beberemos un buen trago de buena voluntad,
+L: For auld lang syne. | За старые добрые времена. | por los viejos tiempos.
+R: chorus
+=== scarborough-fair | song | en | Scarborough Fair | Ярмарка в Скарборо | Feria de Scarborough | народная английская баллада | | B2 | folk,love,classic
+note: Старинная английская баллада о задаче для бывшей возлюбленной. Травы в припеве (petrushka, sage, rosemary, thyme) — традиционный рефрен | A traditional English ballad. The herbs in the refrain are a classic refrain. | Balada tradicional inglesa. Las hierbas del estribillo son un clásico.
+S: verse
+L: Are you going to Scarborough Fair? | Ты едешь на ярмарку в Скарборо? | ¿Vas a la feria de Scarborough?
+P: Are you going to | ты едешь на | ¿Vas a | Present Continuous для планов: Are you going to…?
+L: Parsley, sage, rosemary and thyme, | Петрушка, шалфей, розмарин и тимьян, | Perejil, salvia, romero y tomillo,
+P: rosemary and thyme | розмарин и тимьян | romero y tomillo
+L: Remember me to one who lives there, | Передай привет той, кто там живёт, | Dame recuerdos a la que vive allí,
+P: Remember me to | передай от меня привет | dale recuerdos de mi parte | устаревший оборот: remember me to someone
+L: She once was a true love of mine. | Когда-то она была моей настоящей любовью. | Ella fue una vez mi verdadero amor.
+P: once was | когда-то была | fue una vez | once — однажды, когда-то
+S: verse
+L: Tell her to make me a cambric shirt, | Скажи ей сшить мне батистовую рубашку, | Dile que me haga una camisa de batista,
+P: Tell her to make me | скажи ей сшить мне | dile que me haga | tell someone to + глагол — «сказать кому-то сделать»
+L: Parsley, sage, rosemary and thyme, | Петрушка, шалфей, розмарин и тимьян, | Perejil, salvia, romero y tomillo,
+L: Without no seam nor needlework, | Без шва и без шитья, | Sin costura ni aguja,
+P: seam nor needlework | шов и шитьё | costura ni aguja
+L: Then she'll be a true love of mine. | Тогда она будет моей настоящей любовью. | Entonces será mi verdadero amor.
+P: she'll be | она будет | ella será | she'll = she will
+=== jingle-bells | song | en | Jingle Bells | Звените, колокольчики | Cascabeles | James Lord Pierpont (1857) | 1857 | A2 | christmas,fun,winter
+note: Рождественская песня, написанная в 1857 году. Простая лексика и повторяющийся припев — хороша для начала | A Christmas song from 1857. Simple vocabulary and a repeating chorus. | Villancico de 1857. Vocabulario sencillo y estribillo repetido.
+S: verse
+L: Dashing through the snow | Мчимся сквозь снег | Corriendo por la nieve
+P: through the snow | сквозь снег | por la nieve
+L: In a one-horse open sleigh, | В открытых санях с одной лошадью, | en un trineo abierto de un caballo,
+L: O'er the fields we go, | Через поля мы летим, | por los campos vamos,
+P: we go | мы едем | vamos | o'er = over; порядок слов поэтический
+L: Laughing all the way. | Смеясь всю дорогу. | riendo todo el camino.
+P: all the way | всю дорогу | todo el camino
+L: Bells on bobtail ring, | Звенят колокольчики на гриве, | suenan los cascabeles,
+L: Making spirits bright, | Поднимая настроение, | alegrando los ánimos,
+P: Making spirits bright | поднимая настроение | alegrando los ánimos
+L: What fun it is to ride and sing | Как весело кататься и петь | ¡Qué divertido es pasear y cantar
+P: What fun it is | как весело | qué divertido es | восклицание: What + существительное + it is
+L: A sleighing song tonight! | Песню о санях сегодня вечером! | una canción de trineo esta noche!
+S: chorus chorus
+L: Jingle bells, jingle bells, | Звените, колокольчики, звените, | Cascabeles, cascabeles,
+L: Jingle all the way! | Звените всю дорогу! | ¡suenen todo el camino!
+L: Oh, what fun it is to ride | О, как весело кататься | ¡Oh, qué divertido es pasear
+L: In a one-horse open sleigh! | В открытых санях с одной лошадью! | en un trineo abierto de un caballo!
+=== sonnet-18 | poem | en | Sonnet 18 | Сонет 18 | Soneto 18 | William Shakespeare (1609) | 1609 | C1 | love,classic
+note: Один из самых известных сонетов Шекспира. Язык ранний современный: thou = you, thee = you, art = are, hath = has, ow'st = own | One of Shakespeare's best-known sonnets. Early Modern English: thou = you, art = are, hath = has. | Uno de los sonetos más famosos de Shakespeare. Inglés antiguo: thou = you, art = are, hath = has.
+S: verse
+L: Shall I compare thee to a summer's day? | Сравнить ли мне тебя с летним днём? | ¿Te compararé con un día de verano?
+P: Shall I compare thee to | сравнить ли мне тебя с | ¿te compararé con | thee — старая форма you (объект)
+L: Thou art more lovely and more temperate: | Ты прекраснее и умереннее: | Tú eres más hermosa y más moderada:
+P: more lovely and more temperate | прекраснее и умереннее | más hermosa y más moderada | сравнительная степень: more + прилагательное
+L: Rough winds do shake the darling buds of May, | Грубые ветры качают милые майские почки, | Los vientos rudos sacuden los tiernos brotes de mayo,
+L: And summer's lease hath all too short a date; | И лето отведено нам на слишком короткий срок; | y el contrato del verano dura demasiado poco;
+P: all too short | слишком короткий | demasiado corto
+S: verse
+L: Sometime too hot the eye of heaven shines, | Порой слишком жарко светит око небес, | A veces el ojo del cielo brilla con demasiado calor,
+L: And often is his gold complexion dimm'd; | И часто тускнеет его золотой лик; | y a menudo se oscurece su dorado rostro;
+L: And every fair from fair sometime declines, | И всё прекрасное порой теряет красоту, | y toda belleza alguna vez decae,
+L: By chance or nature's changing course untrimm'd; | По случаю или по ходу меняющейся природы; | por azar o por el curso cambiante de la naturaleza;
+S: verse
+L: But thy eternal summer shall not fade, | Но твоё вечное лето не увянет, | Pero tu eterno verano no se marchitará,
+P: shall not fade | не увянет | no se marchitará | shall — торжественное будущее
+L: Nor lose possession of that fair thou ow'st; | И не лишится той красоты, что тебе принадлежит; | ni perderá la belleza que posees;
+L: Nor shall death brag thou wander'st in his shade, | И смерть не похвастается, что ты бродишь в её тени, | ni la muerte presumirá de que vagas en su sombra,
+L: When in eternal lines to time thou grow'st: | Когда в вечных строках ты врастаешь во время: | cuando en versos eternos creces con el tiempo:
+S: verse
+L: So long as men can breathe or eyes can see, | Пока люди дышат и глаза видят, | Mientras los hombres respiren y los ojos vean,
+P: So long as | пока, до тех пор пока | mientras
+L: So long lives this, and this gives life to thee. | Живёт эта строка, а она даёт жизнь тебе. | vivirá este poema, y este te dará vida.
+=== daffodils | poem | en | I Wandered Lonely as a Cloud | Я бродил одиноко, как облако | Vagaba solitario como una nube | William Wordsworth (1807) | 1807 | B2 | nature,classic
+note: Стихотворение о нарциссах (daffodils) у озера. Знаменитое сравнение с облаком в первой строке | A poem about daffodils by a lake. The famous cloud comparison opens it. | Poema sobre los narcisos junto a un lago. Empieza con la famosa comparación con una nube.
+S: verse
+L: I wandered lonely as a cloud | Я бродил одиноко, как облако, | Vagaba solitario como una nube
+P: lonely as a cloud | одиноко, как облако | solitario como una nube | as + прилагательное + as — сравнение
+L: That floats on high o'er vales and hills, | Что плывёт высоко над долинами и холмами, | que flota en lo alto sobre valles y colinas,
+L: When all at once I saw a crowd, | Как вдруг я увидел толпу, | cuando de pronto vi una multitud,
+P: all at once | вдруг, сразу | de pronto
+L: A host, of golden daffodils; | Целое войско золотых нарциссов; | un ejército de narcisos dorados;
+L: Beside the lake, beneath the trees, | У озера, под деревьями, | junto al lago, bajo los árboles,
+L: Fluttering and dancing in the breeze. | Трепещущих и пляшущих на ветерке. | ondeando y bailando con la brisa.
+P: in the breeze | на ветерке | con la brisa
+S: verse
+L: Continuous as the stars that shine | Бесконечных, как звёзды, что сияют | Continuos como las estrellas que brillan
+L: And twinkle on the Milky Way, | И мерцают на Млечном Пути, | y titilan en la Vía Láctea,
+L: They stretched in never-ending line | Они тянулись нескончаемой чередой | se extendían en una línea sin fin
+L: Along the margin of a bay: | Вдоль берега залива: | a lo largo de la orilla de una bahía:
+L: Ten thousand saw I at a glance, | Десять тысяч увидел я с одного взгляда, | Diez mil vi de una sola mirada,
+P: at a glance | с одного взгляда | de una sola mirada
+L: Tossing their heads in sprightly dance. | Они качали головками в бодром танце. | agitando sus cabezas en un baile animado.
+S: verse
+L: The waves beside them danced; but they | Рядом плясали волны, но они | Las olas a su lado bailaban; pero ellos
+L: Out-did the sparkling waves in glee: | Превзошли искристые волны весельем: | superaban en alegría a las olas brillantes:
+L: A poet could not but be gay, | Поэт не мог не веселиться | Un poeta no podía sino alegrarse
+P: could not but be | не мог не быть | no podía sino ser | could not but + глагол — «не мог не»
+L: In such a jocund company: | В такой весёлой компании: | en tan alegre compañía:
+L: I gazed—and gazed—but little thought | Я смотрел и смотрел, но не думал | Miré y miré, pero poco pensé
+L: What wealth the show to me had brought: | Какое богатство мне принесло это зрелище: | qué riqueza me había traído aquel espectáculo:
+S: verse
+L: For oft, when on my couch I lie | Ведь часто, когда я лежу на диване | Pues a menudo, cuando me tiendo en mi lecho
+P: For oft | ведь часто | pues a menudo | oft — поэтическое often
+L: In vacant or in pensive mood, | В праздном или задумчивом настроении, | de ánimo vacío o pensativo,
+L: They flash upon that inward eye | Они вспыхивают перед внутренним взором, | ellos destellan ante ese ojo interior
+P: inward eye | внутренний взор | ojo interior
+L: Which is the bliss of solitude; | Который — блаженство одиночества; | que es la dicha de la soledad;
+L: And then my heart with pleasure fills, | И тогда моё сердце наполняется радостью | Y entonces mi corazón se llena de placer
+L: And dances with the daffodils. | И пляшет вместе с нарциссами. | y baila con los narcisos.
+P: dances with the daffodils | пляшет с нарциссами | baila con los narcisos
+=== rima-liii-volveran-las-oscuras-golondrinas | poem | es | Rima LIII | Рима LIII («Вернутся тёмные ласточки») | Rhyme LIII | Gustavo Adolfo Bécquer (1871) | 1871 | C1 | love,classic
+note: Одна из самых известных «Рим» Беккера: о том, что возвращается, а что нет. Будущее время — volverán, abrirán, despertará | One of Bécquer's best-known Rimas: about what returns and what doesn't. Notice the future tense. | Una de las Rimas más conocidas de Bécquer. Fíjate en el futuro: volverán, abrirán.
+S: verse
+L: Volverán las oscuras golondrinas | Вернутся тёмные ласточки | The dark swallows will return
+P: Volverán | вернутся | will return | futuro simple: volver + án
+L: en tu balcón sus nidos a colgar, | на твой балкон вешать свои гнёзда, | to hang their nests on your balcony,
+L: y otra vez con el ala a sus cristales | и снова крылом в твои стёкла | and once again with a wing at your windowpanes
+P: otra vez | снова | once again
+L: jugando llamarán; | играя, постучат; | playing, they will knock;
+S: verse
+L: pero aquellas que el vuelo refrenaban | но те, что сдерживали полёт, | but those that held back their flight
+L: tu hermosura y mi dicha al contemplar, | любуясь твоей красотой и моим счастьем, | to behold your beauty and my joy,
+L: aquellas que aprendieron nuestros nombres, | те, что выучили наши имена, | those that learned our names,
+L: esas... ¡no volverán! | те... не вернутся! | those... will not return!
+P: no volverán | не вернутся | will not return
+S: verse
+L: Volverán las tupidas madreselvas | Вернётся густая жимолость | The thick honeysuckles will return
+L: de tu jardín las tapias a escalar, | карабкаться по стенам твоего сада, | to climb the walls of your garden,
+L: y otra vez a la tarde aún más hermosas | и вновь вечером, ещё прекраснее, | and again in the evening, even lovelier,
+L: sus flores se abrirán; | распустятся её цветы; | their flowers will open;
+P: se abrirán | распустятся | will open
+S: verse
+L: pero aquellas, cuajadas de rocío | но те, покрытые росой, | but those, covered with dew
+L: cuyas gotas mirábamos temblar | чьи капли мы смотрели, как дрожат | whose drops we watched tremble
+L: y caer como lágrimas del día... | и падают, как слёзы дня... | and fall like tears of the day...
+L: esas... ¡no volverán! | те... не вернутся! | those... will not return!
+S: verse
+L: Volverán del amor en tus oídos | Вернутся и в твои уши слова любви, | The ardent words of love will return
+L: las palabras ardientes a sonar; | пламенные, зазвучат; | to sound in your ears;
+L: tu corazón de su profundo sueño | твоё сердце от глубокого сна | your heart from its deep sleep
+L: tal vez despertará; | быть может, пробудится; | may perhaps awaken;
+P: tal vez | быть может | perhaps
+S: verse
+L: pero mudo y absorto y de rodillas | но немым, поглощённым, на коленях, | but silent, absorbed and on my knees,
+L: como se adora a Dios ante su altar, | как молятся Богу пред алтарём, | as one adores God before his altar,
+L: como yo te he querido..., desengáñate, | как я тебя любил... — разуверься, | as I have loved you..., undeceive yourself,
+P: como yo te he querido | как я тебя любил | as I have loved you | pretérito perfecto: he querido (haber + причастие)
+L: ¡así... no te querrán! | так... тебя не полюбят! | like that... they will not love you!
+=== caminante-no-hay-camino | poem | es | Caminante, no hay camino | Путник, нет дороги | Wayfarer, there is no road | Antonio Machado (1912) | 1912 | B2 | life,classic
+note: Стихотворение из «Пословиц и песен» Мачадо (XXIX). Главная мысль: дорога появляется, когда идёшь | From Machado's Proverbios y cantares (XXIX). The idea: the road is made by walking. | De Proverbios y cantares (XXIX) de Machado. Idea: el camino se hace al andar.
+S: verse
+L: Caminante, son tus huellas | Путник, твои следы | Wayfarer, your footprints
+P: Caminante | путник | wayfarer, walker | caminar → caminante: «тот, кто идёт»
+L: el camino y nada más; | и есть дорога, и ничего больше; | are the road and nothing more;
+P: nada más | ничего больше | nothing more
+L: caminante, no hay camino, | путник, нет дороги, | wayfarer, there is no road,
+P: no hay camino | нет дороги | there is no road | hay — «есть, имеется»; no hay — «нет»
+L: se hace camino al andar. | дорога прокладывается при ходьбе. | the road is made by walking.
+P: se hace camino al andar | дорога делается на ходу | the road is made by walking | al + инфинитив — «когда, в процессе»
+S: verse
+L: Al andar se hace camino, | Идя, прокладываешь дорогу, | By walking the road is made,
+L: y al volver la vista atrás | и, оглянувшись назад, | and on looking back
+P: al volver la vista atrás | оглянувшись назад | on looking back
+L: se ve la senda que nunca | видишь тропу, по которой уже никогда | you see the path that will never
+L: se ha de volver a pisar. | не придётся ступать снова. | be trodden again.
+S: verse
+L: Caminante, no hay camino, | Путник, нет дороги, | Wayfarer, there is no road,
+L: sino estelas en la mar. | лишь следы на море. | only wakes upon the sea.
+P: sino | а лишь, но | but only | sino — «а, но» после отрицания
+=== cultivo-una-rosa-blanca | poem | es | Cultivo una rosa blanca | Я выращиваю белую розу | I grow a white rose | José Martí (1891) | 1891 | B1 | friends,classic
+note: Стихотворение Хосе Марти из «Простых стихов» (XXXIX). О дружбе и о том, как отвечать на зло добром | A poem by José Martí from Versos sencillos (XXXIX). About friendship and answering unkindness with kindness. | Poema de José Martí de Versos sencillos (XXXIX). Sobre la amistad y la bondad.
+S: verse
+L: Cultivo una rosa blanca, | Я выращиваю белую розу, | I grow a white rose,
+P: una rosa blanca | белая роза | a white rose | прилагательное после существительного
+L: en julio como en enero, | в июле, как и в январе, | in July as in January,
+P: en julio como en enero | и в июле, и в январе | in July as in January
+L: para el amigo sincero | для искреннего друга, | for the sincere friend
+P: el amigo sincero | искренний друг | the sincere friend
+L: que me da su mano franca. | что даёт мне свою открытую руку. | who gives me his open hand.
+P: su mano franca | открытая рука | his open hand | mano — женский род, хотя на -o
+S: verse
+L: Y para el cruel que me arranca | А для жестокого, что вырывает | And for the cruel one who tears out
+L: el corazón con que vivo, | сердце, которым я живу, | the heart I live with,
+L: cardo ni ortiga cultivo; | ни чертополоха, ни крапивы не выращиваю; | I grow neither thistle nor nettle;
+P: cardo ni ortiga | ни чертополоха, ни крапивы | neither thistle nor nettle | ni… ni — «ни… ни»
+L: cultivo una rosa blanca. | выращиваю белую розу. | I grow a white rose.
+=== nada-te-turbe | poem | es | Nada te turbe | Пусть ничто не тревожит тебя | Let nothing disturb you | Teresa de Ávila (siglo XVI) | | B1 | classic,calm
+note: Короткое стихотворение Терезы Авильской (XVI в.), его часто поют как молитву. Много простых глаголов в настоящем времени | A short poem by Teresa of Ávila (16th c.), often sung as a prayer. Lots of simple present-tense verbs. | Poema breve de Teresa de Ávila (s. XVI), a menudo cantado como oración. Muchos verbos sencillos en presente.
+S: verse
+L: Nada te turbe, | Пусть ничто не тревожит тебя, | Let nothing disturb you,
+P: Nada te turbe | пусть ничто не тревожит тебя | let nothing disturb you | turbe — форма конъюнктива (пожелание)
+L: nada te espante, | пусть ничто не пугает тебя, | let nothing frighten you,
+L: todo se pasa, | всё проходит, | everything passes,
+P: todo se pasa | всё проходит | everything passes
+L: Dios no se muda, | Бог не меняется, | God does not change,
+L: la paciencia | терпение | patience
+L: todo lo alcanza; | всего достигает; | achieves everything;
+P: todo lo alcanza | всего достигает | achieves everything | lo — «это», стоит перед глаголом
+L: quien a Dios tiene | у кого есть Бог, | whoever has God
+L: nada le falta: | тому ничего не недостаёт: | lacks nothing:
+P: nada le falta | ему ничего не недостаёт | he lacks nothing | faltar — «недоставать»; le — «ему»
+L: solo Dios basta. | достаточно одного Бога. | God alone is enough.
+P: solo Dios basta | достаточно одного Бога | God alone is enough | bastar — «быть достаточным»
+=== de-colores | song | es | De colores | Разноцветные | In colours | народная песня | | A2 | folk,colors,spring
+note: Народная песня, которую поют по всей Латинской Америке. Простые слова и яркий припев о цветах | A folk song sung across Latin America. Simple words and a colorful refrain. | Canción popular de toda Latinoamérica. Palabras sencillas y estribillo colorido.
+S: verse
+L: De colores, | Разноцветные, | Of colours,
+L: de colores se visten los campos en la primavera. | разноцветными становятся поля весной. | the fields dress in colours in the spring.
+P: se visten los campos | поля одеваются | the fields dress | vestirse — «одеваться»; se — возвратная частица
+P: en la primavera | весной | in the spring
+L: De colores, | Разноцветные, | Of colours,
+L: de colores son los pajaritos que vienen de afuera. | разноцветные птички, что прилетают издалека. | the little birds that come from afar are colourful.
+P: los pajaritos | птички | the little birds | -ito — уменьшительный суффикс
+L: De colores, | Разноцветная, | Colourful,
+L: de colores es el arco iris que vemos lucir. | разноцветная радуга, что мы видим сияющей. | the rainbow we see shining is colourful.
+P: el arco iris | радуга | the rainbow
+L: Y por eso los grandes amores | И потому большие любви | And that is why great loves
+L: de muchos colores me gustan a mí. | многоцветные мне нравятся. | of many colours please me.
+P: me gustan a mí | мне нравятся | I like them | gustar — «нравиться»: gustan, потому что amores во мн. числе

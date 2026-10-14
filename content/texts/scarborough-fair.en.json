@@ -1,0 +1,141 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "scarborough-fair",
+  "kind": "song",
+  "lang": "en",
+  "license": "public-domain",
+  "title": {
+    "en": "Scarborough Fair",
+    "ru": "Ярмарка в Скарборо",
+    "es": "Feria de Scarborough"
+  },
+  "author": "народная английская баллада",
+  "level": "B2",
+  "tags": [
+    "folk",
+    "love",
+    "classic"
+  ],
+  "note": {
+    "ru": "Старинная английская баллада о задаче для бывшей возлюбленной. Травы в припеве (petrushka, sage, rosemary, thyme) — традиционный рефрен",
+    "en": "A traditional English ballad. The herbs in the refrain are a classic refrain.",
+    "es": "Balada tradicional inglesa. Las hierbas del estribillo son un clásico."
+  },
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Are you going to Scarborough Fair?",
+          "ru": "Ты едешь на ярмарку в Скарборо?",
+          "es": "¿Vas a la feria de Scarborough?",
+          "phrases": [
+            {
+              "en": "Are you going to",
+              "ru": "ты едешь на",
+              "es": "¿Vas a",
+              "note": {
+                "ru": "Present Continuous для планов: Are you going to…?"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Parsley, sage, rosemary and thyme,",
+          "ru": "Петрушка, шалфей, розмарин и тимьян,",
+          "es": "Perejil, salvia, romero y tomillo,",
+          "phrases": [
+            {
+              "en": "rosemary and thyme",
+              "ru": "розмарин и тимьян",
+              "es": "romero y tomillo"
+            }
+          ]
+        },
+        {
+          "en": "Remember me to one who lives there,",
+          "ru": "Передай привет той, кто там живёт,",
+          "es": "Dame recuerdos a la que vive allí,",
+          "phrases": [
+            {
+              "en": "Remember me to",
+              "ru": "передай от меня привет",
+              "es": "dale recuerdos de mi parte",
+              "note": {
+                "ru": "устаревший оборот: remember me to someone"
+              }
+            }
+          ]
+        },
+        {
+          "en": "She once was a true love of mine.",
+          "ru": "Когда-то она была моей настоящей любовью.",
+          "es": "Ella fue una vez mi verdadero amor.",
+          "phrases": [
+            {
+              "en": "once was",
+              "ru": "когда-то была",
+              "es": "fue una vez",
+              "note": {
+                "ru": "once — однажды, когда-то"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Tell her to make me a cambric shirt,",
+          "ru": "Скажи ей сшить мне батистовую рубашку,",
+          "es": "Dile que me haga una camisa de batista,",
+          "phrases": [
+            {
+              "en": "Tell her to make me",
+              "ru": "скажи ей сшить мне",
+              "es": "dile que me haga",
+              "note": {
+                "ru": "tell someone to + глагол — «сказать кому-то сделать»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Parsley, sage, rosemary and thyme,",
+          "ru": "Петрушка, шалфей, розмарин и тимьян,",
+          "es": "Perejil, salvia, romero y tomillo,"
+        },
+        {
+          "en": "Without no seam nor needlework,",
+          "ru": "Без шва и без шитья,",
+          "es": "Sin costura ni aguja,",
+          "phrases": [
+            {
+              "en": "seam nor needlework",
+              "ru": "шов и шитьё",
+              "es": "costura ni aguja"
+            }
+          ]
+        },
+        {
+          "en": "Then she'll be a true love of mine.",
+          "ru": "Тогда она будет моей настоящей любовью.",
+          "es": "Entonces será mi verdadero amor.",
+          "phrases": [
+            {
+              "en": "she'll be",
+              "ru": "она будет",
+              "es": "ella será",
+              "note": {
+                "ru": "she'll = she will"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

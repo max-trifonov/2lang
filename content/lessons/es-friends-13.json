@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-13",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 13,
+  "level": "A2",
+  "title": {
+    "ru": "Семья и родители",
+    "en": "Talking about family",
+    "es": "Hablar de la familia"
+  },
+  "words": [
+    "visitar",
+    "padre",
+    "orgulloso"
+  ],
+  "phrase": {
+    "es": "Visito a mis padres los domingos. Están muy orgullosos de mí.",
+    "ru": "По воскресеньям я навещаю родителей. Они очень гордятся мной.",
+    "en": "I visit my parents on Sundays. They're very proud of me."
+  },
+  "rule": {
+    "text": {
+      "ru": "Visitar a + человек: visito a mis padres (a личное). Los padres — «родители», el padre — «отец». Estar orgulloso de — «гордиться».",
+      "en": "Visitar a + person: visito a mis padres (personal a). Los padres means \"parents\", el padre \"father\". Estar orgulloso de = to be proud of.",
+      "es": "visitar a + persona. los padres. orgulloso de."
+    },
+    "examples": [
+      {
+        "es": "Visito a mi abuela.",
+        "ru": "Я навещаю бабушку."
+      },
+      {
+        "es": "Estoy orgulloso de ti.",
+        "ru": "Я горжусь тобой."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Los domingos ___ a mi abuela.",
+      "answer": "visito",
+      "ru": "По воскресеньям я навещаю бабушку."
+    },
+    {
+      "type": "fill",
+      "es": "Mis ___ viven en Moscú.",
+      "answer": "padres",
+      "ru": "Мои родители живут в Москве."
+    },
+    {
+      "type": "build",
+      "es": "Mi padre está orgulloso de mí.",
+      "ru": "Мой отец гордится мной.",
+      "extra": [
+        "visita"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я навещаю родителей.",
+      "answer": [
+        "Visito a mis padres."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

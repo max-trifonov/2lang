@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-20",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 20,
+  "level": "B1",
+  "title": {
+    "ru": "Собеседование",
+    "en": "A job interview",
+    "es": "Entrevista de trabajo"
+  },
+  "words": [
+    "apply",
+    "experience",
+    "confident"
+  ],
+  "phrase": {
+    "en": "I'd like to apply for this job. I have three years of experience.",
+    "ru": "Я хотел бы подать заявку на эту работу. У меня три года опыта.",
+    "es": "Quisiera solicitar este puesto. Tengo tres años de experiencia."
+  },
+  "rule": {
+    "text": {
+      "ru": "Подать заявку на — apply for: apply for a job. experience в значении «опыт» неисчисляемое: three years of experience.",
+      "en": "Apply for a job. Experience meaning \"know-how\" is uncountable: three years of experience.",
+      "es": "apply for. experience (conocimiento) es incontable."
+    },
+    "examples": [
+      {
+        "en": "I applied for a job last week.",
+        "ru": "На прошлой неделе я подал заявку на работу."
+      },
+      {
+        "en": "I feel confident about the interview.",
+        "ru": "Я уверен в себе перед собеседованием."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I want to ___ for a developer position.",
+      "answer": "apply",
+      "ru": "Я хочу подать заявку на должность разработчика."
+    },
+    {
+      "type": "fill",
+      "en": "She has a lot of ___ with databases.",
+      "answer": "experience",
+      "ru": "У неё большой опыт работы с базами данных."
+    },
+    {
+      "type": "build",
+      "en": "I feel confident about my experience.",
+      "ru": "Я уверен в своём опыте.",
+      "extra": [
+        "applies"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я подал заявку на работу.",
+      "answer": [
+        "I applied for a job.",
+        "I have applied for a job."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

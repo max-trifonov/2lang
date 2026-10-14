@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-24",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 24,
+  "level": "B1",
+  "title": {
+    "ru": "Прощание",
+    "en": "Saying goodbye",
+    "es": "Despedirse"
+  },
+  "words": [
+    "promise",
+    "touch-noun",
+    "soon"
+  ],
+  "phrase": {
+    "en": "Let's keep in touch! I promise I'll write soon.",
+    "ru": "Давай оставаться на связи! Обещаю, скоро напишу.",
+    "es": "¡Mantengámonos en contacto! Te prometo que escribiré pronto."
+  },
+  "rule": {
+    "text": {
+      "ru": "Остаться на связи — keep in touch / stay in touch. Обещание — I promise I'll + глагол. Прощание — See you soon! Take care!",
+      "en": "Stay connected with keep in touch or stay in touch. Promise with I promise I'll + verb. Say See you soon! or Take care!",
+      "es": "Mantener el contacto: keep in touch. Promesa: I promise I'll + verbo."
+    },
+    "examples": [
+      {
+        "en": "Take care of yourself!",
+        "ru": "Береги себя!"
+      },
+      {
+        "en": "See you soon!",
+        "ru": "До скорой встречи!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I ___ I'll call you tomorrow.",
+      "answer": "promise",
+      "ru": "Обещаю, что позвоню тебе завтра."
+    },
+    {
+      "type": "fill",
+      "en": "Let's keep in ___.",
+      "answer": "touch",
+      "ru": "Давай оставаться на связи."
+    },
+    {
+      "type": "build",
+      "en": "We promised to keep in touch.",
+      "ru": "Мы пообещали оставаться на связи.",
+      "extra": [
+        "promises"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Скоро увидимся!",
+      "answer": [
+        "See you soon!"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

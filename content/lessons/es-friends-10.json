@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-10",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 10,
+  "level": "A2",
+  "title": {
+    "ru": "Поездка с друзьями",
+    "en": "A trip with friends",
+    "es": "Un viaje con amigos"
+  },
+  "words": [
+    "viajar",
+    "coche",
+    "barato"
+  ],
+  "phrase": {
+    "es": "Vamos a viajar en coche con mis amigos. Es barato.",
+    "ru": "Мы поедем на машине с друзьями. Это дёшево.",
+    "en": "We're going to travel by car with my friends. It's cheap."
+  },
+  "rule": {
+    "text": {
+      "ru": "На транспорте — en + транспорт: en coche, en tren, en avión; но a pie — «пешком». Barato — «дешёвый», противоположность — caro.",
+      "en": "By transport: en + vehicle: en coche, en tren; but a pie, on foot. Barato = cheap; the opposite is caro.",
+      "es": "en coche, en tren; a pie. barato ≠ caro."
+    },
+    "examples": [
+      {
+        "es": "Viajamos en tren.",
+        "ru": "Мы едем на поезде."
+      },
+      {
+        "es": "El hotel es barato y limpio.",
+        "ru": "Отель недорогой и чистый."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "En verano ___ mucho con amigos.",
+      "answer": "viajamos",
+      "ru": "Летом мы много путешествуем с друзьями."
+    },
+    {
+      "type": "fill",
+      "es": "Mi ___ es pequeño pero cómodo.",
+      "answer": "coche",
+      "ru": "Моя машина маленькая, но удобная."
+    },
+    {
+      "type": "build",
+      "es": "Viajamos en coche porque es barato.",
+      "ru": "Мы едем на машине, потому что это дёшево.",
+      "extra": [
+        "viajas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Мы поедем на машине.",
+      "answer": [
+        "Vamos a viajar en coche.",
+        "Vamos en coche."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

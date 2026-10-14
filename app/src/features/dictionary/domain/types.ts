@@ -18,7 +18,7 @@ export const DICT_POS = [
 ] as const
 export type DictPos = (typeof DICT_POS)[number]
 
-export const TOPICS = ['travel', 'it', 'daily'] as const
+export const TOPICS = ['travel', 'it', 'daily', 'friends'] as const
 export type Topic = (typeof TOPICS)[number]
 
 export const GENDERS = ['m', 'f', 'mf'] as const

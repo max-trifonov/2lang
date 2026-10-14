@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-24",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 24,
+  "level": "B1",
+  "title": {
+    "ru": "Комментарии коллег",
+    "en": "Feedback from colleagues",
+    "es": "Comentarios de los colegas"
+  },
+  "words": [
+    "suggest",
+    "comment",
+    "helpful"
+  ],
+  "phrase": {
+    "en": "Thanks for the helpful comment. I suggest we change the name.",
+    "ru": "Спасибо за полезный комментарий. Предлагаю поменять название.",
+    "es": "Gracias por el comentario útil. Sugiero que cambiemos el nombre."
+  },
+  "rule": {
+    "text": {
+      "ru": "После suggest — we + глагол или -ing: I suggest we change… / I suggest changing…. Не suggest to change.",
+      "en": "After suggest use we + verb or -ing: I suggest we change… / I suggest changing…. Not suggest to change.",
+      "es": "suggest + we + verbo o -ing. No suggest to."
+    },
+    "examples": [
+      {
+        "en": "I suggest we meet tomorrow.",
+        "ru": "Предлагаю встретиться завтра."
+      },
+      {
+        "en": "Can I leave a comment?",
+        "ru": "Можно оставить комментарий?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I ___ we change the plan.",
+      "answer": "suggest",
+      "ru": "Предлагаю изменить план."
+    },
+    {
+      "type": "fill",
+      "en": "Please leave a ___ under the post.",
+      "answer": "comment",
+      "ru": "Пожалуйста, оставьте комментарий под постом."
+    },
+    {
+      "type": "build",
+      "en": "Thanks for your helpful comment.",
+      "ru": "Спасибо за ваш полезный комментарий.",
+      "extra": [
+        "suggests"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я предлагаю встретиться.",
+      "answer": [
+        "I suggest we meet.",
+        "I suggest meeting."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

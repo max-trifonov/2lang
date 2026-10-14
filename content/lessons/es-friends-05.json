@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-05",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 5,
+  "level": "A1",
+  "title": {
+    "ru": "День рождения",
+    "en": "A birthday",
+    "es": "Un cumpleaños"
+  },
+  "words": [
+    "celebrar",
+    "cumpleaños",
+    "feliz"
+  ],
+  "phrase": {
+    "es": "Hoy celebramos mi cumpleaños. ¡Estoy muy feliz!",
+    "ru": "Сегодня мы празднуем мой день рождения. Я очень счастлив!",
+    "en": "Today we celebrate my birthday. I'm very happy!"
+  },
+  "rule": {
+    "text": {
+      "ru": "Поздравление — ¡Feliz cumpleaños! Возраст — tener + años: Tengo treinta años. Cumpleaños — одно слово, во мн. числе то же: los cumpleaños.",
+      "en": "Greeting: ¡Feliz cumpleaños! Age uses tener: Tengo treinta años. Cumpleaños is the same in the plural.",
+      "es": "¡Feliz cumpleaños! tener + años. Plural: los cumpleaños."
+    },
+    "examples": [
+      {
+        "es": "¡Feliz cumpleaños, Ana!",
+        "ru": "С днём рождения, Ана!"
+      },
+      {
+        "es": "Mi hermano tiene veinte años.",
+        "ru": "Моему брату двадцать лет."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Hoy vamos a ___ en casa.",
+      "answer": "celebrar",
+      "ru": "Сегодня мы отметим дома."
+    },
+    {
+      "type": "fill",
+      "es": "Mañana es mi ___.",
+      "answer": "cumpleaños",
+      "ru": "Завтра мой день рождения."
+    },
+    {
+      "type": "build",
+      "es": "Celebramos el cumpleaños de mi madre.",
+      "ru": "Мы празднуем день рождения моей мамы.",
+      "extra": [
+        "celebras"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "С днём рождения!",
+      "answer": [
+        "¡Feliz cumpleaños!"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

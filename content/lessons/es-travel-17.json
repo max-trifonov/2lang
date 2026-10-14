@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-17",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 17,
+  "level": "A2",
+  "title": {
+    "ru": "Как далеко?",
+    "en": "How far is it?",
+    "es": "¿A qué distancia está?"
+  },
+  "words": [
+    "caminar",
+    "distancia",
+    "cerca"
+  ],
+  "phrase": {
+    "es": "Está cerca. Puedes caminar. La distancia es corta.",
+    "ru": "Это рядом. Можно дойти пешком. Расстояние небольшое.",
+    "en": "It's close. You can walk. The distance is short."
+  },
+  "rule": {
+    "text": {
+      "ru": "Пешком — caminar или a pie. Сколько времени — Tarda diez minutos a pie. Distancia — «расстояние», женский род: la distancia.",
+      "en": "On foot: caminar or a pie. Time: Tarda diez minutos a pie. Distancia is feminine: la distancia.",
+      "es": "a pie. Tarda diez minutos. la distancia."
+    },
+    "examples": [
+      {
+        "es": "Tarda diez minutos a pie.",
+        "ru": "Идти десять минут пешком."
+      },
+      {
+        "es": "¿A qué distancia está la playa?",
+        "ru": "Как далеко пляж?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Podemos ___ hasta la plaza.",
+      "answer": "caminar",
+      "ru": "Мы можем дойти до площади пешком."
+    },
+    {
+      "type": "fill",
+      "es": "La ___ hasta el hotel es corta.",
+      "answer": "distancia",
+      "ru": "До отеля недалеко."
+    },
+    {
+      "type": "build",
+      "es": "La playa está cerca, podemos caminar.",
+      "ru": "Пляж рядом, можно дойти пешком.",
+      "extra": [
+        "caminas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Это рядом.",
+      "answer": [
+        "Está cerca."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

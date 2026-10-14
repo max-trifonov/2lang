@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-07",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 7,
+  "level": "A1",
+  "title": {
+    "ru": "Вечер кино",
+    "en": "Movie night",
+    "es": "Noche de cine"
+  },
+  "words": [
+    "ver",
+    "película",
+    "divertido"
+  ],
+  "phrase": {
+    "es": "¿Vemos una película esta noche? Es muy divertida.",
+    "ru": "Посмотрим фильм сегодня вечером? Он очень весёлый.",
+    "en": "Shall we watch a movie tonight? It's very funny."
+  },
+  "rule": {
+    "text": {
+      "ru": "Предложение — форма «мы» в вопросе: ¿Vemos…? («Давай посмотрим?»). Ver — «смотреть» кино и ТВ; mirar — «смотреть на».",
+      "en": "A suggestion: the \"we\" form as a question: ¿Vemos…? We use ver for films and TV; mirar means \"to look at\".",
+      "es": "¿Vemos…? = ¿Quieres que veamos…? ver una película."
+    },
+    "examples": [
+      {
+        "es": "¿Vemos algo en la tele?",
+        "ru": "Посмотрим что-нибудь по телевизору?"
+      },
+      {
+        "es": "La película es muy buena.",
+        "ru": "Фильм очень хороший."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "¿___ una película esta noche?",
+      "answer": "Vemos",
+      "ru": "Посмотрим фильм сегодня вечером?"
+    },
+    {
+      "type": "fill",
+      "es": "Es una película muy ___.",
+      "answer": "divertida",
+      "ru": "Это очень забавный фильм."
+    },
+    {
+      "type": "build",
+      "es": "Vemos una película divertida en casa.",
+      "ru": "Мы смотрим весёлый фильм дома.",
+      "extra": [
+        "veo"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Давай посмотрим фильм.",
+      "answer": [
+        "Vemos una película.",
+        "¿Vemos una película?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

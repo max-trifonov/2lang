@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-18",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 18,
+  "level": "A2",
+  "title": {
+    "ru": "Нет соединения",
+    "en": "No connection",
+    "es": "Sin conexión"
+  },
+  "words": [
+    "conectar",
+    "red",
+    "imposible"
+  ],
+  "phrase": {
+    "es": "No puedo conectar con la red. Es imposible trabajar así.",
+    "ru": "Я не могу подключиться к сети. Так работать невозможно.",
+    "en": "I can't connect to the network. It's impossible to work like this."
+  },
+  "rule": {
+    "text": {
+      "ru": "Не могу — no puedo + инфинитив. Es imposible + инфинитив — «невозможно сделать». Conectar con la red — подключиться к сети.",
+      "en": "I can't: no puedo + infinitive. Es imposible + infinitive = it's impossible to. Conectar con la red = connect to the network.",
+      "es": "no puedo + infinitivo. Es imposible + infinitivo."
+    },
+    "examples": [
+      {
+        "es": "No puedo entrar en mi cuenta.",
+        "ru": "Я не могу войти в аккаунт."
+      },
+      {
+        "es": "La red está caída.",
+        "ru": "Сеть не работает."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "No puedo ___ con la red.",
+      "answer": "conectar",
+      "ru": "Я не могу подключиться к сети."
+    },
+    {
+      "type": "fill",
+      "es": "La ___ está muy lenta.",
+      "answer": "red",
+      "ru": "Сеть очень медленная."
+    },
+    {
+      "type": "build",
+      "es": "Es imposible conectar con la red hoy.",
+      "ru": "Сегодня невозможно подключиться к сети.",
+      "extra": [
+        "conectas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Сеть не работает.",
+      "answer": [
+        "La red no funciona.",
+        "La red está caída."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "rima-liii-volveran-las-oscuras-golondrinas",
+  "kind": "poem",
+  "lang": "es",
+  "license": "public-domain",
+  "title": {
+    "es": "Rima LIII",
+    "ru": "Рима LIII («Вернутся тёмные ласточки»)",
+    "en": "Rhyme LIII"
+  },
+  "author": "Gustavo Adolfo Bécquer (1871)",
+  "year": 1871,
+  "level": "C1",
+  "tags": [
+    "love",
+    "classic"
+  ],
+  "note": {
+    "ru": "Одна из самых известных «Рим» Беккера: о том, что возвращается, а что нет. Будущее время — volverán, abrirán, despertará",
+    "en": "One of Bécquer's best-known Rimas: about what returns and what doesn't. Notice the future tense.",
+    "es": "Una de las Rimas más conocidas de Bécquer. Fíjate en el futuro: volverán, abrirán."
+  },
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "es": "Volverán las oscuras golondrinas",
+          "ru": "Вернутся тёмные ласточки",
+          "en": "The dark swallows will return",
+          "phrases": [
+            {
+              "es": "Volverán",
+              "ru": "вернутся",
+              "en": "will return",
+              "note": {
+                "ru": "futuro simple: volver + án"
+              }
+            }
+          ]
+        },
+        {
+          "es": "en tu balcón sus nidos a colgar,",
+          "ru": "на твой балкон вешать свои гнёзда,",
+          "en": "to hang their nests on your balcony,"
+        },
+        {
+          "es": "y otra vez con el ala a sus cristales",
+          "ru": "и снова крылом в твои стёкла",
+          "en": "and once again with a wing at your windowpanes",
+          "phrases": [
+            {
+              "es": "otra vez",
+              "ru": "снова",
+              "en": "once again"
+            }
+          ]
+        },
+        {
+          "es": "jugando llamarán;",
+          "ru": "играя, постучат;",
+          "en": "playing, they will knock;"
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "es": "pero aquellas que el vuelo refrenaban",
+          "ru": "но те, что сдерживали полёт,",
+          "en": "but those that held back their flight"
+        },
+        {
+          "es": "tu hermosura y mi dicha al contemplar,",
+          "ru": "любуясь твоей красотой и моим счастьем,",
+          "en": "to behold your beauty and my joy,"
+        },
+        {
+          "es": "aquellas que aprendieron nuestros nombres,",
+          "ru": "те, что выучили наши имена,",
+          "en": "those that learned our names,"
+        },
+        {
+          "es": "esas... ¡no volverán!",
+          "ru": "те... не вернутся!",
+          "en": "those... will not return!",
+          "phrases": [
+            {
+              "es": "no volverán",
+              "ru": "не вернутся",
+              "en": "will not return"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "es": "Volverán las tupidas madreselvas",
+          "ru": "Вернётся густая жимолость",
+          "en": "The thick honeysuckles will return"
+        },
+        {
+          "es": "de tu jardín las tapias a escalar,",
+          "ru": "карабкаться по стенам твоего сада,",
+          "en": "to climb the walls of your garden,"
+        },
+        {
+          "es": "y otra vez a la tarde aún más hermosas",
+          "ru": "и вновь вечером, ещё прекраснее,",
+          "en": "and again in the evening, even lovelier,"
+        },
+        {
+          "es": "sus flores se abrirán;",
+          "ru": "распустятся её цветы;",
+          "en": "their flowers will open;",
+          "phrases": [
+            {
+              "es": "se abrirán",
+              "ru": "распустятся",
+              "en": "will open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "es": "pero aquellas, cuajadas de rocío",
+          "ru": "но те, покрытые росой,",
+          "en": "but those, covered with dew"
+        },
+        {
+          "es": "cuyas gotas mirábamos temblar",
+          "ru": "чьи капли мы смотрели, как дрожат",
+          "en": "whose drops we watched tremble"
+        },
+        {
+          "es": "y caer como lágrimas del día...",
+          "ru": "и падают, как слёзы дня...",
+          "en": "and fall like tears of the day..."
+        },
+        {
+          "es": "esas... ¡no volverán!",
+          "ru": "те... не вернутся!",
+          "en": "those... will not return!"
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "es": "Volverán del amor en tus oídos",
+          "ru": "Вернутся и в твои уши слова любви,",
+          "en": "The ardent words of love will return"
+        },
+        {
+          "es": "las palabras ardientes a sonar;",
+          "ru": "пламенные, зазвучат;",
+          "en": "to sound in your ears;"
+        },
+        {
+          "es": "tu corazón de su profundo sueño",
+          "ru": "твоё сердце от глубокого сна",
+          "en": "your heart from its deep sleep"
+        },
+        {
+          "es": "tal vez despertará;",
+          "ru": "быть может, пробудится;",
+          "en": "may perhaps awaken;",
+          "phrases": [
+            {
+              "es": "tal vez",
+              "ru": "быть может",
+              "en": "perhaps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "es": "pero mudo y absorto y de rodillas",
+          "ru": "но немым, поглощённым, на коленях,",
+          "en": "but silent, absorbed and on my knees,"
+        },
+        {
+          "es": "como se adora a Dios ante su altar,",
+          "ru": "как молятся Богу пред алтарём,",
+          "en": "as one adores God before his altar,"
+        },
+        {
+          "es": "como yo te he querido..., desengáñate,",
+          "ru": "как я тебя любил... — разуверься,",
+          "en": "as I have loved you..., undeceive yourself,",
+          "phrases": [
+            {
+              "es": "como yo te he querido",
+              "ru": "как я тебя любил",
+              "en": "as I have loved you",
+              "note": {
+                "ru": "pretérito perfecto: he querido (haber + причастие)"
+              }
+            }
+          ]
+        },
+        {
+          "es": "¡así... no te querrán!",
+          "ru": "так... тебя не полюбят!",
+          "en": "like that... they will not love you!"
+        }
+      ]
+    }
+  ]
+}

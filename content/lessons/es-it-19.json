@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-19",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 19,
+  "level": "A2",
+  "title": {
+    "ru": "Поиск данных",
+    "en": "Searching for data",
+    "es": "Buscar datos"
+  },
+  "words": [
+    "buscar",
+    "dato",
+    "rápidamente"
+  ],
+  "phrase": {
+    "es": "Busco un dato en la lista. Lo encuentro rápidamente.",
+    "ru": "Я ищу данные в списке. Нахожу их быстро.",
+    "en": "I'm looking for a piece of data in the list. I find it quickly."
+  },
+  "rule": {
+    "text": {
+      "ru": "Buscar — «искать» без предлога: busco el archivo (не busco por). Lo, la — «его, её»: lo encuentro. Rápidamente — «быстро».",
+      "en": "Buscar means \"to look for\", no preposition: busco el archivo. Lo, la = it: lo encuentro. Rápidamente = quickly.",
+      "es": "buscar (sin preposición). lo / la."
+    },
+    "examples": [
+      {
+        "es": "Busco el archivo en la carpeta.",
+        "ru": "Я ищу файл в папке."
+      },
+      {
+        "es": "Lo encuentro rápidamente.",
+        "ru": "Я нахожу его быстро."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Yo ___ los datos en la base.",
+      "answer": "busco",
+      "ru": "Я ищу данные в базе."
+    },
+    {
+      "type": "fill",
+      "es": "Falta un ___ en la lista.",
+      "answer": "dato",
+      "ru": "В списке не хватает одной записи."
+    },
+    {
+      "type": "build",
+      "es": "Busco un dato y lo encuentro rápidamente.",
+      "ru": "Я ищу данные и быстро нахожу.",
+      "extra": [
+        "buscas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я ищу файл.",
+      "answer": [
+        "Busco el archivo.",
+        "Busco un archivo."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

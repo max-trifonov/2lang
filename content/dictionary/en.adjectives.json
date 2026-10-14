@@ -10,6 +10,7 @@
       "lemma": "good",
       "pos": "adj",
       "rank": 1,
+      "level": "A1",
       "translations": {
         "ru": "хороший"
       },
@@ -39,6 +40,7 @@
       "lemma": "little",
       "pos": "adj",
       "rank": 2,
+      "level": "A1",
       "translations": {
         "ru": "маленький; a little — немного"
       },
@@ -68,6 +70,7 @@
       "lemma": "sorry",
       "pos": "adj",
       "rank": 3,
+      "level": "A1",
       "translations": {
         "ru": "сожалеющий; sorry — простите"
       },
@@ -92,6 +95,7 @@
       "lemma": "much",
       "pos": "adj",
       "rank": 4,
+      "level": "A1",
       "translations": {
         "ru": "много (с неисчисляемыми)"
       },
@@ -123,6 +127,7 @@
       "lemma": "sure",
       "pos": "adj",
       "rank": 5,
+      "level": "A1",
       "translations": {
         "ru": "уверенный; sure! — конечно!"
       },
@@ -148,6 +153,7 @@
       "lemma": "great",
       "pos": "adj",
       "rank": 6,
+      "level": "A1",
       "translations": {
         "ru": "отличный; великий; огромный"
       },
@@ -177,6 +183,7 @@
       "lemma": "other",
       "pos": "adj",
       "rank": 7,
+      "level": "A1",
       "translations": {
         "ru": "другой"
       },
@@ -201,6 +208,7 @@
       "lemma": "last",
       "pos": "adj",
       "rank": 8,
+      "level": "A1",
       "translations": {
         "ru": "последний; прошлый"
       },
@@ -226,6 +234,7 @@
       "lemma": "new",
       "pos": "adj",
       "rank": 9,
+      "level": "A1",
       "translations": {
         "ru": "новый"
       },
@@ -255,6 +264,7 @@
       "lemma": "big",
       "pos": "adj",
       "rank": 10,
+      "level": "A1",
       "translations": {
         "ru": "большой"
       },
@@ -284,6 +294,7 @@
       "lemma": "old",
       "pos": "adj",
       "rank": 11,
+      "level": "A1",
       "translations": {
         "ru": "старый"
       },
@@ -313,6 +324,7 @@
       "lemma": "bad",
       "pos": "adj",
       "rank": 12,
+      "level": "A1",
       "translations": {
         "ru": "плохой"
       },
@@ -342,6 +354,7 @@
       "lemma": "fine",
       "pos": "adj",
       "rank": 13,
+      "level": "A1",
       "translations": {
         "ru": "прекрасный; в порядке"
       },
@@ -370,6 +383,7 @@
       "lemma": "nice",
       "pos": "adj",
       "rank": 14,
+      "level": "A1",
       "translations": {
         "ru": "приятный, милый, хороший"
       },
@@ -399,6 +413,7 @@
       "lemma": "wrong",
       "pos": "adj",
       "rank": 15,
+      "level": "A1",
       "translations": {
         "ru": "неправильный; не тот"
       },
@@ -424,6 +439,7 @@
       "lemma": "own",
       "pos": "adj",
       "rank": 16,
+      "level": "A1",
       "translations": {
         "ru": "собственный"
       },
@@ -449,6 +465,7 @@
       "lemma": "same",
       "pos": "adj",
       "rank": 17,
+      "level": "A1",
       "translations": {
         "ru": "тот же самый"
       },
@@ -474,6 +491,7 @@
       "lemma": "next",
       "pos": "adj",
       "rank": 18,
+      "level": "A1",
       "translations": {
         "ru": "следующий"
       },
@@ -499,6 +517,7 @@
       "lemma": "dead",
       "pos": "adj",
       "rank": 19,
+      "level": "A1",
       "translations": {
         "ru": "мёртвый; разряженный (о батарее)"
       },
@@ -523,6 +542,7 @@
       "lemma": "many",
       "pos": "adj",
       "rank": 20,
+      "level": "A1",
       "translations": {
         "ru": "много (с исчисляемыми)"
       },
@@ -551,6 +571,7 @@
       "lemma": "real",
       "pos": "adj",
       "rank": 21,
+      "level": "A1",
       "translations": {
         "ru": "настоящий, реальный"
       },
@@ -576,6 +597,7 @@
       "lemma": "live",
       "pos": "adj",
       "rank": 22,
+      "level": "A1",
       "translations": {
         "ru": "живой; прямой (эфир)"
       },
@@ -601,6 +623,7 @@
       "lemma": "happy",
       "pos": "adj",
       "rank": 23,
+      "level": "A1",
       "translations": {
         "ru": "счастливый, довольный"
       },
@@ -630,6 +653,7 @@
       "lemma": "ready",
       "pos": "adj",
       "rank": 24,
+      "level": "A1",
       "translations": {
         "ru": "готовый"
       },
@@ -655,6 +679,7 @@
       "lemma": "such",
       "pos": "adj",
       "rank": 25,
+      "level": "A1",
       "translations": {
         "ru": "такой"
       },
@@ -679,6 +704,7 @@
       "lemma": "whole",
       "pos": "adj",
       "rank": 26,
+      "level": "A1",
       "translations": {
         "ru": "целый, весь"
       },
@@ -703,6 +729,7 @@
       "lemma": "hard",
       "pos": "adj",
       "rank": 27,
+      "level": "A1",
       "translations": {
         "ru": "трудный; твёрдый"
       },
@@ -732,6 +759,7 @@
       "lemma": "few",
       "pos": "adj",
       "rank": 28,
+      "level": "A1",
       "translations": {
         "ru": "немногие; a few — несколько"
       },
@@ -760,6 +788,7 @@
       "lemma": "open",
       "pos": "adj",
       "rank": 29,
+      "level": "A1",
       "translations": {
         "ru": "открытый"
       },
@@ -785,6 +814,7 @@
       "lemma": "young",
       "pos": "adj",
       "rank": 30,
+      "level": "A1",
       "translations": {
         "ru": "молодой"
       },
@@ -814,6 +844,7 @@
       "lemma": "true",
       "pos": "adj",
       "rank": 31,
+      "level": "A1",
       "translations": {
         "ru": "верный, правдивый"
       },
@@ -839,6 +870,7 @@
       "lemma": "easy",
       "pos": "adj",
       "rank": 32,
+      "level": "A1",
       "translations": {
         "ru": "лёгкий, простой"
       },
@@ -868,6 +900,7 @@
       "lemma": "beautiful",
       "pos": "adj",
       "rank": 33,
+      "level": "A1",
       "translations": {
         "ru": "красивый"
       },
@@ -897,6 +930,7 @@
       "lemma": "second",
       "pos": "adj",
       "rank": 34,
+      "level": "A1",
       "translations": {
         "ru": "второй"
       },
@@ -921,6 +955,7 @@
       "lemma": "crazy",
       "pos": "adj",
       "rank": 35,
+      "level": "A1",
       "translations": {
         "ru": "сумасшедший"
       },
@@ -950,6 +985,7 @@
       "lemma": "different",
       "pos": "adj",
       "rank": 36,
+      "level": "A1",
       "translations": {
         "ru": "другой, разный"
       },
@@ -979,6 +1015,7 @@
       "lemma": "afraid",
       "pos": "adj",
       "rank": 37,
+      "level": "A1",
       "translations": {
         "ru": "испуганный; I'm afraid — боюсь, что"
       },
@@ -1003,6 +1040,7 @@
       "lemma": "dear",
       "pos": "adj",
       "rank": 38,
+      "level": "A1",
       "translations": {
         "ru": "дорогой (обращение)"
       },
@@ -1028,6 +1066,7 @@
       "lemma": "important",
       "pos": "adj",
       "rank": 39,
+      "level": "A1",
       "translations": {
         "ru": "важный"
       },
@@ -1057,6 +1096,7 @@
       "lemma": "least",
       "pos": "adj",
       "rank": 40,
+      "level": "A1",
       "translations": {
         "ru": "наименьший; at least — по крайней мере"
       },
@@ -1081,6 +1121,7 @@
       "lemma": "high",
       "pos": "adj",
       "rank": 41,
+      "level": "A1",
       "translations": {
         "ru": "высокий"
       },
@@ -1110,6 +1151,7 @@
       "lemma": "able",
       "pos": "adj",
       "rank": 42,
+      "level": "A1",
       "translations": {
         "ru": "способный; be able to — мочь"
       },
@@ -1135,6 +1177,7 @@
       "lemma": "cool",
       "pos": "adj",
       "rank": 43,
+      "level": "A1",
       "translations": {
         "ru": "прохладный; классный"
       },
@@ -1163,6 +1206,7 @@
       "lemma": "half",
       "pos": "adj",
       "rank": 44,
+      "level": "A1",
       "translations": {
         "ru": "половинный; половина"
       },
@@ -1187,6 +1231,7 @@
       "lemma": "free",
       "pos": "adj",
       "rank": 45,
+      "level": "A1",
       "translations": {
         "ru": "свободный; бесплатный"
       },
@@ -1216,6 +1261,7 @@
       "lemma": "stupid",
       "pos": "adj",
       "rank": 46,
+      "level": "A1",
       "translations": {
         "ru": "глупый"
       },
@@ -1245,6 +1291,7 @@
       "lemma": "full",
       "pos": "adj",
       "rank": 47,
+      "level": "A1",
       "translations": {
         "ru": "полный"
       },
@@ -1274,6 +1321,7 @@
       "lemma": "hot",
       "pos": "adj",
       "rank": 48,
+      "level": "A1",
       "translations": {
         "ru": "горячий; жаркий; острый"
       },
@@ -1302,6 +1350,7 @@
       "lemma": "small",
       "pos": "adj",
       "rank": 49,
+      "level": "A1",
       "translations": {
         "ru": "маленький"
       },
@@ -1331,6 +1380,7 @@
       "lemma": "safe",
       "pos": "adj",
       "rank": 50,
+      "level": "A1",
       "translations": {
         "ru": "безопасный"
       },
@@ -1360,6 +1410,7 @@
       "lemma": "black",
       "pos": "adj",
       "rank": 51,
+      "level": "A1",
       "translations": {
         "ru": "чёрный"
       },
@@ -1384,6 +1435,7 @@
       "lemma": "funny",
       "pos": "adj",
       "rank": 52,
+      "level": "A1",
       "translations": {
         "ru": "смешной, забавный"
       },
@@ -1413,6 +1465,7 @@
       "lemma": "alive",
       "pos": "adj",
       "rank": 53,
+      "level": "A1",
       "translations": {
         "ru": "живой"
       },
@@ -1438,6 +1491,7 @@
       "lemma": "white",
       "pos": "adj",
       "rank": 54,
+      "level": "A1",
       "translations": {
         "ru": "белый"
       },
@@ -1463,6 +1517,7 @@
       "lemma": "perfect",
       "pos": "adj",
       "rank": 55,
+      "level": "A1",
       "translations": {
         "ru": "идеальный"
       },
@@ -1488,6 +1543,7 @@
       "lemma": "special",
       "pos": "adj",
       "rank": 56,
+      "level": "A1",
       "translations": {
         "ru": "особенный"
       },
@@ -1517,6 +1573,7 @@
       "lemma": "poor",
       "pos": "adj",
       "rank": 57,
+      "level": "A1",
       "translations": {
         "ru": "бедный; плохой (по качеству)"
       },
@@ -1546,6 +1603,7 @@
       "lemma": "sick",
       "pos": "adj",
       "rank": 58,
+      "level": "A1",
       "translations": {
         "ru": "больной; меня тошнит (feel sick)"
       },
@@ -1570,6 +1628,7 @@
       "lemma": "serious",
       "pos": "adj",
       "rank": 59,
+      "level": "A1",
       "translations": {
         "ru": "серьёзный"
       },
@@ -1599,6 +1658,7 @@
       "lemma": "red",
       "pos": "adj",
       "rank": 60,
+      "level": "A1",
       "translations": {
         "ru": "красный"
       },
@@ -1624,6 +1684,7 @@
       "lemma": "past",
       "pos": "adj",
       "rank": 61,
+      "level": "A1",
       "translations": {
         "ru": "прошлый, прошедший"
       },
@@ -1649,6 +1710,7 @@
       "lemma": "possible",
       "pos": "adj",
       "rank": 62,
+      "level": "A1",
       "translations": {
         "ru": "возможный"
       },
@@ -1674,6 +1736,7 @@
       "lemma": "strong",
       "pos": "adj",
       "rank": 63,
+      "level": "A1",
       "translations": {
         "ru": "сильный; крепкий"
       },
@@ -1703,6 +1766,7 @@
       "lemma": "top",
       "pos": "adj",
       "rank": 64,
+      "level": "A1",
       "translations": {
         "ru": "верхний; лучший"
       },
@@ -1727,6 +1791,7 @@
       "lemma": "glad",
       "pos": "adj",
       "rank": 65,
+      "level": "A1",
       "translations": {
         "ru": "довольный, радостный"
       },
@@ -1751,6 +1816,7 @@
       "lemma": "cold",
       "pos": "adj",
       "rank": 66,
+      "level": "A1",
       "translations": {
         "ru": "холодный"
       },
@@ -1779,6 +1845,7 @@
       "lemma": "fast",
       "pos": "adj",
       "rank": 67,
+      "level": "A1",
       "translations": {
         "ru": "быстрый"
       },
@@ -1808,6 +1875,7 @@
       "lemma": "sweet",
       "pos": "adj",
       "rank": 68,
+      "level": "A1",
       "translations": {
         "ru": "сладкий; милый"
       },
@@ -1836,6 +1904,7 @@
       "lemma": "strange",
       "pos": "adj",
       "rank": 69,
+      "level": "A1",
       "translations": {
         "ru": "странный"
       },
@@ -1865,6 +1934,7 @@
       "lemma": "lucky",
       "pos": "adj",
       "rank": 70,
+      "level": "A1",
       "translations": {
         "ru": "везучий"
       },
@@ -1893,6 +1963,7 @@
       "lemma": "quiet",
       "pos": "adj",
       "rank": 71,
+      "level": "A1",
       "translations": {
         "ru": "тихий, спокойный"
       },
@@ -1922,6 +1993,7 @@
       "lemma": "careful",
       "pos": "adj",
       "rank": 72,
+      "level": "A1",
       "translations": {
         "ru": "осторожный"
       },
@@ -1950,6 +2022,7 @@
       "lemma": "secret",
       "pos": "adj",
       "rank": 73,
+      "level": "A1",
       "translations": {
         "ru": "секретный"
       },
@@ -1974,6 +2047,7 @@
       "lemma": "wonderful",
       "pos": "adj",
       "rank": 74,
+      "level": "A1",
       "translations": {
         "ru": "чудесный"
       },
@@ -2003,6 +2077,7 @@
       "lemma": "mad",
       "pos": "adj",
       "rank": 75,
+      "level": "A1",
       "translations": {
         "ru": "сумасшедший; злой (разг.)"
       },
@@ -2032,6 +2107,7 @@
       "lemma": "clean",
       "pos": "adj",
       "rank": 76,
+      "level": "A1",
       "translations": {
         "ru": "чистый"
       },
@@ -2060,6 +2136,7 @@
       "lemma": "quick",
       "pos": "adj",
       "rank": 77,
+      "level": "A1",
       "translations": {
         "ru": "быстрый"
       },
@@ -2089,6 +2166,7 @@
       "lemma": "worth",
       "pos": "adj",
       "rank": 78,
+      "level": "A1",
       "translations": {
         "ru": "стоящий; be worth — стоить того"
       },
@@ -2113,6 +2191,7 @@
       "lemma": "weird",
       "pos": "adj",
       "rank": 79,
+      "level": "A1",
       "translations": {
         "ru": "странный, чудной (разг.)"
       },
@@ -2142,6 +2221,7 @@
       "lemma": "amazing",
       "pos": "adj",
       "rank": 80,
+      "level": "A1",
       "translations": {
         "ru": "потрясающий"
       },
@@ -2171,6 +2251,7 @@
       "lemma": "busy",
       "pos": "adj",
       "rank": 81,
+      "level": "A1",
       "translations": {
         "ru": "занятой; оживлённый"
       },
@@ -2200,6 +2281,7 @@
       "lemma": "general",
       "pos": "adj",
       "rank": 82,
+      "level": "A1",
       "translations": {
         "ru": "общий"
       },
@@ -2225,6 +2307,7 @@
       "lemma": "tired",
       "pos": "adj",
       "rank": 83,
+      "level": "A1",
       "translations": {
         "ru": "уставший"
       },
@@ -2253,6 +2336,7 @@
       "lemma": "dark",
       "pos": "adj",
       "rank": 84,
+      "level": "A1",
       "translations": {
         "ru": "тёмный"
       },
@@ -2281,6 +2365,7 @@
       "lemma": "round",
       "pos": "adj",
       "rank": 85,
+      "level": "A1",
       "translations": {
         "ru": "круглый; round trip — туда и обратно"
       },
@@ -2305,6 +2390,7 @@
       "lemma": "terrible",
       "pos": "adj",
       "rank": 86,
+      "level": "A1",
       "translations": {
         "ru": "ужасный"
       },
@@ -2334,6 +2420,7 @@
       "lemma": "simple",
       "pos": "adj",
       "rank": 87,
+      "level": "A1",
       "translations": {
         "ru": "простой"
       },
@@ -2362,6 +2449,7 @@
       "lemma": "short",
       "pos": "adj",
       "rank": 88,
+      "level": "A1",
       "translations": {
         "ru": "короткий; низкий (рост)"
       },
@@ -2390,6 +2478,7 @@
       "lemma": "blue",
       "pos": "adj",
       "rank": 89,
+      "level": "A2",
       "translations": {
         "ru": "синий, голубой"
       },
@@ -2414,6 +2503,7 @@
       "lemma": "lovely",
       "pos": "adj",
       "rank": 90,
+      "level": "A2",
       "translations": {
         "ru": "прекрасный, милый"
       },
@@ -2443,6 +2533,7 @@
       "lemma": "entire",
       "pos": "adj",
       "rank": 91,
+      "level": "A2",
       "translations": {
         "ru": "весь, целый"
       },
@@ -2467,6 +2558,7 @@
       "lemma": "middle",
       "pos": "adj",
       "rank": 92,
+      "level": "A2",
       "translations": {
         "ru": "средний; in the middle — посередине"
       },
@@ -2491,6 +2583,7 @@
       "lemma": "fair",
       "pos": "adj",
       "rank": 93,
+      "level": "A2",
       "translations": {
         "ru": "справедливый; ярмарка"
       },
@@ -2520,6 +2613,7 @@
       "lemma": "dangerous",
       "pos": "adj",
       "rank": 94,
+      "level": "A2",
       "translations": {
         "ru": "опасный"
       },
@@ -2549,6 +2643,7 @@
       "lemma": "interesting",
       "pos": "adj",
       "rank": 95,
+      "level": "A2",
       "translations": {
         "ru": "интересный"
       },
@@ -2578,6 +2673,7 @@
       "lemma": "deep",
       "pos": "adj",
       "rank": 96,
+      "level": "A2",
       "translations": {
         "ru": "глубокий"
       },
@@ -2606,6 +2702,7 @@
       "lemma": "single",
       "pos": "adj",
       "rank": 97,
+      "level": "A2",
       "translations": {
         "ru": "одиночный; одноместный; холостой"
       },
@@ -2631,6 +2728,7 @@
       "lemma": "rich",
       "pos": "adj",
       "rank": 98,
+      "level": "A2",
       "translations": {
         "ru": "богатый"
       },
@@ -2660,6 +2758,7 @@
       "lemma": "normal",
       "pos": "adj",
       "rank": 99,
+      "level": "A2",
       "translations": {
         "ru": "обычный"
       },
@@ -2689,6 +2788,7 @@
       "lemma": "tough",
       "pos": "adj",
       "rank": 100,
+      "level": "A2",
       "translations": {
         "ru": "трудный; жёсткий"
       },
@@ -2714,10 +2814,1018 @@
       }
     },
     {
+      "id": "present-adj",
+      "lemma": "present",
+      "pos": "adj",
+      "rank": 101,
+      "level": "A2",
+      "translations": {
+        "ru": "присутствующий; нынешний"
+      },
+      "forms": {
+        "comparative": "more present",
+        "superlative": "most present"
+      },
+      "examples": [
+        {
+          "en": "Is everyone present?",
+          "ru": "Все присутствуют?",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "smart",
+      "lemma": "smart",
+      "pos": "adj",
+      "rank": 102,
+      "level": "A2",
+      "translations": {
+        "ru": "умный; нарядный"
+      },
+      "forms": {
+        "comparative": "smarter",
+        "superlative": "smartest"
+      },
+      "examples": [
+        {
+          "en": "That was a smart idea.",
+          "ru": "Это была умная мысль.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "key-adj",
+      "lemma": "key",
+      "pos": "adj",
+      "rank": 103,
+      "level": "A2",
+      "translations": {
+        "ru": "ключевой"
+      },
+      "examples": [
+        {
+          "en": "The key point is the price.",
+          "ru": "Ключевой момент — цена.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "certain",
+      "lemma": "certain",
+      "pos": "adj",
+      "rank": 104,
+      "level": "A2",
+      "translations": {
+        "ru": "определённый; уверенный"
+      },
+      "forms": {
+        "comparative": "more certain",
+        "superlative": "most certain"
+      },
+      "examples": [
+        {
+          "en": "I'm certain we booked a double room.",
+          "ru": "Я уверен, что мы бронировали двухместный номер.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "interested",
+      "lemma": "interested",
+      "pos": "adj",
+      "rank": 105,
+      "level": "A2",
+      "translations": {
+        "ru": "заинтересованный"
+      },
+      "forms": {
+        "comparative": "more interested",
+        "superlative": "most interested"
+      },
+      "examples": [
+        {
+          "en": "I'm interested in Spanish music.",
+          "ru": "Я интересуюсь испанской музыкой.",
+          "topic": "friends"
+        }
+      ],
+      "note": {
+        "ru": "interested in + существительное; interesting — «интересный»"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "major",
+      "lemma": "major",
+      "pos": "adj",
+      "rank": 106,
+      "level": "A2",
+      "translations": {
+        "ru": "главный, крупный"
+      },
+      "examples": [
+        {
+          "en": "There is a major problem with the server.",
+          "ru": "Есть серьёзная проблема с сервером.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "difficult",
+      "lemma": "difficult",
+      "pos": "adj",
+      "rank": 107,
+      "level": "A2",
+      "translations": {
+        "ru": "трудный"
+      },
+      "forms": {
+        "comparative": "more difficult",
+        "superlative": "most difficult"
+      },
+      "examples": [
+        {
+          "en": "The exam was difficult.",
+          "ru": "Экзамен был трудным.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "personal",
+      "lemma": "personal",
+      "pos": "adj",
+      "rank": 108,
+      "level": "A2",
+      "translations": {
+        "ru": "личный"
+      },
+      "forms": {
+        "comparative": "more personal",
+        "superlative": "most personal"
+      },
+      "examples": [
+        {
+          "en": "This is a personal message.",
+          "ru": "Это личное сообщение.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "proud",
+      "lemma": "proud",
+      "pos": "adj",
+      "rank": 109,
+      "level": "A2",
+      "translations": {
+        "ru": "гордый"
+      },
+      "forms": {
+        "comparative": "prouder",
+        "superlative": "proudest"
+      },
+      "examples": [
+        {
+          "en": "I'm proud of you.",
+          "ru": "Я горжусь тобой.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "angry",
+      "lemma": "angry",
+      "pos": "adj",
+      "rank": 110,
+      "level": "A2",
+      "translations": {
+        "ru": "злой, сердитый"
+      },
+      "forms": {
+        "comparative": "angrier",
+        "superlative": "angriest"
+      },
+      "examples": [
+        {
+          "en": "He was angry about the delay.",
+          "ru": "Он был зол из-за задержки.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "sad",
+      "lemma": "sad",
+      "pos": "adj",
+      "rank": 111,
+      "level": "A2",
+      "translations": {
+        "ru": "грустный"
+      },
+      "forms": {
+        "comparative": "sadder",
+        "superlative": "saddest"
+      },
+      "examples": [
+        {
+          "en": "The ending was really sad.",
+          "ru": "Концовка была очень грустной.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "drunk",
+      "lemma": "drunk",
+      "pos": "adj",
+      "rank": 112,
+      "level": "A2",
+      "translations": {
+        "ru": "пьяный"
+      },
+      "forms": {
+        "comparative": "more drunk",
+        "superlative": "most drunk"
+      },
+      "examples": [
+        {
+          "en": "He was a bit drunk after the party.",
+          "ru": "Он немного перебрал после вечеринки.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "honest",
+      "lemma": "honest",
+      "pos": "adj",
+      "rank": 113,
+      "level": "A2",
+      "translations": {
+        "ru": "честный"
+      },
+      "forms": {
+        "comparative": "more honest",
+        "superlative": "most honest"
+      },
+      "examples": [
+        {
+          "en": "Be honest with me.",
+          "ru": "Будь со мной честен.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "third",
+      "lemma": "third",
+      "pos": "adj",
+      "rank": 114,
+      "level": "A2",
+      "translations": {
+        "ru": "третий"
+      },
+      "examples": [
+        {
+          "en": "Our room is on the third floor.",
+          "ru": "Наш номер на третьем этаже.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "hungry",
+      "lemma": "hungry",
+      "pos": "adj",
+      "rank": 115,
+      "level": "A2",
+      "translations": {
+        "ru": "голодный"
+      },
+      "forms": {
+        "comparative": "hungrier",
+        "superlative": "hungriest"
+      },
+      "examples": [
+        {
+          "en": "I'm hungry, let's eat.",
+          "ru": "Я проголодался, давай поедим.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "private",
+      "lemma": "private",
+      "pos": "adj",
+      "rank": 116,
+      "level": "A2",
+      "translations": {
+        "ru": "частный; личный"
+      },
+      "forms": {
+        "comparative": "more private",
+        "superlative": "most private"
+      },
+      "examples": [
+        {
+          "en": "Is it a private beach?",
+          "ru": "Это частный пляж?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "cute",
+      "lemma": "cute",
+      "pos": "adj",
+      "rank": 117,
+      "level": "A2",
+      "translations": {
+        "ru": "милый"
+      },
+      "forms": {
+        "comparative": "cuter",
+        "superlative": "cutest"
+      },
+      "examples": [
+        {
+          "en": "Your dog is so cute!",
+          "ru": "Твоя собака такая милая!",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "slow",
+      "lemma": "slow",
+      "pos": "adj",
+      "rank": 118,
+      "level": "A2",
+      "translations": {
+        "ru": "медленный"
+      },
+      "forms": {
+        "comparative": "slower",
+        "superlative": "slowest"
+      },
+      "examples": [
+        {
+          "en": "The wifi is very slow.",
+          "ru": "Вайфай очень медленный.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "large",
+      "lemma": "large",
+      "pos": "adj",
+      "rank": 119,
+      "level": "A2",
+      "translations": {
+        "ru": "большой"
+      },
+      "forms": {
+        "comparative": "larger",
+        "superlative": "largest"
+      },
+      "examples": [
+        {
+          "en": "We need a large table.",
+          "ru": "Нам нужен большой стол.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "french",
+      "lemma": "french",
+      "pos": "adj",
+      "rank": 120,
+      "level": "A2",
+      "translations": {
+        "ru": "французский"
+      },
+      "examples": [
+        {
+          "en": "They speak French at the hotel.",
+          "ru": "В отеле говорят по-французски.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "impossible",
+      "lemma": "impossible",
+      "pos": "adj",
+      "rank": 121,
+      "level": "A2",
+      "translations": {
+        "ru": "невозможный"
+      },
+      "forms": {
+        "comparative": "more impossible",
+        "superlative": "most impossible"
+      },
+      "examples": [
+        {
+          "en": "It's impossible to book a table tonight.",
+          "ru": "Сегодня вечером невозможно забронировать столик.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "huge",
+      "lemma": "huge",
+      "pos": "adj",
+      "rank": 122,
+      "level": "A2",
+      "translations": {
+        "ru": "огромный"
+      },
+      "forms": {
+        "comparative": "huger",
+        "superlative": "hugest"
+      },
+      "examples": [
+        {
+          "en": "The room is huge.",
+          "ru": "Номер огромный.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "south",
+      "lemma": "south",
+      "pos": "adj",
+      "rank": 123,
+      "level": "A2",
+      "translations": {
+        "ru": "южный"
+      },
+      "examples": [
+        {
+          "en": "We went to the south of Spain.",
+          "ru": "Мы ездили на юг Испании.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "dirty",
+      "lemma": "dirty",
+      "pos": "adj",
+      "rank": 124,
+      "level": "A2",
+      "translations": {
+        "ru": "грязный"
+      },
+      "forms": {
+        "comparative": "dirtier",
+        "superlative": "dirtiest"
+      },
+      "examples": [
+        {
+          "en": "The towels were dirty.",
+          "ru": "Полотенца были грязными.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fat",
+      "lemma": "fat",
+      "pos": "adj",
+      "rank": 125,
+      "level": "A2",
+      "translations": {
+        "ru": "жирный; толстый"
+      },
+      "forms": {
+        "comparative": "fatter",
+        "superlative": "fattest"
+      },
+      "examples": [
+        {
+          "en": "Cheese has a lot of fat.",
+          "ru": "В сыре много жира.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "final",
+      "lemma": "final",
+      "pos": "adj",
+      "rank": 126,
+      "level": "A2",
+      "translations": {
+        "ru": "окончательный; финальный"
+      },
+      "forms": {
+        "comparative": "more final",
+        "superlative": "most final"
+      },
+      "examples": [
+        {
+          "en": "This is the final price.",
+          "ru": "Это окончательная цена.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "low",
+      "lemma": "low",
+      "pos": "adj",
+      "rank": 127,
+      "level": "A2",
+      "translations": {
+        "ru": "низкий"
+      },
+      "forms": {
+        "comparative": "lower",
+        "superlative": "lowest"
+      },
+      "examples": [
+        {
+          "en": "The price is quite low.",
+          "ru": "Цена довольно низкая.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "nervous",
+      "lemma": "nervous",
+      "pos": "adj",
+      "rank": 128,
+      "level": "A2",
+      "translations": {
+        "ru": "нервничающий"
+      },
+      "forms": {
+        "comparative": "more nervous",
+        "superlative": "most nervous"
+      },
+      "examples": [
+        {
+          "en": "I'm nervous before flights.",
+          "ru": "Я нервничаю перед полётами.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fit-adj",
+      "lemma": "fit",
+      "pos": "adj",
+      "rank": 129,
+      "level": "A2",
+      "translations": {
+        "ru": "в форме; подходящий"
+      },
+      "forms": {
+        "comparative": "fitter",
+        "superlative": "fittest"
+      },
+      "examples": [
+        {
+          "en": "He's very fit for his age.",
+          "ru": "Для своего возраста он в отличной форме.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "awesome",
+      "lemma": "awesome",
+      "pos": "adj",
+      "rank": 130,
+      "level": "A2",
+      "translations": {
+        "ru": "потрясающий"
+      },
+      "forms": {
+        "comparative": "more awesome",
+        "superlative": "most awesome"
+      },
+      "examples": [
+        {
+          "en": "The concert was awesome!",
+          "ru": "Концерт был потрясающим!",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "surprised",
+      "lemma": "surprised",
+      "pos": "adj",
+      "rank": 131,
+      "level": "A2",
+      "translations": {
+        "ru": "удивлённый"
+      },
+      "forms": {
+        "comparative": "more surprised",
+        "superlative": "most surprised"
+      },
+      "examples": [
+        {
+          "en": "I was surprised to see you here.",
+          "ru": "Я удивился, увидев тебя здесь.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "innocent",
+      "lemma": "innocent",
+      "pos": "adj",
+      "rank": 132,
+      "level": "A2",
+      "translations": {
+        "ru": "невиновный"
+      },
+      "forms": {
+        "comparative": "more innocent",
+        "superlative": "most innocent"
+      },
+      "examples": [
+        {
+          "en": "The kids look so innocent.",
+          "ru": "Дети выглядят такими невинными.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "guilty",
+      "lemma": "guilty",
+      "pos": "adj",
+      "rank": 134,
+      "level": "A2",
+      "translations": {
+        "ru": "виноватый"
+      },
+      "forms": {
+        "comparative": "guiltier",
+        "superlative": "guiltiest"
+      },
+      "examples": [
+        {
+          "en": "I feel guilty about being late.",
+          "ru": "Мне стыдно, что я опоздал.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "heavy",
+      "lemma": "heavy",
+      "pos": "adj",
+      "rank": 135,
+      "level": "A2",
+      "translations": {
+        "ru": "тяжёлый"
+      },
+      "forms": {
+        "comparative": "heavier",
+        "superlative": "heaviest"
+      },
+      "examples": [
+        {
+          "en": "My suitcase is too heavy.",
+          "ru": "Мой чемодан слишком тяжёлый.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "pregnant",
+      "lemma": "pregnant",
+      "pos": "adj",
+      "rank": 136,
+      "level": "A2",
+      "translations": {
+        "ru": "беременная"
+      },
+      "forms": {
+        "comparative": "more pregnant",
+        "superlative": "most pregnant"
+      },
+      "examples": [
+        {
+          "en": "She is five months pregnant.",
+          "ru": "У неё пятый месяц беременности.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "favorite",
+      "lemma": "favorite",
+      "pos": "adj",
+      "rank": 137,
+      "level": "A2",
+      "translations": {
+        "ru": "любимый"
+      },
+      "examples": [
+        {
+          "en": "What's your favorite song?",
+          "ru": "Какая твоя любимая песня?",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "silly",
+      "lemma": "silly",
+      "pos": "adj",
+      "rank": 138,
+      "level": "A2",
+      "translations": {
+        "ru": "глупый, дурацкий"
+      },
+      "forms": {
+        "comparative": "sillier",
+        "superlative": "silliest"
+      },
+      "examples": [
+        {
+          "en": "It's a silly mistake.",
+          "ru": "Это глупая ошибка.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fresh",
+      "lemma": "fresh",
+      "pos": "adj",
+      "rank": 139,
+      "level": "A2",
+      "translations": {
+        "ru": "свежий"
+      },
+      "forms": {
+        "comparative": "fresher",
+        "superlative": "freshest"
+      },
+      "examples": [
+        {
+          "en": "The bread is fresh.",
+          "ru": "Хлеб свежий.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "complete",
+      "lemma": "complete",
+      "pos": "adj",
+      "rank": 140,
+      "level": "A2",
+      "translations": {
+        "ru": "полный; завершённый"
+      },
+      "forms": {
+        "comparative": "more complete",
+        "superlative": "most complete"
+      },
+      "examples": [
+        {
+          "en": "The installation is complete.",
+          "ru": "Установка завершена.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "double",
+      "lemma": "double",
+      "pos": "adj",
+      "rank": 141,
+      "level": "A2",
+      "translations": {
+        "ru": "двойной"
+      },
+      "examples": [
+        {
+          "en": "We booked a double room.",
+          "ru": "Мы забронировали двухместный номер.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "wild",
+      "lemma": "wild",
+      "pos": "adj",
+      "rank": 142,
+      "level": "A2",
+      "translations": {
+        "ru": "дикий"
+      },
+      "forms": {
+        "comparative": "wilder",
+        "superlative": "wildest"
+      },
+      "examples": [
+        {
+          "en": "We saw wild horses.",
+          "ru": "Мы видели диких лошадей.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "empty",
+      "lemma": "empty",
+      "pos": "adj",
+      "rank": 143,
+      "level": "A2",
+      "translations": {
+        "ru": "пустой"
+      },
+      "forms": {
+        "comparative": "emptier",
+        "superlative": "emptiest"
+      },
+      "examples": [
+        {
+          "en": "The bus was almost empty.",
+          "ru": "Автобус был почти пустой.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "warm",
+      "lemma": "warm",
+      "pos": "adj",
+      "rank": 144,
+      "level": "A2",
+      "translations": {
+        "ru": "тёплый"
+      },
+      "forms": {
+        "comparative": "warmer",
+        "superlative": "warmest"
+      },
+      "examples": [
+        {
+          "en": "The sea is warm in August.",
+          "ru": "В августе море тёплое.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
       "id": "extra",
       "lemma": "extra",
       "pos": "adj",
       "rank": 145,
+      "level": "A2",
       "translations": {
         "ru": "дополнительный, лишний"
       },
@@ -2738,10 +3846,123 @@
       }
     },
     {
+      "id": "ridiculous",
+      "lemma": "ridiculous",
+      "pos": "adj",
+      "rank": 146,
+      "level": "A2",
+      "translations": {
+        "ru": "нелепый"
+      },
+      "forms": {
+        "comparative": "more ridiculous",
+        "superlative": "most ridiculous"
+      },
+      "examples": [
+        {
+          "en": "The price is ridiculous.",
+          "ru": "Цена просто нелепая.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "medical",
+      "lemma": "medical",
+      "pos": "adj",
+      "rank": 147,
+      "level": "A2",
+      "translations": {
+        "ru": "медицинский"
+      },
+      "examples": [
+        {
+          "en": "You need medical insurance.",
+          "ru": "Вам нужна медицинская страховка.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "famous",
+      "lemma": "famous",
+      "pos": "adj",
+      "rank": 148,
+      "level": "A2",
+      "translations": {
+        "ru": "известный"
+      },
+      "forms": {
+        "comparative": "more famous",
+        "superlative": "most famous"
+      },
+      "examples": [
+        {
+          "en": "This café is famous for its churros.",
+          "ru": "Это кафе известно своими чуррос.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "asleep",
+      "lemma": "asleep",
+      "pos": "adj",
+      "rank": 149,
+      "level": "A2",
+      "translations": {
+        "ru": "спящий"
+      },
+      "examples": [
+        {
+          "en": "The kids are asleep.",
+          "ru": "Дети спят.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "awful",
+      "lemma": "awful",
+      "pos": "adj",
+      "rank": 150,
+      "level": "A2",
+      "translations": {
+        "ru": "ужасный"
+      },
+      "forms": {
+        "comparative": "more awful",
+        "superlative": "most awful"
+      },
+      "examples": [
+        {
+          "en": "The weather was awful.",
+          "ru": "Погода была ужасной.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
       "id": "local",
       "lemma": "local",
       "pos": "adj",
       "rank": 151,
+      "level": "A2",
       "translations": {
         "ru": "местный"
       },
@@ -2762,10 +3983,150 @@
       }
     },
     {
+      "id": "willing",
+      "lemma": "willing",
+      "pos": "adj",
+      "rank": 152,
+      "level": "A2",
+      "translations": {
+        "ru": "готовый, согласный"
+      },
+      "forms": {
+        "comparative": "more willing",
+        "superlative": "most willing"
+      },
+      "examples": [
+        {
+          "en": "Are you willing to help?",
+          "ru": "Ты готов помочь?",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "excellent",
+      "lemma": "excellent",
+      "pos": "adj",
+      "rank": 153,
+      "level": "A2",
+      "translations": {
+        "ru": "отличный"
+      },
+      "examples": [
+        {
+          "en": "The service was excellent.",
+          "ru": "Обслуживание было отличным.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "responsible",
+      "lemma": "responsible",
+      "pos": "adj",
+      "rank": 154,
+      "level": "A2",
+      "translations": {
+        "ru": "ответственный"
+      },
+      "forms": {
+        "comparative": "more responsible",
+        "superlative": "most responsible"
+      },
+      "examples": [
+        {
+          "en": "Who is responsible for the booking?",
+          "ru": "Кто отвечает за бронирование?",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "common",
+      "lemma": "common",
+      "pos": "adj",
+      "rank": 155,
+      "level": "A2",
+      "translations": {
+        "ru": "распространённый, общий"
+      },
+      "forms": {
+        "comparative": "commoner",
+        "superlative": "commonest"
+      },
+      "examples": [
+        {
+          "en": "It's a common mistake.",
+          "ru": "Это распространённая ошибка.",
+          "topic": "daily"
+        }
+      ],
+      "note": {
+        "ru": "Сравнительная: commoner или more common"
+      },
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "main",
+      "lemma": "main",
+      "pos": "adj",
+      "rank": 156,
+      "level": "A2",
+      "translations": {
+        "ru": "главный"
+      },
+      "examples": [
+        {
+          "en": "The main station is near the center.",
+          "ru": "Главный вокзал рядом с центром.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "necessary",
+      "lemma": "necessary",
+      "pos": "adj",
+      "rank": 157,
+      "level": "A2",
+      "translations": {
+        "ru": "необходимый"
+      },
+      "forms": {
+        "comparative": "more necessary",
+        "superlative": "most necessary"
+      },
+      "examples": [
+        {
+          "en": "Is a visa necessary?",
+          "ru": "Нужна ли виза?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
       "id": "due",
       "lemma": "due",
       "pos": "adj",
       "rank": 158,
+      "level": "A2",
       "translations": {
         "ru": "ожидаемый к сроку; должный"
       },
@@ -2793,6 +4154,7 @@
       "lemma": "correct",
       "pos": "adj",
       "rank": 159,
+      "level": "A2",
       "translations": {
         "ru": "правильный, верный"
       },
@@ -2813,10 +4175,479 @@
       }
     },
     {
+      "id": "several",
+      "lemma": "several",
+      "pos": "adj",
+      "rank": 160,
+      "level": "A2",
+      "translations": {
+        "ru": "несколько"
+      },
+      "examples": [
+        {
+          "en": "We waited several hours.",
+          "ru": "Мы ждали несколько часов.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "blind",
+      "lemma": "blind",
+      "pos": "adj",
+      "rank": 161,
+      "level": "A2",
+      "translations": {
+        "ru": "слепой"
+      },
+      "forms": {
+        "comparative": "blinder",
+        "superlative": "blindest"
+      },
+      "examples": [
+        {
+          "en": "The shop has a blind corner.",
+          "ru": "В магазине есть слепой угол.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tight",
+      "lemma": "tight",
+      "pos": "adj",
+      "rank": 162,
+      "level": "A2",
+      "translations": {
+        "ru": "тугой; тесный; плотный"
+      },
+      "forms": {
+        "comparative": "tighter",
+        "superlative": "tightest"
+      },
+      "examples": [
+        {
+          "en": "The schedule is tight.",
+          "ru": "График плотный.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "powerful",
+      "lemma": "powerful",
+      "pos": "adj",
+      "rank": 163,
+      "level": "A2",
+      "translations": {
+        "ru": "мощный"
+      },
+      "forms": {
+        "comparative": "more powerful",
+        "superlative": "most powerful"
+      },
+      "examples": [
+        {
+          "en": "This laptop is powerful.",
+          "ru": "Этот ноутбук мощный.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "natural",
+      "lemma": "natural",
+      "pos": "adj",
+      "rank": 164,
+      "level": "A2",
+      "translations": {
+        "ru": "природный; естественный"
+      },
+      "forms": {
+        "comparative": "more natural",
+        "superlative": "most natural"
+      },
+      "examples": [
+        {
+          "en": "The park is a natural wonder.",
+          "ru": "Парк — природное чудо.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "loud",
+      "lemma": "loud",
+      "pos": "adj",
+      "rank": 165,
+      "level": "A2",
+      "translations": {
+        "ru": "громкий"
+      },
+      "forms": {
+        "comparative": "louder",
+        "superlative": "loudest"
+      },
+      "examples": [
+        {
+          "en": "The music was too loud.",
+          "ru": "Музыка была слишком громкой.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "horrible",
+      "lemma": "horrible",
+      "pos": "adj",
+      "rank": 166,
+      "level": "A2",
+      "translations": {
+        "ru": "ужасный"
+      },
+      "forms": {
+        "comparative": "more horrible",
+        "superlative": "most horrible"
+      },
+      "examples": [
+        {
+          "en": "The traffic was horrible.",
+          "ru": "Пробки были ужасными.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "weak",
+      "lemma": "weak",
+      "pos": "adj",
+      "rank": 167,
+      "level": "A2",
+      "translations": {
+        "ru": "слабый"
+      },
+      "forms": {
+        "comparative": "weaker",
+        "superlative": "weakest"
+      },
+      "examples": [
+        {
+          "en": "The signal is weak here.",
+          "ru": "Здесь слабый сигнал.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "incredible",
+      "lemma": "incredible",
+      "pos": "adj",
+      "rank": 168,
+      "level": "A2",
+      "translations": {
+        "ru": "невероятный"
+      },
+      "forms": {
+        "comparative": "more incredible",
+        "superlative": "most incredible"
+      },
+      "examples": [
+        {
+          "en": "The view was incredible.",
+          "ru": "Вид был невероятным.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "dumb",
+      "lemma": "dumb",
+      "pos": "adj",
+      "rank": 169,
+      "level": "A2",
+      "translations": {
+        "ru": "глупый"
+      },
+      "forms": {
+        "comparative": "dumber",
+        "superlative": "dumbest"
+      },
+      "examples": [
+        {
+          "en": "That was a dumb question.",
+          "ru": "Это был глупый вопрос.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fake",
+      "lemma": "fake",
+      "pos": "adj",
+      "rank": 170,
+      "level": "A2",
+      "translations": {
+        "ru": "поддельный"
+      },
+      "examples": [
+        {
+          "en": "Be careful, it's a fake ticket.",
+          "ru": "Осторожно, это поддельный билет.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "original",
+      "lemma": "original",
+      "pos": "adj",
+      "rank": 171,
+      "level": "A2",
+      "translations": {
+        "ru": "оригинальный; первоначальный"
+      },
+      "forms": {
+        "comparative": "more original",
+        "superlative": "most original"
+      },
+      "examples": [
+        {
+          "en": "Do you have the original document?",
+          "ru": "У вас есть оригинал документа?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "bright",
+      "lemma": "bright",
+      "pos": "adj",
+      "rank": 172,
+      "level": "A2",
+      "translations": {
+        "ru": "яркий"
+      },
+      "forms": {
+        "comparative": "brighter",
+        "superlative": "brightest"
+      },
+      "examples": [
+        {
+          "en": "The room is bright and sunny.",
+          "ru": "Номер светлый и солнечный.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "dry",
+      "lemma": "dry",
+      "pos": "adj",
+      "rank": 173,
+      "level": "A2",
+      "translations": {
+        "ru": "сухой"
+      },
+      "forms": {
+        "comparative": "drier",
+        "superlative": "driest"
+      },
+      "examples": [
+        {
+          "en": "The weather is dry in summer.",
+          "ru": "Летом погода сухая.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "jealous",
+      "lemma": "jealous",
+      "pos": "adj",
+      "rank": 174,
+      "level": "A2",
+      "translations": {
+        "ru": "ревнивый; завидующий"
+      },
+      "forms": {
+        "comparative": "more jealous",
+        "superlative": "most jealous"
+      },
+      "examples": [
+        {
+          "en": "She is jealous of my trip.",
+          "ru": "Она завидует моей поездке.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ugly",
+      "lemma": "ugly",
+      "pos": "adj",
+      "rank": 175,
+      "level": "A2",
+      "translations": {
+        "ru": "уродливый"
+      },
+      "forms": {
+        "comparative": "uglier",
+        "superlative": "ugliest"
+      },
+      "examples": [
+        {
+          "en": "The building is ugly but useful.",
+          "ru": "Здание некрасивое, но удобное.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "comfortable",
+      "lemma": "comfortable",
+      "pos": "adj",
+      "rank": 176,
+      "level": "A2",
+      "translations": {
+        "ru": "удобный"
+      },
+      "forms": {
+        "comparative": "more comfortable",
+        "superlative": "most comfortable"
+      },
+      "examples": [
+        {
+          "en": "The bed is very comfortable.",
+          "ru": "Кровать очень удобная.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "usual",
+      "lemma": "usual",
+      "pos": "adj",
+      "rank": 177,
+      "level": "A2",
+      "translations": {
+        "ru": "обычный"
+      },
+      "forms": {
+        "comparative": "more usual",
+        "superlative": "most usual"
+      },
+      "examples": [
+        {
+          "en": "I'll have the usual, please.",
+          "ru": "Мне как обычно, пожалуйста.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "aware",
+      "lemma": "aware",
+      "pos": "adj",
+      "rank": 178,
+      "level": "A2",
+      "translations": {
+        "ru": "осведомлённый"
+      },
+      "forms": {
+        "comparative": "more aware",
+        "superlative": "most aware"
+      },
+      "examples": [
+        {
+          "en": "Are you aware of the delay?",
+          "ru": "Вы знаете о задержке?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "british",
+      "lemma": "british",
+      "pos": "adj",
+      "rank": 179,
+      "level": "A2",
+      "translations": {
+        "ru": "британский"
+      },
+      "examples": [
+        {
+          "en": "He has a British accent.",
+          "ru": "У него британский акцент.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
       "id": "cheap",
       "lemma": "cheap",
       "pos": "adj",
       "rank": 180,
+      "level": "A2",
       "translations": {
         "ru": "дешёвый"
       },
@@ -2841,10 +4672,363 @@
       }
     },
     {
+      "id": "social",
+      "lemma": "social",
+      "pos": "adj",
+      "rank": 181,
+      "level": "A2",
+      "translations": {
+        "ru": "социальный; общительный"
+      },
+      "forms": {
+        "comparative": "more social",
+        "superlative": "most social"
+      },
+      "examples": [
+        {
+          "en": "She is very social.",
+          "ru": "Она очень общительная.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tiny",
+      "lemma": "tiny",
+      "pos": "adj",
+      "rank": 182,
+      "level": "A2",
+      "translations": {
+        "ru": "крошечный"
+      },
+      "forms": {
+        "comparative": "tinier",
+        "superlative": "tiniest"
+      },
+      "examples": [
+        {
+          "en": "The room was tiny.",
+          "ru": "Номер был крошечным.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "soft",
+      "lemma": "soft",
+      "pos": "adj",
+      "rank": 183,
+      "level": "B1",
+      "translations": {
+        "ru": "мягкий"
+      },
+      "forms": {
+        "comparative": "softer",
+        "superlative": "softest"
+      },
+      "examples": [
+        {
+          "en": "The pillow is too soft.",
+          "ru": "Подушка слишком мягкая.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "lonely",
+      "lemma": "lonely",
+      "pos": "adj",
+      "rank": 184,
+      "level": "B1",
+      "translations": {
+        "ru": "одинокий"
+      },
+      "forms": {
+        "comparative": "lonelier",
+        "superlative": "loneliest"
+      },
+      "examples": [
+        {
+          "en": "I felt lonely in a new city.",
+          "ru": "В новом городе я чувствовал себя одиноко.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "brave",
+      "lemma": "brave",
+      "pos": "adj",
+      "rank": 185,
+      "level": "B1",
+      "translations": {
+        "ru": "храбрый"
+      },
+      "forms": {
+        "comparative": "braver",
+        "superlative": "bravest"
+      },
+      "examples": [
+        {
+          "en": "You were very brave.",
+          "ru": "Ты был очень смелым.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "handsome",
+      "lemma": "handsome",
+      "pos": "adj",
+      "rank": 186,
+      "level": "B1",
+      "translations": {
+        "ru": "красивый (о мужчине)"
+      },
+      "forms": {
+        "comparative": "more handsome",
+        "superlative": "most handsome"
+      },
+      "examples": [
+        {
+          "en": "He is a handsome man.",
+          "ru": "Он красивый мужчина.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "ancient",
+      "lemma": "ancient",
+      "pos": "adj",
+      "rank": 187,
+      "level": "B1",
+      "translations": {
+        "ru": "древний"
+      },
+      "forms": {
+        "comparative": "more ancient",
+        "superlative": "most ancient"
+      },
+      "examples": [
+        {
+          "en": "We visited an ancient temple.",
+          "ru": "Мы посетили древний храм.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "flat",
+      "lemma": "flat",
+      "pos": "adj",
+      "rank": 188,
+      "level": "B1",
+      "translations": {
+        "ru": "плоский; ровный"
+      },
+      "forms": {
+        "comparative": "flatter",
+        "superlative": "flattest"
+      },
+      "examples": [
+        {
+          "en": "The road is flat here.",
+          "ru": "Здесь дорога ровная.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "insane",
+      "lemma": "insane",
+      "pos": "adj",
+      "rank": 189,
+      "level": "B1",
+      "translations": {
+        "ru": "безумный"
+      },
+      "forms": {
+        "comparative": "more insane",
+        "superlative": "most insane"
+      },
+      "examples": [
+        {
+          "en": "The traffic here is insane.",
+          "ru": "Движение здесь безумное.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "tall",
+      "lemma": "tall",
+      "pos": "adj",
+      "rank": 190,
+      "level": "B1",
+      "translations": {
+        "ru": "высокий"
+      },
+      "forms": {
+        "comparative": "taller",
+        "superlative": "tallest"
+      },
+      "examples": [
+        {
+          "en": "My brother is very tall.",
+          "ru": "Мой брат очень высокий.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "spare",
+      "lemma": "spare",
+      "pos": "adj",
+      "rank": 191,
+      "level": "B1",
+      "translations": {
+        "ru": "запасной"
+      },
+      "examples": [
+        {
+          "en": "Do you have a spare key?",
+          "ru": "У вас есть запасной ключ?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "loose",
+      "lemma": "loose",
+      "pos": "adj",
+      "rank": 192,
+      "level": "B1",
+      "translations": {
+        "ru": "свободный; расшатанный"
+      },
+      "forms": {
+        "comparative": "looser",
+        "superlative": "loosest"
+      },
+      "examples": [
+        {
+          "en": "These trousers are too loose.",
+          "ru": "Эти брюки слишком свободны.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "fancy",
+      "lemma": "fancy",
+      "pos": "adj",
+      "rank": 193,
+      "level": "B1",
+      "translations": {
+        "ru": "причудливый; шикарный"
+      },
+      "forms": {
+        "comparative": "fancier",
+        "superlative": "fanciest"
+      },
+      "examples": [
+        {
+          "en": "It's a fancy restaurant.",
+          "ru": "Это шикарный ресторан.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "sudden",
+      "lemma": "sudden",
+      "pos": "adj",
+      "rank": 194,
+      "level": "B1",
+      "translations": {
+        "ru": "внезапный"
+      },
+      "examples": [
+        {
+          "en": "There was a sudden storm.",
+          "ru": "Случилась внезапная гроза.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "exciting",
+      "lemma": "exciting",
+      "pos": "adj",
+      "rank": 195,
+      "level": "B1",
+      "translations": {
+        "ru": "захватывающий"
+      },
+      "forms": {
+        "comparative": "more exciting",
+        "superlative": "most exciting"
+      },
+      "examples": [
+        {
+          "en": "The trip was exciting.",
+          "ru": "Поездка была захватывающей.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
       "id": "expensive",
       "lemma": "expensive",
       "pos": "adj",
       "rank": 196,
+      "level": "B1",
       "translations": {
         "ru": "дорогой"
       },
@@ -2866,6 +5050,4526 @@
       ],
       "ext": {
         "draft": true
+      }
+    },
+    {
+      "id": "subject",
+      "lemma": "subject",
+      "pos": "adj",
+      "rank": 197,
+      "level": "B1",
+      "translations": {
+        "ru": "тематический, подверженный"
+      },
+      "examples": [
+        {
+          "en": "Prices are subject to change.",
+          "ru": "Цены могут измениться.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "legal",
+      "lemma": "legal",
+      "pos": "adj",
+      "rank": 198,
+      "level": "B1",
+      "translations": {
+        "ru": "законный"
+      },
+      "forms": {
+        "comparative": "more legal",
+        "superlative": "most legal"
+      },
+      "examples": [
+        {
+          "en": "Is it legal to park here?",
+          "ru": "Здесь законно парковаться?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "rough",
+      "lemma": "rough",
+      "pos": "adj",
+      "rank": 199,
+      "level": "B1",
+      "translations": {
+        "ru": "грубый; неровный; бурный"
+      },
+      "forms": {
+        "comparative": "rougher",
+        "superlative": "roughest"
+      },
+      "examples": [
+        {
+          "en": "The sea was rough.",
+          "ru": "Море было неспокойным.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "likely",
+      "lemma": "likely",
+      "pos": "adj",
+      "rank": 200,
+      "level": "B1",
+      "translations": {
+        "ru": "вероятный"
+      },
+      "forms": {
+        "comparative": "likelier",
+        "superlative": "likeliest"
+      },
+      "examples": [
+        {
+          "en": "It's likely to rain tomorrow.",
+          "ru": "Завтра, вероятно, будет дождь.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true
+      }
+    },
+    {
+      "id": "annoying",
+      "lemma": "annoying",
+      "pos": "adj",
+      "rank": 201,
+      "level": "B1",
+      "translations": {
+        "ru": "раздражающий"
+      },
+      "forms": {
+        "comparative": "more annoying",
+        "superlative": "most annoying"
+      },
+      "examples": [
+        {
+          "en": "The noise is really annoying.",
+          "ru": "Шум действительно раздражает.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "anxious",
+      "lemma": "anxious",
+      "pos": "adj",
+      "rank": 202,
+      "level": "B2",
+      "translations": {
+        "ru": "тревожный"
+      },
+      "forms": {
+        "comparative": "more anxious",
+        "superlative": "most anxious"
+      },
+      "examples": [
+        {
+          "en": "I'm anxious about the interview.",
+          "ru": "Я переживаю из-за собеседования.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "available",
+      "lemma": "available",
+      "pos": "adj",
+      "rank": 203,
+      "level": "B1",
+      "translations": {
+        "ru": "доступный, свободный"
+      },
+      "forms": {
+        "comparative": "more available",
+        "superlative": "most available"
+      },
+      "examples": [
+        {
+          "en": "Is the room available tonight?",
+          "ru": "Номер свободен на сегодня?",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "average",
+      "lemma": "average",
+      "pos": "adj",
+      "rank": 204,
+      "level": "B1",
+      "translations": {
+        "ru": "средний"
+      },
+      "examples": [
+        {
+          "en": "The average price is fifty euros.",
+          "ru": "Средняя цена — пятьдесят евро.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "awkward",
+      "lemma": "awkward",
+      "pos": "adj",
+      "rank": 205,
+      "level": "B2",
+      "translations": {
+        "ru": "неловкий"
+      },
+      "forms": {
+        "comparative": "awkwarder",
+        "superlative": "awkwardest"
+      },
+      "examples": [
+        {
+          "en": "It was an awkward silence.",
+          "ru": "Повисла неловкая тишина.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "bored",
+      "lemma": "bored",
+      "pos": "adj",
+      "rank": 206,
+      "level": "A2",
+      "translations": {
+        "ru": "скучающий"
+      },
+      "forms": {
+        "comparative": "more bored",
+        "superlative": "most bored"
+      },
+      "examples": [
+        {
+          "en": "I was bored at the airport.",
+          "ru": "Мне было скучно в аэропорту.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "boring",
+      "lemma": "boring",
+      "pos": "adj",
+      "rank": 207,
+      "level": "A2",
+      "translations": {
+        "ru": "скучный"
+      },
+      "forms": {
+        "comparative": "more boring",
+        "superlative": "most boring"
+      },
+      "examples": [
+        {
+          "en": "The film was boring.",
+          "ru": "Фильм был скучным.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "broken",
+      "lemma": "broken",
+      "pos": "adj",
+      "rank": 208,
+      "level": "A2",
+      "translations": {
+        "ru": "сломанный"
+      },
+      "examples": [
+        {
+          "en": "The elevator is broken.",
+          "ru": "Лифт сломан.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "calm-adj",
+      "lemma": "calm",
+      "pos": "adj",
+      "rank": 209,
+      "level": "B1",
+      "translations": {
+        "ru": "спокойный"
+      },
+      "forms": {
+        "comparative": "calmer",
+        "superlative": "calmest"
+      },
+      "examples": [
+        {
+          "en": "The sea was calm.",
+          "ru": "Море было спокойным.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "careless",
+      "lemma": "careless",
+      "pos": "adj",
+      "rank": 210,
+      "level": "B2",
+      "translations": {
+        "ru": "небрежный"
+      },
+      "forms": {
+        "comparative": "more careless",
+        "superlative": "most careless"
+      },
+      "examples": [
+        {
+          "en": "That was a careless mistake.",
+          "ru": "Это была небрежная ошибка.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "cheerful",
+      "lemma": "cheerful",
+      "pos": "adj",
+      "rank": 211,
+      "level": "B1",
+      "translations": {
+        "ru": "весёлый"
+      },
+      "forms": {
+        "comparative": "more cheerful",
+        "superlative": "most cheerful"
+      },
+      "examples": [
+        {
+          "en": "She is always cheerful.",
+          "ru": "Она всегда весёлая.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "clever",
+      "lemma": "clever",
+      "pos": "adj",
+      "rank": 212,
+      "level": "B1",
+      "translations": {
+        "ru": "сообразительный"
+      },
+      "forms": {
+        "comparative": "cleverer",
+        "superlative": "cleverest"
+      },
+      "examples": [
+        {
+          "en": "That's a clever solution.",
+          "ru": "Это умное решение.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "close-adj",
+      "lemma": "close",
+      "pos": "adj",
+      "rank": 213,
+      "level": "A2",
+      "translations": {
+        "ru": "близкий"
+      },
+      "forms": {
+        "comparative": "closer",
+        "superlative": "closest"
+      },
+      "examples": [
+        {
+          "en": "We are close friends.",
+          "ru": "Мы близкие друзья.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "clumsy",
+      "lemma": "clumsy",
+      "pos": "adj",
+      "rank": 214,
+      "level": "B2",
+      "translations": {
+        "ru": "неуклюжий"
+      },
+      "forms": {
+        "comparative": "clumsier",
+        "superlative": "clumsiest"
+      },
+      "examples": [
+        {
+          "en": "I'm so clumsy, sorry!",
+          "ru": "Я такой неуклюжий, простите!",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "colorful",
+      "lemma": "colorful",
+      "pos": "adj",
+      "rank": 215,
+      "level": "B1",
+      "translations": {
+        "ru": "красочный"
+      },
+      "forms": {
+        "comparative": "more colorful",
+        "superlative": "most colorful"
+      },
+      "examples": [
+        {
+          "en": "The market is very colorful.",
+          "ru": "Рынок очень красочный.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "confident",
+      "lemma": "confident",
+      "pos": "adj",
+      "rank": 216,
+      "level": "B1",
+      "translations": {
+        "ru": "уверенный"
+      },
+      "forms": {
+        "comparative": "more confident",
+        "superlative": "most confident"
+      },
+      "examples": [
+        {
+          "en": "I feel confident about the exam.",
+          "ru": "Я уверен в себе перед экзаменом.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "confusing",
+      "lemma": "confusing",
+      "pos": "adj",
+      "rank": 217,
+      "level": "B1",
+      "translations": {
+        "ru": "запутанный"
+      },
+      "forms": {
+        "comparative": "more confusing",
+        "superlative": "most confusing"
+      },
+      "examples": [
+        {
+          "en": "The map is confusing.",
+          "ru": "Карта запутанная.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "cozy",
+      "lemma": "cozy",
+      "pos": "adj",
+      "rank": 218,
+      "level": "B1",
+      "translations": {
+        "ru": "уютный"
+      },
+      "forms": {
+        "comparative": "cozier",
+        "superlative": "coziest"
+      },
+      "examples": [
+        {
+          "en": "The café is small and cozy.",
+          "ru": "Кафе маленькое и уютное.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "creative",
+      "lemma": "creative",
+      "pos": "adj",
+      "rank": 219,
+      "level": "B1",
+      "translations": {
+        "ru": "творческий"
+      },
+      "forms": {
+        "comparative": "more creative",
+        "superlative": "most creative"
+      },
+      "examples": [
+        {
+          "en": "She has a creative job.",
+          "ru": "У неё творческая работа.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "crowded",
+      "lemma": "crowded",
+      "pos": "adj",
+      "rank": 220,
+      "level": "B1",
+      "translations": {
+        "ru": "многолюдный"
+      },
+      "forms": {
+        "comparative": "more crowded",
+        "superlative": "most crowded"
+      },
+      "examples": [
+        {
+          "en": "The beach was crowded.",
+          "ru": "Пляж был переполнен.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "curious",
+      "lemma": "curious",
+      "pos": "adj",
+      "rank": 221,
+      "level": "B1",
+      "translations": {
+        "ru": "любопытный"
+      },
+      "forms": {
+        "comparative": "more curious",
+        "superlative": "most curious"
+      },
+      "examples": [
+        {
+          "en": "I'm curious about your trip.",
+          "ru": "Мне любопытна твоя поездка.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "delicious",
+      "lemma": "delicious",
+      "pos": "adj",
+      "rank": 222,
+      "level": "A2",
+      "translations": {
+        "ru": "вкусный"
+      },
+      "forms": {
+        "comparative": "more delicious",
+        "superlative": "most delicious"
+      },
+      "examples": [
+        {
+          "en": "The soup was delicious.",
+          "ru": "Суп был очень вкусным.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "delighted",
+      "lemma": "delighted",
+      "pos": "adj",
+      "rank": 223,
+      "level": "B2",
+      "translations": {
+        "ru": "в восторге"
+      },
+      "forms": {
+        "comparative": "more delighted",
+        "superlative": "most delighted"
+      },
+      "examples": [
+        {
+          "en": "I'm delighted to meet you.",
+          "ru": "Очень рад с вами познакомиться.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "disappointed",
+      "lemma": "disappointed",
+      "pos": "adj",
+      "rank": 224,
+      "level": "B1",
+      "translations": {
+        "ru": "разочарованный"
+      },
+      "forms": {
+        "comparative": "more disappointed",
+        "superlative": "most disappointed"
+      },
+      "examples": [
+        {
+          "en": "We were disappointed with the hotel.",
+          "ru": "Мы были разочарованы отелем.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "disappointing",
+      "lemma": "disappointing",
+      "pos": "adj",
+      "rank": 225,
+      "level": "B1",
+      "translations": {
+        "ru": "разочаровывающий"
+      },
+      "forms": {
+        "comparative": "more disappointing",
+        "superlative": "most disappointing"
+      },
+      "examples": [
+        {
+          "en": "The result was disappointing.",
+          "ru": "Результат разочаровал.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "distant",
+      "lemma": "distant",
+      "pos": "adj",
+      "rank": 226,
+      "level": "B2",
+      "translations": {
+        "ru": "дальний"
+      },
+      "forms": {
+        "comparative": "more distant",
+        "superlative": "most distant"
+      },
+      "examples": [
+        {
+          "en": "The mountains are distant.",
+          "ru": "Горы далеко.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "dizzy",
+      "lemma": "dizzy",
+      "pos": "adj",
+      "rank": 227,
+      "level": "B2",
+      "translations": {
+        "ru": "с головокружением"
+      },
+      "forms": {
+        "comparative": "dizzier",
+        "superlative": "dizziest"
+      },
+      "examples": [
+        {
+          "en": "I feel dizzy.",
+          "ru": "У меня кружится голова.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "dull",
+      "lemma": "dull",
+      "pos": "adj",
+      "rank": 228,
+      "level": "B2",
+      "translations": {
+        "ru": "скучный; тусклый"
+      },
+      "forms": {
+        "comparative": "duller",
+        "superlative": "dullest"
+      },
+      "examples": [
+        {
+          "en": "The meeting was dull.",
+          "ru": "Совещание было скучным.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "eager",
+      "lemma": "eager",
+      "pos": "adj",
+      "rank": 229,
+      "level": "B2",
+      "translations": {
+        "ru": "нетерпеливый, жаждущий"
+      },
+      "forms": {
+        "comparative": "eagerer",
+        "superlative": "eagerest"
+      },
+      "examples": [
+        {
+          "en": "I'm eager to see you.",
+          "ru": "Мне не терпится тебя увидеть.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "efficient",
+      "lemma": "efficient",
+      "pos": "adj",
+      "rank": 230,
+      "level": "B2",
+      "translations": {
+        "ru": "эффективный"
+      },
+      "forms": {
+        "comparative": "more efficient",
+        "superlative": "most efficient"
+      },
+      "examples": [
+        {
+          "en": "This tool is very efficient.",
+          "ru": "Этот инструмент очень эффективен.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "elderly",
+      "lemma": "elderly",
+      "pos": "adj",
+      "rank": 231,
+      "level": "B2",
+      "translations": {
+        "ru": "пожилой"
+      },
+      "examples": [
+        {
+          "en": "An elderly man helped us.",
+          "ru": "Нам помог пожилой мужчина.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "embarrassed",
+      "lemma": "embarrassed",
+      "pos": "adj",
+      "rank": 232,
+      "level": "B1",
+      "translations": {
+        "ru": "смущённый"
+      },
+      "forms": {
+        "comparative": "more embarrassed",
+        "superlative": "most embarrassed"
+      },
+      "examples": [
+        {
+          "en": "I was embarrassed about my mistake.",
+          "ru": "Мне было неловко из-за ошибки.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "embarrassing",
+      "lemma": "embarrassing",
+      "pos": "adj",
+      "rank": 233,
+      "level": "B2",
+      "translations": {
+        "ru": "неловкий"
+      },
+      "forms": {
+        "comparative": "more embarrassing",
+        "superlative": "most embarrassing"
+      },
+      "examples": [
+        {
+          "en": "It was an embarrassing moment.",
+          "ru": "Это был неловкий момент.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "enormous",
+      "lemma": "enormous",
+      "pos": "adj",
+      "rank": 234,
+      "level": "B2",
+      "translations": {
+        "ru": "громадный"
+      },
+      "examples": [
+        {
+          "en": "The cathedral is enormous.",
+          "ru": "Собор громадный.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "exhausted",
+      "lemma": "exhausted",
+      "pos": "adj",
+      "rank": 235,
+      "level": "B1",
+      "translations": {
+        "ru": "измученный"
+      },
+      "forms": {
+        "comparative": "more exhausted",
+        "superlative": "most exhausted"
+      },
+      "examples": [
+        {
+          "en": "I'm exhausted after the flight.",
+          "ru": "Я вымотался после перелёта.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "familiar",
+      "lemma": "familiar",
+      "pos": "adj",
+      "rank": 236,
+      "level": "B1",
+      "translations": {
+        "ru": "знакомый"
+      },
+      "forms": {
+        "comparative": "more familiar",
+        "superlative": "most familiar"
+      },
+      "examples": [
+        {
+          "en": "This song sounds familiar.",
+          "ru": "Эта песня кажется знакомой.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "fantastic",
+      "lemma": "fantastic",
+      "pos": "adj",
+      "rank": 237,
+      "level": "A2",
+      "translations": {
+        "ru": "фантастический"
+      },
+      "forms": {
+        "comparative": "more fantastic",
+        "superlative": "most fantastic"
+      },
+      "examples": [
+        {
+          "en": "The concert was fantastic!",
+          "ru": "Концерт был фантастическим!",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "fierce",
+      "lemma": "fierce",
+      "pos": "adj",
+      "rank": 238,
+      "level": "B2",
+      "translations": {
+        "ru": "яростный"
+      },
+      "forms": {
+        "comparative": "fiercer",
+        "superlative": "fiercest"
+      },
+      "examples": [
+        {
+          "en": "There was a fierce storm.",
+          "ru": "Была яростная буря.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "flexible",
+      "lemma": "flexible",
+      "pos": "adj",
+      "rank": 239,
+      "level": "B1",
+      "translations": {
+        "ru": "гибкий"
+      },
+      "forms": {
+        "comparative": "more flexible",
+        "superlative": "most flexible"
+      },
+      "examples": [
+        {
+          "en": "My schedule is flexible.",
+          "ru": "Мой график гибкий.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "foggy",
+      "lemma": "foggy",
+      "pos": "adj",
+      "rank": 240,
+      "level": "B1",
+      "translations": {
+        "ru": "туманный"
+      },
+      "forms": {
+        "comparative": "foggier",
+        "superlative": "foggiest"
+      },
+      "examples": [
+        {
+          "en": "It's foggy this morning.",
+          "ru": "Сегодня утром туман.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "foreign",
+      "lemma": "foreign",
+      "pos": "adj",
+      "rank": 241,
+      "level": "B1",
+      "translations": {
+        "ru": "иностранный"
+      },
+      "examples": [
+        {
+          "en": "I'm learning a foreign language.",
+          "ru": "Я учу иностранный язык.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "frightened",
+      "lemma": "frightened",
+      "pos": "adj",
+      "rank": 242,
+      "level": "B1",
+      "translations": {
+        "ru": "напуганный"
+      },
+      "forms": {
+        "comparative": "more frightened",
+        "superlative": "most frightened"
+      },
+      "examples": [
+        {
+          "en": "The kids were frightened by the thunder.",
+          "ru": "Дети испугались грома.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "frozen",
+      "lemma": "frozen",
+      "pos": "adj",
+      "rank": 243,
+      "level": "B1",
+      "translations": {
+        "ru": "замороженный"
+      },
+      "examples": [
+        {
+          "en": "Is the fish fresh or frozen?",
+          "ru": "Рыба свежая или замороженная?",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "generous",
+      "lemma": "generous",
+      "pos": "adj",
+      "rank": 244,
+      "level": "B1",
+      "translations": {
+        "ru": "щедрый"
+      },
+      "forms": {
+        "comparative": "more generous",
+        "superlative": "most generous"
+      },
+      "examples": [
+        {
+          "en": "Thanks, that's very generous.",
+          "ru": "Спасибо, это очень щедро.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "gentle",
+      "lemma": "gentle",
+      "pos": "adj",
+      "rank": 245,
+      "level": "B1",
+      "translations": {
+        "ru": "мягкий, нежный"
+      },
+      "forms": {
+        "comparative": "gentler",
+        "superlative": "gentlest"
+      },
+      "examples": [
+        {
+          "en": "The music was soft and gentle.",
+          "ru": "Музыка была мягкой и нежной.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "gorgeous",
+      "lemma": "gorgeous",
+      "pos": "adj",
+      "rank": 246,
+      "level": "B2",
+      "translations": {
+        "ru": "великолепный"
+      },
+      "forms": {
+        "comparative": "more gorgeous",
+        "superlative": "most gorgeous"
+      },
+      "examples": [
+        {
+          "en": "The view is gorgeous.",
+          "ru": "Вид великолепный.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "grateful",
+      "lemma": "grateful",
+      "pos": "adj",
+      "rank": 247,
+      "level": "B1",
+      "translations": {
+        "ru": "благодарный"
+      },
+      "forms": {
+        "comparative": "more grateful",
+        "superlative": "most grateful"
+      },
+      "examples": [
+        {
+          "en": "I'm grateful for your help.",
+          "ru": "Я благодарен за твою помощь.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "grumpy",
+      "lemma": "grumpy",
+      "pos": "adj",
+      "rank": 248,
+      "level": "B2",
+      "translations": {
+        "ru": "ворчливый"
+      },
+      "forms": {
+        "comparative": "grumpier",
+        "superlative": "grumpiest"
+      },
+      "examples": [
+        {
+          "en": "He's grumpy in the morning.",
+          "ru": "По утрам он ворчливый.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "helpful",
+      "lemma": "helpful",
+      "pos": "adj",
+      "rank": 249,
+      "level": "B1",
+      "translations": {
+        "ru": "полезный; отзывчивый"
+      },
+      "forms": {
+        "comparative": "more helpful",
+        "superlative": "most helpful"
+      },
+      "examples": [
+        {
+          "en": "The staff were very helpful.",
+          "ru": "Персонал был очень отзывчив.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "helpless",
+      "lemma": "helpless",
+      "pos": "adj",
+      "rank": 250,
+      "level": "B2",
+      "translations": {
+        "ru": "беспомощный"
+      },
+      "forms": {
+        "comparative": "more helpless",
+        "superlative": "most helpless"
+      },
+      "examples": [
+        {
+          "en": "I felt helpless without my phone.",
+          "ru": "Без телефона я чувствовал себя беспомощным.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "hilarious",
+      "lemma": "hilarious",
+      "pos": "adj",
+      "rank": 251,
+      "level": "B2",
+      "translations": {
+        "ru": "уморительный"
+      },
+      "forms": {
+        "comparative": "more hilarious",
+        "superlative": "most hilarious"
+      },
+      "examples": [
+        {
+          "en": "The film was hilarious.",
+          "ru": "Фильм был уморительным.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "hopeful",
+      "lemma": "hopeful",
+      "pos": "adj",
+      "rank": 252,
+      "level": "B2",
+      "translations": {
+        "ru": "полный надежд"
+      },
+      "forms": {
+        "comparative": "more hopeful",
+        "superlative": "most hopeful"
+      },
+      "examples": [
+        {
+          "en": "We are hopeful about the weather.",
+          "ru": "Мы надеемся на хорошую погоду.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "hopeless",
+      "lemma": "hopeless",
+      "pos": "adj",
+      "rank": 253,
+      "level": "B2",
+      "translations": {
+        "ru": "безнадёжный"
+      },
+      "forms": {
+        "comparative": "more hopeless",
+        "superlative": "most hopeless"
+      },
+      "examples": [
+        {
+          "en": "I'm hopeless at cooking.",
+          "ru": "Я безнадёжен в готовке.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "humid",
+      "lemma": "humid",
+      "pos": "adj",
+      "rank": 254,
+      "level": "B2",
+      "translations": {
+        "ru": "влажный"
+      },
+      "forms": {
+        "comparative": "more humid",
+        "superlative": "most humid"
+      },
+      "examples": [
+        {
+          "en": "The air is humid in summer.",
+          "ru": "Летом воздух влажный.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "icy",
+      "lemma": "icy",
+      "pos": "adj",
+      "rank": 255,
+      "level": "B2",
+      "translations": {
+        "ru": "ледяной"
+      },
+      "forms": {
+        "comparative": "icier",
+        "superlative": "iciest"
+      },
+      "examples": [
+        {
+          "en": "The road was icy.",
+          "ru": "Дорога была обледенелой.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "ideal",
+      "lemma": "ideal",
+      "pos": "adj",
+      "rank": 256,
+      "level": "B1",
+      "translations": {
+        "ru": "идеальный"
+      },
+      "forms": {
+        "comparative": "more ideal",
+        "superlative": "most ideal"
+      },
+      "examples": [
+        {
+          "en": "It's an ideal place for a picnic.",
+          "ru": "Это идеальное место для пикника.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "impatient",
+      "lemma": "impatient",
+      "pos": "adj",
+      "rank": 257,
+      "level": "B2",
+      "translations": {
+        "ru": "нетерпеливый"
+      },
+      "forms": {
+        "comparative": "more impatient",
+        "superlative": "most impatient"
+      },
+      "examples": [
+        {
+          "en": "The kids were impatient.",
+          "ru": "Дети были нетерпеливы.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "impressive",
+      "lemma": "impressive",
+      "pos": "adj",
+      "rank": 258,
+      "level": "B1",
+      "translations": {
+        "ru": "впечатляющий"
+      },
+      "forms": {
+        "comparative": "more impressive",
+        "superlative": "most impressive"
+      },
+      "examples": [
+        {
+          "en": "The cathedral is impressive.",
+          "ru": "Собор впечатляет.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "independent",
+      "lemma": "independent",
+      "pos": "adj",
+      "rank": 259,
+      "level": "B2",
+      "translations": {
+        "ru": "независимый"
+      },
+      "forms": {
+        "comparative": "more independent",
+        "superlative": "most independent"
+      },
+      "examples": [
+        {
+          "en": "She is a very independent traveler.",
+          "ru": "Она очень самостоятельный путешественник.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "informal",
+      "lemma": "informal",
+      "pos": "adj",
+      "rank": 260,
+      "level": "B2",
+      "translations": {
+        "ru": "неформальный"
+      },
+      "forms": {
+        "comparative": "more informal",
+        "superlative": "most informal"
+      },
+      "examples": [
+        {
+          "en": "It was an informal dinner.",
+          "ru": "Это был неформальный ужин.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "inexpensive",
+      "lemma": "inexpensive",
+      "pos": "adj",
+      "rank": 261,
+      "level": "B1",
+      "translations": {
+        "ru": "недорогой"
+      },
+      "forms": {
+        "comparative": "more inexpensive",
+        "superlative": "most inexpensive"
+      },
+      "examples": [
+        {
+          "en": "We found an inexpensive hotel.",
+          "ru": "Мы нашли недорогой отель.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "irritating",
+      "lemma": "irritating",
+      "pos": "adj",
+      "rank": 262,
+      "level": "B2",
+      "translations": {
+        "ru": "раздражающий"
+      },
+      "forms": {
+        "comparative": "more irritating",
+        "superlative": "most irritating"
+      },
+      "examples": [
+        {
+          "en": "The delay is irritating.",
+          "ru": "Задержка раздражает.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "jolly",
+      "lemma": "jolly",
+      "pos": "adj",
+      "rank": 263,
+      "level": "B2",
+      "translations": {
+        "ru": "весёлый"
+      },
+      "forms": {
+        "comparative": "jollier",
+        "superlative": "jolliest"
+      },
+      "examples": [
+        {
+          "en": "He is a jolly man.",
+          "ru": "Он весёлый человек.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "juicy",
+      "lemma": "juicy",
+      "pos": "adj",
+      "rank": 264,
+      "level": "B2",
+      "translations": {
+        "ru": "сочный"
+      },
+      "forms": {
+        "comparative": "juicier",
+        "superlative": "juiciest"
+      },
+      "examples": [
+        {
+          "en": "The oranges are juicy.",
+          "ru": "Апельсины сочные.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "keen",
+      "lemma": "keen",
+      "pos": "adj",
+      "rank": 265,
+      "level": "B2",
+      "translations": {
+        "ru": "увлечённый"
+      },
+      "forms": {
+        "comparative": "keener",
+        "superlative": "keenest"
+      },
+      "examples": [
+        {
+          "en": "She is keen on hiking.",
+          "ru": "Она увлекается походами.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "kind-adj",
+      "lemma": "kind",
+      "pos": "adj",
+      "rank": 266,
+      "level": "A2",
+      "translations": {
+        "ru": "добрый"
+      },
+      "forms": {
+        "comparative": "kinder",
+        "superlative": "kindest"
+      },
+      "examples": [
+        {
+          "en": "Thank you, you're very kind.",
+          "ru": "Спасибо, вы очень добры.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "lazy",
+      "lemma": "lazy",
+      "pos": "adj",
+      "rank": 267,
+      "level": "A2",
+      "translations": {
+        "ru": "ленивый"
+      },
+      "forms": {
+        "comparative": "lazier",
+        "superlative": "laziest"
+      },
+      "examples": [
+        {
+          "en": "I feel lazy today.",
+          "ru": "Сегодня мне лень.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "light-adj",
+      "lemma": "light",
+      "pos": "adj",
+      "rank": 268,
+      "level": "A2",
+      "translations": {
+        "ru": "лёгкий; светлый"
+      },
+      "forms": {
+        "comparative": "lighter",
+        "superlative": "lightest"
+      },
+      "examples": [
+        {
+          "en": "My bag is very light.",
+          "ru": "Моя сумка очень лёгкая.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "literary",
+      "lemma": "literary",
+      "pos": "adj",
+      "rank": 269,
+      "level": "B2",
+      "translations": {
+        "ru": "литературный"
+      },
+      "examples": [
+        {
+          "en": "It's a literary prize.",
+          "ru": "Это литературная премия.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "lively",
+      "lemma": "lively",
+      "pos": "adj",
+      "rank": 270,
+      "level": "B2",
+      "translations": {
+        "ru": "оживлённый"
+      },
+      "forms": {
+        "comparative": "livelier",
+        "superlative": "liveliest"
+      },
+      "examples": [
+        {
+          "en": "The street is lively at night.",
+          "ru": "Ночью улица оживлена.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "massive",
+      "lemma": "massive",
+      "pos": "adj",
+      "rank": 271,
+      "level": "B2",
+      "translations": {
+        "ru": "огромный"
+      },
+      "forms": {
+        "comparative": "more massive",
+        "superlative": "most massive"
+      },
+      "examples": [
+        {
+          "en": "The festival drew a massive crowd.",
+          "ru": "Фестиваль собрал огромную толпу.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "mature",
+      "lemma": "mature",
+      "pos": "adj",
+      "rank": 272,
+      "level": "B2",
+      "translations": {
+        "ru": "зрелый"
+      },
+      "forms": {
+        "comparative": "maturer",
+        "superlative": "maturest"
+      },
+      "examples": [
+        {
+          "en": "She is very mature for her age.",
+          "ru": "Она очень зрелая для своего возраста.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "mean-adj",
+      "lemma": "mean",
+      "pos": "adj",
+      "rank": 273,
+      "level": "B1",
+      "translations": {
+        "ru": "злой; подлый"
+      },
+      "forms": {
+        "comparative": "meaner",
+        "superlative": "meanest"
+      },
+      "examples": [
+        {
+          "en": "Don't be mean to your brother.",
+          "ru": "Не будь злым с братом.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "messy",
+      "lemma": "messy",
+      "pos": "adj",
+      "rank": 274,
+      "level": "B2",
+      "translations": {
+        "ru": "неряшливый"
+      },
+      "forms": {
+        "comparative": "messier",
+        "superlative": "messiest"
+      },
+      "examples": [
+        {
+          "en": "My room is messy.",
+          "ru": "В моей комнате беспорядок.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "mild",
+      "lemma": "mild",
+      "pos": "adj",
+      "rank": 275,
+      "level": "B2",
+      "translations": {
+        "ru": "мягкий (климат)"
+      },
+      "forms": {
+        "comparative": "milder",
+        "superlative": "mildest"
+      },
+      "examples": [
+        {
+          "en": "Winters are mild here.",
+          "ru": "Зимы здесь мягкие.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "modern",
+      "lemma": "modern",
+      "pos": "adj",
+      "rank": 276,
+      "level": "A2",
+      "translations": {
+        "ru": "современный"
+      },
+      "forms": {
+        "comparative": "more modern",
+        "superlative": "most modern"
+      },
+      "examples": [
+        {
+          "en": "The hotel is modern and clean.",
+          "ru": "Отель современный и чистый.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "narrow",
+      "lemma": "narrow",
+      "pos": "adj",
+      "rank": 277,
+      "level": "B1",
+      "translations": {
+        "ru": "узкий"
+      },
+      "forms": {
+        "comparative": "narrower",
+        "superlative": "narrowest"
+      },
+      "examples": [
+        {
+          "en": "The streets are narrow.",
+          "ru": "Улицы узкие.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "naughty",
+      "lemma": "naughty",
+      "pos": "adj",
+      "rank": 278,
+      "level": "B2",
+      "translations": {
+        "ru": "непослушный"
+      },
+      "forms": {
+        "comparative": "naughtier",
+        "superlative": "naughtiest"
+      },
+      "examples": [
+        {
+          "en": "The kids were naughty today.",
+          "ru": "Сегодня дети были непослушными.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "neat",
+      "lemma": "neat",
+      "pos": "adj",
+      "rank": 279,
+      "level": "B2",
+      "translations": {
+        "ru": "аккуратный"
+      },
+      "forms": {
+        "comparative": "neater",
+        "superlative": "neatest"
+      },
+      "examples": [
+        {
+          "en": "Her notes are neat.",
+          "ru": "Её записи аккуратные.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "neighboring",
+      "lemma": "neighboring",
+      "pos": "adj",
+      "rank": 280,
+      "level": "B2",
+      "translations": {
+        "ru": "соседний"
+      },
+      "examples": [
+        {
+          "en": "We visited the neighboring town.",
+          "ru": "Мы съездили в соседний город.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "noisy",
+      "lemma": "noisy",
+      "pos": "adj",
+      "rank": 281,
+      "level": "A2",
+      "translations": {
+        "ru": "шумный"
+      },
+      "forms": {
+        "comparative": "noisier",
+        "superlative": "noisiest"
+      },
+      "examples": [
+        {
+          "en": "The street is noisy at night.",
+          "ru": "Ночью на улице шумно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "numerous",
+      "lemma": "numerous",
+      "pos": "adj",
+      "rank": 282,
+      "level": "B2",
+      "translations": {
+        "ru": "многочисленный"
+      },
+      "forms": {
+        "comparative": "more numerous",
+        "superlative": "most numerous"
+      },
+      "examples": [
+        {
+          "en": "There are numerous restaurants nearby.",
+          "ru": "Поблизости множество ресторанов.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "obvious",
+      "lemma": "obvious",
+      "pos": "adj",
+      "rank": 283,
+      "level": "B2",
+      "translations": {
+        "ru": "очевидный"
+      },
+      "forms": {
+        "comparative": "more obvious",
+        "superlative": "most obvious"
+      },
+      "examples": [
+        {
+          "en": "The answer is obvious.",
+          "ru": "Ответ очевиден.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "odd",
+      "lemma": "odd",
+      "pos": "adj",
+      "rank": 284,
+      "level": "B1",
+      "translations": {
+        "ru": "странный"
+      },
+      "forms": {
+        "comparative": "oddder",
+        "superlative": "odddest"
+      },
+      "examples": [
+        {
+          "en": "That's odd, the door is open.",
+          "ru": "Странно, дверь открыта.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "offline",
+      "lemma": "offline",
+      "pos": "adj",
+      "rank": 285,
+      "level": "B1",
+      "translations": {
+        "ru": "офлайн"
+      },
+      "examples": [
+        {
+          "en": "The map works offline.",
+          "ru": "Карта работает офлайн.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "old-fashioned",
+      "lemma": "old-fashioned",
+      "pos": "adj",
+      "rank": 286,
+      "level": "B2",
+      "translations": {
+        "ru": "старомодный"
+      },
+      "forms": {
+        "comparative": "more old-fashioned",
+        "superlative": "most old-fashioned"
+      },
+      "examples": [
+        {
+          "en": "It's an old-fashioned café.",
+          "ru": "Это старомодное кафе.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "optimistic",
+      "lemma": "optimistic",
+      "pos": "adj",
+      "rank": 287,
+      "level": "B2",
+      "translations": {
+        "ru": "оптимистичный"
+      },
+      "forms": {
+        "comparative": "more optimistic",
+        "superlative": "most optimistic"
+      },
+      "examples": [
+        {
+          "en": "I'm optimistic about the weather.",
+          "ru": "Я настроен оптимистично насчёт погоды.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "ordinary",
+      "lemma": "ordinary",
+      "pos": "adj",
+      "rank": 288,
+      "level": "B2",
+      "translations": {
+        "ru": "обыкновенный"
+      },
+      "forms": {
+        "comparative": "more ordinary",
+        "superlative": "most ordinary"
+      },
+      "examples": [
+        {
+          "en": "It was an ordinary day.",
+          "ru": "Это был обычный день.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "organized",
+      "lemma": "organized",
+      "pos": "adj",
+      "rank": 289,
+      "level": "B1",
+      "translations": {
+        "ru": "организованный"
+      },
+      "forms": {
+        "comparative": "more organized",
+        "superlative": "most organized"
+      },
+      "examples": [
+        {
+          "en": "She is very organized.",
+          "ru": "Она очень организованная.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "outdoor",
+      "lemma": "outdoor",
+      "pos": "adj",
+      "rank": 290,
+      "level": "B1",
+      "translations": {
+        "ru": "уличный"
+      },
+      "examples": [
+        {
+          "en": "We love outdoor concerts.",
+          "ru": "Мы любим концерты под открытым небом.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "packed",
+      "lemma": "packed",
+      "pos": "adj",
+      "rank": 291,
+      "level": "B1",
+      "translations": {
+        "ru": "переполненный"
+      },
+      "forms": {
+        "comparative": "more packed",
+        "superlative": "most packed"
+      },
+      "examples": [
+        {
+          "en": "The train was packed.",
+          "ru": "Поезд был набит битком.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "painful",
+      "lemma": "painful",
+      "pos": "adj",
+      "rank": 292,
+      "level": "B1",
+      "translations": {
+        "ru": "болезненный"
+      },
+      "forms": {
+        "comparative": "more painful",
+        "superlative": "most painful"
+      },
+      "examples": [
+        {
+          "en": "My foot is painful.",
+          "ru": "У меня болит нога.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "patient-adj",
+      "lemma": "patient",
+      "pos": "adj",
+      "rank": 293,
+      "level": "B1",
+      "translations": {
+        "ru": "терпеливый"
+      },
+      "forms": {
+        "comparative": "more patient",
+        "superlative": "most patient"
+      },
+      "examples": [
+        {
+          "en": "Please be patient.",
+          "ru": "Пожалуйста, наберитесь терпения.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "peaceful",
+      "lemma": "peaceful",
+      "pos": "adj",
+      "rank": 294,
+      "level": "B1",
+      "translations": {
+        "ru": "мирный, спокойный"
+      },
+      "forms": {
+        "comparative": "more peaceful",
+        "superlative": "most peaceful"
+      },
+      "examples": [
+        {
+          "en": "The village is peaceful.",
+          "ru": "Деревня очень спокойная.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "pleasant",
+      "lemma": "pleasant",
+      "pos": "adj",
+      "rank": 295,
+      "level": "B1",
+      "translations": {
+        "ru": "приятный"
+      },
+      "forms": {
+        "comparative": "more pleasant",
+        "superlative": "most pleasant"
+      },
+      "examples": [
+        {
+          "en": "We had a pleasant evening.",
+          "ru": "Мы приятно провели вечер.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "pleased",
+      "lemma": "pleased",
+      "pos": "adj",
+      "rank": 296,
+      "level": "A2",
+      "translations": {
+        "ru": "довольный"
+      },
+      "forms": {
+        "comparative": "more pleased",
+        "superlative": "most pleased"
+      },
+      "examples": [
+        {
+          "en": "I'm pleased to meet you.",
+          "ru": "Рад познакомиться.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "polite",
+      "lemma": "polite",
+      "pos": "adj",
+      "rank": 297,
+      "level": "B1",
+      "translations": {
+        "ru": "вежливый"
+      },
+      "forms": {
+        "comparative": "politer",
+        "superlative": "politest"
+      },
+      "examples": [
+        {
+          "en": "The waiter was very polite.",
+          "ru": "Официант был очень вежлив.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "popular",
+      "lemma": "popular",
+      "pos": "adj",
+      "rank": 298,
+      "level": "A2",
+      "translations": {
+        "ru": "популярный"
+      },
+      "forms": {
+        "comparative": "more popular",
+        "superlative": "most popular"
+      },
+      "examples": [
+        {
+          "en": "It's a popular restaurant.",
+          "ru": "Это популярный ресторан.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "positive",
+      "lemma": "positive",
+      "pos": "adj",
+      "rank": 299,
+      "level": "B1",
+      "translations": {
+        "ru": "положительный"
+      },
+      "forms": {
+        "comparative": "more positive",
+        "superlative": "most positive"
+      },
+      "examples": [
+        {
+          "en": "He has a positive attitude.",
+          "ru": "У него позитивный настрой.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "practical",
+      "lemma": "practical",
+      "pos": "adj",
+      "rank": 300,
+      "level": "B2",
+      "translations": {
+        "ru": "практичный"
+      },
+      "forms": {
+        "comparative": "more practical",
+        "superlative": "most practical"
+      },
+      "examples": [
+        {
+          "en": "These shoes are practical.",
+          "ru": "Эти туфли практичные.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "precious",
+      "lemma": "precious",
+      "pos": "adj",
+      "rank": 301,
+      "level": "B2",
+      "translations": {
+        "ru": "драгоценный"
+      },
+      "forms": {
+        "comparative": "more precious",
+        "superlative": "most precious"
+      },
+      "examples": [
+        {
+          "en": "Time with friends is precious.",
+          "ru": "Время с друзьями драгоценно.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "pretty-adj",
+      "lemma": "pretty",
+      "pos": "adj",
+      "rank": 302,
+      "level": "A2",
+      "translations": {
+        "ru": "симпатичный"
+      },
+      "forms": {
+        "comparative": "prettier",
+        "superlative": "prettiest"
+      },
+      "examples": [
+        {
+          "en": "What a pretty square!",
+          "ru": "Какая симпатичная площадь!",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "proper",
+      "lemma": "proper",
+      "pos": "adj",
+      "rank": 303,
+      "level": "B1",
+      "translations": {
+        "ru": "надлежащий"
+      },
+      "examples": [
+        {
+          "en": "We need a proper map.",
+          "ru": "Нам нужна нормальная карта.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "pure",
+      "lemma": "pure",
+      "pos": "adj",
+      "rank": 304,
+      "level": "B2",
+      "translations": {
+        "ru": "чистый"
+      },
+      "forms": {
+        "comparative": "purer",
+        "superlative": "purest"
+      },
+      "examples": [
+        {
+          "en": "The water is pure.",
+          "ru": "Вода чистая.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "rare",
+      "lemma": "rare",
+      "pos": "adj",
+      "rank": 305,
+      "level": "B1",
+      "translations": {
+        "ru": "редкий"
+      },
+      "forms": {
+        "comparative": "rarer",
+        "superlative": "rarest"
+      },
+      "examples": [
+        {
+          "en": "It's a rare chance.",
+          "ru": "Это редкий шанс.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "raw",
+      "lemma": "raw",
+      "pos": "adj",
+      "rank": 306,
+      "level": "B2",
+      "translations": {
+        "ru": "сырой"
+      },
+      "examples": [
+        {
+          "en": "The fish is raw.",
+          "ru": "Рыба сырая.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "reasonable",
+      "lemma": "reasonable",
+      "pos": "adj",
+      "rank": 307,
+      "level": "B1",
+      "translations": {
+        "ru": "разумный"
+      },
+      "forms": {
+        "comparative": "more reasonable",
+        "superlative": "most reasonable"
+      },
+      "examples": [
+        {
+          "en": "The prices are reasonable.",
+          "ru": "Цены разумные.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "relaxed",
+      "lemma": "relaxed",
+      "pos": "adj",
+      "rank": 308,
+      "level": "B1",
+      "translations": {
+        "ru": "расслабленный"
+      },
+      "forms": {
+        "comparative": "more relaxed",
+        "superlative": "most relaxed"
+      },
+      "examples": [
+        {
+          "en": "The atmosphere was relaxed.",
+          "ru": "Атмосфера была расслабленной.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "relaxing",
+      "lemma": "relaxing",
+      "pos": "adj",
+      "rank": 309,
+      "level": "B1",
+      "translations": {
+        "ru": "расслабляющий"
+      },
+      "forms": {
+        "comparative": "more relaxing",
+        "superlative": "most relaxing"
+      },
+      "examples": [
+        {
+          "en": "It was a relaxing weekend.",
+          "ru": "Это были спокойные выходные.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "reliable",
+      "lemma": "reliable",
+      "pos": "adj",
+      "rank": 310,
+      "level": "B2",
+      "translations": {
+        "ru": "надёжный"
+      },
+      "forms": {
+        "comparative": "more reliable",
+        "superlative": "most reliable"
+      },
+      "examples": [
+        {
+          "en": "The train service is reliable.",
+          "ru": "Железная дорога работает надёжно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "ripe",
+      "lemma": "ripe",
+      "pos": "adj",
+      "rank": 311,
+      "level": "B2",
+      "translations": {
+        "ru": "спелый"
+      },
+      "forms": {
+        "comparative": "riper",
+        "superlative": "ripest"
+      },
+      "examples": [
+        {
+          "en": "The peaches are ripe.",
+          "ru": "Персики спелые.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "romantic",
+      "lemma": "romantic",
+      "pos": "adj",
+      "rank": 312,
+      "level": "B1",
+      "translations": {
+        "ru": "романтичный"
+      },
+      "forms": {
+        "comparative": "more romantic",
+        "superlative": "most romantic"
+      },
+      "examples": [
+        {
+          "en": "It's a romantic restaurant.",
+          "ru": "Это романтичный ресторан.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "rude",
+      "lemma": "rude",
+      "pos": "adj",
+      "rank": 313,
+      "level": "B1",
+      "translations": {
+        "ru": "грубый"
+      },
+      "forms": {
+        "comparative": "ruder",
+        "superlative": "rudest"
+      },
+      "examples": [
+        {
+          "en": "The waiter was rude.",
+          "ru": "Официант был груб.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "salty",
+      "lemma": "salty",
+      "pos": "adj",
+      "rank": 314,
+      "level": "B2",
+      "translations": {
+        "ru": "солёный"
+      },
+      "forms": {
+        "comparative": "saltier",
+        "superlative": "saltiest"
+      },
+      "examples": [
+        {
+          "en": "The soup is too salty.",
+          "ru": "Суп слишком солёный.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "satisfied",
+      "lemma": "satisfied",
+      "pos": "adj",
+      "rank": 315,
+      "level": "B1",
+      "translations": {
+        "ru": "довольный"
+      },
+      "forms": {
+        "comparative": "more satisfied",
+        "superlative": "most satisfied"
+      },
+      "examples": [
+        {
+          "en": "We were satisfied with the service.",
+          "ru": "Мы остались довольны обслуживанием.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "scared",
+      "lemma": "scared",
+      "pos": "adj",
+      "rank": 316,
+      "level": "B1",
+      "translations": {
+        "ru": "напуганный"
+      },
+      "forms": {
+        "comparative": "more scared",
+        "superlative": "most scared"
+      },
+      "examples": [
+        {
+          "en": "I was scared of the dark.",
+          "ru": "Я боялся темноты.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "scary",
+      "lemma": "scary",
+      "pos": "adj",
+      "rank": 317,
+      "level": "B1",
+      "translations": {
+        "ru": "страшный"
+      },
+      "forms": {
+        "comparative": "scarier",
+        "superlative": "scariest"
+      },
+      "examples": [
+        {
+          "en": "The film was too scary.",
+          "ru": "Фильм был слишком страшным.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "selfish",
+      "lemma": "selfish",
+      "pos": "adj",
+      "rank": 318,
+      "level": "B2",
+      "translations": {
+        "ru": "эгоистичный"
+      },
+      "forms": {
+        "comparative": "more selfish",
+        "superlative": "most selfish"
+      },
+      "examples": [
+        {
+          "en": "Don't be selfish.",
+          "ru": "Не будь эгоистом.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "sensible",
+      "lemma": "sensible",
+      "pos": "adj",
+      "rank": 319,
+      "level": "B2",
+      "translations": {
+        "ru": "разумный"
+      },
+      "forms": {
+        "comparative": "more sensible",
+        "superlative": "most sensible"
+      },
+      "examples": [
+        {
+          "en": "It's a sensible idea.",
+          "ru": "Это разумная идея.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "sensitive",
+      "lemma": "sensitive",
+      "pos": "adj",
+      "rank": 320,
+      "level": "B2",
+      "translations": {
+        "ru": "чувствительный"
+      },
+      "forms": {
+        "comparative": "more sensitive",
+        "superlative": "most sensitive"
+      },
+      "examples": [
+        {
+          "en": "She is very sensitive.",
+          "ru": "Она очень чувствительная.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "severe",
+      "lemma": "severe",
+      "pos": "adj",
+      "rank": 321,
+      "level": "B2",
+      "translations": {
+        "ru": "суровый"
+      },
+      "forms": {
+        "comparative": "severer",
+        "superlative": "severest"
+      },
+      "examples": [
+        {
+          "en": "There was a severe storm.",
+          "ru": "Была сильная буря.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "shallow",
+      "lemma": "shallow",
+      "pos": "adj",
+      "rank": 322,
+      "level": "B2",
+      "translations": {
+        "ru": "мелкий"
+      },
+      "forms": {
+        "comparative": "shallower",
+        "superlative": "shallowest"
+      },
+      "examples": [
+        {
+          "en": "The sea is shallow here.",
+          "ru": "Здесь море мелкое.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "sharp",
+      "lemma": "sharp",
+      "pos": "adj",
+      "rank": 323,
+      "level": "B1",
+      "translations": {
+        "ru": "острый"
+      },
+      "forms": {
+        "comparative": "sharper",
+        "superlative": "sharpest"
+      },
+      "examples": [
+        {
+          "en": "Be careful, the knife is sharp.",
+          "ru": "Осторожно, нож острый.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "shiny",
+      "lemma": "shiny",
+      "pos": "adj",
+      "rank": 324,
+      "level": "B2",
+      "translations": {
+        "ru": "блестящий"
+      },
+      "forms": {
+        "comparative": "shinier",
+        "superlative": "shiniest"
+      },
+      "examples": [
+        {
+          "en": "The car is new and shiny.",
+          "ru": "Машина новая и блестящая.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "shy",
+      "lemma": "shy",
+      "pos": "adj",
+      "rank": 325,
+      "level": "B1",
+      "translations": {
+        "ru": "застенчивый"
+      },
+      "forms": {
+        "comparative": "shyer",
+        "superlative": "shyest"
+      },
+      "examples": [
+        {
+          "en": "He is shy at parties.",
+          "ru": "Он стесняется на вечеринках.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "silent",
+      "lemma": "silent",
+      "pos": "adj",
+      "rank": 326,
+      "level": "B1",
+      "translations": {
+        "ru": "тихий, молчаливый"
+      },
+      "forms": {
+        "comparative": "more silent",
+        "superlative": "most silent"
+      },
+      "examples": [
+        {
+          "en": "The room was silent.",
+          "ru": "В комнате было тихо.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "skilled",
+      "lemma": "skilled",
+      "pos": "adj",
+      "rank": 327,
+      "level": "B2",
+      "translations": {
+        "ru": "опытный, умелый"
+      },
+      "forms": {
+        "comparative": "more skilled",
+        "superlative": "most skilled"
+      },
+      "examples": [
+        {
+          "en": "He is a skilled driver.",
+          "ru": "Он опытный водитель.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "sleepy",
+      "lemma": "sleepy",
+      "pos": "adj",
+      "rank": 328,
+      "level": "B1",
+      "translations": {
+        "ru": "сонный"
+      },
+      "forms": {
+        "comparative": "sleepier",
+        "superlative": "sleepiest"
+      },
+      "examples": [
+        {
+          "en": "I'm sleepy after lunch.",
+          "ru": "После обеда я сонный.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "slim",
+      "lemma": "slim",
+      "pos": "adj",
+      "rank": 329,
+      "level": "B2",
+      "translations": {
+        "ru": "тонкий, стройный"
+      },
+      "forms": {
+        "comparative": "slimmer",
+        "superlative": "slimmest"
+      },
+      "examples": [
+        {
+          "en": "The phone is slim.",
+          "ru": "Телефон тонкий.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "smooth",
+      "lemma": "smooth",
+      "pos": "adj",
+      "rank": 330,
+      "level": "B2",
+      "translations": {
+        "ru": "гладкий; плавный"
+      },
+      "forms": {
+        "comparative": "smoother",
+        "superlative": "smoothest"
+      },
+      "examples": [
+        {
+          "en": "The flight was smooth.",
+          "ru": "Полёт был спокойным.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "sour",
+      "lemma": "sour",
+      "pos": "adj",
+      "rank": 331,
+      "level": "B2",
+      "translations": {
+        "ru": "кислый"
+      },
+      "forms": {
+        "comparative": "sourer",
+        "superlative": "sourest"
+      },
+      "examples": [
+        {
+          "en": "The milk is sour.",
+          "ru": "Молоко прокисло.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "spicy",
+      "lemma": "spicy",
+      "pos": "adj",
+      "rank": 332,
+      "level": "B1",
+      "translations": {
+        "ru": "острый (о еде)"
+      },
+      "forms": {
+        "comparative": "spicier",
+        "superlative": "spiciest"
+      },
+      "examples": [
+        {
+          "en": "The food is too spicy.",
+          "ru": "Еда слишком острая.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "splendid",
+      "lemma": "splendid",
+      "pos": "adj",
+      "rank": 333,
+      "level": "B2",
+      "translations": {
+        "ru": "великолепный"
+      },
+      "forms": {
+        "comparative": "more splendid",
+        "superlative": "most splendid"
+      },
+      "examples": [
+        {
+          "en": "The view is splendid.",
+          "ru": "Вид великолепный.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "steady",
+      "lemma": "steady",
+      "pos": "adj",
+      "rank": 334,
+      "level": "B2",
+      "translations": {
+        "ru": "устойчивый, ровный"
+      },
+      "forms": {
+        "comparative": "steadier",
+        "superlative": "steadiest"
+      },
+      "examples": [
+        {
+          "en": "The connection is steady.",
+          "ru": "Соединение стабильное.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "steep",
+      "lemma": "steep",
+      "pos": "adj",
+      "rank": 335,
+      "level": "B1",
+      "translations": {
+        "ru": "крутой"
+      },
+      "forms": {
+        "comparative": "steeper",
+        "superlative": "steepest"
+      },
+      "examples": [
+        {
+          "en": "The path is steep.",
+          "ru": "Тропа крутая.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "sticky",
+      "lemma": "sticky",
+      "pos": "adj",
+      "rank": 336,
+      "level": "B2",
+      "translations": {
+        "ru": "липкий"
+      },
+      "forms": {
+        "comparative": "stickier",
+        "superlative": "stickiest"
+      },
+      "examples": [
+        {
+          "en": "The table is sticky.",
+          "ru": "Стол липкий.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "stormy",
+      "lemma": "stormy",
+      "pos": "adj",
+      "rank": 337,
+      "level": "B1",
+      "translations": {
+        "ru": "штормовой"
+      },
+      "forms": {
+        "comparative": "stormier",
+        "superlative": "stormiest"
+      },
+      "examples": [
+        {
+          "en": "The weather was stormy.",
+          "ru": "Погода была штормовой.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "stressful",
+      "lemma": "stressful",
+      "pos": "adj",
+      "rank": 338,
+      "level": "B2",
+      "translations": {
+        "ru": "напряжённый"
+      },
+      "forms": {
+        "comparative": "more stressful",
+        "superlative": "most stressful"
+      },
+      "examples": [
+        {
+          "en": "It was a stressful week.",
+          "ru": "Это была напряжённая неделя.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "strict",
+      "lemma": "strict",
+      "pos": "adj",
+      "rank": 339,
+      "level": "B1",
+      "translations": {
+        "ru": "строгий"
+      },
+      "forms": {
+        "comparative": "stricter",
+        "superlative": "strictest"
+      },
+      "examples": [
+        {
+          "en": "The rules are strict.",
+          "ru": "Правила строгие.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "successful",
+      "lemma": "successful",
+      "pos": "adj",
+      "rank": 340,
+      "level": "B1",
+      "translations": {
+        "ru": "успешный"
+      },
+      "forms": {
+        "comparative": "more successful",
+        "superlative": "most successful"
+      },
+      "examples": [
+        {
+          "en": "The party was successful.",
+          "ru": "Вечеринка удалась.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "sunny",
+      "lemma": "sunny",
+      "pos": "adj",
+      "rank": 341,
+      "level": "A1",
+      "translations": {
+        "ru": "солнечный"
+      },
+      "forms": {
+        "comparative": "sunnier",
+        "superlative": "sunniest"
+      },
+      "examples": [
+        {
+          "en": "Tomorrow will be sunny.",
+          "ru": "Завтра будет солнечно.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "super",
+      "lemma": "super",
+      "pos": "adj",
+      "rank": 342,
+      "level": "A2",
+      "translations": {
+        "ru": "супер"
+      },
+      "examples": [
+        {
+          "en": "The pizza was super!",
+          "ru": "Пицца была супер!",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "tasty",
+      "lemma": "tasty",
+      "pos": "adj",
+      "rank": 343,
+      "level": "A2",
+      "translations": {
+        "ru": "вкусный"
+      },
+      "forms": {
+        "comparative": "tastier",
+        "superlative": "tastiest"
+      },
+      "examples": [
+        {
+          "en": "The soup is really tasty.",
+          "ru": "Суп очень вкусный.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "temporary",
+      "lemma": "temporary",
+      "pos": "adj",
+      "rank": 344,
+      "level": "B2",
+      "translations": {
+        "ru": "временный"
+      },
+      "forms": {
+        "comparative": "more temporary",
+        "superlative": "most temporary"
+      },
+      "examples": [
+        {
+          "en": "It's a temporary solution.",
+          "ru": "Это временное решение.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "tender",
+      "lemma": "tender",
+      "pos": "adj",
+      "rank": 345,
+      "level": "B2",
+      "translations": {
+        "ru": "нежный; мягкий"
+      },
+      "forms": {
+        "comparative": "tenderer",
+        "superlative": "tenderest"
+      },
+      "examples": [
+        {
+          "en": "The meat is tender.",
+          "ru": "Мясо мягкое.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "terrific",
+      "lemma": "terrific",
+      "pos": "adj",
+      "rank": 346,
+      "level": "B2",
+      "translations": {
+        "ru": "потрясающий"
+      },
+      "forms": {
+        "comparative": "more terrific",
+        "superlative": "most terrific"
+      },
+      "examples": [
+        {
+          "en": "We had a terrific time.",
+          "ru": "Мы потрясающе провели время.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "thick",
+      "lemma": "thick",
+      "pos": "adj",
+      "rank": 347,
+      "level": "B1",
+      "translations": {
+        "ru": "толстый; густой"
+      },
+      "forms": {
+        "comparative": "thicker",
+        "superlative": "thickest"
+      },
+      "examples": [
+        {
+          "en": "The fog is thick.",
+          "ru": "Туман густой.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "thin",
+      "lemma": "thin",
+      "pos": "adj",
+      "rank": 348,
+      "level": "A2",
+      "translations": {
+        "ru": "тонкий"
+      },
+      "forms": {
+        "comparative": "thinner",
+        "superlative": "thinnest"
+      },
+      "examples": [
+        {
+          "en": "The walls are thin.",
+          "ru": "Стены тонкие.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "thirsty",
+      "lemma": "thirsty",
+      "pos": "adj",
+      "rank": 349,
+      "level": "A2",
+      "translations": {
+        "ru": "жаждущий"
+      },
+      "forms": {
+        "comparative": "thirstier",
+        "superlative": "thirstiest"
+      },
+      "examples": [
+        {
+          "en": "I'm thirsty, let's get a drink.",
+          "ru": "Хочется пить, давай возьмём что-нибудь.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "tidy",
+      "lemma": "tidy",
+      "pos": "adj",
+      "rank": 350,
+      "level": "B2",
+      "translations": {
+        "ru": "аккуратный, прибранный"
+      },
+      "forms": {
+        "comparative": "tidier",
+        "superlative": "tidiest"
+      },
+      "examples": [
+        {
+          "en": "The room was clean and tidy.",
+          "ru": "Номер был чистым и аккуратным.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "tourist",
+      "lemma": "tourist",
+      "pos": "adj",
+      "rank": 351,
+      "level": "B1",
+      "translations": {
+        "ru": "туристический"
+      },
+      "examples": [
+        {
+          "en": "It's a tourist area.",
+          "ru": "Это туристический район.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "traditional",
+      "lemma": "traditional",
+      "pos": "adj",
+      "rank": 352,
+      "level": "B1",
+      "translations": {
+        "ru": "традиционный"
+      },
+      "forms": {
+        "comparative": "more traditional",
+        "superlative": "most traditional"
+      },
+      "examples": [
+        {
+          "en": "We had a traditional dinner.",
+          "ru": "У нас был традиционный ужин.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "tropical",
+      "lemma": "tropical",
+      "pos": "adj",
+      "rank": 353,
+      "level": "B2",
+      "translations": {
+        "ru": "тропический"
+      },
+      "examples": [
+        {
+          "en": "The island has a tropical climate.",
+          "ru": "На острове тропический климат.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "typical",
+      "lemma": "typical",
+      "pos": "adj",
+      "rank": 354,
+      "level": "B1",
+      "translations": {
+        "ru": "типичный"
+      },
+      "forms": {
+        "comparative": "more typical",
+        "superlative": "most typical"
+      },
+      "examples": [
+        {
+          "en": "It's a typical Spanish village.",
+          "ru": "Это типичная испанская деревня.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "unable",
+      "lemma": "unable",
+      "pos": "adj",
+      "rank": 355,
+      "level": "B2",
+      "translations": {
+        "ru": "неспособный"
+      },
+      "examples": [
+        {
+          "en": "I'm unable to come tonight.",
+          "ru": "Я не смогу прийти сегодня вечером.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "unbelievable",
+      "lemma": "unbelievable",
+      "pos": "adj",
+      "rank": 356,
+      "level": "B2",
+      "translations": {
+        "ru": "невероятный"
+      },
+      "forms": {
+        "comparative": "more unbelievable",
+        "superlative": "most unbelievable"
+      },
+      "examples": [
+        {
+          "en": "The price is unbelievable.",
+          "ru": "Цена невероятная.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "uncomfortable",
+      "lemma": "uncomfortable",
+      "pos": "adj",
+      "rank": 357,
+      "level": "B1",
+      "translations": {
+        "ru": "неудобный"
+      },
+      "forms": {
+        "comparative": "more uncomfortable",
+        "superlative": "most uncomfortable"
+      },
+      "examples": [
+        {
+          "en": "The bed was uncomfortable.",
+          "ru": "Кровать была неудобной.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "unfair",
+      "lemma": "unfair",
+      "pos": "adj",
+      "rank": 358,
+      "level": "B1",
+      "translations": {
+        "ru": "несправедливый"
+      },
+      "forms": {
+        "comparative": "more unfair",
+        "superlative": "most unfair"
+      },
+      "examples": [
+        {
+          "en": "That's unfair.",
+          "ru": "Это несправедливо.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "unfortunate",
+      "lemma": "unfortunate",
+      "pos": "adj",
+      "rank": 359,
+      "level": "B2",
+      "translations": {
+        "ru": "неудачный"
+      },
+      "forms": {
+        "comparative": "more unfortunate",
+        "superlative": "most unfortunate"
+      },
+      "examples": [
+        {
+          "en": "It was an unfortunate mistake.",
+          "ru": "Это была досадная ошибка.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "unhappy",
+      "lemma": "unhappy",
+      "pos": "adj",
+      "rank": 360,
+      "level": "B1",
+      "translations": {
+        "ru": "несчастный"
+      },
+      "forms": {
+        "comparative": "unhappier",
+        "superlative": "unhappiest"
+      },
+      "examples": [
+        {
+          "en": "They were unhappy with the room.",
+          "ru": "Они были недовольны номером.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "unique",
+      "lemma": "unique",
+      "pos": "adj",
+      "rank": 361,
+      "level": "B1",
+      "translations": {
+        "ru": "уникальный"
+      },
+      "forms": {
+        "comparative": "more unique",
+        "superlative": "most unique"
+      },
+      "examples": [
+        {
+          "en": "The hotel is unique.",
+          "ru": "Этот отель уникален.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "unknown",
+      "lemma": "unknown",
+      "pos": "adj",
+      "rank": 362,
+      "level": "B1",
+      "translations": {
+        "ru": "неизвестный"
+      },
+      "examples": [
+        {
+          "en": "The sender is unknown.",
+          "ru": "Отправитель неизвестен.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "unlucky",
+      "lemma": "unlucky",
+      "pos": "adj",
+      "rank": 363,
+      "level": "B1",
+      "translations": {
+        "ru": "невезучий"
+      },
+      "forms": {
+        "comparative": "unluckier",
+        "superlative": "unluckiest"
+      },
+      "examples": [
+        {
+          "en": "We were unlucky with the weather.",
+          "ru": "С погодой нам не повезло.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "unusual",
+      "lemma": "unusual",
+      "pos": "adj",
+      "rank": 364,
+      "level": "B1",
+      "translations": {
+        "ru": "необычный"
+      },
+      "forms": {
+        "comparative": "more unusual",
+        "superlative": "most unusual"
+      },
+      "examples": [
+        {
+          "en": "It's an unusual name.",
+          "ru": "Это необычное имя.",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "upset-adj",
+      "lemma": "upset",
+      "pos": "adj",
+      "rank": 365,
+      "level": "B1",
+      "translations": {
+        "ru": "расстроенный"
+      },
+      "forms": {
+        "comparative": "more upset",
+        "superlative": "most upset"
+      },
+      "examples": [
+        {
+          "en": "She was upset about the delay.",
+          "ru": "Она расстроилась из-за задержки.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "urgent",
+      "lemma": "urgent",
+      "pos": "adj",
+      "rank": 366,
+      "level": "B1",
+      "translations": {
+        "ru": "срочный"
+      },
+      "forms": {
+        "comparative": "more urgent",
+        "superlative": "most urgent"
+      },
+      "examples": [
+        {
+          "en": "It's urgent, please call me.",
+          "ru": "Это срочно, позвони мне.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "useful",
+      "lemma": "useful",
+      "pos": "adj",
+      "rank": 367,
+      "level": "A2",
+      "translations": {
+        "ru": "полезный"
+      },
+      "forms": {
+        "comparative": "more useful",
+        "superlative": "most useful"
+      },
+      "examples": [
+        {
+          "en": "This app is really useful.",
+          "ru": "Это приложение очень полезное.",
+          "topic": "it"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "useless",
+      "lemma": "useless",
+      "pos": "adj",
+      "rank": 368,
+      "level": "B1",
+      "translations": {
+        "ru": "бесполезный"
+      },
+      "forms": {
+        "comparative": "more useless",
+        "superlative": "most useless"
+      },
+      "examples": [
+        {
+          "en": "This map is useless.",
+          "ru": "Эта карта бесполезна.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "valuable",
+      "lemma": "valuable",
+      "pos": "adj",
+      "rank": 369,
+      "level": "B1",
+      "translations": {
+        "ru": "ценный"
+      },
+      "forms": {
+        "comparative": "more valuable",
+        "superlative": "most valuable"
+      },
+      "examples": [
+        {
+          "en": "Don't leave valuable things in the room.",
+          "ru": "Не оставляйте ценные вещи в номере.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "various",
+      "lemma": "various",
+      "pos": "adj",
+      "rank": 370,
+      "level": "B2",
+      "translations": {
+        "ru": "различный"
+      },
+      "examples": [
+        {
+          "en": "There are various options.",
+          "ru": "Есть разные варианты.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "vast",
+      "lemma": "vast",
+      "pos": "adj",
+      "rank": 371,
+      "level": "B2",
+      "translations": {
+        "ru": "обширный"
+      },
+      "forms": {
+        "comparative": "vaster",
+        "superlative": "vastest"
+      },
+      "examples": [
+        {
+          "en": "The desert is vast.",
+          "ru": "Пустыня обширна.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "violent",
+      "lemma": "violent",
+      "pos": "adj",
+      "rank": 372,
+      "level": "B2",
+      "translations": {
+        "ru": "жестокий; сильный"
+      },
+      "forms": {
+        "comparative": "more violent",
+        "superlative": "most violent"
+      },
+      "examples": [
+        {
+          "en": "There was a violent storm.",
+          "ru": "Была сильная гроза.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "visible",
+      "lemma": "visible",
+      "pos": "adj",
+      "rank": 373,
+      "level": "B2",
+      "translations": {
+        "ru": "видимый"
+      },
+      "forms": {
+        "comparative": "more visible",
+        "superlative": "most visible"
+      },
+      "examples": [
+        {
+          "en": "The mountains are visible from the hotel.",
+          "ru": "Горы видны из отеля.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "vivid",
+      "lemma": "vivid",
+      "pos": "adj",
+      "rank": 374,
+      "level": "B2",
+      "translations": {
+        "ru": "яркий"
+      },
+      "forms": {
+        "comparative": "vivider",
+        "superlative": "vividest"
+      },
+      "examples": [
+        {
+          "en": "She has vivid memories of the trip.",
+          "ru": "У неё яркие воспоминания о поездке.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "vital",
+      "lemma": "vital",
+      "pos": "adj",
+      "rank": 375,
+      "level": "B2",
+      "translations": {
+        "ru": "жизненно важный"
+      },
+      "forms": {
+        "comparative": "more vital",
+        "superlative": "most vital"
+      },
+      "examples": [
+        {
+          "en": "It's vital to have a ticket.",
+          "ru": "Жизненно важно иметь билет.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "wet",
+      "lemma": "wet",
+      "pos": "adj",
+      "rank": 376,
+      "level": "A2",
+      "translations": {
+        "ru": "мокрый"
+      },
+      "forms": {
+        "comparative": "wetter",
+        "superlative": "wettest"
+      },
+      "examples": [
+        {
+          "en": "My shoes are wet.",
+          "ru": "Мои туфли мокрые.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "wise",
+      "lemma": "wise",
+      "pos": "adj",
+      "rank": 377,
+      "level": "B1",
+      "translations": {
+        "ru": "мудрый"
+      },
+      "forms": {
+        "comparative": "wiser",
+        "superlative": "wisest"
+      },
+      "examples": [
+        {
+          "en": "That was a wise decision.",
+          "ru": "Это было мудрое решение.",
+          "topic": "daily"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "worried",
+      "lemma": "worried",
+      "pos": "adj",
+      "rank": 378,
+      "level": "A2",
+      "translations": {
+        "ru": "обеспокоенный"
+      },
+      "forms": {
+        "comparative": "more worried",
+        "superlative": "most worried"
+      },
+      "examples": [
+        {
+          "en": "I'm worried about the flight.",
+          "ru": "Я беспокоюсь о рейсе.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "worthwhile",
+      "lemma": "worthwhile",
+      "pos": "adj",
+      "rank": 379,
+      "level": "B2",
+      "translations": {
+        "ru": "стоящий"
+      },
+      "forms": {
+        "comparative": "more worthwhile",
+        "superlative": "most worthwhile"
+      },
+      "examples": [
+        {
+          "en": "The trip was worthwhile.",
+          "ru": "Поездка того стоила.",
+          "topic": "travel"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
+      }
+    },
+    {
+      "id": "yummy",
+      "lemma": "yummy",
+      "pos": "adj",
+      "rank": 380,
+      "level": "B1",
+      "translations": {
+        "ru": "вкусный (разг.)"
+      },
+      "forms": {
+        "comparative": "yummier",
+        "superlative": "yummiest"
+      },
+      "examples": [
+        {
+          "en": "The cake was yummy!",
+          "ru": "Торт был очень вкусным!",
+          "topic": "friends"
+        }
+      ],
+      "ext": {
+        "draft": true,
+        "extra": true
       }
     }
   ]

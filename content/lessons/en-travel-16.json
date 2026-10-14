@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-16",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 16,
+  "level": "B1",
+  "title": {
+    "ru": "Потерялась сумка",
+    "en": "A lost bag",
+    "es": "Maleta perdida"
+  },
+  "words": [
+    "lose",
+    "bag",
+    "unfortunately"
+  ],
+  "phrase": {
+    "en": "Unfortunately, I've lost my bag. Can you help me find it?",
+    "ru": "К сожалению, я потерял сумку. Поможете её найти?",
+    "es": "Por desgracia, he perdido mi bolsa. ¿Puede ayudarme a encontrarla?"
+  },
+  "rule": {
+    "text": {
+      "ru": "lose — lost — lost (неправильный). Результат сейчас — Present Perfect: I've lost my bag. Unfortunately — в начале фразы, через запятую.",
+      "en": "lose – lost – lost is irregular. A result that matters now: I've lost my bag. Unfortunately usually opens a sentence, then a comma.",
+      "es": "lose – lost – lost. Present Perfect para el resultado actual."
+    },
+    "examples": [
+      {
+        "en": "I lost my phone yesterday.",
+        "ru": "Вчера я потерял телефон."
+      },
+      {
+        "en": "Has anyone seen a black bag?",
+        "ru": "Кто-нибудь видел чёрную сумку?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I think I ___ my bag on the train.",
+      "answer": "lost",
+      "ru": "Кажется, я потерял сумку в поезде."
+    },
+    {
+      "type": "fill",
+      "en": "This ___ is not mine.",
+      "answer": "bag",
+      "ru": "Эта сумка не моя."
+    },
+    {
+      "type": "build",
+      "en": "Unfortunately, we lost our bags at the airport.",
+      "ru": "К сожалению, мы потеряли сумки в аэропорту.",
+      "extra": [
+        "loses"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я потерял сумку.",
+      "answer": [
+        "I lost my bag.",
+        "I've lost my bag.",
+        "I have lost my bag."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

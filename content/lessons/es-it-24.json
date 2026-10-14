@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-24",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 24,
+  "level": "A2",
+  "title": {
+    "ru": "Комментарии коллег",
+    "en": "Feedback from colleagues",
+    "es": "Comentarios de los colegas"
+  },
+  "words": [
+    "sugerir",
+    "comentario",
+    "útil"
+  ],
+  "phrase": {
+    "es": "Gracias por el comentario útil. Sugiero cambiar el nombre.",
+    "ru": "Спасибо за полезный комментарий. Предлагаю поменять название.",
+    "en": "Thanks for the useful comment. I suggest changing the name."
+  },
+  "rule": {
+    "text": {
+      "ru": "Предлагать — sugerir (e → ie, в 3-м лице pretérito e → i): sugiero, sugieres, sugiere, sugerimos. После sugerir можно инфинитив: sugiero cambiar.",
+      "en": "To suggest: sugerir (e → ie): sugiero, sugieres, sugiere, sugerimos. After sugerir use an infinitive: sugiero cambiar.",
+      "es": "sugerir e → ie. sugiero + infinitivo."
+    },
+    "examples": [
+      {
+        "es": "Sugiero empezar mañana.",
+        "ru": "Предлагаю начать завтра."
+      },
+      {
+        "es": "Dejo un comentario aquí.",
+        "ru": "Оставляю комментарий здесь."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Yo ___ cambiar el plan.",
+      "answer": "sugiero",
+      "ru": "Я предлагаю изменить план."
+    },
+    {
+      "type": "fill",
+      "es": "Gracias por tu ___.",
+      "answer": "comentario",
+      "ru": "Спасибо за твой комментарий."
+    },
+    {
+      "type": "build",
+      "es": "Sugiero dejar un comentario útil.",
+      "ru": "Предлагаю оставить полезный комментарий.",
+      "extra": [
+        "sugieres"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я предлагаю встретиться.",
+      "answer": [
+        "Sugiero quedar.",
+        "Sugiero vernos.",
+        "Sugiero reunirnos."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

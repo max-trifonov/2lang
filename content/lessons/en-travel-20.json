@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-20",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 20,
+  "level": "B1",
+  "title": {
+    "ru": "Поезд опаздывает",
+    "en": "The train is late",
+    "es": "El tren llega tarde"
+  },
+  "words": [
+    "wait",
+    "station",
+    "late"
+  ],
+  "phrase": {
+    "en": "The train is late. How long do we have to wait at the station?",
+    "ru": "Поезд опаздывает. Сколько нам ждать на вокзале?",
+    "es": "El tren llega tarde. ¿Cuánto tenemos que esperar en la estación?"
+  },
+  "rule": {
+    "text": {
+      "ru": "How long…? — «как долго». have to — нужно: we have to wait. Late — «поздно/опоздавший»: The train is late.",
+      "en": "How long…? asks about duration. Have to expresses necessity: we have to wait. Late means \"after the expected time\".",
+      "es": "How long…? have to = tener que. Late = tarde."
+    },
+    "examples": [
+      {
+        "en": "How long is the delay?",
+        "ru": "Какая задержка?"
+      },
+      {
+        "en": "We have to wait for another train.",
+        "ru": "Нам придётся ждать другой поезд."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We have to ___ for two hours.",
+      "answer": "wait",
+      "ru": "Нам придётся ждать два часа."
+    },
+    {
+      "type": "fill",
+      "en": "The train arrived half an hour ___ .",
+      "answer": "late",
+      "ru": "Поезд прибыл с опозданием на полчаса."
+    },
+    {
+      "type": "build",
+      "en": "We waited at the station for an hour.",
+      "ru": "Мы ждали на вокзале час.",
+      "extra": [
+        "waiting"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Нам нужно подождать.",
+      "answer": [
+        "We have to wait.",
+        "We need to wait."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

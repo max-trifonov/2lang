@@ -1,0 +1,232 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "daffodils",
+  "kind": "poem",
+  "lang": "en",
+  "license": "public-domain",
+  "title": {
+    "en": "I Wandered Lonely as a Cloud",
+    "ru": "Я бродил одиноко, как облако",
+    "es": "Vagaba solitario como una nube"
+  },
+  "author": "William Wordsworth (1807)",
+  "year": 1807,
+  "level": "B2",
+  "tags": [
+    "nature",
+    "classic"
+  ],
+  "note": {
+    "ru": "Стихотворение о нарциссах (daffodils) у озера. Знаменитое сравнение с облаком в первой строке",
+    "en": "A poem about daffodils by a lake. The famous cloud comparison opens it.",
+    "es": "Poema sobre los narcisos junto a un lago. Empieza con la famosa comparación con una nube."
+  },
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "I wandered lonely as a cloud",
+          "ru": "Я бродил одиноко, как облако,",
+          "es": "Vagaba solitario como una nube",
+          "phrases": [
+            {
+              "en": "lonely as a cloud",
+              "ru": "одиноко, как облако",
+              "es": "solitario como una nube",
+              "note": {
+                "ru": "as + прилагательное + as — сравнение"
+              }
+            }
+          ]
+        },
+        {
+          "en": "That floats on high o'er vales and hills,",
+          "ru": "Что плывёт высоко над долинами и холмами,",
+          "es": "que flota en lo alto sobre valles y colinas,"
+        },
+        {
+          "en": "When all at once I saw a crowd,",
+          "ru": "Как вдруг я увидел толпу,",
+          "es": "cuando de pronto vi una multitud,",
+          "phrases": [
+            {
+              "en": "all at once",
+              "ru": "вдруг, сразу",
+              "es": "de pronto"
+            }
+          ]
+        },
+        {
+          "en": "A host, of golden daffodils;",
+          "ru": "Целое войско золотых нарциссов;",
+          "es": "un ejército de narcisos dorados;"
+        },
+        {
+          "en": "Beside the lake, beneath the trees,",
+          "ru": "У озера, под деревьями,",
+          "es": "junto al lago, bajo los árboles,"
+        },
+        {
+          "en": "Fluttering and dancing in the breeze.",
+          "ru": "Трепещущих и пляшущих на ветерке.",
+          "es": "ondeando y bailando con la brisa.",
+          "phrases": [
+            {
+              "en": "in the breeze",
+              "ru": "на ветерке",
+              "es": "con la brisa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Continuous as the stars that shine",
+          "ru": "Бесконечных, как звёзды, что сияют",
+          "es": "Continuos como las estrellas que brillan"
+        },
+        {
+          "en": "And twinkle on the Milky Way,",
+          "ru": "И мерцают на Млечном Пути,",
+          "es": "y titilan en la Vía Láctea,"
+        },
+        {
+          "en": "They stretched in never-ending line",
+          "ru": "Они тянулись нескончаемой чередой",
+          "es": "se extendían en una línea sin fin"
+        },
+        {
+          "en": "Along the margin of a bay:",
+          "ru": "Вдоль берега залива:",
+          "es": "a lo largo de la orilla de una bahía:"
+        },
+        {
+          "en": "Ten thousand saw I at a glance,",
+          "ru": "Десять тысяч увидел я с одного взгляда,",
+          "es": "Diez mil vi de una sola mirada,",
+          "phrases": [
+            {
+              "en": "at a glance",
+              "ru": "с одного взгляда",
+              "es": "de una sola mirada"
+            }
+          ]
+        },
+        {
+          "en": "Tossing their heads in sprightly dance.",
+          "ru": "Они качали головками в бодром танце.",
+          "es": "agitando sus cabezas en un baile animado."
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "The waves beside them danced; but they",
+          "ru": "Рядом плясали волны, но они",
+          "es": "Las olas a su lado bailaban; pero ellos"
+        },
+        {
+          "en": "Out-did the sparkling waves in glee:",
+          "ru": "Превзошли искристые волны весельем:",
+          "es": "superaban en alegría a las olas brillantes:"
+        },
+        {
+          "en": "A poet could not but be gay,",
+          "ru": "Поэт не мог не веселиться",
+          "es": "Un poeta no podía sino alegrarse",
+          "phrases": [
+            {
+              "en": "could not but be",
+              "ru": "не мог не быть",
+              "es": "no podía sino ser",
+              "note": {
+                "ru": "could not but + глагол — «не мог не»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "In such a jocund company:",
+          "ru": "В такой весёлой компании:",
+          "es": "en tan alegre compañía:"
+        },
+        {
+          "en": "I gazed—and gazed—but little thought",
+          "ru": "Я смотрел и смотрел, но не думал",
+          "es": "Miré y miré, pero poco pensé"
+        },
+        {
+          "en": "What wealth the show to me had brought:",
+          "ru": "Какое богатство мне принесло это зрелище:",
+          "es": "qué riqueza me había traído aquel espectáculo:"
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "For oft, when on my couch I lie",
+          "ru": "Ведь часто, когда я лежу на диване",
+          "es": "Pues a menudo, cuando me tiendo en mi lecho",
+          "phrases": [
+            {
+              "en": "For oft",
+              "ru": "ведь часто",
+              "es": "pues a menudo",
+              "note": {
+                "ru": "oft — поэтическое often"
+              }
+            }
+          ]
+        },
+        {
+          "en": "In vacant or in pensive mood,",
+          "ru": "В праздном или задумчивом настроении,",
+          "es": "de ánimo vacío o pensativo,"
+        },
+        {
+          "en": "They flash upon that inward eye",
+          "ru": "Они вспыхивают перед внутренним взором,",
+          "es": "ellos destellan ante ese ojo interior",
+          "phrases": [
+            {
+              "en": "inward eye",
+              "ru": "внутренний взор",
+              "es": "ojo interior"
+            }
+          ]
+        },
+        {
+          "en": "Which is the bliss of solitude;",
+          "ru": "Который — блаженство одиночества;",
+          "es": "que es la dicha de la soledad;"
+        },
+        {
+          "en": "And then my heart with pleasure fills,",
+          "ru": "И тогда моё сердце наполняется радостью",
+          "es": "Y entonces mi corazón se llena de placer"
+        },
+        {
+          "en": "And dances with the daffodils.",
+          "ru": "И пляшет вместе с нарциссами.",
+          "es": "y baila con los narcisos.",
+          "phrases": [
+            {
+              "en": "dances with the daffodils",
+              "ru": "пляшет с нарциссами",
+              "es": "baila con los narcisos"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

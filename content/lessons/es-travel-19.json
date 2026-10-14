@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-19",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 19,
+  "level": "A2",
+  "title": {
+    "ru": "День на пляже",
+    "en": "A day at the beach",
+    "es": "Un día en la playa"
+  },
+  "words": [
+    "nadar",
+    "playa",
+    "tranquilo"
+  ],
+  "phrase": {
+    "es": "¿Se puede nadar en esta playa? El mar está tranquilo.",
+    "ru": "Здесь можно купаться? Море спокойное.",
+    "en": "Can you swim on this beach? The sea is calm."
+  },
+  "rule": {
+    "text": {
+      "ru": "¿Se puede + инфинитив? — «можно ли…?» Estar tranquilo — «быть спокойным» (о море, о человеке). Playa — женский род.",
+      "en": "¿Se puede + infinitive? asks \"is it allowed / possible?\". Estar tranquilo = to be calm. Playa is feminine.",
+      "es": "¿Se puede + infinitivo? la playa."
+    },
+    "examples": [
+      {
+        "es": "¿Se puede nadar aquí?",
+        "ru": "Здесь можно плавать?"
+      },
+      {
+        "es": "La playa es muy bonita.",
+        "ru": "Пляж очень красивый."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Me gusta ___ en el mar.",
+      "answer": "nadar",
+      "ru": "Я люблю плавать в море."
+    },
+    {
+      "type": "fill",
+      "es": "Nos vemos en la ___.",
+      "answer": "playa",
+      "ru": "Увидимся на пляже."
+    },
+    {
+      "type": "build",
+      "es": "Hoy el mar está tranquilo y podemos nadar.",
+      "ru": "Сегодня море спокойное, и можно плавать.",
+      "extra": [
+        "nadas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Здесь можно плавать?",
+      "answer": [
+        "¿Se puede nadar aquí?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-11",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 11,
+  "level": "B1",
+  "title": {
+    "ru": "Ежедневный созвон",
+    "en": "The daily stand-up",
+    "es": "Reunión diaria"
+  },
+  "words": [
+    "report",
+    "team",
+    "daily"
+  ],
+  "phrase": {
+    "en": "Let's report our progress to the team every day.",
+    "ru": "Давайте каждый день сообщать команде о прогрессе.",
+    "es": "Informemos a diario al equipo de nuestro progreso."
+  },
+  "rule": {
+    "text": {
+      "ru": "Прогресс — Present Perfect: I've finished the task. Текущая работа — Present Continuous: I'm working on the login page.",
+      "en": "Progress: Present Perfect — I've finished the task. Work in progress: Present Continuous — I'm working on the login page.",
+      "es": "Progreso: Present Perfect. Trabajo en curso: Present Continuous."
+    },
+    "examples": [
+      {
+        "en": "I've finished the first task.",
+        "ru": "Я закончил первую задачу."
+      },
+      {
+        "en": "I'm working on the login page.",
+        "ru": "Я работаю над страницей входа."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I will ___ the results on Monday.",
+      "answer": "report",
+      "ru": "Я доложу о результатах в понедельник."
+    },
+    {
+      "type": "fill",
+      "en": "Our ___ meets every morning.",
+      "answer": "team",
+      "ru": "Наша команда собирается каждое утро."
+    },
+    {
+      "type": "build",
+      "en": "We have a daily meeting with the team.",
+      "ru": "У нас ежедневная встреча с командой.",
+      "extra": [
+        "reports"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Моя команда работает каждый день.",
+      "answer": [
+        "My team works every day.",
+        "My team works daily."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

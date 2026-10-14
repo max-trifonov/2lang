@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-26",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 26,
+  "level": "A2",
+  "title": {
+    "ru": "Вечер настольных игр",
+    "en": "Game night",
+    "es": "Noche de juegos"
+  },
+  "words": [
+    "jugar",
+    "juego",
+    "divertido"
+  ],
+  "phrase": {
+    "es": "Jugamos a un juego esta noche. Es muy divertido.",
+    "ru": "Мы играем в игру сегодня вечером. Она очень весёлая.",
+    "en": "We play a game tonight. It's very fun."
+  },
+  "rule": {
+    "text": {
+      "ru": "Играть в игру — jugar a un juego. Чья очередь? — ¿A quién le toca? Мне — me toca. Divertido — «забавный, весёлый».",
+      "en": "Play a game: jugar a un juego. Whose turn? ¿A quién le toca? Mine: me toca. Divertido = fun.",
+      "es": "jugar a un juego. ¿A quién le toca?"
+    },
+    "examples": [
+      {
+        "es": "¿A quién le toca?",
+        "ru": "Чья очередь?"
+      },
+      {
+        "es": "Me toca a mí.",
+        "ru": "Моя очередь."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Esta noche ___ a las cartas.",
+      "answer": "jugamos",
+      "ru": "Сегодня вечером мы играем в карты."
+    },
+    {
+      "type": "fill",
+      "es": "Este ___ es muy fácil.",
+      "answer": "juego",
+      "ru": "Эта игра очень лёгкая."
+    },
+    {
+      "type": "build",
+      "es": "Jugamos a un juego muy divertido.",
+      "ru": "Мы играем в очень весёлую игру.",
+      "extra": [
+        "juegas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Давай поиграем в игру.",
+      "answer": [
+        "Jugamos a un juego.",
+        "Vamos a jugar a un juego."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

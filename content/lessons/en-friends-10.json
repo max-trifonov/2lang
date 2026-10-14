@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-10",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 10,
+  "level": "B1",
+  "title": {
+    "ru": "Поездка с друзьями",
+    "en": "A trip with friends",
+    "es": "Un viaje con amigos"
+  },
+  "words": [
+    "hire",
+    "weekend",
+    "cheap"
+  ],
+  "phrase": {
+    "en": "Why don't we hire a car for the weekend? It's cheap if we share.",
+    "ru": "Почему бы нам не взять машину на выходные? Если делить, то это дёшево.",
+    "es": "¿Por qué no alquilamos un coche para el fin de semana? Es barato si lo compartimos."
+  },
+  "rule": {
+    "text": {
+      "ru": "Предложение — Why don't we + глагол? Условие — if + Present Simple: It's cheap if we share.",
+      "en": "A suggestion: Why don't we + verb? A condition: if + Present Simple — It's cheap if we share.",
+      "es": "Sugerencia: Why don't we + verbo. Condición: if + Present Simple."
+    },
+    "examples": [
+      {
+        "en": "Why don't we go by train?",
+        "ru": "Почему бы нам не поехать на поезде?"
+      },
+      {
+        "en": "It's cheaper if we book now.",
+        "ru": "Дешевле, если мы забронируем сейчас."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Why don't we ___ a car for two days?",
+      "answer": "hire",
+      "ru": "Почему бы нам не взять машину на два дня?"
+    },
+    {
+      "type": "fill",
+      "en": "Train tickets are ___ on Sundays.",
+      "answer": "cheaper",
+      "ru": "В воскресенье билеты на поезд дешевле."
+    },
+    {
+      "type": "build",
+      "en": "We hired a cheap car for the weekend.",
+      "ru": "Мы взяли недорогую машину на выходные.",
+      "extra": [
+        "hires"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Почему бы нам не поехать на выходные?",
+      "answer": [
+        "Why don't we go for the weekend?",
+        "Why don't we go away for the weekend?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

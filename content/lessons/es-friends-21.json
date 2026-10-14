@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-21",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 21,
+  "level": "A2",
+  "title": {
+    "ru": "Вежливый отказ",
+    "en": "Saying no politely",
+    "es": "Decir que no con educación"
+  },
+  "words": [
+    "poder",
+    "plan",
+    "ocupado"
+  ],
+  "phrase": {
+    "es": "Lo siento, no puedo. Ya tengo un plan y estoy ocupado.",
+    "ru": "Прости, я не могу. У меня уже есть планы, и я занят.",
+    "en": "Sorry, I can't. I already have a plan and I'm busy."
+  },
+  "rule": {
+    "text": {
+      "ru": "Не могу — no puedo (o → ue: puedo, puedes, puede, podemos). Вежливо — «Me encantaría, pero…». Занят — estar ocupado.",
+      "en": "I can't: no puedo (o → ue: puedo, puedes, puede, podemos). Politely: Me encantaría, pero… Busy = estar ocupado.",
+      "es": "poder o → ue. Me encantaría, pero… estar ocupado."
+    },
+    "examples": [
+      {
+        "es": "Me encantaría, pero no puedo.",
+        "ru": "Я бы с радостью, но не могу."
+      },
+      {
+        "es": "Hoy estoy muy ocupado.",
+        "ru": "Сегодня я очень занят."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Lo siento, no ___ ir.",
+      "answer": "puedo",
+      "ru": "Прости, я не могу пойти."
+    },
+    {
+      "type": "fill",
+      "es": "Hoy tengo un ___ con mi familia.",
+      "answer": "plan",
+      "ru": "Сегодня у меня планы с семьёй."
+    },
+    {
+      "type": "build",
+      "es": "No puedo ir porque estoy ocupado.",
+      "ru": "Я не могу пойти, потому что занят.",
+      "extra": [
+        "puedes"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я не могу, я занят.",
+      "answer": [
+        "No puedo, estoy ocupado."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

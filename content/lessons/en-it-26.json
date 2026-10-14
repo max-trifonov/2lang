@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-26",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 26,
+  "level": "B1",
+  "title": {
+    "ru": "Новый инструмент",
+    "en": "A new tool",
+    "es": "Una herramienta nueva"
+  },
+  "words": [
+    "learn",
+    "tool",
+    "useful"
+  ],
+  "phrase": {
+    "en": "I'm learning a new tool. It's really useful for our team.",
+    "ru": "Я изучаю новый инструмент. Он очень полезен для нашей команды.",
+    "es": "Estoy aprendiendo una herramienta nueva. Es muy útil para nuestro equipo."
+  },
+  "rule": {
+    "text": {
+      "ru": "Сейчас, в этот период — Present Continuous: I'm learning. useful for — полезный для. Learn how to + глагол — научиться.",
+      "en": "For something happening now or around now use the Present Continuous: I'm learning. Useful for… Learn how to + verb.",
+      "es": "Present Continuous para lo que hago ahora. useful for. learn how to."
+    },
+    "examples": [
+      {
+        "en": "I'm learning how to use it.",
+        "ru": "Я учусь им пользоваться."
+      },
+      {
+        "en": "This tool is useful for testing.",
+        "ru": "Этот инструмент полезен для тестирования."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I want to ___ a new tool.",
+      "answer": "learn",
+      "ru": "Я хочу изучить новый инструмент."
+    },
+    {
+      "type": "fill",
+      "en": "This ___ saves us a lot of time.",
+      "answer": "tool",
+      "ru": "Этот инструмент экономит нам много времени."
+    },
+    {
+      "type": "build",
+      "en": "This tool is useful for our team.",
+      "ru": "Этот инструмент полезен для нашей команды.",
+      "extra": [
+        "learns"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Этот инструмент полезен.",
+      "answer": [
+        "This tool is useful."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

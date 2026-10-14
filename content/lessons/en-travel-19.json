@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-19",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 19,
+  "level": "B1",
+  "title": {
+    "ru": "День на пляже",
+    "en": "A day at the sea",
+    "es": "Un día en la playa"
+  },
+  "words": [
+    "swim",
+    "sea",
+    "warm"
+  ],
+  "phrase": {
+    "en": "Is it safe to swim here? The sea is really warm today.",
+    "ru": "Здесь безопасно плавать? Сегодня море очень тёплое.",
+    "es": "¿Es seguro nadar aquí? Hoy el mar está muy cálido."
+  },
+  "rule": {
+    "text": {
+      "ru": "Вопрос с to-инфинитивом — Is it safe to swim? too + прилагательное + to: too cold to swim.",
+      "en": "An adjective + to-infinitive: Is it safe to swim? Too + adjective + to: too cold to swim.",
+      "es": "Is it safe to swim? too + adjetivo + to + verbo."
+    },
+    "examples": [
+      {
+        "en": "The water is too cold to swim.",
+        "ru": "Вода слишком холодная, чтобы плавать."
+      },
+      {
+        "en": "It's warm enough to swim.",
+        "ru": "Достаточно тепло, чтобы купаться."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Can we ___ in the lake?",
+      "answer": "swim",
+      "ru": "Можно купаться в озере?"
+    },
+    {
+      "type": "fill",
+      "en": "The ___ is calm today.",
+      "answer": "sea",
+      "ru": "Сегодня море спокойное."
+    },
+    {
+      "type": "build",
+      "en": "The sea is warm enough to swim.",
+      "ru": "Море достаточно тёплое, чтобы плавать.",
+      "extra": [
+        "swims"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Здесь безопасно плавать?",
+      "answer": [
+        "Is it safe to swim here?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

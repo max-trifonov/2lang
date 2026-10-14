@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-13",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 13,
+  "level": "B1",
+  "title": {
+    "ru": "Семья и родители",
+    "en": "Talking about family",
+    "es": "Hablar de la familia"
+  },
+  "words": [
+    "visit",
+    "parent",
+    "proud"
+  ],
+  "phrase": {
+    "en": "I visit my parents every Sunday. They're so proud of my sister.",
+    "ru": "Я навещаю родителей каждое воскресенье. Они так гордятся моей сестрой.",
+    "es": "Visito a mis padres todos los domingos. Están muy orgullosos de mi hermana."
+  },
+  "rule": {
+    "text": {
+      "ru": "Гордиться — proud of: proud of you. Притяжательный падеж: my parents' house (у мн. числа апостроф после s).",
+      "en": "We say proud of: proud of you. Possession with plurals: my parents' house (apostrophe after s).",
+      "es": "proud of + algo/alguien. Posesivo plural: my parents' house."
+    },
+    "examples": [
+      {
+        "en": "My parents' house is near the sea.",
+        "ru": "Дом моих родителей у моря."
+      },
+      {
+        "en": "I'm proud of you.",
+        "ru": "Я горжусь тобой."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We ___ my grandma every weekend.",
+      "answer": "visit",
+      "ru": "Мы навещаем мою бабушку каждые выходные."
+    },
+    {
+      "type": "fill",
+      "en": "My ___ live in a small village.",
+      "answer": "parents",
+      "ru": "Мои родители живут в маленькой деревне."
+    },
+    {
+      "type": "build",
+      "en": "I'm very proud of my parents.",
+      "ru": "Я очень горжусь своими родителями.",
+      "extra": [
+        "proudly"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Родители гордятся мной.",
+      "answer": [
+        "My parents are proud of me."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

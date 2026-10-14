@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-15",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 15,
+  "level": "B1",
+  "title": {
+    "ru": "Резервная копия",
+    "en": "Making a backup",
+    "es": "Copia de seguridad"
+  },
+  "words": [
+    "save",
+    "data",
+    "safely"
+  ],
+  "phrase": {
+    "en": "Save your data safely. Always keep a backup of the files.",
+    "ru": "Сохраняйте данные надёжно. Всегда держите резервную копию файлов.",
+    "es": "Guarda tus datos de forma segura. Ten siempre una copia de seguridad."
+  },
+  "rule": {
+    "text": {
+      "ru": "data обычно неисчисляемое: the data is… Save — «сохранить», safe → safely. Always — перед глаголом.",
+      "en": "In everyday English data is usually uncountable: the data is… Save (verb), safe → safely. Always goes before the verb.",
+      "es": "data suele ser incontable. safe → safely. Always antes del verbo."
+    },
+    "examples": [
+      {
+        "en": "The data is safe now.",
+        "ru": "Данные теперь в безопасности."
+      },
+      {
+        "en": "I always save my work.",
+        "ru": "Я всегда сохраняю свою работу."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Remember to ___ the file.",
+      "answer": "save",
+      "ru": "Не забудь сохранить файл."
+    },
+    {
+      "type": "fill",
+      "en": "All the ___ is on the server.",
+      "answer": "data",
+      "ru": "Все данные лежат на сервере."
+    },
+    {
+      "type": "build",
+      "en": "We always save the data safely.",
+      "ru": "Мы всегда надёжно сохраняем данные.",
+      "extra": [
+        "saves"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Сохрани данные.",
+      "answer": [
+        "Save the data.",
+        "Save your data."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-07",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 7,
+  "level": "B1",
+  "title": {
+    "ru": "Вечер кино",
+    "en": "Movie night",
+    "es": "Noche de cine"
+  },
+  "words": [
+    "enjoy",
+    "movie",
+    "funny"
+  ],
+  "phrase": {
+    "en": "Did you enjoy the movie? It was really funny.",
+    "ru": "Тебе понравился фильм? Он был очень смешной.",
+    "es": "¿Te gustó la película? Era muy divertida."
+  },
+  "rule": {
+    "text": {
+      "ru": "После enjoy — существительное или форма на -ing: enjoy the movie, enjoy dancing. Не enjoy to dance.",
+      "en": "After enjoy use a noun or an -ing form: enjoy the movie, enjoy dancing — never enjoy to dance.",
+      "es": "Después de enjoy: sustantivo o -ing. No se dice enjoy to dance."
+    },
+    "examples": [
+      {
+        "en": "I enjoy watching old movies.",
+        "ru": "Я люблю смотреть старые фильмы."
+      },
+      {
+        "en": "Did you enjoy the party?",
+        "ru": "Вечеринка тебе понравилась?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I really ___ going to the cinema.",
+      "answer": "enjoy",
+      "ru": "Мне очень нравится ходить в кино."
+    },
+    {
+      "type": "fill",
+      "en": "That was a very ___ movie.",
+      "answer": "funny",
+      "ru": "Это был очень смешной фильм."
+    },
+    {
+      "type": "build",
+      "en": "We enjoyed the movie a lot.",
+      "ru": "Фильм нам очень понравился.",
+      "extra": [
+        "enjoying"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Тебе понравился фильм?",
+      "answer": [
+        "Did you enjoy the movie?",
+        "Did you enjoy the film?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

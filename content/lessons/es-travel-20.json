@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-20",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 20,
+  "level": "A2",
+  "title": {
+    "ru": "Поезд опаздывает",
+    "en": "The train is late",
+    "es": "El tren llega tarde"
+  },
+  "words": [
+    "esperar",
+    "estación",
+    "tarde-adv"
+  ],
+  "phrase": {
+    "es": "El tren llega tarde. Esperamos en la estación.",
+    "ru": "Поезд опаздывает. Мы ждём на вокзале.",
+    "en": "The train is late. We wait at the station."
+  },
+  "rule": {
+    "text": {
+      "ru": "Esperar — «ждать» (без предлога): esperamos el tren. Llegar tarde — «опаздывать, приезжать поздно». Estación — женский род.",
+      "en": "Esperar means \"to wait\" with no preposition: esperamos el tren. Llegar tarde = to arrive late. Estación is feminine.",
+      "es": "esperar el tren (sin preposición). llegar tarde."
+    },
+    "examples": [
+      {
+        "es": "Espero el autobús.",
+        "ru": "Я жду автобус."
+      },
+      {
+        "es": "El tren sale tarde hoy.",
+        "ru": "Поезд сегодня отправляется поздно."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "___ el tren en la estación.",
+      "answer": "Esperamos",
+      "ru": "Мы ждём поезд на вокзале."
+    },
+    {
+      "type": "fill",
+      "es": "El tren llega ___.",
+      "answer": "tarde",
+      "ru": "Поезд приходит поздно."
+    },
+    {
+      "type": "build",
+      "es": "Esperamos el tren en la estación.",
+      "ru": "Мы ждём поезд на вокзале.",
+      "extra": [
+        "esperas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Мы ждём на вокзале.",
+      "answer": [
+        "Esperamos en la estación."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-18",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 18,
+  "level": "B1",
+  "title": {
+    "ru": "Нет соединения",
+    "en": "No connection",
+    "es": "Sin conexión"
+  },
+  "words": [
+    "connect",
+    "network",
+    "unable"
+  ],
+  "phrase": {
+    "en": "I'm unable to connect to the network. Is it down for everyone?",
+    "ru": "Я не могу подключиться к сети. Она не работает у всех?",
+    "es": "No puedo conectarme a la red. ¿Está caída para todos?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Невозможность — I can't connect или формальнее I'm unable to connect. Connect to the network: после connect — to.",
+      "en": "Inability: I can't connect or, more formally, I'm unable to connect. Say connect to the network.",
+      "es": "I can't / I'm unable to + verbo. connect to."
+    },
+    "examples": [
+      {
+        "en": "I can't log in.",
+        "ru": "Я не могу войти."
+      },
+      {
+        "en": "Is the network down?",
+        "ru": "Сеть не работает?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I can't ___ to the wifi.",
+      "answer": "connect",
+      "ru": "Я не могу подключиться к вайфаю."
+    },
+    {
+      "type": "fill",
+      "en": "The ___ is very slow today.",
+      "answer": "network",
+      "ru": "Сегодня сеть очень медленная."
+    },
+    {
+      "type": "build",
+      "en": "I'm unable to connect to the network.",
+      "ru": "Я не могу подключиться к сети.",
+      "extra": [
+        "connects"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Сеть не работает.",
+      "answer": [
+        "The network is down.",
+        "The network doesn't work.",
+        "The network isn't working."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

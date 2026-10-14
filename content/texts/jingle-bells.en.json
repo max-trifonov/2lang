@@ -1,0 +1,140 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "jingle-bells",
+  "kind": "song",
+  "lang": "en",
+  "license": "public-domain",
+  "title": {
+    "en": "Jingle Bells",
+    "ru": "Звените, колокольчики",
+    "es": "Cascabeles"
+  },
+  "author": "James Lord Pierpont (1857)",
+  "year": 1857,
+  "level": "A2",
+  "tags": [
+    "christmas",
+    "fun",
+    "winter"
+  ],
+  "note": {
+    "ru": "Рождественская песня, написанная в 1857 году. Простая лексика и повторяющийся припев — хороша для начала",
+    "en": "A Christmas song from 1857. Simple vocabulary and a repeating chorus.",
+    "es": "Villancico de 1857. Vocabulario sencillo y estribillo repetido."
+  },
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Dashing through the snow",
+          "ru": "Мчимся сквозь снег",
+          "es": "Corriendo por la nieve",
+          "phrases": [
+            {
+              "en": "through the snow",
+              "ru": "сквозь снег",
+              "es": "por la nieve"
+            }
+          ]
+        },
+        {
+          "en": "In a one-horse open sleigh,",
+          "ru": "В открытых санях с одной лошадью,",
+          "es": "en un trineo abierto de un caballo,"
+        },
+        {
+          "en": "O'er the fields we go,",
+          "ru": "Через поля мы летим,",
+          "es": "por los campos vamos,",
+          "phrases": [
+            {
+              "en": "we go",
+              "ru": "мы едем",
+              "es": "vamos",
+              "note": {
+                "ru": "o'er = over; порядок слов поэтический"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Laughing all the way.",
+          "ru": "Смеясь всю дорогу.",
+          "es": "riendo todo el camino.",
+          "phrases": [
+            {
+              "en": "all the way",
+              "ru": "всю дорогу",
+              "es": "todo el camino"
+            }
+          ]
+        },
+        {
+          "en": "Bells on bobtail ring,",
+          "ru": "Звенят колокольчики на гриве,",
+          "es": "suenan los cascabeles,"
+        },
+        {
+          "en": "Making spirits bright,",
+          "ru": "Поднимая настроение,",
+          "es": "alegrando los ánimos,",
+          "phrases": [
+            {
+              "en": "Making spirits bright",
+              "ru": "поднимая настроение",
+              "es": "alegrando los ánimos"
+            }
+          ]
+        },
+        {
+          "en": "What fun it is to ride and sing",
+          "ru": "Как весело кататься и петь",
+          "es": "¡Qué divertido es pasear y cantar",
+          "phrases": [
+            {
+              "en": "What fun it is",
+              "ru": "как весело",
+              "es": "qué divertido es",
+              "note": {
+                "ru": "восклицание: What + существительное + it is"
+              }
+            }
+          ]
+        },
+        {
+          "en": "A sleighing song tonight!",
+          "ru": "Песню о санях сегодня вечером!",
+          "es": "una canción de trineo esta noche!"
+        }
+      ]
+    },
+    {
+      "type": "chorus",
+      "id": "chorus",
+      "lines": [
+        {
+          "en": "Jingle bells, jingle bells,",
+          "ru": "Звените, колокольчики, звените,",
+          "es": "Cascabeles, cascabeles,"
+        },
+        {
+          "en": "Jingle all the way!",
+          "ru": "Звените всю дорогу!",
+          "es": "¡suenen todo el camino!"
+        },
+        {
+          "en": "Oh, what fun it is to ride",
+          "ru": "О, как весело кататься",
+          "es": "¡Oh, qué divertido es pasear"
+        },
+        {
+          "en": "In a one-horse open sleigh!",
+          "ru": "В открытых санях с одной лошадью!",
+          "es": "en un trineo abierto de un caballo!"
+        }
+      ]
+    }
+  ]
+}

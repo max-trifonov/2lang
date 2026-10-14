@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-12",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 12,
+  "level": "B1",
+  "title": {
+    "ru": "Проверка кода",
+    "en": "A code check",
+    "es": "Revisión de código"
+  },
+  "words": [
+    "check",
+    "code",
+    "carefully"
+  ],
+  "phrase": {
+    "en": "Could you check my code carefully? I'd really appreciate it.",
+    "ru": "Не могли бы вы внимательно проверить мой код? Буду очень признателен.",
+    "es": "¿Podrías revisar mi código con cuidado? Te lo agradecería mucho."
+  },
+  "rule": {
+    "text": {
+      "ru": "Вежливая просьба на работе — Could you + глагол? Наречие образуется от прилагательного: careful → carefully. code неисчисляемое: some code.",
+      "en": "A polite work request is Could you + verb? Adverbs come from adjectives: careful → carefully. Code is uncountable here: some code.",
+      "es": "Could you + verbo. careful → carefully. Code es incontable."
+    },
+    "examples": [
+      {
+        "en": "Could you review this change?",
+        "ru": "Не могли бы вы проверить это изменение?"
+      },
+      {
+        "en": "Please read the instructions carefully.",
+        "ru": "Пожалуйста, внимательно прочитайте инструкции."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Please ___ the code before the release.",
+      "answer": "check",
+      "ru": "Пожалуйста, проверьте код перед релизом."
+    },
+    {
+      "type": "fill",
+      "en": "I wrote this ___ yesterday.",
+      "answer": "code",
+      "ru": "Я написал этот код вчера."
+    },
+    {
+      "type": "build",
+      "en": "Please check the code carefully before you send it.",
+      "ru": "Пожалуйста, внимательно проверьте код, прежде чем отправлять.",
+      "extra": [
+        "checks"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Проверь мой код, пожалуйста.",
+      "answer": [
+        "Please check my code.",
+        "Could you check my code, please?",
+        "Check my code, please."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

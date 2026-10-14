@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-17",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 17,
+  "level": "B1",
+  "title": {
+    "ru": "Как далеко?",
+    "en": "How far is it?",
+    "es": "¿A qué distancia está?"
+  },
+  "words": [
+    "walk",
+    "distance",
+    "nearby"
+  ],
+  "phrase": {
+    "en": "How far is it? — It's a short walk, just a short distance from here.",
+    "ru": "Как далеко это? — Недалеко, всего несколько минут пешком.",
+    "es": "¿A qué distancia está? — Está cerca, a poca distancia de aquí."
+  },
+  "rule": {
+    "text": {
+      "ru": "Расстояние — How far is it? Время в пути — It takes ten minutes to walk. Walk как существительное: a short walk.",
+      "en": "Distance: How far is it? Time: It takes ten minutes to walk. A walk is also a noun: a short walk.",
+      "es": "How far is it? It takes + tiempo + to + verbo."
+    },
+    "examples": [
+      {
+        "en": "It takes ten minutes to walk there.",
+        "ru": "Туда идти десять минут."
+      },
+      {
+        "en": "Is there a pharmacy nearby?",
+        "ru": "Рядом есть аптека?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We can ___ to the beach.",
+      "answer": "walk",
+      "ru": "Мы можем дойти до пляжа пешком."
+    },
+    {
+      "type": "fill",
+      "en": "The station is a short ___ from here.",
+      "answer": "distance",
+      "ru": "До станции недалеко отсюда."
+    },
+    {
+      "type": "build",
+      "en": "Is there a good restaurant nearby?",
+      "ru": "Поблизости есть хороший ресторан?",
+      "extra": [
+        "distances"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Как далеко до станции?",
+      "answer": [
+        "How far is it to the station?",
+        "How far is the station?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

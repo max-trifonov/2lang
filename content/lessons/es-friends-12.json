@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-12",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 12,
+  "level": "A2",
+  "title": {
+    "ru": "Комплименты",
+    "en": "Compliments",
+    "es": "Cumplidos"
+  },
+  "words": [
+    "llevar",
+    "camisa",
+    "guapo"
+  ],
+  "phrase": {
+    "es": "Llevas una camisa nueva. ¡Estás muy guapo!",
+    "ru": "На тебе новая рубашка. Ты очень красивый!",
+    "en": "You're wearing a new shirt. You look very handsome!"
+  },
+  "rule": {
+    "text": {
+      "ru": "Llevar — «носить» одежду; estar guapo — «выглядеть красиво» сейчас (ser guapo — «быть красивым»). Guapo — guapa.",
+      "en": "Llevar means \"to wear\"; estar guapo means \"to look good\" right now. Guapo / guapa.",
+      "es": "llevar = wear. estar guapo = verse guapo."
+    },
+    "examples": [
+      {
+        "es": "Llevo una chaqueta azul.",
+        "ru": "На мне синяя куртка."
+      },
+      {
+        "es": "¡Qué guapa estás hoy!",
+        "ru": "Как ты сегодня красива!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Hoy ___ un vestido rojo.",
+      "answer": "llevas",
+      "ru": "Сегодня на тебе красное платье."
+    },
+    {
+      "type": "fill",
+      "es": "Esa ___ te queda muy bien.",
+      "answer": "camisa",
+      "ru": "Эта рубашка тебе очень идёт."
+    },
+    {
+      "type": "build",
+      "es": "Mi amigo lleva una camisa muy bonita.",
+      "ru": "На моём друге очень красивая рубашка.",
+      "extra": [
+        "llevas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Ты очень красивая.",
+      "answer": [
+        "Estás muy guapa.",
+        "Eres muy guapa."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

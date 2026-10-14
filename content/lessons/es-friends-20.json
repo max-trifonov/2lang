@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-20",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 20,
+  "level": "A2",
+  "title": {
+    "ru": "Выбираем подарок",
+    "en": "Choosing a gift",
+    "es": "Elegir un regalo"
+  },
+  "words": [
+    "elegir",
+    "regalo",
+    "perfecto"
+  ],
+  "phrase": {
+    "es": "Quiero elegir un regalo perfecto para ella.",
+    "ru": "Хочу выбрать для неё идеальный подарок.",
+    "en": "I want to choose a perfect gift for her."
+  },
+  "rule": {
+    "text": {
+      "ru": "Подарить — regalar: le regalo un libro (le — ей/ему). Elegir: e → i (elijo, eliges, elige, elegimos). Perfecto — perfecta.",
+      "en": "To give a gift: regalar: le regalo un libro. Elegir: e → i (elijo, eliges, elige, elegimos).",
+      "es": "le regalo un libro. elegir e → i."
+    },
+    "examples": [
+      {
+        "es": "Le regalo un libro.",
+        "ru": "Я дарю ей книгу."
+      },
+      {
+        "es": "Elegimos un regalo juntos.",
+        "ru": "Мы выбираем подарок вместе."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Hoy ___ un regalo para mi madre.",
+      "answer": "elijo",
+      "ru": "Сегодня я выбираю подарок для мамы."
+    },
+    {
+      "type": "fill",
+      "es": "Este ___ es perfecto.",
+      "answer": "regalo",
+      "ru": "Этот подарок идеален."
+    },
+    {
+      "type": "build",
+      "es": "Elegimos un regalo perfecto para Ana.",
+      "ru": "Мы выбрали идеальный подарок для Аны.",
+      "extra": [
+        "eliges"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Это идеальный подарок.",
+      "answer": [
+        "Es un regalo perfecto.",
+        "Es el regalo perfecto."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

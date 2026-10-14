@@ -129,6 +129,7 @@ const listName = computed(() => (entry.value ? t(`dictionary.lists.${entry.value
           <p class="word__tr">{{ tr(entry) }}</p>
           <p class="word__meta">
             {{ t(`dictionary.card.pos.${entry.pos}`) }}
+            <span v-if="entry.level" class="word__badge">{{ entry.level }}</span>
             <span v-if="entry.irregular" class="word__badge">{{ t('dictionary.irregular') }}</span>
             <span>{{ t('dictionary.card.rank', { rank: entry.rank, list: listName }) }}</span>
           </p>

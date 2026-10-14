@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-18",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 18,
+  "level": "A2",
+  "title": {
+    "ru": "Фото на память",
+    "en": "Taking photos",
+    "es": "Hacer fotos"
+  },
+  "words": [
+    "compartir",
+    "foto",
+    "junto-adv"
+  ],
+  "phrase": {
+    "es": "Vamos juntos a la foto. Luego la comparto en el chat.",
+    "ru": "Давайте сфотографируемся вместе. Потом я выложу фото в чат.",
+    "en": "Let's take a photo together. Then I'll share it in the chat."
+  },
+  "rule": {
+    "text": {
+      "ru": "Фото делают — hacer una foto. Compartir — «делиться»: comparto, compartes, comparte. Juntos — «вместе», согласуется с подлежащим: juntos / juntas.",
+      "en": "We take a photo: hacer una foto. Compartir means \"to share\": comparto, compartes, comparte. Juntos = together (agrees: juntos / juntas).",
+      "es": "hacer una foto. compartir. juntos / juntas."
+    },
+    "examples": [
+      {
+        "es": "Hacemos una foto juntos.",
+        "ru": "Мы делаем общее фото."
+      },
+      {
+        "es": "Comparto la foto contigo.",
+        "ru": "Делюсь с тобой фото."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Voy a ___ la foto en el chat.",
+      "answer": "compartir",
+      "ru": "Я выложу фото в чат."
+    },
+    {
+      "type": "fill",
+      "es": "Esta ___ es del verano.",
+      "answer": "foto",
+      "ru": "Это фото с лета."
+    },
+    {
+      "type": "build",
+      "es": "Hacemos una foto y la compartimos.",
+      "ru": "Мы делаем фото и делимся им.",
+      "extra": [
+        "comparte"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Давай сфотографируемся вместе.",
+      "answer": [
+        "Hacemos una foto juntos.",
+        "Hagamos una foto juntos."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

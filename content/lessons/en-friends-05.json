@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-05",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 5,
+  "level": "B1",
+  "title": {
+    "ru": "День рождения",
+    "en": "A birthday party",
+    "es": "Una fiesta de cumpleaños"
+  },
+  "words": [
+    "celebrate",
+    "birthday",
+    "surprised"
+  ],
+  "phrase": {
+    "en": "We're celebrating Lena's birthday on Friday. Don't tell her, it's a surprise!",
+    "ru": "В пятницу мы празднуем день рождения Лены. Не говори ей, это сюрприз!",
+    "es": "El viernes celebramos el cumpleaños de Lena. ¡No se lo digas, es una sorpresa!"
+  },
+  "rule": {
+    "text": {
+      "ru": "Принадлежность — 's: Lena's birthday. Возраст — turn: She turns thirty on Friday. Прилагательные на -ed описывают чувство: I was surprised.",
+      "en": "Possession uses 's: Lena's birthday. Age uses turn: She turns thirty on Friday. Adjectives in -ed describe feelings: I was surprised.",
+      "es": "Posesión con 's. Edad con turn. Los adjetivos en -ed describen sentimientos."
+    },
+    "examples": [
+      {
+        "en": "She turns thirty tomorrow.",
+        "ru": "Завтра ей исполняется тридцать."
+      },
+      {
+        "en": "Happy birthday!",
+        "ru": "С днём рождения!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We're going to ___ her birthday at a café.",
+      "answer": "celebrate",
+      "ru": "Мы отпразднуем её день рождения в кафе."
+    },
+    {
+      "type": "fill",
+      "en": "She was really ___ to see all of us.",
+      "answer": "surprised",
+      "ru": "Она была очень удивлена, увидев нас всех."
+    },
+    {
+      "type": "build",
+      "en": "We celebrated my birthday at home.",
+      "ru": "Мы отпраздновали мой день рождения дома.",
+      "extra": [
+        "celebrates"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Мы празднуем день рождения.",
+      "answer": [
+        "We are celebrating a birthday.",
+        "We're celebrating a birthday.",
+        "We are celebrating her birthday."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-16",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 16,
+  "level": "A2",
+  "title": {
+    "ru": "Повтори, пожалуйста",
+    "en": "Say that again",
+    "es": "Repítelo, por favor"
+  },
+  "words": [
+    "repetir",
+    "error",
+    "despacio"
+  ],
+  "phrase": {
+    "es": "¿Puedes repetir más despacio? Creo que hay un error.",
+    "ru": "Можешь повторить помедленнее? Кажется, тут ошибка.",
+    "en": "Can you repeat more slowly? I think there's a mistake."
+  },
+  "rule": {
+    "text": {
+      "ru": "Просьба повторить — ¿Puedes repetir…? Repetir: e → i: repito, repites, repite, repetimos. Despacio — «медленно»; более — más despacio.",
+      "en": "To ask for a repeat: ¿Puedes repetir…? Repetir: e → i: repito, repites, repite, repetimos. Despacio = slowly; más despacio = more slowly.",
+      "es": "repetir e → i. más despacio."
+    },
+    "examples": [
+      {
+        "es": "¿Puedes hablar más despacio?",
+        "ru": "Можешь говорить помедленнее?"
+      },
+      {
+        "es": "Perdón, no entiendo.",
+        "ru": "Простите, я не понимаю."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "¿Puedes ___ la pregunta?",
+      "answer": "repetir",
+      "ru": "Можешь повторить вопрос?"
+    },
+    {
+      "type": "fill",
+      "es": "Perdón, fue un ___.",
+      "answer": "error",
+      "ru": "Прости, это была ошибка."
+    },
+    {
+      "type": "build",
+      "es": "Por favor, habla más despacio.",
+      "ru": "Пожалуйста, говори помедленнее.",
+      "extra": [
+        "repites"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Можешь повторить?",
+      "answer": [
+        "¿Puedes repetir?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

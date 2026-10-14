@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-06",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 6,
+  "level": "B1",
+  "title": {
+    "ru": "Ужин у друзей",
+    "en": "Dinner at a friend's",
+    "es": "Cena en casa de un amigo"
+  },
+  "words": [
+    "cook",
+    "dinner",
+    "delicious"
+  ],
+  "phrase": {
+    "en": "I'll cook dinner. Shall I bring something?",
+    "ru": "Я приготовлю ужин. Принести что-нибудь?",
+    "es": "Yo cocino la cena. ¿Llevo algo?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Спонтанное предложение — I'll + глагол: I'll bring dessert. Вопрос о предложении помощи — Shall I…?",
+      "en": "For spontaneous offers use I'll + verb: I'll bring dessert. Offer help with Shall I…?",
+      "es": "Ofrecimientos espontáneos: I'll + verbo. Para ofrecer ayuda: Shall I…?"
+    },
+    "examples": [
+      {
+        "en": "I'll bring the wine.",
+        "ru": "Я принесу вино."
+      },
+      {
+        "en": "Shall I help you in the kitchen?",
+        "ru": "Помочь тебе на кухне?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Who is going to ___ tonight?",
+      "answer": "cook",
+      "ru": "Кто сегодня готовит?"
+    },
+    {
+      "type": "fill",
+      "en": "The soup was absolutely ___.",
+      "answer": "delicious",
+      "ru": "Суп был просто восхитительным."
+    },
+    {
+      "type": "build",
+      "en": "We had a delicious dinner at Anna's place.",
+      "ru": "У Анны мы вкусно поужинали.",
+      "extra": [
+        "dinners"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я приготовлю ужин.",
+      "answer": [
+        "I'll cook dinner.",
+        "I will cook dinner."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

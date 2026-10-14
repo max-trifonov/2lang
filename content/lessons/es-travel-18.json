@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-18",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 18,
+  "level": "A2",
+  "title": {
+    "ru": "Билеты в музей",
+    "en": "Museum tickets",
+    "es": "Entradas para el museo"
+  },
+  "words": [
+    "comprar",
+    "entrada",
+    "abierto"
+  ],
+  "phrase": {
+    "es": "Dos entradas, por favor. ¿Está abierto el museo hoy?",
+    "ru": "Два билета, пожалуйста. Музей сегодня открыт?",
+    "en": "Two tickets, please. Is the museum open today?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Открыто / закрыто — estar abierto / cerrado. Entrada — «входной билет», billete — на транспорт. Comprar — «покупать».",
+      "en": "Open / closed: estar abierto / cerrado. Entrada is an admission ticket; billete is for transport.",
+      "es": "estar abierto / cerrado. entrada ≠ billete."
+    },
+    "examples": [
+      {
+        "es": "El museo está cerrado los lunes.",
+        "ru": "Музей закрыт по понедельникам."
+      },
+      {
+        "es": "Quiero comprar dos entradas.",
+        "ru": "Хочу купить два билета."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Quiero ___ dos entradas.",
+      "answer": "comprar",
+      "ru": "Хочу купить два билета."
+    },
+    {
+      "type": "fill",
+      "es": "Una ___ cuesta diez euros.",
+      "answer": "entrada",
+      "ru": "Один билет стоит десять евро."
+    },
+    {
+      "type": "build",
+      "es": "El museo está abierto hasta las seis.",
+      "ru": "Музей открыт до шести.",
+      "extra": [
+        "compras"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Музей открыт?",
+      "answer": [
+        "¿Está abierto el museo?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-17",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 17,
+  "level": "B1",
+  "title": {
+    "ru": "Переписка в чате",
+    "en": "The group chat",
+    "es": "El chat del grupo"
+  },
+  "words": [
+    "send",
+    "message",
+    "quickly"
+  ],
+  "phrase": {
+    "en": "I'll send you a message. Please answer quickly!",
+    "ru": "Я пришлю тебе сообщение. Пожалуйста, ответь быстро!",
+    "es": "Te enviaré un mensaje. ¡Contesta rápido, por favor!"
+  },
+  "rule": {
+    "text": {
+      "ru": "send someone something: send you a message = send a message to you. Наречие quickly образуется от quick + ly и стоит после глагола.",
+      "en": "Send someone something: send you a message = send a message to you. The adverb quickly (quick + ly) goes after the verb.",
+      "es": "send you a message = send a message to you. Quickly (quick + ly) va después del verbo."
+    },
+    "examples": [
+      {
+        "en": "She sent me a photo.",
+        "ru": "Она прислала мне фото."
+      },
+      {
+        "en": "Reply as quickly as you can.",
+        "ru": "Ответь как можно быстрее."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Can you ___ me the address?",
+      "answer": "send",
+      "ru": "Можешь прислать мне адрес?"
+    },
+    {
+      "type": "fill",
+      "en": "I got your ___ this morning.",
+      "answer": "message",
+      "ru": "Я получил твоё сообщение сегодня утром."
+    },
+    {
+      "type": "build",
+      "en": "I'll send a message to everybody.",
+      "ru": "Я отправлю сообщение всем.",
+      "extra": [
+        "sending"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я отправлю тебе сообщение.",
+      "answer": [
+        "I'll send you a message.",
+        "I will send you a message."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

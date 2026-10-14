@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-11",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 11,
+  "level": "A2",
+  "title": {
+    "ru": "Ежедневный созвон",
+    "en": "The daily stand-up",
+    "es": "Reunión diaria"
+  },
+  "words": [
+    "informar",
+    "equipo",
+    "diario"
+  ],
+  "phrase": {
+    "es": "Informamos al equipo cada día. La reunión diaria es corta.",
+    "ru": "Каждый день мы сообщаем команде о прогрессе. Ежедневная встреча короткая.",
+    "en": "We inform the team every day. The daily meeting is short."
+  },
+  "rule": {
+    "text": {
+      "ru": "Информировать кого-то — informar a alguien: informo al equipo (a + el = al). Каждый день — cada día или todos los días. Diario — «ежедневный».",
+      "en": "Informar a alguien: informo al equipo (a + el = al). Every day: cada día or todos los días. Diario = daily.",
+      "es": "informar a + persona (a + el = al). cada día."
+    },
+    "examples": [
+      {
+        "es": "Informo al jefe.",
+        "ru": "Я сообщаю начальнику."
+      },
+      {
+        "es": "Trabajamos todos los días.",
+        "ru": "Мы работаем каждый день."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Cada día ___ al equipo.",
+      "answer": "informo",
+      "ru": "Каждый день я сообщаю команде."
+    },
+    {
+      "type": "fill",
+      "es": "Nuestro ___ trabaja muy bien.",
+      "answer": "equipo",
+      "ru": "Наша команда работает очень хорошо."
+    },
+    {
+      "type": "build",
+      "es": "Informamos al equipo en la reunión diaria.",
+      "ru": "Мы сообщаем команде на ежедневной встрече.",
+      "extra": [
+        "informas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Наша команда работает каждый день.",
+      "answer": [
+        "Nuestro equipo trabaja todos los días.",
+        "Nuestro equipo trabaja cada día."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

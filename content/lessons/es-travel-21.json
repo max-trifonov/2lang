@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-21",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 21,
+  "level": "A2",
+  "title": {
+    "ru": "Досмотр в аэропорту",
+    "en": "Airport security",
+    "es": "Control de seguridad"
+  },
+  "words": [
+    "quitar",
+    "seguridad",
+    "estricto"
+  ],
+  "phrase": {
+    "es": "Me quito el cinturón. La seguridad es estricta aquí.",
+    "ru": "Я снимаю ремень. Здесь строгий досмотр.",
+    "en": "I take off my belt. Security is strict here."
+  },
+  "rule": {
+    "text": {
+      "ru": "Quitarse — «снимать с себя»: me quito el cinturón. Seguridad — женский род, «охрана, безопасность». Estricto — строгий.",
+      "en": "Quitarse = to take off (clothes): me quito el cinturón. Seguridad is feminine. Estricto = strict.",
+      "es": "me quito el cinturón. la seguridad."
+    },
+    "examples": [
+      {
+        "es": "Me quito los zapatos.",
+        "ru": "Я снимаю обувь."
+      },
+      {
+        "es": "El control es muy estricto.",
+        "ru": "Контроль очень строгий."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Yo me ___ el cinturón.",
+      "answer": "quito",
+      "ru": "Я снимаю ремень."
+    },
+    {
+      "type": "fill",
+      "es": "El control de ___ tarda mucho.",
+      "answer": "seguridad",
+      "ru": "Досмотр занимает много времени."
+    },
+    {
+      "type": "build",
+      "es": "En el aeropuerto el control es muy estricto.",
+      "ru": "В аэропорту контроль очень строгий.",
+      "extra": [
+        "quitas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Здесь строгий досмотр.",
+      "answer": [
+        "Aquí la seguridad es estricta.",
+        "El control de seguridad es estricto."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

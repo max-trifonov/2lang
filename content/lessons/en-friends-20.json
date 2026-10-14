@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-20",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 20,
+  "level": "B1",
+  "title": {
+    "ru": "Выбираем подарок",
+    "en": "Choosing a gift",
+    "es": "Elegir un regalo"
+  },
+  "words": [
+    "choose",
+    "gift",
+    "perfect"
+  ],
+  "phrase": {
+    "en": "I can't choose a gift. I want something perfect for her.",
+    "ru": "Не могу выбрать подарок. Хочу что-нибудь идеальное для неё.",
+    "es": "No sé elegir un regalo. Quiero algo perfecto para ella."
+  },
+  "rule": {
+    "text": {
+      "ru": "Что-то + прилагательное: something perfect, something nice (прилагательное после something). Дать кому-то: buy her a gift = buy a gift for her.",
+      "en": "Adjectives come after something: something perfect, something nice. Buy her a gift = buy a gift for her.",
+      "es": "El adjetivo va después de something. Buy her a gift = buy a gift for her."
+    },
+    "examples": [
+      {
+        "en": "I bought her a book.",
+        "ru": "Я купил ей книгу."
+      },
+      {
+        "en": "Let's find something special.",
+        "ru": "Давай найдём что-нибудь особенное."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "It's hard to ___ a good present.",
+      "answer": "choose",
+      "ru": "Трудно выбрать хороший подарок."
+    },
+    {
+      "type": "fill",
+      "en": "Thank you for the lovely ___!",
+      "answer": "gift",
+      "ru": "Спасибо за прекрасный подарок!"
+    },
+    {
+      "type": "build",
+      "en": "We chose a perfect gift for Dad.",
+      "ru": "Мы выбрали отличный подарок для папы.",
+      "extra": [
+        "chooses"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Это идеальный подарок.",
+      "answer": [
+        "It's a perfect gift.",
+        "It is a perfect gift.",
+        "It's the perfect gift."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

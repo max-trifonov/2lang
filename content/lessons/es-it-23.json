@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-23",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 23,
+  "level": "A2",
+  "title": {
+    "ru": "Тест упал",
+    "en": "A failed test",
+    "es": "Una prueba fallida"
+  },
+  "words": [
+    "fallar",
+    "prueba",
+    "inesperado"
+  ],
+  "phrase": {
+    "es": "La prueba falló. Es un resultado inesperado.",
+    "ru": "Тест упал. Это неожиданный результат.",
+    "en": "The test failed. It's an unexpected result."
+  },
+  "rule": {
+    "text": {
+      "ru": "Прошедшее время — pretérito: falló (он/она), fallé (я). Prueba — «тест, проба»; женский род. Inesperado — «неожиданный»: inesperado / inesperada.",
+      "en": "Past: pretérito: falló (he/she), fallé (I). Prueba is feminine. Inesperado agrees: inesperado / inesperada.",
+      "es": "falló. la prueba. inesperado / inesperada."
+    },
+    "examples": [
+      {
+        "es": "El servidor falló ayer.",
+        "ru": "Сервер вчера упал."
+      },
+      {
+        "es": "Fue un error inesperado.",
+        "ru": "Это была неожиданная ошибка."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "La prueba ___ anoche.",
+      "answer": "falló",
+      "ru": "Тест упал вчера вечером."
+    },
+    {
+      "type": "fill",
+      "es": "Hacemos una ___ cada día.",
+      "answer": "prueba",
+      "ru": "Каждый день мы делаем тест."
+    },
+    {
+      "type": "build",
+      "es": "La prueba falló de manera inesperada.",
+      "ru": "Тест неожиданно упал.",
+      "extra": [
+        "fallas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Тест упал.",
+      "answer": [
+        "La prueba falló."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-13",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 13,
+  "level": "B1",
+  "title": {
+    "ru": "В такси",
+    "en": "In a taxi",
+    "es": "En el taxi"
+  },
+  "words": [
+    "take",
+    "taxi",
+    "straight"
+  ],
+  "phrase": {
+    "en": "Could you take me to the airport? Go straight, please.",
+    "ru": "Не могли бы вы отвезти меня в аэропорт? Езжайте прямо, пожалуйста.",
+    "es": "¿Podría llevarme al aeropuerto? Siga recto, por favor."
+  },
+  "rule": {
+    "text": {
+      "ru": "Просьба — Could you take me to…? Цена — How much is it to…? Прямо — straight ahead / go straight.",
+      "en": "Ask Could you take me to…? and How much is it to…? Directions: go straight (ahead).",
+      "es": "Could you take me to…? How much is it to…? Go straight."
+    },
+    "examples": [
+      {
+        "en": "How much is it to the station?",
+        "ru": "Сколько стоит до вокзала?"
+      },
+      {
+        "en": "Please stop here.",
+        "ru": "Остановитесь здесь, пожалуйста."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Could you ___ me to the hotel?",
+      "answer": "take",
+      "ru": "Не могли бы вы отвезти меня в отель?"
+    },
+    {
+      "type": "fill",
+      "en": "We took a ___ from the airport.",
+      "answer": "taxi",
+      "ru": "Мы взяли такси от аэропорта."
+    },
+    {
+      "type": "build",
+      "en": "Please go straight and turn left.",
+      "ru": "Езжайте прямо и поверните налево.",
+      "extra": [
+        "straightly"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Сколько стоит такси до вокзала?",
+      "answer": [
+        "How much is a taxi to the station?",
+        "How much is the taxi to the station?",
+        "How much is it to the station?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

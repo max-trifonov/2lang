@@ -1,0 +1,157 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "auld-lang-syne",
+  "kind": "song",
+  "lang": "en",
+  "license": "public-domain",
+  "title": {
+    "en": "Auld Lang Syne",
+    "ru": "Старая добрая дружба (Auld Lang Syne)",
+    "es": "Viejos tiempos (Auld Lang Syne)"
+  },
+  "author": "Robert Burns (1788)",
+  "year": 1788,
+  "level": "C1",
+  "tags": [
+    "friends",
+    "classic",
+    "newyear"
+  ],
+  "note": {
+    "ru": "Шотландская песня на слова Роберта Бёрнса, её поют на Новый год. Auld lang syne по-шотландски — «давным-давно, добрые старые времена». Слова шотландские (tak = take, o' = of, ye'll = you will, gude-willie waught = дружеский глоток)",
+    "en": "A Scots song by Robert Burns, sung at New Year. Auld lang syne means \"long, long ago; the good old days\".",
+    "es": "Canción escocesa de Robert Burns, que se canta en Nochevieja. Auld lang syne = «los viejos tiempos»."
+  },
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Should auld acquaintance be forgot,",
+          "ru": "Разве можно забыть старых знакомых",
+          "es": "¿Debe olvidarse a los viejos conocidos",
+          "phrases": [
+            {
+              "en": "auld acquaintance",
+              "ru": "старые знакомые, старые друзья",
+              "es": "los viejos conocidos",
+              "note": {
+                "ru": "auld — шотл. old; acquaintance — знакомый, не всегда близкий друг"
+              }
+            }
+          ]
+        },
+        {
+          "en": "And never brought to mind?",
+          "ru": "И никогда не вспоминать их?",
+          "es": "y no volver a recordarlos?",
+          "phrases": [
+            {
+              "en": "brought to mind",
+              "ru": "вспоминать, приходить на ум",
+              "es": "traer a la memoria",
+              "note": {
+                "ru": "bring to mind — «напомнить, вызвать в памяти»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Should auld acquaintance be forgot,",
+          "ru": "Разве можно забыть старых знакомых",
+          "es": "¿Debe olvidarse a los viejos conocidos"
+        },
+        {
+          "en": "And days of auld lang syne?",
+          "ru": "И дни доброго старого времени?",
+          "es": "y los días de los viejos tiempos?"
+        }
+      ]
+    },
+    {
+      "type": "chorus",
+      "id": "chorus",
+      "lines": [
+        {
+          "en": "For auld lang syne, my dear,",
+          "ru": "За старые добрые времена, мой друг,",
+          "es": "Por los viejos tiempos, querido,",
+          "phrases": [
+            {
+              "en": "my dear",
+              "ru": "мой дорогой",
+              "es": "querido",
+              "note": {
+                "ru": "обращение к другу"
+              }
+            }
+          ]
+        },
+        {
+          "en": "For auld lang syne,",
+          "ru": "За старые добрые времена,",
+          "es": "por los viejos tiempos,"
+        },
+        {
+          "en": "We'll tak a cup o' kindness yet,",
+          "ru": "Мы ещё выпьем чашу дружбы,",
+          "es": "aún tomaremos una copa de afecto,",
+          "phrases": [
+            {
+              "en": "a cup o' kindness",
+              "ru": "чаша доброты, дружеский тост",
+              "es": "una copa de afecto",
+              "note": {
+                "ru": "o' = of; tak = take"
+              }
+            }
+          ]
+        },
+        {
+          "en": "For auld lang syne.",
+          "ru": "За старые добрые времена.",
+          "es": "por los viejos tiempos."
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "And there's a hand, my trusty friend!",
+          "ru": "Вот моя рука, мой верный друг!",
+          "es": "¡Y aquí tienes una mano, mi fiel amigo!",
+          "phrases": [
+            {
+              "en": "my trusty friend",
+              "ru": "мой верный друг",
+              "es": "mi fiel amigo",
+              "note": {
+                "ru": "trusty — надёжный, верный"
+              }
+            }
+          ]
+        },
+        {
+          "en": "And give me a hand o' thine!",
+          "ru": "Дай мне и свою руку!",
+          "es": "¡Y dame la tuya!"
+        },
+        {
+          "en": "And we'll take a right good-will draught,",
+          "ru": "И мы выпьем от всей души,",
+          "es": "Y beberemos un buen trago de buena voluntad,"
+        },
+        {
+          "en": "For auld lang syne.",
+          "ru": "За старые добрые времена.",
+          "es": "por los viejos tiempos."
+        }
+      ]
+    },
+    {
+      "ref": "chorus"
+    }
+  ]
+}

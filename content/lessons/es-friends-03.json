@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-03",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 3,
+  "level": "A1",
+  "title": {
+    "ru": "Планы на завтра",
+    "en": "Plans for tomorrow",
+    "es": "Planes para mañana"
+  },
+  "words": [
+    "hacer",
+    "plan",
+    "mañana"
+  ],
+  "phrase": {
+    "es": "¿Qué vas a hacer mañana? Tengo un plan genial.",
+    "ru": "Что ты будешь делать завтра? У меня отличный план.",
+    "en": "What are you going to do tomorrow? I have a great plan."
+  },
+  "rule": {
+    "text": {
+      "ru": "Ближайшее будущее — ir a + инфинитив: Voy a hacer una fiesta. Mañana — «завтра» (наречие), la mañana — «утро».",
+      "en": "Near future: ir a + infinitive: Voy a hacer una fiesta. Mañana is \"tomorrow\"; la mañana is \"morning\".",
+      "es": "Futuro próximo: ir a + infinitivo. mañana = tomorrow; la mañana = morning."
+    },
+    "examples": [
+      {
+        "es": "Voy a ver a mis amigos.",
+        "ru": "Я собираюсь увидеться с друзьями."
+      },
+      {
+        "es": "¿Qué planes tienes?",
+        "ru": "Какие у тебя планы?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Mañana voy a ___ una tarta.",
+      "answer": "hacer",
+      "ru": "Завтра я испеку торт."
+    },
+    {
+      "type": "fill",
+      "es": "No tengo ningún ___ para el sábado.",
+      "answer": "plan",
+      "ru": "У меня нет планов на субботу."
+    },
+    {
+      "type": "build",
+      "es": "Mañana voy a hacer un plan con mis amigos.",
+      "ru": "Завтра я составлю план с друзьями.",
+      "extra": [
+        "haces"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Что ты будешь делать завтра?",
+      "answer": [
+        "¿Qué vas a hacer mañana?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

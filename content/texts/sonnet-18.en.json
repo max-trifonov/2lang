@@ -1,0 +1,161 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "sonnet-18",
+  "kind": "poem",
+  "lang": "en",
+  "license": "public-domain",
+  "title": {
+    "en": "Sonnet 18",
+    "ru": "Сонет 18",
+    "es": "Soneto 18"
+  },
+  "author": "William Shakespeare (1609)",
+  "year": 1609,
+  "level": "C1",
+  "tags": [
+    "love",
+    "classic"
+  ],
+  "note": {
+    "ru": "Один из самых известных сонетов Шекспира. Язык ранний современный: thou = you, thee = you, art = are, hath = has, ow'st = own",
+    "en": "One of Shakespeare's best-known sonnets. Early Modern English: thou = you, art = are, hath = has.",
+    "es": "Uno de los sonetos más famosos de Shakespeare. Inglés antiguo: thou = you, art = are, hath = has."
+  },
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Shall I compare thee to a summer's day?",
+          "ru": "Сравнить ли мне тебя с летним днём?",
+          "es": "¿Te compararé con un día de verano?",
+          "phrases": [
+            {
+              "en": "Shall I compare thee to",
+              "ru": "сравнить ли мне тебя с",
+              "es": "¿te compararé con",
+              "note": {
+                "ru": "thee — старая форма you (объект)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Thou art more lovely and more temperate:",
+          "ru": "Ты прекраснее и умереннее:",
+          "es": "Tú eres más hermosa y más moderada:",
+          "phrases": [
+            {
+              "en": "more lovely and more temperate",
+              "ru": "прекраснее и умереннее",
+              "es": "más hermosa y más moderada",
+              "note": {
+                "ru": "сравнительная степень: more + прилагательное"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Rough winds do shake the darling buds of May,",
+          "ru": "Грубые ветры качают милые майские почки,",
+          "es": "Los vientos rudos sacuden los tiernos brotes de mayo,"
+        },
+        {
+          "en": "And summer's lease hath all too short a date;",
+          "ru": "И лето отведено нам на слишком короткий срок;",
+          "es": "y el contrato del verano dura demasiado poco;",
+          "phrases": [
+            {
+              "en": "all too short",
+              "ru": "слишком короткий",
+              "es": "demasiado corto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Sometime too hot the eye of heaven shines,",
+          "ru": "Порой слишком жарко светит око небес,",
+          "es": "A veces el ojo del cielo brilla con demasiado calor,"
+        },
+        {
+          "en": "And often is his gold complexion dimm'd;",
+          "ru": "И часто тускнеет его золотой лик;",
+          "es": "y a menudo se oscurece su dorado rostro;"
+        },
+        {
+          "en": "And every fair from fair sometime declines,",
+          "ru": "И всё прекрасное порой теряет красоту,",
+          "es": "y toda belleza alguna vez decae,"
+        },
+        {
+          "en": "By chance or nature's changing course untrimm'd;",
+          "ru": "По случаю или по ходу меняющейся природы;",
+          "es": "por azar o por el curso cambiante de la naturaleza;"
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "But thy eternal summer shall not fade,",
+          "ru": "Но твоё вечное лето не увянет,",
+          "es": "Pero tu eterno verano no se marchitará,",
+          "phrases": [
+            {
+              "en": "shall not fade",
+              "ru": "не увянет",
+              "es": "no se marchitará",
+              "note": {
+                "ru": "shall — торжественное будущее"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Nor lose possession of that fair thou ow'st;",
+          "ru": "И не лишится той красоты, что тебе принадлежит;",
+          "es": "ni perderá la belleza que posees;"
+        },
+        {
+          "en": "Nor shall death brag thou wander'st in his shade,",
+          "ru": "И смерть не похвастается, что ты бродишь в её тени,",
+          "es": "ni la muerte presumirá de que vagas en su sombra,"
+        },
+        {
+          "en": "When in eternal lines to time thou grow'st:",
+          "ru": "Когда в вечных строках ты врастаешь во время:",
+          "es": "cuando en versos eternos creces con el tiempo:"
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "So long as men can breathe or eyes can see,",
+          "ru": "Пока люди дышат и глаза видят,",
+          "es": "Mientras los hombres respiren y los ojos vean,",
+          "phrases": [
+            {
+              "en": "So long as",
+              "ru": "пока, до тех пор пока",
+              "es": "mientras"
+            }
+          ]
+        },
+        {
+          "en": "So long lives this, and this gives life to thee.",
+          "ru": "Живёт эта строка, а она даёт жизнь тебе.",
+          "es": "vivirá este poema, y este te dará vida."
+        }
+      ]
+    }
+  ]
+}

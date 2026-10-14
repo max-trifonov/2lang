@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-11",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 11,
+  "level": "B1",
+  "title": {
+    "ru": "Паспортный контроль",
+    "en": "Passport control",
+    "es": "Control de pasaportes"
+  },
+  "words": [
+    "visit",
+    "purpose",
+    "tourist"
+  ],
+  "phrase": {
+    "en": "What's the purpose of your visit? — I'm here as a tourist.",
+    "ru": "Какова цель вашего визита? — Я здесь как турист.",
+    "es": "¿Cuál es el motivo de su visita? — Estoy aquí como turista."
+  },
+  "rule": {
+    "text": {
+      "ru": "Цель визита — the purpose of your visit; ответ — I'm here on holiday / on business / as a tourist. После of — существительное.",
+      "en": "Ask about the purpose of your visit. Answer: I'm here on holiday, on business, or as a tourist.",
+      "es": "Motivo del viaje: I'm here on holiday / on business / as a tourist."
+    },
+    "examples": [
+      {
+        "en": "I'm here on business.",
+        "ru": "Я здесь по делам."
+      },
+      {
+        "en": "How long are you going to stay?",
+        "ru": "Как долго вы пробудете?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I'm going to ___ my cousin in Madrid.",
+      "answer": "visit",
+      "ru": "Я собираюсь навестить двоюродного брата в Мадриде."
+    },
+    {
+      "type": "fill",
+      "en": "What is the ___ of your trip?",
+      "answer": "purpose",
+      "ru": "Какова цель вашей поездки?"
+    },
+    {
+      "type": "build",
+      "en": "I am here as a tourist for one week.",
+      "ru": "Я здесь как турист на неделю.",
+      "extra": [
+        "tourists"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я здесь как турист.",
+      "answer": [
+        "I'm here as a tourist.",
+        "I am here as a tourist."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-26",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 26,
+  "level": "B1",
+  "title": {
+    "ru": "Экскурсия",
+    "en": "A sightseeing tour",
+    "es": "Una excursión"
+  },
+  "words": [
+    "join",
+    "tour",
+    "interesting"
+  ],
+  "phrase": {
+    "en": "Why don't you join our tour? It's really interesting.",
+    "ru": "Почему бы вам не присоединиться к нашей экскурсии? Она очень интересная.",
+    "es": "¿Por qué no se une a nuestra excursión? Es muy interesante."
+  },
+  "rule": {
+    "text": {
+      "ru": "interesting — то, что интересно; interested — тот, кому интересно: The tour is interesting. I'm interested. Join a tour — присоединиться (без to).",
+      "en": "Interesting describes the thing; interested describes the person: The tour is interesting. I'm interested. We join a tour — no preposition.",
+      "es": "interesting (cosa) / interested (persona). join sin preposición."
+    },
+    "examples": [
+      {
+        "en": "I'm interested in history.",
+        "ru": "Я интересуюсь историей."
+      },
+      {
+        "en": "The guide was very interesting.",
+        "ru": "Гид был очень интересным."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Can I ___ the next tour?",
+      "answer": "join",
+      "ru": "Могу я присоединиться к следующей экскурсии?"
+    },
+    {
+      "type": "fill",
+      "en": "We took a walking ___ of the old town.",
+      "answer": "tour",
+      "ru": "Мы прошли пешую экскурсию по старому городу."
+    },
+    {
+      "type": "build",
+      "en": "The tour was really interesting.",
+      "ru": "Экскурсия была действительно интересной.",
+      "extra": [
+        "joins"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я хочу присоединиться к экскурсии.",
+      "answer": [
+        "I want to join the tour.",
+        "I'd like to join the tour.",
+        "I want to join a tour."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

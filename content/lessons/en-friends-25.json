@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-25",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 25,
+  "level": "B1",
+  "title": {
+    "ru": "Поход в горы",
+    "en": "A hike together",
+    "es": "Una excursión a la montaña"
+  },
+  "words": [
+    "climb",
+    "mountain",
+    "tired"
+  ],
+  "phrase": {
+    "en": "How about climbing the mountain on Sunday? We'll be tired, but happy.",
+    "ru": "Как насчёт того, чтобы подняться на гору в воскресенье? Мы устанем, но будем счастливы.",
+    "es": "¿Qué tal subir la montaña el domingo? Estaremos cansados, pero contentos."
+  },
+  "rule": {
+    "text": {
+      "ru": "Предложение — How about + -ing: How about climbing…? What about + -ing — то же самое. Tired — «усталый», tiring — «утомительный».",
+      "en": "A suggestion: How about + -ing: How about climbing…? Tired describes a person; tiring describes the thing.",
+      "es": "How about + -ing. tired (persona) / tiring (cosa)."
+    },
+    "examples": [
+      {
+        "en": "How about going for a walk?",
+        "ru": "Как насчёт прогулки?"
+      },
+      {
+        "en": "The hike was tiring.",
+        "ru": "Поход был утомительным."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Let's ___ the mountain together.",
+      "answer": "climb",
+      "ru": "Давай вместе поднимемся на гору."
+    },
+    {
+      "type": "fill",
+      "en": "We were really ___ after the hike.",
+      "answer": "tired",
+      "ru": "Мы очень устали после похода."
+    },
+    {
+      "type": "build",
+      "en": "We climbed the mountain and felt tired.",
+      "ru": "Мы поднялись на гору и почувствовали усталость.",
+      "extra": [
+        "climbs"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Давай поднимемся на гору.",
+      "answer": [
+        "Let's climb the mountain."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

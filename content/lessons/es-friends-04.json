@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-04",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 4,
+  "level": "A1",
+  "title": {
+    "ru": "Я опаздываю",
+    "en": "I'm running late",
+    "es": "Llego tarde"
+  },
+  "words": [
+    "llegar",
+    "tráfico",
+    "tarde-adv"
+  ],
+  "phrase": {
+    "es": "Perdona, llego tarde. Hay mucho tráfico.",
+    "ru": "Прости, я опаздываю. Много пробок.",
+    "en": "Sorry, I'm late. There's a lot of traffic."
+  },
+  "rule": {
+    "text": {
+      "ru": "Опоздать — llegar tarde. Hay — «есть, имеется»: Hay mucho tráfico. Tarde — наречие «поздно», не меняется.",
+      "en": "To be late: llegar tarde. Hay means \"there is / there are\": Hay mucho tráfico. Tarde is an adverb and does not change.",
+      "es": "llegar tarde. Hay mucho tráfico. Tarde es adverbio invariable."
+    },
+    "examples": [
+      {
+        "es": "Llego en diez minutos.",
+        "ru": "Я буду через десять минут."
+      },
+      {
+        "es": "Hay mucha gente.",
+        "ru": "Много народу."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Perdona, ___ tarde.",
+      "answer": "llego",
+      "ru": "Прости, я опаздываю."
+    },
+    {
+      "type": "fill",
+      "es": "Hay mucho ___ en la calle.",
+      "answer": "tráfico",
+      "ru": "На улице много машин."
+    },
+    {
+      "type": "build",
+      "es": "Hoy llegamos tarde por el tráfico.",
+      "ru": "Сегодня мы опоздали из-за пробок.",
+      "extra": [
+        "llegas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я опаздываю.",
+      "answer": [
+        "Llego tarde."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-18",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 18,
+  "level": "B1",
+  "title": {
+    "ru": "Фото на память",
+    "en": "Taking photos",
+    "es": "Hacer fotos"
+  },
+  "words": [
+    "share",
+    "photo",
+    "together"
+  ],
+  "phrase": {
+    "en": "Could you take a photo of us together? I'll share it in the chat.",
+    "ru": "Можешь сфотографировать нас вместе? Я скину фото в чат.",
+    "es": "¿Nos haces una foto juntos? La compartiré en el chat."
+  },
+  "rule": {
+    "text": {
+      "ru": "Фотографировать — take a photo. Could you + глагол — вежливая просьба. share something with someone — поделиться чем-то с кем-то.",
+      "en": "We say take a photo. Could you + verb is a polite request. share something with someone.",
+      "es": "take a photo. Could you + verbo = petición cortés. share something with someone."
+    },
+    "examples": [
+      {
+        "en": "Let's take a photo together.",
+        "ru": "Давай сфотографируемся вместе."
+      },
+      {
+        "en": "I'll share the pictures with you.",
+        "ru": "Я поделюсь с тобой снимками."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Can I ___ these photos with everyone?",
+      "answer": "share",
+      "ru": "Можно поделиться этими фото со всеми?"
+    },
+    {
+      "type": "fill",
+      "en": "Here is a ___ from last summer.",
+      "answer": "photo",
+      "ru": "Вот фото с прошлого лета."
+    },
+    {
+      "type": "build",
+      "en": "We took a photo together.",
+      "ru": "Мы сфотографировались вместе.",
+      "extra": [
+        "shares"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Давай сфотографируемся вместе.",
+      "answer": [
+        "Let's take a photo together."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

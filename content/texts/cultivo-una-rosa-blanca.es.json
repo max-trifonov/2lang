@@ -1,0 +1,121 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "cultivo-una-rosa-blanca",
+  "kind": "poem",
+  "lang": "es",
+  "license": "public-domain",
+  "title": {
+    "es": "Cultivo una rosa blanca",
+    "ru": "Я выращиваю белую розу",
+    "en": "I grow a white rose"
+  },
+  "author": "José Martí (1891)",
+  "year": 1891,
+  "level": "B1",
+  "tags": [
+    "friends",
+    "classic"
+  ],
+  "note": {
+    "ru": "Стихотворение Хосе Марти из «Простых стихов» (XXXIX). О дружбе и о том, как отвечать на зло добром",
+    "en": "A poem by José Martí from Versos sencillos (XXXIX). About friendship and answering unkindness with kindness.",
+    "es": "Poema de José Martí de Versos sencillos (XXXIX). Sobre la amistad y la bondad."
+  },
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "es": "Cultivo una rosa blanca,",
+          "ru": "Я выращиваю белую розу,",
+          "en": "I grow a white rose,",
+          "phrases": [
+            {
+              "es": "una rosa blanca",
+              "ru": "белая роза",
+              "en": "a white rose",
+              "note": {
+                "ru": "прилагательное после существительного"
+              }
+            }
+          ]
+        },
+        {
+          "es": "en julio como en enero,",
+          "ru": "в июле, как и в январе,",
+          "en": "in July as in January,",
+          "phrases": [
+            {
+              "es": "en julio como en enero",
+              "ru": "и в июле, и в январе",
+              "en": "in July as in January"
+            }
+          ]
+        },
+        {
+          "es": "para el amigo sincero",
+          "ru": "для искреннего друга,",
+          "en": "for the sincere friend",
+          "phrases": [
+            {
+              "es": "el amigo sincero",
+              "ru": "искренний друг",
+              "en": "the sincere friend"
+            }
+          ]
+        },
+        {
+          "es": "que me da su mano franca.",
+          "ru": "что даёт мне свою открытую руку.",
+          "en": "who gives me his open hand.",
+          "phrases": [
+            {
+              "es": "su mano franca",
+              "ru": "открытая рука",
+              "en": "his open hand",
+              "note": {
+                "ru": "mano — женский род, хотя на -o"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "es": "Y para el cruel que me arranca",
+          "ru": "А для жестокого, что вырывает",
+          "en": "And for the cruel one who tears out"
+        },
+        {
+          "es": "el corazón con que vivo,",
+          "ru": "сердце, которым я живу,",
+          "en": "the heart I live with,"
+        },
+        {
+          "es": "cardo ni ortiga cultivo;",
+          "ru": "ни чертополоха, ни крапивы не выращиваю;",
+          "en": "I grow neither thistle nor nettle;",
+          "phrases": [
+            {
+              "es": "cardo ni ortiga",
+              "ru": "ни чертополоха, ни крапивы",
+              "en": "neither thistle nor nettle",
+              "note": {
+                "ru": "ni… ni — «ни… ни»"
+              }
+            }
+          ]
+        },
+        {
+          "es": "cultivo una rosa blanca.",
+          "ru": "выращиваю белую розу.",
+          "en": "I grow a white rose."
+        }
+      ]
+    }
+  ]
+}

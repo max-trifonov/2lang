@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-22",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 22,
+  "level": "B1",
+  "title": {
+    "ru": "Срочно!",
+    "en": "It's urgent!",
+    "es": "¡Es urgente!"
+  },
+  "words": [
+    "need",
+    "time",
+    "urgent"
+  ],
+  "phrase": {
+    "en": "It's urgent! We need more time to finish the task.",
+    "ru": "Это срочно! Нам нужно больше времени, чтобы закончить задачу.",
+    "es": "¡Es urgente! Necesitamos más tiempo para terminar la tarea."
+  },
+  "rule": {
+    "text": {
+      "ru": "Цель — to + глагол: We need time to finish. need to do — нужно сделать; need + существительное — нужно что-то.",
+      "en": "Purpose uses to + verb: We need time to finish. Need to + verb, or need + noun.",
+      "es": "to + verbo = finalidad. need to do / need + sustantivo."
+    },
+    "examples": [
+      {
+        "en": "We need a few more days.",
+        "ru": "Нам нужно ещё несколько дней."
+      },
+      {
+        "en": "I need to call the client.",
+        "ru": "Мне нужно позвонить клиенту."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We ___ more time for testing.",
+      "answer": "need",
+      "ru": "Нам нужно больше времени на тестирование."
+    },
+    {
+      "type": "fill",
+      "en": "There is not enough ___ .",
+      "answer": "time",
+      "ru": "Времени недостаточно."
+    },
+    {
+      "type": "build",
+      "en": "We need more time to finish this task.",
+      "ru": "Нам нужно больше времени, чтобы закончить эту задачу.",
+      "extra": [
+        "needs"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Это срочно.",
+      "answer": [
+        "It's urgent.",
+        "It is urgent."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

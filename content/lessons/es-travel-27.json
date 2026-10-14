@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-27",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 27,
+  "level": "A2",
+  "title": {
+    "ru": "Выезд из отеля",
+    "en": "Checking out",
+    "es": "Salida del hotel"
+  },
+  "words": [
+    "dejar",
+    "llave",
+    "temprano-adv"
+  ],
+  "phrase": {
+    "es": "Dejo la llave en la recepción. Salimos temprano mañana.",
+    "ru": "Я оставляю ключ на ресепшене. Завтра мы уезжаем рано.",
+    "en": "I leave the key at reception. We leave early tomorrow."
+  },
+  "rule": {
+    "text": {
+      "ru": "Dejar — «оставлять»: dejo la llave aquí. Temprano — «рано» (наречие, не меняется). La salida — «выезд», a qué hora es la salida?",
+      "en": "Dejar = to leave something: dejo la llave aquí. Temprano = early (adverb, invariable).",
+      "es": "dejar la llave. temprano (invariable)."
+    },
+    "examples": [
+      {
+        "es": "¿A qué hora es la salida?",
+        "ru": "Во сколько выезд?"
+      },
+      {
+        "es": "Dejo las maletas aquí.",
+        "ru": "Я оставляю чемоданы здесь."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Yo ___ la llave en la recepción.",
+      "answer": "dejo",
+      "ru": "Я оставляю ключ на ресепшене."
+    },
+    {
+      "type": "fill",
+      "es": "Mi ___ está en el bolso.",
+      "answer": "llave",
+      "ru": "Мой ключ в сумке."
+    },
+    {
+      "type": "build",
+      "es": "Dejamos la llave y salimos temprano.",
+      "ru": "Мы оставляем ключ и выезжаем рано.",
+      "extra": [
+        "dejas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я оставляю ключ здесь.",
+      "answer": [
+        "Dejo la llave aquí."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

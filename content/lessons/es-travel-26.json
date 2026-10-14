@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-26",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 26,
+  "level": "A2",
+  "title": {
+    "ru": "Экскурсия",
+    "en": "A sightseeing tour",
+    "es": "Una excursión"
+  },
+  "words": [
+    "participar",
+    "guía",
+    "interesante"
+  ],
+  "phrase": {
+    "es": "Quiero participar en la excursión. El guía es muy interesante.",
+    "ru": "Хочу принять участие в экскурсии. Гид очень интересный.",
+    "en": "I want to take part in the tour. The guide is very interesting."
+  },
+  "rule": {
+    "text": {
+      "ru": "Принять участие — participar en. El guía — гид-мужчина, la guía — женщина или путеводитель. Interesante — одна форма для обоих родов.",
+      "en": "To take part: participar en. El guía is a male guide; la guía is a female guide or a guidebook. Interesante has one form.",
+      "es": "participar en. el guía / la guía."
+    },
+    "examples": [
+      {
+        "es": "Participo en la excursión.",
+        "ru": "Я участвую в экскурсии."
+      },
+      {
+        "es": "Es una visita muy interesante.",
+        "ru": "Это очень интересная экскурсия."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "¿Puedo ___ en la visita guiada?",
+      "answer": "participar",
+      "ru": "Могу я принять участие в экскурсии?"
+    },
+    {
+      "type": "fill",
+      "es": "La ___ habla tres idiomas.",
+      "answer": "guía",
+      "ru": "Гид говорит на трёх языках."
+    },
+    {
+      "type": "build",
+      "es": "Quiero participar en una excursión interesante.",
+      "ru": "Хочу принять участие в интересной экскурсии.",
+      "extra": [
+        "participas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Это интересная экскурсия.",
+      "answer": [
+        "Es una excursión interesante.",
+        "Es una visita interesante."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

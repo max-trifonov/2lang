@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-01",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 1,
+  "level": "A1",
+  "title": {
+    "ru": "Приглашение на вечеринку",
+    "en": "Invitation to a party",
+    "es": "Invitación a una fiesta"
+  },
+  "words": [
+    "invitar",
+    "fiesta",
+    "contento"
+  ],
+  "phrase": {
+    "es": "¿Quieres venir a mi fiesta el sábado? Estoy muy contento.",
+    "ru": "Хочешь прийти ко мне на вечеринку в субботу? Я очень рад.",
+    "en": "Do you want to come to my party on Saturday? I'm very happy."
+  },
+  "rule": {
+    "text": {
+      "ru": "Приглашение — ¿Quieres + инфинитив? Согласие — Claro, me encantaría. Прилагательное согласуется с родом: contento / contenta.",
+      "en": "To invite: ¿Quieres + infinitive? To accept: Claro, me encantaría. Adjectives agree in gender: contento / contenta.",
+      "es": "Invitación: ¿Quieres + infinitivo? Aceptar: me encantaría. contento / contenta."
+    },
+    "examples": [
+      {
+        "es": "¿Quieres venir con nosotros?",
+        "ru": "Хочешь пойти с нами?"
+      },
+      {
+        "es": "Claro, me encantaría.",
+        "ru": "Конечно, с удовольствием."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Quiero ___ a todos mis amigos.",
+      "answer": "invitar",
+      "ru": "Хочу пригласить всех своих друзей."
+    },
+    {
+      "type": "fill",
+      "es": "Mi hermana está muy ___.",
+      "answer": "contenta",
+      "ru": "Моя сестра очень рада."
+    },
+    {
+      "type": "build",
+      "es": "Invito a mis amigos a la fiesta.",
+      "ru": "Я приглашаю друзей на вечеринку.",
+      "extra": [
+        "invitas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Хочешь прийти на вечеринку?",
+      "answer": [
+        "¿Quieres venir a la fiesta?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

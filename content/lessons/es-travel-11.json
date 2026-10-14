@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-11",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 11,
+  "level": "A2",
+  "title": {
+    "ru": "Паспортный контроль",
+    "en": "Passport control",
+    "es": "Control de pasaportes"
+  },
+  "words": [
+    "mostrar",
+    "documento",
+    "necesario"
+  ],
+  "phrase": {
+    "es": "Muestro mi documento. ¿Es necesario algo más?",
+    "ru": "Я показываю свой документ. Нужно ли что-то ещё?",
+    "en": "I show my document. Is anything else necessary?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Показать — mostrar (o → ue): muestro, muestras, muestra, mostramos. Es necesario + инфинитив — «нужно сделать». Cuál es el motivo de su viaje? — «Какова цель поездки?»",
+      "en": "To show: mostrar (o → ue): muestro, muestras, muestra, mostramos. Es necesario + infinitive = it is necessary to.",
+      "es": "mostrar o → ue. Es necesario + infinitivo."
+    },
+    "examples": [
+      {
+        "es": "¿Cuál es el motivo de su viaje?",
+        "ru": "Какова цель вашей поездки?"
+      },
+      {
+        "es": "Es necesario mostrar el pasaporte.",
+        "ru": "Нужно показать паспорт."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Yo ___ mi documento en la frontera.",
+      "answer": "muestro",
+      "ru": "Я показываю документ на границе."
+    },
+    {
+      "type": "fill",
+      "es": "Es ___ llevar el pasaporte.",
+      "answer": "necesario",
+      "ru": "Необходимо иметь с собой паспорт."
+    },
+    {
+      "type": "build",
+      "es": "Es necesario mostrar el documento aquí.",
+      "ru": "Здесь необходимо показать документ.",
+      "extra": [
+        "muestras"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Мне нужно показать документ.",
+      "answer": [
+        "Es necesario mostrar el documento.",
+        "Tengo que mostrar el documento."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

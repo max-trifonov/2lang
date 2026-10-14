@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-08",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 8,
+  "level": "A1",
+  "title": {
+    "ru": "Концерт",
+    "en": "At a concert",
+    "es": "En un concierto"
+  },
+  "words": [
+    "cantar",
+    "concierto",
+    "fuerte"
+  ],
+  "phrase": {
+    "es": "Todos cantan en el concierto. La música está muy fuerte.",
+    "ru": "Все поют на концерте. Музыка очень громкая.",
+    "en": "Everyone sings at the concert. The music is very loud."
+  },
+  "rule": {
+    "text": {
+      "ru": "«Громкая» музыка — fuerte или alta: la música está fuerte. Muy + прилагательное: muy fuerte. Todos + глагол во мн. числе: todos cantan.",
+      "en": "\"Loud\" music is fuerte or alta. Muy + adjective: muy fuerte. Todos takes a plural verb: todos cantan.",
+      "es": "La música está fuerte. muy + adjetivo. Todos cantan."
+    },
+    "examples": [
+      {
+        "es": "Todos bailan y cantan.",
+        "ru": "Все танцуют и поют."
+      },
+      {
+        "es": "Es un concierto muy bonito.",
+        "ru": "Это очень красивый концерт."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Mis amigos ___ muy bien.",
+      "answer": "cantan",
+      "ru": "Мои друзья очень хорошо поют."
+    },
+    {
+      "type": "fill",
+      "es": "El ___ empieza a las nueve.",
+      "answer": "concierto",
+      "ru": "Концерт начинается в девять."
+    },
+    {
+      "type": "build",
+      "es": "La música del concierto está muy fuerte.",
+      "ru": "Музыка на концерте очень громкая.",
+      "extra": [
+        "cantas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Музыка очень громкая.",
+      "answer": [
+        "La música está muy fuerte.",
+        "La música está muy alta."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

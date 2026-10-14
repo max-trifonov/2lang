@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-21",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 21,
+  "level": "B1",
+  "title": {
+    "ru": "Работа из дома",
+    "en": "Working from home",
+    "es": "Trabajar desde casa"
+  },
+  "words": [
+    "work",
+    "home",
+    "flexible"
+  ],
+  "phrase": {
+    "en": "I work from home on Fridays. My schedule is flexible.",
+    "ru": "По пятницам я работаю из дома. Мой график гибкий.",
+    "es": "Los viernes trabajo desde casa. Mi horario es flexible."
+  },
+  "rule": {
+    "text": {
+      "ru": "Дома — at home; из дома — from home; домой — home (без to): go home. По пятницам — on Fridays.",
+      "en": "At home is a place; from home is the starting point; go home needs no to. On Fridays means every Friday.",
+      "es": "at home / from home / go home (sin to). on Fridays."
+    },
+    "examples": [
+      {
+        "en": "I'm working at home today.",
+        "ru": "Сегодня я работаю дома."
+      },
+      {
+        "en": "I go home at six.",
+        "ru": "Я иду домой в шесть."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I ___ from home two days a week.",
+      "answer": "work",
+      "ru": "Я работаю из дома два дня в неделю."
+    },
+    {
+      "type": "fill",
+      "en": "Is your working time ___?",
+      "answer": "flexible",
+      "ru": "Твоё рабочее время гибкое?"
+    },
+    {
+      "type": "build",
+      "en": "She works from home on Mondays.",
+      "ru": "По понедельникам она работает из дома.",
+      "extra": [
+        "works"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я работаю дома.",
+      "answer": [
+        "I work at home.",
+        "I work from home.",
+        "I'm working at home."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

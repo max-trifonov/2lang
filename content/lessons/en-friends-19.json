@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-19",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 19,
+  "level": "B1",
+  "title": {
+    "ru": "Счёт в кафе",
+    "en": "Splitting the bill",
+    "es": "Pagar la cuenta"
+  },
+  "words": [
+    "split",
+    "bill",
+    "separately"
+  ],
+  "phrase": {
+    "en": "Shall we split the bill? Or do you want to pay separately?",
+    "ru": "Разделим счёт? Или хочешь заплатить отдельно?",
+    "es": "¿Dividimos la cuenta? ¿O quieres pagar por separado?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Платит один — It's on me / My treat. Делим — split the bill или go Dutch. Вопрос — Shall we…?",
+      "en": "One person pays: It's on me / My treat. Share the cost: split the bill or go Dutch. Ask with Shall we…?",
+      "es": "Invitar: It's on me / My treat. Dividir: split the bill. Shall we…? para proponer."
+    },
+    "examples": [
+      {
+        "en": "It's on me today.",
+        "ru": "Сегодня плачу я."
+      },
+      {
+        "en": "Can we pay separately?",
+        "ru": "Можно оплатить отдельно?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Let's ___ the bill in three.",
+      "answer": "split",
+      "ru": "Давайте разделим счёт на троих."
+    },
+    {
+      "type": "fill",
+      "en": "Can we pay ___, please?",
+      "answer": "separately",
+      "ru": "Можно заплатить отдельно, пожалуйста?"
+    },
+    {
+      "type": "build",
+      "en": "The bill was bigger than we expected.",
+      "ru": "Счёт оказался больше, чем мы ожидали.",
+      "extra": [
+        "splits"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Давайте разделим счёт.",
+      "answer": [
+        "Let's split the bill."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

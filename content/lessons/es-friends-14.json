@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-14",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 14,
+  "level": "A2",
+  "title": {
+    "ru": "Любимая музыка",
+    "en": "Favorite music",
+    "es": "Música favorita"
+  },
+  "words": [
+    "preferir",
+    "música",
+    "mejor"
+  ],
+  "phrase": {
+    "es": "Prefiero la música española. Para mí, es la mejor.",
+    "ru": "Я предпочитаю испанскую музыку. По-моему, она лучшая.",
+    "en": "I prefer Spanish music. To me, it's the best."
+  },
+  "rule": {
+    "text": {
+      "ru": "Предпочитать — preferir (e → ie): prefiero, prefieres, prefiere, preferimos. Mejor — «лучший», перед существительным без изменений.",
+      "en": "To prefer: preferir (e → ie): prefiero, prefieres, prefiere, preferimos. Mejor means \"better / best\".",
+      "es": "preferir e → ie. el/la mejor."
+    },
+    "examples": [
+      {
+        "es": "Prefiero el té al café.",
+        "ru": "Я предпочитаю чай кофе."
+      },
+      {
+        "es": "Es la mejor canción.",
+        "ru": "Это лучшая песня."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Yo ___ el rock.",
+      "answer": "prefiero",
+      "ru": "Я предпочитаю рок."
+    },
+    {
+      "type": "fill",
+      "es": "Esta es la ___ canción del disco.",
+      "answer": "mejor",
+      "ru": "Это лучшая песня на диске."
+    },
+    {
+      "type": "build",
+      "es": "Prefiero esta música porque es la mejor.",
+      "ru": "Я предпочитаю эту музыку, потому что она лучшая.",
+      "extra": [
+        "prefieres"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я предпочитаю испанскую музыку.",
+      "answer": [
+        "Prefiero la música española."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

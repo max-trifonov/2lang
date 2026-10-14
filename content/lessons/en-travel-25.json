@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-25",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 25,
+  "level": "B1",
+  "title": {
+    "ru": "Городской транспорт",
+    "en": "Public transport",
+    "es": "Transporte público"
+  },
+  "words": [
+    "travel",
+    "bus",
+    "daily"
+  ],
+  "phrase": {
+    "en": "I travel by bus daily. One ticket is enough for the whole day.",
+    "ru": "Я езжу на автобусе каждый день. Одного билета хватает на весь день.",
+    "es": "Viajo en autobús a diario. Un billete basta para todo el día."
+  },
+  "rule": {
+    "text": {
+      "ru": "Транспорт — by bus, by train, но on foot. Daily — «ежедневно», наречие и прилагательное. enough ставится после прилагательного и перед существительным.",
+      "en": "Transport: by bus, by train, but on foot. Daily means \"every day\". Enough comes before a noun: enough time.",
+      "es": "by bus / by train; on foot. enough + sustantivo."
+    },
+    "examples": [
+      {
+        "en": "I go to work by train.",
+        "ru": "Я езжу на работу на поезде."
+      },
+      {
+        "en": "We have enough time.",
+        "ru": "У нас достаточно времени."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We ___ by bus to save money.",
+      "answer": "travel",
+      "ru": "Мы ездим на автобусе, чтобы экономить."
+    },
+    {
+      "type": "fill",
+      "en": "The ___ stops right here.",
+      "answer": "bus",
+      "ru": "Автобус останавливается прямо здесь."
+    },
+    {
+      "type": "build",
+      "en": "This bus runs daily from the station.",
+      "ru": "Этот автобус ходит ежедневно от вокзала.",
+      "extra": [
+        "travels"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я езжу на автобусе.",
+      "answer": [
+        "I travel by bus.",
+        "I go by bus."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

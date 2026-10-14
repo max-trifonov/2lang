@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-12",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 12,
+  "level": "A2",
+  "title": {
+    "ru": "Обмен валюты",
+    "en": "Changing money",
+    "es": "Cambiar dinero"
+  },
+  "words": [
+    "cambiar",
+    "dinero",
+    "cerca"
+  ],
+  "phrase": {
+    "es": "¿Dónde puedo cambiar dinero? ¿Hay un banco cerca?",
+    "ru": "Где можно поменять деньги? Есть ли поблизости банк?",
+    "en": "Where can I change money? Is there a bank nearby?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Поменять деньги — cambiar dinero. Dinero неисчисляемое, без артикля: cambiar dinero. Cerca de + место — «рядом с…»: cerca del banco.",
+      "en": "Change money: cambiar dinero. Dinero is uncountable, no article: cambiar dinero. Cerca de + place = near.",
+      "es": "cambiar dinero. cerca de + lugar (de + el = del)."
+    },
+    "examples": [
+      {
+        "es": "Está cerca del banco.",
+        "ru": "Это рядом с банком."
+      },
+      {
+        "es": "Quiero cambiar euros.",
+        "ru": "Хочу поменять евро."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Quiero ___ dinero, por favor.",
+      "answer": "cambiar",
+      "ru": "Хочу поменять деньги, пожалуйста."
+    },
+    {
+      "type": "fill",
+      "es": "No tengo mucho ___.",
+      "answer": "dinero",
+      "ru": "У меня мало денег."
+    },
+    {
+      "type": "build",
+      "es": "Hay un banco cerca de la estación.",
+      "ru": "Рядом с вокзалом есть банк.",
+      "extra": [
+        "cambias"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Где я могу поменять деньги?",
+      "answer": [
+        "¿Dónde puedo cambiar dinero?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

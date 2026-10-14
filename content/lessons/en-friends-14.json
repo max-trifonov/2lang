@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-14",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 14,
+  "level": "B1",
+  "title": {
+    "ru": "Любимая музыка",
+    "en": "Favorite music",
+    "es": "Música favorita"
+  },
+  "words": [
+    "prefer",
+    "music",
+    "favorite"
+  ],
+  "phrase": {
+    "en": "I prefer jazz to pop. What's your favorite music?",
+    "ru": "Я предпочитаю джаз попу. Какая у тебя любимая музыка?",
+    "es": "Prefiero el jazz al pop. ¿Cuál es tu música favorita?"
+  },
+  "rule": {
+    "text": {
+      "ru": "prefer A to B — «предпочитать А вместо B»; после prefer можно -ing или to + глагол. music неисчисляемое.",
+      "en": "Use prefer A to B; after prefer you can use -ing or to + verb. Music is uncountable.",
+      "es": "prefer A to B; después de prefer: -ing o to + verbo. Music es incontable."
+    },
+    "examples": [
+      {
+        "en": "I prefer tea to coffee.",
+        "ru": "Я предпочитаю чай кофе."
+      },
+      {
+        "en": "She prefers walking to driving.",
+        "ru": "Она предпочитает ходить пешком, а не ездить."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I ___ rock to classical music.",
+      "answer": "prefer",
+      "ru": "Я предпочитаю рок классической музыке."
+    },
+    {
+      "type": "fill",
+      "en": "What's your ___ song?",
+      "answer": "favorite",
+      "ru": "Какая у тебя любимая песня?"
+    },
+    {
+      "type": "build",
+      "en": "My favorite music is folk.",
+      "ru": "Моя любимая музыка — фолк.",
+      "extra": [
+        "prefers"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я предпочитаю чай кофе.",
+      "answer": [
+        "I prefer tea to coffee."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

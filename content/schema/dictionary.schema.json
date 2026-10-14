@@ -63,7 +63,8 @@
       "enum": [
         "travel",
         "it",
-        "daily"
+        "daily",
+        "friends"
       ]
     },
     "entry": {

@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-21",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 21,
+  "level": "B1",
+  "title": {
+    "ru": "Досмотр в аэропорту",
+    "en": "Airport security",
+    "es": "Control de seguridad"
+  },
+  "words": [
+    "remove",
+    "security",
+    "strict"
+  ],
+  "phrase": {
+    "en": "Please remove your belt and your laptop. Security is strict here.",
+    "ru": "Пожалуйста, снимите ремень и достаньте ноутбук. Здесь строгий досмотр.",
+    "es": "Por favor, quítese el cinturón y saque el portátil. Aquí la seguridad es estricta."
+  },
+  "rule": {
+    "text": {
+      "ru": "Просьба — Please + глагол: Please remove your shoes. Запрет — You can't / You mustn't. Необходимость — you have to.",
+      "en": "A request: Please + verb. Prohibition: You can't / You mustn't. Necessity: you have to.",
+      "es": "Please + verbo. You mustn't = prohibido. You have to = es necesario."
+    },
+    "examples": [
+      {
+        "en": "You have to show your passport.",
+        "ru": "Нужно показать паспорт."
+      },
+      {
+        "en": "You mustn't take liquids.",
+        "ru": "Нельзя брать жидкости."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Please ___ your jacket.",
+      "answer": "remove",
+      "ru": "Пожалуйста, снимите куртку."
+    },
+    {
+      "type": "fill",
+      "en": "The ___ check takes twenty minutes.",
+      "answer": "security",
+      "ru": "Досмотр занимает двадцать минут."
+    },
+    {
+      "type": "build",
+      "en": "You have to remove your belt for the check.",
+      "ru": "Для досмотра нужно снять ремень.",
+      "extra": [
+        "removes"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Снимите ремень, пожалуйста.",
+      "answer": [
+        "Please remove your belt.",
+        "Remove your belt, please.",
+        "Please take off your belt."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

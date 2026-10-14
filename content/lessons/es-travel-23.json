@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-23",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 23,
+  "level": "A2",
+  "title": {
+    "ru": "В аптеке",
+    "en": "At the pharmacy",
+    "es": "En la farmacia"
+  },
+  "words": [
+    "doler",
+    "medicina",
+    "enfermo-adj"
+  ],
+  "phrase": {
+    "es": "Me duele la cabeza. Estoy enfermo y necesito medicina.",
+    "ru": "У меня болит голова. Я болен, и мне нужно лекарство.",
+    "en": "I have a headache. I'm sick and I need medicine."
+  },
+  "rule": {
+    "text": {
+      "ru": "Болит — me duele + единственное число, me duelen + множественное: me duele la cabeza, me duelen los pies. Doler: o → ue.",
+      "en": "Pain uses me duele (singular) / me duelen (plural): me duele la cabeza, me duelen los pies. Doler: o → ue.",
+      "es": "me duele / me duelen. doler o → ue."
+    },
+    "examples": [
+      {
+        "es": "Me duelen los pies.",
+        "ru": "У меня болят ноги."
+      },
+      {
+        "es": "Necesito algo para la tos.",
+        "ru": "Мне нужно что-то от кашля."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Me ___ la garganta.",
+      "answer": "duele",
+      "ru": "У меня болит горло."
+    },
+    {
+      "type": "fill",
+      "es": "Necesito ___ para el dolor.",
+      "answer": "medicina",
+      "ru": "Мне нужно лекарство от боли."
+    },
+    {
+      "type": "build",
+      "es": "Me duele la cabeza y estoy enfermo.",
+      "ru": "У меня болит голова, и я болен.",
+      "extra": [
+        "dueles"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "У меня болит голова.",
+      "answer": [
+        "Me duele la cabeza."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

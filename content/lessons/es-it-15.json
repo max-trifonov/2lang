@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-15",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 15,
+  "level": "A2",
+  "title": {
+    "ru": "Резервная копия",
+    "en": "Making a backup",
+    "es": "Copia de seguridad"
+  },
+  "words": [
+    "guardar",
+    "dato",
+    "seguro"
+  ],
+  "phrase": {
+    "es": "Guardo los datos en un lugar seguro. Siempre hago una copia.",
+    "ru": "Я храню данные в безопасном месте. Я всегда делаю копию.",
+    "en": "I keep the data in a safe place. I always make a copy."
+  },
+  "rule": {
+    "text": {
+      "ru": "Dato — «данное, факт», во мн. числе datos — «данные». Seguro — «безопасный» и «уверенный». Siempre ставится перед глаголом.",
+      "en": "Un dato is a piece of data; los datos = data. Seguro = safe or sure. Siempre goes before the verb.",
+      "es": "los datos. seguro = safe / sure. siempre + verbo."
+    },
+    "examples": [
+      {
+        "es": "Guardo el archivo en la nube.",
+        "ru": "Я сохраняю файл в облаке."
+      },
+      {
+        "es": "Estoy seguro de que funciona.",
+        "ru": "Я уверен, что это работает."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Siempre ___ mis archivos.",
+      "answer": "guardo",
+      "ru": "Я всегда сохраняю свои файлы."
+    },
+    {
+      "type": "fill",
+      "es": "Este ___ es muy importante.",
+      "answer": "dato",
+      "ru": "Эти данные очень важны."
+    },
+    {
+      "type": "build",
+      "es": "Guardamos el dato en un sitio seguro.",
+      "ru": "Мы сохраняем данные в безопасном месте.",
+      "extra": [
+        "guardas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я сохраняю файл.",
+      "answer": [
+        "Guardo el archivo."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

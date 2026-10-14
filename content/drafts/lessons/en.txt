@@ -1,0 +1,661 @@
+# Новые уроки EN (LNG-S1-032): тема «встречи с друзьями» (friends 1–24), путешествия 11–27, IT 11–27. Уровень B1.
+=== friends 1 B1
+title: Приглашение на вечеринку | Invitation to a party | Invitación a una fiesta
+words: invite party glad
+phrase: Would you like to come to our party on Saturday? | Хочешь прийти к нам на вечеринку в субботу? | ¿Quieres venir a nuestra fiesta el sábado?
+rule: Вежливое приглашение — Would you like to + глагол? Согласие — I'd love to или I'd be glad to. | A polite invitation is Would you like to + verb? To accept, say I'd love to or I'd be glad to. | Invitación cortés: Would you like to + verbo. Para aceptar: I'd love to / I'd be glad to.
+ex: Would you like to join us? | Хочешь присоединиться к нам?
+ex: I'd love to, thank you! | С удовольствием, спасибо!
+fill: We'd like to ___ you to our wedding. | invite | Мы хотели бы пригласить вас на нашу свадьбу.
+fill: I'd be ___ to come. | glad | Буду рад прийти.
+build: They invited all their friends to the party. | Они пригласили на вечеринку всех своих друзей. | invites
+tr: Я с удовольствием приду. | I'd love to come. / I would love to come. / I'd be glad to come.
+=== friends 2 B1
+title: Давай встретимся | Let's meet up | Quedemos
+words: meet coffee later
+phrase: Let's meet for coffee later this week. | Давай встретимся выпить кофе позже на этой неделе. | Quedemos a tomar un café más tarde esta semana.
+rule: Предложение — Let's + глагол без to: Let's meet at six. Вопрос-предложение: Shall we meet…? | A suggestion is Let's + base verb, no to: Let's meet at six. You can also ask Shall we meet…? | Sugerencia: Let's + verbo sin to. También: Shall we meet…?
+ex: Let's meet at the station. | Давай встретимся на вокзале.
+ex: Shall we meet at seven? | Встретимся в семь?
+fill: Let's ___ in front of the cinema. | meet | Давай встретимся перед кинотеатром.
+fill: Do you want a ___ after work? | coffee | Хочешь кофе после работы?
+build: Let's meet for coffee later today. | Давай встретимся выпить кофе позже сегодня. | meeting
+tr: Давай встретимся позже. | Let's meet later.
+=== friends 3 B1
+title: Планы на выходные | Weekend plans | Planes para el fin de semana
+words: plan weekend probably
+phrase: What are you doing this weekend? I'm probably going to the lake. | Что делаешь на выходных? Я, скорее всего, поеду на озеро. | ¿Qué haces este fin de semana? Probablemente iré al lago.
+rule: Договорённость на ближайшее будущее — Present Continuous: I'm meeting Anna on Saturday. Предположение — probably стоит между will / am и глаголом. | For arrangements, use the Present Continuous: I'm meeting Anna on Saturday. Probably goes after will / am and before the main verb. | Planes ya organizados: Present Continuous. Probably va entre will / am y el verbo.
+ex: I'm seeing friends on Saturday. | В субботу я встречаюсь с друзьями.
+ex: We'll probably stay home. | Мы, скорее всего, останемся дома.
+fill: What's your ___ for the weekend? | plan | Какие у тебя планы на выходные?
+fill: We will ___ go to the beach. | probably | Мы, скорее всего, поедем на пляж.
+build: We are planning a trip this weekend. | Мы планируем поездку на эти выходные. | plans
+tr: Какие у тебя планы на выходные? | What are your plans for the weekend? / What are your plans for this weekend?
+=== friends 4 B1
+title: Я опаздываю | I'm running late | Voy a llegar tarde
+words: arrive traffic sorry
+phrase: Sorry, I'm late! There was so much traffic. | Прости, я опоздал! Было столько пробок. | ¡Perdona, llego tarde! Había mucho tráfico.
+rule: Извинение — Sorry I'm late или Sorry for being late (for + -ing). Причина — There was / is a lot of traffic: traffic неисчисляемое. | To apologise, say Sorry I'm late or Sorry for being late (for + -ing). Traffic is uncountable: a lot of traffic. | Disculpa: Sorry I'm late / Sorry for being late. Traffic es incontable.
+ex: Sorry for keeping you waiting. | Прости, что заставил тебя ждать.
+ex: I'll arrive in ten minutes. | Я буду через десять минут.
+fill: We will ___ at seven. | arrive | Мы приедем в семь.
+fill: Sorry, there was a lot of ___ on the road. | traffic | Прости, на дороге было много машин.
+build: Sorry, I arrived late because of the traffic. | Прости, я опоздал из-за пробок. | arrives
+tr: Простите, что опоздал. | Sorry I'm late. / Sorry for being late.
+=== friends 5 B1
+title: День рождения | A birthday party | Una fiesta de cumpleaños
+words: celebrate birthday surprised
+phrase: We're celebrating Lena's birthday on Friday. Don't tell her, it's a surprise! | В пятницу мы празднуем день рождения Лены. Не говори ей, это сюрприз! | El viernes celebramos el cumpleaños de Lena. ¡No se lo digas, es una sorpresa!
+rule: Принадлежность — 's: Lena's birthday. Возраст — turn: She turns thirty on Friday. Прилагательные на -ed описывают чувство: I was surprised. | Possession uses 's: Lena's birthday. Age uses turn: She turns thirty on Friday. Adjectives in -ed describe feelings: I was surprised. | Posesión con 's. Edad con turn. Los adjetivos en -ed describen sentimientos.
+ex: She turns thirty tomorrow. | Завтра ей исполняется тридцать.
+ex: Happy birthday! | С днём рождения!
+fill: We're going to ___ her birthday at a café. | celebrate | Мы отпразднуем её день рождения в кафе.
+fill: She was really ___ to see all of us. | surprised | Она была очень удивлена, увидев нас всех.
+build: We celebrated my birthday at home. | Мы отпраздновали мой день рождения дома. | celebrates
+tr: Мы празднуем день рождения. | We are celebrating a birthday. / We're celebrating a birthday. / We are celebrating her birthday.
+=== friends 6 B1
+title: Ужин у друзей | Dinner at a friend's | Cena en casa de un amigo
+words: cook dinner delicious
+phrase: I'll cook dinner. Shall I bring something? | Я приготовлю ужин. Принести что-нибудь? | Yo cocino la cena. ¿Llevo algo?
+rule: Спонтанное предложение — I'll + глагол: I'll bring dessert. Вопрос о предложении помощи — Shall I…? | For spontaneous offers use I'll + verb: I'll bring dessert. Offer help with Shall I…? | Ofrecimientos espontáneos: I'll + verbo. Para ofrecer ayuda: Shall I…?
+ex: I'll bring the wine. | Я принесу вино.
+ex: Shall I help you in the kitchen? | Помочь тебе на кухне?
+fill: Who is going to ___ tonight? | cook | Кто сегодня готовит?
+fill: The soup was absolutely ___. | delicious | Суп был просто восхитительным.
+build: We had a delicious dinner at Anna's place. | У Анны мы вкусно поужинали. | dinners
+tr: Я приготовлю ужин. | I'll cook dinner. / I will cook dinner.
+=== friends 7 B1
+title: Вечер кино | Movie night | Noche de cine
+words: enjoy movie funny
+phrase: Did you enjoy the movie? It was really funny. | Тебе понравился фильм? Он был очень смешной. | ¿Te gustó la película? Era muy divertida.
+rule: После enjoy — существительное или форма на -ing: enjoy the movie, enjoy dancing. Не enjoy to dance. | After enjoy use a noun or an -ing form: enjoy the movie, enjoy dancing — never enjoy to dance. | Después de enjoy: sustantivo o -ing. No se dice enjoy to dance.
+ex: I enjoy watching old movies. | Я люблю смотреть старые фильмы.
+ex: Did you enjoy the party? | Вечеринка тебе понравилась?
+fill: I really ___ going to the cinema. | enjoy | Мне очень нравится ходить в кино.
+fill: That was a very ___ movie. | funny | Это был очень смешной фильм.
+build: We enjoyed the movie a lot. | Фильм нам очень понравился. | enjoying
+tr: Тебе понравился фильм? | Did you enjoy the movie? / Did you enjoy the film?
+=== friends 8 B1
+title: Концерт | At a concert | En un concierto
+words: sing band loud
+phrase: The band is great, but it's too loud! | Группа отличная, но слишком громко! | ¡La banda es genial, pero hay demasiado ruido!
+rule: too + прилагательное — «слишком»: too loud. enough ставится после прилагательного: loud enough. | too + adjective means "more than needed": too loud. Enough goes after the adjective: loud enough. | too + adjetivo = «demasiado». enough va detrás del adjetivo.
+ex: It's too crowded in here. | Здесь слишком людно.
+ex: Is the music loud enough? | Музыка достаточно громкая?
+fill: Everyone started to ___ along. | sing | Все начали подпевать.
+fill: The music is too ___ for me. | loud | Музыка для меня слишком громкая.
+build: The band sang our favorite song. | Группа спела нашу любимую песню. | sings
+tr: Музыка слишком громкая. | The music is too loud.
+=== friends 9 B1
+title: Матч и болельщики | The football match | El partido de fútbol
+words: beat football lucky
+phrase: Our team beat them three to one. We were lucky! | Наша команда обыграла их 3:1. Нам повезло! | Nuestro equipo les ganó tres a uno. ¡Tuvimos suerte!
+rule: Неправильные глаголы: beat — beat — beaten; win — won. Играть в футбол — play football (без артикля). | Irregular verbs: beat – beat – beaten; win – won. We say play football (no article). | Verbos irregulares: beat – beat – beaten. Se dice play football, sin artículo.
+ex: Who won the match? | Кто выиграл матч?
+ex: We play football every Sunday. | Мы играем в футбол каждое воскресенье.
+fill: Our team ___ the champions yesterday. | beat | Вчера наша команда обыграла чемпионов.
+fill: Do you like watching ___? | football | Тебе нравится смотреть футбол?
+build: We were lucky to win the game. | Нам повезло выиграть игру. | luck
+tr: Нам повезло. | We were lucky. / We got lucky.
+=== friends 10 B1
+title: Поездка с друзьями | A trip with friends | Un viaje con amigos
+words: hire weekend cheap
+phrase: Why don't we hire a car for the weekend? It's cheap if we share. | Почему бы нам не взять машину на выходные? Если делить, то это дёшево. | ¿Por qué no alquilamos un coche para el fin de semana? Es barato si lo compartimos.
+rule: Предложение — Why don't we + глагол? Условие — if + Present Simple: It's cheap if we share. | A suggestion: Why don't we + verb? A condition: if + Present Simple — It's cheap if we share. | Sugerencia: Why don't we + verbo. Condición: if + Present Simple.
+ex: Why don't we go by train? | Почему бы нам не поехать на поезде?
+ex: It's cheaper if we book now. | Дешевле, если мы забронируем сейчас.
+fill: Why don't we ___ a car for two days? | hire | Почему бы нам не взять машину на два дня?
+fill: Train tickets are ___ on Sundays. | cheaper | В воскресенье билеты на поезд дешевле.
+build: We hired a cheap car for the weekend. | Мы взяли недорогую машину на выходные. | hires
+tr: Почему бы нам не поехать на выходные? | Why don't we go for the weekend? / Why don't we go away for the weekend?
+=== friends 11 B1
+title: Давно не виделись | Catching up | Ponerse al día
+words: miss news lately
+phrase: I've missed you! What's your news? I haven't seen you lately. | Я скучал по тебе! Какие новости? Тебя давно не видно. | ¡Te he echado de menos! ¿Qué novedades hay? No te he visto últimamente.
+rule: Present Perfect для периода «до сих пор»: I haven't seen you lately. Слово news неисчисляемое: good news, а не a news. | The Present Perfect covers "up to now": I haven't seen you lately. News is uncountable: good news, not a news. | Present Perfect para «hasta ahora». News es incontable.
+ex: How have you been? | Как у тебя дела?
+ex: I've got some good news. | У меня есть хорошие новости.
+fill: I've ___ you so much. | missed | Я так по тебе скучал.
+fill: Have you heard the ___? | news | Ты слышал новости?
+build: I haven't seen him lately. | В последнее время я его не видел. | seeing
+tr: Я скучал по тебе. | I missed you. / I've missed you. / I have missed you.
+=== friends 12 B1
+title: Комплименты | Compliments | Cumplidos
+words: wear dress-noun gorgeous
+phrase: You look gorgeous in that dress! Is it new? | Ты потрясающе выглядишь в этом платье! Оно новое? | ¡Estás guapísima con ese vestido! ¿Es nuevo?
+rule: После look, sound, feel идёт прилагательное, а не наречие: You look great. Одежду носят — wear: She wears a red dress. | After look, sound and feel use an adjective, not an adverb: You look great. We wear clothes: She wears a red dress. | Después de look, sound, feel va un adjetivo: You look great. La ropa se wear.
+ex: You look great today! | Сегодня ты отлично выглядишь!
+ex: He wore a dark suit. | На нём был тёмный костюм.
+fill: She likes to ___ bright colors. | wear | Она любит носить яркие цвета.
+fill: What a beautiful ___! | dress | Какое красивое платье!
+build: You look gorgeous in that dress. | В этом платье ты выглядишь великолепно. | wears
+tr: Ты прекрасно выглядишь. | You look great. / You look gorgeous. / You look wonderful.
+=== friends 13 B1
+title: Семья и родители | Talking about family | Hablar de la familia
+words: visit parent proud
+phrase: I visit my parents every Sunday. They're so proud of my sister. | Я навещаю родителей каждое воскресенье. Они так гордятся моей сестрой. | Visito a mis padres todos los domingos. Están muy orgullosos de mi hermana.
+rule: Гордиться — proud of: proud of you. Притяжательный падеж: my parents' house (у мн. числа апостроф после s). | We say proud of: proud of you. Possession with plurals: my parents' house (apostrophe after s). | proud of + algo/alguien. Posesivo plural: my parents' house.
+ex: My parents' house is near the sea. | Дом моих родителей у моря.
+ex: I'm proud of you. | Я горжусь тобой.
+fill: We ___ my grandma every weekend. | visit | Мы навещаем мою бабушку каждые выходные.
+fill: My ___ live in a small village. | parents | Мои родители живут в маленькой деревне.
+build: I'm very proud of my parents. | Я очень горжусь своими родителями. | proudly
+tr: Родители гордятся мной. | My parents are proud of me.
+=== friends 14 B1
+title: Любимая музыка | Favorite music | Música favorita
+words: prefer music favorite
+phrase: I prefer jazz to pop. What's your favorite music? | Я предпочитаю джаз попу. Какая у тебя любимая музыка? | Prefiero el jazz al pop. ¿Cuál es tu música favorita?
+rule: prefer A to B — «предпочитать А вместо B»; после prefer можно -ing или to + глагол. music неисчисляемое. | Use prefer A to B; after prefer you can use -ing or to + verb. Music is uncountable. | prefer A to B; después de prefer: -ing o to + verbo. Music es incontable.
+ex: I prefer tea to coffee. | Я предпочитаю чай кофе.
+ex: She prefers walking to driving. | Она предпочитает ходить пешком, а не ездить.
+fill: I ___ rock to classical music. | prefer | Я предпочитаю рок классической музыке.
+fill: What's your ___ song? | favorite | Какая у тебя любимая песня?
+build: My favorite music is folk. | Моя любимая музыка — фолк. | prefers
+tr: Я предпочитаю чай кофе. | I prefer tea to coffee.
+=== friends 15 B1
+title: Согласен и не согласен | Agreeing and disagreeing | Estar de acuerdo
+words: agree opinion honestly
+phrase: Honestly, I agree with you. In my opinion, it's a great idea. | Честно, я с тобой согласен. По-моему, это отличная идея. | Sinceramente, estoy de acuerdo. En mi opinión, es una gran idea.
+rule: Согласиться — agree with someone, а не *agree to someone. Мнение — In my opinion… / I think… Согласие с отрицанием — Neither do I. | We agree with someone: I agree with you. Give an opinion with In my opinion… or I think… Neither do I agrees with a negative. | agree with + persona. Opinión: In my opinion… Neither do I = yo tampoco.
+ex: I don't agree with you. | Я с тобой не согласен.
+ex: I don't like it. — Neither do I. | Мне не нравится. — Мне тоже.
+fill: I totally ___ with Tom. | agree | Я полностью согласен с Томом.
+fill: In my ___, the red one is better. | opinion | По-моему, красный лучше.
+build: Honestly, I don't agree with you. | Честно говоря, я с тобой не согласен. | agrees
+tr: Я с тобой согласен. | I agree with you.
+=== friends 16 B1
+title: Не расслышал | Say that again | Repítelo, por favor
+words: repeat mistake clearly
+phrase: Sorry, could you repeat that? I didn't hear it clearly. | Извини, можешь повторить? Я не расслышал. | Perdona, ¿puedes repetirlo? No lo oí bien.
+rule: Вежливая просьба повторить — Could you repeat that? / Sorry, I didn't catch that. Make a mistake — ошибаться. | Ask politely with Could you repeat that? or Sorry, I didn't catch that. We say make a mistake. | Pedir que repitan: Could you repeat that? Se dice make a mistake.
+ex: Sorry, I didn't catch your name. | Прости, я не расслышал твоё имя.
+ex: Sorry, I made a mistake. | Прости, я ошибся.
+fill: Could you ___ that, please? | repeat | Не могли бы вы повторить, пожалуйста?
+fill: I made a small ___. | mistake | Я сделал небольшую ошибку.
+build: Please speak clearly and slowly. | Пожалуйста, говорите чётко и медленно. | repeats
+tr: Можешь повторить? | Could you repeat that? / Can you repeat that? / Could you say that again?
+=== friends 17 B1
+title: Переписка в чате | The group chat | El chat del grupo
+words: send message quickly
+phrase: I'll send you a message. Please answer quickly! | Я пришлю тебе сообщение. Пожалуйста, ответь быстро! | Te enviaré un mensaje. ¡Contesta rápido, por favor!
+rule: send someone something: send you a message = send a message to you. Наречие quickly образуется от quick + ly и стоит после глагола. | Send someone something: send you a message = send a message to you. The adverb quickly (quick + ly) goes after the verb. | send you a message = send a message to you. Quickly (quick + ly) va después del verbo.
+ex: She sent me a photo. | Она прислала мне фото.
+ex: Reply as quickly as you can. | Ответь как можно быстрее.
+fill: Can you ___ me the address? | send | Можешь прислать мне адрес?
+fill: I got your ___ this morning. | message | Я получил твоё сообщение сегодня утром.
+build: I'll send a message to everybody. | Я отправлю сообщение всем. | sending
+tr: Я отправлю тебе сообщение. | I'll send you a message. / I will send you a message.
+=== friends 18 B1
+title: Фото на память | Taking photos | Hacer fotos
+words: share photo together
+phrase: Could you take a photo of us together? I'll share it in the chat. | Можешь сфотографировать нас вместе? Я скину фото в чат. | ¿Nos haces una foto juntos? La compartiré en el chat.
+rule: Фотографировать — take a photo. Could you + глагол — вежливая просьба. share something with someone — поделиться чем-то с кем-то. | We say take a photo. Could you + verb is a polite request. share something with someone. | take a photo. Could you + verbo = petición cortés. share something with someone.
+ex: Let's take a photo together. | Давай сфотографируемся вместе.
+ex: I'll share the pictures with you. | Я поделюсь с тобой снимками.
+fill: Can I ___ these photos with everyone? | share | Можно поделиться этими фото со всеми?
+fill: Here is a ___ from last summer. | photo | Вот фото с прошлого лета.
+build: We took a photo together. | Мы сфотографировались вместе. | shares
+tr: Давай сфотографируемся вместе. | Let's take a photo together.
+=== friends 19 B1
+title: Счёт в кафе | Splitting the bill | Pagar la cuenta
+words: split bill separately
+phrase: Shall we split the bill? Or do you want to pay separately? | Разделим счёт? Или хочешь заплатить отдельно? | ¿Dividimos la cuenta? ¿O quieres pagar por separado?
+rule: Платит один — It's on me / My treat. Делим — split the bill или go Dutch. Вопрос — Shall we…? | One person pays: It's on me / My treat. Share the cost: split the bill or go Dutch. Ask with Shall we…? | Invitar: It's on me / My treat. Dividir: split the bill. Shall we…? para proponer.
+ex: It's on me today. | Сегодня плачу я.
+ex: Can we pay separately? | Можно оплатить отдельно?
+fill: Let's ___ the bill in three. | split | Давайте разделим счёт на троих.
+fill: Can we pay ___, please? | separately | Можно заплатить отдельно, пожалуйста?
+build: The bill was bigger than we expected. | Счёт оказался больше, чем мы ожидали. | splits
+tr: Давайте разделим счёт. | Let's split the bill.
+=== friends 20 B1
+title: Выбираем подарок | Choosing a gift | Elegir un regalo
+words: choose gift perfect
+phrase: I can't choose a gift. I want something perfect for her. | Не могу выбрать подарок. Хочу что-нибудь идеальное для неё. | No sé elegir un regalo. Quiero algo perfecto para ella.
+rule: Что-то + прилагательное: something perfect, something nice (прилагательное после something). Дать кому-то: buy her a gift = buy a gift for her. | Adjectives come after something: something perfect, something nice. Buy her a gift = buy a gift for her. | El adjetivo va después de something. Buy her a gift = buy a gift for her.
+ex: I bought her a book. | Я купил ей книгу.
+ex: Let's find something special. | Давай найдём что-нибудь особенное.
+fill: It's hard to ___ a good present. | choose | Трудно выбрать хороший подарок.
+fill: Thank you for the lovely ___! | gift | Спасибо за прекрасный подарок!
+build: We chose a perfect gift for Dad. | Мы выбрали отличный подарок для папы. | chooses
+tr: Это идеальный подарок. | It's a perfect gift. / It is a perfect gift. / It's the perfect gift.
+=== friends 21 B1
+title: Вежливый отказ | Saying no politely | Decir que no con educación
+words: join plan-noun busy
+phrase: I'd love to join you, but I'm busy. I already have plans. | Я бы с радостью к вам присоединился, но я занят. У меня уже есть планы. | Me encantaría unirme a vosotros, pero estoy ocupado. Ya tengo planes.
+rule: Вежливый отказ — I'd love to, but… + причина. Сожаление — I wish I could. | Turn down politely with I'd love to, but… and a reason. Express regret with I wish I could. | Rechazo cortés: I'd love to, but… Arrepentimiento: I wish I could.
+ex: I wish I could come. | Жаль, что я не могу прийти.
+ex: Sorry, I already have plans. | Прости, у меня уже есть планы.
+fill: I'd love to ___ you, but I can't. | join | Я бы присоединился, но не могу.
+fill: Sorry, I'm ___ tonight. | busy | Прости, я сегодня занят.
+build: I'm busy, but thanks for the invitation. | Я занят, но спасибо за приглашение. | busily
+tr: Жаль, что я не могу прийти. | I wish I could come.
+=== friends 22 B1
+title: Если пойдёт дождь | If it rains | Si llueve
+words: cancel rain sunny
+phrase: If it rains, we'll cancel the picnic. If it's sunny, we'll go. | Если пойдёт дождь, мы отменим пикник. Если будет солнечно, поедем. | Si llueve, cancelaremos el picnic. Si hace sol, iremos.
+rule: Реальное условие в будущем — if + Present Simple, will + глагол: If it rains, we will cancel. После if не ставим will. | First conditional: if + Present Simple, will + verb: If it rains, we will cancel. Never put will after if. | Primer condicional: if + Present Simple, will + verbo. No se usa will tras if.
+ex: If it's sunny, we'll go to the park. | Если будет солнечно, мы пойдём в парк.
+ex: If you come, I'll cook dinner. | Если ты придёшь, я приготовлю ужин.
+fill: If it rains, we'll ___ the picnic. | cancel | Если пойдёт дождь, мы отменим пикник.
+fill: I hope it's ___ on Saturday. | sunny | Надеюсь, в субботу будет солнечно.
+build: If it rains, we will stay at home. | Если пойдёт дождь, мы останемся дома. | rainy
+tr: Если будет дождь, мы отменим встречу. | If it rains, we'll cancel the meeting. / If it rains we will cancel the meeting.
+=== friends 23 B1
+title: Знакомство друзей | Introducing friends | Presentar a los amigos
+words: introduce guest pleased
+phrase: Let me introduce my friend Tom. He's our guest tonight. | Позвольте представить моего друга Тома. Он наш гость сегодня вечером. | Te presento a mi amigo Tom. Es nuestro invitado esta noche.
+rule: Знакомство — This is… / Let me introduce…. Ответ — Nice to meet you / Pleased to meet you. | To introduce: This is… or Let me introduce…. Answer with Nice to meet you or Pleased to meet you. | Presentar: This is… / Let me introduce… Responder: Nice to meet you.
+ex: This is my sister, Anna. | Это моя сестра Анна.
+ex: Pleased to meet you! | Очень приятно с вами познакомиться!
+fill: Let me ___ my colleague, Maria. | introduce | Позвольте представить мою коллегу Марию.
+fill: We have a special ___ tonight. | guest | Сегодня вечером у нас особый гость.
+build: I'm pleased to meet you. | Рад с вами познакомиться. | introduces
+tr: Это мой друг. | This is my friend.
+=== friends 24 B1
+title: Прощание | Saying goodbye | Despedirse
+words: promise touch-noun soon
+phrase: Let's keep in touch! I promise I'll write soon. | Давай оставаться на связи! Обещаю, скоро напишу. | ¡Mantengámonos en contacto! Te prometo que escribiré pronto.
+rule: Остаться на связи — keep in touch / stay in touch. Обещание — I promise I'll + глагол. Прощание — See you soon! Take care! | Stay connected with keep in touch or stay in touch. Promise with I promise I'll + verb. Say See you soon! or Take care! | Mantener el contacto: keep in touch. Promesa: I promise I'll + verbo.
+ex: Take care of yourself! | Береги себя!
+ex: See you soon! | До скорой встречи!
+fill: I ___ I'll call you tomorrow. | promise | Обещаю, что позвоню тебе завтра.
+fill: Let's keep in ___. | touch | Давай оставаться на связи.
+build: We promised to keep in touch. | Мы пообещали оставаться на связи. | promises
+tr: Скоро увидимся! | See you soon!
+=== friends 25 B1
+title: Поход в горы | A hike together | Una excursión a la montaña
+words: climb mountain tired
+phrase: How about climbing the mountain on Sunday? We'll be tired, but happy. | Как насчёт того, чтобы подняться на гору в воскресенье? Мы устанем, но будем счастливы. | ¿Qué tal subir la montaña el domingo? Estaremos cansados, pero contentos.
+rule: Предложение — How about + -ing: How about climbing…? What about + -ing — то же самое. Tired — «усталый», tiring — «утомительный». | A suggestion: How about + -ing: How about climbing…? Tired describes a person; tiring describes the thing. | How about + -ing. tired (persona) / tiring (cosa).
+ex: How about going for a walk? | Как насчёт прогулки?
+ex: The hike was tiring. | Поход был утомительным.
+fill: Let's ___ the mountain together. | climb | Давай вместе поднимемся на гору.
+fill: We were really ___ after the hike. | tired | Мы очень устали после похода.
+build: We climbed the mountain and felt tired. | Мы поднялись на гору и почувствовали усталость. | climbs
+tr: Давай поднимемся на гору. | Let's climb the mountain.
+=== friends 26 B1
+title: Вечер настольных игр | Game night | Noche de juegos
+words: play game funny
+phrase: Let's play a game tonight. It's a funny one! | Давай сегодня сыграем в игру. Она очень смешная! | Juguemos a un juego esta noche. ¡Es muy divertido!
+rule: Играть в игру — play a game (без предлога in). Whose turn is it? — «Чья очередь?» — It's your turn. Funny — «смешной», fun — «весёлое занятие». | We play a game, play football (no preposition). Whose turn is it? It's your turn. Funny = makes you laugh. | play a game. It's your turn.
+ex: Whose turn is it? | Чья очередь?
+ex: It's your turn to play. | Твоя очередь играть.
+fill: We often ___ cards on Fridays. | play | По пятницам мы часто играем в карты.
+fill: This ___ is easy to learn. | game | В эту игру легко научиться играть.
+build: We played a funny game last night. | Вчера вечером мы сыграли в смешную игру. | plays
+tr: Давай сыграем в игру. | Let's play a game.
+=== travel 11 B1
+title: Паспортный контроль | Passport control | Control de pasaportes
+words: visit purpose tourist
+phrase: What's the purpose of your visit? — I'm here as a tourist. | Какова цель вашего визита? — Я здесь как турист. | ¿Cuál es el motivo de su visita? — Estoy aquí como turista.
+rule: Цель визита — the purpose of your visit; ответ — I'm here on holiday / on business / as a tourist. После of — существительное. | Ask about the purpose of your visit. Answer: I'm here on holiday, on business, or as a tourist. | Motivo del viaje: I'm here on holiday / on business / as a tourist.
+ex: I'm here on business. | Я здесь по делам.
+ex: How long are you going to stay? | Как долго вы пробудете?
+fill: I'm going to ___ my cousin in Madrid. | visit | Я собираюсь навестить двоюродного брата в Мадриде.
+fill: What is the ___ of your trip? | purpose | Какова цель вашей поездки?
+build: I am here as a tourist for one week. | Я здесь как турист на неделю. | tourists
+tr: Я здесь как турист. | I'm here as a tourist. / I am here as a tourist.
+=== travel 12 B1
+title: Обмен валюты | Changing money | Cambiar dinero
+words: change exchange abroad
+phrase: I'd like to change some money. What's the exchange rate? | Я хотел бы поменять деньги. Какой курс обмена? | Quisiera cambiar dinero. ¿Cuál es el tipo de cambio?
+rule: Менять деньги — change money; exchange (сущ.) — обмен: exchange rate. money неисчисляемое: some money. | We change money; an exchange is the swap itself: exchange rate. Money is uncountable: some money. | change money; exchange rate. Money es incontable.
+ex: Can I change dollars here? | Могу я поменять здесь доллары?
+ex: Is there a currency exchange nearby? | Рядом есть обмен валюты?
+fill: Where can I ___ euros? | change | Где можно поменять евро?
+fill: What is the ___ rate today? | exchange | Каков сегодня курс обмена?
+build: I want to change money before I go abroad. | Я хочу поменять деньги перед поездкой за границу. | exchanges
+tr: Где я могу поменять деньги? | Where can I change money?
+=== travel 13 B1
+title: В такси | In a taxi | En el taxi
+words: take taxi straight
+phrase: Could you take me to the airport? Go straight, please. | Не могли бы вы отвезти меня в аэропорт? Езжайте прямо, пожалуйста. | ¿Podría llevarme al aeropuerto? Siga recto, por favor.
+rule: Просьба — Could you take me to…? Цена — How much is it to…? Прямо — straight ahead / go straight. | Ask Could you take me to…? and How much is it to…? Directions: go straight (ahead). | Could you take me to…? How much is it to…? Go straight.
+ex: How much is it to the station? | Сколько стоит до вокзала?
+ex: Please stop here. | Остановитесь здесь, пожалуйста.
+fill: Could you ___ me to the hotel? | take | Не могли бы вы отвезти меня в отель?
+fill: We took a ___ from the airport. | taxi | Мы взяли такси от аэропорта.
+build: Please go straight and turn left. | Езжайте прямо и поверните налево. | straightly
+tr: Сколько стоит такси до вокзала? | How much is a taxi to the station? / How much is the taxi to the station? / How much is it to the station?
+=== travel 14 B1
+title: Завтрак в отеле | Hotel breakfast | Desayuno en el hotel
+words: serve breakfast fresh
+phrase: Breakfast is served from seven to ten. The bread is always fresh. | Завтрак подают с семи до десяти. Хлеб всегда свежий. | El desayuno se sirve de siete a diez. El pan siempre está fresco.
+rule: Пассив — be + третья форма: Breakfast is served. Кто делает — не важно, важно что. | The passive is be + past participle: Breakfast is served. We use it when the doer is not important. | Pasiva: be + participio. Breakfast is served.
+ex: Dinner is served at eight. | Ужин подают в восемь.
+ex: Is breakfast included? | Завтрак включён?
+fill: Breakfast is ___ until ten. | served | Завтрак подают до десяти.
+fill: I'd like some ___ orange juice. | fresh | Мне свежевыжатый апельсиновый сок.
+build: We had breakfast on the hotel terrace. | Мы завтракали на террасе отеля. | serves
+tr: Завтрак подают с семи часов. | Breakfast is served from seven. / Breakfast is served from seven o'clock.
+=== travel 15 B1
+title: Аренда машины | Renting a car | Alquilar un coche
+words: hire license available
+phrase: I'd like to hire a car. Is a small one available? Here's my license. | Я хотел бы взять машину напрокат. Есть ли маленькая? Вот мои права. | Quisiera alquilar un coche. ¿Hay uno pequeño disponible? Aquí tiene mi carné.
+rule: Британское hire a car = американское rent a car. Is… available? — есть ли в наличии. driver's license — водительские права. | British hire a car = American rent a car. Is… available? asks about availability. Driver's license. | hire (UK) = rent (US). Is… available? licencia de conducir = driver's license.
+ex: Is a room available tonight? | Есть ли свободный номер на сегодня?
+ex: Do you have a driver's license? | У вас есть водительские права?
+fill: We want to ___ a car for three days. | hire | Мы хотим взять машину на три дня.
+fill: Is a double room ___ tonight? | available | Есть ли двухместный номер на сегодня?
+build: I need my license to hire a car. | Для аренды машины мне нужны права. | hires
+tr: У вас есть свободные машины? | Do you have any cars available? / Are there any cars available? / Do you have cars available?
+=== travel 16 B1
+title: Потерялась сумка | A lost bag | Maleta perdida
+words: lose bag unfortunately
+phrase: Unfortunately, I've lost my bag. Can you help me find it? | К сожалению, я потерял сумку. Поможете её найти? | Por desgracia, he perdido mi bolsa. ¿Puede ayudarme a encontrarla?
+rule: lose — lost — lost (неправильный). Результат сейчас — Present Perfect: I've lost my bag. Unfortunately — в начале фразы, через запятую. | lose – lost – lost is irregular. A result that matters now: I've lost my bag. Unfortunately usually opens a sentence, then a comma. | lose – lost – lost. Present Perfect para el resultado actual.
+ex: I lost my phone yesterday. | Вчера я потерял телефон.
+ex: Has anyone seen a black bag? | Кто-нибудь видел чёрную сумку?
+fill: I think I ___ my bag on the train. | lost | Кажется, я потерял сумку в поезде.
+fill: This ___ is not mine. | bag | Эта сумка не моя.
+build: Unfortunately, we lost our bags at the airport. | К сожалению, мы потеряли сумки в аэропорту. | loses
+tr: Я потерял сумку. | I lost my bag. / I've lost my bag. / I have lost my bag.
+=== travel 17 B1
+title: Как далеко? | How far is it? | ¿A qué distancia está?
+words: walk distance nearby
+phrase: How far is it? — It's a short walk, just a short distance from here. | Как далеко это? — Недалеко, всего несколько минут пешком. | ¿A qué distancia está? — Está cerca, a poca distancia de aquí.
+rule: Расстояние — How far is it? Время в пути — It takes ten minutes to walk. Walk как существительное: a short walk. | Distance: How far is it? Time: It takes ten minutes to walk. A walk is also a noun: a short walk. | How far is it? It takes + tiempo + to + verbo.
+ex: It takes ten minutes to walk there. | Туда идти десять минут.
+ex: Is there a pharmacy nearby? | Рядом есть аптека?
+fill: We can ___ to the beach. | walk | Мы можем дойти до пляжа пешком.
+fill: The station is a short ___ from here. | distance | До станции недалеко отсюда.
+build: Is there a good restaurant nearby? | Поблизости есть хороший ресторан? | distances
+tr: Как далеко до станции? | How far is it to the station? / How far is the station?
+=== travel 18 B1
+title: Билеты в музей | Museum tickets | Entradas para el museo
+words: buy ticket open-adj
+phrase: Two tickets, please. Is the museum open on Mondays? | Два билета, пожалуйста. Музей открыт по понедельникам? | Dos entradas, por favor. ¿Está abierto el museo los lunes?
+rule: Заказ — Two tickets, please. Время работы — Is it open? / What time does it open? Open здесь прилагательное: The museum is open. | Order with Two tickets, please. Ask about hours: Is it open? What time does it open? Open can be an adjective. | Two tickets, please. Is it open? What time does it open?
+ex: What time does it open? | Во сколько он открывается?
+ex: Is it open on Sundays? | Он открыт по воскресеньям?
+fill: Where can I ___ tickets? | buy | Где можно купить билеты?
+fill: How much is one ___ ? | ticket | Сколько стоит один билет?
+build: The museum is open until six. | Музей открыт до шести. | opens
+tr: Два билета, пожалуйста. | Two tickets, please.
+=== travel 19 B1
+title: День на пляже | A day at the sea | Un día en la playa
+words: swim sea warm
+phrase: Is it safe to swim here? The sea is really warm today. | Здесь безопасно плавать? Сегодня море очень тёплое. | ¿Es seguro nadar aquí? Hoy el mar está muy cálido.
+rule: Вопрос с to-инфинитивом — Is it safe to swim? too + прилагательное + to: too cold to swim. | An adjective + to-infinitive: Is it safe to swim? Too + adjective + to: too cold to swim. | Is it safe to swim? too + adjetivo + to + verbo.
+ex: The water is too cold to swim. | Вода слишком холодная, чтобы плавать.
+ex: It's warm enough to swim. | Достаточно тепло, чтобы купаться.
+fill: Can we ___ in the lake? | swim | Можно купаться в озере?
+fill: The ___ is calm today. | sea | Сегодня море спокойное.
+build: The sea is warm enough to swim. | Море достаточно тёплое, чтобы плавать. | swims
+tr: Здесь безопасно плавать? | Is it safe to swim here?
+=== travel 20 B1
+title: Поезд опаздывает | The train is late | El tren llega tarde
+words: wait station late
+phrase: The train is late. How long do we have to wait at the station? | Поезд опаздывает. Сколько нам ждать на вокзале? | El tren llega tarde. ¿Cuánto tenemos que esperar en la estación?
+rule: How long…? — «как долго». have to — нужно: we have to wait. Late — «поздно/опоздавший»: The train is late. | How long…? asks about duration. Have to expresses necessity: we have to wait. Late means "after the expected time". | How long…? have to = tener que. Late = tarde.
+ex: How long is the delay? | Какая задержка?
+ex: We have to wait for another train. | Нам придётся ждать другой поезд.
+fill: We have to ___ for two hours. | wait | Нам придётся ждать два часа.
+fill: The train arrived half an hour ___ . | late | Поезд прибыл с опозданием на полчаса.
+build: We waited at the station for an hour. | Мы ждали на вокзале час. | waiting
+tr: Нам нужно подождать. | We have to wait. / We need to wait.
+=== travel 21 B1
+title: Досмотр в аэропорту | Airport security | Control de seguridad
+words: remove security strict
+phrase: Please remove your belt and your laptop. Security is strict here. | Пожалуйста, снимите ремень и достаньте ноутбук. Здесь строгий досмотр. | Por favor, quítese el cinturón y saque el portátil. Aquí la seguridad es estricta.
+rule: Просьба — Please + глагол: Please remove your shoes. Запрет — You can't / You mustn't. Необходимость — you have to. | A request: Please + verb. Prohibition: You can't / You mustn't. Necessity: you have to. | Please + verbo. You mustn't = prohibido. You have to = es necesario.
+ex: You have to show your passport. | Нужно показать паспорт.
+ex: You mustn't take liquids. | Нельзя брать жидкости.
+fill: Please ___ your jacket. | remove | Пожалуйста, снимите куртку.
+fill: The ___ check takes twenty minutes. | security | Досмотр занимает двадцать минут.
+build: You have to remove your belt for the check. | Для досмотра нужно снять ремень. | removes
+tr: Снимите ремень, пожалуйста. | Please remove your belt. / Remove your belt, please. / Please take off your belt.
+=== travel 22 B1
+title: Столик в ресторане | Booking a table | Reservar mesa
+words: order table ready
+phrase: I'd like to book a table for two. We're ready to order. | Я хотел бы забронировать столик на двоих. Мы готовы сделать заказ. | Quisiera reservar una mesa para dos. Estamos listos para pedir.
+rule: Бронь — book a table for two at eight. Готовы заказывать — We're ready to order. Заказывать еду — order, а не *take. | Book a table for two at eight. When you want food: We're ready to order. | Reservar: book a table. Pedir comida: order.
+ex: Can we see the menu, please? | Можно меню, пожалуйста?
+ex: I'll have the fish, please. | Мне рыбу, пожалуйста.
+fill: Are you ready to ___? | order | Вы готовы сделать заказ?
+fill: A ___ for four, please. | table | Столик на четверых, пожалуйста.
+build: We are ready to order dinner now. | Мы готовы сделать заказ на ужин. | ordering
+tr: Столик на двоих, пожалуйста. | A table for two, please.
+=== travel 23 B1
+title: В аптеке | At the pharmacy | En la farmacia
+words: hurt medicine sick
+phrase: My head hurts and I feel sick. Do you have any medicine? | У меня болит голова и мне нехорошо. У вас есть какое-нибудь лекарство? | Me duele la cabeza y me siento mal. ¿Tiene algún medicamento?
+rule: Болит — My head hurts / I have a headache. Тошнит — I feel sick. medicine неисчисляемое: some medicine, a medicine редко. | Pain: My head hurts / I have a headache. Nausea: I feel sick. Medicine is uncountable: some medicine. | My head hurts. I feel sick. Medicine es incontable.
+ex: I have a sore throat. | У меня болит горло.
+ex: How often should I take it? | Как часто это принимать?
+fill: My back ___ a lot. | hurts | У меня сильно болит спина.
+fill: I need some ___ for my cough. | medicine | Мне нужно лекарство от кашля.
+build: I feel sick after the boat trip. | Меня тошнит после поездки на лодке. | sickly
+tr: У меня болит голова. | My head hurts. / I have a headache.
+=== travel 24 B1
+title: Сувениры | Buying souvenirs | Comprar recuerdos
+words: sell price expensive
+phrase: Do you sell postcards? The price is a bit expensive for me. | Вы продаёте открытки? Цена для меня немного высока. | ¿Venden postales? El precio es un poco caro para mí.
+rule: How much is…? / How much are…? — «сколько стоит» (are — для множественного числа). Слишком дорого — too expensive. | How much is it? / How much are they? (are for plurals). Too expensive = more than I can pay. | How much is / are…? too expensive = demasiado caro.
+ex: How much are these postcards? | Сколько стоят эти открытки?
+ex: Can you give me a better price? | Можете сделать цену получше?
+fill: They ___ local honey here. | sell | Здесь продают местный мёд.
+fill: That's too ___ for me. | expensive | Это слишком дорого для меня.
+build: What is the price of this bag? | Сколько стоит эта сумка? | prices
+tr: Это слишком дорого. | That's too expensive. / It's too expensive. / This is too expensive.
+=== travel 25 B1
+title: Городской транспорт | Public transport | Transporte público
+words: travel bus daily
+phrase: I travel by bus daily. One ticket is enough for the whole day. | Я езжу на автобусе каждый день. Одного билета хватает на весь день. | Viajo en autobús a diario. Un billete basta para todo el día.
+rule: Транспорт — by bus, by train, но on foot. Daily — «ежедневно», наречие и прилагательное. enough ставится после прилагательного и перед существительным. | Transport: by bus, by train, but on foot. Daily means "every day". Enough comes before a noun: enough time. | by bus / by train; on foot. enough + sustantivo.
+ex: I go to work by train. | Я езжу на работу на поезде.
+ex: We have enough time. | У нас достаточно времени.
+fill: We ___ by bus to save money. | travel | Мы ездим на автобусе, чтобы экономить.
+fill: The ___ stops right here. | bus | Автобус останавливается прямо здесь.
+build: This bus runs daily from the station. | Этот автобус ходит ежедневно от вокзала. | travels
+tr: Я езжу на автобусе. | I travel by bus. / I go by bus.
+=== travel 26 B1
+title: Экскурсия | A sightseeing tour | Una excursión
+words: join tour interesting
+phrase: Why don't you join our tour? It's really interesting. | Почему бы вам не присоединиться к нашей экскурсии? Она очень интересная. | ¿Por qué no se une a nuestra excursión? Es muy interesante.
+rule: interesting — то, что интересно; interested — тот, кому интересно: The tour is interesting. I'm interested. Join a tour — присоединиться (без to). | Interesting describes the thing; interested describes the person: The tour is interesting. I'm interested. We join a tour — no preposition. | interesting (cosa) / interested (persona). join sin preposición.
+ex: I'm interested in history. | Я интересуюсь историей.
+ex: The guide was very interesting. | Гид был очень интересным.
+fill: Can I ___ the next tour? | join | Могу я присоединиться к следующей экскурсии?
+fill: We took a walking ___ of the old town. | tour | Мы прошли пешую экскурсию по старому городу.
+build: The tour was really interesting. | Экскурсия была действительно интересной. | joins
+tr: Я хочу присоединиться к экскурсии. | I want to join the tour. / I'd like to join the tour. / I want to join a tour.
+=== travel 27 B1
+title: Выезд из отеля | Checking out | Salida del hotel
+words: leave key early
+phrase: What time do I have to leave? I'll return the key early. | Во сколько мне нужно освободить номер? Я сдам ключ пораньше. | ¿A qué hora tengo que dejar la habitación? Devolveré la llave temprano.
+rule: Время выезда — check-out time; I'd like to check out. Early — «рано» (наречие и прилагательное). leave — left — left. | Check-out time; I'd like to check out. Early works as an adverb and adjective. leave – left – left. | check-out; early = temprano. leave – left – left.
+ex: Check-out is at eleven. | Выезд до одиннадцати.
+ex: We left early in the morning. | Мы уехали рано утром.
+fill: We have to ___ the room at noon. | leave | Мы должны освободить номер в полдень.
+fill: Please leave the ___ at the desk. | key | Пожалуйста, оставьте ключ на стойке.
+build: We left the hotel early this morning. | Сегодня утром мы рано выехали из отеля. | leaves
+tr: Я хочу выехать из отеля. | I want to check out. / I'd like to check out. / I would like to check out.
+=== it 11 B1
+title: Ежедневный созвон | The daily stand-up | Reunión diaria
+words: report team daily
+phrase: Let's report our progress to the team every day. | Давайте каждый день сообщать команде о прогрессе. | Informemos a diario al equipo de nuestro progreso.
+rule: Прогресс — Present Perfect: I've finished the task. Текущая работа — Present Continuous: I'm working on the login page. | Progress: Present Perfect — I've finished the task. Work in progress: Present Continuous — I'm working on the login page. | Progreso: Present Perfect. Trabajo en curso: Present Continuous.
+ex: I've finished the first task. | Я закончил первую задачу.
+ex: I'm working on the login page. | Я работаю над страницей входа.
+fill: I will ___ the results on Monday. | report | Я доложу о результатах в понедельник.
+fill: Our ___ meets every morning. | team | Наша команда собирается каждое утро.
+build: We have a daily meeting with the team. | У нас ежедневная встреча с командой. | reports
+tr: Моя команда работает каждый день. | My team works every day. / My team works daily.
+=== it 12 B1
+title: Проверка кода | A code check | Revisión de código
+words: check code carefully
+phrase: Could you check my code carefully? I'd really appreciate it. | Не могли бы вы внимательно проверить мой код? Буду очень признателен. | ¿Podrías revisar mi código con cuidado? Te lo agradecería mucho.
+rule: Вежливая просьба на работе — Could you + глагол? Наречие образуется от прилагательного: careful → carefully. code неисчисляемое: some code. | A polite work request is Could you + verb? Adverbs come from adjectives: careful → carefully. Code is uncountable here: some code. | Could you + verbo. careful → carefully. Code es incontable.
+ex: Could you review this change? | Не могли бы вы проверить это изменение?
+ex: Please read the instructions carefully. | Пожалуйста, внимательно прочитайте инструкции.
+fill: Please ___ the code before the release. | check | Пожалуйста, проверьте код перед релизом.
+fill: I wrote this ___ yesterday. | code | Я написал этот код вчера.
+build: Please check the code carefully before you send it. | Пожалуйста, внимательно проверьте код, прежде чем отправлять. | checks
+tr: Проверь мой код, пожалуйста. | Please check my code. / Could you check my code, please? / Check my code, please.
+=== it 13 B1
+title: Перед релизом | Before the release | Antes del lanzamiento
+words: run test ready
+phrase: Run the tests before the release. Is the build ready? | Запусти тесты перед релизом. Сборка готова? | Ejecuta las pruebas antes del lanzamiento. ¿Está lista la compilación?
+rule: Приказ — глагол без подлежащего: Run the tests. Be ready for — быть готовым к; ready for the release. | An instruction is just the verb: Run the tests. Be ready for + noun: ready for the release. | Imperativo: Run the tests. ready for + sustantivo.
+ex: Run the tests again, please. | Запусти тесты ещё раз, пожалуйста.
+ex: The new version is ready. | Новая версия готова.
+fill: We usually ___ the tests at night. | run | Обычно мы запускаем тесты ночью.
+fill: Every ___ passed this time. | test | В этот раз прошёл каждый тест.
+build: The tests are ready to run. | Тесты готовы к запуску. | runs
+tr: Версия готова. | The version is ready. / The build is ready. / The release is ready.
+=== it 14 B1
+title: Описание проблемы | Describing the issue | Describir el problema
+words: describe issue exactly
+phrase: Can you describe the issue exactly? What happens when you click? | Можете точно описать проблему? Что происходит, когда вы нажимаете? | ¿Puedes describir el problema exactamente? ¿Qué pasa cuando haces clic?
+rule: Описание шагов — Present Simple: When I click, the page crashes. issue — проблема в работе, problem — шире. Exactly — «точно». | Describe steps in the Present Simple: When I click, the page crashes. An issue is a specific problem. Exactly means "precisely". | When I click, the page crashes. issue = problema concreto.
+ex: When I log in, the page freezes. | Когда я вхожу, страница зависает.
+ex: That's exactly the problem. | Это именно та проблема.
+fill: Please ___ what you did before the error. | describe | Пожалуйста, опишите, что вы делали до ошибки.
+fill: We found the ___ in the login code. | issue | Мы нашли проблему в коде входа.
+build: Describe the issue exactly as it happened. | Опишите проблему точно так, как это было. | describes
+tr: В чём проблема? | What's the issue? / What is the issue? / What's the problem?
+=== it 15 B1
+title: Резервная копия | Making a backup | Copia de seguridad
+words: save data safely
+phrase: Save your data safely. Always keep a backup of the files. | Сохраняйте данные надёжно. Всегда держите резервную копию файлов. | Guarda tus datos de forma segura. Ten siempre una copia de seguridad.
+rule: data обычно неисчисляемое: the data is… Save — «сохранить», safe → safely. Always — перед глаголом. | In everyday English data is usually uncountable: the data is… Save (verb), safe → safely. Always goes before the verb. | data suele ser incontable. safe → safely. Always antes del verbo.
+ex: The data is safe now. | Данные теперь в безопасности.
+ex: I always save my work. | Я всегда сохраняю свою работу.
+fill: Remember to ___ the file. | save | Не забудь сохранить файл.
+fill: All the ___ is on the server. | data | Все данные лежат на сервере.
+build: We always save the data safely. | Мы всегда надёжно сохраняем данные. | saves
+tr: Сохрани данные. | Save the data. / Save your data.
+=== it 16 B1
+title: Надёжный пароль | A strong password | Una contraseña segura
+words: protect security strong
+phrase: You should use a strong password to protect your account. | Тебе стоит использовать надёжный пароль для защиты аккаунта. | Deberías usar una contraseña segura para proteger tu cuenta.
+rule: Совет — should + глагол: You should use… Запрет — mustn't. protect something (from…). Security — безопасность, неисчисляемое. | Advice: should + verb — You should use… Prohibition: mustn't. protect something. Security is uncountable. | should + verbo = consejo. mustn't = prohibido. Security es incontable.
+ex: You shouldn't share your password. | Тебе не следует делиться паролем.
+ex: Security is very important. | Безопасность очень важна.
+fill: A strong password will ___ your data. | protect | Надёжный пароль защитит ваши данные.
+fill: We take ___ very seriously. | security | Мы очень серьёзно относимся к безопасности.
+build: You should use a strong password. | Тебе стоит использовать надёжный пароль. | protects
+tr: Тебе стоит поменять пароль. | You should change your password.
+=== it 17 B1
+title: Замена устройства | Replacing a device | Cambiar un dispositivo
+words: replace device modern
+phrase: We need to replace the old device with a modern one. | Нам нужно заменить старое устройство на современное. | Necesitamos reemplazar el dispositivo viejo por uno moderno.
+rule: Замена — replace A with B. one заменяет существительное, чтобы не повторяться: the old one, a modern one. | We replace A with B. One stands for a noun so we don't repeat it: the old one, a modern one. | replace A with B. one sustituye al sustantivo: a modern one.
+ex: This one is broken, take that one. | Этот сломан, возьми тот.
+ex: We replaced the old screen. | Мы заменили старый экран.
+fill: They will ___ the old servers next month. | replace | В следующем месяце они заменят старые серверы.
+fill: Connect your ___ to the wifi. | device | Подключи своё устройство к вайфаю.
+build: We replaced the old device with a modern one. | Мы заменили старое устройство современным. | replaces
+tr: Нам нужно заменить это устройство. | We need to replace this device. / We have to replace this device.
+=== it 18 B1
+title: Нет соединения | No connection | Sin conexión
+words: connect network unable
+phrase: I'm unable to connect to the network. Is it down for everyone? | Я не могу подключиться к сети. Она не работает у всех? | No puedo conectarme a la red. ¿Está caída para todos?
+rule: Невозможность — I can't connect или формальнее I'm unable to connect. Connect to the network: после connect — to. | Inability: I can't connect or, more formally, I'm unable to connect. Say connect to the network. | I can't / I'm unable to + verbo. connect to.
+ex: I can't log in. | Я не могу войти.
+ex: Is the network down? | Сеть не работает?
+fill: I can't ___ to the wifi. | connect | Я не могу подключиться к вайфаю.
+fill: The ___ is very slow today. | network | Сегодня сеть очень медленная.
+build: I'm unable to connect to the network. | Я не могу подключиться к сети. | connects
+tr: Сеть не работает. | The network is down. / The network doesn't work. / The network isn't working.
+=== it 19 B1
+title: Поиск записи | Finding a record | Buscar un registro
+words: search record-noun quickly
+phrase: You can search for any record quickly. Just type the name. | Вы можете быстро найти любую запись. Просто введите имя. | Puedes buscar cualquier registro rápidamente. Solo escribe el nombre.
+rule: search for — искать что-то: search for a name; search the database — искать в чём-то. Record (сущ.) — ударение на первый слог. | We search for a thing and search a place: search for a name; search the database. | search for + cosa; search + lugar.
+ex: Search for the file by name. | Найди файл по имени.
+ex: I'm searching for a record. | Я ищу запись.
+fill: Let me ___ for your name. | search | Позволь поискать твоё имя.
+fill: There is no ___ with this name. | record | Записи с таким именем нет.
+build: Please search for the record quickly. | Пожалуйста, быстро найдите запись. | searches
+tr: Я ищу файл. | I'm looking for a file. / I am searching for a file. / I'm searching for a file.
+=== it 20 B1
+title: Собеседование | A job interview | Entrevista de trabajo
+words: apply experience confident
+phrase: I'd like to apply for this job. I have three years of experience. | Я хотел бы подать заявку на эту работу. У меня три года опыта. | Quisiera solicitar este puesto. Tengo tres años de experiencia.
+rule: Подать заявку на — apply for: apply for a job. experience в значении «опыт» неисчисляемое: three years of experience. | Apply for a job. Experience meaning "know-how" is uncountable: three years of experience. | apply for. experience (conocimiento) es incontable.
+ex: I applied for a job last week. | На прошлой неделе я подал заявку на работу.
+ex: I feel confident about the interview. | Я уверен в себе перед собеседованием.
+fill: I want to ___ for a developer position. | apply | Я хочу подать заявку на должность разработчика.
+fill: She has a lot of ___ with databases. | experience | У неё большой опыт работы с базами данных.
+build: I feel confident about my experience. | Я уверен в своём опыте. | applies
+tr: Я подал заявку на работу. | I applied for a job. / I have applied for a job.
+=== it 21 B1
+title: Работа из дома | Working from home | Trabajar desde casa
+words: work home flexible
+phrase: I work from home on Fridays. My schedule is flexible. | По пятницам я работаю из дома. Мой график гибкий. | Los viernes trabajo desde casa. Mi horario es flexible.
+rule: Дома — at home; из дома — from home; домой — home (без to): go home. По пятницам — on Fridays. | At home is a place; from home is the starting point; go home needs no to. On Fridays means every Friday. | at home / from home / go home (sin to). on Fridays.
+ex: I'm working at home today. | Сегодня я работаю дома.
+ex: I go home at six. | Я иду домой в шесть.
+fill: I ___ from home two days a week. | work | Я работаю из дома два дня в неделю.
+fill: Is your working time ___? | flexible | Твоё рабочее время гибкое?
+build: She works from home on Mondays. | По понедельникам она работает из дома. | works
+tr: Я работаю дома. | I work at home. / I work from home. / I'm working at home.
+=== it 22 B1
+title: Срочно! | It's urgent! | ¡Es urgente!
+words: need time urgent
+phrase: It's urgent! We need more time to finish the task. | Это срочно! Нам нужно больше времени, чтобы закончить задачу. | ¡Es urgente! Necesitamos más tiempo para terminar la tarea.
+rule: Цель — to + глагол: We need time to finish. need to do — нужно сделать; need + существительное — нужно что-то. | Purpose uses to + verb: We need time to finish. Need to + verb, or need + noun. | to + verbo = finalidad. need to do / need + sustantivo.
+ex: We need a few more days. | Нам нужно ещё несколько дней.
+ex: I need to call the client. | Мне нужно позвонить клиенту.
+fill: We ___ more time for testing. | need | Нам нужно больше времени на тестирование.
+fill: There is not enough ___ . | time | Времени недостаточно.
+build: We need more time to finish this task. | Нам нужно больше времени, чтобы закончить эту задачу. | needs
+tr: Это срочно. | It's urgent. / It is urgent.
+=== it 23 B1
+title: Тест упал | A failed test | Una prueba fallida
+words: fail result-noun unexpectedly
+phrase: The test failed unexpectedly. What's the result of the last run? | Тест неожиданно упал. Каков результат последнего запуска? | La prueba falló inesperadamente. ¿Cuál es el resultado de la última ejecución?
+rule: Прошедшее — Past Simple: The test failed. Result — результат, of the last run. Наречие unexpectedly стоит после глагола или перед ним. | Past Simple: The test failed. A result of something: the result of the last run. Unexpectedly can go after or before the verb. | Past Simple: The test failed. result of…
+ex: The build failed again. | Сборка опять упала.
+ex: The result is correct. | Результат верный.
+fill: The build ___ again last night. | failed | Сборка опять упала прошлой ночью.
+fill: What was the ___ of the test? | result | Каков был результат теста?
+build: The test failed unexpectedly yesterday. | Тест неожиданно упал вчера. | fails
+tr: Тест упал. | The test failed.
+=== it 24 B1
+title: Комментарии коллег | Feedback from colleagues | Comentarios de los colegas
+words: suggest comment helpful
+phrase: Thanks for the helpful comment. I suggest we change the name. | Спасибо за полезный комментарий. Предлагаю поменять название. | Gracias por el comentario útil. Sugiero que cambiemos el nombre.
+rule: После suggest — we + глагол или -ing: I suggest we change… / I suggest changing…. Не suggest to change. | After suggest use we + verb or -ing: I suggest we change… / I suggest changing…. Not suggest to change. | suggest + we + verbo o -ing. No suggest to.
+ex: I suggest we meet tomorrow. | Предлагаю встретиться завтра.
+ex: Can I leave a comment? | Можно оставить комментарий?
+fill: I ___ we change the plan. | suggest | Предлагаю изменить план.
+fill: Please leave a ___ under the post. | comment | Пожалуйста, оставьте комментарий под постом.
+build: Thanks for your helpful comment. | Спасибо за ваш полезный комментарий. | suggests
+tr: Я предлагаю встретиться. | I suggest we meet. / I suggest meeting.
+=== it 25 B1
+title: Документация | Writing documentation | Escribir documentación
+words: write document clearly
+phrase: Write the document clearly. Everyone should understand it. | Пишите документ понятно. Каждый должен его понять. | Escribe el documento con claridad. Todos deberían entenderlo.
+rule: Write — wrote — written. Наречие clearly описывает глагол: write clearly, а не write clear. Everyone — единственное число: everyone understands. | Write – wrote – written. Use the adverb: write clearly, not write clear. Everyone is singular: everyone understands. | write – wrote – written. clearly con el verbo. Everyone = singular.
+ex: She wrote the guide last week. | Она написала руководство на прошлой неделе.
+ex: Everyone understands the plan. | Каждый понимает план.
+fill: I will ___ the instructions tomorrow. | write | Я напишу инструкции завтра.
+fill: Please read the ___ first. | document | Пожалуйста, сначала прочитайте документ.
+build: Write the document clearly, please. | Пожалуйста, пишите документ понятно. | writes
+tr: Он написал документ. | He wrote the document. / He has written the document.
+=== it 26 B1
+title: Новый инструмент | A new tool | Una herramienta nueva
+words: learn tool useful
+phrase: I'm learning a new tool. It's really useful for our team. | Я изучаю новый инструмент. Он очень полезен для нашей команды. | Estoy aprendiendo una herramienta nueva. Es muy útil para nuestro equipo.
+rule: Сейчас, в этот период — Present Continuous: I'm learning. useful for — полезный для. Learn how to + глагол — научиться. | For something happening now or around now use the Present Continuous: I'm learning. Useful for… Learn how to + verb. | Present Continuous para lo que hago ahora. useful for. learn how to.
+ex: I'm learning how to use it. | Я учусь им пользоваться.
+ex: This tool is useful for testing. | Этот инструмент полезен для тестирования.
+fill: I want to ___ a new tool. | learn | Я хочу изучить новый инструмент.
+fill: This ___ saves us a lot of time. | tool | Этот инструмент экономит нам много времени.
+build: This tool is useful for our team. | Этот инструмент полезен для нашей команды. | learns
+tr: Этот инструмент полезен. | This tool is useful.
+=== it 27 B1
+title: Достигнутая цель | A goal achieved | Un objetivo cumplido
+words: achieve goal successful
+phrase: We achieved our goal. The project was successful! | Мы достигли цели. Проект удался! | Hemos logrado nuestro objetivo. ¡El proyecto fue un éxito!
+rule: Achieve a goal — достичь цели. Прошедшее с итогом — Past Simple: We achieved it last week. Successful — «успешный», success — «успех». | We achieve a goal. Past Simple for a finished event: We achieved it last week. Successful is the adjective, success the noun. | achieve a goal. successful (adj) / success (n).
+ex: We achieved a great result. | Мы достигли отличного результата.
+ex: The launch was successful. | Запуск был успешным.
+fill: We want to ___ our goals this year. | achieve | Мы хотим достичь своих целей в этом году.
+fill: Our main ___ is to finish in June. | goal | Наша главная цель — закончить в июне.
+build: We achieved our goal and the project was successful. | Мы достигли цели, и проект был успешным. | achieves
+tr: Мы достигли цели. | We achieved our goal. / We've achieved our goal. / We have achieved our goal.

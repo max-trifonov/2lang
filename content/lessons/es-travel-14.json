@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-14",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 14,
+  "level": "A2",
+  "title": {
+    "ru": "Завтрак в отеле",
+    "en": "Hotel breakfast",
+    "es": "Desayuno en el hotel"
+  },
+  "words": [
+    "servir",
+    "desayuno",
+    "fresco"
+  ],
+  "phrase": {
+    "es": "El desayuno se sirve de siete a diez. El pan está fresco.",
+    "ru": "Завтрак подают с семи до десяти. Хлеб свежий.",
+    "en": "Breakfast is served from seven to ten. The bread is fresh."
+  },
+  "rule": {
+    "text": {
+      "ru": "Безличная форма se + глагол: se sirve el desayuno, se sirven los platos. Сервировать — servir (e → i): sirvo, sirves, sirve, servimos.",
+      "en": "The impersonal se: se sirve el desayuno, se sirven los platos. Servir (e → i): sirvo, sirves, sirve, servimos.",
+      "es": "se sirve. servir e → i."
+    },
+    "examples": [
+      {
+        "es": "Aquí se sirve el desayuno.",
+        "ru": "Здесь подают завтрак."
+      },
+      {
+        "es": "Se habla inglés.",
+        "ru": "Здесь говорят по-английски."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "El desayuno se ___ hasta las diez.",
+      "answer": "sirve",
+      "ru": "Завтрак подают до десяти."
+    },
+    {
+      "type": "fill",
+      "es": "El ___ está incluido en el precio.",
+      "answer": "desayuno",
+      "ru": "Завтрак включён в цену."
+    },
+    {
+      "type": "build",
+      "es": "En el hotel se sirve un desayuno fresco.",
+      "ru": "В отеле подают свежий завтрак.",
+      "extra": [
+        "sirves"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Завтрак подают с семи.",
+      "answer": [
+        "El desayuno se sirve desde las siete.",
+        "El desayuno se sirve a partir de las siete."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

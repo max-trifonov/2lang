@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-14",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 14,
+  "level": "B1",
+  "title": {
+    "ru": "Описание проблемы",
+    "en": "Describing the issue",
+    "es": "Describir el problema"
+  },
+  "words": [
+    "describe",
+    "issue",
+    "exactly"
+  ],
+  "phrase": {
+    "en": "Can you describe the issue exactly? What happens when you click?",
+    "ru": "Можете точно описать проблему? Что происходит, когда вы нажимаете?",
+    "es": "¿Puedes describir el problema exactamente? ¿Qué pasa cuando haces clic?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Описание шагов — Present Simple: When I click, the page crashes. issue — проблема в работе, problem — шире. Exactly — «точно».",
+      "en": "Describe steps in the Present Simple: When I click, the page crashes. An issue is a specific problem. Exactly means \"precisely\".",
+      "es": "When I click, the page crashes. issue = problema concreto."
+    },
+    "examples": [
+      {
+        "en": "When I log in, the page freezes.",
+        "ru": "Когда я вхожу, страница зависает."
+      },
+      {
+        "en": "That's exactly the problem.",
+        "ru": "Это именно та проблема."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Please ___ what you did before the error.",
+      "answer": "describe",
+      "ru": "Пожалуйста, опишите, что вы делали до ошибки."
+    },
+    {
+      "type": "fill",
+      "en": "We found the ___ in the login code.",
+      "answer": "issue",
+      "ru": "Мы нашли проблему в коде входа."
+    },
+    {
+      "type": "build",
+      "en": "Describe the issue exactly as it happened.",
+      "ru": "Опишите проблему точно так, как это было.",
+      "extra": [
+        "describes"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "В чём проблема?",
+      "answer": [
+        "What's the issue?",
+        "What is the issue?",
+        "What's the problem?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-02",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 2,
+  "level": "B1",
+  "title": {
+    "ru": "Давай встретимся",
+    "en": "Let's meet up",
+    "es": "Quedemos"
+  },
+  "words": [
+    "meet",
+    "coffee",
+    "later"
+  ],
+  "phrase": {
+    "en": "Let's meet for coffee later this week.",
+    "ru": "Давай встретимся выпить кофе позже на этой неделе.",
+    "es": "Quedemos a tomar un café más tarde esta semana."
+  },
+  "rule": {
+    "text": {
+      "ru": "Предложение — Let's + глагол без to: Let's meet at six. Вопрос-предложение: Shall we meet…?",
+      "en": "A suggestion is Let's + base verb, no to: Let's meet at six. You can also ask Shall we meet…?",
+      "es": "Sugerencia: Let's + verbo sin to. También: Shall we meet…?"
+    },
+    "examples": [
+      {
+        "en": "Let's meet at the station.",
+        "ru": "Давай встретимся на вокзале."
+      },
+      {
+        "en": "Shall we meet at seven?",
+        "ru": "Встретимся в семь?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Let's ___ in front of the cinema.",
+      "answer": "meet",
+      "ru": "Давай встретимся перед кинотеатром."
+    },
+    {
+      "type": "fill",
+      "en": "Do you want a ___ after work?",
+      "answer": "coffee",
+      "ru": "Хочешь кофе после работы?"
+    },
+    {
+      "type": "build",
+      "en": "Let's meet for coffee later today.",
+      "ru": "Давай встретимся выпить кофе позже сегодня.",
+      "extra": [
+        "meeting"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Давай встретимся позже.",
+      "answer": [
+        "Let's meet later."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

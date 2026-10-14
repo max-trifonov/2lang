@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-16",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 16,
+  "level": "B1",
+  "title": {
+    "ru": "Не расслышал",
+    "en": "Say that again",
+    "es": "Repítelo, por favor"
+  },
+  "words": [
+    "repeat",
+    "mistake",
+    "clearly"
+  ],
+  "phrase": {
+    "en": "Sorry, could you repeat that? I didn't hear it clearly.",
+    "ru": "Извини, можешь повторить? Я не расслышал.",
+    "es": "Perdona, ¿puedes repetirlo? No lo oí bien."
+  },
+  "rule": {
+    "text": {
+      "ru": "Вежливая просьба повторить — Could you repeat that? / Sorry, I didn't catch that. Make a mistake — ошибаться.",
+      "en": "Ask politely with Could you repeat that? or Sorry, I didn't catch that. We say make a mistake.",
+      "es": "Pedir que repitan: Could you repeat that? Se dice make a mistake."
+    },
+    "examples": [
+      {
+        "en": "Sorry, I didn't catch your name.",
+        "ru": "Прости, я не расслышал твоё имя."
+      },
+      {
+        "en": "Sorry, I made a mistake.",
+        "ru": "Прости, я ошибся."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Could you ___ that, please?",
+      "answer": "repeat",
+      "ru": "Не могли бы вы повторить, пожалуйста?"
+    },
+    {
+      "type": "fill",
+      "en": "I made a small ___.",
+      "answer": "mistake",
+      "ru": "Я сделал небольшую ошибку."
+    },
+    {
+      "type": "build",
+      "en": "Please speak clearly and slowly.",
+      "ru": "Пожалуйста, говорите чётко и медленно.",
+      "extra": [
+        "repeats"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Можешь повторить?",
+      "answer": [
+        "Could you repeat that?",
+        "Can you repeat that?",
+        "Could you say that again?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

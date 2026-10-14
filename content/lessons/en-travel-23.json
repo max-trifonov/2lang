@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-23",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 23,
+  "level": "B1",
+  "title": {
+    "ru": "В аптеке",
+    "en": "At the pharmacy",
+    "es": "En la farmacia"
+  },
+  "words": [
+    "hurt",
+    "medicine",
+    "sick"
+  ],
+  "phrase": {
+    "en": "My head hurts and I feel sick. Do you have any medicine?",
+    "ru": "У меня болит голова и мне нехорошо. У вас есть какое-нибудь лекарство?",
+    "es": "Me duele la cabeza y me siento mal. ¿Tiene algún medicamento?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Болит — My head hurts / I have a headache. Тошнит — I feel sick. medicine неисчисляемое: some medicine, a medicine редко.",
+      "en": "Pain: My head hurts / I have a headache. Nausea: I feel sick. Medicine is uncountable: some medicine.",
+      "es": "My head hurts. I feel sick. Medicine es incontable."
+    },
+    "examples": [
+      {
+        "en": "I have a sore throat.",
+        "ru": "У меня болит горло."
+      },
+      {
+        "en": "How often should I take it?",
+        "ru": "Как часто это принимать?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "My back ___ a lot.",
+      "answer": "hurts",
+      "ru": "У меня сильно болит спина."
+    },
+    {
+      "type": "fill",
+      "en": "I need some ___ for my cough.",
+      "answer": "medicine",
+      "ru": "Мне нужно лекарство от кашля."
+    },
+    {
+      "type": "build",
+      "en": "I feel sick after the boat trip.",
+      "ru": "Меня тошнит после поездки на лодке.",
+      "extra": [
+        "sickly"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "У меня болит голова.",
+      "answer": [
+        "My head hurts.",
+        "I have a headache."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

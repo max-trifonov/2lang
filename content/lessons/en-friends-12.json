@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-12",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 12,
+  "level": "B1",
+  "title": {
+    "ru": "Комплименты",
+    "en": "Compliments",
+    "es": "Cumplidos"
+  },
+  "words": [
+    "wear",
+    "dress-noun",
+    "gorgeous"
+  ],
+  "phrase": {
+    "en": "You look gorgeous in that dress! Is it new?",
+    "ru": "Ты потрясающе выглядишь в этом платье! Оно новое?",
+    "es": "¡Estás guapísima con ese vestido! ¿Es nuevo?"
+  },
+  "rule": {
+    "text": {
+      "ru": "После look, sound, feel идёт прилагательное, а не наречие: You look great. Одежду носят — wear: She wears a red dress.",
+      "en": "After look, sound and feel use an adjective, not an adverb: You look great. We wear clothes: She wears a red dress.",
+      "es": "Después de look, sound, feel va un adjetivo: You look great. La ropa se wear."
+    },
+    "examples": [
+      {
+        "en": "You look great today!",
+        "ru": "Сегодня ты отлично выглядишь!"
+      },
+      {
+        "en": "He wore a dark suit.",
+        "ru": "На нём был тёмный костюм."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "She likes to ___ bright colors.",
+      "answer": "wear",
+      "ru": "Она любит носить яркие цвета."
+    },
+    {
+      "type": "fill",
+      "en": "What a beautiful ___!",
+      "answer": "dress",
+      "ru": "Какое красивое платье!"
+    },
+    {
+      "type": "build",
+      "en": "You look gorgeous in that dress.",
+      "ru": "В этом платье ты выглядишь великолепно.",
+      "extra": [
+        "wears"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Ты прекрасно выглядишь.",
+      "answer": [
+        "You look great.",
+        "You look gorgeous.",
+        "You look wonderful."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

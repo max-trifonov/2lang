@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-14",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 14,
+  "level": "A2",
+  "title": {
+    "ru": "Описание проблемы",
+    "en": "Describing the problem",
+    "es": "Describir el problema"
+  },
+  "words": [
+    "describir",
+    "problema",
+    "exactamente"
+  ],
+  "phrase": {
+    "es": "¿Puedes describir el problema exactamente? ¿Qué pasa?",
+    "ru": "Можешь точно описать проблему? Что происходит?",
+    "en": "Can you describe the problem exactly? What's happening?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Описание — describir (причастие descrito). El problema — мужской род, хотя оканчивается на -a. Exactamente — «точно».",
+      "en": "To describe: describir (participle descrito). El problema is masculine even though it ends in -a. Exactamente = exactly.",
+      "es": "descrito. el problema (masculino)."
+    },
+    "examples": [
+      {
+        "es": "El problema es muy grave.",
+        "ru": "Проблема очень серьёзная."
+      },
+      {
+        "es": "Describo lo que pasa.",
+        "ru": "Я описываю, что происходит."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Voy a ___ el error con detalle.",
+      "answer": "describir",
+      "ru": "Я подробно опишу ошибку."
+    },
+    {
+      "type": "fill",
+      "es": "Tenemos un ___ con el servidor.",
+      "answer": "problema",
+      "ru": "У нас проблема с сервером."
+    },
+    {
+      "type": "build",
+      "es": "Describo el problema exactamente como pasó.",
+      "ru": "Я описываю проблему точно так, как это было.",
+      "extra": [
+        "describes"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Какая проблема?",
+      "answer": [
+        "¿Cuál es el problema?",
+        "¿Qué problema hay?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

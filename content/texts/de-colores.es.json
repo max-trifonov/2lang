@@ -1,0 +1,114 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "de-colores",
+  "kind": "song",
+  "lang": "es",
+  "license": "public-domain",
+  "title": {
+    "es": "De colores",
+    "ru": "Разноцветные",
+    "en": "In colours"
+  },
+  "author": "народная песня",
+  "level": "A2",
+  "tags": [
+    "folk",
+    "colors",
+    "spring"
+  ],
+  "note": {
+    "ru": "Народная песня, которую поют по всей Латинской Америке. Простые слова и яркий припев о цветах",
+    "en": "A folk song sung across Latin America. Simple words and a colorful refrain.",
+    "es": "Canción popular de toda Latinoamérica. Palabras sencillas y estribillo colorido."
+  },
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "es": "De colores,",
+          "ru": "Разноцветные,",
+          "en": "Of colours,"
+        },
+        {
+          "es": "de colores se visten los campos en la primavera.",
+          "ru": "разноцветными становятся поля весной.",
+          "en": "the fields dress in colours in the spring.",
+          "phrases": [
+            {
+              "es": "se visten los campos",
+              "ru": "поля одеваются",
+              "en": "the fields dress",
+              "note": {
+                "ru": "vestirse — «одеваться»; se — возвратная частица"
+              }
+            },
+            {
+              "es": "en la primavera",
+              "ru": "весной",
+              "en": "in the spring"
+            }
+          ]
+        },
+        {
+          "es": "De colores,",
+          "ru": "Разноцветные,",
+          "en": "Of colours,"
+        },
+        {
+          "es": "de colores son los pajaritos que vienen de afuera.",
+          "ru": "разноцветные птички, что прилетают издалека.",
+          "en": "the little birds that come from afar are colourful.",
+          "phrases": [
+            {
+              "es": "los pajaritos",
+              "ru": "птички",
+              "en": "the little birds",
+              "note": {
+                "ru": "-ito — уменьшительный суффикс"
+              }
+            }
+          ]
+        },
+        {
+          "es": "De colores,",
+          "ru": "Разноцветная,",
+          "en": "Colourful,"
+        },
+        {
+          "es": "de colores es el arco iris que vemos lucir.",
+          "ru": "разноцветная радуга, что мы видим сияющей.",
+          "en": "the rainbow we see shining is colourful.",
+          "phrases": [
+            {
+              "es": "el arco iris",
+              "ru": "радуга",
+              "en": "the rainbow"
+            }
+          ]
+        },
+        {
+          "es": "Y por eso los grandes amores",
+          "ru": "И потому большие любви",
+          "en": "And that is why great loves"
+        },
+        {
+          "es": "de muchos colores me gustan a mí.",
+          "ru": "многоцветные мне нравятся.",
+          "en": "of many colours please me.",
+          "phrases": [
+            {
+              "es": "me gustan a mí",
+              "ru": "мне нравятся",
+              "en": "I like them",
+              "note": {
+                "ru": "gustar — «нравиться»: gustan, потому что amores во мн. числе"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

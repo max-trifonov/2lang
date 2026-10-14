@@ -1,0 +1,661 @@
+# Новые уроки ES (LNG-S1-032): тема «встречи с друзьями» (friends 1–24), путешествия 11–27, IT 11–27.
+=== friends 1 A1
+title: Приглашение на вечеринку | Invitation to a party | Invitación a una fiesta
+words: invitar fiesta contento
+phrase: ¿Quieres venir a mi fiesta el sábado? Estoy muy contento. | Хочешь прийти ко мне на вечеринку в субботу? Я очень рад. | Do you want to come to my party on Saturday? I'm very happy.
+rule: Приглашение — ¿Quieres + инфинитив? Согласие — Claro, me encantaría. Прилагательное согласуется с родом: contento / contenta. | To invite: ¿Quieres + infinitive? To accept: Claro, me encantaría. Adjectives agree in gender: contento / contenta. | Invitación: ¿Quieres + infinitivo? Aceptar: me encantaría. contento / contenta.
+ex: ¿Quieres venir con nosotros? | Хочешь пойти с нами?
+ex: Claro, me encantaría. | Конечно, с удовольствием.
+fill: Quiero ___ a todos mis amigos. | invitar | Хочу пригласить всех своих друзей.
+fill: Mi hermana está muy ___. | contenta | Моя сестра очень рада.
+build: Invito a mis amigos a la fiesta. | Я приглашаю друзей на вечеринку. | invitas
+tr: Хочешь прийти на вечеринку? | ¿Quieres venir a la fiesta?
+=== friends 2 A1
+title: Давай встретимся | Let's meet up | Quedemos
+words: quedar café luego
+phrase: Quedamos para tomar un café luego, ¿vale? | Давай встретимся выпить кофе потом, хорошо? | Let's meet for a coffee later, okay?
+rule: Договориться о встрече — quedar con alguien: quedo con Ana. Quedamos a las ocho — «договорились на восемь». Luego — «потом, позже». | To arrange a meeting: quedar con alguien. Quedamos a las ocho means "we agreed on eight". Luego means "later". | quedar con alguien = acordar una cita. Luego = más tarde.
+ex: Quedamos a las ocho. | Договорились на восемь.
+ex: Hasta luego. | До скорого.
+fill: ¿A qué hora ___ mañana? | quedamos | Во сколько встречаемся завтра?
+fill: Nos vemos ___. | luego | Увидимся потом.
+build: Quedamos en el café a las seis. | Мы встречаемся в кафе в шесть. | quedas
+tr: Увидимся потом. | Nos vemos luego. / Hasta luego.
+=== friends 3 A1
+title: Планы на завтра | Plans for tomorrow | Planes para mañana
+words: hacer plan mañana
+phrase: ¿Qué vas a hacer mañana? Tengo un plan genial. | Что ты будешь делать завтра? У меня отличный план. | What are you going to do tomorrow? I have a great plan.
+rule: Ближайшее будущее — ir a + инфинитив: Voy a hacer una fiesta. Mañana — «завтра» (наречие), la mañana — «утро». | Near future: ir a + infinitive: Voy a hacer una fiesta. Mañana is "tomorrow"; la mañana is "morning". | Futuro próximo: ir a + infinitivo. mañana = tomorrow; la mañana = morning.
+ex: Voy a ver a mis amigos. | Я собираюсь увидеться с друзьями.
+ex: ¿Qué planes tienes? | Какие у тебя планы?
+fill: Mañana voy a ___ una tarta. | hacer | Завтра я испеку торт.
+fill: No tengo ningún ___ para el sábado. | plan | У меня нет планов на субботу.
+build: Mañana voy a hacer un plan con mis amigos. | Завтра я составлю план с друзьями. | haces
+tr: Что ты будешь делать завтра? | ¿Qué vas a hacer mañana?
+=== friends 4 A1
+title: Я опаздываю | I'm running late | Llego tarde
+words: llegar tráfico tarde-adv
+phrase: Perdona, llego tarde. Hay mucho tráfico. | Прости, я опаздываю. Много пробок. | Sorry, I'm late. There's a lot of traffic.
+rule: Опоздать — llegar tarde. Hay — «есть, имеется»: Hay mucho tráfico. Tarde — наречие «поздно», не меняется. | To be late: llegar tarde. Hay means "there is / there are": Hay mucho tráfico. Tarde is an adverb and does not change. | llegar tarde. Hay mucho tráfico. Tarde es adverbio invariable.
+ex: Llego en diez minutos. | Я буду через десять минут.
+ex: Hay mucha gente. | Много народу.
+fill: Perdona, ___ tarde. | llego | Прости, я опаздываю.
+fill: Hay mucho ___ en la calle. | tráfico | На улице много машин.
+build: Hoy llegamos tarde por el tráfico. | Сегодня мы опоздали из-за пробок. | llegas
+tr: Я опаздываю. | Llego tarde.
+=== friends 5 A1
+title: День рождения | A birthday | Un cumpleaños
+words: celebrar cumpleaños feliz
+phrase: Hoy celebramos mi cumpleaños. ¡Estoy muy feliz! | Сегодня мы празднуем мой день рождения. Я очень счастлив! | Today we celebrate my birthday. I'm very happy!
+rule: Поздравление — ¡Feliz cumpleaños! Возраст — tener + años: Tengo treinta años. Cumpleaños — одно слово, во мн. числе то же: los cumpleaños. | Greeting: ¡Feliz cumpleaños! Age uses tener: Tengo treinta años. Cumpleaños is the same in the plural. | ¡Feliz cumpleaños! tener + años. Plural: los cumpleaños.
+ex: ¡Feliz cumpleaños, Ana! | С днём рождения, Ана!
+ex: Mi hermano tiene veinte años. | Моему брату двадцать лет.
+fill: Hoy vamos a ___ en casa. | celebrar | Сегодня мы отметим дома.
+fill: Mañana es mi ___. | cumpleaños | Завтра мой день рождения.
+build: Celebramos el cumpleaños de mi madre. | Мы празднуем день рождения моей мамы. | celebras
+tr: С днём рождения! | ¡Feliz cumpleaños!
+=== friends 6 A1
+title: Ужин у друзей | Dinner at a friend's | Cena en casa de un amigo
+words: cocinar cena rico
+phrase: Yo cocino la cena. ¡Está muy rica! | Я готовлю ужин. Очень вкусно! | I'll cook dinner. It's very tasty!
+rule: Вкус еды — estar + rico: la sopa está rica (сейчас, на вкус). Приготовить ужин — cocinar la cena. Прилагательное: rico / rica. | Taste uses estar + rico: la sopa está rica. Cook dinner: cocinar la cena. Adjective agrees: rico / rica. | La comida: está rica. cocinar la cena.
+ex: La paella está muy rica. | Паэлья очень вкусная.
+ex: ¿Quién cocina hoy? | Кто сегодня готовит?
+fill: Hoy ___ yo. | cocino | Сегодня готовлю я.
+fill: La ___ es a las nueve. | cena | Ужин в девять.
+build: Mi padre cocina una cena muy rica. | Мой отец готовит очень вкусный ужин. | cocinas
+tr: Очень вкусно! | ¡Está muy rico! / ¡Está muy rica!
+=== friends 7 A1
+title: Вечер кино | Movie night | Noche de cine
+words: ver película divertido
+phrase: ¿Vemos una película esta noche? Es muy divertida. | Посмотрим фильм сегодня вечером? Он очень весёлый. | Shall we watch a movie tonight? It's very funny.
+rule: Предложение — форма «мы» в вопросе: ¿Vemos…? («Давай посмотрим?»). Ver — «смотреть» кино и ТВ; mirar — «смотреть на». | A suggestion: the "we" form as a question: ¿Vemos…? We use ver for films and TV; mirar means "to look at". | ¿Vemos…? = ¿Quieres que veamos…? ver una película.
+ex: ¿Vemos algo en la tele? | Посмотрим что-нибудь по телевизору?
+ex: La película es muy buena. | Фильм очень хороший.
+fill: ¿___ una película esta noche? | Vemos | Посмотрим фильм сегодня вечером?
+fill: Es una película muy ___. | divertida | Это очень забавный фильм.
+build: Vemos una película divertida en casa. | Мы смотрим весёлый фильм дома. | veo
+tr: Давай посмотрим фильм. | Vemos una película. / ¿Vemos una película?
+=== friends 8 A1
+title: Концерт | At a concert | En un concierto
+words: cantar concierto fuerte
+phrase: Todos cantan en el concierto. La música está muy fuerte. | Все поют на концерте. Музыка очень громкая. | Everyone sings at the concert. The music is very loud.
+rule: «Громкая» музыка — fuerte или alta: la música está fuerte. Muy + прилагательное: muy fuerte. Todos + глагол во мн. числе: todos cantan. | "Loud" music is fuerte or alta. Muy + adjective: muy fuerte. Todos takes a plural verb: todos cantan. | La música está fuerte. muy + adjetivo. Todos cantan.
+ex: Todos bailan y cantan. | Все танцуют и поют.
+ex: Es un concierto muy bonito. | Это очень красивый концерт.
+fill: Mis amigos ___ muy bien. | cantan | Мои друзья очень хорошо поют.
+fill: El ___ empieza a las nueve. | concierto | Концерт начинается в девять.
+build: La música del concierto está muy fuerte. | Музыка на концерте очень громкая. | cantas
+tr: Музыка очень громкая. | La música está muy fuerte. / La música está muy alta.
+=== friends 9 A2
+title: Футбольный матч | A football match | Un partido de fútbol
+words: jugar partido bien
+phrase: Hoy jugamos al fútbol. El partido empieza a las seis. | Сегодня мы играем в футбол. Матч начинается в шесть. | Today we play football. The match starts at six.
+rule: Играть в игру — jugar a + el: jugar al fútbol. Чередование u → ue: juego, juegas, juega, jugamos. Хорошо — bien (наречие). | To play a game: jugar a + el: jugar al fútbol. Stem change u → ue: juego, juegas, juega, jugamos. Well = bien (adverb). | jugar al fútbol. u → ue: juego, juegas. bien (adverbio).
+ex: Juego al tenis los domingos. | По воскресеньям я играю в теннис.
+ex: Ella juega muy bien. | Она играет очень хорошо.
+fill: Mis amigos ___ al fútbol los sábados. | juegan | Мои друзья играют в футбол по субботам.
+fill: Hoy el ___ es muy importante. | partido | Сегодня матч очень важный.
+build: Hoy jugamos un partido muy bien. | Сегодня мы сыграли матч очень хорошо. | juego
+tr: Мы играем в футбол. | Jugamos al fútbol.
+=== friends 10 A2
+title: Поездка с друзьями | A trip with friends | Un viaje con amigos
+words: viajar coche barato
+phrase: Vamos a viajar en coche con mis amigos. Es barato. | Мы поедем на машине с друзьями. Это дёшево. | We're going to travel by car with my friends. It's cheap.
+rule: На транспорте — en + транспорт: en coche, en tren, en avión; но a pie — «пешком». Barato — «дешёвый», противоположность — caro. | By transport: en + vehicle: en coche, en tren; but a pie, on foot. Barato = cheap; the opposite is caro. | en coche, en tren; a pie. barato ≠ caro.
+ex: Viajamos en tren. | Мы едем на поезде.
+ex: El hotel es barato y limpio. | Отель недорогой и чистый.
+fill: En verano ___ mucho con amigos. | viajamos | Летом мы много путешествуем с друзьями.
+fill: Mi ___ es pequeño pero cómodo. | coche | Моя машина маленькая, но удобная.
+build: Viajamos en coche porque es barato. | Мы едем на машине, потому что это дёшево. | viajas
+tr: Мы поедем на машине. | Vamos a viajar en coche. / Vamos en coche.
+=== friends 11 A2
+title: Давно не виделись | Catching up | Ponerse al día
+words: contar noticia últimamente
+phrase: ¡Cuéntame! ¿Qué noticias tienes? Últimamente no nos vemos. | Рассказывай! Какие у тебя новости? Мы в последнее время не видимся. | Tell me! What news do you have? We haven't seen each other lately.
+rule: Contar — «рассказывать»; me, te, le — кому: cuéntame. Чередование o → ue: cuento, cuentas, cuenta, contamos. Noticia — «новость» (одна), noticias — «новости». | Contar means "to tell"; me, te, le show to whom: cuéntame. Stem change o → ue: cuento, cuentas, cuenta, contamos. | contar o → ue. noticia(s) = news.
+ex: Te cuento una noticia. | Расскажу тебе новость.
+ex: ¿Qué tal todo? | Как у тебя дела?
+fill: Te ___ una noticia increíble. | cuento | Расскажу тебе невероятную новость.
+fill: Tengo buenas ___. | noticias | У меня хорошие новости.
+build: Últimamente no tengo muchas noticias. | В последнее время у меня мало новостей. | cuentas
+tr: У меня есть новости. | Tengo noticias. / Tengo una noticia.
+=== friends 12 A2
+title: Комплименты | Compliments | Cumplidos
+words: llevar camisa guapo
+phrase: Llevas una camisa nueva. ¡Estás muy guapo! | На тебе новая рубашка. Ты очень красивый! | You're wearing a new shirt. You look very handsome!
+rule: Llevar — «носить» одежду; estar guapo — «выглядеть красиво» сейчас (ser guapo — «быть красивым»). Guapo — guapa. | Llevar means "to wear"; estar guapo means "to look good" right now. Guapo / guapa. | llevar = wear. estar guapo = verse guapo.
+ex: Llevo una chaqueta azul. | На мне синяя куртка.
+ex: ¡Qué guapa estás hoy! | Как ты сегодня красива!
+fill: Hoy ___ un vestido rojo. | llevas | Сегодня на тебе красное платье.
+fill: Esa ___ te queda muy bien. | camisa | Эта рубашка тебе очень идёт.
+build: Mi amigo lleva una camisa muy bonita. | На моём друге очень красивая рубашка. | llevas
+tr: Ты очень красивая. | Estás muy guapa. / Eres muy guapa.
+=== friends 13 A2
+title: Семья и родители | Talking about family | Hablar de la familia
+words: visitar padre orgulloso
+phrase: Visito a mis padres los domingos. Están muy orgullosos de mí. | По воскресеньям я навещаю родителей. Они очень гордятся мной. | I visit my parents on Sundays. They're very proud of me.
+rule: Visitar a + человек: visito a mis padres (a личное). Los padres — «родители», el padre — «отец». Estar orgulloso de — «гордиться». | Visitar a + person: visito a mis padres (personal a). Los padres means "parents", el padre "father". Estar orgulloso de = to be proud of. | visitar a + persona. los padres. orgulloso de.
+ex: Visito a mi abuela. | Я навещаю бабушку.
+ex: Estoy orgulloso de ti. | Я горжусь тобой.
+fill: Los domingos ___ a mi abuela. | visito | По воскресеньям я навещаю бабушку.
+fill: Mis ___ viven en Moscú. | padres | Мои родители живут в Москве.
+build: Mi padre está orgulloso de mí. | Мой отец гордится мной. | visita
+tr: Я навещаю родителей. | Visito a mis padres.
+=== friends 14 A2
+title: Любимая музыка | Favorite music | Música favorita
+words: preferir música mejor
+phrase: Prefiero la música española. Para mí, es la mejor. | Я предпочитаю испанскую музыку. По-моему, она лучшая. | I prefer Spanish music. To me, it's the best.
+rule: Предпочитать — preferir (e → ie): prefiero, prefieres, prefiere, preferimos. Mejor — «лучший», перед существительным без изменений. | To prefer: preferir (e → ie): prefiero, prefieres, prefiere, preferimos. Mejor means "better / best". | preferir e → ie. el/la mejor.
+ex: Prefiero el té al café. | Я предпочитаю чай кофе.
+ex: Es la mejor canción. | Это лучшая песня.
+fill: Yo ___ el rock. | prefiero | Я предпочитаю рок.
+fill: Esta es la ___ canción del disco. | mejor | Это лучшая песня на диске.
+build: Prefiero esta música porque es la mejor. | Я предпочитаю эту музыку, потому что она лучшая. | prefieres
+tr: Я предпочитаю испанскую музыку. | Prefiero la música española.
+=== friends 15 A2
+title: Согласен и не согласен | Agreeing and disagreeing | Estar de acuerdo
+words: opinar opinión sinceramente
+phrase: Sinceramente, opino que es una buena idea. Mi opinión es clara. | Честно говоря, я считаю, что это хорошая идея. Моё мнение ясно. | Honestly, I think it's a good idea. My opinion is clear.
+rule: Мнение — opinar que / en mi opinión. Согласие — estoy de acuerdo; «я тоже» — yo también, «я тоже нет» — yo tampoco. | Opinion: opinar que / en mi opinión. Agreement: estoy de acuerdo; yo también = me too; yo tampoco = me neither. | opinar que. estoy de acuerdo. yo también / yo tampoco.
+ex: No me gusta. — A mí tampoco. | Мне не нравится. — Мне тоже.
+ex: Estoy de acuerdo contigo. | Я с тобой согласен.
+fill: Yo ___ que es mejor ir en tren. | opino | Я считаю, что лучше поехать на поезде.
+fill: En mi ___, el rojo es mejor. | opinión | По-моему, красный лучше.
+build: Sinceramente, mi opinión es diferente. | Честно говоря, у меня другое мнение. | opinas
+tr: По-моему, это хорошая идея. | En mi opinión, es una buena idea.
+=== friends 16 A2
+title: Повтори, пожалуйста | Say that again | Repítelo, por favor
+words: repetir error despacio
+phrase: ¿Puedes repetir más despacio? Creo que hay un error. | Можешь повторить помедленнее? Кажется, тут ошибка. | Can you repeat more slowly? I think there's a mistake.
+rule: Просьба повторить — ¿Puedes repetir…? Repetir: e → i: repito, repites, repite, repetimos. Despacio — «медленно»; более — más despacio. | To ask for a repeat: ¿Puedes repetir…? Repetir: e → i: repito, repites, repite, repetimos. Despacio = slowly; más despacio = more slowly. | repetir e → i. más despacio.
+ex: ¿Puedes hablar más despacio? | Можешь говорить помедленнее?
+ex: Perdón, no entiendo. | Простите, я не понимаю.
+fill: ¿Puedes ___ la pregunta? | repetir | Можешь повторить вопрос?
+fill: Perdón, fue un ___. | error | Прости, это была ошибка.
+build: Por favor, habla más despacio. | Пожалуйста, говори помедленнее. | repites
+tr: Можешь повторить? | ¿Puedes repetir?
+=== friends 17 A2
+title: Переписка в чате | The group chat | El chat del grupo
+words: enviar mensaje rápidamente
+phrase: Te envío un mensaje ahora. Responde rápidamente, por favor. | Сейчас пришлю тебе сообщение. Ответь, пожалуйста, быстро. | I'm sending you a message now. Please answer quickly.
+rule: Кому — te, me, le: te envío (я посылаю тебе). Наречие на -mente: rápido → rápidamente (женский род + mente). | The person you send to: te envío (I send you). -mente adverbs: rápido → rápidamente (feminine + mente). | te envío. rápida + mente = rápidamente.
+ex: Te envío la foto. | Отправляю тебе фото.
+ex: Respondo rápidamente. | Отвечаю быстро.
+fill: Ahora te ___ la dirección. | envío | Сейчас отправлю тебе адрес.
+fill: Recibí tu ___ ayer. | mensaje | Я получил твоё сообщение вчера.
+build: Te envío un mensaje rápidamente. | Быстро отправляю тебе сообщение. | envías
+tr: Я отправлю тебе сообщение. | Te envío un mensaje. / Te voy a enviar un mensaje.
+=== friends 18 A2
+title: Фото на память | Taking photos | Hacer fotos
+words: compartir foto junto-adv
+phrase: Vamos juntos a la foto. Luego la comparto en el chat. | Давайте сфотографируемся вместе. Потом я выложу фото в чат. | Let's take a photo together. Then I'll share it in the chat.
+rule: Фото делают — hacer una foto. Compartir — «делиться»: comparto, compartes, comparte. Juntos — «вместе», согласуется с подлежащим: juntos / juntas. | We take a photo: hacer una foto. Compartir means "to share": comparto, compartes, comparte. Juntos = together (agrees: juntos / juntas). | hacer una foto. compartir. juntos / juntas.
+ex: Hacemos una foto juntos. | Мы делаем общее фото.
+ex: Comparto la foto contigo. | Делюсь с тобой фото.
+fill: Voy a ___ la foto en el chat. | compartir | Я выложу фото в чат.
+fill: Esta ___ es del verano. | foto | Это фото с лета.
+build: Hacemos una foto y la compartimos. | Мы делаем фото и делимся им. | comparte
+tr: Давай сфотографируемся вместе. | Hacemos una foto juntos. / Hagamos una foto juntos.
+=== friends 19 A2
+title: Счёт в кафе | Splitting the bill | Pagar la cuenta
+words: dividir cuenta aparte
+phrase: ¿Dividimos la cuenta? ¿O pagamos aparte? | Разделим счёт? Или заплатим отдельно? | Shall we split the bill? Or pay separately?
+rule: Просьба о счёте — La cuenta, por favor. Dividir — «разделить»; aparte — «отдельно». Pagar con tarjeta / en efectivo. | Ask for the bill: La cuenta, por favor. Dividir = to split; aparte = separately. | La cuenta, por favor. dividir la cuenta. pagar aparte.
+ex: La cuenta, por favor. | Счёт, пожалуйста.
+ex: ¿Pagamos con tarjeta? | Платим картой?
+fill: ¿___ la cuenta entre todos? | Dividimos | Разделим счёт на всех?
+fill: Por favor, ¿nos trae la ___? | cuenta | Принесёте нам счёт, пожалуйста?
+build: Dividimos la cuenta entre todos. | Мы делим счёт на всех. | divides
+tr: Счёт, пожалуйста. | La cuenta, por favor.
+=== friends 20 A2
+title: Выбираем подарок | Choosing a gift | Elegir un regalo
+words: elegir regalo perfecto
+phrase: Quiero elegir un regalo perfecto para ella. | Хочу выбрать для неё идеальный подарок. | I want to choose a perfect gift for her.
+rule: Подарить — regalar: le regalo un libro (le — ей/ему). Elegir: e → i (elijo, eliges, elige, elegimos). Perfecto — perfecta. | To give a gift: regalar: le regalo un libro. Elegir: e → i (elijo, eliges, elige, elegimos). | le regalo un libro. elegir e → i.
+ex: Le regalo un libro. | Я дарю ей книгу.
+ex: Elegimos un regalo juntos. | Мы выбираем подарок вместе.
+fill: Hoy ___ un regalo para mi madre. | elijo | Сегодня я выбираю подарок для мамы.
+fill: Este ___ es perfecto. | regalo | Этот подарок идеален.
+build: Elegimos un regalo perfecto para Ana. | Мы выбрали идеальный подарок для Аны. | eliges
+tr: Это идеальный подарок. | Es un regalo perfecto. / Es el regalo perfecto.
+=== friends 21 A2
+title: Вежливый отказ | Saying no politely | Decir que no con educación
+words: poder plan ocupado
+phrase: Lo siento, no puedo. Ya tengo un plan y estoy ocupado. | Прости, я не могу. У меня уже есть планы, и я занят. | Sorry, I can't. I already have a plan and I'm busy.
+rule: Не могу — no puedo (o → ue: puedo, puedes, puede, podemos). Вежливо — «Me encantaría, pero…». Занят — estar ocupado. | I can't: no puedo (o → ue: puedo, puedes, puede, podemos). Politely: Me encantaría, pero… Busy = estar ocupado. | poder o → ue. Me encantaría, pero… estar ocupado.
+ex: Me encantaría, pero no puedo. | Я бы с радостью, но не могу.
+ex: Hoy estoy muy ocupado. | Сегодня я очень занят.
+fill: Lo siento, no ___ ir. | puedo | Прости, я не могу пойти.
+fill: Hoy tengo un ___ con mi familia. | plan | Сегодня у меня планы с семьёй.
+build: No puedo ir porque estoy ocupado. | Я не могу пойти, потому что занят. | puedes
+tr: Я не могу, я занят. | No puedo, estoy ocupado.
+=== friends 22 A2
+title: Если пойдёт дождь | If it rains | Si llueve
+words: cancelar lluvia soleado
+phrase: Si hay lluvia, cancelamos el picnic. Si está soleado, vamos. | Если будет дождь, мы отменяем пикник. Если солнечно, едем. | If it rains, we cancel the picnic. If it's sunny, we go.
+rule: Условие — si + настоящее, и дальше тоже настоящее или ir a + инфинитив: si llueve, cancelamos. После si нет будущего времени. Погода — hace sol, llueve, está soleado. | Condition: si + present, then present or ir a + infinitive: si llueve, cancelamos. No future after si. | si + presente. hace sol / llueve.
+ex: Si hace sol, vamos a la playa. | Если будет солнце, поедем на пляж.
+ex: Si llueve, nos quedamos en casa. | Если пойдёт дождь, мы останемся дома.
+fill: Si llueve, ___ el picnic. | cancelamos | Если пойдёт дождь, мы отменим пикник.
+fill: Hoy hay mucha ___. | lluvia | Сегодня сильный дождь.
+build: Si hay lluvia, cancelamos la fiesta. | Если будет дождь, мы отменим вечеринку. | cancelas
+tr: Если будет дождь, мы отменим встречу. | Si llueve, cancelamos la reunión. / Si hay lluvia, cancelamos la reunión.
+=== friends 23 A2
+title: Знакомство друзей | Introducing friends | Presentar a los amigos
+words: presentar invitado encantado
+phrase: Te presento a mi amigo Tom. Es nuestro invitado. Encantado. | Знакомься, это мой друг Том. Он наш гость. Очень приятно. | This is my friend Tom. He's our guest. Nice to meet you.
+rule: Представить — presentar a + человек: te presento a Ana. Ответ — Encantado (мужчина) / Encantada (женщина), mucho gusto. | To introduce: presentar a + person: te presento a Ana. Answer: Encantado (man) / Encantada (woman), mucho gusto. | Te presento a… Encantado / encantada.
+ex: Te presento a mi hermana. | Знакомься, это моя сестра.
+ex: Mucho gusto. | Очень приятно.
+fill: Os ___ a mi amigo Pablo. | presento | Знакомлю вас с моим другом Пабло.
+fill: Mucho gusto, ___. | encantado | Очень приятно.
+build: Te presento a nuestro invitado de hoy. | Знакомься, наш сегодняшний гость. | presentas
+tr: Знакомься, это мой друг. | Te presento a mi amigo.
+=== friends 24 A2
+title: Прощание | Saying goodbye | Despedirse
+words: prometer contacto pronto
+phrase: Te prometo que te escribo pronto. Seguimos en contacto. | Обещаю, что скоро напишу. Остаёмся на связи. | I promise I'll write to you soon. Let's keep in touch.
+rule: Обещать — prometer que + настоящее время: te prometo que te escribo. Остаться на связи — seguir en contacto. Прощание — Hasta pronto / Cuídate. | To promise: prometer que + present: te prometo que te escribo. Keep in touch: seguir en contacto. Goodbye: Hasta pronto / Cuídate. | prometer que. seguir en contacto. Hasta pronto.
+ex: Hasta pronto. | До скорого.
+ex: Cuídate mucho. | Береги себя.
+fill: Te ___ que te llamo mañana. | prometo | Обещаю, что позвоню тебе завтра.
+fill: Seguimos en ___. | contacto | Остаёмся на связи.
+build: Prometemos seguir en contacto pronto. | Мы обещаем скоро оставаться на связи. | prometes
+tr: До скорого! | ¡Hasta pronto!
+=== friends 25 A2
+title: Поход в горы | A hike together | Una excursión a la montaña
+words: subir montaña cansado
+phrase: El domingo subimos la montaña. Vamos a estar cansados, pero contentos. | В воскресенье мы поднимемся на гору. Мы устанем, но будем довольны. | On Sunday we climb the mountain. We'll be tired, but happy.
+rule: Подниматься — subir (a la montaña / la montaña). Estar cansado — «быть уставшим». Прилагательное согласуется во мн. числе: cansados. | To climb: subir (a la montaña / la montaña). Estar cansado = to be tired. Plural agreement: cansados. | subir a la montaña. estar cansado / cansados.
+ex: Subimos al tren. | Мы садимся в поезд.
+ex: Estoy muy cansado hoy. | Сегодня я очень устал.
+fill: El domingo ___ la montaña. | subimos | В воскресенье мы поднимаемся на гору.
+fill: Después del paseo estamos muy ___. | cansados | После прогулки мы очень устали.
+build: Subimos la montaña y estamos muy cansados. | Мы поднялись на гору и очень устали. | subes
+tr: Мы поднимаемся на гору. | Subimos la montaña. / Subimos a la montaña.
+=== friends 26 A2
+title: Вечер настольных игр | Game night | Noche de juegos
+words: jugar juego divertido
+phrase: Jugamos a un juego esta noche. Es muy divertido. | Мы играем в игру сегодня вечером. Она очень весёлая. | We play a game tonight. It's very fun.
+rule: Играть в игру — jugar a un juego. Чья очередь? — ¿A quién le toca? Мне — me toca. Divertido — «забавный, весёлый». | Play a game: jugar a un juego. Whose turn? ¿A quién le toca? Mine: me toca. Divertido = fun. | jugar a un juego. ¿A quién le toca?
+ex: ¿A quién le toca? | Чья очередь?
+ex: Me toca a mí. | Моя очередь.
+fill: Esta noche ___ a las cartas. | jugamos | Сегодня вечером мы играем в карты.
+fill: Este ___ es muy fácil. | juego | Эта игра очень лёгкая.
+build: Jugamos a un juego muy divertido. | Мы играем в очень весёлую игру. | juegas
+tr: Давай поиграем в игру. | Jugamos a un juego. / Vamos a jugar a un juego.
+=== travel 11 A2
+title: Паспортный контроль | Passport control | Control de pasaportes
+words: mostrar documento necesario
+phrase: Muestro mi documento. ¿Es necesario algo más? | Я показываю свой документ. Нужно ли что-то ещё? | I show my document. Is anything else necessary?
+rule: Показать — mostrar (o → ue): muestro, muestras, muestra, mostramos. Es necesario + инфинитив — «нужно сделать». Cuál es el motivo de su viaje? — «Какова цель поездки?» | To show: mostrar (o → ue): muestro, muestras, muestra, mostramos. Es necesario + infinitive = it is necessary to. | mostrar o → ue. Es necesario + infinitivo.
+ex: ¿Cuál es el motivo de su viaje? | Какова цель вашей поездки?
+ex: Es necesario mostrar el pasaporte. | Нужно показать паспорт.
+fill: Yo ___ mi documento en la frontera. | muestro | Я показываю документ на границе.
+fill: Es ___ llevar el pasaporte. | necesario | Необходимо иметь с собой паспорт.
+build: Es necesario mostrar el documento aquí. | Здесь необходимо показать документ. | muestras
+tr: Мне нужно показать документ. | Es necesario mostrar el documento. / Tengo que mostrar el documento.
+=== travel 12 A2
+title: Обмен валюты | Changing money | Cambiar dinero
+words: cambiar dinero cerca
+phrase: ¿Dónde puedo cambiar dinero? ¿Hay un banco cerca? | Где можно поменять деньги? Есть ли поблизости банк? | Where can I change money? Is there a bank nearby?
+rule: Поменять деньги — cambiar dinero. Dinero неисчисляемое, без артикля: cambiar dinero. Cerca de + место — «рядом с…»: cerca del banco. | Change money: cambiar dinero. Dinero is uncountable, no article: cambiar dinero. Cerca de + place = near. | cambiar dinero. cerca de + lugar (de + el = del).
+ex: Está cerca del banco. | Это рядом с банком.
+ex: Quiero cambiar euros. | Хочу поменять евро.
+fill: Quiero ___ dinero, por favor. | cambiar | Хочу поменять деньги, пожалуйста.
+fill: No tengo mucho ___. | dinero | У меня мало денег.
+build: Hay un banco cerca de la estación. | Рядом с вокзалом есть банк. | cambias
+tr: Где я могу поменять деньги? | ¿Dónde puedo cambiar dinero?
+=== travel 13 A2
+title: В такси | In a taxi | En el taxi
+words: tomar taxi rápido
+phrase: Tomamos un taxi. Es más rápido que el autobús. | Мы берём такси. Оно быстрее, чем автобус. | We take a taxi. It's faster than the bus.
+rule: Сравнение — más + прилагательное + que: más rápido que. Взять такси — tomar un taxi. Цена — ¿Cuánto cuesta hasta el aeropuerto? | Comparison: más + adjective + que: más rápido que. Take a taxi: tomar un taxi. | más rápido que. tomar un taxi.
+ex: El tren es más rápido que el autobús. | Поезд быстрее автобуса.
+ex: ¿Cuánto cuesta hasta el aeropuerto? | Сколько стоит до аэропорта?
+fill: ¿___ un taxi? | Tomamos | Возьмём такси?
+fill: Este taxi es muy ___. | rápido | Это такси очень быстрое.
+build: Tomamos un taxi porque es más rápido. | Мы берём такси, потому что оно быстрее. | tomas
+tr: Возьмём такси. | Tomamos un taxi.
+=== travel 14 A2
+title: Завтрак в отеле | Hotel breakfast | Desayuno en el hotel
+words: servir desayuno fresco
+phrase: El desayuno se sirve de siete a diez. El pan está fresco. | Завтрак подают с семи до десяти. Хлеб свежий. | Breakfast is served from seven to ten. The bread is fresh.
+rule: Безличная форма se + глагол: se sirve el desayuno, se sirven los platos. Сервировать — servir (e → i): sirvo, sirves, sirve, servimos. | The impersonal se: se sirve el desayuno, se sirven los platos. Servir (e → i): sirvo, sirves, sirve, servimos. | se sirve. servir e → i.
+ex: Aquí se sirve el desayuno. | Здесь подают завтрак.
+ex: Se habla inglés. | Здесь говорят по-английски.
+fill: El desayuno se ___ hasta las diez. | sirve | Завтрак подают до десяти.
+fill: El ___ está incluido en el precio. | desayuno | Завтрак включён в цену.
+build: En el hotel se sirve un desayuno fresco. | В отеле подают свежий завтрак. | sirves
+tr: Завтрак подают с семи. | El desayuno se sirve desde las siete. / El desayuno se sirve a partir de las siete.
+=== travel 15 A2
+title: Аренда машины | Renting a car | Alquilar un coche
+words: conducir coche disponible
+phrase: Sé conducir. ¿Tiene un coche disponible para el fin de semana? | Я умею водить. У вас есть свободная машина на выходные? | I can drive. Do you have a car available for the weekend?
+rule: Уметь — saber + инфинитив: sé conducir. Disponible не меняется по роду: coche disponible, habitación disponible. Conducir: conduzco, conduces, conduce. | Ability: saber + infinitive: sé conducir. Disponible has one form for both genders. Conducir: conduzco, conduces, conduce. | saber + infinitivo. disponible (masc. y fem.). conducir: conduzco.
+ex: ¿Hay habitaciones disponibles? | Есть свободные номера?
+ex: No sé conducir. | Я не умею водить.
+fill: Yo ___ todos los días al trabajo. | conduzco | Я езжу на машине на работу каждый день.
+fill: ¿Hay un ___ disponible? | coche | Есть ли свободная машина?
+build: Hay un coche disponible para mañana. | На завтра есть свободная машина. | conduces
+tr: Есть ли свободная машина? | ¿Hay un coche disponible?
+=== travel 16 A2
+title: Потерялся чемодан | A lost suitcase | Maleta perdida
+words: perder maleta desgraciadamente
+phrase: Desgraciadamente, he perdido mi maleta. ¿Puede ayudarme? | К сожалению, я потерял чемодан. Вы можете мне помочь? | Unfortunately, I've lost my suitcase. Can you help me?
+rule: Недавнее прошлое — pretérito perfecto: he perdido (haber + причастие). Perder: e → ie: pierdo, pierdes, pierde. Причастие perdido. | Recent past: pretérito perfecto: he perdido (haber + participle). Perder: e → ie: pierdo, pierdes, pierde. Participle: perdido. | he perdido. perder e → ie.
+ex: He perdido mi móvil. | Я потерял телефон.
+ex: ¿Ha visto una maleta negra? | Вы не видели чёрный чемодан?
+fill: Creo que ___ mi maleta. | perdí | Кажется, я потерял чемодан.
+fill: Mi ___ es grande y negra. | maleta | Мой чемодан большой и чёрный.
+build: Desgraciadamente, perdimos la maleta. | К сожалению, мы потеряли чемодан. | pierdes
+tr: Я потерял чемодан. | He perdido mi maleta. / Perdí mi maleta.
+=== travel 17 A2
+title: Как далеко? | How far is it? | ¿A qué distancia está?
+words: caminar distancia cerca
+phrase: Está cerca. Puedes caminar. La distancia es corta. | Это рядом. Можно дойти пешком. Расстояние небольшое. | It's close. You can walk. The distance is short.
+rule: Пешком — caminar или a pie. Сколько времени — Tarda diez minutos a pie. Distancia — «расстояние», женский род: la distancia. | On foot: caminar or a pie. Time: Tarda diez minutos a pie. Distancia is feminine: la distancia. | a pie. Tarda diez minutos. la distancia.
+ex: Tarda diez minutos a pie. | Идти десять минут пешком.
+ex: ¿A qué distancia está la playa? | Как далеко пляж?
+fill: Podemos ___ hasta la plaza. | caminar | Мы можем дойти до площади пешком.
+fill: La ___ hasta el hotel es corta. | distancia | До отеля недалеко.
+build: La playa está cerca, podemos caminar. | Пляж рядом, можно дойти пешком. | caminas
+tr: Это рядом. | Está cerca.
+=== travel 18 A2
+title: Билеты в музей | Museum tickets | Entradas para el museo
+words: comprar entrada abierto
+phrase: Dos entradas, por favor. ¿Está abierto el museo hoy? | Два билета, пожалуйста. Музей сегодня открыт? | Two tickets, please. Is the museum open today?
+rule: Открыто / закрыто — estar abierto / cerrado. Entrada — «входной билет», billete — на транспорт. Comprar — «покупать». | Open / closed: estar abierto / cerrado. Entrada is an admission ticket; billete is for transport. | estar abierto / cerrado. entrada ≠ billete.
+ex: El museo está cerrado los lunes. | Музей закрыт по понедельникам.
+ex: Quiero comprar dos entradas. | Хочу купить два билета.
+fill: Quiero ___ dos entradas. | comprar | Хочу купить два билета.
+fill: Una ___ cuesta diez euros. | entrada | Один билет стоит десять евро.
+build: El museo está abierto hasta las seis. | Музей открыт до шести. | compras
+tr: Музей открыт? | ¿Está abierto el museo?
+=== travel 19 A2
+title: День на пляже | A day at the beach | Un día en la playa
+words: nadar playa tranquilo
+phrase: ¿Se puede nadar en esta playa? El mar está tranquilo. | Здесь можно купаться? Море спокойное. | Can you swim on this beach? The sea is calm.
+rule: ¿Se puede + инфинитив? — «можно ли…?» Estar tranquilo — «быть спокойным» (о море, о человеке). Playa — женский род. | ¿Se puede + infinitive? asks "is it allowed / possible?". Estar tranquilo = to be calm. Playa is feminine. | ¿Se puede + infinitivo? la playa.
+ex: ¿Se puede nadar aquí? | Здесь можно плавать?
+ex: La playa es muy bonita. | Пляж очень красивый.
+fill: Me gusta ___ en el mar. | nadar | Я люблю плавать в море.
+fill: Nos vemos en la ___. | playa | Увидимся на пляже.
+build: Hoy el mar está tranquilo y podemos nadar. | Сегодня море спокойное, и можно плавать. | nadas
+tr: Здесь можно плавать? | ¿Se puede nadar aquí?
+=== travel 20 A2
+title: Поезд опаздывает | The train is late | El tren llega tarde
+words: esperar estación tarde-adv
+phrase: El tren llega tarde. Esperamos en la estación. | Поезд опаздывает. Мы ждём на вокзале. | The train is late. We wait at the station.
+rule: Esperar — «ждать» (без предлога): esperamos el tren. Llegar tarde — «опаздывать, приезжать поздно». Estación — женский род. | Esperar means "to wait" with no preposition: esperamos el tren. Llegar tarde = to arrive late. Estación is feminine. | esperar el tren (sin preposición). llegar tarde.
+ex: Espero el autobús. | Я жду автобус.
+ex: El tren sale tarde hoy. | Поезд сегодня отправляется поздно.
+fill: ___ el tren en la estación. | Esperamos | Мы ждём поезд на вокзале.
+fill: El tren llega ___. | tarde | Поезд приходит поздно.
+build: Esperamos el tren en la estación. | Мы ждём поезд на вокзале. | esperas
+tr: Мы ждём на вокзале. | Esperamos en la estación.
+=== travel 21 A2
+title: Досмотр в аэропорту | Airport security | Control de seguridad
+words: quitar seguridad estricto
+phrase: Me quito el cinturón. La seguridad es estricta aquí. | Я снимаю ремень. Здесь строгий досмотр. | I take off my belt. Security is strict here.
+rule: Quitarse — «снимать с себя»: me quito el cinturón. Seguridad — женский род, «охрана, безопасность». Estricto — строгий. | Quitarse = to take off (clothes): me quito el cinturón. Seguridad is feminine. Estricto = strict. | me quito el cinturón. la seguridad.
+ex: Me quito los zapatos. | Я снимаю обувь.
+ex: El control es muy estricto. | Контроль очень строгий.
+fill: Yo me ___ el cinturón. | quito | Я снимаю ремень.
+fill: El control de ___ tarda mucho. | seguridad | Досмотр занимает много времени.
+build: En el aeropuerto el control es muy estricto. | В аэропорту контроль очень строгий. | quitas
+tr: Здесь строгий досмотр. | Aquí la seguridad es estricta. / El control de seguridad es estricto.
+=== travel 22 A2
+title: Столик в ресторане | Booking a table | Reservar mesa
+words: pedir mesa listo
+phrase: Una mesa para dos, por favor. ¿Están listos para pedir? | Столик на двоих, пожалуйста. Вы готовы заказывать? | A table for two, please. Are you ready to order?
+rule: Заказывать еду — pedir (e → i): pido, pides, pide, pedimos. Estar listo para + инфинитив — быть готовым. Una mesa para dos — «столик на двоих». | To order food: pedir (e → i): pido, pides, pide, pedimos. Estar listo para + infinitive. | pedir e → i. listo para + infinitivo.
+ex: ¿Qué pides? | Что ты заказываешь?
+ex: Estamos listos para pedir. | Мы готовы сделать заказ.
+fill: Yo ___ una ensalada. | pido | Я заказываю салат.
+fill: ¿Tiene una ___ para cuatro? | mesa | У вас есть столик на четверых?
+build: Estamos listos para pedir la cena. | Мы готовы заказывать ужин. | pides
+tr: Мы готовы заказывать. | Estamos listos para pedir.
+=== travel 23 A2
+title: В аптеке | At the pharmacy | En la farmacia
+words: doler medicina enfermo-adj
+phrase: Me duele la cabeza. Estoy enfermo y necesito medicina. | У меня болит голова. Я болен, и мне нужно лекарство. | I have a headache. I'm sick and I need medicine.
+rule: Болит — me duele + единственное число, me duelen + множественное: me duele la cabeza, me duelen los pies. Doler: o → ue. | Pain uses me duele (singular) / me duelen (plural): me duele la cabeza, me duelen los pies. Doler: o → ue. | me duele / me duelen. doler o → ue.
+ex: Me duelen los pies. | У меня болят ноги.
+ex: Necesito algo para la tos. | Мне нужно что-то от кашля.
+fill: Me ___ la garganta. | duele | У меня болит горло.
+fill: Necesito ___ para el dolor. | medicina | Мне нужно лекарство от боли.
+build: Me duele la cabeza y estoy enfermo. | У меня болит голова, и я болен. | dueles
+tr: У меня болит голова. | Me duele la cabeza.
+=== travel 24 A2
+title: Сувениры | Buying souvenirs | Comprar recuerdos
+words: vender precio caro
+phrase: ¿Venden postales? El precio es un poco caro. | Вы продаёте открытки? Цена немного высока. | Do you sell postcards? The price is a bit expensive.
+rule: Сколько стоит — ¿Cuánto cuesta? / ¿Cuánto cuestan? (мн. число). Caro — «дорогой», barato — «дешёвый». Se venden — «продаются». | How much: ¿Cuánto cuesta? / ¿Cuánto cuestan? (plural). Caro = expensive, barato = cheap. | ¿Cuánto cuesta / cuestan? caro / barato.
+ex: ¿Cuánto cuestan las postales? | Сколько стоят открытки?
+ex: Es muy caro para mí. | Это слишком дорого для меня.
+fill: ¿___ postales aquí? | Venden | Здесь продают открытки?
+fill: El ___ es muy alto. | precio | Цена очень высокая.
+build: Aquí venden recuerdos a un precio caro. | Здесь продают сувениры по высокой цене. | vendes
+tr: Это слишком дорого. | Es muy caro. / Es demasiado caro.
+=== travel 25 A2
+title: Городской транспорт | Public transport | Transporte público
+words: salir autobús diario
+phrase: El autobús sale a las ocho. Hay un servicio diario. | Автобус отправляется в восемь. Рейс ходит ежедневно. | The bus leaves at eight. There is a daily service.
+rule: Выезжать — salir (yo salgo): sale, salimos. В транспорте — en autobús, а пешком — a pie. Diario — «ежедневный», одна форма для обоих родов. | To leave: salir (yo salgo): sale, salimos. By transport: en autobús; on foot: a pie. Diario = daily. | salir: salgo. en autobús / a pie. diario.
+ex: Salgo de casa a las siete. | Я выхожу из дома в семь.
+ex: Voy al centro en autobús. | Я еду в центр на автобусе.
+fill: El autobús ___ cada diez minutos. | sale | Автобус отправляется каждые десять минут.
+fill: Tomamos el ___ al centro. | autobús | Мы едем в центр на автобусе.
+build: El autobús sale cada día a las ocho. | Автобус отправляется каждый день в восемь. | salgo
+tr: Автобус отправляется в восемь. | El autobús sale a las ocho.
+=== travel 26 A2
+title: Экскурсия | A sightseeing tour | Una excursión
+words: participar guía interesante
+phrase: Quiero participar en la excursión. El guía es muy interesante. | Хочу принять участие в экскурсии. Гид очень интересный. | I want to take part in the tour. The guide is very interesting.
+rule: Принять участие — participar en. El guía — гид-мужчина, la guía — женщина или путеводитель. Interesante — одна форма для обоих родов. | To take part: participar en. El guía is a male guide; la guía is a female guide or a guidebook. Interesante has one form. | participar en. el guía / la guía.
+ex: Participo en la excursión. | Я участвую в экскурсии.
+ex: Es una visita muy interesante. | Это очень интересная экскурсия.
+fill: ¿Puedo ___ en la visita guiada? | participar | Могу я принять участие в экскурсии?
+fill: La ___ habla tres idiomas. | guía | Гид говорит на трёх языках.
+build: Quiero participar en una excursión interesante. | Хочу принять участие в интересной экскурсии. | participas
+tr: Это интересная экскурсия. | Es una excursión interesante. / Es una visita interesante.
+=== travel 27 A2
+title: Выезд из отеля | Checking out | Salida del hotel
+words: dejar llave temprano-adv
+phrase: Dejo la llave en la recepción. Salimos temprano mañana. | Я оставляю ключ на ресепшене. Завтра мы уезжаем рано. | I leave the key at reception. We leave early tomorrow.
+rule: Dejar — «оставлять»: dejo la llave aquí. Temprano — «рано» (наречие, не меняется). La salida — «выезд», a qué hora es la salida? | Dejar = to leave something: dejo la llave aquí. Temprano = early (adverb, invariable). | dejar la llave. temprano (invariable).
+ex: ¿A qué hora es la salida? | Во сколько выезд?
+ex: Dejo las maletas aquí. | Я оставляю чемоданы здесь.
+fill: Yo ___ la llave en la recepción. | dejo | Я оставляю ключ на ресепшене.
+fill: Mi ___ está en el bolso. | llave | Мой ключ в сумке.
+build: Dejamos la llave y salimos temprano. | Мы оставляем ключ и выезжаем рано. | dejas
+tr: Я оставляю ключ здесь. | Dejo la llave aquí.
+=== it 11 A2
+title: Ежедневный созвон | The daily stand-up | Reunión diaria
+words: informar equipo diario
+phrase: Informamos al equipo cada día. La reunión diaria es corta. | Каждый день мы сообщаем команде о прогрессе. Ежедневная встреча короткая. | We inform the team every day. The daily meeting is short.
+rule: Информировать кого-то — informar a alguien: informo al equipo (a + el = al). Каждый день — cada día или todos los días. Diario — «ежедневный». | Informar a alguien: informo al equipo (a + el = al). Every day: cada día or todos los días. Diario = daily. | informar a + persona (a + el = al). cada día.
+ex: Informo al jefe. | Я сообщаю начальнику.
+ex: Trabajamos todos los días. | Мы работаем каждый день.
+fill: Cada día ___ al equipo. | informo | Каждый день я сообщаю команде.
+fill: Nuestro ___ trabaja muy bien. | equipo | Наша команда работает очень хорошо.
+build: Informamos al equipo en la reunión diaria. | Мы сообщаем команде на ежедневной встрече. | informas
+tr: Наша команда работает каждый день. | Nuestro equipo trabaja todos los días. / Nuestro equipo trabaja cada día.
+=== it 12 A2
+title: Проверка кода | A code check | Revisión de código
+words: revisar código cuidadosamente
+phrase: ¿Puedes revisar mi código cuidadosamente? Gracias. | Можешь внимательно проверить мой код? Спасибо. | Can you check my code carefully? Thanks.
+rule: Вежливая просьба — ¿Puedes + инфинитив? Наречие: cuidadoso → cuidadosamente. Código — мужской род, ударение на первый слог. | A polite request: ¿Puedes + infinitive? Adverb: cuidadoso → cuidadosamente. Código is masculine. | ¿Puedes + infinitivo? cuidadoso → cuidadosamente.
+ex: ¿Puedes revisar este archivo? | Можешь проверить этот файл?
+ex: Reviso el código cada día. | Я проверяю код каждый день.
+fill: Voy a ___ el código ahora. | revisar | Сейчас я проверю код.
+fill: El ___ no funciona bien. | código | Код работает плохо.
+build: Reviso el código cuidadosamente antes de enviarlo. | Я внимательно проверяю код, прежде чем отправить его. | revisas
+tr: Проверь мой код, пожалуйста. | Revisa mi código, por favor. / ¿Puedes revisar mi código?
+=== it 13 A2
+title: Перед релизом | Before the release | Antes del lanzamiento
+words: lanzar versión listo
+phrase: Vamos a lanzar la versión nueva. ¿Estás listo? | Мы запускаем новую версию. Ты готов? | We are going to launch the new version. Are you ready?
+rule: Estar listo — «быть готовым» (временно); ser listo — «быть умным». Lanzar: lanzo, lanzas, lanza, lanzamos; yo lancé (z → c). | Estar listo = to be ready (for now); ser listo = to be clever. Lanzar: lanzo, lanzas, lanza, lanzamos; preterite yo lancé (z → c). | estar listo / ser listo. lancé (z → c).
+ex: Estoy listo para empezar. | Я готов начать.
+ex: Lanzamos la app el lunes. | Мы запускаем приложение в понедельник.
+fill: El lunes ___ la versión nueva. | lanzamos | В понедельник мы запускаем новую версию.
+fill: ¿Está ___ el equipo? | listo | Команда готова?
+build: Vamos a lanzar la versión cuando todo esté listo. | Мы запустим версию, когда всё будет готово. | lanzas
+tr: Мы запускаем новую версию. | Lanzamos la versión nueva. / Lanzamos una versión nueva.
+=== it 14 A2
+title: Описание проблемы | Describing the problem | Describir el problema
+words: describir problema exactamente
+phrase: ¿Puedes describir el problema exactamente? ¿Qué pasa? | Можешь точно описать проблему? Что происходит? | Can you describe the problem exactly? What's happening?
+rule: Описание — describir (причастие descrito). El problema — мужской род, хотя оканчивается на -a. Exactamente — «точно». | To describe: describir (participle descrito). El problema is masculine even though it ends in -a. Exactamente = exactly. | descrito. el problema (masculino).
+ex: El problema es muy grave. | Проблема очень серьёзная.
+ex: Describo lo que pasa. | Я описываю, что происходит.
+fill: Voy a ___ el error con detalle. | describir | Я подробно опишу ошибку.
+fill: Tenemos un ___ con el servidor. | problema | У нас проблема с сервером.
+build: Describo el problema exactamente como pasó. | Я описываю проблему точно так, как это было. | describes
+tr: Какая проблема? | ¿Cuál es el problema? / ¿Qué problema hay?
+=== it 15 A2
+title: Резервная копия | Making a backup | Copia de seguridad
+words: guardar dato seguro
+phrase: Guardo los datos en un lugar seguro. Siempre hago una copia. | Я храню данные в безопасном месте. Я всегда делаю копию. | I keep the data in a safe place. I always make a copy.
+rule: Dato — «данное, факт», во мн. числе datos — «данные». Seguro — «безопасный» и «уверенный». Siempre ставится перед глаголом. | Un dato is a piece of data; los datos = data. Seguro = safe or sure. Siempre goes before the verb. | los datos. seguro = safe / sure. siempre + verbo.
+ex: Guardo el archivo en la nube. | Я сохраняю файл в облаке.
+ex: Estoy seguro de que funciona. | Я уверен, что это работает.
+fill: Siempre ___ mis archivos. | guardo | Я всегда сохраняю свои файлы.
+fill: Este ___ es muy importante. | dato | Эти данные очень важны.
+build: Guardamos el dato en un sitio seguro. | Мы сохраняем данные в безопасном месте. | guardas
+tr: Я сохраняю файл. | Guardo el archivo.
+=== it 16 A2
+title: Надёжный пароль | A strong password | Una contraseña segura
+words: proteger cuenta fuerte
+phrase: Debes proteger tu cuenta con una clave fuerte. | Ты должен защитить свой аккаунт надёжным паролем. | You must protect your account with a strong password.
+rule: Совет — deber + инфинитив: debes proteger. Proteger: yo protejo (g → j перед o). Fuerte — «сильный, надёжный», одна форма для обоих родов. | Advice: deber + infinitive: debes proteger. Proteger: yo protejo (g → j before o). Fuerte has one form for both genders. | debes + infinitivo. protejo (g → j). fuerte.
+ex: Debes usar una clave fuerte. | Тебе стоит использовать надёжный пароль.
+ex: Protejo mis datos. | Я защищаю свои данные.
+fill: Yo ___ mi cuenta con una clave. | protejo | Я защищаю свой аккаунт паролем.
+fill: Mi ___ está protegida. | cuenta | Мой аккаунт защищён.
+build: Debes proteger tu cuenta con una clave fuerte. | Ты должен защитить аккаунт надёжным паролем. | proteges
+tr: Я защищаю аккаунт. | Protejo mi cuenta.
+=== it 17 A2
+title: Новый компьютер | A new computer | Un ordenador nuevo
+words: comprar ordenador nuevo
+phrase: Necesitamos comprar un ordenador nuevo. El viejo es muy lento. | Нам нужно купить новый компьютер. Старый очень медленный. | We need to buy a new computer. The old one is very slow.
+rule: Нужно сделать — necesitar + инфинитив: necesitamos comprar. Прилагательное после существительного: ordenador nuevo. Старый — el viejo (опускаем существительное). | Need to do: necesitar + infinitive: necesitamos comprar. The adjective follows the noun: ordenador nuevo. El viejo = the old one. | necesitar + infinitivo. ordenador nuevo. el viejo.
+ex: Necesito un ordenador rápido. | Мне нужен быстрый компьютер.
+ex: Compro el ordenador en línea. | Я покупаю компьютер онлайн.
+fill: Hoy ___ un ordenador nuevo. | compramos | Сегодня мы покупаем новый компьютер.
+fill: Mi ___ es muy rápido. | ordenador | Мой компьютер очень быстрый.
+build: Necesitamos comprar un ordenador nuevo. | Нам нужно купить новый компьютер. | compras
+tr: Мне нужен новый компьютер. | Necesito un ordenador nuevo.
+=== it 18 A2
+title: Нет соединения | No connection | Sin conexión
+words: conectar red imposible
+phrase: No puedo conectar con la red. Es imposible trabajar así. | Я не могу подключиться к сети. Так работать невозможно. | I can't connect to the network. It's impossible to work like this.
+rule: Не могу — no puedo + инфинитив. Es imposible + инфинитив — «невозможно сделать». Conectar con la red — подключиться к сети. | I can't: no puedo + infinitive. Es imposible + infinitive = it's impossible to. Conectar con la red = connect to the network. | no puedo + infinitivo. Es imposible + infinitivo.
+ex: No puedo entrar en mi cuenta. | Я не могу войти в аккаунт.
+ex: La red está caída. | Сеть не работает.
+fill: No puedo ___ con la red. | conectar | Я не могу подключиться к сети.
+fill: La ___ está muy lenta. | red | Сеть очень медленная.
+build: Es imposible conectar con la red hoy. | Сегодня невозможно подключиться к сети. | conectas
+tr: Сеть не работает. | La red no funciona. / La red está caída.
+=== it 19 A2
+title: Поиск данных | Searching for data | Buscar datos
+words: buscar dato rápidamente
+phrase: Busco un dato en la lista. Lo encuentro rápidamente. | Я ищу данные в списке. Нахожу их быстро. | I'm looking for a piece of data in the list. I find it quickly.
+rule: Buscar — «искать» без предлога: busco el archivo (не busco por). Lo, la — «его, её»: lo encuentro. Rápidamente — «быстро». | Buscar means "to look for", no preposition: busco el archivo. Lo, la = it: lo encuentro. Rápidamente = quickly. | buscar (sin preposición). lo / la.
+ex: Busco el archivo en la carpeta. | Я ищу файл в папке.
+ex: Lo encuentro rápidamente. | Я нахожу его быстро.
+fill: Yo ___ los datos en la base. | busco | Я ищу данные в базе.
+fill: Falta un ___ en la lista. | dato | В списке не хватает одной записи.
+build: Busco un dato y lo encuentro rápidamente. | Я ищу данные и быстро нахожу. | buscas
+tr: Я ищу файл. | Busco el archivo. / Busco un archivo.
+=== it 20 A2
+title: Собеседование | A job interview | Entrevista de trabajo
+words: solicitar experiencia nervioso
+phrase: Quiero solicitar este puesto. Tengo experiencia, pero estoy nervioso. | Хочу подать заявку на эту должность. У меня есть опыт, но я нервничаю. | I want to apply for this position. I have experience, but I'm nervous.
+rule: Подать заявку — solicitar un puesto. Опыт — la experiencia (ж. р.). Estar nervioso — «нервничать» (временное состояние). | To apply: solicitar un puesto. Experience: la experiencia (feminine). Estar nervioso = to be nervous (temporary). | solicitar un puesto. la experiencia. estar nervioso.
+ex: Tengo cinco años de experiencia. | У меня пять лет опыта.
+ex: Estoy nervioso por la entrevista. | Я волнуюсь из-за собеседования.
+fill: Voy a ___ un puesto de programador. | solicitar | Я подам заявку на должность программиста.
+fill: Tengo mucha ___ con bases de datos. | experiencia | У меня большой опыт работы с базами данных.
+build: Solicito un puesto porque tengo experiencia. | Я подаю заявку на должность, потому что у меня есть опыт. | solicitas
+tr: У меня есть опыт. | Tengo experiencia.
+=== it 21 A2
+title: Работа из дома | Working from home | Trabajar desde casa
+words: trabajar casa flexible
+phrase: Trabajo desde casa los viernes. Mi horario es flexible. | По пятницам я работаю из дома. У меня гибкий график. | I work from home on Fridays. My schedule is flexible.
+rule: Из дома — desde casa; дома — en casa; домой — a casa. Los viernes — «по пятницам». Flexible — одна форма для обоих родов. | From home: desde casa; at home: en casa; home (to): a casa. Los viernes = on Fridays. | desde casa / en casa / a casa. los viernes.
+ex: Estoy en casa hoy. | Сегодня я дома.
+ex: Voy a casa a las seis. | Я иду домой в шесть.
+fill: Los viernes ___ desde casa. | trabajo | По пятницам я работаю из дома.
+fill: Hoy me quedo en ___. | casa | Сегодня я остаюсь дома.
+build: Trabajo en casa con un horario flexible. | Я работаю дома по гибкому графику. | trabajas
+tr: Я работаю дома. | Trabajo en casa. / Trabajo desde casa.
+=== it 22 A2
+title: Срочно! | It's urgent! | ¡Es urgente!
+words: necesitar tiempo urgente
+phrase: Es urgente. Necesitamos más tiempo para terminar. | Это срочно. Нам нужно больше времени, чтобы закончить. | It's urgent. We need more time to finish.
+rule: Цель — para + инфинитив: para terminar. Necesitar + существительное: necesitamos tiempo. Urgente — одна форма для обоих родов. | Purpose: para + infinitive: para terminar. Necesitar + noun: necesitamos tiempo. Urgente has one form. | para + infinitivo. necesitar + sustantivo.
+ex: Necesito más tiempo. | Мне нужно больше времени.
+ex: Es un asunto urgente. | Это срочное дело.
+fill: ___ más tiempo para el proyecto. | Necesitamos | Нам нужно больше времени на проект.
+fill: No tenemos mucho ___. | tiempo | У нас мало времени.
+build: Es urgente, necesitamos más tiempo. | Это срочно, нам нужно больше времени. | necesitas
+tr: Это срочно. | Es urgente.
+=== it 23 A2
+title: Тест упал | A failed test | Una prueba fallida
+words: fallar prueba inesperado
+phrase: La prueba falló. Es un resultado inesperado. | Тест упал. Это неожиданный результат. | The test failed. It's an unexpected result.
+rule: Прошедшее время — pretérito: falló (он/она), fallé (я). Prueba — «тест, проба»; женский род. Inesperado — «неожиданный»: inesperado / inesperada. | Past: pretérito: falló (he/she), fallé (I). Prueba is feminine. Inesperado agrees: inesperado / inesperada. | falló. la prueba. inesperado / inesperada.
+ex: El servidor falló ayer. | Сервер вчера упал.
+ex: Fue un error inesperado. | Это была неожиданная ошибка.
+fill: La prueba ___ anoche. | falló | Тест упал вчера вечером.
+fill: Hacemos una ___ cada día. | prueba | Каждый день мы делаем тест.
+build: La prueba falló de manera inesperada. | Тест неожиданно упал. | fallas
+tr: Тест упал. | La prueba falló.
+=== it 24 A2
+title: Комментарии коллег | Feedback from colleagues | Comentarios de los colegas
+words: sugerir comentario útil
+phrase: Gracias por el comentario útil. Sugiero cambiar el nombre. | Спасибо за полезный комментарий. Предлагаю поменять название. | Thanks for the useful comment. I suggest changing the name.
+rule: Предлагать — sugerir (e → ie, в 3-м лице pretérito e → i): sugiero, sugieres, sugiere, sugerimos. После sugerir можно инфинитив: sugiero cambiar. | To suggest: sugerir (e → ie): sugiero, sugieres, sugiere, sugerimos. After sugerir use an infinitive: sugiero cambiar. | sugerir e → ie. sugiero + infinitivo.
+ex: Sugiero empezar mañana. | Предлагаю начать завтра.
+ex: Dejo un comentario aquí. | Оставляю комментарий здесь.
+fill: Yo ___ cambiar el plan. | sugiero | Я предлагаю изменить план.
+fill: Gracias por tu ___. | comentario | Спасибо за твой комментарий.
+build: Sugiero dejar un comentario útil. | Предлагаю оставить полезный комментарий. | sugieres
+tr: Я предлагаю встретиться. | Sugiero quedar. / Sugiero vernos. / Sugiero reunirnos.
+=== it 25 A2
+title: Документация | Writing documentation | Escribir documentación
+words: escribir documento claramente
+phrase: Escribo el documento claramente. Todos lo entienden. | Я пишу документ понятно. Все его понимают. | I write the document clearly. Everyone understands it.
+rule: Escribir — причастие escrito (he escrito). Todos — «все» + глагол во мн. числе: todos entienden. Claramente — «ясно». | Escribir has the irregular participle escrito (he escrito). Todos takes a plural verb: todos entienden. Claramente = clearly. | participio escrito. todos entienden.
+ex: He escrito el informe. | Я написал отчёт.
+ex: Todos entienden el plan. | Все понимают план.
+fill: Hoy ___ la documentación. | escribo | Сегодня я пишу документацию.
+fill: Lee el ___ con atención. | documento | Внимательно прочитай документ.
+build: Escribo el documento claramente para todos. | Я пишу документ понятно для всех. | escribes
+tr: Я написал документ. | Escribí el documento. / He escrito el documento.
+=== it 26 A2
+title: Новая программа | A new program | Un programa nuevo
+words: aprender programa útil
+phrase: Aprendo un programa nuevo. Es muy útil para el equipo. | Я осваиваю новую программу. Она очень полезна для команды. | I'm learning a new program. It's very useful for the team.
+rule: Aprender a + инфинитив — «научиться делать»: aprendo a usarlo. Programa — мужской род, хотя на -a. Útil — одна форма. | Aprender a + infinitive = learn to do: aprendo a usarlo. Programa is masculine. Útil has one form. | aprender a + infinitivo. el programa (masculino).
+ex: Aprendo a usar el programa. | Я учусь пользоваться программой.
+ex: Es un programa muy útil. | Это очень полезная программа.
+fill: Quiero ___ a usar el programa. | aprender | Хочу научиться пользоваться программой.
+fill: Este ___ es muy rápido. | programa | Эта программа очень быстрая.
+build: Aprendo un programa nuevo que es muy útil. | Я осваиваю новую программу, которая очень полезна. | aprendes
+tr: Эта программа полезна. | Este programa es útil. / Este programa es muy útil.
+=== it 27 A2
+title: Достигнутая цель | A goal achieved | Un objetivo cumplido
+words: lograr meta exitoso
+phrase: Logramos la meta. El proyecto fue exitoso. | Мы достигли цели. Проект был успешным. | We achieved the goal. The project was successful.
+rule: Lograr — «добиться»: logramos la meta. Fue — pretérito от ser: «был». Exitoso — «успешный», éxito — «успех». | Lograr = to achieve: logramos la meta. Fue is the preterite of ser. Exitoso = successful; éxito = success. | lograr una meta. fue. exitoso / éxito.
+ex: Logré mi objetivo. | Я достиг своей цели.
+ex: Fue un día muy exitoso. | Это был очень успешный день.
+fill: Este año vamos a ___ la meta. | lograr | В этом году мы добьёмся цели.
+fill: Nuestra ___ es terminar en junio. | meta | Наша цель — закончить в июне.
+build: Logramos la meta y el proyecto fue exitoso. | Мы достигли цели, и проект был успешным. | logras
+tr: Мы достигли цели. | Logramos la meta. / Logramos nuestro objetivo.

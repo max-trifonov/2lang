@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-02",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 2,
+  "level": "A1",
+  "title": {
+    "ru": "Давай встретимся",
+    "en": "Let's meet up",
+    "es": "Quedemos"
+  },
+  "words": [
+    "quedar",
+    "café",
+    "luego"
+  ],
+  "phrase": {
+    "es": "Quedamos para tomar un café luego, ¿vale?",
+    "ru": "Давай встретимся выпить кофе потом, хорошо?",
+    "en": "Let's meet for a coffee later, okay?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Договориться о встрече — quedar con alguien: quedo con Ana. Quedamos a las ocho — «договорились на восемь». Luego — «потом, позже».",
+      "en": "To arrange a meeting: quedar con alguien. Quedamos a las ocho means \"we agreed on eight\". Luego means \"later\".",
+      "es": "quedar con alguien = acordar una cita. Luego = más tarde."
+    },
+    "examples": [
+      {
+        "es": "Quedamos a las ocho.",
+        "ru": "Договорились на восемь."
+      },
+      {
+        "es": "Hasta luego.",
+        "ru": "До скорого."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "¿A qué hora ___ mañana?",
+      "answer": "quedamos",
+      "ru": "Во сколько встречаемся завтра?"
+    },
+    {
+      "type": "fill",
+      "es": "Nos vemos ___.",
+      "answer": "luego",
+      "ru": "Увидимся потом."
+    },
+    {
+      "type": "build",
+      "es": "Quedamos en el café a las seis.",
+      "ru": "Мы встречаемся в кафе в шесть.",
+      "extra": [
+        "quedas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Увидимся потом.",
+      "answer": [
+        "Nos vemos luego.",
+        "Hasta luego."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

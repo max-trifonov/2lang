@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-09",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 9,
+  "level": "B1",
+  "title": {
+    "ru": "Матч и болельщики",
+    "en": "The football match",
+    "es": "El partido de fútbol"
+  },
+  "words": [
+    "beat",
+    "football",
+    "lucky"
+  ],
+  "phrase": {
+    "en": "Our team beat them three to one. We were lucky!",
+    "ru": "Наша команда обыграла их 3:1. Нам повезло!",
+    "es": "Nuestro equipo les ganó tres a uno. ¡Tuvimos suerte!"
+  },
+  "rule": {
+    "text": {
+      "ru": "Неправильные глаголы: beat — beat — beaten; win — won. Играть в футбол — play football (без артикля).",
+      "en": "Irregular verbs: beat – beat – beaten; win – won. We say play football (no article).",
+      "es": "Verbos irregulares: beat – beat – beaten. Se dice play football, sin artículo."
+    },
+    "examples": [
+      {
+        "en": "Who won the match?",
+        "ru": "Кто выиграл матч?"
+      },
+      {
+        "en": "We play football every Sunday.",
+        "ru": "Мы играем в футбол каждое воскресенье."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Our team ___ the champions yesterday.",
+      "answer": "beat",
+      "ru": "Вчера наша команда обыграла чемпионов."
+    },
+    {
+      "type": "fill",
+      "en": "Do you like watching ___?",
+      "answer": "football",
+      "ru": "Тебе нравится смотреть футбол?"
+    },
+    {
+      "type": "build",
+      "en": "We were lucky to win the game.",
+      "ru": "Нам повезло выиграть игру.",
+      "extra": [
+        "luck"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Нам повезло.",
+      "answer": [
+        "We were lucky.",
+        "We got lucky."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-16",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 16,
+  "level": "A2",
+  "title": {
+    "ru": "Надёжный пароль",
+    "en": "A strong password",
+    "es": "Una contraseña segura"
+  },
+  "words": [
+    "proteger",
+    "cuenta",
+    "fuerte"
+  ],
+  "phrase": {
+    "es": "Debes proteger tu cuenta con una clave fuerte.",
+    "ru": "Ты должен защитить свой аккаунт надёжным паролем.",
+    "en": "You must protect your account with a strong password."
+  },
+  "rule": {
+    "text": {
+      "ru": "Совет — deber + инфинитив: debes proteger. Proteger: yo protejo (g → j перед o). Fuerte — «сильный, надёжный», одна форма для обоих родов.",
+      "en": "Advice: deber + infinitive: debes proteger. Proteger: yo protejo (g → j before o). Fuerte has one form for both genders.",
+      "es": "debes + infinitivo. protejo (g → j). fuerte."
+    },
+    "examples": [
+      {
+        "es": "Debes usar una clave fuerte.",
+        "ru": "Тебе стоит использовать надёжный пароль."
+      },
+      {
+        "es": "Protejo mis datos.",
+        "ru": "Я защищаю свои данные."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Yo ___ mi cuenta con una clave.",
+      "answer": "protejo",
+      "ru": "Я защищаю свой аккаунт паролем."
+    },
+    {
+      "type": "fill",
+      "es": "Mi ___ está protegida.",
+      "answer": "cuenta",
+      "ru": "Мой аккаунт защищён."
+    },
+    {
+      "type": "build",
+      "es": "Debes proteger tu cuenta con una clave fuerte.",
+      "ru": "Ты должен защитить аккаунт надёжным паролем.",
+      "extra": [
+        "proteges"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я защищаю аккаунт.",
+      "answer": [
+        "Protejo mi cuenta."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-12",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 12,
+  "level": "A2",
+  "title": {
+    "ru": "Проверка кода",
+    "en": "A code check",
+    "es": "Revisión de código"
+  },
+  "words": [
+    "revisar",
+    "código",
+    "cuidadosamente"
+  ],
+  "phrase": {
+    "es": "¿Puedes revisar mi código cuidadosamente? Gracias.",
+    "ru": "Можешь внимательно проверить мой код? Спасибо.",
+    "en": "Can you check my code carefully? Thanks."
+  },
+  "rule": {
+    "text": {
+      "ru": "Вежливая просьба — ¿Puedes + инфинитив? Наречие: cuidadoso → cuidadosamente. Código — мужской род, ударение на первый слог.",
+      "en": "A polite request: ¿Puedes + infinitive? Adverb: cuidadoso → cuidadosamente. Código is masculine.",
+      "es": "¿Puedes + infinitivo? cuidadoso → cuidadosamente."
+    },
+    "examples": [
+      {
+        "es": "¿Puedes revisar este archivo?",
+        "ru": "Можешь проверить этот файл?"
+      },
+      {
+        "es": "Reviso el código cada día.",
+        "ru": "Я проверяю код каждый день."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Voy a ___ el código ahora.",
+      "answer": "revisar",
+      "ru": "Сейчас я проверю код."
+    },
+    {
+      "type": "fill",
+      "es": "El ___ no funciona bien.",
+      "answer": "código",
+      "ru": "Код работает плохо."
+    },
+    {
+      "type": "build",
+      "es": "Reviso el código cuidadosamente antes de enviarlo.",
+      "ru": "Я внимательно проверяю код, прежде чем отправить его.",
+      "extra": [
+        "revisas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Проверь мой код, пожалуйста.",
+      "answer": [
+        "Revisa mi código, por favor.",
+        "¿Puedes revisar mi código?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

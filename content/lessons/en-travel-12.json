@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-12",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 12,
+  "level": "B1",
+  "title": {
+    "ru": "Обмен валюты",
+    "en": "Changing money",
+    "es": "Cambiar dinero"
+  },
+  "words": [
+    "change",
+    "exchange",
+    "abroad"
+  ],
+  "phrase": {
+    "en": "I'd like to change some money. What's the exchange rate?",
+    "ru": "Я хотел бы поменять деньги. Какой курс обмена?",
+    "es": "Quisiera cambiar dinero. ¿Cuál es el tipo de cambio?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Менять деньги — change money; exchange (сущ.) — обмен: exchange rate. money неисчисляемое: some money.",
+      "en": "We change money; an exchange is the swap itself: exchange rate. Money is uncountable: some money.",
+      "es": "change money; exchange rate. Money es incontable."
+    },
+    "examples": [
+      {
+        "en": "Can I change dollars here?",
+        "ru": "Могу я поменять здесь доллары?"
+      },
+      {
+        "en": "Is there a currency exchange nearby?",
+        "ru": "Рядом есть обмен валюты?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Where can I ___ euros?",
+      "answer": "change",
+      "ru": "Где можно поменять евро?"
+    },
+    {
+      "type": "fill",
+      "en": "What is the ___ rate today?",
+      "answer": "exchange",
+      "ru": "Каков сегодня курс обмена?"
+    },
+    {
+      "type": "build",
+      "en": "I want to change money before I go abroad.",
+      "ru": "Я хочу поменять деньги перед поездкой за границу.",
+      "extra": [
+        "exchanges"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Где я могу поменять деньги?",
+      "answer": [
+        "Where can I change money?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-25",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 25,
+  "level": "A2",
+  "title": {
+    "ru": "Городской транспорт",
+    "en": "Public transport",
+    "es": "Transporte público"
+  },
+  "words": [
+    "salir",
+    "autobús",
+    "diario"
+  ],
+  "phrase": {
+    "es": "El autobús sale a las ocho. Hay un servicio diario.",
+    "ru": "Автобус отправляется в восемь. Рейс ходит ежедневно.",
+    "en": "The bus leaves at eight. There is a daily service."
+  },
+  "rule": {
+    "text": {
+      "ru": "Выезжать — salir (yo salgo): sale, salimos. В транспорте — en autobús, а пешком — a pie. Diario — «ежедневный», одна форма для обоих родов.",
+      "en": "To leave: salir (yo salgo): sale, salimos. By transport: en autobús; on foot: a pie. Diario = daily.",
+      "es": "salir: salgo. en autobús / a pie. diario."
+    },
+    "examples": [
+      {
+        "es": "Salgo de casa a las siete.",
+        "ru": "Я выхожу из дома в семь."
+      },
+      {
+        "es": "Voy al centro en autobús.",
+        "ru": "Я еду в центр на автобусе."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "El autobús ___ cada diez minutos.",
+      "answer": "sale",
+      "ru": "Автобус отправляется каждые десять минут."
+    },
+    {
+      "type": "fill",
+      "es": "Tomamos el ___ al centro.",
+      "answer": "autobús",
+      "ru": "Мы едем в центр на автобусе."
+    },
+    {
+      "type": "build",
+      "es": "El autobús sale cada día a las ocho.",
+      "ru": "Автобус отправляется каждый день в восемь.",
+      "extra": [
+        "salgo"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Автобус отправляется в восемь.",
+      "answer": [
+        "El autobús sale a las ocho."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

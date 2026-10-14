@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-17",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 17,
+  "level": "A2",
+  "title": {
+    "ru": "Новый компьютер",
+    "en": "A new computer",
+    "es": "Un ordenador nuevo"
+  },
+  "words": [
+    "comprar",
+    "ordenador",
+    "nuevo"
+  ],
+  "phrase": {
+    "es": "Necesitamos comprar un ordenador nuevo. El viejo es muy lento.",
+    "ru": "Нам нужно купить новый компьютер. Старый очень медленный.",
+    "en": "We need to buy a new computer. The old one is very slow."
+  },
+  "rule": {
+    "text": {
+      "ru": "Нужно сделать — necesitar + инфинитив: necesitamos comprar. Прилагательное после существительного: ordenador nuevo. Старый — el viejo (опускаем существительное).",
+      "en": "Need to do: necesitar + infinitive: necesitamos comprar. The adjective follows the noun: ordenador nuevo. El viejo = the old one.",
+      "es": "necesitar + infinitivo. ordenador nuevo. el viejo."
+    },
+    "examples": [
+      {
+        "es": "Necesito un ordenador rápido.",
+        "ru": "Мне нужен быстрый компьютер."
+      },
+      {
+        "es": "Compro el ordenador en línea.",
+        "ru": "Я покупаю компьютер онлайн."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Hoy ___ un ordenador nuevo.",
+      "answer": "compramos",
+      "ru": "Сегодня мы покупаем новый компьютер."
+    },
+    {
+      "type": "fill",
+      "es": "Mi ___ es muy rápido.",
+      "answer": "ordenador",
+      "ru": "Мой компьютер очень быстрый."
+    },
+    {
+      "type": "build",
+      "es": "Necesitamos comprar un ordenador nuevo.",
+      "ru": "Нам нужно купить новый компьютер.",
+      "extra": [
+        "compras"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Мне нужен новый компьютер.",
+      "answer": [
+        "Necesito un ordenador nuevo."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

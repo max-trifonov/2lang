@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-13",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 13,
+  "level": "A2",
+  "title": {
+    "ru": "Перед релизом",
+    "en": "Before the release",
+    "es": "Antes del lanzamiento"
+  },
+  "words": [
+    "lanzar",
+    "versión",
+    "listo"
+  ],
+  "phrase": {
+    "es": "Vamos a lanzar la versión nueva. ¿Estás listo?",
+    "ru": "Мы запускаем новую версию. Ты готов?",
+    "en": "We are going to launch the new version. Are you ready?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Estar listo — «быть готовым» (временно); ser listo — «быть умным». Lanzar: lanzo, lanzas, lanza, lanzamos; yo lancé (z → c).",
+      "en": "Estar listo = to be ready (for now); ser listo = to be clever. Lanzar: lanzo, lanzas, lanza, lanzamos; preterite yo lancé (z → c).",
+      "es": "estar listo / ser listo. lancé (z → c)."
+    },
+    "examples": [
+      {
+        "es": "Estoy listo para empezar.",
+        "ru": "Я готов начать."
+      },
+      {
+        "es": "Lanzamos la app el lunes.",
+        "ru": "Мы запускаем приложение в понедельник."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "El lunes ___ la versión nueva.",
+      "answer": "lanzamos",
+      "ru": "В понедельник мы запускаем новую версию."
+    },
+    {
+      "type": "fill",
+      "es": "¿Está ___ el equipo?",
+      "answer": "listo",
+      "ru": "Команда готова?"
+    },
+    {
+      "type": "build",
+      "es": "Vamos a lanzar la versión cuando todo esté listo.",
+      "ru": "Мы запустим версию, когда всё будет готово.",
+      "extra": [
+        "lanzas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Мы запускаем новую версию.",
+      "answer": [
+        "Lanzamos la versión nueva.",
+        "Lanzamos una versión nueva."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

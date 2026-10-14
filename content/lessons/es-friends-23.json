@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-23",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 23,
+  "level": "A2",
+  "title": {
+    "ru": "Знакомство друзей",
+    "en": "Introducing friends",
+    "es": "Presentar a los amigos"
+  },
+  "words": [
+    "presentar",
+    "invitado",
+    "encantado"
+  ],
+  "phrase": {
+    "es": "Te presento a mi amigo Tom. Es nuestro invitado. Encantado.",
+    "ru": "Знакомься, это мой друг Том. Он наш гость. Очень приятно.",
+    "en": "This is my friend Tom. He's our guest. Nice to meet you."
+  },
+  "rule": {
+    "text": {
+      "ru": "Представить — presentar a + человек: te presento a Ana. Ответ — Encantado (мужчина) / Encantada (женщина), mucho gusto.",
+      "en": "To introduce: presentar a + person: te presento a Ana. Answer: Encantado (man) / Encantada (woman), mucho gusto.",
+      "es": "Te presento a… Encantado / encantada."
+    },
+    "examples": [
+      {
+        "es": "Te presento a mi hermana.",
+        "ru": "Знакомься, это моя сестра."
+      },
+      {
+        "es": "Mucho gusto.",
+        "ru": "Очень приятно."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Os ___ a mi amigo Pablo.",
+      "answer": "presento",
+      "ru": "Знакомлю вас с моим другом Пабло."
+    },
+    {
+      "type": "fill",
+      "es": "Mucho gusto, ___.",
+      "answer": "encantado",
+      "ru": "Очень приятно."
+    },
+    {
+      "type": "build",
+      "es": "Te presento a nuestro invitado de hoy.",
+      "ru": "Знакомься, наш сегодняшний гость.",
+      "extra": [
+        "presentas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Знакомься, это мой друг.",
+      "answer": [
+        "Te presento a mi amigo."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

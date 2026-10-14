@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-travel-16",
+  "lang": "es",
+  "kind": "words",
+  "topic": "travel",
+  "order": 16,
+  "level": "A2",
+  "title": {
+    "ru": "Потерялся чемодан",
+    "en": "A lost suitcase",
+    "es": "Maleta perdida"
+  },
+  "words": [
+    "perder",
+    "maleta",
+    "desgraciadamente"
+  ],
+  "phrase": {
+    "es": "Desgraciadamente, he perdido mi maleta. ¿Puede ayudarme?",
+    "ru": "К сожалению, я потерял чемодан. Вы можете мне помочь?",
+    "en": "Unfortunately, I've lost my suitcase. Can you help me?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Недавнее прошлое — pretérito perfecto: he perdido (haber + причастие). Perder: e → ie: pierdo, pierdes, pierde. Причастие perdido.",
+      "en": "Recent past: pretérito perfecto: he perdido (haber + participle). Perder: e → ie: pierdo, pierdes, pierde. Participle: perdido.",
+      "es": "he perdido. perder e → ie."
+    },
+    "examples": [
+      {
+        "es": "He perdido mi móvil.",
+        "ru": "Я потерял телефон."
+      },
+      {
+        "es": "¿Ha visto una maleta negra?",
+        "ru": "Вы не видели чёрный чемодан?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Creo que ___ mi maleta.",
+      "answer": "perdí",
+      "ru": "Кажется, я потерял чемодан."
+    },
+    {
+      "type": "fill",
+      "es": "Mi ___ es grande y negra.",
+      "answer": "maleta",
+      "ru": "Мой чемодан большой и чёрный."
+    },
+    {
+      "type": "build",
+      "es": "Desgraciadamente, perdimos la maleta.",
+      "ru": "К сожалению, мы потеряли чемодан.",
+      "extra": [
+        "pierdes"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я потерял чемодан.",
+      "answer": [
+        "He perdido mi maleta.",
+        "Perdí mi maleta."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

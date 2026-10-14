@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-22",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 22,
+  "level": "B1",
+  "title": {
+    "ru": "Если пойдёт дождь",
+    "en": "If it rains",
+    "es": "Si llueve"
+  },
+  "words": [
+    "cancel",
+    "rain",
+    "sunny"
+  ],
+  "phrase": {
+    "en": "If it rains, we'll cancel the picnic. If it's sunny, we'll go.",
+    "ru": "Если пойдёт дождь, мы отменим пикник. Если будет солнечно, поедем.",
+    "es": "Si llueve, cancelaremos el picnic. Si hace sol, iremos."
+  },
+  "rule": {
+    "text": {
+      "ru": "Реальное условие в будущем — if + Present Simple, will + глагол: If it rains, we will cancel. После if не ставим will.",
+      "en": "First conditional: if + Present Simple, will + verb: If it rains, we will cancel. Never put will after if.",
+      "es": "Primer condicional: if + Present Simple, will + verbo. No se usa will tras if."
+    },
+    "examples": [
+      {
+        "en": "If it's sunny, we'll go to the park.",
+        "ru": "Если будет солнечно, мы пойдём в парк."
+      },
+      {
+        "en": "If you come, I'll cook dinner.",
+        "ru": "Если ты придёшь, я приготовлю ужин."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "If it rains, we'll ___ the picnic.",
+      "answer": "cancel",
+      "ru": "Если пойдёт дождь, мы отменим пикник."
+    },
+    {
+      "type": "fill",
+      "en": "I hope it's ___ on Saturday.",
+      "answer": "sunny",
+      "ru": "Надеюсь, в субботу будет солнечно."
+    },
+    {
+      "type": "build",
+      "en": "If it rains, we will stay at home.",
+      "ru": "Если пойдёт дождь, мы останемся дома.",
+      "extra": [
+        "rainy"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Если будет дождь, мы отменим встречу.",
+      "answer": [
+        "If it rains, we'll cancel the meeting.",
+        "If it rains we will cancel the meeting."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

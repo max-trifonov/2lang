@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-11",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 11,
+  "level": "B1",
+  "title": {
+    "ru": "Давно не виделись",
+    "en": "Catching up",
+    "es": "Ponerse al día"
+  },
+  "words": [
+    "miss",
+    "news",
+    "lately"
+  ],
+  "phrase": {
+    "en": "I've missed you! What's your news? I haven't seen you lately.",
+    "ru": "Я скучал по тебе! Какие новости? Тебя давно не видно.",
+    "es": "¡Te he echado de menos! ¿Qué novedades hay? No te he visto últimamente."
+  },
+  "rule": {
+    "text": {
+      "ru": "Present Perfect для периода «до сих пор»: I haven't seen you lately. Слово news неисчисляемое: good news, а не a news.",
+      "en": "The Present Perfect covers \"up to now\": I haven't seen you lately. News is uncountable: good news, not a news.",
+      "es": "Present Perfect para «hasta ahora». News es incontable."
+    },
+    "examples": [
+      {
+        "en": "How have you been?",
+        "ru": "Как у тебя дела?"
+      },
+      {
+        "en": "I've got some good news.",
+        "ru": "У меня есть хорошие новости."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I've ___ you so much.",
+      "answer": "missed",
+      "ru": "Я так по тебе скучал."
+    },
+    {
+      "type": "fill",
+      "en": "Have you heard the ___?",
+      "answer": "news",
+      "ru": "Ты слышал новости?"
+    },
+    {
+      "type": "build",
+      "en": "I haven't seen him lately.",
+      "ru": "В последнее время я его не видел.",
+      "extra": [
+        "seeing"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я скучал по тебе.",
+      "answer": [
+        "I missed you.",
+        "I've missed you.",
+        "I have missed you."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

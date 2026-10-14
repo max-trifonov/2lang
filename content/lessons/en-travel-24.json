@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-24",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 24,
+  "level": "B1",
+  "title": {
+    "ru": "Сувениры",
+    "en": "Buying souvenirs",
+    "es": "Comprar recuerdos"
+  },
+  "words": [
+    "sell",
+    "price",
+    "expensive"
+  ],
+  "phrase": {
+    "en": "Do you sell postcards? The price is a bit expensive for me.",
+    "ru": "Вы продаёте открытки? Цена для меня немного высока.",
+    "es": "¿Venden postales? El precio es un poco caro para mí."
+  },
+  "rule": {
+    "text": {
+      "ru": "How much is…? / How much are…? — «сколько стоит» (are — для множественного числа). Слишком дорого — too expensive.",
+      "en": "How much is it? / How much are they? (are for plurals). Too expensive = more than I can pay.",
+      "es": "How much is / are…? too expensive = demasiado caro."
+    },
+    "examples": [
+      {
+        "en": "How much are these postcards?",
+        "ru": "Сколько стоят эти открытки?"
+      },
+      {
+        "en": "Can you give me a better price?",
+        "ru": "Можете сделать цену получше?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "They ___ local honey here.",
+      "answer": "sell",
+      "ru": "Здесь продают местный мёд."
+    },
+    {
+      "type": "fill",
+      "en": "That's too ___ for me.",
+      "answer": "expensive",
+      "ru": "Это слишком дорого для меня."
+    },
+    {
+      "type": "build",
+      "en": "What is the price of this bag?",
+      "ru": "Сколько стоит эта сумка?",
+      "extra": [
+        "prices"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Это слишком дорого.",
+      "answer": [
+        "That's too expensive.",
+        "It's too expensive.",
+        "This is too expensive."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

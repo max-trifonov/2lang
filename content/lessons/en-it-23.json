@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-23",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 23,
+  "level": "B1",
+  "title": {
+    "ru": "Тест упал",
+    "en": "A failed test",
+    "es": "Una prueba fallida"
+  },
+  "words": [
+    "fail",
+    "result-noun",
+    "unexpectedly"
+  ],
+  "phrase": {
+    "en": "The test failed unexpectedly. What's the result of the last run?",
+    "ru": "Тест неожиданно упал. Каков результат последнего запуска?",
+    "es": "La prueba falló inesperadamente. ¿Cuál es el resultado de la última ejecución?"
+  },
+  "rule": {
+    "text": {
+      "ru": "Прошедшее — Past Simple: The test failed. Result — результат, of the last run. Наречие unexpectedly стоит после глагола или перед ним.",
+      "en": "Past Simple: The test failed. A result of something: the result of the last run. Unexpectedly can go after or before the verb.",
+      "es": "Past Simple: The test failed. result of…"
+    },
+    "examples": [
+      {
+        "en": "The build failed again.",
+        "ru": "Сборка опять упала."
+      },
+      {
+        "en": "The result is correct.",
+        "ru": "Результат верный."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "The build ___ again last night.",
+      "answer": "failed",
+      "ru": "Сборка опять упала прошлой ночью."
+    },
+    {
+      "type": "fill",
+      "en": "What was the ___ of the test?",
+      "answer": "result",
+      "ru": "Каков был результат теста?"
+    },
+    {
+      "type": "build",
+      "en": "The test failed unexpectedly yesterday.",
+      "ru": "Тест неожиданно упал вчера.",
+      "extra": [
+        "fails"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Тест упал.",
+      "answer": [
+        "The test failed."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

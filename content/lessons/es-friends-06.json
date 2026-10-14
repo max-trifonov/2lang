@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-06",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 6,
+  "level": "A1",
+  "title": {
+    "ru": "Ужин у друзей",
+    "en": "Dinner at a friend's",
+    "es": "Cena en casa de un amigo"
+  },
+  "words": [
+    "cocinar",
+    "cena",
+    "rico"
+  ],
+  "phrase": {
+    "es": "Yo cocino la cena. ¡Está muy rica!",
+    "ru": "Я готовлю ужин. Очень вкусно!",
+    "en": "I'll cook dinner. It's very tasty!"
+  },
+  "rule": {
+    "text": {
+      "ru": "Вкус еды — estar + rico: la sopa está rica (сейчас, на вкус). Приготовить ужин — cocinar la cena. Прилагательное: rico / rica.",
+      "en": "Taste uses estar + rico: la sopa está rica. Cook dinner: cocinar la cena. Adjective agrees: rico / rica.",
+      "es": "La comida: está rica. cocinar la cena."
+    },
+    "examples": [
+      {
+        "es": "La paella está muy rica.",
+        "ru": "Паэлья очень вкусная."
+      },
+      {
+        "es": "¿Quién cocina hoy?",
+        "ru": "Кто сегодня готовит?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Hoy ___ yo.",
+      "answer": "cocino",
+      "ru": "Сегодня готовлю я."
+    },
+    {
+      "type": "fill",
+      "es": "La ___ es a las nueve.",
+      "answer": "cena",
+      "ru": "Ужин в девять."
+    },
+    {
+      "type": "build",
+      "es": "Mi padre cocina una cena muy rica.",
+      "ru": "Мой отец готовит очень вкусный ужин.",
+      "extra": [
+        "cocinas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Очень вкусно!",
+      "answer": [
+        "¡Está muy rico!",
+        "¡Está muy rica!"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

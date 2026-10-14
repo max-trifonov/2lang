@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-it-21",
+  "lang": "es",
+  "kind": "words",
+  "topic": "it",
+  "order": 21,
+  "level": "A2",
+  "title": {
+    "ru": "Работа из дома",
+    "en": "Working from home",
+    "es": "Trabajar desde casa"
+  },
+  "words": [
+    "trabajar",
+    "casa",
+    "flexible"
+  ],
+  "phrase": {
+    "es": "Trabajo desde casa los viernes. Mi horario es flexible.",
+    "ru": "По пятницам я работаю из дома. У меня гибкий график.",
+    "en": "I work from home on Fridays. My schedule is flexible."
+  },
+  "rule": {
+    "text": {
+      "ru": "Из дома — desde casa; дома — en casa; домой — a casa. Los viernes — «по пятницам». Flexible — одна форма для обоих родов.",
+      "en": "From home: desde casa; at home: en casa; home (to): a casa. Los viernes = on Fridays.",
+      "es": "desde casa / en casa / a casa. los viernes."
+    },
+    "examples": [
+      {
+        "es": "Estoy en casa hoy.",
+        "ru": "Сегодня я дома."
+      },
+      {
+        "es": "Voy a casa a las seis.",
+        "ru": "Я иду домой в шесть."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Los viernes ___ desde casa.",
+      "answer": "trabajo",
+      "ru": "По пятницам я работаю из дома."
+    },
+    {
+      "type": "fill",
+      "es": "Hoy me quedo en ___.",
+      "answer": "casa",
+      "ru": "Сегодня я остаюсь дома."
+    },
+    {
+      "type": "build",
+      "es": "Trabajo en casa con un horario flexible.",
+      "ru": "Я работаю дома по гибкому графику.",
+      "extra": [
+        "trabajas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я работаю дома.",
+      "answer": [
+        "Trabajo en casa.",
+        "Trabajo desde casa."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

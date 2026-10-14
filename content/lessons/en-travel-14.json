@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-14",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 14,
+  "level": "B1",
+  "title": {
+    "ru": "Завтрак в отеле",
+    "en": "Hotel breakfast",
+    "es": "Desayuno en el hotel"
+  },
+  "words": [
+    "serve",
+    "breakfast",
+    "fresh"
+  ],
+  "phrase": {
+    "en": "Breakfast is served from seven to ten. The bread is always fresh.",
+    "ru": "Завтрак подают с семи до десяти. Хлеб всегда свежий.",
+    "es": "El desayuno se sirve de siete a diez. El pan siempre está fresco."
+  },
+  "rule": {
+    "text": {
+      "ru": "Пассив — be + третья форма: Breakfast is served. Кто делает — не важно, важно что.",
+      "en": "The passive is be + past participle: Breakfast is served. We use it when the doer is not important.",
+      "es": "Pasiva: be + participio. Breakfast is served."
+    },
+    "examples": [
+      {
+        "en": "Dinner is served at eight.",
+        "ru": "Ужин подают в восемь."
+      },
+      {
+        "en": "Is breakfast included?",
+        "ru": "Завтрак включён?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Breakfast is ___ until ten.",
+      "answer": "served",
+      "ru": "Завтрак подают до десяти."
+    },
+    {
+      "type": "fill",
+      "en": "I'd like some ___ orange juice.",
+      "answer": "fresh",
+      "ru": "Мне свежевыжатый апельсиновый сок."
+    },
+    {
+      "type": "build",
+      "en": "We had breakfast on the hotel terrace.",
+      "ru": "Мы завтракали на террасе отеля.",
+      "extra": [
+        "serves"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Завтрак подают с семи часов.",
+      "answer": [
+        "Breakfast is served from seven.",
+        "Breakfast is served from seven o'clock."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

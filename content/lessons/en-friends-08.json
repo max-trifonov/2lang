@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-08",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 8,
+  "level": "B1",
+  "title": {
+    "ru": "Концерт",
+    "en": "At a concert",
+    "es": "En un concierto"
+  },
+  "words": [
+    "sing",
+    "band",
+    "loud"
+  ],
+  "phrase": {
+    "en": "The band is great, but it's too loud!",
+    "ru": "Группа отличная, но слишком громко!",
+    "es": "¡La banda es genial, pero hay demasiado ruido!"
+  },
+  "rule": {
+    "text": {
+      "ru": "too + прилагательное — «слишком»: too loud. enough ставится после прилагательного: loud enough.",
+      "en": "too + adjective means \"more than needed\": too loud. Enough goes after the adjective: loud enough.",
+      "es": "too + adjetivo = «demasiado». enough va detrás del adjetivo."
+    },
+    "examples": [
+      {
+        "en": "It's too crowded in here.",
+        "ru": "Здесь слишком людно."
+      },
+      {
+        "en": "Is the music loud enough?",
+        "ru": "Музыка достаточно громкая?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Everyone started to ___ along.",
+      "answer": "sing",
+      "ru": "Все начали подпевать."
+    },
+    {
+      "type": "fill",
+      "en": "The music is too ___ for me.",
+      "answer": "loud",
+      "ru": "Музыка для меня слишком громкая."
+    },
+    {
+      "type": "build",
+      "en": "The band sang our favorite song.",
+      "ru": "Группа спела нашу любимую песню.",
+      "extra": [
+        "sings"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Музыка слишком громкая.",
+      "answer": [
+        "The music is too loud."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

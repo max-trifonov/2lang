@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-25",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 25,
+  "level": "B1",
+  "title": {
+    "ru": "Документация",
+    "en": "Writing documentation",
+    "es": "Escribir documentación"
+  },
+  "words": [
+    "write",
+    "document",
+    "clearly"
+  ],
+  "phrase": {
+    "en": "Write the document clearly. Everyone should understand it.",
+    "ru": "Пишите документ понятно. Каждый должен его понять.",
+    "es": "Escribe el documento con claridad. Todos deberían entenderlo."
+  },
+  "rule": {
+    "text": {
+      "ru": "Write — wrote — written. Наречие clearly описывает глагол: write clearly, а не write clear. Everyone — единственное число: everyone understands.",
+      "en": "Write – wrote – written. Use the adverb: write clearly, not write clear. Everyone is singular: everyone understands.",
+      "es": "write – wrote – written. clearly con el verbo. Everyone = singular."
+    },
+    "examples": [
+      {
+        "en": "She wrote the guide last week.",
+        "ru": "Она написала руководство на прошлой неделе."
+      },
+      {
+        "en": "Everyone understands the plan.",
+        "ru": "Каждый понимает план."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I will ___ the instructions tomorrow.",
+      "answer": "write",
+      "ru": "Я напишу инструкции завтра."
+    },
+    {
+      "type": "fill",
+      "en": "Please read the ___ first.",
+      "answer": "document",
+      "ru": "Пожалуйста, сначала прочитайте документ."
+    },
+    {
+      "type": "build",
+      "en": "Write the document clearly, please.",
+      "ru": "Пожалуйста, пишите документ понятно.",
+      "extra": [
+        "writes"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Он написал документ.",
+      "answer": [
+        "He wrote the document.",
+        "He has written the document."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

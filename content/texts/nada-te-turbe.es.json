@@ -1,0 +1,123 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "nada-te-turbe",
+  "kind": "poem",
+  "lang": "es",
+  "license": "public-domain",
+  "title": {
+    "es": "Nada te turbe",
+    "ru": "Пусть ничто не тревожит тебя",
+    "en": "Let nothing disturb you"
+  },
+  "author": "Teresa de Ávila (siglo XVI)",
+  "level": "B1",
+  "tags": [
+    "classic",
+    "calm"
+  ],
+  "note": {
+    "ru": "Короткое стихотворение Терезы Авильской (XVI в.), его часто поют как молитву. Много простых глаголов в настоящем времени",
+    "en": "A short poem by Teresa of Ávila (16th c.), often sung as a prayer. Lots of simple present-tense verbs.",
+    "es": "Poema breve de Teresa de Ávila (s. XVI), a menudo cantado como oración. Muchos verbos sencillos en presente."
+  },
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "es": "Nada te turbe,",
+          "ru": "Пусть ничто не тревожит тебя,",
+          "en": "Let nothing disturb you,",
+          "phrases": [
+            {
+              "es": "Nada te turbe",
+              "ru": "пусть ничто не тревожит тебя",
+              "en": "let nothing disturb you",
+              "note": {
+                "ru": "turbe — форма конъюнктива (пожелание)"
+              }
+            }
+          ]
+        },
+        {
+          "es": "nada te espante,",
+          "ru": "пусть ничто не пугает тебя,",
+          "en": "let nothing frighten you,"
+        },
+        {
+          "es": "todo se pasa,",
+          "ru": "всё проходит,",
+          "en": "everything passes,",
+          "phrases": [
+            {
+              "es": "todo se pasa",
+              "ru": "всё проходит",
+              "en": "everything passes"
+            }
+          ]
+        },
+        {
+          "es": "Dios no se muda,",
+          "ru": "Бог не меняется,",
+          "en": "God does not change,"
+        },
+        {
+          "es": "la paciencia",
+          "ru": "терпение",
+          "en": "patience"
+        },
+        {
+          "es": "todo lo alcanza;",
+          "ru": "всего достигает;",
+          "en": "achieves everything;",
+          "phrases": [
+            {
+              "es": "todo lo alcanza",
+              "ru": "всего достигает",
+              "en": "achieves everything",
+              "note": {
+                "ru": "lo — «это», стоит перед глаголом"
+              }
+            }
+          ]
+        },
+        {
+          "es": "quien a Dios tiene",
+          "ru": "у кого есть Бог,",
+          "en": "whoever has God"
+        },
+        {
+          "es": "nada le falta:",
+          "ru": "тому ничего не недостаёт:",
+          "en": "lacks nothing:",
+          "phrases": [
+            {
+              "es": "nada le falta",
+              "ru": "ему ничего не недостаёт",
+              "en": "he lacks nothing",
+              "note": {
+                "ru": "faltar — «недоставать»; le — «ему»"
+              }
+            }
+          ]
+        },
+        {
+          "es": "solo Dios basta.",
+          "ru": "достаточно одного Бога.",
+          "en": "God alone is enough.",
+          "phrases": [
+            {
+              "es": "solo Dios basta",
+              "ru": "достаточно одного Бога",
+              "en": "God alone is enough",
+              "note": {
+                "ru": "bastar — «быть достаточным»"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

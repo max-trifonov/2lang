@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-23",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 23,
+  "level": "B1",
+  "title": {
+    "ru": "Знакомство друзей",
+    "en": "Introducing friends",
+    "es": "Presentar a los amigos"
+  },
+  "words": [
+    "introduce",
+    "guest",
+    "pleased"
+  ],
+  "phrase": {
+    "en": "Let me introduce my friend Tom. He's our guest tonight.",
+    "ru": "Позвольте представить моего друга Тома. Он наш гость сегодня вечером.",
+    "es": "Te presento a mi amigo Tom. Es nuestro invitado esta noche."
+  },
+  "rule": {
+    "text": {
+      "ru": "Знакомство — This is… / Let me introduce…. Ответ — Nice to meet you / Pleased to meet you.",
+      "en": "To introduce: This is… or Let me introduce…. Answer with Nice to meet you or Pleased to meet you.",
+      "es": "Presentar: This is… / Let me introduce… Responder: Nice to meet you."
+    },
+    "examples": [
+      {
+        "en": "This is my sister, Anna.",
+        "ru": "Это моя сестра Анна."
+      },
+      {
+        "en": "Pleased to meet you!",
+        "ru": "Очень приятно с вами познакомиться!"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Let me ___ my colleague, Maria.",
+      "answer": "introduce",
+      "ru": "Позвольте представить мою коллегу Марию."
+    },
+    {
+      "type": "fill",
+      "en": "We have a special ___ tonight.",
+      "answer": "guest",
+      "ru": "Сегодня вечером у нас особый гость."
+    },
+    {
+      "type": "build",
+      "en": "I'm pleased to meet you.",
+      "ru": "Рад с вами познакомиться.",
+      "extra": [
+        "introduces"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Это мой друг.",
+      "answer": [
+        "This is my friend."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "caminante-no-hay-camino",
+  "kind": "poem",
+  "lang": "es",
+  "license": "public-domain",
+  "title": {
+    "es": "Caminante, no hay camino",
+    "ru": "Путник, нет дороги",
+    "en": "Wayfarer, there is no road"
+  },
+  "author": "Antonio Machado (1912)",
+  "year": 1912,
+  "level": "B2",
+  "tags": [
+    "life",
+    "classic"
+  ],
+  "note": {
+    "ru": "Стихотворение из «Пословиц и песен» Мачадо (XXIX). Главная мысль: дорога появляется, когда идёшь",
+    "en": "From Machado's Proverbios y cantares (XXIX). The idea: the road is made by walking.",
+    "es": "De Proverbios y cantares (XXIX) de Machado. Idea: el camino se hace al andar."
+  },
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "es": "Caminante, son tus huellas",
+          "ru": "Путник, твои следы",
+          "en": "Wayfarer, your footprints",
+          "phrases": [
+            {
+              "es": "Caminante",
+              "ru": "путник",
+              "en": "wayfarer, walker",
+              "note": {
+                "ru": "caminar → caminante: «тот, кто идёт»"
+              }
+            }
+          ]
+        },
+        {
+          "es": "el camino y nada más;",
+          "ru": "и есть дорога, и ничего больше;",
+          "en": "are the road and nothing more;",
+          "phrases": [
+            {
+              "es": "nada más",
+              "ru": "ничего больше",
+              "en": "nothing more"
+            }
+          ]
+        },
+        {
+          "es": "caminante, no hay camino,",
+          "ru": "путник, нет дороги,",
+          "en": "wayfarer, there is no road,",
+          "phrases": [
+            {
+              "es": "no hay camino",
+              "ru": "нет дороги",
+              "en": "there is no road",
+              "note": {
+                "ru": "hay — «есть, имеется»; no hay — «нет»"
+              }
+            }
+          ]
+        },
+        {
+          "es": "se hace camino al andar.",
+          "ru": "дорога прокладывается при ходьбе.",
+          "en": "the road is made by walking.",
+          "phrases": [
+            {
+              "es": "se hace camino al andar",
+              "ru": "дорога делается на ходу",
+              "en": "the road is made by walking",
+              "note": {
+                "ru": "al + инфинитив — «когда, в процессе»"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "es": "Al andar se hace camino,",
+          "ru": "Идя, прокладываешь дорогу,",
+          "en": "By walking the road is made,"
+        },
+        {
+          "es": "y al volver la vista atrás",
+          "ru": "и, оглянувшись назад,",
+          "en": "and on looking back",
+          "phrases": [
+            {
+              "es": "al volver la vista atrás",
+              "ru": "оглянувшись назад",
+              "en": "on looking back"
+            }
+          ]
+        },
+        {
+          "es": "se ve la senda que nunca",
+          "ru": "видишь тропу, по которой уже никогда",
+          "en": "you see the path that will never"
+        },
+        {
+          "es": "se ha de volver a pisar.",
+          "ru": "не придётся ступать снова.",
+          "en": "be trodden again."
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "es": "Caminante, no hay camino,",
+          "ru": "Путник, нет дороги,",
+          "en": "Wayfarer, there is no road,"
+        },
+        {
+          "es": "sino estelas en la mar.",
+          "ru": "лишь следы на море.",
+          "en": "only wakes upon the sea.",
+          "phrases": [
+            {
+              "es": "sino",
+              "ru": "а лишь, но",
+              "en": "but only",
+              "note": {
+                "ru": "sino — «а, но» после отрицания"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

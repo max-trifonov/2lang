@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-26",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 26,
+  "level": "B1",
+  "title": {
+    "ru": "Вечер настольных игр",
+    "en": "Game night",
+    "es": "Noche de juegos"
+  },
+  "words": [
+    "play",
+    "game",
+    "funny"
+  ],
+  "phrase": {
+    "en": "Let's play a game tonight. It's a funny one!",
+    "ru": "Давай сегодня сыграем в игру. Она очень смешная!",
+    "es": "Juguemos a un juego esta noche. ¡Es muy divertido!"
+  },
+  "rule": {
+    "text": {
+      "ru": "Играть в игру — play a game (без предлога in). Whose turn is it? — «Чья очередь?» — It's your turn. Funny — «смешной», fun — «весёлое занятие».",
+      "en": "We play a game, play football (no preposition). Whose turn is it? It's your turn. Funny = makes you laugh.",
+      "es": "play a game. It's your turn."
+    },
+    "examples": [
+      {
+        "en": "Whose turn is it?",
+        "ru": "Чья очередь?"
+      },
+      {
+        "en": "It's your turn to play.",
+        "ru": "Твоя очередь играть."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We often ___ cards on Fridays.",
+      "answer": "play",
+      "ru": "По пятницам мы часто играем в карты."
+    },
+    {
+      "type": "fill",
+      "en": "This ___ is easy to learn.",
+      "answer": "game",
+      "ru": "В эту игру легко научиться играть."
+    },
+    {
+      "type": "build",
+      "en": "We played a funny game last night.",
+      "ru": "Вчера вечером мы сыграли в смешную игру.",
+      "extra": [
+        "plays"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Давай сыграем в игру.",
+      "answer": [
+        "Let's play a game."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

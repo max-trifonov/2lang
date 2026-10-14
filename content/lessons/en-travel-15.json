@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-travel-15",
+  "lang": "en",
+  "kind": "words",
+  "topic": "travel",
+  "order": 15,
+  "level": "B1",
+  "title": {
+    "ru": "Аренда машины",
+    "en": "Renting a car",
+    "es": "Alquilar un coche"
+  },
+  "words": [
+    "hire",
+    "license",
+    "available"
+  ],
+  "phrase": {
+    "en": "I'd like to hire a car. Is a small one available? Here's my license.",
+    "ru": "Я хотел бы взять машину напрокат. Есть ли маленькая? Вот мои права.",
+    "es": "Quisiera alquilar un coche. ¿Hay uno pequeño disponible? Aquí tiene mi carné."
+  },
+  "rule": {
+    "text": {
+      "ru": "Британское hire a car = американское rent a car. Is… available? — есть ли в наличии. driver's license — водительские права.",
+      "en": "British hire a car = American rent a car. Is… available? asks about availability. Driver's license.",
+      "es": "hire (UK) = rent (US). Is… available? licencia de conducir = driver's license."
+    },
+    "examples": [
+      {
+        "en": "Is a room available tonight?",
+        "ru": "Есть ли свободный номер на сегодня?"
+      },
+      {
+        "en": "Do you have a driver's license?",
+        "ru": "У вас есть водительские права?"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "We want to ___ a car for three days.",
+      "answer": "hire",
+      "ru": "Мы хотим взять машину на три дня."
+    },
+    {
+      "type": "fill",
+      "en": "Is a double room ___ tonight?",
+      "answer": "available",
+      "ru": "Есть ли двухместный номер на сегодня?"
+    },
+    {
+      "type": "build",
+      "en": "I need my license to hire a car.",
+      "ru": "Для аренды машины мне нужны права.",
+      "extra": [
+        "hires"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "У вас есть свободные машины?",
+      "answer": [
+        "Do you have any cars available?",
+        "Are there any cars available?",
+        "Do you have cars available?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-03",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 3,
+  "level": "B1",
+  "title": {
+    "ru": "Планы на выходные",
+    "en": "Weekend plans",
+    "es": "Planes para el fin de semana"
+  },
+  "words": [
+    "plan",
+    "weekend",
+    "probably"
+  ],
+  "phrase": {
+    "en": "What are you doing this weekend? I'm probably going to the lake.",
+    "ru": "Что делаешь на выходных? Я, скорее всего, поеду на озеро.",
+    "es": "¿Qué haces este fin de semana? Probablemente iré al lago."
+  },
+  "rule": {
+    "text": {
+      "ru": "Договорённость на ближайшее будущее — Present Continuous: I'm meeting Anna on Saturday. Предположение — probably стоит между will / am и глаголом.",
+      "en": "For arrangements, use the Present Continuous: I'm meeting Anna on Saturday. Probably goes after will / am and before the main verb.",
+      "es": "Planes ya organizados: Present Continuous. Probably va entre will / am y el verbo."
+    },
+    "examples": [
+      {
+        "en": "I'm seeing friends on Saturday.",
+        "ru": "В субботу я встречаюсь с друзьями."
+      },
+      {
+        "en": "We'll probably stay home.",
+        "ru": "Мы, скорее всего, останемся дома."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "What's your ___ for the weekend?",
+      "answer": "plan",
+      "ru": "Какие у тебя планы на выходные?"
+    },
+    {
+      "type": "fill",
+      "en": "We will ___ go to the beach.",
+      "answer": "probably",
+      "ru": "Мы, скорее всего, поедем на пляж."
+    },
+    {
+      "type": "build",
+      "en": "We are planning a trip this weekend.",
+      "ru": "Мы планируем поездку на эти выходные.",
+      "extra": [
+        "plans"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Какие у тебя планы на выходные?",
+      "answer": [
+        "What are your plans for the weekend?",
+        "What are your plans for this weekend?"
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

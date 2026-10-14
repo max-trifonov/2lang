@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-friends-15",
+  "lang": "es",
+  "kind": "words",
+  "topic": "friends",
+  "order": 15,
+  "level": "A2",
+  "title": {
+    "ru": "Согласен и не согласен",
+    "en": "Agreeing and disagreeing",
+    "es": "Estar de acuerdo"
+  },
+  "words": [
+    "opinar",
+    "opinión",
+    "sinceramente"
+  ],
+  "phrase": {
+    "es": "Sinceramente, opino que es una buena idea. Mi opinión es clara.",
+    "ru": "Честно говоря, я считаю, что это хорошая идея. Моё мнение ясно.",
+    "en": "Honestly, I think it's a good idea. My opinion is clear."
+  },
+  "rule": {
+    "text": {
+      "ru": "Мнение — opinar que / en mi opinión. Согласие — estoy de acuerdo; «я тоже» — yo también, «я тоже нет» — yo tampoco.",
+      "en": "Opinion: opinar que / en mi opinión. Agreement: estoy de acuerdo; yo también = me too; yo tampoco = me neither.",
+      "es": "opinar que. estoy de acuerdo. yo también / yo tampoco."
+    },
+    "examples": [
+      {
+        "es": "No me gusta. — A mí tampoco.",
+        "ru": "Мне не нравится. — Мне тоже."
+      },
+      {
+        "es": "Estoy de acuerdo contigo.",
+        "ru": "Я с тобой согласен."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "es": "Yo ___ que es mejor ir en tren.",
+      "answer": "opino",
+      "ru": "Я считаю, что лучше поехать на поезде."
+    },
+    {
+      "type": "fill",
+      "es": "En mi ___, el rojo es mejor.",
+      "answer": "opinión",
+      "ru": "По-моему, красный лучше."
+    },
+    {
+      "type": "build",
+      "es": "Sinceramente, mi opinión es diferente.",
+      "ru": "Честно говоря, у меня другое мнение.",
+      "extra": [
+        "opinas"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "По-моему, это хорошая идея.",
+      "answer": [
+        "En mi opinión, es una buena idea."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

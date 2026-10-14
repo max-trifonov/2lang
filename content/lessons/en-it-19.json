@@ -1,0 +1,76 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-it-19",
+  "lang": "en",
+  "kind": "words",
+  "topic": "it",
+  "order": 19,
+  "level": "B1",
+  "title": {
+    "ru": "Поиск записи",
+    "en": "Finding a record",
+    "es": "Buscar un registro"
+  },
+  "words": [
+    "search",
+    "record-noun",
+    "quickly"
+  ],
+  "phrase": {
+    "en": "You can search for any record quickly. Just type the name.",
+    "ru": "Вы можете быстро найти любую запись. Просто введите имя.",
+    "es": "Puedes buscar cualquier registro rápidamente. Solo escribe el nombre."
+  },
+  "rule": {
+    "text": {
+      "ru": "search for — искать что-то: search for a name; search the database — искать в чём-то. Record (сущ.) — ударение на первый слог.",
+      "en": "We search for a thing and search a place: search for a name; search the database.",
+      "es": "search for + cosa; search + lugar."
+    },
+    "examples": [
+      {
+        "en": "Search for the file by name.",
+        "ru": "Найди файл по имени."
+      },
+      {
+        "en": "I'm searching for a record.",
+        "ru": "Я ищу запись."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "Let me ___ for your name.",
+      "answer": "search",
+      "ru": "Позволь поискать твоё имя."
+    },
+    {
+      "type": "fill",
+      "en": "There is no ___ with this name.",
+      "answer": "record",
+      "ru": "Записи с таким именем нет."
+    },
+    {
+      "type": "build",
+      "en": "Please search for the record quickly.",
+      "ru": "Пожалуйста, быстро найдите запись.",
+      "extra": [
+        "searches"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я ищу файл.",
+      "answer": [
+        "I'm looking for a file.",
+        "I am searching for a file.",
+        "I'm searching for a file."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

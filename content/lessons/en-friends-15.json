@@ -1,0 +1,74 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-friends-15",
+  "lang": "en",
+  "kind": "words",
+  "topic": "friends",
+  "order": 15,
+  "level": "B1",
+  "title": {
+    "ru": "Согласен и не согласен",
+    "en": "Agreeing and disagreeing",
+    "es": "Estar de acuerdo"
+  },
+  "words": [
+    "agree",
+    "opinion",
+    "honestly"
+  ],
+  "phrase": {
+    "en": "Honestly, I agree with you. In my opinion, it's a great idea.",
+    "ru": "Честно, я с тобой согласен. По-моему, это отличная идея.",
+    "es": "Sinceramente, estoy de acuerdo. En mi opinión, es una gran idea."
+  },
+  "rule": {
+    "text": {
+      "ru": "Согласиться — agree with someone, а не *agree to someone. Мнение — In my opinion… / I think… Согласие с отрицанием — Neither do I.",
+      "en": "We agree with someone: I agree with you. Give an opinion with In my opinion… or I think… Neither do I agrees with a negative.",
+      "es": "agree with + persona. Opinión: In my opinion… Neither do I = yo tampoco."
+    },
+    "examples": [
+      {
+        "en": "I don't agree with you.",
+        "ru": "Я с тобой не согласен."
+      },
+      {
+        "en": "I don't like it. — Neither do I.",
+        "ru": "Мне не нравится. — Мне тоже."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill",
+      "en": "I totally ___ with Tom.",
+      "answer": "agree",
+      "ru": "Я полностью согласен с Томом."
+    },
+    {
+      "type": "fill",
+      "en": "In my ___, the red one is better.",
+      "answer": "opinion",
+      "ru": "По-моему, красный лучше."
+    },
+    {
+      "type": "build",
+      "en": "Honestly, I don't agree with you.",
+      "ru": "Честно говоря, я с тобой не согласен.",
+      "extra": [
+        "agrees"
+      ]
+    },
+    {
+      "type": "translate",
+      "ru": "Я с тобой согласен.",
+      "answer": [
+        "I agree with you."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}
