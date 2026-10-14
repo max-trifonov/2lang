@@ -26,10 +26,12 @@ import {
 import { LangBadge } from '@/features/language'
 import {
   PracticeTask,
+  RuleLinks,
   WordIntro,
   answerPractice,
   buildPractice,
   currentTask,
+  grammarRefs,
   introSteps,
   lessonWords,
   loadLessons,
@@ -37,6 +39,7 @@ import {
   practiceScore,
   startPractice,
   useLessonProgressStore,
+  type GrammarLesson,
   type IntroStep,
   type Practice,
   type WordsLesson,
@@ -56,6 +59,8 @@ const cards = useCardsStore()
 const activity = useActivityStore()
 
 const lesson = ref<WordsLesson | null>(null)
+/** Отсылки к правилам грамматики (D-38): на шаге мини-правила и в итоге. */
+const rules = ref<GrammarLesson[]>([])
 const words = ref<CatalogEntry[]>([])
 const intro = ref<IntroStep[]>([])
 const step = ref(0)
@@ -67,11 +72,13 @@ async function load(): Promise<void> {
   status.value = 'loading'
   try {
     const id = String(route.params.id ?? '')
-    const found = (await loadLessons()).find((l) => l.id === id)
+    const all = await loadLessons()
+    const found = all.find((l) => l.id === id)
     if (found?.kind !== 'words') {
       status.value = 'missing'
       return
     }
+    rules.value = grammarRefs(found.see, all)
     const entries = await loadLanguage(found.lang)
     lesson.value = found
     words.value = lessonWords(found, entries)
@@ -242,6 +249,7 @@ function close(): void {
                 <span class="lesson__muted">{{ translationOf(ex) }}</span>
               </li>
             </ul>
+            <RuleLinks :rules="rules" :title="t('lessons.grammar.more')" />
           </template>
 
           <div class="lesson__bottom">
@@ -292,6 +300,7 @@ function close(): void {
               </RouterLink>
             </li>
           </ul>
+          <RuleLinks :rules="rules" :title="t('lessons.grammar.more')" class="lesson__rules" />
           <div class="lesson__bottom">
             <UiButton full-width size="lg" @click="close">{{ t('lessons.summary.done') }}</UiButton>
             <UiButton variant="ghost" full-width @click="load">{{
@@ -460,6 +469,7 @@ function close(): void {
   margin-top: -8px;
 }
 
+.lesson__summary .lesson__rules,
 .lesson__summary .lesson__label,
 .lesson__summary .lesson__words,
 .lesson__summary .lesson__bottom {

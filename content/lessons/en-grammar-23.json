@@ -1,0 +1,187 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-23",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "modals",
+  "code": "EN-23",
+  "order": 23,
+  "level": "A2",
+  "title": {
+    "ru": "Нужно и нельзя: must, have to, don't have to, mustn't",
+    "en": "Obligation: must, have to, don't have to, mustn't",
+    "es": "Obligación: must, have to, don't have to, mustn't"
+  },
+  "see": [
+    "en-grammar-24",
+    "en-grammar-15"
+  ],
+  "pattern": [
+    {
+      "en": "I have to work tomorrow.",
+      "ru": "Мне нужно работать завтра."
+    },
+    {
+      "en": "You must wear a helmet.",
+      "ru": "Ты должен надеть шлем."
+    },
+    {
+      "en": "You don't have to pay — it's free.",
+      "ru": "Платить не нужно — это бесплатно."
+    },
+    {
+      "en": "You mustn't smoke here.",
+      "ru": "Здесь нельзя курить."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "have to — обязанность из-за обстоятельств и правил (I have to get up early); must — сильнее, от говорящего или в инструкциях (You must see this film!). Главная ловушка: don't have to — «не обязательно», а mustn't — «нельзя». В прошлом и будущем — только have to: I had to wait, You'll have to pay.",
+      "en": "have to = obligation from circumstances or rules; must = stronger, from the speaker or in instructions. Trap: don't have to = not necessary; mustn't = prohibited. Past and future use have to: I had to wait.",
+      "es": "have to / must = obligación; don't have to = no es necesario; mustn't = prohibido."
+    },
+    "formula": "must / have to + V — нужно · don't have to — не обязательно · mustn't — нельзя",
+    "table": {
+      "head": [
+        "форма",
+        "смысл",
+        "пример"
+      ],
+      "rows": [
+        [
+          "have to",
+          "нужно (обстоятельства)",
+          "I have to get up at six."
+        ],
+        [
+          "must",
+          "должен (сильно, правило)",
+          "You must show your passport."
+        ],
+        [
+          "don't have to",
+          "не обязательно",
+          "You don't have to come."
+        ],
+        [
+          "mustn't",
+          "нельзя",
+          "You mustn't park here."
+        ],
+        [
+          "had to",
+          "пришлось (прошлое)",
+          "We had to wait."
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "now",
+        "until": "future",
+        "label": {
+          "ru": "обязанность сейчас или впереди",
+          "en": "an obligation now or ahead",
+          "es": "una obligación ahora o más adelante"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-20",
+      "formula": "tener que / deber / no tener que",
+      "examples": [
+        {
+          "es": "Tengo que trabajar mañana.",
+          "ru": "Мне нужно работать завтра."
+        }
+      ],
+      "note": {
+        "ru": "почти 1:1; don't have to = no tengo que"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "She has to wear a uniform.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "She doesn't have to wear a uniform.",
+            "She does not have to wear a uniform."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Does she have to wear a uniform?"
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "I have to wait.",
+      "into": [
+        {
+          "form": "past",
+          "answer": "I had to wait."
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "It's a secret. You ___ tell anyone!",
+      "options": [
+        "mustn't",
+        "don't have to"
+      ],
+      "answer": "mustn't",
+      "ru": "Это секрет. Никому нельзя рассказывать!"
+    },
+    {
+      "type": "choose",
+      "en": "It's Sunday, so I ___ get up early.",
+      "options": [
+        "mustn't",
+        "don't have to"
+      ],
+      "answer": "don't have to",
+      "ru": "Сегодня воскресенье, так что рано вставать не обязательно."
+    },
+    {
+      "type": "choose",
+      "en": "He ___ work late yesterday.",
+      "options": [
+        "must",
+        "had to"
+      ],
+      "answer": "had to",
+      "ru": "Вчера ему пришлось работать допоздна."
+    },
+    {
+      "type": "build",
+      "en": "We have to finish the project by Friday.",
+      "ru": "Нам нужно закончить проект к пятнице.",
+      "extra": [
+        "has"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вам нужно делать на работе и чего делать не обязательно.",
+        "en": "Write what you have to do at work and what you don't have to do.",
+        "es": "Escribe qué tienes que hacer en el trabajo y qué no."
+      },
+      "template": "I have to … I don't have to …",
+      "sample": "I have to answer emails. I don't have to wear a suit."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

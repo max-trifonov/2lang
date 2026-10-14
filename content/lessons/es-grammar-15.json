@@ -1,0 +1,152 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-15",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "pronouns",
+  "code": "ES-15",
+  "order": 15,
+  "level": "A1",
+  "title": {
+    "ru": "Указательные: este, ese, aquel",
+    "en": "Demonstratives: este, ese, aquel",
+    "es": "Demostrativos: este, ese, aquel"
+  },
+  "see": [
+    "es-grammar-14"
+  ],
+  "pattern": [
+    {
+      "es": "Este hotel es muy cómodo.",
+      "ru": "Этот отель очень удобный."
+    },
+    {
+      "es": "¿Cuánto cuesta esa camisa?",
+      "ru": "Сколько стоит та рубашка?"
+    },
+    {
+      "es": "Aquella playa está lejos.",
+      "ru": "Тот пляж (вон там) далеко."
+    },
+    {
+      "es": "¿Qué es esto?",
+      "ru": "Что это?"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Три расстояния: este — рядом со мной, ese — рядом с тобой или недалеко, aquel — далеко от обоих. Согласуются: esta mesa, estos días, esas maletas. esto, eso, aquello — «это» про неизвестное или ситуацию: ¿Qué es esto? Eso es.",
+      "en": "Three distances: este near me, ese near you or not far, aquel far from both. They agree: esta mesa, estos días. esto, eso, aquello = “this / that” for unknown things or situations: ¿Qué es esto?",
+      "es": "este (cerca de mí), ese (cerca de ti), aquel (lejos). Neutros: esto, eso, aquello."
+    },
+    "formula": "este (здесь) · ese (там, у тебя) · aquel (вон там, далеко)",
+    "table": {
+      "head": [
+        "",
+        "муж.",
+        "жен.",
+        "мн. ч.",
+        "средн."
+      ],
+      "rows": [
+        [
+          "здесь",
+          "este",
+          "esta",
+          "estos, estas",
+          "esto"
+        ],
+        [
+          "там",
+          "ese",
+          "esa",
+          "esos, esas",
+          "eso"
+        ],
+        [
+          "вон там",
+          "aquel",
+          "aquella",
+          "aquellos, aquellas",
+          "aquello"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-13",
+      "formula": "this / that, these / those",
+      "examples": [
+        {
+          "en": "How much is that shirt?",
+          "ru": "Сколько стоит та рубашка?"
+        }
+      ],
+      "note": {
+        "ru": "в английском два расстояния, в испанском три"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "___ semana tengo mucho trabajo.",
+      "options": [
+        "Este",
+        "Esta"
+      ],
+      "answer": "Esta",
+      "ru": "На этой неделе у меня много работы."
+    },
+    {
+      "type": "choose",
+      "es": "¿Qué es ___?",
+      "options": [
+        "este",
+        "esto"
+      ],
+      "answer": "esto",
+      "ru": "Что это?"
+    },
+    {
+      "type": "choose",
+      "es": "___ montañas de allí son muy altas.",
+      "options": [
+        "Estas",
+        "Aquellas"
+      ],
+      "answer": "Aquellas",
+      "ru": "Те горы вон там очень высокие."
+    },
+    {
+      "type": "fill",
+      "es": "___ días trabajo desde casa. (этот)",
+      "answer": "Estos",
+      "ru": "В эти дни я работаю из дома."
+    },
+    {
+      "type": "build",
+      "es": "Esta habitación es más grande.",
+      "ru": "Этот номер больше.",
+      "extra": [
+        "este"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Вы в магазине: спросите цену двух вещей, рядом и подальше.",
+        "en": "You are in a shop: ask the price of two things, near and further away.",
+        "es": "Estás en una tienda: pregunta el precio de dos cosas."
+      },
+      "template": "¿Cuánto cuesta …?",
+      "sample": "¿Cuánto cuesta esta camiseta? ¿Y esa chaqueta?"
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

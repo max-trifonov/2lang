@@ -1,0 +1,162 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-17",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "verbs",
+  "code": "ES-17",
+  "order": 17,
+  "level": "A1",
+  "title": {
+    "ru": "Глаголы с чередованием: quiero, puedo, pido",
+    "en": "Stem-changing verbs: quiero, puedo, pido",
+    "es": "Verbos con cambio vocálico: quiero, puedo, pido"
+  },
+  "see": [
+    "es-grammar-16",
+    "es-grammar-19"
+  ],
+  "words": [
+    "querer",
+    "poder",
+    "pedir"
+  ],
+  "pattern": [
+    {
+      "es": "Quiero un café, por favor.",
+      "ru": "Мне кофе, пожалуйста."
+    },
+    {
+      "es": "¿Puedes ayudarme?",
+      "ru": "Можешь мне помочь?"
+    },
+    {
+      "es": "Pedimos la cuenta.",
+      "ru": "Мы просим счёт."
+    },
+    {
+      "es": "El concierto empieza a las nueve.",
+      "ru": "Концерт начинается в девять."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "В ударном слоге гласная корня меняется: querer → quiero, poder → puedo, pedir → pido. В формах «мы» и «вы» ударение уходит на окончание — и гласная не меняется: queremos, podemos, pedimos. Так же: empezar (empieza), entender, volver (vuelvo), dormir, jugar (juego), repetir.",
+      "en": "In the stressed syllable the stem vowel changes: quiero, puedo, pido. In nosotros / vosotros the stress moves to the ending, so no change: queremos, podemos. Also empezar, entender, volver, dormir, jugar (juego), repetir.",
+      "es": "Cambio en la sílaba tónica: e → ie, o → ue, e → i. Nosotros y vosotros, sin cambio."
+    },
+    "formula": "e → ie · o → ue · e → i (кроме «мы» и «вы»)",
+    "table": {
+      "head": [
+        "",
+        "querer (e→ie)",
+        "poder (o→ue)",
+        "pedir (e→i)"
+      ],
+      "rows": [
+        [
+          "yo",
+          "quiero",
+          "puedo",
+          "pido"
+        ],
+        [
+          "tú",
+          "quieres",
+          "puedes",
+          "pides"
+        ],
+        [
+          "él, ella, usted",
+          "quiere",
+          "puede",
+          "pide"
+        ],
+        [
+          "nosotros",
+          "queremos",
+          "podemos",
+          "pedimos"
+        ],
+        [
+          "vosotros",
+          "queréis",
+          "podéis",
+          "pedís"
+        ],
+        [
+          "ellos, ustedes",
+          "quieren",
+          "pueden",
+          "piden"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Nosotros ___ ir en tren.",
+      "options": [
+        "queremos",
+        "quieremos"
+      ],
+      "answer": "queremos",
+      "ru": "Мы хотим поехать на поезде."
+    },
+    {
+      "type": "choose",
+      "es": "¿A qué hora ___ la película?",
+      "options": [
+        "empeza",
+        "empieza"
+      ],
+      "answer": "empieza",
+      "ru": "Во сколько начинается фильм?"
+    },
+    {
+      "type": "choose",
+      "es": "Yo no ___ bien por la noche.",
+      "options": [
+        "dormo",
+        "duermo"
+      ],
+      "answer": "duermo",
+      "ru": "Я плохо сплю ночью."
+    },
+    {
+      "type": "fill",
+      "es": "Ella ___ una mesa para dos. (pedir)",
+      "answer": "pide",
+      "ru": "Она просит столик на двоих."
+    },
+    {
+      "type": "fill",
+      "es": "Mi hijo ___ al fútbol. (jugar)",
+      "answer": "juega",
+      "ru": "Мой сын играет в футбол."
+    },
+    {
+      "type": "build",
+      "es": "No entiendo la pregunta.",
+      "ru": "Я не понимаю вопрос.",
+      "extra": [
+        "entendo"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Вы в кафе: закажите что-нибудь и спросите, можно ли расплатиться картой.",
+        "en": "In a café: order something and ask if you can pay by card.",
+        "es": "En un café: pide algo y pregunta si puedes pagar con tarjeta."
+      },
+      "template": "Quiero … ¿Puedo …?",
+      "sample": "Quiero un café con leche. ¿Puedo pagar con tarjeta?"
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

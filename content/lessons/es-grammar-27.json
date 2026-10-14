@@ -1,0 +1,192 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-27",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "ES-27",
+  "order": 27,
+  "level": "A2",
+  "title": {
+    "ru": "Pretérito perfecto: he hecho, has visto",
+    "en": "Present perfect: he hecho, has visto",
+    "es": "Pretérito perfecto: he hecho, has visto"
+  },
+  "see": [
+    "es-grammar-30",
+    "es-grammar-25"
+  ],
+  "pattern": [
+    {
+      "es": "He terminado la tarea.",
+      "ru": "Я закончил задачу."
+    },
+    {
+      "es": "¿Has estado en México?",
+      "ru": "Ты был в Мексике?"
+    },
+    {
+      "es": "Hoy hemos tenido tres reuniones.",
+      "ru": "Сегодня у нас было три совещания."
+    },
+    {
+      "es": "Todavía no he comido.",
+      "ru": "Я ещё не ел."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Прошлое, связанное с «сейчас»: сегодня, на этой неделе, «уже / ещё не», опыт в жизни. haber + причастие: hablar → hablado, comer → comido, vivir → vivido. Неправильные: hecho, visto, dicho, escrito, puesto, abierto, vuelto. Между he и причастием ничего не ставят: no lo he visto.",
+      "en": "Past linked to now: today, this week, already / not yet, life experience. haber + past participle: hablado, comido, vivido. Irregular: hecho, visto, dicho, escrito, puesto, abierto, vuelto. Nothing goes between haber and the participle.",
+      "es": "haber + participio: pasado relacionado con el presente (hoy, esta semana, ya, todavía no, experiencia). Participios irregulares: hecho, visto, dicho, escrito."
+    },
+    "formula": "haber (he, has, ha, hemos, habéis, han) + -ado / -ido",
+    "table": {
+      "head": [
+        "",
+        "haber",
+        "+ причастие"
+      ],
+      "rows": [
+        [
+          "yo",
+          "he",
+          "trabajado"
+        ],
+        [
+          "tú",
+          "has",
+          "comido"
+        ],
+        [
+          "él, ella, usted",
+          "ha",
+          "hecho"
+        ],
+        [
+          "nosotros",
+          "hemos",
+          "visto"
+        ],
+        [
+          "vosotros",
+          "habéis",
+          "dicho"
+        ],
+        [
+          "ellos, ustedes",
+          "han",
+          "escrito"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "past",
+        "until": "now",
+        "label": {
+          "ru": "случилось в прошлом, важно сейчас",
+          "en": "happened before, matters now",
+          "es": "pasó antes, importa ahora"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-29",
+      "formula": "have + V3",
+      "examples": [
+        {
+          "en": "I have finished the task.",
+          "ru": "Я закончил задачу."
+        }
+      ],
+      "note": {
+        "ru": "близко (в Испании); в Латинской Америке чаще indefinido"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Termino el informe.",
+      "into": [
+        {
+          "form": "past",
+          "answer": "He terminado el informe."
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "es": "Has visto la película.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": "No has visto la película."
+        },
+        {
+          "form": "question",
+          "answer": "¿Has visto la película?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "Hoy ___ trabajado mucho.",
+      "options": [
+        "he",
+        "ha",
+        "hemos"
+      ],
+      "answer": "he",
+      "ru": "Сегодня я много работал."
+    },
+    {
+      "type": "choose",
+      "es": "¿Habéis ___ la noticia?",
+      "options": [
+        "oído",
+        "oyido"
+      ],
+      "answer": "oído",
+      "ru": "Вы слышали новость?"
+    },
+    {
+      "type": "fill",
+      "es": "Ellos han ___ un correo. (escribir)",
+      "answer": "escrito",
+      "ru": "Они написали письмо."
+    },
+    {
+      "type": "fill",
+      "es": "¿Qué has ___ hoy? (hacer)",
+      "answer": "hecho",
+      "ru": "Что ты сегодня сделал?"
+    },
+    {
+      "type": "build",
+      "es": "Ya he enviado el archivo.",
+      "ru": "Я уже отправил файл.",
+      "extra": [
+        "envié"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы уже сделали сегодня и чего ещё нет.",
+        "en": "Write what you have already done today and what not yet.",
+        "es": "Escribe qué has hecho ya hoy y qué todavía no."
+      },
+      "template": "Hoy ya he … Todavía no he …",
+      "sample": "Hoy ya he trabajado. Todavía no he comido."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

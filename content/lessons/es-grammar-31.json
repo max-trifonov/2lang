@@ -1,0 +1,196 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-31",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "ES-31",
+  "order": 31,
+  "level": "A2",
+  "title": {
+    "ru": "Indefinido: fui, tuve, hice, estuve",
+    "en": "Preterite irregulars: fui, tuve, hice, estuve",
+    "es": "Indefinido irregular: fui, tuve, hice, estuve"
+  },
+  "see": [
+    "es-grammar-30",
+    "es-grammar-18"
+  ],
+  "pattern": [
+    {
+      "es": "Ayer fui al cine.",
+      "ru": "Вчера я ходил в кино."
+    },
+    {
+      "es": "Tuvimos un problema con el vuelo.",
+      "ru": "У нас была проблема с рейсом."
+    },
+    {
+      "es": "¿Qué hiciste el fin de semana?",
+      "ru": "Что ты делал на выходных?"
+    },
+    {
+      "es": "Estuve en Madrid dos días.",
+      "ru": "Я был в Мадриде два дня."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "У частотных глаголов особая основа и окончания без ударения: tener → tuve, estar → estuve, hacer → hice (hizo), poder → pude, venir → vine, querer → quise, decir → dije (dijeron). ser и ir в indefinido совпадают: fui, fuiste, fue — понятно по контексту. dar → di, ver → vi.",
+      "en": "Common verbs have a special stem and unstressed endings: tuve, estuve, hice (hizo), pude, vine, quise, dije (dijeron). ser and ir share forms: fui, fuiste, fue. dar → di, ver → vi.",
+      "es": "Raíces irregulares: tuv-, estuv-, hic-, pud-, vin-, quis-, dij-. ser / ir: fui, fue."
+    },
+    "formula": "tuv-, estuv-, hic-, pud-, vin-, quis- + -e, -iste, -o, -imos, -isteis, -ieron",
+    "table": {
+      "head": [
+        "",
+        "ser, ir",
+        "tener",
+        "hacer",
+        "estar"
+      ],
+      "rows": [
+        [
+          "yo",
+          "fui",
+          "tuve",
+          "hice",
+          "estuve"
+        ],
+        [
+          "tú",
+          "fuiste",
+          "tuviste",
+          "hiciste",
+          "estuviste"
+        ],
+        [
+          "él, ella, usted",
+          "fue",
+          "tuvo",
+          "hizo",
+          "estuvo"
+        ],
+        [
+          "nosotros",
+          "fuimos",
+          "tuvimos",
+          "hicimos",
+          "estuvimos"
+        ],
+        [
+          "vosotros",
+          "fuisteis",
+          "tuvisteis",
+          "hicisteis",
+          "estuvisteis"
+        ],
+        [
+          "ellos, ustedes",
+          "fueron",
+          "tuvieron",
+          "hicieron",
+          "estuvieron"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "past",
+        "label": {
+          "ru": "закончилось в прошлом",
+          "en": "finished in the past",
+          "es": "terminó en el pasado"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-19",
+      "formula": "went, had, did, was",
+      "examples": [
+        {
+          "en": "Yesterday I went to the cinema.",
+          "ru": "Вчера я ходил в кино."
+        }
+      ],
+      "note": {
+        "ru": "неправильных глаголов много в обоих языках — учите формы парами"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Voy a la playa.",
+      "into": [
+        {
+          "form": "past",
+          "answer": "Fui a la playa."
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "es": "Hago la compra.",
+      "into": [
+        {
+          "form": "past",
+          "answer": "Hice la compra."
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "El concierto ___ fantástico.",
+      "options": [
+        "fue",
+        "estuvo",
+        "fui"
+      ],
+      "answer": "fue",
+      "ru": "Концерт был потрясающий."
+    },
+    {
+      "type": "choose",
+      "es": "¿Dónde ___ ayer?",
+      "options": [
+        "estuviste",
+        "estabas",
+        "estás"
+      ],
+      "answer": "estuviste",
+      "ru": "Где ты был вчера?"
+    },
+    {
+      "type": "fill",
+      "es": "No ___ ir a la reunión. (poder, yo)",
+      "answer": "pude",
+      "ru": "Я не смог пойти на совещание."
+    },
+    {
+      "type": "build",
+      "es": "El sábado tuvimos una fiesta en casa.",
+      "ru": "В субботу у нас была вечеринка дома.",
+      "extra": [
+        "tenemos"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Расскажите о своей последней поездке: куда ездили и что делали.",
+        "en": "Tell about your last trip: where you went and what you did.",
+        "es": "Cuenta tu último viaje: adónde fuiste y qué hiciste."
+      },
+      "template": "Fui a … Estuve … Hice …",
+      "sample": "Fui a Sevilla. Estuve tres días. Hice muchas fotos."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

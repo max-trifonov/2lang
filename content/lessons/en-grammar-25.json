@@ -1,0 +1,171 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-25",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "modals",
+  "code": "EN-25",
+  "order": 25,
+  "level": "A2",
+  "title": {
+    "ru": "Вежливые просьбы: Could you…? Would you mind…? I'd like…",
+    "en": "Polite requests: Could you…? Would you mind…? I'd like…",
+    "es": "Peticiones corteses en inglés"
+  },
+  "see": [
+    "en-grammar-15",
+    "en-grammar-24"
+  ],
+  "pattern": [
+    {
+      "en": "Could you repeat that, please?",
+      "ru": "Не могли бы вы повторить?"
+    },
+    {
+      "en": "Would you mind opening the window?",
+      "ru": "Вы не против открыть окно?"
+    },
+    {
+      "en": "I'd like a table for two, please.",
+      "ru": "Мне, пожалуйста, столик на двоих."
+    },
+    {
+      "en": "May I ask a question?",
+      "ru": "Можно задать вопрос?"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Чем «длиннее», тем вежливее: Can you…? → Could you…? → Would you mind…? После mind — глагол с -ing, а ответ «нет, не против» = No, not at all / Of course not. I want звучит резко — говорите I'd like (= I would like): I'd like to book a room. Разрешение: May I…? / Could I…?",
+      "en": "Longer is politer: Can you…? → Could you…? → Would you mind…? After mind use -ing; “no problem” = No, not at all. I want sounds blunt — say I'd like. Permission: May I…? / Could I…?",
+      "es": "Could you…? / Would you mind + -ing? / I'd like / May I…?"
+    },
+    "formula": "Could you + V? · Would you mind + V-ing? · I'd like + сущ. / to + V · May I + V?",
+    "table": {
+      "head": [
+        "прямо",
+        "вежливо"
+      ],
+      "rows": [
+        [
+          "Can you help me?",
+          "Could you help me?"
+        ],
+        [
+          "Open the window.",
+          "Would you mind opening the window?"
+        ],
+        [
+          "I want a coffee.",
+          "I'd like a coffee."
+        ],
+        [
+          "Can I sit here?",
+          "May I sit here?"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-34",
+      "formula": "¿Podría…? / Me gustaría…",
+      "examples": [
+        {
+          "es": "¿Podría repetir, por favor?",
+          "ru": "Не могли бы вы повторить?"
+        }
+      ],
+      "note": {
+        "ru": "I'd like ≈ me gustaría — 1:1"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "Help me with my bag.",
+      "into": [
+        {
+          "form": "polite",
+          "answer": [
+            "Could you help me with my bag?",
+            "Could you help me with my bag, please?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "I want the bill.",
+      "into": [
+        {
+          "form": "polite",
+          "answer": [
+            "I'd like the bill, please.",
+            "I'd like the bill.",
+            "Could I have the bill, please?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "Would you mind ___ the door?",
+      "options": [
+        "close",
+        "closing",
+        "to close"
+      ],
+      "answer": "closing",
+      "ru": "Вы не против закрыть дверь?"
+    },
+    {
+      "type": "choose",
+      "en": "I'd like ___ a room for two nights.",
+      "options": [
+        "book",
+        "to book",
+        "booking"
+      ],
+      "answer": "to book",
+      "ru": "Я бы хотел забронировать номер на две ночи."
+    },
+    {
+      "type": "fill",
+      "en": "___ I use your charger?",
+      "answer": [
+        "May",
+        "Can",
+        "Could"
+      ],
+      "ru": "Можно воспользоваться твоей зарядкой?"
+    },
+    {
+      "type": "build",
+      "en": "Could you send me the link, please?",
+      "ru": "Не могли бы вы прислать мне ссылку?",
+      "extra": [
+        "sending"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Вежливо попросите в отеле поздний выезд.",
+        "en": "Politely ask the hotel for a late checkout.",
+        "es": "Pide en el hotel, con cortesía, salir más tarde."
+      },
+      "template": "Could I …? / I'd like …",
+      "sample": [
+        "Could I check out at two, please?",
+        "I'd like a late checkout, please."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

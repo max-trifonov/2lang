@@ -1,0 +1,150 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-29",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "adjectives",
+  "code": "ES-29",
+  "order": 29,
+  "level": "A2",
+  "title": {
+    "ru": "Сравнения: más… que, tan… como, el más",
+    "en": "Comparisons: más… que, tan… como, el más",
+    "es": "Comparativos y superlativos"
+  },
+  "see": [
+    "es-grammar-13",
+    "es-grammar-25"
+  ],
+  "pattern": [
+    {
+      "es": "El tren es más rápido que el autobús.",
+      "ru": "Поезд быстрее автобуса."
+    },
+    {
+      "es": "Este hotel es menos caro que aquel.",
+      "ru": "Этот отель дешевле того."
+    },
+    {
+      "es": "Mi hermano es tan alto como yo.",
+      "ru": "Мой брат такого же роста, как я."
+    },
+    {
+      "es": "Es la mejor playa de la ciudad.",
+      "ru": "Это лучший пляж в городе."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "«Более / менее … чем» — más / menos + прилагательное + que. «Такой же … как» — tan … como. «Самый» — el / la / los / las + más + прилагательное, «в» — de: el más caro de la ciudad. Особые формы: mejor (лучше), peor (хуже), mayor (старше), menor (младше).",
+      "en": "more / less … than: más / menos + adj + que. as … as: tan … como. the most: el / la más + adj (de). Irregular: mejor, peor, mayor, menor.",
+      "es": "más / menos … que, tan … como, el más … de. mejor, peor, mayor, menor."
+    },
+    "formula": "más / menos + прил. + que · tan + прил. + como · el / la más + прил. (de)",
+    "table": {
+      "head": [
+        "",
+        "сравнение",
+        "превосходная"
+      ],
+      "rows": [
+        [
+          "caro",
+          "más caro que",
+          "el más caro"
+        ],
+        [
+          "bueno",
+          "mejor que",
+          "el mejor"
+        ],
+        [
+          "malo",
+          "peor que",
+          "el peor"
+        ],
+        [
+          "равенство",
+          "tan caro como",
+          "—"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-27",
+      "formula": "-er / more … than, as … as, the -est",
+      "examples": [
+        {
+          "en": "The train is faster than the bus.",
+          "ru": "Поезд быстрее автобуса."
+        }
+      ],
+      "note": {
+        "ru": "в испанском нет окончаний -er / -est — всегда más"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Este móvil es ___ que el otro.",
+      "options": [
+        "más bueno",
+        "mejor"
+      ],
+      "answer": "mejor",
+      "ru": "Этот телефон лучше другого."
+    },
+    {
+      "type": "choose",
+      "es": "Mi piso es ___ grande como el tuyo.",
+      "options": [
+        "tan",
+        "más"
+      ],
+      "answer": "tan",
+      "ru": "Моя квартира такая же большая, как твоя."
+    },
+    {
+      "type": "choose",
+      "es": "Es el restaurante más caro ___ la zona.",
+      "options": [
+        "en",
+        "de"
+      ],
+      "answer": "de",
+      "ru": "Это самый дорогой ресторан в районе."
+    },
+    {
+      "type": "fill",
+      "es": "Mi hermana es ___ que yo. (старше)",
+      "answer": "mayor",
+      "ru": "Моя сестра старше меня."
+    },
+    {
+      "type": "build",
+      "es": "El avión es más rápido que el tren.",
+      "ru": "Самолёт быстрее поезда.",
+      "extra": [
+        "como"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Сравните два города, которые вы знаете.",
+        "en": "Compare two cities you know.",
+        "es": "Compara dos ciudades que conoces."
+      },
+      "template": "… es más … que …",
+      "sample": "Madrid es más grande que Valencia, pero Valencia es más tranquila."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-06",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "EN-6",
+  "order": 6,
+  "level": "A1",
+  "title": {
+    "ru": "Предлоги места и времени: in, on, at",
+    "en": "Prepositions of place and time: in, on, at",
+    "es": "Preposiciones in, on, at"
+  },
+  "see": [
+    "en-grammar-05",
+    "en-grammar-01"
+  ],
+  "pattern": [
+    {
+      "en": "The meeting is at ten on Monday.",
+      "ru": "Совещание в понедельник в десять."
+    },
+    {
+      "en": "I live in London.",
+      "ru": "Я живу в Лондоне."
+    },
+    {
+      "en": "The keys are on the table.",
+      "ru": "Ключи на столе."
+    },
+    {
+      "en": "See you at the station.",
+      "ru": "Встретимся на вокзале."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Время: at — точное время и моменты (at 6, at night), on — дни и даты (on Friday, on 5 May), in — месяцы, годы, части дня (in June, in 2025, in the morning). Место: in — внутри (in the room, in Spain), on — на поверхности (on the wall, on the second floor), at — точка, место события (at the station, at work, at home). Куда — to: go to work (но go home).",
+      "en": "Time: at for clock times (at 6), on for days and dates, in for months, years, parts of the day. Place: in = inside, on = on a surface, at = a point or venue (at work, at home). Direction: to (go to work, but go home).",
+      "es": "Tiempo: at (hora), on (día), in (mes, año). Lugar: in (dentro), on (superficie), at (punto)."
+    },
+    "formula": "время: at 5, on Monday, in May · место: in (внутри), on (на поверхности), at (в точке)",
+    "table": {
+      "head": [
+        "",
+        "время",
+        "место"
+      ],
+      "rows": [
+        [
+          "at",
+          "at 6, at night",
+          "at the station, at work"
+        ],
+        [
+          "on",
+          "on Monday, on 5 May",
+          "on the table, on the 2nd floor"
+        ],
+        [
+          "in",
+          "in June, in 2025, in the morning",
+          "in the room, in Spain"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-07",
+      "formula": "en, a, de",
+      "examples": [
+        {
+          "es": "La reunión es a las diez. Vivo en Londres.",
+          "ru": "Совещание в десять. Я живу в Лондоне."
+        }
+      ],
+      "note": {
+        "ru": "испанское en покрывает in, on, at места"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "The concert starts ___ 8 pm.",
+      "options": [
+        "at",
+        "on",
+        "in"
+      ],
+      "answer": "at",
+      "ru": "Концерт начинается в 8 вечера."
+    },
+    {
+      "type": "choose",
+      "en": "I was born ___ 1990.",
+      "options": [
+        "at",
+        "on",
+        "in"
+      ],
+      "answer": "in",
+      "ru": "Я родился в 1990 году."
+    },
+    {
+      "type": "choose",
+      "en": "Let's meet ___ Saturday.",
+      "options": [
+        "at",
+        "on",
+        "in"
+      ],
+      "answer": "on",
+      "ru": "Давай встретимся в субботу."
+    },
+    {
+      "type": "choose",
+      "en": "She is ___ work now.",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": "at",
+      "ru": "Она сейчас на работе."
+    },
+    {
+      "type": "fill",
+      "en": "Your passport is ___ the bag.",
+      "answer": "in",
+      "ru": "Твой паспорт в сумке."
+    },
+    {
+      "type": "build",
+      "en": "We have dinner at home on Sundays.",
+      "ru": "По воскресеньям мы ужинаем дома.",
+      "extra": [
+        "in"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, где и когда у вас следующая встреча.",
+        "en": "Write where and when your next meeting is.",
+        "es": "Escribe dónde y cuándo es tu próxima reunión."
+      },
+      "template": "My next meeting is on … at … in …",
+      "sample": "My next meeting is on Tuesday at 11 in the office."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

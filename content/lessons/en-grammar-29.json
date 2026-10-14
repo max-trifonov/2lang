@@ -1,0 +1,192 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-29",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "EN-29",
+  "order": 29,
+  "level": "A2",
+  "title": {
+    "ru": "Present Perfect: результат и опыт",
+    "en": "Present Perfect: result and experience",
+    "es": "Present Perfect: resultado y experiencia"
+  },
+  "see": [
+    "en-grammar-30",
+    "en-grammar-38",
+    "en-grammar-19"
+  ],
+  "words": [
+    "already",
+    "yet"
+  ],
+  "pattern": [
+    {
+      "en": "I have finished the task.",
+      "ru": "Я закончил задачу."
+    },
+    {
+      "en": "Have you ever been to Mexico?",
+      "ru": "Ты когда-нибудь был в Мексике?"
+    },
+    {
+      "en": "She has just arrived.",
+      "ru": "Она только что приехала."
+    },
+    {
+      "en": "We haven't decided yet.",
+      "ru": "Мы ещё не решили."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Прошлое, важное сейчас: результат (I've lost my keys — их нет), опыт в жизни (ever, never), «только что / уже / ещё не» (just, already, yet). Конкретное время (yesterday, in 2020) с ним не употребляют. 3-я форма: правильные +ed, неправильные учат: done, been, seen, gone, made, written. yet — в конце вопроса и отрицания, just и already — между have и глаголом.",
+      "en": "Past linked to now: a result (I've lost my keys), life experience (ever, never), just / already / yet. No specific past time (yesterday). Past participle: +ed or irregular (done, been, seen, gone, written). yet at the end; just and already between have and the verb.",
+      "es": "have / has + participio: resultado, experiencia, just / already / yet. Sin tiempo concreto."
+    },
+    "formula": "have / has + V3 (worked, done, been)",
+    "table": {
+      "head": [
+        "",
+        "+",
+        "−",
+        "?"
+      ],
+      "rows": [
+        [
+          "I, you, we, they",
+          "I've done",
+          "I haven't done",
+          "Have you done?"
+        ],
+        [
+          "he, she, it",
+          "she's done",
+          "she hasn't done",
+          "Has she done?"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "past",
+        "until": "now",
+        "label": {
+          "ru": "случилось раньше, важно сейчас",
+          "en": "happened before, matters now",
+          "es": "pasó antes, importa ahora"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-27",
+      "formula": "haber + participio: he terminado",
+      "examples": [
+        {
+          "es": "He terminado la tarea.",
+          "ru": "Я закончил задачу."
+        }
+      ],
+      "note": {
+        "ru": "близко к pretérito perfecto (в Испании)"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "She has seen this film.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "She hasn't seen this film.",
+            "She has not seen this film."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Has she seen this film?"
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "I finish the report.",
+      "into": [
+        {
+          "form": "past",
+          "answer": [
+            "I've finished the report.",
+            "I have finished the report."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "Have you ___ been to Japan?",
+      "options": [
+        "ever",
+        "yet",
+        "just"
+      ],
+      "answer": "ever",
+      "ru": "Ты когда-нибудь был в Японии?"
+    },
+    {
+      "type": "choose",
+      "en": "I haven't called him ___.",
+      "options": [
+        "already",
+        "yet",
+        "just"
+      ],
+      "answer": "yet",
+      "ru": "Я ещё не позвонил ему."
+    },
+    {
+      "type": "choose",
+      "en": "She ___ lost her phone.",
+      "options": [
+        "have",
+        "has",
+        "is"
+      ],
+      "answer": "has",
+      "ru": "Она потеряла телефон."
+    },
+    {
+      "type": "fill",
+      "en": "We have ___ finished lunch. (только что)",
+      "answer": "just",
+      "ru": "Мы только что пообедали."
+    },
+    {
+      "type": "build",
+      "en": "Have you sent the invoice yet?",
+      "ru": "Ты уже отправил счёт?",
+      "extra": [
+        "send"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы уже сделали сегодня и чего ещё нет.",
+        "en": "Write what you've already done today and what not yet.",
+        "es": "Escribe qué has hecho ya hoy y qué todavía no."
+      },
+      "template": "I've already … I haven't … yet.",
+      "sample": "I've already answered my emails. I haven't had lunch yet."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

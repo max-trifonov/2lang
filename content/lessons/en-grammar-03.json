@@ -1,0 +1,158 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-03",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "nouns",
+  "code": "EN-3",
+  "order": 3,
+  "level": "A1",
+  "title": {
+    "ru": "Артикли: a / an, the или ничего",
+    "en": "Articles: a / an, the or nothing",
+    "es": "Artículos: a / an, the o nada"
+  },
+  "see": [
+    "en-grammar-04",
+    "en-grammar-28"
+  ],
+  "pattern": [
+    {
+      "en": "I have a reservation.",
+      "ru": "У меня бронь."
+    },
+    {
+      "en": "The reservation is for two nights.",
+      "ru": "Бронь на две ночи."
+    },
+    {
+      "en": "She is an engineer.",
+      "ru": "Она инженер."
+    },
+    {
+      "en": "I like coffee.",
+      "ru": "Я люблю кофе."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "a (an перед гласным звуком: an hour, an email) — «один, какой-то», впервые, и с профессией: She is an engineer. the — «тот самый»: уже упоминали, единственный, понятно из ситуации (the station, the sun). Без артикля — вообще, во множественном и с неисчисляемыми: I like coffee, Dogs are friendly. Имена, города, страны — без артикля: in London.",
+      "en": "a (an before a vowel sound: an hour) = one, some, mentioned first, also with jobs. the = the specific one: mentioned before, unique, clear from context. No article for things in general, plurals and uncountables: I like coffee. Names, cities, most countries — no article.",
+      "es": "a / an: uno cualquiera, primera mención, profesiones. the: el conocido. Sin artículo: en general."
+    },
+    "formula": "a / an — один из многих, впервые · the — тот самый, понятно какой · — общее",
+    "table": {
+      "head": [
+        "",
+        "когда",
+        "пример"
+      ],
+      "rows": [
+        [
+          "a / an",
+          "один из многих, впервые, профессия",
+          "a hotel, an email, an engineer"
+        ],
+        [
+          "the",
+          "понятно какой, единственный",
+          "the hotel, the sun"
+        ],
+        [
+          "—",
+          "вообще, мн. ч., неисчисляемые",
+          "Coffee is good. Hotels are expensive."
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-02",
+      "formula": "un / una, el / la",
+      "examples": [
+        {
+          "es": "Tengo una reserva. La reserva es para dos noches.",
+          "ru": "У меня бронь. Бронь на две ночи."
+        }
+      ],
+      "note": {
+        "ru": "испанцы ставят артикль и при общем значении: Me gusta el café = I like coffee"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "I need ___ umbrella.",
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "answer": "an",
+      "ru": "Мне нужен зонт."
+    },
+    {
+      "type": "choose",
+      "en": "Can you open ___ window, please?",
+      "options": [
+        "a",
+        "the"
+      ],
+      "answer": "the",
+      "ru": "Можешь открыть окно?"
+    },
+    {
+      "type": "choose",
+      "en": "My sister is ___ doctor.",
+      "options": [
+        "a",
+        "the",
+        "—"
+      ],
+      "answer": "a",
+      "ru": "Моя сестра — врач."
+    },
+    {
+      "type": "choose",
+      "en": "I don't drink ___ milk.",
+      "options": [
+        "the",
+        "a",
+        "—"
+      ],
+      "answer": "—",
+      "ru": "Я не пью молоко."
+    },
+    {
+      "type": "fill",
+      "en": "I have ___ idea!",
+      "answer": "an",
+      "ru": "У меня есть идея!"
+    },
+    {
+      "type": "build",
+      "en": "The bus stop is near the hotel.",
+      "ru": "Остановка рядом с отелем.",
+      "extra": [
+        "a"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Опишите, что у вас на столе (a / an), и уточните одну вещь (the).",
+        "en": "Describe what is on your desk (a / an), then say something about one item (the).",
+        "es": "Describe tu mesa (a / an) y precisa algo (the)."
+      },
+      "template": "There is a … The …",
+      "sample": "There is a laptop and a cup. The cup is blue."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-36",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "verbs",
+  "code": "EN-36",
+  "order": 36,
+  "level": "B1",
+  "title": {
+    "ru": "Герундий или инфинитив: enjoy doing, want to do",
+    "en": "Gerund or infinitive: enjoy doing, want to do",
+    "es": "Gerundio o infinitivo: enjoy doing, want to do"
+  },
+  "see": [
+    "en-grammar-25",
+    "en-grammar-24"
+  ],
+  "pattern": [
+    {
+      "en": "I enjoy cooking.",
+      "ru": "Мне нравится готовить."
+    },
+    {
+      "en": "She wants to learn Spanish.",
+      "ru": "Она хочет выучить испанский."
+    },
+    {
+      "en": "We decided to stay.",
+      "ru": "Мы решили остаться."
+    },
+    {
+      "en": "Stop talking, please.",
+      "ru": "Перестаньте разговаривать, пожалуйста."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Одни глаголы требуют -ing: enjoy, finish, mind, avoid, keep, suggest; другие — to + V: want, decide, plan, hope, need, would like. После предлога всегда -ing: good at cooking, before leaving. Особый случай — stop: stop smoking — «бросить курить», stop to smoke — «остановиться, чтобы покурить». like, love, start можно и так, и так.",
+      "en": "Some verbs take -ing (enjoy, finish, mind, avoid, keep, suggest), others to + V (want, decide, plan, hope, need, would like). After prepositions always -ing. stop smoking ≠ stop to smoke. like, love, start take both.",
+      "es": "-ing tras enjoy, finish, mind; to + verbo tras want, decide, plan. Tras preposición: -ing."
+    },
+    "formula": "enjoy / finish / mind / stop + V-ing · want / decide / plan / need + to V",
+    "table": {
+      "head": [
+        "+ V-ing",
+        "+ to V",
+        "оба варианта"
+      ],
+      "rows": [
+        [
+          "enjoy, finish, mind",
+          "want, decide, plan",
+          "like, love, start"
+        ],
+        [
+          "avoid, keep, suggest",
+          "hope, need, would like",
+          "begin, prefer"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "formula": "infinitivo: quiero aprender, me gusta cocinar",
+      "examples": [
+        {
+          "es": "Me gusta cocinar. Quiere aprender español.",
+          "ru": "Мне нравится готовить. Она хочет выучить испанский."
+        }
+      ],
+      "note": {
+        "ru": "в испанском в обоих случаях инфинитив"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "I've finished ___ the report.",
+      "options": [
+        "writing",
+        "to write"
+      ],
+      "answer": "writing",
+      "ru": "Я закончил писать отчёт."
+    },
+    {
+      "type": "choose",
+      "en": "We hope ___ you soon.",
+      "options": [
+        "seeing",
+        "to see"
+      ],
+      "answer": "to see",
+      "ru": "Надеемся скоро увидеться."
+    },
+    {
+      "type": "choose",
+      "en": "She is good at ___ problems.",
+      "options": [
+        "solve",
+        "solving",
+        "to solve"
+      ],
+      "answer": "solving",
+      "ru": "Она хорошо решает проблемы."
+    },
+    {
+      "type": "fill",
+      "en": "Would you mind ___ a moment? (wait)",
+      "answer": "waiting",
+      "ru": "Не могли бы вы подождать минутку?"
+    },
+    {
+      "type": "build",
+      "en": "I decided to change my job.",
+      "ru": "Я решил сменить работу.",
+      "extra": [
+        "changing"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы любите делать и что планируете сделать в этом году.",
+        "en": "Write what you enjoy doing and what you plan to do this year.",
+        "es": "Escribe qué te gusta hacer y qué planeas hacer este año."
+      },
+      "template": "I enjoy … I plan to …",
+      "sample": "I enjoy reading. I plan to visit Spain this year."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

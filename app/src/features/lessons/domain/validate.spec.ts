@@ -531,6 +531,15 @@ describe('урок грамматики: файл', () => {
     ],
     ['topic у грамматики', grammar({ topic: 'it' }), 'topic:topic_not_allowed'],
     ['фраза у грамматики', grammar({ phrase: { es: 'x', ru: 'y' } }), 'phrase:unknown_key'],
+    ['незнакомый раздел', grammar({ section: 'syntax' }), 'section:bad_value'],
+    ['отсылка на себя', grammar({ see: ['es-grammar-06'] }), 'see[0]:self_require'],
+    ['повтор отсылки', grammar({ see: ['es-grammar-05', 'es-grammar-05'] }), 'see[1]:duplicate_id'],
+    [
+      'мост на урок не slug',
+      editGrammar((d) => (d.bridge[0].lesson = 'EN 7')),
+      'bridge[0].lesson:bad_slug',
+    ],
+    ['раздел у урока слов', lesson({ section: 'verbs' }), 'section:unknown_key'],
   ])('%s', (_name, doc, expected) => {
     const result = validateLesson(doc)
     expect(brief(result.errors)).toContain(expected)
@@ -550,5 +559,48 @@ describe('набор: грамматика', () => {
     const result = validateLessonSet([named(grammar({ words: ['tener', 'deber'] }))], [dict])
     expect(brief(result.errors)).toEqual(['es-grammar-06.json › words[1]:word_not_in_dictionary'])
     expect(result.warnings).toEqual([])
+  })
+})
+
+describe('набор: отсылки к правилам (D-38)', () => {
+  const en = (patch: Record<string, unknown> = {}) =>
+    grammar({ id: 'en-grammar-23', lang: 'en', code: 'EN-23', order: 23, words: [], ...patch })
+  const strip = (d: Record<string, unknown>) => {
+    const out = structuredClone(d) as Record<string, any> // eslint-disable-line @typescript-eslint/no-explicit-any
+    out.pattern = [
+      { en: 'I have to go.', ru: 'Мне нужно идти.' },
+      ...out.pattern.slice(1).map(() => ({ en: 'x', ru: 'y' })),
+    ]
+    out.exercises = []
+    out.bridge = [{ lang: 'es', lesson: 'es-grammar-06', formula: 'tener que' }]
+    return out
+  }
+
+  it('урок слов → урок грамматики своего языка; мост → урок языка моста', () => {
+    const result = validateLessonSet(
+      [
+        named(lesson({ see: ['es-grammar-06'] })),
+        named(grammar({ bridge: [{ lang: 'en', lesson: 'en-grammar-23' }] })),
+        named(strip(en())),
+      ],
+      [dict],
+    )
+    expect(result.errors).toEqual([])
+  })
+
+  it('неизвестная отсылка, чужой язык, мост не на грамматику языка моста', () => {
+    const result = validateLessonSet(
+      [
+        named(lesson({ see: ['es-grammar-99', 'en-grammar-23'] })),
+        named(grammar({ bridge: [{ lang: 'en', lesson: 'es-travel-01' }] })),
+        named(strip(en())),
+      ],
+      [dict],
+    )
+    expect(brief(result.errors)).toEqual([
+      'es-travel-01.json › see[0]:unknown_lesson',
+      'es-travel-01.json › see[1]:bad_ref',
+      'es-grammar-06.json › bridge[0].lesson:bad_ref',
+    ])
   })
 })

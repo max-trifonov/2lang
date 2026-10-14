@@ -1,0 +1,178 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-05",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "verbs",
+  "code": "ES-5",
+  "order": 5,
+  "level": "A1",
+  "title": {
+    "ru": "estar: где и как; ser или estar",
+    "en": "estar: where and how; ser or estar",
+    "es": "estar: dónde y cómo; ser o estar"
+  },
+  "see": [
+    "es-grammar-04",
+    "es-grammar-06",
+    "es-grammar-24"
+  ],
+  "words": [
+    "estar"
+  ],
+  "pattern": [
+    {
+      "es": "El hotel está cerca de la playa.",
+      "ru": "Отель рядом с пляжем."
+    },
+    {
+      "es": "Estoy cansado.",
+      "ru": "Я устал."
+    },
+    {
+      "es": "¿Dónde están las llaves?",
+      "ru": "Где ключи?"
+    },
+    {
+      "es": "La sopa está muy rica.",
+      "ru": "Суп очень вкусный."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "estar — «находиться» и «быть в состоянии»: где кто-то или что-то (está cerca), самочувствие и настроение (estoy cansado), временное состояние (la mesa está libre). Сравните: es aburrido — «он скучный (по характеру)», está aburrido — «ему скучно (сейчас)».",
+      "en": "estar is for location (está cerca), feelings and temporary states (estoy cansado, la mesa está libre). Compare: es aburrido “he is boring”, está aburrido “he is bored”.",
+      "es": "estar: ubicación, estado de ánimo, estados temporales. Es aburrido / está aburrido."
+    },
+    "formula": "estar + где / как сейчас",
+    "table": {
+      "head": [
+        "",
+        "estar",
+        "пример"
+      ],
+      "rows": [
+        [
+          "yo",
+          "estoy",
+          "Estoy en casa."
+        ],
+        [
+          "tú",
+          "estás",
+          "¿Estás bien?"
+        ],
+        [
+          "él, ella, usted",
+          "está",
+          "Está cerca."
+        ],
+        [
+          "nosotros",
+          "estamos",
+          "Estamos listos."
+        ],
+        [
+          "vosotros",
+          "estáis",
+          "¿Estáis aquí?"
+        ],
+        [
+          "ellos, ustedes",
+          "están",
+          "Están cansados."
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-02",
+      "formula": "to be: am / is / are",
+      "examples": [
+        {
+          "en": "The hotel is near the beach.",
+          "ru": "Отель рядом с пляжем."
+        }
+      ],
+      "note": {
+        "ru": "ser и estar — оба переводятся как be"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Estás cansado.",
+      "into": [
+        {
+          "form": "question",
+          "answer": "¿Estás cansado?"
+        },
+        {
+          "form": "negative",
+          "answer": "No estás cansado."
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "Madrid ___ en el centro de España.",
+      "options": [
+        "es",
+        "está"
+      ],
+      "answer": "está",
+      "ru": "Мадрид находится в центре Испании."
+    },
+    {
+      "type": "choose",
+      "es": "Mi hermana ___ profesora.",
+      "options": [
+        "es",
+        "está"
+      ],
+      "answer": "es",
+      "ru": "Моя сестра — учительница."
+    },
+    {
+      "type": "choose",
+      "es": "Hoy ___ muy contentos.",
+      "options": [
+        "somos",
+        "estamos"
+      ],
+      "answer": "estamos",
+      "ru": "Сегодня мы очень довольны."
+    },
+    {
+      "type": "fill",
+      "es": "¿Dónde ___ la estación?",
+      "answer": "está",
+      "ru": "Где вокзал?"
+    },
+    {
+      "type": "build",
+      "es": "El restaurante está lejos del hotel.",
+      "ru": "Ресторан далеко от отеля.",
+      "extra": [
+        "es"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, где вы сейчас и как себя чувствуете.",
+        "en": "Write where you are now and how you feel.",
+        "es": "Escribe dónde estás y cómo estás ahora."
+      },
+      "template": "Ahora estoy en … Estoy …",
+      "sample": "Ahora estoy en casa. Estoy un poco cansado."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

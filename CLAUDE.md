@@ -20,7 +20,8 @@
 | Программа курса EN/ES (звучание, грамматика) | [`.flow/curriculum.md`](.flow/curriculum.md) |
 | Формат текстов (песни и стихи) v1 | [`.flow/content-format.md`](.flow/content-format.md), схема `content/schema/text.schema.json` |
 | Формат словаря v1 | [`.flow/dictionary-format.md`](.flow/dictionary-format.md), схема `content/schema/dictionary.schema.json`, словари `content/dictionary/` (черновики ИИ — `ext.draft`; сборка из `content/drafts/` — `python3 content/drafts/build.py`, слияние, D-28), каркас `content/frequency/` |
-| Формат урока v1 (слова; звучание, грамматика — далее) | [`.flow/lesson-format.md`](.flow/lesson-format.md), схема `content/schema/lesson.schema.json`, пример `content/lessons/` |
+| Формат урока v1 (слова, звучание, грамматика) | [`.flow/lesson-format.md`](.flow/lesson-format.md), схема `content/schema/lesson.schema.json`, пример `content/lessons/` |
+| Уроки грамматики и отсылки к правилам (D-38) | исходники `content/drafts/grammar/{es,en}.txt` → `python3 content/drafts/grammar/gen.py` (темы `*-grammar-NN.json` + поле `see` уроков слов через `link.py`) |
 | Записи слов словаря (Piper, D-36) | `content/audio/words/` — после правки словаря: `<venv с piper-tts>/bin/python content/audio/words/build.py --voices <каталог .onnx>` |
 | Контент в поставке (public-domain / own) | `content/texts/` |
 | Личные тексты (`license: personal`) | `content/private/` — вне git, не публикуется (D-5) |

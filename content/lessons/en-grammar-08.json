@@ -1,0 +1,186 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-08",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "EN-8",
+  "order": 8,
+  "level": "A1",
+  "title": {
+    "ru": "Отрицание: not, don't, doesn't",
+    "en": "Negatives: not, don't, doesn't",
+    "es": "La negación: not, don't, doesn't"
+  },
+  "see": [
+    "en-grammar-07",
+    "en-grammar-09",
+    "en-grammar-20"
+  ],
+  "pattern": [
+    {
+      "en": "I don't eat meat.",
+      "ru": "Я не ем мясо."
+    },
+    {
+      "en": "The app doesn't work.",
+      "ru": "Приложение не работает."
+    },
+    {
+      "en": "She isn't at home.",
+      "ru": "Её нет дома."
+    },
+    {
+      "en": "I can't find my keys.",
+      "ru": "Я не могу найти ключи."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Главный принцип: not ставится после первого вспомогательного глагола. Если он есть (am, is, are, can, will, have в Perfect) — просто + not: isn't, can't, won't. Если его нет — добавляем do: don't (I, you, we, they) / doesn't (he, she, it), а основной глагол — без -s: She doesn't work. Двойного отрицания нет: I don't know anything (не nothing).",
+      "en": "Main rule: not goes after the first auxiliary. If there is one (am, is, are, can, will, have) just add not: isn't, can't, won't. If not, add do: don't / doesn't, and the main verb loses -s: She doesn't work. No double negatives: I don't know anything.",
+      "es": "not tras el auxiliar; si no hay, don't / doesn't + verbo base. Sin doble negación."
+    },
+    "formula": "be / can / have (done) + not · остальные: don't / doesn't + V",
+    "table": {
+      "head": [
+        "утверждение",
+        "отрицание"
+      ],
+      "rows": [
+        [
+          "I am tired.",
+          "I'm not tired."
+        ],
+        [
+          "She can swim.",
+          "She can't swim."
+        ],
+        [
+          "I work.",
+          "I don't work."
+        ],
+        [
+          "He works.",
+          "He doesn't work."
+        ],
+        [
+          "I will go.",
+          "I won't go."
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-10",
+      "formula": "no + verbo",
+      "examples": [
+        {
+          "es": "No como carne.",
+          "ru": "Я не ем мясо."
+        }
+      ],
+      "note": {
+        "ru": "в испанском двойное отрицание — норма: No sé nada = I don't know anything"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "He likes coffee.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "He doesn't like coffee.",
+            "He does not like coffee."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "We have a car.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "We don't have a car.",
+            "We do not have a car."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "The museum is open.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "The museum isn't open.",
+            "The museum is not open.",
+            "The museum's not open."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "She ___ speak Spanish.",
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "answer": "doesn't",
+      "ru": "Она не говорит по-испански."
+    },
+    {
+      "type": "choose",
+      "en": "I ___ understand anything.",
+      "options": [
+        "don't",
+        "doesn't",
+        "not"
+      ],
+      "answer": "don't",
+      "ru": "Я ничего не понимаю."
+    },
+    {
+      "type": "choose",
+      "en": "It ___ cold today.",
+      "options": [
+        "doesn't",
+        "isn't"
+      ],
+      "answer": "isn't",
+      "ru": "Сегодня не холодно."
+    },
+    {
+      "type": "build",
+      "en": "My phone doesn't work today.",
+      "ru": "Мой телефон сегодня не работает.",
+      "extra": [
+        "works"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите три вещи, которые вы не делаете (или не любите).",
+        "en": "Write three things you don't do (or don't like).",
+        "es": "Escribe tres cosas que no haces (o no te gustan)."
+      },
+      "template": "I don't …",
+      "sample": "I don't drink coffee. I don't like long meetings. I can't sing."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-25",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "adjectives",
+  "code": "ES-25",
+  "order": 25,
+  "level": "A2",
+  "title": {
+    "ru": "Наречия: -mente, siempre, nunca, ya, todavía",
+    "en": "Adverbs: -mente, siempre, nunca, ya, todavía",
+    "es": "Adverbios: -mente, siempre, nunca, ya, todavía"
+  },
+  "see": [
+    "es-grammar-13",
+    "es-grammar-27"
+  ],
+  "words": [
+    "siempre"
+  ],
+  "pattern": [
+    {
+      "es": "Siempre desayuno en casa.",
+      "ru": "Я всегда завтракаю дома."
+    },
+    {
+      "es": "Habla muy rápidamente.",
+      "ru": "Он говорит очень быстро."
+    },
+    {
+      "es": "¿Ya has terminado? — Todavía no.",
+      "ru": "Ты уже закончил? — Ещё нет."
+    },
+    {
+      "es": "A veces trabajo los sábados.",
+      "ru": "Иногда я работаю по субботам."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Наречие образа действия — женская форма прилагательного + -mente: rápida → rápidamente, fácil → fácilmente. Частотность: siempre, normalmente, a menudo, a veces, casi nunca, nunca — обычно в начале или после глагола. ya — «уже», todavía — «ещё», todavía no — «ещё нет». bien / mal — «хорошо / плохо».",
+      "en": "Manner adverbs: feminine adjective + -mente: rápidamente, fácilmente. Frequency: siempre, normalmente, a veces, nunca — at the start or after the verb. ya = already, todavía = still, todavía no = not yet.",
+      "es": "Adjetivo femenino + -mente. Frecuencia: siempre, a veces, nunca. ya / todavía."
+    },
+    "formula": "прилагательное (жен. р.) + -mente · siempre / a veces / nunca",
+    "table": {
+      "head": [
+        "прилагательное",
+        "наречие"
+      ],
+      "rows": [
+        [
+          "rápido",
+          "rápidamente"
+        ],
+        [
+          "fácil",
+          "fácilmente"
+        ],
+        [
+          "normal",
+          "normalmente"
+        ],
+        [
+          "bueno, malo",
+          "bien, mal"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-16",
+      "formula": "-ly; always / usually / never",
+      "examples": [
+        {
+          "en": "I always have breakfast at home.",
+          "ru": "Я всегда завтракаю дома."
+        }
+      ],
+      "note": {
+        "ru": "в английском частотное наречие стоит перед глаголом, но после be"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Ella habla ___.",
+      "options": [
+        "claramente",
+        "clara mente",
+        "claro"
+      ],
+      "answer": "claramente",
+      "ru": "Она говорит чётко."
+    },
+    {
+      "type": "choose",
+      "es": "¿Has comido? — No, ___ no.",
+      "options": [
+        "ya",
+        "todavía"
+      ],
+      "answer": "todavía",
+      "ru": "Ты поел? — Ещё нет."
+    },
+    {
+      "type": "choose",
+      "es": "El programa funciona ___.",
+      "options": [
+        "bueno",
+        "bien"
+      ],
+      "answer": "bien",
+      "ru": "Программа работает хорошо."
+    },
+    {
+      "type": "fill",
+      "es": "___ voy al gimnasio los lunes. (всегда)",
+      "answer": "Siempre",
+      "ru": "По понедельникам я всегда хожу в спортзал."
+    },
+    {
+      "type": "build",
+      "es": "Normalmente trabajo desde casa.",
+      "ru": "Обычно я работаю из дома.",
+      "extra": [
+        "normal"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы делаете всегда, иногда и никогда.",
+        "en": "Write what you always, sometimes and never do.",
+        "es": "Escribe qué haces siempre, a veces y nunca."
+      },
+      "template": "Siempre … A veces … Nunca …",
+      "sample": "Siempre bebo café. A veces cocino. Nunca llego tarde."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

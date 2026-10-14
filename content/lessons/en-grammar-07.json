@@ -1,0 +1,172 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-07",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "EN-7",
+  "order": 7,
+  "level": "A1",
+  "title": {
+    "ru": "Present Simple: регулярно и всегда",
+    "en": "Present Simple: habits and facts",
+    "es": "Present Simple: hábitos y hechos"
+  },
+  "see": [
+    "en-grammar-08",
+    "en-grammar-09",
+    "en-grammar-17"
+  ],
+  "words": [
+    "usually"
+  ],
+  "pattern": [
+    {
+      "en": "I work from home.",
+      "ru": "Я работаю из дома."
+    },
+    {
+      "en": "She checks her email every morning.",
+      "ru": "Она проверяет почту каждое утро."
+    },
+    {
+      "en": "The shop opens at nine.",
+      "ru": "Магазин открывается в девять."
+    },
+    {
+      "en": "We usually take the bus.",
+      "ru": "Мы обычно ездим на автобусе."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Привычки, расписания, факты: «обычно, всегда, каждый день». Глагол не меняется, кроме he / she / it: +s (works), после s, sh, ch, x, o — +es (watches, goes), согласная + y → ies (studies). have → has. Слова-подсказки: always, usually, often, every day, on Mondays.",
+      "en": "Habits, schedules, facts. The verb only changes for he / she / it: +s (works), +es after s, sh, ch, x, o (watches, goes), consonant + y → ies (studies). have → has. Signals: always, usually, every day.",
+      "es": "Hábitos y hechos. 3.ª persona: -s / -es / -ies. have → has."
+    },
+    "formula": "I / you / we / they + V · he / she / it + V-s",
+    "table": {
+      "head": [
+        "",
+        "work",
+        "go",
+        "have"
+      ],
+      "rows": [
+        [
+          "I, you, we, they",
+          "work",
+          "go",
+          "have"
+        ],
+        [
+          "he, she, it",
+          "works",
+          "goes",
+          "has"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "past",
+        "until": "future",
+        "label": {
+          "ru": "всегда, регулярно",
+          "en": "always, regularly",
+          "es": "siempre, habitualmente"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-08",
+      "formula": "presente: trabajo, trabaja",
+      "examples": [
+        {
+          "es": "Trabajo desde casa.",
+          "ru": "Я работаю из дома."
+        }
+      ],
+      "note": {
+        "ru": "в испанском окончание у каждого лица, в английском — только -s у he / she / it"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "I work in an office.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "I don't work in an office.",
+            "I do not work in an office."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Do you work in an office?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "My brother ___ in a bank.",
+      "options": [
+        "work",
+        "works",
+        "working"
+      ],
+      "answer": "works",
+      "ru": "Мой брат работает в банке."
+    },
+    {
+      "type": "choose",
+      "en": "The train ___ at 7:15.",
+      "options": [
+        "leave",
+        "leaves"
+      ],
+      "answer": "leaves",
+      "ru": "Поезд отправляется в 7:15."
+    },
+    {
+      "type": "fill",
+      "en": "She ___ English at university. (study)",
+      "answer": "studies",
+      "ru": "Она изучает английский в университете."
+    },
+    {
+      "type": "fill",
+      "en": "He ___ two kids. (have)",
+      "answer": "has",
+      "ru": "У него двое детей."
+    },
+    {
+      "type": "build",
+      "en": "Our team has a meeting every Monday.",
+      "ru": "У нашей команды совещание каждый понедельник.",
+      "extra": [
+        "have"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите о рабочем дне знакомого (he / she).",
+        "en": "Write about a friend's workday (he / she).",
+        "es": "Escribe sobre el día de trabajo de un amigo (he / she)."
+      },
+      "template": "He / She …",
+      "sample": "She works in a hospital. She starts at eight."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

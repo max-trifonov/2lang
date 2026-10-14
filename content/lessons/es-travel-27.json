@@ -68,6 +68,9 @@
       ]
     }
   ],
+  "see": [
+    "es-grammar-25"
+  ],
   "ext": {
     "draft": true
   }

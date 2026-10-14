@@ -70,6 +70,11 @@
       ]
     }
   ],
+  "see": [
+    "es-grammar-15",
+    "es-grammar-11",
+    "es-grammar-07"
+  ],
   "ext": {
     "draft": true
   }

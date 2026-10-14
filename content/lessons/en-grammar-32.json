@@ -1,0 +1,155 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-32",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "EN-32",
+  "order": 32,
+  "level": "A2",
+  "title": {
+    "ru": "Связки: and, but, because, so, when, before, after",
+    "en": "Linking words: and, but, because, so, when, before, after",
+    "es": "Conectores en inglés"
+  },
+  "see": [
+    "en-grammar-33",
+    "en-grammar-10"
+  ],
+  "pattern": [
+    {
+      "en": "I wanted to go, but I was tired.",
+      "ru": "Я хотел пойти, но устал."
+    },
+    {
+      "en": "We stayed at home because it was raining.",
+      "ru": "Мы остались дома, потому что шёл дождь."
+    },
+    {
+      "en": "It was late, so we took a taxi.",
+      "ru": "Было поздно, поэтому мы взяли такси."
+    },
+    {
+      "en": "Call me when you arrive.",
+      "ru": "Позвони мне, когда приедешь."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "and — «и», but — «но», or — «или», because — «потому что» (причина), so — «поэтому» (следствие), when — «когда», before / after — «до / после», while — «пока». После when, before, after, if о будущем — настоящее время: Call me when you arrive (не will arrive). because of + существительное: because of the traffic.",
+      "en": "and, but, or, because (reason), so (result), when, before, after, while. After when / before / after / if use the present for the future: Call me when you arrive. because of + noun.",
+      "es": "Conectores; después de when / if: presente con valor de futuro."
+    },
+    "formula": "часть 1 + and / but / because / so / when / before / after + часть 2",
+    "table": {
+      "head": [
+        "связка",
+        "смысл",
+        "пример"
+      ],
+      "rows": [
+        [
+          "but",
+          "но",
+          "It's small but nice."
+        ],
+        [
+          "because",
+          "потому что",
+          "because it's late"
+        ],
+        [
+          "so",
+          "поэтому",
+          "so I left"
+        ],
+        [
+          "when",
+          "когда",
+          "when you arrive"
+        ],
+        [
+          "before, after",
+          "до, после",
+          "after work"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-32",
+      "formula": "y, pero, porque, cuando, si",
+      "examples": [
+        {
+          "es": "Quería ir, pero estaba cansado.",
+          "ru": "Я хотел пойти, но устал."
+        }
+      ],
+      "note": {
+        "ru": "испанское cuando + будущее требует subjuntivo: cuando llegues"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "I was hungry, ___ I made a sandwich.",
+      "options": [
+        "so",
+        "because"
+      ],
+      "answer": "so",
+      "ru": "Я проголодался, поэтому сделал бутерброд."
+    },
+    {
+      "type": "choose",
+      "en": "We were late ___ the traffic.",
+      "options": [
+        "because",
+        "because of"
+      ],
+      "answer": "because of",
+      "ru": "Мы опоздали из-за пробок."
+    },
+    {
+      "type": "choose",
+      "en": "I'll call you when I ___ home.",
+      "options": [
+        "get",
+        "will get"
+      ],
+      "answer": "get",
+      "ru": "Я позвоню тебе, когда приду домой."
+    },
+    {
+      "type": "fill",
+      "en": "Wash your hands ___ dinner. (до)",
+      "answer": "before",
+      "ru": "Помой руки перед ужином."
+    },
+    {
+      "type": "build",
+      "en": "I like my job but it is very stressful.",
+      "ru": "Мне нравится моя работа, но она очень нервная.",
+      "extra": [
+        "because"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Расскажите о вчерашнем вечере с because и so.",
+        "en": "Tell about last night using because and so.",
+        "es": "Cuenta tu noche de ayer con because y so."
+      },
+      "template": "… because … so …",
+      "sample": "I was tired because I worked a lot, so I went to bed early."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

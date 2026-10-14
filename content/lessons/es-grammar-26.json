@@ -1,0 +1,171 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-26",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "pronouns",
+  "code": "ES-26",
+  "order": 26,
+  "level": "A2",
+  "title": {
+    "ru": "Местоимения-дополнения: lo, la, le, me, te",
+    "en": "Object pronouns: lo, la, le, me, te",
+    "es": "Pronombres de objeto: lo, la, le, me, te"
+  },
+  "see": [
+    "es-grammar-22",
+    "es-grammar-23"
+  ],
+  "pattern": [
+    {
+      "es": "¿El billete? Lo tengo aquí.",
+      "ru": "Билет? Он у меня здесь."
+    },
+    {
+      "es": "Te llamo mañana.",
+      "ru": "Я позвоню тебе завтра."
+    },
+    {
+      "es": "Le envío el archivo al cliente.",
+      "ru": "Я отправляю файл клиенту."
+    },
+    {
+      "es": "¿Me ayudas?",
+      "ru": "Поможешь мне?"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "«Его, её, их» (что? кого?) — lo, la, los, las; «ему, ей, им» (кому?) — le, les. me, te, nos, os — одинаковы в обоих случаях. Ставятся перед спрягаемым глаголом (lo compro) или присоединяются к инфинитиву (voy a comprarlo). le + lo → se lo: se lo doy — «даю ему это».",
+      "en": "Direct object (what? whom?) — lo, la, los, las; indirect (to whom?) — le, les. me, te, nos, os are the same in both. Place before the conjugated verb or attach to the infinitive. le + lo → se lo.",
+      "es": "OD: lo, la, los, las; OI: le, les. Delante del verbo o unidos al infinitivo. le + lo = se lo."
+    },
+    "formula": "me, te, lo / la, nos, os, los / las (кого, что) · le, les (кому)",
+    "table": {
+      "head": [
+        "",
+        "кого, что",
+        "кому"
+      ],
+      "rows": [
+        [
+          "я",
+          "me",
+          "me"
+        ],
+        [
+          "ты",
+          "te",
+          "te"
+        ],
+        [
+          "он, она, вы",
+          "lo, la",
+          "le"
+        ],
+        [
+          "мы",
+          "nos",
+          "nos"
+        ],
+        [
+          "вы",
+          "os",
+          "os"
+        ],
+        [
+          "они",
+          "los, las",
+          "les"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-12",
+      "formula": "me, him, her, it, us, them",
+      "examples": [
+        {
+          "en": "I'll call you tomorrow.",
+          "ru": "Я позвоню тебе завтра."
+        }
+      ],
+      "note": {
+        "ru": "в английском местоимение стоит после глагола"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Compro el billete.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": "No lo compro."
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "¿La reserva? Sí, ___ tengo.",
+      "options": [
+        "lo",
+        "la",
+        "le"
+      ],
+      "answer": "la",
+      "ru": "Бронь? Да, она у меня."
+    },
+    {
+      "type": "choose",
+      "es": "___ escribo a mis padres cada semana.",
+      "options": [
+        "Los",
+        "Les"
+      ],
+      "answer": "Les",
+      "ru": "Я пишу родителям каждую неделю."
+    },
+    {
+      "type": "choose",
+      "es": "Voy a ___ mañana.",
+      "options": [
+        "llamarte",
+        "te llamar"
+      ],
+      "answer": "llamarte",
+      "ru": "Я позвоню тебе завтра."
+    },
+    {
+      "type": "fill",
+      "es": "¿Las llaves? No ___ encuentro.",
+      "answer": "las",
+      "ru": "Ключи? Не могу их найти."
+    },
+    {
+      "type": "build",
+      "es": "Te envío el código ahora.",
+      "ru": "Я отправлю тебе код сейчас.",
+      "extra": [
+        "le"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Ответьте коротко, заменив предмет местоимением: ¿Tienes el pasaporte? ¿Ves a Ana?",
+        "en": "Answer briefly, replacing the object: ¿Tienes el pasaporte? ¿Ves a Ana?",
+        "es": "Responde con pronombre: ¿Tienes el pasaporte? ¿Ves a Ana?"
+      },
+      "template": "Sí, lo …",
+      "sample": "Sí, lo tengo. Sí, la veo."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

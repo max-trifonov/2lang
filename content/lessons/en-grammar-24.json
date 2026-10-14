@@ -1,0 +1,157 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-24",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "modals",
+  "code": "EN-24",
+  "order": 24,
+  "level": "A2",
+  "title": {
+    "ru": "Совет: should, ought to, need to",
+    "en": "Advice: should, ought to, need to",
+    "es": "Consejo: should, ought to, need to"
+  },
+  "see": [
+    "en-grammar-23",
+    "en-grammar-25"
+  ],
+  "pattern": [
+    {
+      "en": "You should see a doctor.",
+      "ru": "Тебе стоит сходить к врачу."
+    },
+    {
+      "en": "We shouldn't stay up so late.",
+      "ru": "Нам не стоит так поздно ложиться."
+    },
+    {
+      "en": "Should I take an umbrella?",
+      "ru": "Мне взять зонт?"
+    },
+    {
+      "en": "You need to update the app.",
+      "ru": "Тебе нужно обновить приложение."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "should — совет, «стоит / следует»: You should rest. Вопрос-совет: Should I…? — «Мне стоит…?» ought to — то же, чуть официальнее. need to — «нужно» (необходимость), don't need to — «не нужно» (как don't have to). После should — глагол без to.",
+      "en": "should = advice: You should rest. Should I…? asks for advice. ought to = the same, more formal. need to = necessity; don't need to = not necessary. No to after should.",
+      "es": "should: consejo (deberías). need to: necesidad."
+    },
+    "formula": "should / shouldn't + V · need to + V · don't need to + V",
+    "table": {
+      "head": [
+        "",
+        "пример",
+        "смысл"
+      ],
+      "rows": [
+        [
+          "should",
+          "You should rest.",
+          "тебе стоит"
+        ],
+        [
+          "shouldn't",
+          "You shouldn't worry.",
+          "не стоит"
+        ],
+        [
+          "need to",
+          "I need to charge my phone.",
+          "мне нужно"
+        ],
+        [
+          "don't need to",
+          "You don't need to bring anything.",
+          "не нужно"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-34",
+      "formula": "deberías + infinitivo",
+      "examples": [
+        {
+          "es": "Deberías ir al médico.",
+          "ru": "Тебе стоит сходить к врачу."
+        }
+      ],
+      "note": {
+        "ru": "should ≈ deberías (condicional de deber)"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "You should call her.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "You shouldn't call her.",
+            "You should not call her."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Should I call her?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "You look tired. You ___ go to bed.",
+      "options": [
+        "should",
+        "should to"
+      ],
+      "answer": "should",
+      "ru": "Ты выглядишь уставшим. Тебе стоит лечь спать."
+    },
+    {
+      "type": "choose",
+      "en": "You ___ pay now — you can pay later.",
+      "options": [
+        "don't need to",
+        "shouldn't to"
+      ],
+      "answer": "don't need to",
+      "ru": "Платить сейчас не нужно — можно потом."
+    },
+    {
+      "type": "fill",
+      "en": "___ I bring anything to the party?",
+      "answer": "Should",
+      "ru": "Мне что-нибудь принести на вечеринку?"
+    },
+    {
+      "type": "build",
+      "en": "You shouldn't drink coffee in the evening.",
+      "ru": "Не стоит пить кофе вечером.",
+      "extra": [
+        "to"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Дайте совет другу, который хочет выучить английский.",
+        "en": "Give advice to a friend who wants to learn English.",
+        "es": "Da un consejo a un amigo que quiere aprender inglés."
+      },
+      "template": "You should … You shouldn't …",
+      "sample": "You should watch films in English. You shouldn't be afraid of mistakes."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-14",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "verbs",
+  "code": "EN-14",
+  "order": 14,
+  "level": "A1",
+  "title": {
+    "ru": "have / have got: «у меня есть»",
+    "en": "have / have got",
+    "es": "have / have got: tener"
+  },
+  "see": [
+    "en-grammar-07",
+    "en-grammar-08",
+    "en-grammar-09"
+  ],
+  "pattern": [
+    {
+      "en": "I have two brothers.",
+      "ru": "У меня два брата."
+    },
+    {
+      "en": "She has a meeting at three.",
+      "ru": "У неё совещание в три."
+    },
+    {
+      "en": "Do you have a charger?",
+      "ru": "У тебя есть зарядка?"
+    },
+    {
+      "en": "I've got a headache.",
+      "ru": "У меня болит голова."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "«У меня есть» = I have (he / she / it has). Вопросы и отрицания — через do: Do you have…? I don't have… В британской речи часто have got: I've got, Have you got…?, I haven't got. have также в устойчивых выражениях: have breakfast, have a shower, have a good time — там только do.",
+      "en": "“I have” = I have (he has). Questions and negatives use do: Do you have…? British speech often uses have got: I've got, Have you got…? have also appears in fixed phrases: have breakfast, have a shower — always with do.",
+      "es": "have / has = tener. Preguntas y negación con do. have got (británico)."
+    },
+    "formula": "I have / she has · I've got / she's got (разговорное)",
+    "table": {
+      "head": [
+        "",
+        "have",
+        "have got"
+      ],
+      "rows": [
+        [
+          "+",
+          "I have, she has",
+          "I've got, she's got"
+        ],
+        [
+          "−",
+          "I don't have, she doesn't have",
+          "I haven't got, she hasn't got"
+        ],
+        [
+          "?",
+          "Do you have…? Does she have…?",
+          "Have you got…? Has she got…?"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-16",
+      "formula": "tener",
+      "examples": [
+        {
+          "es": "Tengo dos hermanos.",
+          "ru": "У меня два брата."
+        }
+      ],
+      "note": {
+        "ru": "tener — неправильный: tengo, tienes, tiene"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "She has a car.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "She doesn't have a car.",
+            "She hasn't got a car."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": [
+            "Does she have a car?",
+            "Has she got a car?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "___ you have any questions?",
+      "options": [
+        "Do",
+        "Have",
+        "Are"
+      ],
+      "answer": "Do",
+      "ru": "У вас есть вопросы?"
+    },
+    {
+      "type": "choose",
+      "en": "My brother ___ two kids.",
+      "options": [
+        "have",
+        "has"
+      ],
+      "answer": "has",
+      "ru": "У моего брата двое детей."
+    },
+    {
+      "type": "choose",
+      "en": "We ___ got much time.",
+      "options": [
+        "haven't",
+        "don't"
+      ],
+      "answer": "haven't",
+      "ru": "У нас мало времени."
+    },
+    {
+      "type": "fill",
+      "en": "I usually ___ breakfast at eight.",
+      "answer": "have",
+      "ru": "Я обычно завтракаю в восемь."
+    },
+    {
+      "type": "build",
+      "en": "Do you have a pen I can use?",
+      "ru": "У тебя есть ручка, которой я могу воспользоваться?",
+      "extra": [
+        "Does"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что у вас есть и чего нет (три предложения).",
+        "en": "Write what you have and don't have (three sentences).",
+        "es": "Escribe qué tienes y qué no tienes (tres frases)."
+      },
+      "template": "I have … I don't have …",
+      "sample": "I have a bike. I don't have a car. I've got two cats."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

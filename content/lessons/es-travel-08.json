@@ -76,6 +76,9 @@
       ]
     }
   ],
+  "see": [
+    "es-grammar-12"
+  ],
   "ext": {
     "draft": true
   }

@@ -1,0 +1,158 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-07",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "ES-7",
+  "order": 7,
+  "level": "A1",
+  "title": {
+    "ru": "Предлоги места и времени: en, a, de, con",
+    "en": "Prepositions of place and time: en, a, de, con",
+    "es": "Preposiciones de lugar y tiempo"
+  },
+  "see": [
+    "es-grammar-06",
+    "es-grammar-12"
+  ],
+  "pattern": [
+    {
+      "es": "Vivo en Barcelona.",
+      "ru": "Я живу в Барселоне."
+    },
+    {
+      "es": "Voy a la oficina a las nueve.",
+      "ru": "Я иду в офис к девяти."
+    },
+    {
+      "es": "Soy de Rusia.",
+      "ru": "Я из России."
+    },
+    {
+      "es": "Trabajo de lunes a viernes.",
+      "ru": "Я работаю с понедельника по пятницу."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "en — «в, на» (где): en casa, en el tren. a — направление и время: voy a Madrid, a las ocho. de — откуда и чей: de Rusia, el coche de Ana. con — «с»: con mis amigos (conmigo, contigo). de… a — «с… до»; los lunes — «по понедельникам», без предлога.",
+      "en": "en = in / at (where), a = to / at a time, de = from / of, con = with (conmigo, contigo). de… a = from… to; los lunes = on Mondays.",
+      "es": "en: lugar; a: dirección y hora; de: origen y posesión; con: compañía (conmigo, contigo)."
+    },
+    "formula": "en (где) · a (куда, во сколько) · de (откуда, чей) · con (с кем)",
+    "table": {
+      "head": [
+        "",
+        "предлог",
+        "пример"
+      ],
+      "rows": [
+        [
+          "где",
+          "en",
+          "Estoy en el hotel."
+        ],
+        [
+          "куда",
+          "a",
+          "Voy al aeropuerto."
+        ],
+        [
+          "во сколько",
+          "a las…",
+          "a las ocho"
+        ],
+        [
+          "откуда, чей",
+          "de",
+          "de Rusia, el móvil de Ana"
+        ],
+        [
+          "с кем",
+          "con",
+          "con mis amigos, conmigo"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-06",
+      "formula": "in / on / at, to, from, with",
+      "examples": [
+        {
+          "en": "I live in Barcelona.",
+          "ru": "Я живу в Барселоне."
+        }
+      ],
+      "note": {
+        "ru": "в испанском en покрывает и in, и on, и at места"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Mañana voy ___ Sevilla.",
+      "options": [
+        "a",
+        "en",
+        "de"
+      ],
+      "answer": "a",
+      "ru": "Завтра я еду в Севилью."
+    },
+    {
+      "type": "choose",
+      "es": "La reunión es ___ las diez.",
+      "options": [
+        "en",
+        "a",
+        "de"
+      ],
+      "answer": "a",
+      "ru": "Совещание в десять."
+    },
+    {
+      "type": "choose",
+      "es": "¿Vienes ___ nosotros?",
+      "options": [
+        "con",
+        "de",
+        "en"
+      ],
+      "answer": "con",
+      "ru": "Пойдёшь с нами?"
+    },
+    {
+      "type": "fill",
+      "es": "Mis padres viven ___ Moscú.",
+      "answer": "en",
+      "ru": "Мои родители живут в Москве."
+    },
+    {
+      "type": "build",
+      "es": "El portátil de Pablo está en la mesa.",
+      "ru": "Ноутбук Пабло на столе.",
+      "extra": [
+        "a"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, где вы живёте и во сколько начинаете работать.",
+        "en": "Write where you live and what time you start work.",
+        "es": "Escribe dónde vives y a qué hora empiezas a trabajar."
+      },
+      "template": "Vivo en … Empiezo a …",
+      "sample": "Vivo en Valencia. Empiezo a las nueve."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

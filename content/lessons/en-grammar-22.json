@@ -1,0 +1,177 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-22",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "EN-22",
+  "order": 22,
+  "level": "A2",
+  "title": {
+    "ru": "going to и Present Continuous для планов",
+    "en": "going to and Present Continuous for plans",
+    "es": "going to y Present Continuous para planes"
+  },
+  "see": [
+    "en-grammar-21",
+    "en-grammar-17"
+  ],
+  "pattern": [
+    {
+      "en": "I'm going to learn Spanish this year.",
+      "ru": "В этом году я собираюсь выучить испанский."
+    },
+    {
+      "en": "We're meeting the client at three.",
+      "ru": "Мы встречаемся с клиентом в три."
+    },
+    {
+      "en": "Look at the clouds — it's going to rain.",
+      "ru": "Посмотри на тучи — сейчас пойдёт дождь."
+    },
+    {
+      "en": "What are you doing on Saturday?",
+      "ru": "Что ты делаешь в субботу?"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "be going to — план, решённый заранее, и прогноз по видимым признакам (it's going to rain). Present Continuous — договорённость с временем и местом: I'm meeting Tom at 5. will — решение в момент речи. Сравните: I'll call him (решил сейчас) — I'm going to call him (уже решил).",
+      "en": "be going to = an intention decided before, or a prediction from evidence. Present Continuous = a fixed arrangement: I'm meeting Tom at 5. will = a decision made now.",
+      "es": "going to: intención; Present Continuous: cita acordada; will: decisión espontánea."
+    },
+    "formula": "be going to + V (намерение) · be + V-ing (договорённость)",
+    "table": {
+      "head": [
+        "форма",
+        "когда",
+        "пример"
+      ],
+      "rows": [
+        [
+          "will",
+          "решил сейчас",
+          "OK, I'll call him."
+        ],
+        [
+          "be going to",
+          "уже собираюсь",
+          "I'm going to call him tonight."
+        ],
+        [
+          "be + -ing",
+          "договорились",
+          "I'm meeting him at 5."
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "now",
+        "until": "future",
+        "label": {
+          "ru": "план уже есть — действие впереди",
+          "en": "the plan exists — the action is ahead",
+          "es": "el plan ya existe — la acción es futura"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-21",
+      "formula": "ir a + infinitivo",
+      "examples": [
+        {
+          "es": "Voy a aprender español este año.",
+          "ru": "В этом году я собираюсь выучить испанский."
+        }
+      ],
+      "note": {
+        "ru": "going to ≈ ir a — 1:1"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "I travel to Italy.",
+      "into": [
+        {
+          "form": "future",
+          "answer": [
+            "I'm going to travel to Italy.",
+            "I am going to travel to Italy."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "They are going to buy a house.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "They aren't going to buy a house.",
+            "They are not going to buy a house.",
+            "They're not going to buy a house."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Are they going to buy a house?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "We ___ dinner with friends tonight — it's booked.",
+      "options": [
+        "will have",
+        "are having"
+      ],
+      "answer": "are having",
+      "ru": "Сегодня мы ужинаем с друзьями — уже забронировано."
+    },
+    {
+      "type": "choose",
+      "en": "The phone is ringing. — I ___ get it!",
+      "options": [
+        "'ll",
+        "'m going to"
+      ],
+      "answer": "'ll",
+      "ru": "Телефон звонит. — Я возьму!"
+    },
+    {
+      "type": "fill",
+      "en": "She is going ___ start a new job.",
+      "answer": "to",
+      "ru": "Она собирается выйти на новую работу."
+    },
+    {
+      "type": "build",
+      "en": "What are you going to do this weekend?",
+      "ru": "Что ты собираешься делать на этих выходных?",
+      "extra": [
+        "will"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите о своих планах на выходные.",
+        "en": "Write about your weekend plans.",
+        "es": "Escribe tus planes para el fin de semana."
+      },
+      "template": "On Saturday I'm going to …",
+      "sample": "On Saturday I'm going to clean the flat. On Sunday I'm meeting my friends."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

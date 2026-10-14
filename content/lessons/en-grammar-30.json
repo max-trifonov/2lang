@@ -1,0 +1,179 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-30",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "EN-30",
+  "order": 30,
+  "level": "B1",
+  "title": {
+    "ru": "Present Perfect или Past Simple; for и since",
+    "en": "Present Perfect or Past Simple; for and since",
+    "es": "Present Perfect o Past Simple; for y since"
+  },
+  "see": [
+    "en-grammar-29",
+    "en-grammar-19",
+    "en-grammar-38"
+  ],
+  "pattern": [
+    {
+      "en": "I've lived here for five years.",
+      "ru": "Я живу здесь пять лет."
+    },
+    {
+      "en": "I lived in Kazan for five years.",
+      "ru": "Я жил в Казани пять лет (теперь нет)."
+    },
+    {
+      "en": "She has worked here since 2020.",
+      "ru": "Она работает здесь с 2020 года."
+    },
+    {
+      "en": "I saw him yesterday.",
+      "ru": "Я видел его вчера."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Если время названо и закончилось (yesterday, last year, ago, in 2020) — Past Simple. Если период длится до сих пор или время не важно — Present Perfect. Русское «живу здесь пять лет» = I've lived here for five years (не I live). for — длительность (for two hours), since — точка начала (since Monday, since 2020). Вопрос — How long have you…?",
+      "en": "If the time is stated and finished (yesterday, ago, in 2020) — Past Simple. If the period continues to now or the time doesn't matter — Present Perfect. «Живу здесь пять лет» = I've lived here for five years. for = duration, since = starting point. How long have you…?",
+      "es": "Tiempo terminado → Past Simple; hasta ahora → Present Perfect. for (duración) / since (desde)."
+    },
+    "formula": "Present Perfect + for (срок) / since (с момента) · Past Simple + yesterday / ago / in 2020",
+    "table": {
+      "head": [
+        "",
+        "Past Simple",
+        "Present Perfect"
+      ],
+      "rows": [
+        [
+          "время",
+          "закончилось: yesterday, ago, in 2020",
+          "до сих пор / не важно"
+        ],
+        [
+          "пример",
+          "I worked there in 2019.",
+          "I've worked here since 2019."
+        ],
+        [
+          "вопрос",
+          "When did you start?",
+          "How long have you worked here?"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "past",
+        "label": {
+          "ru": "Past Simple: закрытый период",
+          "en": "Past Simple: a closed period",
+          "es": "Past Simple: período cerrado"
+        }
+      },
+      {
+        "from": "past",
+        "until": "now",
+        "label": {
+          "ru": "Present Perfect: до сих пор",
+          "en": "Present Perfect: up to now",
+          "es": "Present Perfect: hasta ahora"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-27",
+      "formula": "hace + время, desde + момент",
+      "examples": [
+        {
+          "es": "Vivo aquí desde 2020.",
+          "ru": "Я живу здесь с 2020 года."
+        }
+      ],
+      "note": {
+        "ru": "в испанском «живу пять лет» — presente: Vivo aquí desde hace cinco años"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "I ___ him last week.",
+      "options": [
+        "have met",
+        "met"
+      ],
+      "answer": "met",
+      "ru": "Я встретил его на прошлой неделе."
+    },
+    {
+      "type": "choose",
+      "en": "We have known each other ___ ten years.",
+      "options": [
+        "for",
+        "since"
+      ],
+      "answer": "for",
+      "ru": "Мы знакомы десять лет."
+    },
+    {
+      "type": "choose",
+      "en": "She has been ill ___ Monday.",
+      "options": [
+        "for",
+        "since"
+      ],
+      "answer": "since",
+      "ru": "Она болеет с понедельника."
+    },
+    {
+      "type": "choose",
+      "en": "How long ___ you lived in Spain?",
+      "options": [
+        "did",
+        "have",
+        "are"
+      ],
+      "answer": "have",
+      "ru": "Сколько ты живёшь в Испании?"
+    },
+    {
+      "type": "fill",
+      "en": "I ___ my keys. I can't open the door. (lose)",
+      "answer": [
+        "'ve lost",
+        "have lost"
+      ],
+      "ru": "Я потерял ключи. Не могу открыть дверь."
+    },
+    {
+      "type": "build",
+      "en": "I have worked in IT since 2018.",
+      "ru": "Я работаю в IT с 2018 года.",
+      "extra": [
+        "for"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, сколько вы живёте в своём городе и когда туда переехали.",
+        "en": "Write how long you've lived in your city and when you moved there.",
+        "es": "Escribe cuánto tiempo llevas en tu ciudad y cuándo te mudaste."
+      },
+      "template": "I've lived in … for … I moved there in …",
+      "sample": "I've lived in Moscow for ten years. I moved there in 2015."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

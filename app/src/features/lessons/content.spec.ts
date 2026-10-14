@@ -51,14 +51,36 @@ describe('уроки репозитория', () => {
     }))
     expect(validateLessonSet(set, dictionaries)).toEqual({ errors: [], warnings: [] })
   })
+
+  it('слова-условие тем грамматики встречаются в уроках слов — тема откроется (D-14, D-38)', () => {
+    const all = lessons.map(({ source }) => checkLessonFile(source).lesson!)
+    const taught = new Set(
+      all.flatMap((l) => (l.kind === 'words' ? l.words.map((w) => `${l.lang}:${w}`) : [])),
+    )
+    const unreachable = all.flatMap((l) =>
+      l.kind === 'grammar'
+        ? (l.words ?? []).filter((w) => !taught.has(`${l.lang}:${w}`)).map((w) => `${l.id}:${w}`)
+        : [],
+    )
+    expect(unreachable).toEqual([])
+  })
 })
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any -- негативные фикстуры ломают узлы произвольно
 type Edit = (d: any) => void
 
 describe('JSON Schema и валидатор урока не расходятся', () => {
+  // Грамматика — урок со всеми частями (трансформер, линия времени, мост со ссылкой на урок).
+  const FIXTURE: Record<string, string> = { grammar: 'es-grammar-20.json' }
   const byKind = (kind: string) =>
-    JSON.parse(lessons.find(({ source }) => JSON.parse(source).kind === kind)!.source)
+    JSON.parse(
+      lessons.find(({ name, source }) =>
+        FIXTURE[kind] ? name === FIXTURE[kind] : JSON.parse(source).kind === kind,
+      )!.source,
+    )
+  const ex = (d: { exercises: { type: string }[] }, type: string) =>
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any -- узел меняется произвольно
+    d.exercises.find((e) => e.type === type) as any
   const words: [string, Edit][] = [
     ['нет topic', (d) => delete d.topic],
     ['незнакомый вид', (d) => (d.kind = 'video')],
@@ -68,6 +90,8 @@ describe('JSON Schema и валидатор урока не расходятся
     ['fill без ответа', (d) => delete d.exercises[0].answer],
     ['место 0', (d) => (d.order = 0)],
     ['слова без topic', (d) => delete d.topic],
+    ['раздел у урока слов', (d) => (d.section = 'verbs')],
+    ['отсылка не списком', (d) => (d.see = 'es-grammar-05')],
   ]
   const sound: [string, Edit][] = [
     ['topic у звучания', (d) => (d.topic = 'travel')],
@@ -82,12 +106,15 @@ describe('JSON Schema и валидатор урока не расходятся
     ['topic у грамматики', (d) => (d.topic = 'it')],
     ['нет паттерна', (d) => delete d.pattern],
     ['нет правила', (d) => delete d.rule],
-    ['трансформер без into', (d) => delete d.exercises[0].into],
-    ['незнакомая форма', (d) => (d.exercises[0].into[0].form = 'conditional')],
-    ['choose без вариантов', (d) => delete d.exercises[1].options],
-    ['compose без образца', (d) => delete d.exercises[4].sample],
+    ['трансформер без into', (d) => delete ex(d, 'transform').into],
+    ['незнакомая форма', (d) => (ex(d, 'transform').into[0].form = 'conditional')],
+    ['choose без вариантов', (d) => delete ex(d, 'choose').options],
+    ['compose без образца', (d) => delete ex(d, 'compose').sample],
     ['линия времени', (d) => (d.rule.timeline[0].from = 'yesterday')],
     ['фраза у грамматики', (d) => (d.phrase = { es: 'x', ru: 'y' })],
+    ['незнакомый раздел', (d) => (d.section = 'syntax')],
+    ['мост на урок не slug', (d) => (d.bridge[0].lesson = 'EN 23')],
+    ['отсылка не slug', (d) => (d.see = ['ES-6'])],
   ]
   const broken = [
     ...words.map(([n, e]) => ['words', n, e] as const),

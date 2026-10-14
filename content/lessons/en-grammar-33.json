@@ -1,0 +1,156 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-33",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "EN-33",
+  "order": 33,
+  "level": "B1",
+  "title": {
+    "ru": "Условные предложения 0 и 1: if + Present",
+    "en": "Conditionals 0 and 1: if + Present",
+    "es": "Condicionales 0 y 1"
+  },
+  "see": [
+    "en-grammar-32",
+    "en-grammar-21",
+    "en-grammar-37"
+  ],
+  "pattern": [
+    {
+      "en": "If you heat water to 100 degrees, it boils.",
+      "ru": "Если нагреть воду до 100 градусов, она закипит."
+    },
+    {
+      "en": "If it rains, we'll stay at home.",
+      "ru": "Если пойдёт дождь, мы останемся дома."
+    },
+    {
+      "en": "If you need help, call me.",
+      "ru": "Если нужна помощь — звони."
+    },
+    {
+      "en": "I won't go unless you come with me.",
+      "ru": "Я не пойду, если ты не пойдёшь со мной."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Тип 0 — всегда так (факты, правила): If you press this, it restarts. Тип 1 — реальное условие в будущем: If it rains, we'll stay. Главная ловушка: после if будущее не ставят — If it rains (не will rain). Части можно менять местами: We'll stay if it rains (без запятой). unless = if not.",
+      "en": "Type 0 — always true: If you press this, it restarts. Type 1 — a real future condition: If it rains, we'll stay. No will after if. Clauses can swap places (no comma). unless = if not.",
+      "es": "Tipo 0: hechos; tipo 1: si + presente, will. Nunca will después de if."
+    },
+    "formula": "0: If + Present, Present · 1: If + Present, will + V",
+    "table": {
+      "head": [
+        "тип",
+        "if-часть",
+        "главная часть"
+      ],
+      "rows": [
+        [
+          "0 (всегда)",
+          "If you heat ice,",
+          "it melts."
+        ],
+        [
+          "1 (реально)",
+          "If it rains,",
+          "we'll stay home."
+        ],
+        [
+          "1 (совет)",
+          "If you're tired,",
+          "go to bed."
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "future",
+        "label": {
+          "ru": "реальное условие впереди",
+          "en": "a real condition ahead",
+          "es": "condición real futura"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-32",
+      "formula": "si + presente, futuro",
+      "examples": [
+        {
+          "es": "Si llueve, nos quedaremos en casa.",
+          "ru": "Если пойдёт дождь, мы останемся дома."
+        }
+      ],
+      "note": {
+        "ru": "1:1 — и там, и там после «если» настоящее время"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "If you ___ late, we'll start without you.",
+      "options": [
+        "are",
+        "will be"
+      ],
+      "answer": "are",
+      "ru": "Если опоздаешь, начнём без тебя."
+    },
+    {
+      "type": "choose",
+      "en": "If it's sunny tomorrow, we ___ to the beach.",
+      "options": [
+        "go",
+        "'ll go"
+      ],
+      "answer": "'ll go",
+      "ru": "Если завтра будет солнечно, пойдём на пляж."
+    },
+    {
+      "type": "choose",
+      "en": "I won't come ___ you invite me.",
+      "options": [
+        "if",
+        "unless"
+      ],
+      "answer": "unless",
+      "ru": "Я не приду, если ты меня не пригласишь."
+    },
+    {
+      "type": "fill",
+      "en": "If you ___ the button, the door opens. (press)",
+      "answer": "press",
+      "ru": "Если нажать кнопку, дверь открывается."
+    },
+    {
+      "type": "build",
+      "en": "If I finish early, I will call you.",
+      "ru": "Если я закончу рано, я тебе позвоню.",
+      "extra": [
+        "finished"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы сделаете, если завтра будет хорошая погода.",
+        "en": "Write what you'll do if the weather is nice tomorrow.",
+        "es": "Escribe qué harás si mañana hace buen tiempo."
+      },
+      "template": "If the weather is nice tomorrow, I'll …",
+      "sample": "If the weather is nice tomorrow, I'll go for a walk in the park."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

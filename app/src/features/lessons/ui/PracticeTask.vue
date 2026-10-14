@@ -25,9 +25,19 @@ const built = ref<number[]>([])
 
 const correct = computed(() => result.value !== null && result.value.verdict !== 'wrong')
 const isChoice = computed(
-  () => props.task.kind === 'recognize' || props.task.kind === 'hear' || props.task.kind === 'pick',
+  () =>
+    props.task.kind === 'recognize' ||
+    props.task.kind === 'hear' ||
+    props.task.kind === 'pick' ||
+    props.task.kind === 'choose',
 )
-const blocks = computed(() => (props.task.kind === 'build' ? props.task.blocks : []))
+/** Ответ собирается из блоков: «собери фразу» и трансформер грамматики. */
+const isBlocks = computed(() => props.task.kind === 'build' || props.task.kind === 'transform')
+const blocks = computed(() =>
+  props.task.kind === 'build' || props.task.kind === 'transform' ? props.task.blocks : [],
+)
+/** Своё предложение (compose): образец открывается по кнопке, оценка — самоотметкой. */
+const revealed = ref(false)
 
 const accepted = computed((): string[] => {
   const task = props.task
@@ -35,9 +45,12 @@ const accepted = computed((): string[] => {
     case 'recognize':
     case 'hear':
     case 'pick':
+    case 'choose':
       return [task.answer]
     case 'build':
       return [task.sentence]
+    case 'compose':
+      return task.samples
     default:
       return task.accepted
   }
@@ -50,13 +63,12 @@ function choose(option: string): void {
 }
 
 function check(): void {
-  const input =
-    props.task.kind === 'build' ? built.value.map((i) => blocks.value[i]).join(' ') : typed.value
+  const input = isBlocks.value ? built.value.map((i) => blocks.value[i]).join(' ') : typed.value
   result.value = checkAnswer(input, accepted.value)
 }
 
 const canCheck = computed(() =>
-  props.task.kind === 'build' ? built.value.length > 0 : typed.value.trim() !== '',
+  isBlocks.value ? built.value.length > 0 : typed.value.trim() !== '',
 )
 
 function optionState(option: string): string | undefined {
@@ -71,14 +83,26 @@ onMounted(hearTask)
 
 /** Пропуск в предложении — заметная «лунка», а не подчёркивания. */
 const sentenceParts = computed(() =>
-  props.task.kind === 'fill' || props.task.kind === 'build' ? props.task.sentence.split('___') : [],
+  props.task.kind === 'fill' || props.task.kind === 'build' || props.task.kind === 'choose'
+    ? props.task.sentence.split('___')
+    : [],
+)
+/** Что видно в «лунке»: набранное или выбранный вариант. */
+const gapText = computed(() =>
+  props.task.kind === 'choose' ? (chosen.value ?? '') : typed.value.trim(),
+)
+/** Подпись задания: у трансформера — во что превратить предложение. */
+const kindLabel = computed(() =>
+  props.task.kind === 'transform'
+    ? t(`lessons.grammar.form.${props.task.form}`)
+    : t(`lessons.task.${props.task.kind}`),
 )
 </script>
 
 <template>
   <section class="task" :aria-live="result ? 'polite' : undefined">
     <div class="task__head">
-      <p class="task__kind">{{ t(`lessons.task.${task.kind}`) }}</p>
+      <p class="task__kind">{{ kindLabel }}</p>
       <span v-if="retry" class="task__retry">
         <IonIcon :icon="refresh" aria-hidden="true" />{{ t('lessons.task.again') }}
       </span>
@@ -113,6 +137,13 @@ const sentenceParts = computed(() =>
       <strong v-if="task.translation" class="task__native">{{ task.translation }}</strong>
       <p v-else class="task__sentence" :lang="lang">{{ task.sentence }}</p>
     </div>
+    <div v-else-if="task.kind === 'transform'" class="task__prompt task__prompt--sentence">
+      <p class="task__sentence task__source" :lang="lang">{{ task.source }}</p>
+    </div>
+    <div v-else-if="task.kind === 'compose'" class="task__prompt task__prompt--sentence">
+      <strong class="task__native">{{ task.prompt }}</strong>
+      <span v-if="task.template" class="task__tr" :lang="lang">{{ task.template }}</span>
+    </div>
     <div v-else class="task__prompt task__prompt--sentence">
       <p class="task__sentence" :lang="lang">
         <template v-for="(part, i) in sentenceParts" :key="i"
@@ -120,8 +151,8 @@ const sentenceParts = computed(() =>
           }}<span
             v-if="i < sentenceParts.length - 1"
             class="task__gap"
-            :class="{ 'task__gap--filled': typed.trim() }"
-            >{{ typed.trim() || '\u2003\u2003' }}</span
+            :class="{ 'task__gap--filled': gapText }"
+            >{{ gapText || '\u2003\u2003' }}</span
           ></template
         >
       </p>
@@ -130,7 +161,13 @@ const sentenceParts = computed(() =>
 
     <!-- ответ -->
     <div
-      v-if="isChoice && (task.kind === 'recognize' || task.kind === 'hear' || task.kind === 'pick')"
+      v-if="
+        isChoice &&
+        (task.kind === 'recognize' ||
+          task.kind === 'hear' ||
+          task.kind === 'pick' ||
+          task.kind === 'choose')
+      "
       class="task__options"
     >
       <button
@@ -153,7 +190,7 @@ const sentenceParts = computed(() =>
       </button>
     </div>
 
-    <template v-else-if="task.kind === 'build'">
+    <template v-else-if="isBlocks">
       <div
         class="task__slot"
         :class="result && `task__slot--${correct ? 'right' : 'wrong'}`"
@@ -181,6 +218,14 @@ const sentenceParts = computed(() =>
         >
           {{ block }}
         </button>
+      </div>
+    </template>
+
+    <template v-else-if="task.kind === 'compose'">
+      <UiField v-model="typed" :label="t('lessons.grammar.yours')" :disabled="revealed" />
+      <div v-if="revealed" class="task__samples">
+        <span class="task__later">{{ t('lessons.grammar.sample') }}</span>
+        <p v-for="s in task.samples" :key="s" class="task__sentence" :lang="lang">{{ s }}</p>
       </div>
     </template>
 
@@ -220,7 +265,24 @@ const sentenceParts = computed(() =>
         </div>
       </div>
 
-      <div class="task__actions">
+      <div v-if="task.kind === 'compose'" class="task__actions">
+        <template v-if="revealed">
+          <UiButton
+            variant="secondary"
+            size="lg"
+            class="task__nowrap"
+            @click="emit('next', false, false)"
+            >{{ t('lessons.sound.again') }}</UiButton
+          >
+          <UiButton full-width size="lg" @click="emit('next', true, false)">{{
+            t('lessons.sound.gotIt')
+          }}</UiButton>
+        </template>
+        <UiButton v-else full-width size="lg" @click="revealed = true">{{
+          t('lessons.grammar.showSample')
+        }}</UiButton>
+      </div>
+      <div v-else class="task__actions">
         <UiButton
           v-if="result"
           full-width
@@ -231,7 +293,7 @@ const sentenceParts = computed(() =>
         >
         <template v-else-if="!isChoice">
           <UiButton
-            v-if="task.kind === 'build'"
+            v-if="isBlocks"
             variant="secondary"
             size="lg"
             :disabled="!built.length"
@@ -378,6 +440,31 @@ const sentenceParts = computed(() =>
   font-weight: 600;
   line-height: 1.2;
   text-align: center;
+}
+
+.task__nowrap {
+  flex: none;
+  white-space: nowrap;
+}
+
+.task__source {
+  padding: 12px 14px;
+  border-left: 3px solid var(--tint);
+  border-radius: 0 var(--radius-xs) var(--radius-xs) 0;
+  background: var(--tint-soft);
+}
+
+.task__samples {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 12px 14px;
+  border-radius: var(--radius-md);
+  background: var(--tint-soft);
+}
+
+.task__samples .task__sentence {
+  margin: 0;
 }
 
 .task__tr {

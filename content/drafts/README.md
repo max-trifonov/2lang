@@ -22,3 +22,7 @@ python3 content/drafts/build.py --rebuild  # пересборка с нуля (�
 Уровень `level` берётся из `cefr` каркаса (слияние добавляет его и прежним статьям).
 
 `lessons/gen.py` (описания `en.txt`, `es.txt`) пишет `content/lessons/*.json`, `texts/gen.py` (`texts.txt`) — `content/texts/*.json`. Формат описаний — в шапке скриптов.
+
+## Грамматика (LNG-S1-033, D-38)
+
+`grammar/gen.py` (описания `grammar/en.txt`, `grammar/es.txt`, формат — в шапке скрипта) пишет темы грамматики `content/lessons/<язык>-grammar-NN.json` и запускает `grammar/link.py` — отсылки уроков слов к правилам (`see`, эвристика по шаблонам конструкций). `lessons/gen.py` тоже вызывает `link.py` в конце. Ручная правка `see` в уроке слов перезапуском стирается — правьте шаблоны в `link.py`.

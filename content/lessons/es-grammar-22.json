@@ -1,0 +1,174 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-22",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "verbs",
+  "code": "ES-22",
+  "order": 22,
+  "level": "A1",
+  "title": {
+    "ru": "gustar и похожие: me gusta, me encanta",
+    "en": "gustar and similar verbs: me gusta, me encanta",
+    "es": "gustar y verbos parecidos"
+  },
+  "see": [
+    "es-grammar-26",
+    "es-grammar-13"
+  ],
+  "pattern": [
+    {
+      "es": "Me gusta el café.",
+      "ru": "Мне нравится кофе."
+    },
+    {
+      "es": "Me gustan las montañas.",
+      "ru": "Мне нравятся горы."
+    },
+    {
+      "es": "¿Te gusta bailar?",
+      "ru": "Тебе нравится танцевать?"
+    },
+    {
+      "es": "A Ana le encanta esta canción.",
+      "ru": "Ане очень нравится эта песня."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Устроено как русское «мне нравится»: кому — me, te, le…, что — подлежащее. Одна вещь или действие — gusta, несколько — gustan. Уточнение «кому» — a mí, a Ana: A Ana le gusta. Так же: encantar (очень нравится), interesar, doler (me duele la cabeza).",
+      "en": "Works like Russian «мне нравится»: who likes — me, te, le…, the thing liked is the subject. One thing or an action — gusta, several — gustan. Clarify with a: A Ana le gusta. Same pattern: encantar, interesar, doler.",
+      "es": "Me / te / le… + gusta (singular, infinitivo) / gustan (plural). Igual: encantar, interesar, doler."
+    },
+    "formula": "me / te / le / nos / os / les + gusta (одно, инф.) / gustan (много)",
+    "table": {
+      "head": [
+        "кому",
+        "одно / действие",
+        "много"
+      ],
+      "rows": [
+        [
+          "(a mí) me",
+          "me gusta el té",
+          "me gustan los gatos"
+        ],
+        [
+          "(a ti) te",
+          "te gusta viajar",
+          "te gustan las playas"
+        ],
+        [
+          "(a él, ella, usted) le",
+          "le gusta",
+          "le gustan"
+        ],
+        [
+          "(a nosotros) nos",
+          "nos gusta",
+          "nos gustan"
+        ],
+        [
+          "(a vosotros) os",
+          "os gusta",
+          "os gustan"
+        ],
+        [
+          "(a ellos, ustedes) les",
+          "les gusta",
+          "les gustan"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "formula": "I like + noun / -ing",
+      "examples": [
+        {
+          "en": "I like mountains.",
+          "ru": "Мне нравятся горы."
+        }
+      ],
+      "note": {
+        "ru": "в английском наоборот: подлежащее — тот, кому нравится"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Me gusta el fútbol.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": "No me gusta el fútbol."
+        },
+        {
+          "form": "question",
+          "answer": "¿Te gusta el fútbol?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "Me ___ los perros.",
+      "options": [
+        "gusta",
+        "gustan"
+      ],
+      "answer": "gustan",
+      "ru": "Мне нравятся собаки."
+    },
+    {
+      "type": "choose",
+      "es": "¿A tu hermano ___ gusta el jazz?",
+      "options": [
+        "le",
+        "te",
+        "se"
+      ],
+      "answer": "le",
+      "ru": "Твоему брату нравится джаз?"
+    },
+    {
+      "type": "choose",
+      "es": "Nos ___ mucho viajar.",
+      "options": [
+        "gusta",
+        "gustan"
+      ],
+      "answer": "gusta",
+      "ru": "Нам очень нравится путешествовать."
+    },
+    {
+      "type": "fill",
+      "es": "Me ___ la cabeza. (doler)",
+      "answer": "duele",
+      "ru": "У меня болит голова."
+    },
+    {
+      "type": "build",
+      "es": "A mis padres les encanta el mar.",
+      "ru": "Мои родители обожают море.",
+      "extra": [
+        "le"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вам нравится и что не нравится.",
+        "en": "Write what you like and don't like.",
+        "es": "Escribe qué te gusta y qué no te gusta."
+      },
+      "template": "Me gusta … No me gusta …",
+      "sample": "Me gusta cocinar. No me gustan las reuniones largas."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

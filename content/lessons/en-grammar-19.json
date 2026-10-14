@@ -1,0 +1,173 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-19",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "EN-19",
+  "order": 19,
+  "level": "A2",
+  "title": {
+    "ru": "Past Simple: worked, went",
+    "en": "Past Simple: worked, went",
+    "es": "Past Simple: worked, went"
+  },
+  "see": [
+    "en-grammar-18",
+    "en-grammar-20",
+    "en-grammar-30"
+  ],
+  "pattern": [
+    {
+      "en": "I fixed the bug yesterday.",
+      "ru": "Я исправил ошибку вчера."
+    },
+    {
+      "en": "We went to Spain last summer.",
+      "ru": "Прошлым летом мы ездили в Испанию."
+    },
+    {
+      "en": "She called me two hours ago.",
+      "ru": "Она позвонила мне два часа назад."
+    },
+    {
+      "en": "They had a great time.",
+      "ru": "Они отлично провели время."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Законченное действие в прошлом с понятным моментом: yesterday, last week, two days ago, in 2020. Правильные глаголы: +ed (worked, stopped, studied), одна форма для всех лиц. Неправильные учат: go → went, have → had, do → did, see → saw, make → made, get → got, buy → bought.",
+      "en": "A finished action at a known past time: yesterday, last week, two days ago. Regular verbs: +ed, one form for all persons. Irregulars must be learned: went, had, did, saw, made, got, bought.",
+      "es": "Acción terminada en el pasado. Regulares -ed; irregulares: went, had, did, saw."
+    },
+    "formula": "V-ed (правильные) · 2-я форма (неправильные): go → went",
+    "table": {
+      "head": [
+        "инфинитив",
+        "Past Simple"
+      ],
+      "rows": [
+        [
+          "work, stop, study",
+          "worked, stopped, studied"
+        ],
+        [
+          "go, have, do",
+          "went, had, did"
+        ],
+        [
+          "see, make, get",
+          "saw, made, got"
+        ],
+        [
+          "buy, take, come",
+          "bought, took, came"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "past",
+        "label": {
+          "ru": "закончилось в прошлом, момент известен",
+          "en": "finished at a known past time",
+          "es": "terminó en un momento pasado conocido"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-30",
+      "formula": "indefinido: trabajé, fui",
+      "examples": [
+        {
+          "es": "Ayer arreglé el error.",
+          "ru": "Я исправил ошибку вчера."
+        }
+      ],
+      "note": {
+        "ru": "Past Simple ≈ indefinido"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "I visit my parents.",
+      "into": [
+        {
+          "form": "past",
+          "answer": "I visited my parents."
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "We go to the cinema.",
+      "into": [
+        {
+          "form": "past",
+          "answer": "We went to the cinema."
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "Yesterday I ___ a new phone.",
+      "options": [
+        "buy",
+        "bought",
+        "buyed"
+      ],
+      "answer": "bought",
+      "ru": "Вчера я купил новый телефон."
+    },
+    {
+      "type": "choose",
+      "en": "She ___ the report last night.",
+      "options": [
+        "finish",
+        "finished"
+      ],
+      "answer": "finished",
+      "ru": "Она закончила отчёт вчера вечером."
+    },
+    {
+      "type": "fill",
+      "en": "They ___ to London two years ago. (move)",
+      "answer": "moved",
+      "ru": "Они переехали в Лондон два года назад."
+    },
+    {
+      "type": "fill",
+      "en": "I ___ a strange dream last night. (have)",
+      "answer": "had",
+      "ru": "Мне вчера приснился странный сон."
+    },
+    {
+      "type": "build",
+      "en": "We took a taxi to the airport.",
+      "ru": "Мы взяли такси до аэропорта.",
+      "extra": [
+        "take"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы делали в прошлые выходные.",
+        "en": "Write what you did last weekend.",
+        "es": "Escribe qué hiciste el fin de semana pasado."
+      },
+      "template": "Last weekend I …",
+      "sample": "Last weekend I visited my friends and we cooked dinner."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

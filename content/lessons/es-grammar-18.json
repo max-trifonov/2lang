@@ -1,0 +1,165 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-18",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "verbs",
+  "code": "ES-18",
+  "order": 18,
+  "level": "A1",
+  "title": {
+    "ru": "ir, ver, dar; saber или conocer",
+    "en": "ir, ver, dar; saber or conocer",
+    "es": "ir, ver, dar; saber o conocer"
+  },
+  "see": [
+    "es-grammar-21",
+    "es-grammar-16"
+  ],
+  "pattern": [
+    {
+      "es": "Voy a la playa con mis amigos.",
+      "ru": "Я иду на пляж с друзьями."
+    },
+    {
+      "es": "¿Ves el mapa?",
+      "ru": "Ты видишь карту?"
+    },
+    {
+      "es": "No sé dónde está.",
+      "ru": "Я не знаю, где это."
+    },
+    {
+      "es": "¿Conoces Madrid?",
+      "ru": "Ты знаешь Мадрид (бывал там)?"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "ir полностью неправильный: voy, vas, va, vamos, vais, van; «куда» — с a: voy a casa, voy al trabajo. ver — veo, ves; dar — doy, das. saber — знать факт или уметь (sé nadar), conocer — быть знакомым с человеком или местом (conozco a Ana; перед человеком — a).",
+      "en": "ir is fully irregular: voy, vas, va, vamos, vais, van; destination with a. ver — veo; dar — doy. saber = know a fact or how to (sé nadar), conocer = know a person or place (conozco a Ana — a before people).",
+      "es": "ir: voy, vas, va… + a. saber: datos y habilidades (sé). conocer: personas y lugares (conozco a…)."
+    },
+    "formula": "ir a + место · saber + факт / уметь · conocer + человек / место",
+    "table": {
+      "head": [
+        "",
+        "ir",
+        "ver",
+        "dar",
+        "saber",
+        "conocer"
+      ],
+      "rows": [
+        [
+          "yo",
+          "voy",
+          "veo",
+          "doy",
+          "sé",
+          "conozco"
+        ],
+        [
+          "tú",
+          "vas",
+          "ves",
+          "das",
+          "sabes",
+          "conoces"
+        ],
+        [
+          "él, ella, usted",
+          "va",
+          "ve",
+          "da",
+          "sabe",
+          "conoce"
+        ],
+        [
+          "nosotros",
+          "vamos",
+          "vemos",
+          "damos",
+          "sabemos",
+          "conocemos"
+        ],
+        [
+          "vosotros",
+          "vais",
+          "veis",
+          "dais",
+          "sabéis",
+          "conocéis"
+        ],
+        [
+          "ellos, ustedes",
+          "van",
+          "ven",
+          "dan",
+          "saben",
+          "conocen"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "¿___ a Ana? Es mi jefa.",
+      "options": [
+        "Sabes",
+        "Conoces"
+      ],
+      "answer": "Conoces",
+      "ru": "Ты знаком с Аной? Это моя начальница."
+    },
+    {
+      "type": "choose",
+      "es": "No ___ la respuesta.",
+      "options": [
+        "sé",
+        "conozco"
+      ],
+      "answer": "sé",
+      "ru": "Я не знаю ответа."
+    },
+    {
+      "type": "choose",
+      "es": "Mañana ___ al aeropuerto en taxi.",
+      "options": [
+        "vamos",
+        "vemos"
+      ],
+      "answer": "vamos",
+      "ru": "Завтра мы едем в аэропорт на такси."
+    },
+    {
+      "type": "fill",
+      "es": "¿Adónde ___ tú? (ir)",
+      "answer": "vas",
+      "ru": "Куда ты идёшь?"
+    },
+    {
+      "type": "build",
+      "es": "Mis padres van al teatro los sábados.",
+      "ru": "Мои родители ходят в театр по субботам.",
+      "extra": [
+        "vamos"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, куда вы ходите по выходным и что умеете делать.",
+        "en": "Write where you go at weekends and what you can do.",
+        "es": "Escribe adónde vas los fines de semana y qué sabes hacer."
+      },
+      "template": "Los sábados voy … Sé …",
+      "sample": "Los sábados voy al parque. Sé cocinar."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

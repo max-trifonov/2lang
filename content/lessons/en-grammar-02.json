@@ -1,0 +1,178 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-02",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "verbs",
+  "code": "EN-2",
+  "order": 2,
+  "level": "A1",
+  "title": {
+    "ru": "to be: am, is, are",
+    "en": "to be: am, is, are",
+    "es": "to be: am, is, are"
+  },
+  "see": [
+    "en-grammar-01",
+    "en-grammar-09",
+    "en-grammar-18"
+  ],
+  "pattern": [
+    {
+      "en": "I'm a developer.",
+      "ru": "Я разработчик."
+    },
+    {
+      "en": "The hotel is near the beach.",
+      "ru": "Отель рядом с пляжем."
+    },
+    {
+      "en": "Are you tired? — No, I'm not.",
+      "ru": "Ты устал? — Нет."
+    },
+    {
+      "en": "We aren't at home.",
+      "ru": "Нас нет дома."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "В русском «быть» в настоящем опускается («я разработчик»), в английском be обязателен: I am a developer. Отрицание — not после be: I'm not, she isn't. Вопрос — be выходит вперёд: Is she at work? Краткий ответ: Yes, she is. / No, she isn't. Сокращения в речи: I'm, you're, it's.",
+      "en": "Russian drops “to be” in the present, English never does: I am a developer. Negative: be + not (isn't, aren't). Question: be goes first: Is she at work? Short answers: Yes, she is. Contractions: I'm, you're, it's.",
+      "es": "be es obligatorio. Negación: be + not. Pregunta: be delante del sujeto."
+    },
+    "formula": "I am · he / she / it is · we / you / they are",
+    "table": {
+      "head": [
+        "",
+        "+",
+        "−",
+        "?"
+      ],
+      "rows": [
+        [
+          "I",
+          "I'm",
+          "I'm not",
+          "Am I…?"
+        ],
+        [
+          "he, she, it",
+          "he's",
+          "he isn't",
+          "Is he…?"
+        ],
+        [
+          "we, you, they",
+          "we're",
+          "we aren't",
+          "Are we…?"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-04",
+      "formula": "ser / estar",
+      "examples": [
+        {
+          "es": "Soy desarrollador. El hotel está cerca de la playa.",
+          "ru": "Я разработчик. Отель рядом с пляжем."
+        }
+      ],
+      "note": {
+        "ru": "одно be по-испански — два глагола: ser (кто, какой) и estar (где, как сейчас)"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "She is at work.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "She isn't at work.",
+            "She is not at work.",
+            "She's not at work."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Is she at work?"
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "They are ready.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "They aren't ready.",
+            "They are not ready.",
+            "They're not ready."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Are they ready?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "My parents ___ from Moscow.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer": "are",
+      "ru": "Мои родители из Москвы."
+    },
+    {
+      "type": "choose",
+      "en": "___ the museum open today?",
+      "options": [
+        "Is",
+        "Are",
+        "Does"
+      ],
+      "answer": "Is",
+      "ru": "Музей сегодня открыт?"
+    },
+    {
+      "type": "fill",
+      "en": "I ___ not hungry, thanks.",
+      "answer": "am",
+      "ru": "Я не голоден, спасибо."
+    },
+    {
+      "type": "build",
+      "en": "Is the station far from here?",
+      "ru": "Вокзал далеко отсюда?",
+      "extra": [
+        "Does"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Представьтесь: кто вы, откуда и где вы сейчас.",
+        "en": "Introduce yourself: who you are, where you're from, where you are now.",
+        "es": "Preséntate: quién eres, de dónde eres y dónde estás."
+      },
+      "template": "I'm … I'm from … I'm in …",
+      "sample": "I'm Anna. I'm from Kazan. I'm at home now."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

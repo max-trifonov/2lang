@@ -19,6 +19,10 @@ export type Task =
   | { kind: 'fill'; sentence: string; translation?: string; accepted: string[] }
   | { kind: 'build'; sentence: string; translation?: string; blocks: string[] }
   | { kind: 'translate'; prompt: string; accepted: string[] }
+  // Грамматика (LNG-S1-033): выбор формы, трансформер (блоки), своё предложение (самопроверка).
+  | { kind: 'choose'; sentence: string; translation?: string; options: string[]; answer: string }
+  | { kind: 'transform'; source: string; form: string; accepted: string[]; blocks: string[] }
+  | { kind: 'compose'; prompt: string; template?: string; samples: string[] }
 
 /** Перевод для задания: на языке интерфейса, иначе русский; до первой «;» (D-2). */
 export function shortTranslation(word: Pick<CatalogEntry, 'translations'>, locale: string): string {

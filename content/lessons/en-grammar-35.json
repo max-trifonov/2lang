@@ -1,0 +1,166 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-35",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "verbs",
+  "code": "EN-35",
+  "order": 35,
+  "level": "B1",
+  "title": {
+    "ru": "Страдательный залог: is fixed, was deployed",
+    "en": "Passive voice: is fixed, was deployed",
+    "es": "La voz pasiva: is fixed, was deployed"
+  },
+  "see": [
+    "en-grammar-19",
+    "en-grammar-29"
+  ],
+  "pattern": [
+    {
+      "en": "The bug was fixed yesterday.",
+      "ru": "Ошибку исправили вчера."
+    },
+    {
+      "en": "This app is used by millions of people.",
+      "ru": "Этим приложением пользуются миллионы людей."
+    },
+    {
+      "en": "The meeting has been cancelled.",
+      "ru": "Совещание отменили."
+    },
+    {
+      "en": "The new version will be released in May.",
+      "ru": "Новую версию выпустят в мае."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Когда важен результат или неизвестно, кто сделал: be + 3-я форма. Время показывает be: is fixed (обычно), was fixed (в прошлом), has been fixed (уже), will be fixed (будет). Исполнитель — через by: written by Tolstoy. Русские «исправили», «говорят», «сделано» часто переводятся пассивом.",
+      "en": "Use the passive when the result matters or the doer is unknown: be + past participle. be shows the tense: is fixed, was fixed, has been fixed, will be fixed. Add the doer with by. Russian impersonal «исправили» is often a passive in English.",
+      "es": "be + participio: el resultado importa más que el agente. by + agente."
+    },
+    "formula": "be (в нужном времени) + V3 (+ by …)",
+    "table": {
+      "head": [
+        "время",
+        "активный",
+        "пассивный"
+      ],
+      "rows": [
+        [
+          "Present",
+          "They fix it.",
+          "It is fixed."
+        ],
+        [
+          "Past",
+          "They fixed it.",
+          "It was fixed."
+        ],
+        [
+          "Present Perfect",
+          "They have fixed it.",
+          "It has been fixed."
+        ],
+        [
+          "Future",
+          "They will fix it.",
+          "It will be fixed."
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "formula": "se + verbo / ser + participio",
+      "examples": [
+        {
+          "es": "El error se arregló ayer.",
+          "ru": "Ошибку исправили вчера."
+        }
+      ],
+      "note": {
+        "ru": "в испанском чаще пассив с se: se habla español, se arregló"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "They clean the rooms every day.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "The rooms aren't cleaned every day.",
+            "The rooms are not cleaned every day."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Are the rooms cleaned every day?"
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "Someone stole my bike.",
+      "into": [
+        {
+          "form": "past",
+          "answer": "My bike was stolen."
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "English ___ all over the world.",
+      "options": [
+        "speaks",
+        "is spoken"
+      ],
+      "answer": "is spoken",
+      "ru": "На английском говорят во всём мире."
+    },
+    {
+      "type": "choose",
+      "en": "The server ___ last night.",
+      "options": [
+        "was restarted",
+        "restarted by"
+      ],
+      "answer": "was restarted",
+      "ru": "Сервер перезапустили вчера ночью."
+    },
+    {
+      "type": "fill",
+      "en": "The tickets have ___ sold.",
+      "answer": "been",
+      "ru": "Билеты проданы."
+    },
+    {
+      "type": "build",
+      "en": "The report will be sent tomorrow.",
+      "ru": "Отчёт отправят завтра.",
+      "extra": [
+        "send"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Опишите, что сделано в вашем проекте или доме на этой неделе (пассив).",
+        "en": "Describe what has been done in your project or home this week (passive).",
+        "es": "Describe qué se ha hecho esta semana en tu proyecto o casa (pasiva)."
+      },
+      "template": "… has been … / … was …",
+      "sample": "The bug has been fixed. The kitchen was cleaned on Monday."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

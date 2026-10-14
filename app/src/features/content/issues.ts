@@ -53,6 +53,8 @@ export const ERROR_CODES = [
   'answer_not_in_options',
   'duplicate_option',
   'options_count',
+  // отсылки к правилам — LNG-S1-033
+  'bad_ref',
 ] as const
 
 export const WARNING_CODES = [

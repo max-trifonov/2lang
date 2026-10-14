@@ -1,0 +1,177 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-16",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "verbs",
+  "code": "ES-16",
+  "order": 16,
+  "level": "A1",
+  "title": {
+    "ru": "Неправильные в настоящем: tengo, hago, salgo",
+    "en": "Irregular present: tengo, hago, salgo",
+    "es": "Verbos irregulares: tengo, hago, salgo"
+  },
+  "see": [
+    "es-grammar-09",
+    "es-grammar-17"
+  ],
+  "words": [
+    "tener",
+    "hacer",
+    "salir"
+  ],
+  "pattern": [
+    {
+      "es": "Tengo dos hermanos.",
+      "ru": "У меня два брата."
+    },
+    {
+      "es": "Hago la cena hoy.",
+      "ru": "Сегодня ужин готовлю я."
+    },
+    {
+      "es": "Salgo de casa a las ocho.",
+      "ru": "Я выхожу из дома в восемь."
+    },
+    {
+      "es": "¿Vienes con nosotros?",
+      "ru": "Пойдёшь с нами?"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "У частотных глаголов неправильная форма «я» на -go: hacer → hago, poner → pongo, salir → salgo. tener и venir ещё меняют e → ie (кроме «мы» и «вы»): tienes, viene. decir — digo, dices. Остальные формы hacer, poner, salir — правильные.",
+      "en": "Common verbs have an irregular “I” form in -go: hago, pongo, salgo. tener and venir also change e → ie (except nosotros / vosotros): tienes, viene. decir — digo, dices.",
+      "es": "Primera persona en -go: hago, pongo, salgo. tener y venir: e → ie. decir: digo, dices."
+    },
+    "formula": "yo: -go (tengo, hago, pongo, salgo, vengo, digo)",
+    "table": {
+      "head": [
+        "",
+        "tener",
+        "hacer",
+        "salir",
+        "venir",
+        "decir"
+      ],
+      "rows": [
+        [
+          "yo",
+          "tengo",
+          "hago",
+          "salgo",
+          "vengo",
+          "digo"
+        ],
+        [
+          "tú",
+          "tienes",
+          "haces",
+          "sales",
+          "vienes",
+          "dices"
+        ],
+        [
+          "él, ella, usted",
+          "tiene",
+          "hace",
+          "sale",
+          "viene",
+          "dice"
+        ],
+        [
+          "nosotros",
+          "tenemos",
+          "hacemos",
+          "salimos",
+          "venimos",
+          "decimos"
+        ],
+        [
+          "vosotros",
+          "tenéis",
+          "hacéis",
+          "salís",
+          "venís",
+          "decís"
+        ],
+        [
+          "ellos, ustedes",
+          "tienen",
+          "hacen",
+          "salen",
+          "vienen",
+          "dicen"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Yo ___ la maleta en el coche.",
+      "options": [
+        "pono",
+        "pongo"
+      ],
+      "answer": "pongo",
+      "ru": "Я кладу чемодан в машину."
+    },
+    {
+      "type": "choose",
+      "es": "¿Qué ___ tú los fines de semana?",
+      "options": [
+        "haces",
+        "hagos",
+        "hace"
+      ],
+      "answer": "haces",
+      "ru": "Что ты делаешь по выходным?"
+    },
+    {
+      "type": "choose",
+      "es": "Mis amigos ___ mañana.",
+      "options": [
+        "venen",
+        "vienen"
+      ],
+      "answer": "vienen",
+      "ru": "Мои друзья приходят завтра."
+    },
+    {
+      "type": "fill",
+      "es": "Yo no ___ tiempo hoy. (tener)",
+      "answer": "tengo",
+      "ru": "У меня сегодня нет времени."
+    },
+    {
+      "type": "fill",
+      "es": "El tren ___ a las nueve. (salir)",
+      "answer": "sale",
+      "ru": "Поезд отправляется в девять."
+    },
+    {
+      "type": "build",
+      "es": "Siempre digo la verdad.",
+      "ru": "Я всегда говорю правду.",
+      "extra": [
+        "dices"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы делаете утром: во сколько выходите и что берёте с собой.",
+        "en": "Write about your morning: when you leave and what you take.",
+        "es": "Escribe sobre tu mañana: a qué hora sales y qué llevas."
+      },
+      "template": "Salgo de casa a … Tengo …",
+      "sample": "Salgo de casa a las ocho. Tengo un café y el portátil."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

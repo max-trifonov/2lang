@@ -32,7 +32,8 @@
       "start": "Start",
       "allDone": "All lessons done — new ones are coming soon",
       "none": "No lessons yet",
-      "next": "Next lesson"
+      "next": "Next lesson",
+      "nextGrammar": "Next grammar topic"
     },
     "placement": {
       "title": "Quick word check",
@@ -266,6 +267,7 @@
       "answer_not_in_options": "Answer “{answer}” is not among the options",
       "duplicate_option": "Option “{option}” is repeated",
       "options_count": "At least {min} options are needed",
+      "bad_ref": "Reference “{id}” must point to a {kind} lesson in {lang}",
       "pattern_size": "The pattern has {count} examples, {min} to {max} recommended"
     },
     "type": {
@@ -340,7 +342,8 @@
         "phrase": "phrase"
       },
       "reading": "How to read it",
-      "topicCode": "topic {code}"
+      "topicCode": "topic {code}",
+      "grammar": "Grammar"
     },
     "known": "known",
     "knownCount": "{n} known",
@@ -372,7 +375,10 @@
       "translate": "Translate",
       "answer": "Your answer",
       "reset": "Reset",
-      "again": "One more time"
+      "again": "One more time",
+      "choose": "Choose the right form",
+      "transform": "Change the sentence",
+      "compose": "Your own sentence"
     },
     "feedback": {
       "correct": "Correct!",
@@ -401,6 +407,34 @@
         "read": "Read the word",
         "dictation": "Write the word you hear",
         "spell": "Spell it out"
+      }
+    },
+    "grammar": {
+      "pattern": "Look at the examples",
+      "patternHint": "Notice what repeats — the rule is on the next screen.",
+      "rule": "Rule",
+      "bridge": "Bridge: the other language",
+      "bridgeRule": "Rule in the other language",
+      "summary": "Topic done!",
+      "toHandbook": "Rule in the handbook",
+      "see": "Related rules",
+      "more": "More on the rule",
+      "yours": "Your sentence",
+      "sample": "Sample:",
+      "showSample": "Compare with a sample",
+      "form": {
+        "negative": "Make it negative",
+        "question": "Make a yes / no question",
+        "wh-question": "Ask a wh-question",
+        "imperative": "Make it a request or instruction",
+        "polite": "Make it more polite",
+        "past": "Put it in the past",
+        "future": "Put it in the future"
+      },
+      "time": {
+        "past": "past",
+        "now": "now",
+        "future": "future"
       }
     }
   },
@@ -432,7 +466,9 @@
       "next": "Next",
       "open": "Open"
     },
-    "sound": "Sounds"
+    "sound": "Sounds",
+    "grammar": "Grammar",
+    "grammarProgress": "Topics done: {done} of {total}"
   },
   "review": {
     "title": "Review",
@@ -498,5 +534,29 @@
     "freezes": "{n} freeze | {n} freezes",
     "keep": "study today to keep your streak",
     "phrase": "Phrase of the day"
+  },
+  "rules": {
+    "title": "Grammar handbook",
+    "notFound": "Rule not found",
+    "toIndex": "To the handbook",
+    "examples": "Examples",
+    "usedIn": "Used in lessons",
+    "passed": "Lesson done, best score {n}%",
+    "practice": "Take the lesson",
+    "practiceAgain": "Practise again",
+    "empty": "No rules for this language yet",
+    "progress": "Topics done: {done} of {total}",
+    "search": "Find a rule",
+    "nothing": "Nothing found",
+    "section": {
+      "sentence": "Sentences and questions",
+      "verbs": "Verbs",
+      "tenses": "Tenses",
+      "modals": "Modals and politeness",
+      "nouns": "Nouns and articles",
+      "adjectives": "Adjectives and adverbs",
+      "pronouns": "Pronouns",
+      "other": "Other"
+    }
   }
 }

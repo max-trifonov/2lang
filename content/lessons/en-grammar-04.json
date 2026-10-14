@@ -1,0 +1,152 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-04",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "nouns",
+  "code": "EN-4",
+  "order": 4,
+  "level": "A1",
+  "title": {
+    "ru": "Множественное число существительных",
+    "en": "Plural nouns",
+    "es": "El plural de los sustantivos"
+  },
+  "see": [
+    "en-grammar-03",
+    "en-grammar-05",
+    "en-grammar-28"
+  ],
+  "pattern": [
+    {
+      "en": "I have two suitcases.",
+      "ru": "У меня два чемодана."
+    },
+    {
+      "en": "The children are at school.",
+      "ru": "Дети в школе."
+    },
+    {
+      "en": "How many people are there?",
+      "ru": "Сколько там людей?"
+    },
+    {
+      "en": "These boxes are heavy.",
+      "ru": "Эти коробки тяжёлые."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Обычно +s: tickets. После s, x, ch, sh — +es: boxes, matches. Согласная + y → ies: city → cities (но day → days). Особые формы надо выучить: person → people, child → children, man → men, woman → women, foot → feet. Прилагательные и артикль the не меняются: the new tickets.",
+      "en": "Usually +s; after s, x, ch, sh +es; consonant + y → ies (but days). Learn irregulars: people, children, men, women, feet. Adjectives and the do not change.",
+      "es": "+s / +es / y → ies. Irregulares: people, children, men, women."
+    },
+    "formula": "+ s · s, x, ch, sh + es · согласная + y → ies · особые: people, children, men",
+    "table": {
+      "head": [
+        "ед. ч.",
+        "мн. ч."
+      ],
+      "rows": [
+        [
+          "ticket",
+          "tickets"
+        ],
+        [
+          "box, bus",
+          "boxes, buses"
+        ],
+        [
+          "city",
+          "cities"
+        ],
+        [
+          "person, child",
+          "people, children"
+        ],
+        [
+          "man, woman",
+          "men, women"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-03",
+      "formula": "-s / -es + los / las",
+      "examples": [
+        {
+          "es": "dos maletas, los niños",
+          "ru": "два чемодана, дети"
+        }
+      ],
+      "note": {
+        "ru": "в испанском артикль и прилагательное тоже во множественном"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "We have three ___.",
+      "options": [
+        "child",
+        "children",
+        "childs"
+      ],
+      "answer": "children",
+      "ru": "У нас трое детей."
+    },
+    {
+      "type": "choose",
+      "en": "There are many ___ in this street.",
+      "options": [
+        "shops",
+        "shop",
+        "shopes"
+      ],
+      "answer": "shops",
+      "ru": "На этой улице много магазинов."
+    },
+    {
+      "type": "choose",
+      "en": "How many ___ live in your city?",
+      "options": [
+        "person",
+        "people"
+      ],
+      "answer": "people",
+      "ru": "Сколько людей живёт в вашем городе?"
+    },
+    {
+      "type": "fill",
+      "en": "I visited two ___ in Spain. (city)",
+      "answer": "cities",
+      "ru": "Я посетил два города в Испании."
+    },
+    {
+      "type": "build",
+      "en": "The new buses are very comfortable.",
+      "ru": "Новые автобусы очень удобные.",
+      "extra": [
+        "news"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что у вас есть: несколько предметов во множественном числе.",
+        "en": "Write what you have: a few things in the plural.",
+        "es": "Escribe qué tienes: varias cosas en plural."
+      },
+      "template": "I have …",
+      "sample": "I have two phones and three bags."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

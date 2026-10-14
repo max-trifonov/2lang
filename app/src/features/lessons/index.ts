@@ -1,9 +1,12 @@
 // Уроки, формат v1 — .flow/lesson-format.md; вид words — LNG-S1-008.
 export {
   EXERCISE_TYPES,
+  GRAMMAR_SECTIONS,
   LESSON_KINDS,
   lessonKey,
   type Exercise,
+  type GrammarLesson,
+  type GrammarSection,
   type Lesson,
   type Letter,
   type ReadingRule,
@@ -22,7 +25,14 @@ export { rulesFor, rulesIndex, type RuleHint } from './rules'
 export { checkAnswer, type Checked, type Verdict } from './player/answer'
 export { scramble, seeded, splitBlocks } from './player/blocks'
 export { nextLesson, type NextLesson } from './player/next'
-export { lessonPath, type LessonPath, type LessonStatus, type PathItem } from './path'
+export {
+  GRAMMAR_EVERY,
+  lessonPath,
+  type GrammarItem,
+  type LessonPath,
+  type LessonStatus,
+  type PathItem,
+} from './path'
 export {
   buildPractice,
   hearTask,
@@ -57,3 +67,15 @@ export {
 } from './player/sound'
 export { default as SoundButton } from './ui/SoundButton.vue'
 export { default as SoundPractice } from './ui/SoundTask.vue'
+export { buildGrammarPractice, grammarLessons, type GrammarTask } from './player/grammar'
+export {
+  backlinks,
+  grammarForWord,
+  grammarRefs,
+  grammarSections,
+  lessonRoute,
+  ruleRoute,
+  type GrammarGroup,
+} from './refs'
+export { default as GrammarRule } from './ui/GrammarRule.vue'
+export { default as RuleLinks } from './ui/RuleLinks.vue'

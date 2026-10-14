@@ -1,0 +1,170 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-31",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "EN-31",
+  "order": 31,
+  "level": "B1",
+  "title": {
+    "ru": "Past Continuous: делал, когда…",
+    "en": "Past Continuous: was doing when…",
+    "es": "Past Continuous: estaba haciendo cuando…"
+  },
+  "see": [
+    "en-grammar-19",
+    "en-grammar-17"
+  ],
+  "pattern": [
+    {
+      "en": "I was working when you called.",
+      "ru": "Я работал, когда ты позвонил."
+    },
+    {
+      "en": "What were you doing at 8 pm?",
+      "ru": "Что ты делал в 8 вечера?"
+    },
+    {
+      "en": "It was raining all day.",
+      "ru": "Весь день шёл дождь."
+    },
+    {
+      "en": "While we were waiting, the bus came.",
+      "ru": "Пока мы ждали, пришёл автобус."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Процесс в прошлом: что шло в определённый момент (at 8 pm) или когда что-то случилось. Длинное фоновое действие — Past Continuous, короткое событие — Past Simple: I was cooking when the phone rang. while — «пока» (обычно с Continuous), when — «когда» (обычно с Simple).",
+      "en": "A process in the past: in progress at a time or when something happened. Background action — Past Continuous, short event — Past Simple: I was cooking when the phone rang. while + continuous, when + simple.",
+      "es": "was / were + -ing: acción en curso en el pasado (= estaba + gerundio)."
+    },
+    "formula": "was / were + V-ing",
+    "table": {
+      "head": [
+        "",
+        "+",
+        "−",
+        "?"
+      ],
+      "rows": [
+        [
+          "I, he, she, it",
+          "was working",
+          "wasn't working",
+          "Was he working?"
+        ],
+        [
+          "we, you, they",
+          "were working",
+          "weren't working",
+          "Were they working?"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "past",
+        "label": {
+          "ru": "процесс в прошлом, прерванный событием",
+          "en": "a past process interrupted by an event",
+          "es": "un proceso pasado interrumpido"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-24",
+      "formula": "estaba + gerundio",
+      "examples": [
+        {
+          "es": "Estaba trabajando cuando llamaste.",
+          "ru": "Я работал, когда ты позвонил."
+        }
+      ],
+      "note": {
+        "ru": "≈ estar + gerundio в прошлом (imperfecto)"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "She is sleeping.",
+      "into": [
+        {
+          "form": "past",
+          "answer": "She was sleeping."
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "They were watching TV.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "They weren't watching TV.",
+            "They were not watching TV."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Were they watching TV?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "I ___ a shower when the lights went out.",
+      "options": [
+        "took",
+        "was taking"
+      ],
+      "answer": "was taking",
+      "ru": "Я принимал душ, когда погас свет."
+    },
+    {
+      "type": "choose",
+      "en": "While I was driving, I ___ an accident.",
+      "options": [
+        "saw",
+        "was seeing"
+      ],
+      "answer": "saw",
+      "ru": "Когда я ехал, я увидел аварию."
+    },
+    {
+      "type": "fill",
+      "en": "What ___ you doing at ten last night?",
+      "answer": "were",
+      "ru": "Что ты делал вчера в десять вечера?"
+    },
+    {
+      "type": "build",
+      "en": "We were having dinner when Tom arrived.",
+      "ru": "Мы ужинали, когда пришёл Том.",
+      "extra": [
+        "had"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы делали вчера в 8 вечера.",
+        "en": "Write what you were doing at 8 pm yesterday.",
+        "es": "Escribe qué estabas haciendo ayer a las ocho de la tarde."
+      },
+      "template": "At 8 pm yesterday I was …",
+      "sample": "At 8 pm yesterday I was cooking dinner and listening to music."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

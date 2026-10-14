@@ -1,0 +1,183 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-15",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "modals",
+  "code": "EN-15",
+  "order": 15,
+  "level": "A1",
+  "title": {
+    "ru": "can / could: умею, могу, можно",
+    "en": "can / could: ability, possibility, permission",
+    "es": "can / could: poder"
+  },
+  "see": [
+    "en-grammar-09",
+    "en-grammar-24",
+    "en-grammar-25"
+  ],
+  "pattern": [
+    {
+      "en": "I can speak three languages.",
+      "ru": "Я говорю на трёх языках (умею)."
+    },
+    {
+      "en": "Can you help me?",
+      "ru": "Можешь мне помочь?"
+    },
+    {
+      "en": "You can't park here.",
+      "ru": "Здесь нельзя парковаться."
+    },
+    {
+      "en": "I could swim when I was five.",
+      "ru": "Я умел плавать в пять лет."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "can — «умею, могу, можно»; одна форма для всех лиц, без -s и без to: She can drive. Отрицание — can't (cannot), вопрос — Can you…? could — «мог, умел» в прошлом и более вежливая просьба: Could you help me? О будущем умении — will be able to.",
+      "en": "can = ability, possibility, permission; one form for all persons, no -s, no to: She can drive. Negative can't, question Can you…? could = past ability and a politer request. Future ability: will be able to.",
+      "es": "can + verbo sin to. could: pasado y cortesía. will be able to: futuro."
+    },
+    "formula": "can / can't + V (без to) · could — прошлое и вежливость",
+    "table": {
+      "head": [
+        "",
+        "+",
+        "−",
+        "?"
+      ],
+      "rows": [
+        [
+          "настоящее",
+          "I can swim.",
+          "I can't swim.",
+          "Can you swim?"
+        ],
+        [
+          "прошлое",
+          "I could swim.",
+          "I couldn't swim.",
+          "Could you swim?"
+        ],
+        [
+          "будущее",
+          "I'll be able to swim.",
+          "I won't be able to swim.",
+          "Will you be able to swim?"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "now",
+        "label": {
+          "ru": "умение или возможность сейчас",
+          "en": "ability or possibility now",
+          "es": "capacidad o posibilidad ahora"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-19",
+      "formula": "poder / saber + infinitivo",
+      "examples": [
+        {
+          "es": "¿Puedes ayudarme?",
+          "ru": "Можешь мне помочь?"
+        }
+      ],
+      "note": {
+        "ru": "«умею плавать» по-испански — sé nadar (saber)"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "She can drive.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "She can't drive.",
+            "She cannot drive."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Can she drive?"
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "I can help you.",
+      "into": [
+        {
+          "form": "past",
+          "answer": "I could help you."
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "He ___ play the guitar.",
+      "options": [
+        "can",
+        "cans",
+        "can to"
+      ],
+      "answer": "can",
+      "ru": "Он умеет играть на гитаре."
+    },
+    {
+      "type": "choose",
+      "en": "___ I use your phone?",
+      "options": [
+        "Can",
+        "Do",
+        "Am"
+      ],
+      "answer": "Can",
+      "ru": "Можно мне воспользоваться твоим телефоном?"
+    },
+    {
+      "type": "choose",
+      "en": "Last year I ___ speak English.",
+      "options": [
+        "can't",
+        "couldn't"
+      ],
+      "answer": "couldn't",
+      "ru": "В прошлом году я не говорил по-английски."
+    },
+    {
+      "type": "build",
+      "en": "Can you send me the file?",
+      "ru": "Можешь прислать мне файл?",
+      "extra": [
+        "to"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы умеете и чего не умеете.",
+        "en": "Write what you can and can't do.",
+        "es": "Escribe qué sabes y qué no sabes hacer."
+      },
+      "template": "I can … but I can't …",
+      "sample": "I can cook, but I can't dance."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

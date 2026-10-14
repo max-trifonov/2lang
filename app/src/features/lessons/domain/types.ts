@@ -27,6 +27,18 @@ export type TransformForm = (typeof TRANSFORM_FORMS)[number]
 /** Отрезок линии времени (D-2 LNG-S1-010): рисует плеер. */
 export const TIME_POINTS = ['past', 'now', 'future'] as const
 
+/** Разделы справочника грамматики (D-38): группировка тем на экране «Правила». */
+export const GRAMMAR_SECTIONS = [
+  'sentence',
+  'verbs',
+  'tenses',
+  'modals',
+  'nouns',
+  'adjectives',
+  'pronouns',
+] as const
+export type GrammarSection = (typeof GRAMMAR_SECTIONS)[number]
+
 /** Записанное аудио — путь от content/ (D-4 LNG-S1-009). */
 export const AUDIO_RE = /^audio\/[a-z]{2}\/[a-z0-9_\-/]+\.(mp3|ogg|m4a)$/
 
@@ -66,6 +78,8 @@ export interface LessonBase {
   title: Record<string, string>
   requires?: string[]
   level?: string
+  /** Отсылки к правилам (D-38): id уроков того же языка — обычно грамматики. */
+  see?: string[]
   ext?: Record<string, unknown>
 }
 
@@ -118,6 +132,8 @@ export interface GrammarRule {
 
 export interface Bridge {
   lang: string
+  /** Урок грамматики языка моста — та же тема с другой стороны (D-38). */
+  lesson?: string
   formula?: string
   examples?: LangText[]
   note?: Record<string, string>
@@ -137,6 +153,7 @@ export type GrammarExercise =
 
 export interface GrammarLesson extends LessonBase {
   kind: 'grammar'
+  section?: GrammarSection
   /** Условие открытия темы — слова словаря (D-4 LNG-S1-010). */
   words?: string[]
   pattern: LangText[]

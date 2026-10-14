@@ -1,0 +1,147 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-01",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "EN-1",
+  "order": 1,
+  "level": "A1",
+  "title": {
+    "ru": "Порядок слов: кто → действие → что → где → когда",
+    "en": "Word order: who → action → what → where → when",
+    "es": "Orden de palabras en inglés"
+  },
+  "see": [
+    "en-grammar-02",
+    "en-grammar-08",
+    "en-grammar-09"
+  ],
+  "pattern": [
+    {
+      "en": "I check the code every morning.",
+      "ru": "Я проверяю код каждое утро."
+    },
+    {
+      "en": "We meet our friends at the café on Fridays.",
+      "ru": "По пятницам мы встречаемся с друзьями в кафе."
+    },
+    {
+      "en": "It is cold today.",
+      "ru": "Сегодня холодно."
+    },
+    {
+      "en": "There is a problem with the server.",
+      "ru": "С сервером проблема."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Порядок в английском жёсткий: подлежащее → глагол → дополнение → где → когда. По порядку понятно, кто кого: Ana calls Tom ≠ Tom calls Ana. Подлежащее обязательно, даже если его нет в русском: It is cold («холодно»), It's late, There is… Время можно вынести в начало: On Fridays we meet…",
+      "en": "English word order is fixed: subject → verb → object → place → time. Order shows who does what: Ana calls Tom ≠ Tom calls Ana. A subject is always required: It is cold, It's late, There is… Time can also go first.",
+      "es": "Orden fijo: sujeto → verbo → objeto → lugar → tiempo. El sujeto es obligatorio: It is cold."
+    },
+    "formula": "подлежащее + глагол + дополнение + место + время",
+    "table": {
+      "head": [
+        "кто",
+        "действие",
+        "что",
+        "где",
+        "когда"
+      ],
+      "rows": [
+        [
+          "I",
+          "check",
+          "the code",
+          "at work",
+          "every morning"
+        ],
+        [
+          "We",
+          "meet",
+          "our friends",
+          "at the café",
+          "on Fridays"
+        ],
+        [
+          "It",
+          "is",
+          "cold",
+          "here",
+          "today"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-01",
+      "formula": "(yo) trabajo — подлежащее можно опустить",
+      "examples": [
+        {
+          "es": "Trabajo en Madrid.",
+          "ru": "Я работаю в Мадриде."
+        }
+      ],
+      "note": {
+        "ru": "в испанском лицо видно по окончанию, в английском — только по подлежащему"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "___ is raining.",
+      "options": [
+        "It",
+        "—",
+        "There"
+      ],
+      "answer": "It",
+      "ru": "Идёт дождь."
+    },
+    {
+      "type": "choose",
+      "en": "My brother ___ in London.",
+      "options": [
+        "works",
+        "work in"
+      ],
+      "answer": "works",
+      "ru": "Мой брат работает в Лондоне."
+    },
+    {
+      "type": "build",
+      "en": "We have a meeting at the office tomorrow.",
+      "ru": "Завтра у нас совещание в офисе.",
+      "extra": [
+        "tomorrow's"
+      ]
+    },
+    {
+      "type": "build",
+      "en": "I drink coffee in the kitchen every morning.",
+      "ru": "Каждое утро я пью кофе на кухне.",
+      "extra": [
+        "drinking"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы обычно делаете утром: кто — что — где — когда.",
+        "en": "Write what you usually do in the morning: who — what — where — when.",
+        "es": "Escribe qué haces por la mañana: quién — qué — dónde — cuándo."
+      },
+      "template": "I …",
+      "sample": "I drink coffee in the kitchen at seven."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-18",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "EN-18",
+  "order": 18,
+  "level": "A1",
+  "title": {
+    "ru": "was / were: «был»",
+    "en": "was / were: past of be",
+    "es": "was / were: el pasado de be"
+  },
+  "see": [
+    "en-grammar-02",
+    "en-grammar-19"
+  ],
+  "pattern": [
+    {
+      "en": "I was at home yesterday.",
+      "ru": "Вчера я был дома."
+    },
+    {
+      "en": "The meeting was very long.",
+      "ru": "Совещание было очень длинным."
+    },
+    {
+      "en": "Were you tired? — Yes, I was.",
+      "ru": "Ты устал? — Да."
+    },
+    {
+      "en": "We weren't in London last week.",
+      "ru": "На прошлой неделе нас не было в Лондоне."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Прошедшее от be: was (I, he, she, it) и were (we, you, they). Отрицание — wasn't / weren't, вопрос — Was it…? Were you…? Краткий ответ — Yes, I was. «Там было» — there was / there were.",
+      "en": "Past of be: was (I, he, she, it), were (we, you, they). Negative: wasn't / weren't; question: Was it…? Were you…? “There was / there were”.",
+      "es": "was / were. Negación: wasn't / weren't. there was / there were."
+    },
+    "formula": "I / he / she / it was · we / you / they were",
+    "table": {
+      "head": [
+        "",
+        "+",
+        "−",
+        "?"
+      ],
+      "rows": [
+        [
+          "I, he, she, it",
+          "was",
+          "wasn't",
+          "Was it…?"
+        ],
+        [
+          "we, you, they",
+          "were",
+          "weren't",
+          "Were you…?"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "past",
+        "label": {
+          "ru": "в прошлом",
+          "en": "in the past",
+          "es": "en el pasado"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-31",
+      "formula": "fue, estuvo, era",
+      "examples": [
+        {
+          "es": "Ayer estuve en casa.",
+          "ru": "Вчера я был дома."
+        }
+      ],
+      "note": {
+        "ru": "в испанском «был» — это fue / estuvo / era в зависимости от смысла"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "The hotel was expensive.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "The hotel wasn't expensive.",
+            "The hotel was not expensive."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Was the hotel expensive?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "Where ___ you last night?",
+      "options": [
+        "was",
+        "were"
+      ],
+      "answer": "were",
+      "ru": "Где ты был вчера вечером?"
+    },
+    {
+      "type": "choose",
+      "en": "There ___ a lot of people at the party.",
+      "options": [
+        "was",
+        "were"
+      ],
+      "answer": "were",
+      "ru": "На вечеринке было много людей."
+    },
+    {
+      "type": "fill",
+      "en": "It ___ very cold yesterday.",
+      "answer": "was",
+      "ru": "Вчера было очень холодно."
+    },
+    {
+      "type": "build",
+      "en": "Were your parents at home on Sunday?",
+      "ru": "Твои родители были дома в воскресенье?",
+      "extra": [
+        "Was"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, где вы были вчера и каким был день.",
+        "en": "Write where you were yesterday and what the day was like.",
+        "es": "Escribe dónde estuviste ayer y cómo fue el día."
+      },
+      "template": "Yesterday I was … It was …",
+      "sample": "Yesterday I was at the office. It was a busy day."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

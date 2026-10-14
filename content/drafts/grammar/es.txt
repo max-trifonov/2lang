@@ -1,0 +1,845 @@
+# Грамматика ES, база A1–A2 (LNG-S1-033, D-38). Программа — .flow/curriculum.md. Формат — шапка gen.py.
+
+=== 1 A1 sentence
+title: Строй предложения: кто + что делает | Sentence structure: who + does what | La oración: quién + qué hace
+see: 8 10 11
+p: Yo trabajo en Madrid. | Я работаю в Мадриде.
+p: Trabajo en un proyecto nuevo. | Я работаю над новым проектом.
+p: Ana habla inglés y español. | Ана говорит по-английски и по-испански.
+p: Hoy llegamos tarde. | Сегодня мы опаздываем.
+formula: (кто) + глагол + что / где / когда
+rule: Обычный порядок — как в русском: кто → действие → остальное. Окончание глагола уже показывает лицо, поэтому yo, tú, nosotros обычно опускают: trabajo = «я работаю». Местоимение ставят для ясности или акцента: Yo trabajo, ¿y tú? Usted — вежливое «вы» к одному человеку, глагол как у él / ella. | Normal order: who → action → the rest. The verb ending already shows the person, so yo, tú, nosotros are usually dropped: trabajo = “I work”. Use the pronoun for clarity or contrast: Yo trabajo, ¿y tú? Usted is the polite “you”, with the verb form of él / ella. | Orden habitual: sujeto → verbo → complementos. La terminación del verbo indica la persona, por eso el pronombre suele omitirse: trabajo. Usted lleva el verbo en tercera persona.
+table: | кто | hablar | ser
+row: я | yo | hablo | soy
+row: ты | tú | hablas | eres
+row: он, она, вы (вежл.) | él, ella, usted | habla | es
+row: мы | nosotros, nosotras | hablamos | somos
+row: вы | vosotros, vosotras | habláis | sois
+row: они, вы (вежл. мн.) | ellos, ellas, ustedes | hablan | son
+bridge: 1 | I work. — подлежащее обязательно | I work in Madrid. | Я работаю в Мадриде. | в английском I, you, it нельзя опустить — в испанском лицо видно по окончанию
+choose: ___ en un hotel cerca de la playa. | Trabajo, Trabajas, Trabajamos | Trabajamos | Мы работаем в отеле рядом с пляжем.
+choose: Usted ___ muy bien español. | hablas, habla, hablo | habla | Вы очень хорошо говорите по-испански.
+fill: Ella ___ en una empresa de IT. | trabaja | Она работает в IT-компании.
+build: Mañana trabajo en casa. | Завтра я работаю дома. | trabajas
+build: Mi hermano habla tres idiomas. | Мой брат говорит на трёх языках. | hablo
+compose: Напишите, где вы работаете или учитесь. | Write where you work or study. | Escribe dónde trabajas o estudias. || Trabajo en … || Trabajo en una empresa de IT. / Estudio en la universidad.
+
+=== 2 A1 nouns
+title: Род и артикли: el / la, un / una | Gender and articles: el / la, un / una | Género y artículos: el / la, un / una
+see: 3 13
+p: Tengo una reserva en el hotel. | У меня бронь в отеле.
+p: La habitación está libre. | Номер свободен.
+p: ¿Hay un café cerca? | Рядом есть кафе?
+p: El problema es el código. | Проблема — в коде.
+formula: el / un + муж. род · la / una + жен. род
+rule: У каждого существительного есть род. Обычно -o — мужской (el libro), -a — женский (la mesa); -ción, -dad — женский (la estación, la ciudad). Исключения учите с артиклем: el problema, el día, la mano. el / la — «тот самый, известный», un / una — «какой-то, один». После a и de: a + el = al, de + el = del. | Every noun has a gender. Usually -o is masculine (el libro), -a feminine (la mesa); -ción and -dad are feminine. Learn exceptions with the article: el problema, el día, la mano. el / la = the, un / una = a. a + el = al, de + el = del. | Cada sustantivo tiene género: -o suele ser masculino, -a femenino; -ción y -dad, femeninos. Excepciones: el problema, el día, la mano. a + el = al, de + el = del.
+table: | определённый | неопределённый
+row: муж. род | el tren | un tren
+row: жен. род | la estación | una estación
+row: исключения | el problema, el día | la mano, la foto
+bridge: 3 | the / a, an | I have a reservation at the hotel. | У меня бронь в отеле. | в английском рода нет: the — для всех
+choose: Necesito ___ habitación para dos noches. | un, una | una | Мне нужен номер на две ночи.
+choose: ___ problema es importante. | El, La | El | Проблема важная.
+choose: Voy ___ aeropuerto. | a el, al | al | Я еду в аэропорт.
+fill: ¿Dónde está ___ estación? | la | Где вокзал?
+build: Tengo un problema con el ordenador. | У меня проблема с компьютером. | la
+compose: Назовите три вещи в своей комнате с артиклем. | Name three things in your room with an article. | Nombra tres cosas de tu habitación con artículo. || En mi habitación hay … || En mi habitación hay una mesa, un ordenador y una ventana.
+
+=== 3 A1 nouns
+title: Множественное число: los / las, unos / unas | Plural: los / las, unos / unas | El plural: los / las, unos / unas
+see: 2 13
+p: Tengo dos maletas. | У меня два чемодана.
+p: Los billetes están aquí. | Билеты здесь.
+p: Las reuniones son los lunes. | Совещания — по понедельникам.
+p: Necesito unos días libres. | Мне нужно несколько свободных дней.
+formula: -о/-а/-е + s · согласная + es · el → los, la → las
+rule: На гласную — +s (maleta → maletas), на согласную — +es (reunión → reuniones, ciudad → ciudades); -z меняется на -c: vez → veces. Артикль тоже во множественном: los, las; unos / unas — «несколько, какие-то». Смешанная группа — мужского рода: los amigos — это и друзья, и друзья с подругами. | After a vowel add -s, after a consonant add -es; -z becomes -ces: vez → veces. Articles go plural too: los, las; unos / unas = “some”. A mixed group is masculine: los amigos. | Vocal + s, consonante + es, z → ces. Artículos: los, las, unos, unas. Grupo mixto: masculino.
+table: | ед. число | мн. число
+row: на гласную | el billete | los billetes
+row: на согласную | la reunión | las reuniones
+row: на -z | la vez | las veces
+row: смешанная группа | el amigo + la amiga | los amigos
+bridge: 4 | -s / -es | two suitcases, three meetings | два чемодана, три совещания | в английском артикль во множественном не меняется: the tickets
+choose: Tengo dos ___ para el concierto. | billete, billetes, billetees | billetes | У меня два билета на концерт.
+choose: ___ ciudades de España son bonitas. | Los, Las | Las | Города Испании красивые.
+fill: Hoy tenemos tres ___. (reunión) | reuniones | Сегодня у нас три совещания.
+fill: Necesito ___ días libres. | unos | Мне нужно несколько свободных дней.
+build: Los amigos de Ana llegan mañana. | Друзья Аны приезжают завтра. | las
+compose: Напишите, что у вас есть: два–три предмета во множественном числе. | Write what you have: two or three things in the plural. | Escribe qué tienes: dos o tres cosas en plural. || Tengo … || Tengo dos maletas y tres libros.
+
+=== 4 A1 verbs
+title: ser: кто, что, откуда, какой | ser: who, what, where from, what like | ser: quién, qué, de dónde, cómo es
+see: 5 1
+p: Soy Ana. Soy de Valencia. | Я Ана. Я из Валенсии.
+p: Somos desarrolladores. | Мы разработчики.
+p: El hotel es grande y moderno. | Отель большой и современный.
+p: ¿Qué hora es? Son las tres. | Который час? Три часа.
+formula: ser + кто / откуда (de) / какой по сути
+rule: ser — «быть» для постоянного: имя, профессия, происхождение (ser de), характер и свойства, время и даты. Профессию говорят без артикля: Soy ingeniero. Время — es la una, son las dos. | ser is “to be” for identity: name, job, origin (ser de), personality and qualities, time and dates. No article with jobs: Soy ingeniero. Time: es la una, son las dos. | ser: identidad, profesión, origen (ser de), características, hora y fecha. Soy ingeniero (sin artículo).
+table: | ser
+row: yo | soy
+row: tú | eres
+row: él, ella, usted | es
+row: nosotros | somos
+row: vosotros | sois
+row: ellos, ustedes | son
+bridge: 2 | to be: am / is / are | I am from Valencia. | Я из Валенсии. | английское be = и ser, и estar
+tf: Eres de Madrid. || question = ¿Eres de Madrid? || negative = No eres de Madrid.
+choose: Nosotros ___ de Rusia. | somos, son, sois | somos | Мы из России.
+choose: Mi jefe ___ muy simpático. | es, eres, soy | es | Мой начальник очень приятный.
+fill: ¿De dónde ___ tú? | eres | Откуда ты?
+build: Mi hermana es médica en Madrid. | Моя сестра — врач в Мадриде. | una
+compose: Представьтесь: имя, откуда вы и кто по профессии. | Introduce yourself: name, origin and job. | Preséntate: nombre, origen y profesión. || Soy … Soy de … Soy … || Soy Pablo. Soy de Moscú. Soy programador.
+
+=== 5 A1 verbs
+title: estar: где и как; ser или estar | estar: where and how; ser or estar | estar: dónde y cómo; ser o estar
+see: 4 6 24
+words: estar
+p: El hotel está cerca de la playa. | Отель рядом с пляжем.
+p: Estoy cansado. | Я устал.
+p: ¿Dónde están las llaves? | Где ключи?
+p: La sopa está muy rica. | Суп очень вкусный.
+formula: estar + где / как сейчас
+rule: estar — «находиться» и «быть в состоянии»: где кто-то или что-то (está cerca), самочувствие и настроение (estoy cansado), временное состояние (la mesa está libre). Сравните: es aburrido — «он скучный (по характеру)», está aburrido — «ему скучно (сейчас)». | estar is for location (está cerca), feelings and temporary states (estoy cansado, la mesa está libre). Compare: es aburrido “he is boring”, está aburrido “he is bored”. | estar: ubicación, estado de ánimo, estados temporales. Es aburrido / está aburrido.
+table: | estar | пример
+row: yo | estoy | Estoy en casa.
+row: tú | estás | ¿Estás bien?
+row: él, ella, usted | está | Está cerca.
+row: nosotros | estamos | Estamos listos.
+row: vosotros | estáis | ¿Estáis aquí?
+row: ellos, ustedes | están | Están cansados.
+bridge: 2 | to be: am / is / are | The hotel is near the beach. | Отель рядом с пляжем. | ser и estar — оба переводятся как be
+tf: Estás cansado. || question = ¿Estás cansado? || negative = No estás cansado.
+choose: Madrid ___ en el centro de España. | es, está | está | Мадрид находится в центре Испании.
+choose: Mi hermana ___ profesora. | es, está | es | Моя сестра — учительница.
+choose: Hoy ___ muy contentos. | somos, estamos | estamos | Сегодня мы очень довольны.
+fill: ¿Dónde ___ la estación? | está | Где вокзал?
+build: El restaurante está lejos del hotel. | Ресторан далеко от отеля. | es
+compose: Напишите, где вы сейчас и как себя чувствуете. | Write where you are now and how you feel. | Escribe dónde estás y cómo estás ahora. || Ahora estoy en … Estoy … || Ahora estoy en casa. Estoy un poco cansado.
+
+=== 6 A1 verbs
+title: hay — «есть, имеется» | hay — “there is / there are” | hay: existencia
+see: 5 2
+p: Hay un café cerca del hotel. | Рядом с отелем есть кафе.
+p: ¿Hay wifi en la habitación? | В номере есть вай-фай?
+p: No hay billetes para hoy. | На сегодня билетов нет.
+p: Hay muchos errores en el código. | В коде много ошибок.
+formula: hay + (un / una / число / mucho) + существительное
+rule: hay — одна форма для ед. и мн. числа: «есть, имеется». После hay — без el / la: hay un banco. Про известный предмет «где он» — estar: El banco está aquí. Вопрос — ¿Hay…?, отрицание — No hay… | hay is one form for singular and plural: “there is / there are”. No el / la after it: hay un banco. For where a known thing is, use estar: El banco está aquí. | hay (invariable) + sin artículo determinado. Para ubicar algo conocido: estar.
+table: | что-то есть (hay) | где оно (estar)
+row: ед. ч. | Hay un banco aquí. | El banco está aquí.
+row: мн. ч. | Hay dos bancos. | Los bancos están aquí.
+row: вопрос | ¿Hay un banco cerca? | ¿Dónde está el banco?
+bridge: 5 | there is / there are | Is there a café near the hotel? | Рядом с отелем есть кафе? | there is / there are ≈ hay, но hay одна форма
+tf: Hay agua en la nevera. || negative = No hay agua en la nevera. || question = ¿Hay agua en la nevera?
+choose: ¿___ un supermercado cerca? | Hay, Está, Es | Hay | Рядом есть супермаркет?
+choose: El supermercado ___ en la esquina. | hay, está | está | Супермаркет на углу.
+fill: No ___ problema. | hay | Нет проблем.
+build: Hay muchos turistas en la playa. | На пляже много туристов. | están
+compose: Опишите, что есть рядом с вашим домом. | Describe what there is near your home. | Describe qué hay cerca de tu casa. || Cerca de mi casa hay … || Cerca de mi casa hay un parque y una farmacia.
+
+=== 7 A1 sentence
+title: Предлоги места и времени: en, a, de, con | Prepositions of place and time: en, a, de, con | Preposiciones de lugar y tiempo
+see: 6 12
+p: Vivo en Barcelona. | Я живу в Барселоне.
+p: Voy a la oficina a las nueve. | Я иду в офис к девяти.
+p: Soy de Rusia. | Я из России.
+p: Trabajo de lunes a viernes. | Я работаю с понедельника по пятницу.
+formula: en (где) · a (куда, во сколько) · de (откуда, чей) · con (с кем)
+rule: en — «в, на» (где): en casa, en el tren. a — направление и время: voy a Madrid, a las ocho. de — откуда и чей: de Rusia, el coche de Ana. con — «с»: con mis amigos (conmigo, contigo). de… a — «с… до»; los lunes — «по понедельникам», без предлога. | en = in / at (where), a = to / at a time, de = from / of, con = with (conmigo, contigo). de… a = from… to; los lunes = on Mondays. | en: lugar; a: dirección y hora; de: origen y posesión; con: compañía (conmigo, contigo).
+table: | предлог | пример
+row: где | en | Estoy en el hotel.
+row: куда | a | Voy al aeropuerto.
+row: во сколько | a las… | a las ocho
+row: откуда, чей | de | de Rusia, el móvil de Ana
+row: с кем | con | con mis amigos, conmigo
+bridge: 6 | in / on / at, to, from, with | I live in Barcelona. | Я живу в Барселоне. | в испанском en покрывает и in, и on, и at места
+choose: Mañana voy ___ Sevilla. | a, en, de | a | Завтра я еду в Севилью.
+choose: La reunión es ___ las diez. | en, a, de | a | Совещание в десять.
+choose: ¿Vienes ___ nosotros? | con, de, en | con | Пойдёшь с нами?
+fill: Mis padres viven ___ Moscú. | en | Мои родители живут в Москве.
+build: El portátil de Pablo está en la mesa. | Ноутбук Пабло на столе. | a
+compose: Напишите, где вы живёте и во сколько начинаете работать. | Write where you live and what time you start work. | Escribe dónde vives y a qué hora empiezas a trabajar. || Vivo en … Empiezo a … || Vivo en Valencia. Empiezo a las nueve.
+
+=== 8 A1 tenses
+title: Настоящее время: глаголы на -ar | Present tense: -ar verbs | Presente: verbos en -ar
+see: 1 9
+words: trabajar
+p: Trabajo en una empresa de IT. | Я работаю в IT-компании.
+p: ¿Hablas inglés? | Ты говоришь по-английски?
+p: Ana compra los billetes. | Ана покупает билеты.
+p: Llegamos mañana. | Мы приезжаем завтра.
+formula: основа + -o, -as, -a, -amos, -áis, -an
+rule: Отбросьте -ar и добавьте окончание лица: hablar → hablo, hablas, habla… Presente — это и «сейчас», и «обычно», и ближайшие планы: Mañana trabajo en casa. Большинство испанских глаголов — на -ar и правильные. | Drop -ar and add the person ending: hablar → hablo, hablas, habla… The present covers now, habits and near plans: Mañana trabajo en casa. | Raíz + -o, -as, -a, -amos, -áis, -an. El presente expresa hábitos, el ahora y planes próximos.
+table: | hablar | trabajar
+row: yo | hablo | trabajo
+row: tú | hablas | trabajas
+row: él, ella, usted | habla | trabaja
+row: nosotros | hablamos | trabajamos
+row: vosotros | habláis | trabajáis
+row: ellos, ustedes | hablan | trabajan
+time: now | сейчас и обычно | now and usually | ahora y habitualmente
+bridge: 7 | Present Simple: I work, he works | I work in an IT company. | Я работаю в IT-компании. | в английском окончание только у he / she / it (-s)
+tf: Trabajas los sábados. || negative = No trabajas los sábados. || question = ¿Trabajas los sábados?
+choose: Nosotros ___ en el centro. | trabajo, trabajamos, trabajan | trabajamos | Мы работаем в центре.
+choose: ¿Usted ___ con tarjeta? | paga, pagas, pago | paga | Вы платите картой?
+fill: Mis amigos ___ el tren de las ocho. (tomar) | toman | Мои друзья едут на восьмичасовом поезде.
+fill: Yo ___ español y ruso. (hablar) | hablo | Я говорю по-испански и по-русски.
+build: Los clientes llaman por la mañana. | Клиенты звонят по утрам. | llamas
+compose: Напишите два предложения о своём рабочем дне (-ar глаголы). | Write two sentences about your workday (-ar verbs). | Escribe dos frases sobre tu día de trabajo (verbos en -ar). || Trabajo … Hablo … || Trabajo en casa. Hablo con clientes.
+
+=== 9 A1 tenses
+title: Настоящее время: глаголы на -er и -ir | Present tense: -er and -ir verbs | Presente: verbos en -er / -ir
+see: 8 16
+p: Como en casa. | Я ем дома.
+p: ¿Vives cerca del centro? | Ты живёшь рядом с центром?
+p: Escribimos el código juntos. | Мы пишем код вместе.
+p: Ellos leen las noticias. | Они читают новости.
+formula: -er: -o, -es, -e, -emos, -éis, -en · -ir: -o, -es, -e, -imos, -ís, -en
+rule: -er и -ir спрягаются почти одинаково: отличаются только «мы» и «вы» (comemos / vivimos, coméis / vivís). Сначала уберите -er / -ir, затем добавьте окончание. | -er and -ir verbs differ only in nosotros and vosotros (comemos / vivimos, coméis / vivís). Drop -er / -ir and add the ending. | -er e -ir solo se diferencian en nosotros y vosotros: comemos / vivimos.
+table: | comer | vivir
+row: yo | como | vivo
+row: tú | comes | vives
+row: él, ella, usted | come | vive
+row: nosotros | comemos | vivimos
+row: vosotros | coméis | vivís
+row: ellos, ustedes | comen | viven
+time: now | сейчас и обычно | now and usually | ahora y habitualmente
+tf: Vives en Madrid. || negative = No vives en Madrid. || question = ¿Vives en Madrid?
+choose: Nosotros ___ en el centro. | vivemos, vivimos, viven | vivimos | Мы живём в центре.
+choose: ¿Tú ___ carne? | comes, come, comemos | comes | Ты ешь мясо?
+fill: Ana ___ un correo al cliente. (escribir) | escribe | Ана пишет письмо клиенту.
+fill: ¿Qué ___ vosotros? (beber) | bebéis | Что вы пьёте?
+build: Mis padres viven en un pueblo pequeño. | Мои родители живут в маленьком городке. | vivimos
+compose: Напишите, где вы живёте и что обычно едите на завтрак. | Write where you live and what you usually eat for breakfast. | Escribe dónde vives y qué comes en el desayuno. || Vivo en … Como … || Vivo en Moscú. Como pan y queso.
+
+=== 10 A1 sentence
+title: Отрицание: no, nada, nunca, nadie | Negation: no, nada, nunca, nadie | La negación: no, nada, nunca, nadie
+see: 11 1
+p: No hablo alemán. | Я не говорю по-немецки.
+p: No tengo nada. | У меня ничего нет.
+p: Nunca trabajo los domingos. | Я никогда не работаю по воскресеньям.
+p: No hay nadie en la oficina. | В офисе никого нет.
+formula: no + глагол · no + глагол + nada / nadie / nunca
+rule: no ставится прямо перед глаголом (и перед местоимением при нём: no lo sé). Двойное отрицание, как в русском, — норма: No veo nada («не вижу ничего»). Если nunca, nadie, nada стоят перед глаголом, no не нужно: Nunca trabajo los domingos. «Тоже нет» — tampoco. | no goes right before the verb (and before pronouns: no lo sé). Double negation is correct, as in Russian: No veo nada. If nunca, nadie, nada come before the verb, drop no: Nunca trabajo. “Not either” = tampoco. | no + verbo. Doble negación: No veo nada. Nunca, nadie, nada delante del verbo: sin no. tampoco.
+table: | после глагола | перед глаголом
+row: никогда | No trabajo nunca. | Nunca trabajo.
+row: никто | No viene nadie. | Nadie viene.
+row: ничего | No pasa nada. | Nada pasa.
+row: тоже нет | No voy tampoco. | Yo tampoco voy.
+bridge: 8 | don't / doesn't + V | I don't speak German. | Я не говорю по-немецки. | в английском двойное отрицание невозможно: I don't see anything
+tf: Tengo tiempo. || negative = No tengo tiempo.
+tf: El cliente llama hoy. || negative = El cliente no llama hoy.
+choose: No veo ___. | algo, nada | nada | Я ничего не вижу.
+choose: ___ viene a la reunión. | Nadie, No nadie | Nadie | Никто не приходит на совещание.
+fill: Yo ___ entiendo el problema. | no | Я не понимаю проблему.
+build: No hay nadie en casa. | Дома никого нет. | nada
+compose: Напишите, чего вы никогда не делаете. | Write what you never do. | Escribe qué no haces nunca. || Nunca … || Nunca trabajo los domingos. / No como carne nunca.
+
+=== 11 A1 sentence
+title: Общий вопрос и краткие ответы | Yes / no questions and short answers | Preguntas de sí / no y respuestas cortas
+see: 10 12
+p: ¿Hablas inglés? — Sí, hablo inglés. | Ты говоришь по-английски? — Да, говорю.
+p: ¿Hay wifi? — No, no hay. | Есть вай-фай? — Нет.
+p: ¿El hotel está cerca? | Отель близко?
+p: ¿Está cerca el hotel? | Отель близко?
+formula: ¿ + утверждение + ? (интонация вверх)
+rule: Общий вопрос — то же утверждение с вопросительной интонацией; подлежащее можно оставить или переставить после глагола: ¿Ana trabaja hoy? = ¿Trabaja Ana hoy? На письме знак ¿ ставится и в начале. Короткий ответ: Sí. / No, no… (первое no — «нет», второе — «не»). | A yes / no question is the statement with rising intonation; the subject can stay or move after the verb. Write ¿ at the start too. Short answers: Sí. / No, no… (the first no = “no”, the second = “not”). | Pregunta = afirmación con entonación ascendente; ¿ al principio. Respuesta: Sí. / No, no…
+table: | утверждение | вопрос | краткий ответ
+row: ты говоришь | Hablas inglés. | ¿Hablas inglés? | Sí, hablo. / No, no hablo.
+row: есть | Hay wifi. | ¿Hay wifi? | Sí, hay. / No, no hay.
+row: он здесь | Pablo está aquí. | ¿Está Pablo aquí? | Sí, está. / No, no está.
+bridge: 9 | Do you…? Is it…? | Do you speak English? — Yes, I do. | Ты говоришь по-английски? — Да. | в английском вопрос строится вспомогательным глаголом, в испанском — только интонацией
+tf: Tienes una reserva. || question = ¿Tienes una reserva? / ¿Tienes reserva?
+tf: El tren sale a las ocho. || question = ¿El tren sale a las ocho? / ¿Sale el tren a las ocho?
+choose: ¿Necesitas ayuda? — No, no ___. | necesito, necesitas | necesito | Тебе нужна помощь? — Нет, не нужна.
+choose: ¿Está abierto el museo? — Sí, ___. | está, es, hay | está | Музей открыт? — Да.
+build: ¿Hay una farmacia cerca? | Рядом есть аптека? | está
+compose: Задайте три вопроса новому коллеге (да / нет). | Ask a new colleague three yes / no questions. | Haz tres preguntas de sí / no a un compañero nuevo. || ¿…? || ¿Vives cerca? ¿Hablas inglés? ¿Tienes coche?
+
+=== 12 A1 sentence
+title: Вопросительные слова: qué, dónde, cuándo, cómo… | Question words: qué, dónde, cuándo, cómo… | Interrogativos: qué, dónde, cuándo, cómo…
+see: 11 32
+p: ¿Dónde está la estación? | Где вокзал?
+p: ¿Cuándo empieza la reunión? | Когда начинается совещание?
+p: ¿Cuánto cuesta el billete? | Сколько стоит билет?
+p: ¿Por qué no funciona? — Porque hay un error. | Почему не работает? — Потому что есть ошибка.
+formula: ¿ + вопросительное слово + глагол + (подлежащее)?
+rule: Вопросительное слово — в начале, у всех есть ударение: qué, dónde, cuándo. Подлежащее обычно после глагола: ¿Dónde vive Ana? cuánto согласуется: cuánta agua, cuántos días. ¿Por qué? — «почему?», ответ — porque. ¿Cuál? — «который из»; перед существительным — qué: ¿Qué hotel? | The question word comes first and always has an accent: qué, dónde, cuándo. The subject usually follows the verb: ¿Dónde vive Ana? cuánto agrees: cuánta agua, cuántos días. ¿Por qué? “why?” — answer porque. ¿Cuál? = which one; before a noun use qué. | Interrogativo con tilde + verbo + sujeto. cuánto concuerda. ¿Por qué? / porque. cuál / qué + sustantivo.
+table: вопрос | значение | пример
+row: qué | что, какой | ¿Qué haces?
+row: dónde, adónde | где, куда | ¿Adónde vas?
+row: cuándo | когда | ¿Cuándo llegas?
+row: cómo | как | ¿Cómo estás?
+row: cuánto, cuánta, cuántos, cuántas | сколько | ¿Cuántos días?
+row: quién, quiénes | кто | ¿Quién es?
+row: por qué | почему | ¿Por qué no vienes?
+row: cuál, cuáles | который | ¿Cuál prefieres?
+bridge: 10 | what, where, when, how, how much, who, why, which | Where is the station? | Где вокзал? | в английском после вопроса нужен do / does: Where do you live?
+tf: Vives en Valencia. || wh-question = ¿Dónde vives?
+tf: El tren sale a las ocho. || wh-question = ¿Cuándo sale el tren? / ¿A qué hora sale el tren?
+choose: ¿___ cuesta la habitación? | Cuánto, Cuándo, Cómo | Cuánto | Сколько стоит номер?
+choose: ¿___ maletas tienes? | Cuántos, Cuántas | Cuántas | Сколько у тебя чемоданов?
+choose: ¿___ es tu jefe? | Quién, Qué, Dónde | Quién | Кто твой начальник?
+fill: ¿___ no vienes? — Porque estoy cansado. | Por qué | Почему ты не идёшь? — Потому что устал.
+build: ¿A qué hora empieza la película? | Во сколько начинается фильм? | Cuándo
+compose: Задайте три вопроса администратору отеля. | Ask the hotel receptionist three questions. | Haz tres preguntas al recepcionista del hotel. || ¿…? || ¿Dónde está el ascensor? ¿A qué hora es el desayuno? ¿Cuánto cuesta el taxi?
+
+=== 13 A1 adjectives
+title: Прилагательные: место и согласование | Adjectives: position and agreement | Adjetivos: posición y concordancia
+see: 2 3 29
+words: nuevo
+p: Tengo un ordenador nuevo. | У меня новый компьютер.
+p: La habitación es muy bonita. | Номер очень красивый.
+p: Son unos clientes importantes. | Это важные клиенты.
+p: Es un buen hotel. | Это хороший отель.
+formula: существительное + прилагательное (род и число — как у существительного)
+rule: Прилагательное обычно стоит после существительного и согласуется с ним: un coche rojo, una casa roja, coches rojos. На -e и согласную — одна форма для обоих родов: grande, difícil (мн. ч. — grandes, difíciles). Перед существительным bueno → buen, malo → mal, grande → gran (= «великий»). muy — «очень». | Adjectives usually follow the noun and agree with it: un coche rojo, una casa roja, coches rojos. Those ending in -e or a consonant have one form for both genders. Before a noun: buen, mal, gran. muy = very. | Sustantivo + adjetivo concordado. -e y consonante: invariables en género. buen, mal, gran delante del sustantivo.
+table: | ед. ч. | мн. ч.
+row: на -o | nuevo, nueva | nuevos, nuevas
+row: на -e | grande | grandes
+row: на согласную | difícil, azul | difíciles, azules
+row: перед сущ. | buen día, mal día | buenos días
+bridge: 11 | adjective + noun, без изменений | a new computer, new computers | новый компьютер, новые компьютеры | в английском прилагательное стоит перед существительным и не меняется
+choose: Tengo una tarea muy ___. | difícil, difíciles | difícil | У меня очень трудная задача.
+choose: Las playas son ___. | bonito, bonitas, bonitos | bonitas | Пляжи красивые.
+choose: Es un ___ restaurante. | bueno, buen | buen | Это хороший ресторан.
+fill: Tengo dos maletas ___. (pequeño) | pequeñas | У меня два маленьких чемодана.
+build: Mi hermana tiene un coche rojo. | У моей сестры красная машина. | roja
+compose: Опишите свой город двумя прилагательными. | Describe your city with two adjectives. | Describe tu ciudad con dos adjetivos. || Mi ciudad es … || Mi ciudad es grande y bonita.
+
+=== 14 A1 pronouns
+title: Притяжательные: mi, tu, su, nuestro | Possessives: mi, tu, su, nuestro | Posesivos: mi, tu, su, nuestro
+see: 15 26
+p: Mi vuelo sale a las seis. | Мой рейс вылетает в шесть.
+p: ¿Dónde están tus maletas? | Где твои чемоданы?
+p: Nuestra oficina está en el centro. | Наш офис в центре.
+p: Este es su pasaporte, señor. | Вот ваш паспорт, сеньор.
+formula: mi / tu / su (+s) · nuestro / vuestro (+a, +s) + существительное
+rule: Притяжательное согласуется с тем, ЧТО принадлежит, а не с владельцем: mis amigos, nuestra casa. su — «его, её, их и ваш (вежл.)»; если неясно — el coche de él / de usted. После существительного и отдельно — полные формы: un amigo mío, es mío. | The possessive agrees with the thing owned, not the owner: mis amigos, nuestra casa. su = his, her, their, your (polite); if unclear say de él / de usted. Full forms after the noun: un amigo mío, es mío. | Concuerda con lo poseído. su = de él, de ella, de ellos, de usted. Formas tónicas: mío, tuyo, suyo.
+table: | ед. ч. | мн. ч. | «мой» отдельно
+row: я | mi | mis | mío, mía
+row: ты | tu | tus | tuyo, tuya
+row: он, она, вы, они | su | sus | suyo, suya
+row: мы | nuestro, nuestra | nuestros, nuestras | nuestro
+row: вы | vuestro, vuestra | vuestros, vuestras | vuestro
+bridge: 12 | my, your, his, her, our, their | Our office is in the centre. | Наш офис в центре. | в английском притяжательные не меняются по числу
+choose: ___ padres viven en Sevilla. | Mi, Mis | Mis | Мои родители живут в Севилье.
+choose: ___ empresa es pequeña. | Nuestro, Nuestra | Nuestra | Наша компания маленькая.
+choose: Señora, ¿es ___ maleta? | tu, su | su | Сеньора, это ваш чемодан?
+fill: ¿Dónde están ___ llaves, Ana? | tus | Где твои ключи, Ана?
+build: Nuestros amigos llegan el sábado. | Наши друзья приезжают в субботу. | nuestras
+compose: Расскажите о своей семье: два–три предложения с mi / mis. | Tell about your family: two or three sentences with mi / mis. | Habla de tu familia: dos o tres frases con mi / mis. || Mi … Mis … || Mi hermano vive en Moscú. Mis padres son médicos.
+
+=== 15 A1 pronouns
+title: Указательные: este, ese, aquel | Demonstratives: este, ese, aquel | Demostrativos: este, ese, aquel
+see: 14
+p: Este hotel es muy cómodo. | Этот отель очень удобный.
+p: ¿Cuánto cuesta esa camisa? | Сколько стоит та рубашка?
+p: Aquella playa está lejos. | Тот пляж (вон там) далеко.
+p: ¿Qué es esto? | Что это?
+formula: este (здесь) · ese (там, у тебя) · aquel (вон там, далеко)
+rule: Три расстояния: este — рядом со мной, ese — рядом с тобой или недалеко, aquel — далеко от обоих. Согласуются: esta mesa, estos días, esas maletas. esto, eso, aquello — «это» про неизвестное или ситуацию: ¿Qué es esto? Eso es. | Three distances: este near me, ese near you or not far, aquel far from both. They agree: esta mesa, estos días. esto, eso, aquello = “this / that” for unknown things or situations: ¿Qué es esto? | este (cerca de mí), ese (cerca de ti), aquel (lejos). Neutros: esto, eso, aquello.
+table: | муж. | жен. | мн. ч. | средн.
+row: здесь | este | esta | estos, estas | esto
+row: там | ese | esa | esos, esas | eso
+row: вон там | aquel | aquella | aquellos, aquellas | aquello
+bridge: 13 | this / that, these / those | How much is that shirt? | Сколько стоит та рубашка? | в английском два расстояния, в испанском три
+choose: ___ semana tengo mucho trabajo. | Este, Esta | Esta | На этой неделе у меня много работы.
+choose: ¿Qué es ___? | este, esto | esto | Что это?
+choose: ___ montañas de allí son muy altas. | Estas, Aquellas | Aquellas | Те горы вон там очень высокие.
+fill: ___ días trabajo desde casa. (этот) | Estos | В эти дни я работаю из дома.
+build: Esta habitación es más grande. | Этот номер больше. | este
+compose: Вы в магазине: спросите цену двух вещей, рядом и подальше. | You are in a shop: ask the price of two things, near and further away. | Estás en una tienda: pregunta el precio de dos cosas. || ¿Cuánto cuesta …? || ¿Cuánto cuesta esta camiseta? ¿Y esa chaqueta?
+
+=== 16 A1 verbs
+title: Неправильные в настоящем: tengo, hago, salgo | Irregular present: tengo, hago, salgo | Verbos irregulares: tengo, hago, salgo
+see: 9 17
+words: tener hacer salir
+p: Tengo dos hermanos. | У меня два брата.
+p: Hago la cena hoy. | Сегодня ужин готовлю я.
+p: Salgo de casa a las ocho. | Я выхожу из дома в восемь.
+p: ¿Vienes con nosotros? | Пойдёшь с нами?
+formula: yo: -go (tengo, hago, pongo, salgo, vengo, digo)
+rule: У частотных глаголов неправильная форма «я» на -go: hacer → hago, poner → pongo, salir → salgo. tener и venir ещё меняют e → ie (кроме «мы» и «вы»): tienes, viene. decir — digo, dices. Остальные формы hacer, poner, salir — правильные. | Common verbs have an irregular “I” form in -go: hago, pongo, salgo. tener and venir also change e → ie (except nosotros / vosotros): tienes, viene. decir — digo, dices. | Primera persona en -go: hago, pongo, salgo. tener y venir: e → ie. decir: digo, dices.
+table: | tener | hacer | salir | venir | decir
+row: yo | tengo | hago | salgo | vengo | digo
+row: tú | tienes | haces | sales | vienes | dices
+row: él, ella, usted | tiene | hace | sale | viene | dice
+row: nosotros | tenemos | hacemos | salimos | venimos | decimos
+row: vosotros | tenéis | hacéis | salís | venís | decís
+row: ellos, ustedes | tienen | hacen | salen | vienen | dicen
+choose: Yo ___ la maleta en el coche. | pono, pongo | pongo | Я кладу чемодан в машину.
+choose: ¿Qué ___ tú los fines de semana? | haces, hagos, hace | haces | Что ты делаешь по выходным?
+choose: Mis amigos ___ mañana. | venen, vienen | vienen | Мои друзья приходят завтра.
+fill: Yo no ___ tiempo hoy. (tener) | tengo | У меня сегодня нет времени.
+fill: El tren ___ a las nueve. (salir) | sale | Поезд отправляется в девять.
+build: Siempre digo la verdad. | Я всегда говорю правду. | dices
+compose: Напишите, что вы делаете утром: во сколько выходите и что берёте с собой. | Write about your morning: when you leave and what you take. | Escribe sobre tu mañana: a qué hora sales y qué llevas. || Salgo de casa a … Tengo … || Salgo de casa a las ocho. Tengo un café y el portátil.
+
+=== 17 A1 verbs
+title: Глаголы с чередованием: quiero, puedo, pido | Stem-changing verbs: quiero, puedo, pido | Verbos con cambio vocálico: quiero, puedo, pido
+see: 16 19
+words: querer poder pedir
+p: Quiero un café, por favor. | Мне кофе, пожалуйста.
+p: ¿Puedes ayudarme? | Можешь мне помочь?
+p: Pedimos la cuenta. | Мы просим счёт.
+p: El concierto empieza a las nueve. | Концерт начинается в девять.
+formula: e → ie · o → ue · e → i (кроме «мы» и «вы»)
+rule: В ударном слоге гласная корня меняется: querer → quiero, poder → puedo, pedir → pido. В формах «мы» и «вы» ударение уходит на окончание — и гласная не меняется: queremos, podemos, pedimos. Так же: empezar (empieza), entender, volver (vuelvo), dormir, jugar (juego), repetir. | In the stressed syllable the stem vowel changes: quiero, puedo, pido. In nosotros / vosotros the stress moves to the ending, so no change: queremos, podemos. Also empezar, entender, volver, dormir, jugar (juego), repetir. | Cambio en la sílaba tónica: e → ie, o → ue, e → i. Nosotros y vosotros, sin cambio.
+table: | querer (e→ie) | poder (o→ue) | pedir (e→i)
+row: yo | quiero | puedo | pido
+row: tú | quieres | puedes | pides
+row: él, ella, usted | quiere | puede | pide
+row: nosotros | queremos | podemos | pedimos
+row: vosotros | queréis | podéis | pedís
+row: ellos, ustedes | quieren | pueden | piden
+choose: Nosotros ___ ir en tren. | queremos, quieremos | queremos | Мы хотим поехать на поезде.
+choose: ¿A qué hora ___ la película? | empeza, empieza | empieza | Во сколько начинается фильм?
+choose: Yo no ___ bien por la noche. | dormo, duermo | duermo | Я плохо сплю ночью.
+fill: Ella ___ una mesa para dos. (pedir) | pide | Она просит столик на двоих.
+fill: Mi hijo ___ al fútbol. (jugar) | juega | Мой сын играет в футбол.
+build: No entiendo la pregunta. | Я не понимаю вопрос. | entendo
+compose: Вы в кафе: закажите что-нибудь и спросите, можно ли расплатиться картой. | In a café: order something and ask if you can pay by card. | En un café: pide algo y pregunta si puedes pagar con tarjeta. || Quiero … ¿Puedo …? || Quiero un café con leche. ¿Puedo pagar con tarjeta?
+
+=== 18 A1 verbs
+title: ir, ver, dar; saber или conocer | ir, ver, dar; saber or conocer | ir, ver, dar; saber o conocer
+see: 21 16
+p: Voy a la playa con mis amigos. | Я иду на пляж с друзьями.
+p: ¿Ves el mapa? | Ты видишь карту?
+p: No sé dónde está. | Я не знаю, где это.
+p: ¿Conoces Madrid? | Ты знаешь Мадрид (бывал там)?
+formula: ir a + место · saber + факт / уметь · conocer + человек / место
+rule: ir полностью неправильный: voy, vas, va, vamos, vais, van; «куда» — с a: voy a casa, voy al trabajo. ver — veo, ves; dar — doy, das. saber — знать факт или уметь (sé nadar), conocer — быть знакомым с человеком или местом (conozco a Ana; перед человеком — a). | ir is fully irregular: voy, vas, va, vamos, vais, van; destination with a. ver — veo; dar — doy. saber = know a fact or how to (sé nadar), conocer = know a person or place (conozco a Ana — a before people). | ir: voy, vas, va… + a. saber: datos y habilidades (sé). conocer: personas y lugares (conozco a…).
+table: | ir | ver | dar | saber | conocer
+row: yo | voy | veo | doy | sé | conozco
+row: tú | vas | ves | das | sabes | conoces
+row: él, ella, usted | va | ve | da | sabe | conoce
+row: nosotros | vamos | vemos | damos | sabemos | conocemos
+row: vosotros | vais | veis | dais | sabéis | conocéis
+row: ellos, ustedes | van | ven | dan | saben | conocen
+choose: ¿___ a Ana? Es mi jefa. | Sabes, Conoces | Conoces | Ты знаком с Аной? Это моя начальница.
+choose: No ___ la respuesta. | sé, conozco | sé | Я не знаю ответа.
+choose: Mañana ___ al aeropuerto en taxi. | vamos, vemos | vamos | Завтра мы едем в аэропорт на такси.
+fill: ¿Adónde ___ tú? (ir) | vas | Куда ты идёшь?
+build: Mis padres van al teatro los sábados. | Мои родители ходят в театр по субботам. | vamos
+compose: Напишите, куда вы ходите по выходным и что умеете делать. | Write where you go at weekends and what you can do. | Escribe adónde vas los fines de semana y qué sabes hacer. || Los sábados voy … Sé … || Los sábados voy al parque. Sé cocinar.
+
+=== 19 A1 modals
+title: Хочу, могу, нужно: querer / poder / necesitar + инфинитив | Want, can, need + infinitive | querer / poder / necesitar + infinitivo
+see: 17 20 34
+words: querer poder necesitar
+p: Quiero reservar una mesa. | Я хочу забронировать столик.
+p: ¿Puedo pagar con tarjeta? | Можно оплатить картой?
+p: Necesitamos cambiar la contraseña. | Нам нужно сменить пароль.
+p: No puedo abrir el archivo. | Я не могу открыть файл.
+formula: querer / poder / necesitar (по лицам) + инфинитив
+rule: Первый глагол спрягается, второй — в начальной форме (на -ar, -er, -ir): quiero ir, puedes venir. ¿Puedo…? — «можно мне…?», ¿Puedes…? — «можешь…?» (просьба). Отрицание — перед первым глаголом: no puedo ir. | The first verb is conjugated, the second stays in the infinitive: quiero ir, puedes venir. ¿Puedo…? = may I, ¿Puedes…? = can you (request). no goes before the first verb. | Verbo conjugado + infinitivo. ¿Puedo…? permiso; ¿Puedes…? petición. no + primer verbo.
+table: | хотеть | мочь | нуждаться
+row: yo | quiero ir | puedo ir | necesito ir
+row: tú | quieres ir | puedes ir | necesitas ir
+row: él, ella, usted | quiere ir | puede ir | necesita ir
+row: nosotros | queremos ir | podemos ir | necesitamos ir
+row: ellos, ustedes | quieren ir | pueden ir | necesitan ir
+time: now-future | желание или возможность сейчас и потом | wish or ability now and later | deseo o posibilidad ahora y después
+bridge: 15 | want to / can / need to + V | Can I pay by card? | Можно оплатить картой? | can ≈ poder почти 1:1; want to — с to, в испанском без предлога
+tf: Puedes venir mañana. || negative = No puedes venir mañana. || question = ¿Puedes venir mañana?
+tf: Quiero cambiar la reserva. || negative = No quiero cambiar la reserva. || question = ¿Quieres cambiar la reserva?
+choose: ¿___ abrir la ventana? Hace calor. | Puedes, Puedo ir | Puedes | Можешь открыть окно? Жарко.
+choose: Necesito ___ el código hoy. | reviso, revisar | revisar | Мне нужно проверить код сегодня.
+fill: Mis amigos ___ ver la película. (querer) | quieren | Мои друзья хотят посмотреть фильм.
+build: No podemos llegar a las ocho. | Мы не можем приехать к восьми. | puedo
+compose: Попросите коллегу о помощи и скажите, что вам нужно сделать. | Ask a colleague for help and say what you need to do. | Pide ayuda a un compañero y di qué necesitas hacer. || ¿Puedes …? Necesito … || ¿Puedes ayudarme? Necesito terminar el informe hoy.
+
+=== 20 A1 modals
+title: Надо, должен: tener que / deber / hay que | Have to, must: tener que / deber / hay que | Obligación: tener que / deber / hay que
+see: 19 34
+words: tener
+p: Tengo que trabajar mañana. | Мне нужно работать завтра.
+p: Tenemos que hacer un deploy hoy. | Нам нужно сделать деплой сегодня.
+p: Debes descansar más. | Тебе следует больше отдыхать.
+p: Hay que pagar en efectivo. | Платить нужно наличными.
+formula: tener que + инф. · deber + инф. · hay que + инф. (безлично)
+rule: tener que — «нужно, приходится» (обстоятельства): tengo que ir. deber — «должен, следует» (совет, моральный долг): debes descansar. hay que — безлично «надо (всем)»: hay que esperar. Отрицание: no tengo que — «не обязательно», no debes — «не следует, нельзя». | tener que = have to (circumstances): tengo que ir. deber = must / should (advice, duty). hay que = impersonal “one has to”. Negative: no tengo que = don't have to; no debes = mustn't / shouldn't. | tener que: necesidad; deber: deber moral o consejo; hay que: impersonal. No tener que ≠ no deber.
+table: конструкция | смысл | отрицание
+row: tener que + инф. | нужно, приходится | no tengo que = не обязательно
+row: deber + инф. | должен, следует | no debes = не следует
+row: hay que + инф. | надо (всем, вообще) | no hay que = не нужно
+time: now-future | обязанность сейчас или впереди | an obligation now or ahead | una obligación ahora o más adelante
+bridge: 23 | have to / must / don't have to | I have to work tomorrow. | Мне нужно работать завтра. | почти 1:1; don't have to = no tengo que — «не обязательно», а не «нельзя»
+tf: Tengo que trabajar hoy. || negative = No tengo que trabajar hoy. || question = ¿Tengo que trabajar hoy?
+choose: Nosotros ___ que salir a las ocho. | tengo, tenemos, tienen | tenemos | Нам нужно выйти в восемь.
+choose: Para entrar ___ mostrar el pasaporte. | hay que, tengo | hay que | Чтобы войти, надо показать паспорт.
+choose: No ___ fumar aquí. | debes, tienes | debes | Здесь не следует курить.
+fill: ¿___ que pagar ahora? | Tengo / Tenemos / Tienes | Нужно платить сейчас?
+build: Tenemos que hacer un deploy hoy. | Нам нужно сделать деплой сегодня. | tiene
+compose: Напишите, что вам нужно сделать завтра. | Write what you have to do tomorrow. | Escribe qué tienes que hacer mañana. || Mañana tengo que … || Mañana tengo que ir al aeropuerto. / Mañana tengo que trabajar.
+
+=== 21 A1 tenses
+title: Ближайшее будущее: ir a + инфинитив | Near future: ir a + infinitive | Futuro próximo: ir a + infinitivo
+see: 18 33
+words: hacer
+p: Voy a llamar al cliente. | Я позвоню клиенту.
+p: ¿Qué vas a hacer mañana? | Что ты будешь делать завтра?
+p: Vamos a cenar en un restaurante. | Мы будем ужинать в ресторане.
+p: Va a llover. | Сейчас пойдёт дождь.
+formula: ir (voy, vas, va…) + a + инфинитив
+rule: Планы и то, что вот-вот случится: ir по лицам + a + глагол в начальной форме. Самый частый способ говорить о будущем в разговоре. Vamos a… — ещё и «давай(те)…»: Vamos a empezar. | Plans and things about to happen: ir (conjugated) + a + infinitive. The most common way to talk about the future. Vamos a… also means “let's…”. | Planes e intenciones: ir + a + infinitivo. Vamos a… = propuesta.
+table: | ir a + infinitivo
+row: yo | voy a trabajar
+row: tú | vas a trabajar
+row: él, ella, usted | va a trabajar
+row: nosotros | vamos a trabajar
+row: vosotros | vais a trabajar
+row: ellos, ustedes | van a trabajar
+time: now-future | план уже есть — действие впереди | the plan exists — the action is ahead | el plan ya existe — la acción es futura
+bridge: 22 | be going to + V | I'm going to call the client. | Я позвоню клиенту. | going to ≈ ir a — 1:1
+tf: Voy a viajar en verano. || negative = No voy a viajar en verano. || question = ¿Vas a viajar en verano?
+tf: Trabajo en casa. || future = Voy a trabajar en casa.
+choose: Mañana ___ a visitar a mis padres. | voy, vamos a, va | voy | Завтра я навещу родителей.
+choose: ¿Qué ___ a hacer el sábado? | vas, va a, ir | vas | Что ты будешь делать в субботу?
+fill: Nosotros ___ a cenar fuera. | vamos | Мы поужинаем не дома.
+build: Esta noche voy a ver una película. | Сегодня вечером я посмотрю фильм. | veo
+compose: Напишите о своих планах на выходные. | Write about your weekend plans. | Escribe tus planes para el fin de semana. || El sábado voy a … || El sábado voy a ver a mis amigos. El domingo voy a descansar.
+
+=== 22 A1 verbs
+title: gustar и похожие: me gusta, me encanta | gustar and similar verbs: me gusta, me encanta | gustar y verbos parecidos
+see: 26 13
+p: Me gusta el café. | Мне нравится кофе.
+p: Me gustan las montañas. | Мне нравятся горы.
+p: ¿Te gusta bailar? | Тебе нравится танцевать?
+p: A Ana le encanta esta canción. | Ане очень нравится эта песня.
+formula: me / te / le / nos / os / les + gusta (одно, инф.) / gustan (много)
+rule: Устроено как русское «мне нравится»: кому — me, te, le…, что — подлежащее. Одна вещь или действие — gusta, несколько — gustan. Уточнение «кому» — a mí, a Ana: A Ana le gusta. Так же: encantar (очень нравится), interesar, doler (me duele la cabeza). | Works like Russian «мне нравится»: who likes — me, te, le…, the thing liked is the subject. One thing or an action — gusta, several — gustan. Clarify with a: A Ana le gusta. Same pattern: encantar, interesar, doler. | Me / te / le… + gusta (singular, infinitivo) / gustan (plural). Igual: encantar, interesar, doler.
+table: кому | одно / действие | много
+row: (a mí) me | me gusta el té | me gustan los gatos
+row: (a ti) te | te gusta viajar | te gustan las playas
+row: (a él, ella, usted) le | le gusta | le gustan
+row: (a nosotros) nos | nos gusta | nos gustan
+row: (a vosotros) os | os gusta | os gustan
+row: (a ellos, ustedes) les | les gusta | les gustan
+bridge:  | I like + noun / -ing | I like mountains. | Мне нравятся горы. | в английском наоборот: подлежащее — тот, кому нравится
+tf: Me gusta el fútbol. || negative = No me gusta el fútbol. || question = ¿Te gusta el fútbol?
+choose: Me ___ los perros. | gusta, gustan | gustan | Мне нравятся собаки.
+choose: ¿A tu hermano ___ gusta el jazz? | le, te, se | le | Твоему брату нравится джаз?
+choose: Nos ___ mucho viajar. | gusta, gustan | gusta | Нам очень нравится путешествовать.
+fill: Me ___ la cabeza. (doler) | duele | У меня болит голова.
+build: A mis padres les encanta el mar. | Мои родители обожают море. | le
+compose: Напишите, что вам нравится и что не нравится. | Write what you like and don't like. | Escribe qué te gusta y qué no te gusta. || Me gusta … No me gusta … || Me gusta cocinar. No me gustan las reuniones largas.
+
+=== 23 A2 verbs
+title: Возвратные глаголы: me llamo, me levanto | Reflexive verbs: me llamo, me levanto | Verbos reflexivos: me llamo, me levanto
+see: 22 26
+p: Me llamo Pablo. | Меня зовут Пабло.
+p: Me levanto a las siete. | Я встаю в семь.
+p: ¿Dónde te quedas? | Где ты остановился?
+p: Nos vemos mañana. | Увидимся завтра.
+formula: me / te / se / nos / os / se + глагол
+rule: Возвратный глагол (на -se в словаре: llamarse, levantarse, quedarse) — как русское «-ся»: местоимение стоит перед спрягаемым глаголом и меняется по лицу. С инфинитивом его можно прикрепить в конце: voy a ducharme = me voy a duchar. Часто меняет смысл: ir — «идти», irse — «уходить». | A reflexive verb (-se in the dictionary) works like Russian «-ся»: the pronoun goes before the conjugated verb and changes with the person. With an infinitive it can attach to the end: voy a ducharme. Often changes meaning: ir → irse (to leave). | Pronombre reflexivo delante del verbo conjugado o unido al infinitivo. ir / irse.
+table: | llamarse | quedarse
+row: yo | me llamo | me quedo
+row: tú | te llamas | te quedas
+row: él, ella, usted | se llama | se queda
+row: nosotros | nos llamamos | nos quedamos
+row: vosotros | os llamáis | os quedáis
+row: ellos, ustedes | se llaman | se quedan
+tf: Te levantas temprano. || negative = No te levantas temprano. || question = ¿Te levantas temprano?
+choose: ¿Cómo ___ llamas? | te, se, me | te | Как тебя зовут?
+choose: Mis amigos ___ quedan en un hotel. | se, les, nos | se | Мои друзья остановились в отеле.
+choose: Mañana voy a ___ temprano. | levantarme, me levantar | levantarme | Завтра я встану рано.
+fill: Nosotros ___ vamos a las diez. (уходим) | nos | Мы уходим в десять.
+build: Me ducho por la mañana. | Я принимаю душ утром. | te
+compose: Опишите своё утро: во сколько встаёте и что делаете. | Describe your morning: when you get up and what you do. | Describe tu mañana: a qué hora te levantas y qué haces. || Me levanto a … Me … || Me levanto a las siete. Me ducho y desayuno.
+
+=== 24 A2 tenses
+title: Происходит сейчас: estar + герундий | Happening now: estar + gerund | Acción en curso: estar + gerundio
+see: 5 8 27
+words: estar
+p: Estoy trabajando. | Я сейчас работаю.
+p: ¿Qué estás haciendo? | Что ты делаешь (сейчас)?
+p: Estamos esperando el taxi. | Мы ждём такси.
+p: Está lloviendo. | Идёт дождь.
+formula: estar + -ando (-ar) / -iendo (-er, -ir)
+rule: Для действия, которое идёт прямо сейчас: estar по лицам + герундий: hablar → hablando, comer → comiendo, escribir → escribiendo. Неправильные: leer → leyendo, dormir → durmiendo, pedir → pidiendo. Для привычек — обычное presente: Trabajo en casa. | For an action in progress right now: estar + gerund: hablando, comiendo, escribiendo. Irregular: leyendo, durmiendo, pidiendo. For habits use the simple present. | estar + gerundio (-ando / -iendo): acción en curso. Irregulares: leyendo, durmiendo, pidiendo.
+table: инфинитив | герундий | пример
+row: trabajar | trabajando | Estoy trabajando.
+row: comer | comiendo | Estamos comiendo.
+row: escribir | escribiendo | Está escribiendo.
+row: leer | leyendo | Estás leyendo.
+row: dormir | durmiendo | Están durmiendo.
+time: now | сейчас, в этот момент | right now | en este momento
+bridge: 17 | be + -ing | I'm working. | Я сейчас работаю. | близко, но в испанском используется реже: ¿Qué haces? часто = What are you doing?
+tf: Trabajo en el informe. || negative = No estoy trabajando en el informe. || question = ¿Estás trabajando en el informe?
+choose: Ahora ___ un correo. | estoy escribiendo, escribo siempre | estoy escribiendo | Сейчас я пишу письмо.
+choose: Los niños están ___. | durmiendo, dormiendo | durmiendo | Дети спят.
+fill: ¿Qué estás ___? (hacer) | haciendo | Что ты делаешь?
+build: Estamos esperando a nuestros amigos. | Мы ждём наших друзей. | esperamos
+compose: Напишите, что вы и ваши близкие делают прямо сейчас. | Write what you and your family are doing right now. | Escribe qué estáis haciendo ahora tú y tu familia. || Ahora estoy … || Ahora estoy estudiando español. Mi hermana está trabajando.
+
+=== 25 A2 adjectives
+title: Наречия: -mente, siempre, nunca, ya, todavía | Adverbs: -mente, siempre, nunca, ya, todavía | Adverbios: -mente, siempre, nunca, ya, todavía
+see: 13 27
+words: siempre
+p: Siempre desayuno en casa. | Я всегда завтракаю дома.
+p: Habla muy rápidamente. | Он говорит очень быстро.
+p: ¿Ya has terminado? — Todavía no. | Ты уже закончил? — Ещё нет.
+p: A veces trabajo los sábados. | Иногда я работаю по субботам.
+formula: прилагательное (жен. р.) + -mente · siempre / a veces / nunca
+rule: Наречие образа действия — женская форма прилагательного + -mente: rápida → rápidamente, fácil → fácilmente. Частотность: siempre, normalmente, a menudo, a veces, casi nunca, nunca — обычно в начале или после глагола. ya — «уже», todavía — «ещё», todavía no — «ещё нет». bien / mal — «хорошо / плохо». | Manner adverbs: feminine adjective + -mente: rápidamente, fácilmente. Frequency: siempre, normalmente, a veces, nunca — at the start or after the verb. ya = already, todavía = still, todavía no = not yet. | Adjetivo femenino + -mente. Frecuencia: siempre, a veces, nunca. ya / todavía.
+table: прилагательное | наречие
+row: rápido | rápidamente
+row: fácil | fácilmente
+row: normal | normalmente
+row: bueno, malo | bien, mal
+bridge: 16 | -ly; always / usually / never | I always have breakfast at home. | Я всегда завтракаю дома. | в английском частотное наречие стоит перед глаголом, но после be
+choose: Ella habla ___. | claramente, clara mente, claro | claramente | Она говорит чётко.
+choose: ¿Has comido? — No, ___ no. | ya, todavía | todavía | Ты поел? — Ещё нет.
+choose: El programa funciona ___. | bueno, bien | bien | Программа работает хорошо.
+fill: ___ voy al gimnasio los lunes. (всегда) | Siempre | По понедельникам я всегда хожу в спортзал.
+build: Normalmente trabajo desde casa. | Обычно я работаю из дома. | normal
+compose: Напишите, что вы делаете всегда, иногда и никогда. | Write what you always, sometimes and never do. | Escribe qué haces siempre, a veces y nunca. || Siempre … A veces … Nunca … || Siempre bebo café. A veces cocino. Nunca llego tarde.
+
+=== 26 A2 pronouns
+title: Местоимения-дополнения: lo, la, le, me, te | Object pronouns: lo, la, le, me, te | Pronombres de objeto: lo, la, le, me, te
+see: 22 23
+p: ¿El billete? Lo tengo aquí. | Билет? Он у меня здесь.
+p: Te llamo mañana. | Я позвоню тебе завтра.
+p: Le envío el archivo al cliente. | Я отправляю файл клиенту.
+p: ¿Me ayudas? | Поможешь мне?
+formula: me, te, lo / la, nos, os, los / las (кого, что) · le, les (кому)
+rule: «Его, её, их» (что? кого?) — lo, la, los, las; «ему, ей, им» (кому?) — le, les. me, te, nos, os — одинаковы в обоих случаях. Ставятся перед спрягаемым глаголом (lo compro) или присоединяются к инфинитиву (voy a comprarlo). le + lo → se lo: se lo doy — «даю ему это». | Direct object (what? whom?) — lo, la, los, las; indirect (to whom?) — le, les. me, te, nos, os are the same in both. Place before the conjugated verb or attach to the infinitive. le + lo → se lo. | OD: lo, la, los, las; OI: le, les. Delante del verbo o unidos al infinitivo. le + lo = se lo.
+table: | кого, что | кому
+row: я | me | me
+row: ты | te | te
+row: он, она, вы | lo, la | le
+row: мы | nos | nos
+row: вы | os | os
+row: они | los, las | les
+bridge: 12 | me, him, her, it, us, them | I'll call you tomorrow. | Я позвоню тебе завтра. | в английском местоимение стоит после глагола
+tf: Compro el billete. || negative = No lo compro.
+choose: ¿La reserva? Sí, ___ tengo. | lo, la, le | la | Бронь? Да, она у меня.
+choose: ___ escribo a mis padres cada semana. | Los, Les | Les | Я пишу родителям каждую неделю.
+choose: Voy a ___ mañana. | llamarte, te llamar | llamarte | Я позвоню тебе завтра.
+fill: ¿Las llaves? No ___ encuentro. | las | Ключи? Не могу их найти.
+build: Te envío el código ahora. | Я отправлю тебе код сейчас. | le
+compose: Ответьте коротко, заменив предмет местоимением: ¿Tienes el pasaporte? ¿Ves a Ana? | Answer briefly, replacing the object: ¿Tienes el pasaporte? ¿Ves a Ana? | Responde con pronombre: ¿Tienes el pasaporte? ¿Ves a Ana? || Sí, lo … || Sí, lo tengo. Sí, la veo.
+
+=== 27 A2 tenses
+title: Pretérito perfecto: he hecho, has visto | Present perfect: he hecho, has visto | Pretérito perfecto: he hecho, has visto
+see: 30 25
+p: He terminado la tarea. | Я закончил задачу.
+p: ¿Has estado en México? | Ты был в Мексике?
+p: Hoy hemos tenido tres reuniones. | Сегодня у нас было три совещания.
+p: Todavía no he comido. | Я ещё не ел.
+formula: haber (he, has, ha, hemos, habéis, han) + -ado / -ido
+rule: Прошлое, связанное с «сейчас»: сегодня, на этой неделе, «уже / ещё не», опыт в жизни. haber + причастие: hablar → hablado, comer → comido, vivir → vivido. Неправильные: hecho, visto, dicho, escrito, puesto, abierto, vuelto. Между he и причастием ничего не ставят: no lo he visto. | Past linked to now: today, this week, already / not yet, life experience. haber + past participle: hablado, comido, vivido. Irregular: hecho, visto, dicho, escrito, puesto, abierto, vuelto. Nothing goes between haber and the participle. | haber + participio: pasado relacionado con el presente (hoy, esta semana, ya, todavía no, experiencia). Participios irregulares: hecho, visto, dicho, escrito.
+table: | haber | + причастие
+row: yo | he | trabajado
+row: tú | has | comido
+row: él, ella, usted | ha | hecho
+row: nosotros | hemos | visto
+row: vosotros | habéis | dicho
+row: ellos, ustedes | han | escrito
+time: past-now | случилось в прошлом, важно сейчас | happened before, matters now | pasó antes, importa ahora
+bridge: 29 | have + V3 | I have finished the task. | Я закончил задачу. | близко (в Испании); в Латинской Америке чаще indefinido
+tf: Termino el informe. || past = He terminado el informe.
+tf: Has visto la película. || negative = No has visto la película. || question = ¿Has visto la película?
+choose: Hoy ___ trabajado mucho. | he, ha, hemos | he | Сегодня я много работал.
+choose: ¿Habéis ___ la noticia? | oído, oyido | oído | Вы слышали новость?
+fill: Ellos han ___ un correo. (escribir) | escrito | Они написали письмо.
+fill: ¿Qué has ___ hoy? (hacer) | hecho | Что ты сегодня сделал?
+build: Ya he enviado el archivo. | Я уже отправил файл. | envié
+compose: Напишите, что вы уже сделали сегодня и чего ещё нет. | Write what you have already done today and what not yet. | Escribe qué has hecho ya hoy y qué todavía no. || Hoy ya he … Todavía no he … || Hoy ya he trabajado. Todavía no he comido.
+
+=== 28 A2 verbs
+title: Повелительное: просьбы и инструкции | Imperative: requests and instructions | Imperativo: peticiones e instrucciones
+see: 19 34
+p: Abre la ventana, por favor. | Открой окно, пожалуйста.
+p: Pulse el botón verde. | Нажмите зелёную кнопку.
+p: Gira a la derecha. | Поверни направо.
+p: No cierres el archivo. | Не закрывай файл.
+formula: tú: как «он» в presente (habla) · usted: -ar → -e, -er/-ir → -a (hable, coma)
+rule: Для «ты» — форма как у él в настоящем: habla, come, escribe. Неправильные: ven, di, haz, pon, sal, ten, ve (ir). Для вежливого usted — гласная меняется: hablar → hable, comer → coma, tener → tenga. Отрицание строится по-другому: no hables, no comas. Местоимения прикрепляются к утвердительной форме: dímelo, siéntese. | For tú use the él present form: habla, come. Irregular: ven, di, haz, pon, sal, ten, ve. For usted the vowel switches: hable, coma, tenga. Negative changes form: no hables, no comas. Pronouns attach to the affirmative: dímelo. | Tú = 3.ª persona del presente; usted: -ar → -e, -er/-ir → -a. Negativo: no hables. Pronombres enclíticos en afirmativo.
+table: | tú | usted | нельзя (tú)
+row: hablar | habla | hable | no hables
+row: comer | come | coma | no comas
+row: abrir | abre | abra | no abras
+row: venir | ven | venga | no vengas
+row: hacer | haz | haga | no hagas
+bridge: 26 | V / Don't + V / Let's | Open the window, please. | Открой окно, пожалуйста. | в английском одна форма для всех: open, don't open
+choose: ___ aquí, por favor. (usted) | Firme, Firma | Firme | Распишитесь здесь, пожалуйста.
+choose: No ___ la puerta. (tú) | cierra, cierres | cierres | Не закрывай дверь.
+choose: ___ conmigo, Ana. | Ven, Viene | Ven | Пойдём со мной, Ана.
+fill: ___ el archivo y guárdalo. (abrir, tú) | Abre | Открой файл и сохрани его.
+build: Gire a la izquierda en la plaza. | Поверните налево на площади. | gira
+compose: Объясните коллеге, как открыть отчёт: 2–3 шага. | Explain to a colleague how to open the report: 2–3 steps. | Explica a un compañero cómo abrir el informe: 2–3 pasos. || Abre … Pulsa … || Abre la aplicación. Pulsa «Informes». Elige el mes.
+
+=== 29 A2 adjectives
+title: Сравнения: más… que, tan… como, el más | Comparisons: más… que, tan… como, el más | Comparativos y superlativos
+see: 13 25
+p: El tren es más rápido que el autobús. | Поезд быстрее автобуса.
+p: Este hotel es menos caro que aquel. | Этот отель дешевле того.
+p: Mi hermano es tan alto como yo. | Мой брат такого же роста, как я.
+p: Es la mejor playa de la ciudad. | Это лучший пляж в городе.
+formula: más / menos + прил. + que · tan + прил. + como · el / la más + прил. (de)
+rule: «Более / менее … чем» — más / menos + прилагательное + que. «Такой же … как» — tan … como. «Самый» — el / la / los / las + más + прилагательное, «в» — de: el más caro de la ciudad. Особые формы: mejor (лучше), peor (хуже), mayor (старше), menor (младше). | more / less … than: más / menos + adj + que. as … as: tan … como. the most: el / la más + adj (de). Irregular: mejor, peor, mayor, menor. | más / menos … que, tan … como, el más … de. mejor, peor, mayor, menor.
+table: | сравнение | превосходная
+row: caro | más caro que | el más caro
+row: bueno | mejor que | el mejor
+row: malo | peor que | el peor
+row: равенство | tan caro como | —
+bridge: 27 | -er / more … than, as … as, the -est | The train is faster than the bus. | Поезд быстрее автобуса. | в испанском нет окончаний -er / -est — всегда más
+choose: Este móvil es ___ que el otro. | más bueno, mejor | mejor | Этот телефон лучше другого.
+choose: Mi piso es ___ grande como el tuyo. | tan, más | tan | Моя квартира такая же большая, как твоя.
+choose: Es el restaurante más caro ___ la zona. | en, de | de | Это самый дорогой ресторан в районе.
+fill: Mi hermana es ___ que yo. (старше) | mayor | Моя сестра старше меня.
+build: El avión es más rápido que el tren. | Самолёт быстрее поезда. | como
+compose: Сравните два города, которые вы знаете. | Compare two cities you know. | Compara dos ciudades que conoces. || … es más … que … || Madrid es más grande que Valencia, pero Valencia es más tranquila.
+
+=== 30 A2 tenses
+title: Pretérito indefinido: правильные глаголы | Preterite: regular verbs | Pretérito indefinido: verbos regulares
+see: 27 31
+p: Ayer trabajé hasta las ocho. | Вчера я работал до восьми.
+p: ¿Compraste los billetes? | Ты купил билеты?
+p: El año pasado viajamos a México. | В прошлом году мы ездили в Мексику.
+p: Me escribió un correo. | Он написал мне письмо.
+formula: -ar: -é, -aste, -ó, -amos, -asteis, -aron · -er/-ir: -í, -iste, -ió, -imos, -isteis, -ieron
+rule: Законченное действие в прошлом с моментом, который уже прошёл: ayer, la semana pasada, en 2020, hace dos días. Ударение на окончании важно: trabajo («я работаю») ≠ trabajó («он работал»). В «мы» у -ar и -ir форма совпадает с настоящим: hablamos — по контексту. | A finished action at a past time: ayer, la semana pasada, en 2020, hace dos días. Stress matters: trabajo (I work) ≠ trabajó (he worked). For -ar and -ir, nosotros is the same as present. | Acción terminada en un tiempo pasado (ayer, el año pasado). trabajo ≠ trabajó.
+table: | trabajar | comer | escribir
+row: yo | trabajé | comí | escribí
+row: tú | trabajaste | comiste | escribiste
+row: él, ella, usted | trabajó | comió | escribió
+row: nosotros | trabajamos | comimos | escribimos
+row: vosotros | trabajasteis | comisteis | escribisteis
+row: ellos, ustedes | trabajaron | comieron | escribieron
+time: past | закончилось в прошлом, момент назван | finished at a stated past time | terminó en un momento pasado
+bridge: 19 | Past Simple: worked, wrote | Yesterday I worked until eight. | Вчера я работал до восьми. | Past Simple ≈ indefinido; Present Perfect ≈ perfecto
+tf: Compro un regalo. || past = Compré un regalo.
+tf: Llegaste tarde. || negative = No llegaste tarde. || question = ¿Llegaste tarde?
+choose: Ayer ___ con el cliente. | hablé, he hablado, hablo | hablé | Вчера я говорил с клиентом.
+choose: ¿Dónde ___ tus vacaciones? | pasaste, pasó | pasaste | Где ты провёл отпуск?
+fill: Ellos ___ en un restaurante italiano. (comer, ayer) | comieron | Они ели в итальянском ресторане.
+build: La semana pasada terminamos el proyecto. | На прошлой неделе мы закончили проект. | terminé
+compose: Напишите, что вы делали вчера. | Write what you did yesterday. | Escribe qué hiciste ayer. || Ayer … || Ayer trabajé mucho y cené con mis amigos.
+
+=== 31 A2 tenses
+title: Indefinido: fui, tuve, hice, estuve | Preterite irregulars: fui, tuve, hice, estuve | Indefinido irregular: fui, tuve, hice, estuve
+see: 30 18
+p: Ayer fui al cine. | Вчера я ходил в кино.
+p: Tuvimos un problema con el vuelo. | У нас была проблема с рейсом.
+p: ¿Qué hiciste el fin de semana? | Что ты делал на выходных?
+p: Estuve en Madrid dos días. | Я был в Мадриде два дня.
+formula: tuv-, estuv-, hic-, pud-, vin-, quis- + -e, -iste, -o, -imos, -isteis, -ieron
+rule: У частотных глаголов особая основа и окончания без ударения: tener → tuve, estar → estuve, hacer → hice (hizo), poder → pude, venir → vine, querer → quise, decir → dije (dijeron). ser и ir в indefinido совпадают: fui, fuiste, fue — понятно по контексту. dar → di, ver → vi. | Common verbs have a special stem and unstressed endings: tuve, estuve, hice (hizo), pude, vine, quise, dije (dijeron). ser and ir share forms: fui, fuiste, fue. dar → di, ver → vi. | Raíces irregulares: tuv-, estuv-, hic-, pud-, vin-, quis-, dij-. ser / ir: fui, fue.
+table: | ser, ir | tener | hacer | estar
+row: yo | fui | tuve | hice | estuve
+row: tú | fuiste | tuviste | hiciste | estuviste
+row: él, ella, usted | fue | tuvo | hizo | estuvo
+row: nosotros | fuimos | tuvimos | hicimos | estuvimos
+row: vosotros | fuisteis | tuvisteis | hicisteis | estuvisteis
+row: ellos, ustedes | fueron | tuvieron | hicieron | estuvieron
+time: past | закончилось в прошлом | finished in the past | terminó en el pasado
+bridge: 19 | went, had, did, was | Yesterday I went to the cinema. | Вчера я ходил в кино. | неправильных глаголов много в обоих языках — учите формы парами
+tf: Voy a la playa. || past = Fui a la playa.
+tf: Hago la compra. || past = Hice la compra.
+choose: El concierto ___ fantástico. | fue, estuvo, fui | fue | Концерт был потрясающий.
+choose: ¿Dónde ___ ayer? | estuviste, estabas, estás | estuviste | Где ты был вчера?
+fill: No ___ ir a la reunión. (poder, yo) | pude | Я не смог пойти на совещание.
+build: El sábado tuvimos una fiesta en casa. | В субботу у нас была вечеринка дома. | tenemos
+compose: Расскажите о своей последней поездке: куда ездили и что делали. | Tell about your last trip: where you went and what you did. | Cuenta tu último viaje: adónde fuiste y qué hiciste. || Fui a … Estuve … Hice … || Fui a Sevilla. Estuve tres días. Hice muchas fotos.
+
+=== 32 A2 sentence
+title: Связки: y, pero, porque, cuando, si, que | Linking words: y, pero, porque, cuando, si, que | Conectores: y, pero, porque, cuando, si, que
+see: 12 33
+p: Quiero ir, pero no tengo tiempo. | Я хочу пойти, но у меня нет времени.
+p: No voy porque estoy cansado. | Я не пойду, потому что устал.
+p: Cuando llego a casa, cocino. | Когда прихожу домой, я готовлю.
+p: Si tienes tiempo, llámame. | Если будет время, позвони мне.
+formula: часть 1 + y / pero / porque / cuando / si / que + часть 2
+rule: y — «и» (перед i- / hi- → e: padre e hijo), o — «или» (перед o- → u), pero — «но», porque — «потому что» (без пробела и ударения, в отличие от ¿por qué?), cuando — «когда», si — «если» (без ударения; sí — «да»), que — «что»: Creo que es tarde. После si о будущем — настоящее время: Si llueve, no voy. | y = and (e before i-/hi-), o = or (u before o-), pero = but, porque = because (one word, no accent), cuando = when, si = if (no accent; sí = yes), que = that: Creo que es tarde. After si use the present for the future: Si llueve, no voy. | y / e, o / u, pero, porque, cuando, si + presente, que.
+table: связка | смысл | пример
+row: y (e) | и | Ana e Inés
+row: pero | но | Es caro, pero bueno.
+row: porque | потому что | porque llueve
+row: cuando | когда | cuando llego
+row: si | если | si quieres
+row: que | что | Creo que sí.
+bridge: 32 | and, but, because, when, if | I want to go, but I don't have time. | Я хочу пойти, но у меня нет времени. | if + Present ≈ si + presente — 1:1
+choose: No como carne ___ soy vegetariano. | porque, por qué, pero | porque | Я не ем мясо, потому что я вегетарианец.
+choose: ___ llueve, vamos al museo. | Si, Sí | Si | Если будет дождь, пойдём в музей.
+choose: Mi padre ___ hijo trabajan juntos. | y, e | e | Отец и сын работают вместе.
+fill: Creo ___ el tren sale a las diez. | que | Думаю, что поезд отправляется в десять.
+build: Cuando termino el trabajo, voy al gimnasio. | Когда я заканчиваю работу, я иду в спортзал. | si
+compose: Напишите, что вы сделаете, если завтра будет хорошая погода. | Write what you'll do if the weather is nice tomorrow. | Escribe qué harás si mañana hace buen tiempo. || Si mañana hace buen tiempo, voy a … || Si mañana hace buen tiempo, voy a ir a la playa.
+
+=== 33 A2 tenses
+title: Будущее время: hablaré, tendré | Future simple: hablaré, tendré | Futuro simple: hablaré, tendré
+see: 21 32
+p: Mañana te llamaré. | Завтра я тебе позвоню.
+p: El paquete llegará el lunes. | Посылка придёт в понедельник.
+p: ¿Vendrás a la fiesta? | Ты придёшь на вечеринку?
+p: Tendremos tiempo después. | У нас будет время потом.
+formula: инфинитив + -é, -ás, -á, -emos, -éis, -án
+rule: Окончания добавляются к целому инфинитиву, одинаковые для -ar, -er, -ir: hablaré, comerás, vivirá. Неправильные основы: tendr- (tener), vendr- (venir), saldr-, podr-, har- (hacer), dir- (decir), querr-, sabr-. Обещания, прогнозы, далёкие планы; в разговоре чаще ir a. | Endings go on the whole infinitive and are the same for -ar, -er, -ir: hablaré, comerás, vivirá. Irregular stems: tendr-, vendr-, saldr-, podr-, har-, dir-, querr-, sabr-. Promises, predictions; in speech ir a is more common. | Infinitivo + -é, -ás, -á, -emos, -éis, -án. Raíces irregulares: tendr-, vendr-, har-, dir-, podr-, saldr-.
+table: | hablar | tener (tendr-) | hacer (har-)
+row: yo | hablaré | tendré | haré
+row: tú | hablarás | tendrás | harás
+row: él, ella, usted | hablará | tendrá | hará
+row: nosotros | hablaremos | tendremos | haremos
+row: vosotros | hablaréis | tendréis | haréis
+row: ellos, ustedes | hablarán | tendrán | harán
+time: future | впереди, обещание или прогноз | ahead: a promise or prediction | en el futuro: promesa o predicción
+bridge: 21 | will + V | I'll call you tomorrow. | Завтра я тебе позвоню. | will ≈ futuro simple; going to ≈ ir a
+tf: Llamo al médico. || future = Llamaré al médico.
+tf: Vendrás a la fiesta. || negative = No vendrás a la fiesta. || question = ¿Vendrás a la fiesta?
+choose: Mañana ___ sol. | hará, hacerá | hará | Завтра будет солнечно.
+choose: ¿___ tiempo para la reunión? | Tendrás, Tenerás | Tendrás | У тебя будет время для совещания?
+fill: El año que viene ___ a Japón. (viajar, nosotros) | viajaremos | В следующем году мы поедем в Японию.
+build: Te enviaré el informe esta tarde. | Я пришлю тебе отчёт сегодня днём. | envío
+compose: Напишите два обещания на следующую неделю. | Write two promises for next week. | Escribe dos promesas para la semana que viene. || La semana que viene … || La semana que viene haré deporte. Llamaré a mis padres.
+
+=== 34 A2 modals
+title: Вежливость: me gustaría, podría, debería | Politeness: me gustaría, podría, debería | Cortesía: me gustaría, podría, debería
+see: 19 20 22
+p: Me gustaría reservar una mesa. | Я бы хотел забронировать столик.
+p: ¿Podría repetir, por favor? | Не могли бы вы повторить?
+p: Deberías descansar un poco. | Тебе стоило бы немного отдохнуть.
+p: ¿Podrías ayudarme con esto? | Не мог бы ты помочь мне с этим?
+formula: инфинитив + -ía, -ías, -ía, -íamos, -íais, -ían (podr-, querr-, tendr-…)
+rule: Condicional смягчает просьбу и совет — как русское «бы»: ¿Puede…? → ¿Podría…? («не могли бы вы…?»), quiero → me gustaría / querría, debes → deberías («тебе стоило бы»). Основы — как у будущего времени: podr-, tendr-, har-. | The conditional softens requests and advice, like “would / could”: ¿Podría…?, me gustaría, deberías. Stems are the same as the future: podr-, tendr-, har-. | Condicional de cortesía: ¿Podría…?, me gustaría, deberías. Mismas raíces que el futuro.
+table: прямо | вежливо | смысл
+row: Quiero un café. | Me gustaría un café. | я бы хотел
+row: ¿Puede ayudarme? | ¿Podría ayudarme? | не могли бы вы
+row: Debes ir. | Deberías ir. | тебе стоило бы
+row: ¿Tiene…? | ¿Tendría…? | не найдётся ли у вас
+bridge: 25 | Could you…? I'd like… You should… | Could you repeat, please? | Не могли бы вы повторить? | I'd like ≈ me gustaría — 1:1
+tf: ¿Puede cerrar la ventana? || polite = ¿Podría cerrar la ventana?
+tf: Quiero una habitación doble. || polite = Me gustaría una habitación doble. / Querría una habitación doble.
+choose: ___ hablar con el director, por favor. | Me gustaría, Me gusta | Me gustaría | Я бы хотел поговорить с директором.
+choose: ¿___ decirme dónde está el baño? | Podría, Puedo | Podría | Не подскажете, где туалет?
+fill: Estás cansado: ___ dormir más. (deber) | deberías | Ты устал: тебе стоило бы больше спать.
+build: ¿Podría traer la cuenta, por favor? | Не могли бы вы принести счёт? | puedo
+compose: Вежливо попросите в отеле поздний выезд. | Politely ask the hotel for a late checkout. | Pide en el hotel, con cortesía, salir más tarde. || ¿Podría …? / Me gustaría … || ¿Podría dejar la habitación a las dos? / Me gustaría salir más tarde, a las dos.
+
+=== 35 A2 nouns
+title: Сколько: mucho, poco, algún, ningún | Quantity: mucho, poco, algún, ningún | Cantidad: mucho, poco, algún, ningún
+see: 13 10
+words: mucho
+p: Tengo mucho trabajo. | У меня много работы.
+p: Hay pocas personas en la playa. | На пляже мало людей.
+p: ¿Tienes alguna pregunta? | У тебя есть какой-нибудь вопрос?
+p: No hay ningún problema. | Никаких проблем.
+formula: mucho / poco / bastante / demasiado + сущ. (согласуются) · algún / ningún
+rule: mucho, poco, bastante, demasiado перед существительным согласуются: mucha gente, muchos días, pocas horas. Перед глаголом и прилагательным — не меняются: trabajo mucho; muy — только с прилагательным: muy caro. algún — «какой-нибудь», ningún — «ни один» (с no): No tengo ningún plan. un poco de — «немного»: un poco de agua. | mucho, poco, bastante, demasiado agree before nouns: mucha gente, muchos días. After a verb they don't change: trabajo mucho; muy goes with adjectives. algún = some / any, ningún = no (with no). un poco de = a little. | mucho / poco concuerdan con el sustantivo; con verbo, invariables. muy + adjetivo. algún / ningún. un poco de.
+table: | муж. | жен.
+row: много | mucho trabajo, muchos días | mucha gente, muchas horas
+row: мало | poco dinero, pocos días | poca agua, pocas personas
+row: какой-нибудь | algún problema | alguna pregunta
+row: ни одного | ningún problema | ninguna pregunta
+bridge: 28 | much / many, a few / a little, some / any | I have a lot of work. | У меня много работы. | в английском выбор зависит от исчисляемости, в испанском — согласование по роду и числу
+choose: Hay ___ turistas en verano. | mucho, muchos, muy | muchos | Летом много туристов.
+choose: El hotel es ___ caro. | mucho, muy | muy | Отель очень дорогой.
+choose: No tengo ___ pregunta. | ninguna, alguna | ninguna | У меня нет вопросов.
+fill: Necesito un ___ de tiempo. | poco | Мне нужно немного времени.
+build: Hoy hay poca gente en la oficina. | Сегодня в офисе мало людей. | pocos
+compose: Опишите свою неделю: чего много, а чего мало. | Describe your week: what there is a lot of and little of. | Describe tu semana: de qué hay mucho y de qué poco. || Esta semana tengo mucho … y poco … || Esta semana tengo mucho trabajo y poco tiempo libre.

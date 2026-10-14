@@ -1,0 +1,162 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-28",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "nouns",
+  "code": "EN-28",
+  "order": 28,
+  "level": "A2",
+  "title": {
+    "ru": "Сколько: some / any, much / many, a few / a little",
+    "en": "Quantity: some / any, much / many, a few / a little",
+    "es": "Cantidad: some / any, much / many"
+  },
+  "see": [
+    "en-grammar-04",
+    "en-grammar-05",
+    "en-grammar-03"
+  ],
+  "pattern": [
+    {
+      "en": "Is there any milk?",
+      "ru": "Есть молоко?"
+    },
+    {
+      "en": "I have some questions.",
+      "ru": "У меня есть несколько вопросов."
+    },
+    {
+      "en": "We don't have much time.",
+      "ru": "У нас мало времени."
+    },
+    {
+      "en": "How many tickets do you need?",
+      "ru": "Сколько билетов вам нужно?"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Исчисляемые (можно посчитать: tickets, people) — many, a few, how many. Неисчисляемые (water, money, time, information, advice) — much, a little, how much, без -s и без a. some — в утверждениях и просьбах (Can I have some water?), any — в вопросах и отрицаниях. a lot of — «много» для любых, особенно в утверждениях.",
+      "en": "Countable nouns: many, a few, how many. Uncountable (water, money, time, information, advice): much, a little, how much — no -s, no a. some in statements and offers, any in questions and negatives. a lot of works for both.",
+      "es": "Contables: many, a few; incontables: much, a little. some (+) / any (−, ?). a lot of."
+    },
+    "formula": "исчисляемые: many, a few · неисчисляемые: much, a little · some (+), any (−, ?) · a lot of — всё",
+    "table": {
+      "head": [
+        "",
+        "исчисляемые",
+        "неисчисляемые"
+      ],
+      "rows": [
+        [
+          "много",
+          "many, a lot of",
+          "much, a lot of"
+        ],
+        [
+          "немного",
+          "a few",
+          "a little"
+        ],
+        [
+          "сколько?",
+          "how many",
+          "how much"
+        ],
+        [
+          "какие-то / нисколько",
+          "some, any",
+          "some, any"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-35",
+      "formula": "mucho / poco, algún / ningún",
+      "examples": [
+        {
+          "es": "Tengo muchas preguntas.",
+          "ru": "У меня много вопросов."
+        }
+      ],
+      "note": {
+        "ru": "в испанском mucho согласуется: mucho tiempo, muchas preguntas"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "How ___ money do you have?",
+      "options": [
+        "much",
+        "many"
+      ],
+      "answer": "much",
+      "ru": "Сколько у тебя денег?"
+    },
+    {
+      "type": "choose",
+      "en": "There aren't ___ tickets left.",
+      "options": [
+        "some",
+        "any"
+      ],
+      "answer": "any",
+      "ru": "Билетов не осталось."
+    },
+    {
+      "type": "choose",
+      "en": "I need ___ advice.",
+      "options": [
+        "an",
+        "some",
+        "many"
+      ],
+      "answer": "some",
+      "ru": "Мне нужен совет."
+    },
+    {
+      "type": "choose",
+      "en": "I know ___ people here.",
+      "options": [
+        "a few",
+        "a little"
+      ],
+      "answer": "a few",
+      "ru": "Я знаю здесь нескольких людей."
+    },
+    {
+      "type": "fill",
+      "en": "Would you like ___ coffee?",
+      "answer": "some",
+      "ru": "Хотите кофе?"
+    },
+    {
+      "type": "build",
+      "en": "We don't have much time before the flight.",
+      "ru": "До рейса у нас мало времени.",
+      "extra": [
+        "many"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Опишите свою неделю: чего много, а чего мало.",
+        "en": "Describe your week: what there is a lot of and little of.",
+        "es": "Describe tu semana: de qué hay mucho y de qué poco."
+      },
+      "template": "This week I have a lot of … and not much …",
+      "sample": "This week I have a lot of meetings and not much free time."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

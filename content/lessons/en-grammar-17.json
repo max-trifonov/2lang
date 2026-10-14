@@ -1,0 +1,177 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-17",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "EN-17",
+  "order": 17,
+  "level": "A1",
+  "title": {
+    "ru": "Present Continuous: происходит сейчас",
+    "en": "Present Continuous: happening now",
+    "es": "Present Continuous: ahora mismo"
+  },
+  "see": [
+    "en-grammar-07",
+    "en-grammar-22"
+  ],
+  "pattern": [
+    {
+      "en": "I'm working right now.",
+      "ru": "Я сейчас работаю."
+    },
+    {
+      "en": "What are you doing?",
+      "ru": "Что ты делаешь?"
+    },
+    {
+      "en": "It's raining.",
+      "ru": "Идёт дождь."
+    },
+    {
+      "en": "She isn't listening.",
+      "ru": "Она не слушает."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Действие идёт в момент речи или «в эти дни»: now, at the moment, today, this week. be + глагол с -ing: work → working, make → making (е отпадает), stop → stopping, lie → lying. Глаголы состояния (know, like, want, need, understand) в Continuous обычно не ставят: I know, а не I'm knowing. Сравните: I work from home (обычно) — I'm working from home (сейчас, на этой неделе).",
+      "en": "An action in progress now or around now: now, at the moment, this week. be + -ing: working, making, stopping, lying. State verbs (know, like, want, need) are normally not used in the continuous. Compare: I work from home (usually) vs I'm working from home (now).",
+      "es": "be + -ing: acción en curso. Verbos de estado (know, like, want) sin -ing."
+    },
+    "formula": "am / is / are + V-ing",
+    "table": {
+      "head": [
+        "",
+        "+",
+        "−",
+        "?"
+      ],
+      "rows": [
+        [
+          "I",
+          "I'm working",
+          "I'm not working",
+          "Am I working?"
+        ],
+        [
+          "he, she, it",
+          "she's working",
+          "she isn't working",
+          "Is she working?"
+        ],
+        [
+          "we, you, they",
+          "they're working",
+          "they aren't working",
+          "Are they working?"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "now",
+        "label": {
+          "ru": "прямо сейчас или в эти дни",
+          "en": "right now or around now",
+          "es": "ahora o estos días"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-24",
+      "formula": "estar + gerundio",
+      "examples": [
+        {
+          "es": "Estoy trabajando.",
+          "ru": "Я сейчас работаю."
+        }
+      ],
+      "note": {
+        "ru": "близко; в испанском обычное presente встречается чаще"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "They are watching TV.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "They aren't watching TV.",
+            "They are not watching TV.",
+            "They're not watching TV."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Are they watching TV?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "Look! It ___.",
+      "options": [
+        "snows",
+        "is snowing"
+      ],
+      "answer": "is snowing",
+      "ru": "Смотри! Идёт снег."
+    },
+    {
+      "type": "choose",
+      "en": "I ___ the answer.",
+      "options": [
+        "know",
+        "am knowing"
+      ],
+      "answer": "know",
+      "ru": "Я знаю ответ."
+    },
+    {
+      "type": "choose",
+      "en": "Shh! The baby ___.",
+      "options": [
+        "sleeps",
+        "is sleeping"
+      ],
+      "answer": "is sleeping",
+      "ru": "Тише! Малыш спит."
+    },
+    {
+      "type": "fill",
+      "en": "What ___ you doing now?",
+      "answer": "are",
+      "ru": "Что ты сейчас делаешь?"
+    },
+    {
+      "type": "build",
+      "en": "We are waiting for a taxi.",
+      "ru": "Мы ждём такси.",
+      "extra": [
+        "wait"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы и ваши близкие делают прямо сейчас.",
+        "en": "Write what you and your family are doing right now.",
+        "es": "Escribe qué estáis haciendo ahora tú y tu familia."
+      },
+      "template": "I'm … My … is …",
+      "sample": "I'm studying English. My husband is cooking dinner."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

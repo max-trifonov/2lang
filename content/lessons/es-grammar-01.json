@@ -1,0 +1,171 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-01",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "ES-1",
+  "order": 1,
+  "level": "A1",
+  "title": {
+    "ru": "Строй предложения: кто + что делает",
+    "en": "Sentence structure: who + does what",
+    "es": "La oración: quién + qué hace"
+  },
+  "see": [
+    "es-grammar-08",
+    "es-grammar-10",
+    "es-grammar-11"
+  ],
+  "pattern": [
+    {
+      "es": "Yo trabajo en Madrid.",
+      "ru": "Я работаю в Мадриде."
+    },
+    {
+      "es": "Trabajo en un proyecto nuevo.",
+      "ru": "Я работаю над новым проектом."
+    },
+    {
+      "es": "Ana habla inglés y español.",
+      "ru": "Ана говорит по-английски и по-испански."
+    },
+    {
+      "es": "Hoy llegamos tarde.",
+      "ru": "Сегодня мы опаздываем."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Обычный порядок — как в русском: кто → действие → остальное. Окончание глагола уже показывает лицо, поэтому yo, tú, nosotros обычно опускают: trabajo = «я работаю». Местоимение ставят для ясности или акцента: Yo trabajo, ¿y tú? Usted — вежливое «вы» к одному человеку, глагол как у él / ella.",
+      "en": "Normal order: who → action → the rest. The verb ending already shows the person, so yo, tú, nosotros are usually dropped: trabajo = “I work”. Use the pronoun for clarity or contrast: Yo trabajo, ¿y tú? Usted is the polite “you”, with the verb form of él / ella.",
+      "es": "Orden habitual: sujeto → verbo → complementos. La terminación del verbo indica la persona, por eso el pronombre suele omitirse: trabajo. Usted lleva el verbo en tercera persona."
+    },
+    "formula": "(кто) + глагол + что / где / когда",
+    "table": {
+      "head": [
+        "",
+        "кто",
+        "hablar",
+        "ser"
+      ],
+      "rows": [
+        [
+          "я",
+          "yo",
+          "hablo",
+          "soy"
+        ],
+        [
+          "ты",
+          "tú",
+          "hablas",
+          "eres"
+        ],
+        [
+          "он, она, вы (вежл.)",
+          "él, ella, usted",
+          "habla",
+          "es"
+        ],
+        [
+          "мы",
+          "nosotros, nosotras",
+          "hablamos",
+          "somos"
+        ],
+        [
+          "вы",
+          "vosotros, vosotras",
+          "habláis",
+          "sois"
+        ],
+        [
+          "они, вы (вежл. мн.)",
+          "ellos, ellas, ustedes",
+          "hablan",
+          "son"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-01",
+      "formula": "I work. — подлежащее обязательно",
+      "examples": [
+        {
+          "en": "I work in Madrid.",
+          "ru": "Я работаю в Мадриде."
+        }
+      ],
+      "note": {
+        "ru": "в английском I, you, it нельзя опустить — в испанском лицо видно по окончанию"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "___ en un hotel cerca de la playa.",
+      "options": [
+        "Trabajo",
+        "Trabajas",
+        "Trabajamos"
+      ],
+      "answer": "Trabajamos",
+      "ru": "Мы работаем в отеле рядом с пляжем."
+    },
+    {
+      "type": "choose",
+      "es": "Usted ___ muy bien español.",
+      "options": [
+        "hablas",
+        "habla",
+        "hablo"
+      ],
+      "answer": "habla",
+      "ru": "Вы очень хорошо говорите по-испански."
+    },
+    {
+      "type": "fill",
+      "es": "Ella ___ en una empresa de IT.",
+      "answer": "trabaja",
+      "ru": "Она работает в IT-компании."
+    },
+    {
+      "type": "build",
+      "es": "Mañana trabajo en casa.",
+      "ru": "Завтра я работаю дома.",
+      "extra": [
+        "trabajas"
+      ]
+    },
+    {
+      "type": "build",
+      "es": "Mi hermano habla tres idiomas.",
+      "ru": "Мой брат говорит на трёх языках.",
+      "extra": [
+        "hablo"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, где вы работаете или учитесь.",
+        "en": "Write where you work or study.",
+        "es": "Escribe dónde trabajas o estudias."
+      },
+      "template": "Trabajo en …",
+      "sample": [
+        "Trabajo en una empresa de IT.",
+        "Estudio en la universidad."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

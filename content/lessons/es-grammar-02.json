@@ -1,0 +1,145 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-02",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "nouns",
+  "code": "ES-2",
+  "order": 2,
+  "level": "A1",
+  "title": {
+    "ru": "Род и артикли: el / la, un / una",
+    "en": "Gender and articles: el / la, un / una",
+    "es": "Género y artículos: el / la, un / una"
+  },
+  "see": [
+    "es-grammar-03",
+    "es-grammar-13"
+  ],
+  "pattern": [
+    {
+      "es": "Tengo una reserva en el hotel.",
+      "ru": "У меня бронь в отеле."
+    },
+    {
+      "es": "La habitación está libre.",
+      "ru": "Номер свободен."
+    },
+    {
+      "es": "¿Hay un café cerca?",
+      "ru": "Рядом есть кафе?"
+    },
+    {
+      "es": "El problema es el código.",
+      "ru": "Проблема — в коде."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "У каждого существительного есть род. Обычно -o — мужской (el libro), -a — женский (la mesa); -ción, -dad — женский (la estación, la ciudad). Исключения учите с артиклем: el problema, el día, la mano. el / la — «тот самый, известный», un / una — «какой-то, один». После a и de: a + el = al, de + el = del.",
+      "en": "Every noun has a gender. Usually -o is masculine (el libro), -a feminine (la mesa); -ción and -dad are feminine. Learn exceptions with the article: el problema, el día, la mano. el / la = the, un / una = a. a + el = al, de + el = del.",
+      "es": "Cada sustantivo tiene género: -o suele ser masculino, -a femenino; -ción y -dad, femeninos. Excepciones: el problema, el día, la mano. a + el = al, de + el = del."
+    },
+    "formula": "el / un + муж. род · la / una + жен. род",
+    "table": {
+      "head": [
+        "",
+        "определённый",
+        "неопределённый"
+      ],
+      "rows": [
+        [
+          "муж. род",
+          "el tren",
+          "un tren"
+        ],
+        [
+          "жен. род",
+          "la estación",
+          "una estación"
+        ],
+        [
+          "исключения",
+          "el problema, el día",
+          "la mano, la foto"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-03",
+      "formula": "the / a, an",
+      "examples": [
+        {
+          "en": "I have a reservation at the hotel.",
+          "ru": "У меня бронь в отеле."
+        }
+      ],
+      "note": {
+        "ru": "в английском рода нет: the — для всех"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Necesito ___ habitación para dos noches.",
+      "options": [
+        "un",
+        "una"
+      ],
+      "answer": "una",
+      "ru": "Мне нужен номер на две ночи."
+    },
+    {
+      "type": "choose",
+      "es": "___ problema es importante.",
+      "options": [
+        "El",
+        "La"
+      ],
+      "answer": "El",
+      "ru": "Проблема важная."
+    },
+    {
+      "type": "choose",
+      "es": "Voy ___ aeropuerto.",
+      "options": [
+        "a el",
+        "al"
+      ],
+      "answer": "al",
+      "ru": "Я еду в аэропорт."
+    },
+    {
+      "type": "fill",
+      "es": "¿Dónde está ___ estación?",
+      "answer": "la",
+      "ru": "Где вокзал?"
+    },
+    {
+      "type": "build",
+      "es": "Tengo un problema con el ordenador.",
+      "ru": "У меня проблема с компьютером.",
+      "extra": [
+        "la"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Назовите три вещи в своей комнате с артиклем.",
+        "en": "Name three things in your room with an article.",
+        "es": "Nombra tres cosas de tu habitación con artículo."
+      },
+      "template": "En mi habitación hay …",
+      "sample": "En mi habitación hay una mesa, un ordenador y una ventana."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

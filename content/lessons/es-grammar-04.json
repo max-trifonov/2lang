@@ -1,0 +1,159 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-04",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "verbs",
+  "code": "ES-4",
+  "order": 4,
+  "level": "A1",
+  "title": {
+    "ru": "ser: кто, что, откуда, какой",
+    "en": "ser: who, what, where from, what like",
+    "es": "ser: quién, qué, de dónde, cómo es"
+  },
+  "see": [
+    "es-grammar-05",
+    "es-grammar-01"
+  ],
+  "pattern": [
+    {
+      "es": "Soy Ana. Soy de Valencia.",
+      "ru": "Я Ана. Я из Валенсии."
+    },
+    {
+      "es": "Somos desarrolladores.",
+      "ru": "Мы разработчики."
+    },
+    {
+      "es": "El hotel es grande y moderno.",
+      "ru": "Отель большой и современный."
+    },
+    {
+      "es": "¿Qué hora es? Son las tres.",
+      "ru": "Который час? Три часа."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "ser — «быть» для постоянного: имя, профессия, происхождение (ser de), характер и свойства, время и даты. Профессию говорят без артикля: Soy ingeniero. Время — es la una, son las dos.",
+      "en": "ser is “to be” for identity: name, job, origin (ser de), personality and qualities, time and dates. No article with jobs: Soy ingeniero. Time: es la una, son las dos.",
+      "es": "ser: identidad, profesión, origen (ser de), características, hora y fecha. Soy ingeniero (sin artículo)."
+    },
+    "formula": "ser + кто / откуда (de) / какой по сути",
+    "table": {
+      "head": [
+        "",
+        "ser"
+      ],
+      "rows": [
+        [
+          "yo",
+          "soy"
+        ],
+        [
+          "tú",
+          "eres"
+        ],
+        [
+          "él, ella, usted",
+          "es"
+        ],
+        [
+          "nosotros",
+          "somos"
+        ],
+        [
+          "vosotros",
+          "sois"
+        ],
+        [
+          "ellos, ustedes",
+          "son"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-02",
+      "formula": "to be: am / is / are",
+      "examples": [
+        {
+          "en": "I am from Valencia.",
+          "ru": "Я из Валенсии."
+        }
+      ],
+      "note": {
+        "ru": "английское be = и ser, и estar"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Eres de Madrid.",
+      "into": [
+        {
+          "form": "question",
+          "answer": "¿Eres de Madrid?"
+        },
+        {
+          "form": "negative",
+          "answer": "No eres de Madrid."
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "Nosotros ___ de Rusia.",
+      "options": [
+        "somos",
+        "son",
+        "sois"
+      ],
+      "answer": "somos",
+      "ru": "Мы из России."
+    },
+    {
+      "type": "choose",
+      "es": "Mi jefe ___ muy simpático.",
+      "options": [
+        "es",
+        "eres",
+        "soy"
+      ],
+      "answer": "es",
+      "ru": "Мой начальник очень приятный."
+    },
+    {
+      "type": "fill",
+      "es": "¿De dónde ___ tú?",
+      "answer": "eres",
+      "ru": "Откуда ты?"
+    },
+    {
+      "type": "build",
+      "es": "Mi hermana es médica en Madrid.",
+      "ru": "Моя сестра — врач в Мадриде.",
+      "extra": [
+        "una"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Представьтесь: имя, откуда вы и кто по профессии.",
+        "en": "Introduce yourself: name, origin and job.",
+        "es": "Preséntate: nombre, origen y profesión."
+      },
+      "template": "Soy … Soy de … Soy …",
+      "sample": "Soy Pablo. Soy de Moscú. Soy programador."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

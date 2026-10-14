@@ -1,0 +1,169 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-21",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "EN-21",
+  "order": 21,
+  "level": "A2",
+  "title": {
+    "ru": "Будущее с will: решения, обещания, прогнозы",
+    "en": "Future with will",
+    "es": "El futuro con will"
+  },
+  "see": [
+    "en-grammar-22",
+    "en-grammar-33"
+  ],
+  "pattern": [
+    {
+      "en": "I'll call you tomorrow.",
+      "ru": "Я позвоню тебе завтра."
+    },
+    {
+      "en": "It will be hot next week.",
+      "ru": "На следующей неделе будет жарко."
+    },
+    {
+      "en": "I'm tired. I think I'll go to bed.",
+      "ru": "Я устал. Пожалуй, пойду спать."
+    },
+    {
+      "en": "Don't worry, it won't take long.",
+      "ru": "Не волнуйся, это не займёт много времени."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "will — будущее «решил прямо сейчас», обещание, предложение помощи и прогноз-мнение (I think it will rain). Одна форма для всех лиц, без to: she will go. Отрицание — won't, вопрос — Will you…? Просьба: Will you help me? (Could you — вежливее.)",
+      "en": "will = a decision made now, a promise, an offer, an opinion about the future. One form, no to. Negative won't, question Will you…?",
+      "es": "will + verbo: decisión espontánea, promesa, predicción. won't."
+    },
+    "formula": "will ('ll) + V · won't + V · Will + подлежащее + V?",
+    "table": {
+      "head": [
+        "",
+        "+",
+        "−",
+        "?"
+      ],
+      "rows": [
+        [
+          "все лица",
+          "I'll go",
+          "I won't go",
+          "Will you go?"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "future",
+        "label": {
+          "ru": "будущее: решение сейчас, обещание, прогноз",
+          "en": "future: decision now, promise, prediction",
+          "es": "futuro: decisión, promesa, predicción"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-33",
+      "formula": "futuro simple: llamaré",
+      "examples": [
+        {
+          "es": "Mañana te llamaré.",
+          "ru": "Завтра я тебе позвоню."
+        }
+      ],
+      "note": {
+        "ru": "will ≈ futuro simple; в разговоре испанцы чаще используют ir a"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "I help you.",
+      "into": [
+        {
+          "form": "future",
+          "answer": [
+            "I'll help you.",
+            "I will help you."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "She will come.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "She won't come.",
+            "She will not come."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Will she come?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "It's cold. I ___ close the window.",
+      "options": [
+        "'ll",
+        "am going",
+        "will to"
+      ],
+      "answer": "'ll",
+      "ru": "Холодно. Я закрою окно."
+    },
+    {
+      "type": "choose",
+      "en": "I promise I ___ be late.",
+      "options": [
+        "won't",
+        "don't",
+        "willn't"
+      ],
+      "answer": "won't",
+      "ru": "Обещаю, я не опоздаю."
+    },
+    {
+      "type": "fill",
+      "en": "Do you think it ___ rain tomorrow?",
+      "answer": "will",
+      "ru": "Думаешь, завтра будет дождь?"
+    },
+    {
+      "type": "build",
+      "en": "I think you will like this film.",
+      "ru": "Думаю, тебе понравится этот фильм.",
+      "extra": [
+        "likes"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите два обещания на следующую неделю.",
+        "en": "Write two promises for next week.",
+        "es": "Escribe dos promesas para la semana que viene."
+      },
+      "template": "Next week I'll …",
+      "sample": "Next week I'll go to the gym. I'll call my grandma."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

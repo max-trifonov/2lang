@@ -1,0 +1,191 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-33",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "ES-33",
+  "order": 33,
+  "level": "A2",
+  "title": {
+    "ru": "Будущее время: hablaré, tendré",
+    "en": "Future simple: hablaré, tendré",
+    "es": "Futuro simple: hablaré, tendré"
+  },
+  "see": [
+    "es-grammar-21",
+    "es-grammar-32"
+  ],
+  "pattern": [
+    {
+      "es": "Mañana te llamaré.",
+      "ru": "Завтра я тебе позвоню."
+    },
+    {
+      "es": "El paquete llegará el lunes.",
+      "ru": "Посылка придёт в понедельник."
+    },
+    {
+      "es": "¿Vendrás a la fiesta?",
+      "ru": "Ты придёшь на вечеринку?"
+    },
+    {
+      "es": "Tendremos tiempo después.",
+      "ru": "У нас будет время потом."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Окончания добавляются к целому инфинитиву, одинаковые для -ar, -er, -ir: hablaré, comerás, vivirá. Неправильные основы: tendr- (tener), vendr- (venir), saldr-, podr-, har- (hacer), dir- (decir), querr-, sabr-. Обещания, прогнозы, далёкие планы; в разговоре чаще ir a.",
+      "en": "Endings go on the whole infinitive and are the same for -ar, -er, -ir: hablaré, comerás, vivirá. Irregular stems: tendr-, vendr-, saldr-, podr-, har-, dir-, querr-, sabr-. Promises, predictions; in speech ir a is more common.",
+      "es": "Infinitivo + -é, -ás, -á, -emos, -éis, -án. Raíces irregulares: tendr-, vendr-, har-, dir-, podr-, saldr-."
+    },
+    "formula": "инфинитив + -é, -ás, -á, -emos, -éis, -án",
+    "table": {
+      "head": [
+        "",
+        "hablar",
+        "tener (tendr-)",
+        "hacer (har-)"
+      ],
+      "rows": [
+        [
+          "yo",
+          "hablaré",
+          "tendré",
+          "haré"
+        ],
+        [
+          "tú",
+          "hablarás",
+          "tendrás",
+          "harás"
+        ],
+        [
+          "él, ella, usted",
+          "hablará",
+          "tendrá",
+          "hará"
+        ],
+        [
+          "nosotros",
+          "hablaremos",
+          "tendremos",
+          "haremos"
+        ],
+        [
+          "vosotros",
+          "hablaréis",
+          "tendréis",
+          "haréis"
+        ],
+        [
+          "ellos, ustedes",
+          "hablarán",
+          "tendrán",
+          "harán"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "future",
+        "label": {
+          "ru": "впереди, обещание или прогноз",
+          "en": "ahead: a promise or prediction",
+          "es": "en el futuro: promesa o predicción"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-21",
+      "formula": "will + V",
+      "examples": [
+        {
+          "en": "I'll call you tomorrow.",
+          "ru": "Завтра я тебе позвоню."
+        }
+      ],
+      "note": {
+        "ru": "will ≈ futuro simple; going to ≈ ir a"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Llamo al médico.",
+      "into": [
+        {
+          "form": "future",
+          "answer": "Llamaré al médico."
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "es": "Vendrás a la fiesta.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": "No vendrás a la fiesta."
+        },
+        {
+          "form": "question",
+          "answer": "¿Vendrás a la fiesta?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "Mañana ___ sol.",
+      "options": [
+        "hará",
+        "hacerá"
+      ],
+      "answer": "hará",
+      "ru": "Завтра будет солнечно."
+    },
+    {
+      "type": "choose",
+      "es": "¿___ tiempo para la reunión?",
+      "options": [
+        "Tendrás",
+        "Tenerás"
+      ],
+      "answer": "Tendrás",
+      "ru": "У тебя будет время для совещания?"
+    },
+    {
+      "type": "fill",
+      "es": "El año que viene ___ a Japón. (viajar, nosotros)",
+      "answer": "viajaremos",
+      "ru": "В следующем году мы поедем в Японию."
+    },
+    {
+      "type": "build",
+      "es": "Te enviaré el informe esta tarde.",
+      "ru": "Я пришлю тебе отчёт сегодня днём.",
+      "extra": [
+        "envío"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите два обещания на следующую неделю.",
+        "en": "Write two promises for next week.",
+        "es": "Escribe dos promesas para la semana que viene."
+      },
+      "template": "La semana que viene …",
+      "sample": "La semana que viene haré deporte. Llamaré a mis padres."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

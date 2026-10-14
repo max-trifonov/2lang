@@ -1,0 +1,161 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-28",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "verbs",
+  "code": "ES-28",
+  "order": 28,
+  "level": "A2",
+  "title": {
+    "ru": "Повелительное: просьбы и инструкции",
+    "en": "Imperative: requests and instructions",
+    "es": "Imperativo: peticiones e instrucciones"
+  },
+  "see": [
+    "es-grammar-19",
+    "es-grammar-34"
+  ],
+  "pattern": [
+    {
+      "es": "Abre la ventana, por favor.",
+      "ru": "Открой окно, пожалуйста."
+    },
+    {
+      "es": "Pulse el botón verde.",
+      "ru": "Нажмите зелёную кнопку."
+    },
+    {
+      "es": "Gira a la derecha.",
+      "ru": "Поверни направо."
+    },
+    {
+      "es": "No cierres el archivo.",
+      "ru": "Не закрывай файл."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Для «ты» — форма как у él в настоящем: habla, come, escribe. Неправильные: ven, di, haz, pon, sal, ten, ve (ir). Для вежливого usted — гласная меняется: hablar → hable, comer → coma, tener → tenga. Отрицание строится по-другому: no hables, no comas. Местоимения прикрепляются к утвердительной форме: dímelo, siéntese.",
+      "en": "For tú use the él present form: habla, come. Irregular: ven, di, haz, pon, sal, ten, ve. For usted the vowel switches: hable, coma, tenga. Negative changes form: no hables, no comas. Pronouns attach to the affirmative: dímelo.",
+      "es": "Tú = 3.ª persona del presente; usted: -ar → -e, -er/-ir → -a. Negativo: no hables. Pronombres enclíticos en afirmativo."
+    },
+    "formula": "tú: как «он» в presente (habla) · usted: -ar → -e, -er/-ir → -a (hable, coma)",
+    "table": {
+      "head": [
+        "",
+        "tú",
+        "usted",
+        "нельзя (tú)"
+      ],
+      "rows": [
+        [
+          "hablar",
+          "habla",
+          "hable",
+          "no hables"
+        ],
+        [
+          "comer",
+          "come",
+          "coma",
+          "no comas"
+        ],
+        [
+          "abrir",
+          "abre",
+          "abra",
+          "no abras"
+        ],
+        [
+          "venir",
+          "ven",
+          "venga",
+          "no vengas"
+        ],
+        [
+          "hacer",
+          "haz",
+          "haga",
+          "no hagas"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-26",
+      "formula": "V / Don't + V / Let's",
+      "examples": [
+        {
+          "en": "Open the window, please.",
+          "ru": "Открой окно, пожалуйста."
+        }
+      ],
+      "note": {
+        "ru": "в английском одна форма для всех: open, don't open"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "___ aquí, por favor. (usted)",
+      "options": [
+        "Firme",
+        "Firma"
+      ],
+      "answer": "Firme",
+      "ru": "Распишитесь здесь, пожалуйста."
+    },
+    {
+      "type": "choose",
+      "es": "No ___ la puerta. (tú)",
+      "options": [
+        "cierra",
+        "cierres"
+      ],
+      "answer": "cierres",
+      "ru": "Не закрывай дверь."
+    },
+    {
+      "type": "choose",
+      "es": "___ conmigo, Ana.",
+      "options": [
+        "Ven",
+        "Viene"
+      ],
+      "answer": "Ven",
+      "ru": "Пойдём со мной, Ана."
+    },
+    {
+      "type": "fill",
+      "es": "___ el archivo y guárdalo. (abrir, tú)",
+      "answer": "Abre",
+      "ru": "Открой файл и сохрани его."
+    },
+    {
+      "type": "build",
+      "es": "Gire a la izquierda en la plaza.",
+      "ru": "Поверните налево на площади.",
+      "extra": [
+        "gira"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Объясните коллеге, как открыть отчёт: 2–3 шага.",
+        "en": "Explain to a colleague how to open the report: 2–3 steps.",
+        "es": "Explica a un compañero cómo abrir el informe: 2–3 pasos."
+      },
+      "template": "Abre … Pulsa …",
+      "sample": "Abre la aplicación. Pulsa «Informes». Elige el mes."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

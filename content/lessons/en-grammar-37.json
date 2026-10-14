@@ -1,0 +1,157 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-37",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "EN-37",
+  "order": 37,
+  "level": "B1",
+  "title": {
+    "ru": "Условные 2: If I had…, I would…",
+    "en": "Second conditional: If I had…, I would…",
+    "es": "Condicional 2: If I had…, I would…"
+  },
+  "see": [
+    "en-grammar-33",
+    "en-grammar-25"
+  ],
+  "pattern": [
+    {
+      "en": "If I had more time, I would learn Japanese.",
+      "ru": "Если бы у меня было больше времени, я бы выучил японский."
+    },
+    {
+      "en": "If I were you, I would take the job.",
+      "ru": "На твоём месте я бы согласился на эту работу."
+    },
+    {
+      "en": "What would you do if you won the lottery?",
+      "ru": "Что бы ты сделал, если бы выиграл в лотерею?"
+    },
+    {
+      "en": "I wouldn't do that if I were you.",
+      "ru": "На твоём месте я бы этого не делал."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Нереальное или маловероятное условие сейчас и в будущем — русское «если бы…, то бы…». После if — прошедшее время (форма, а не смысл!): If I had…, в главной части — would + V. If I were you — «на твоём месте» (were для всех лиц). could = would be able to: If I had a car, I could drive you.",
+      "en": "An unreal or unlikely condition now or in the future. After if use the past form: If I had…; main clause: would + V. If I were you = advice. could = would be able to.",
+      "es": "si + imperfecto de subjuntivo, condicional: If I had…, I would…"
+    },
+    "formula": "If + Past Simple, would + V",
+    "table": {
+      "head": [
+        "",
+        "if-часть",
+        "главная часть"
+      ],
+      "rows": [
+        [
+          "нереально",
+          "If I had a car,",
+          "I would drive."
+        ],
+        [
+          "совет",
+          "If I were you,",
+          "I'd call her."
+        ],
+        [
+          "возможность",
+          "If we had time,",
+          "we could stay."
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "now",
+        "until": "future",
+        "label": {
+          "ru": "нереально сейчас или маловероятно потом",
+          "en": "unreal now or unlikely later",
+          "es": "irreal ahora o improbable"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-34",
+      "formula": "si + imperfecto de subjuntivo, condicional",
+      "examples": [
+        {
+          "es": "Si tuviera más tiempo, aprendería japonés.",
+          "ru": "Если бы у меня было больше времени, я бы выучил японский."
+        }
+      ],
+      "note": {
+        "ru": "структура та же, но в испанском особая форма tuviera (subjuntivo)"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "If I ___ rich, I would travel the world.",
+      "options": [
+        "am",
+        "were",
+        "will be"
+      ],
+      "answer": "were",
+      "ru": "Если бы я был богат, я бы путешествовал по миру."
+    },
+    {
+      "type": "choose",
+      "en": "If she knew the answer, she ___ tell us.",
+      "options": [
+        "will",
+        "would"
+      ],
+      "answer": "would",
+      "ru": "Если бы она знала ответ, она бы нам сказала."
+    },
+    {
+      "type": "choose",
+      "en": "If I were you, I ___ that.",
+      "options": [
+        "won't do",
+        "wouldn't do"
+      ],
+      "answer": "wouldn't do",
+      "ru": "На твоём месте я бы этого не делал."
+    },
+    {
+      "type": "fill",
+      "en": "If we ___ a garden, we would grow tomatoes. (have)",
+      "answer": "had",
+      "ru": "Если бы у нас был сад, мы бы выращивали помидоры."
+    },
+    {
+      "type": "build",
+      "en": "What would you do if you lost your job?",
+      "ru": "Что бы ты сделал, если бы потерял работу?",
+      "extra": [
+        "will"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что бы вы сделали, если бы у вас был свободный месяц.",
+        "en": "Write what you would do if you had a free month.",
+        "es": "Escribe qué harías si tuvieras un mes libre."
+      },
+      "template": "If I had a free month, I would …",
+      "sample": "If I had a free month, I would travel to Spain and learn to surf."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

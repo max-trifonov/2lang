@@ -1,0 +1,862 @@
+# Грамматика EN, база A1 → B1 (LNG-S1-033, D-38): систематизация с нуля. Программа — .flow/curriculum.md. Формат — шапка gen.py.
+
+=== 1 A1 sentence
+title: Порядок слов: кто → действие → что → где → когда | Word order: who → action → what → where → when | Orden de palabras en inglés
+see: 2 8 9
+p: I check the code every morning. | Я проверяю код каждое утро.
+p: We meet our friends at the café on Fridays. | По пятницам мы встречаемся с друзьями в кафе.
+p: It is cold today. | Сегодня холодно.
+p: There is a problem with the server. | С сервером проблема.
+formula: подлежащее + глагол + дополнение + место + время
+rule: Порядок в английском жёсткий: подлежащее → глагол → дополнение → где → когда. По порядку понятно, кто кого: Ana calls Tom ≠ Tom calls Ana. Подлежащее обязательно, даже если его нет в русском: It is cold («холодно»), It's late, There is… Время можно вынести в начало: On Fridays we meet… | English word order is fixed: subject → verb → object → place → time. Order shows who does what: Ana calls Tom ≠ Tom calls Ana. A subject is always required: It is cold, It's late, There is… Time can also go first. | Orden fijo: sujeto → verbo → objeto → lugar → tiempo. El sujeto es obligatorio: It is cold.
+table: кто | действие | что | где | когда
+row: I | check | the code | at work | every morning
+row: We | meet | our friends | at the café | on Fridays
+row: It | is | cold | here | today
+bridge: 1 | (yo) trabajo — подлежащее можно опустить | Trabajo en Madrid. | Я работаю в Мадриде. | в испанском лицо видно по окончанию, в английском — только по подлежащему
+choose: ___ is raining. | It, —, There | It | Идёт дождь.
+choose: My brother ___ in London. | works, work in | works | Мой брат работает в Лондоне.
+build: We have a meeting at the office tomorrow. | Завтра у нас совещание в офисе. | tomorrow's
+build: I drink coffee in the kitchen every morning. | Каждое утро я пью кофе на кухне. | drinking
+compose: Напишите, что вы обычно делаете утром: кто — что — где — когда. | Write what you usually do in the morning: who — what — where — when. | Escribe qué haces por la mañana: quién — qué — dónde — cuándo. || I … || I drink coffee in the kitchen at seven.
+
+=== 2 A1 verbs
+title: to be: am, is, are | to be: am, is, are | to be: am, is, are
+see: 1 9 18
+p: I'm a developer. | Я разработчик.
+p: The hotel is near the beach. | Отель рядом с пляжем.
+p: Are you tired? — No, I'm not. | Ты устал? — Нет.
+p: We aren't at home. | Нас нет дома.
+formula: I am · he / she / it is · we / you / they are
+rule: В русском «быть» в настоящем опускается («я разработчик»), в английском be обязателен: I am a developer. Отрицание — not после be: I'm not, she isn't. Вопрос — be выходит вперёд: Is she at work? Краткий ответ: Yes, she is. / No, she isn't. Сокращения в речи: I'm, you're, it's. | Russian drops “to be” in the present, English never does: I am a developer. Negative: be + not (isn't, aren't). Question: be goes first: Is she at work? Short answers: Yes, she is. Contractions: I'm, you're, it's. | be es obligatorio. Negación: be + not. Pregunta: be delante del sujeto.
+table: | + | − | ?
+row: I | I'm | I'm not | Am I…?
+row: he, she, it | he's | he isn't | Is he…?
+row: we, you, they | we're | we aren't | Are we…?
+bridge: 4 | ser / estar | Soy desarrollador. El hotel está cerca de la playa. | Я разработчик. Отель рядом с пляжем. | одно be по-испански — два глагола: ser (кто, какой) и estar (где, как сейчас)
+tf: She is at work. || negative = She isn't at work. / She is not at work. / She's not at work. || question = Is she at work?
+tf: They are ready. || negative = They aren't ready. / They are not ready. / They're not ready. || question = Are they ready?
+choose: My parents ___ from Moscow. | is, are, am | are | Мои родители из Москвы.
+choose: ___ the museum open today? | Is, Are, Does | Is | Музей сегодня открыт?
+fill: I ___ not hungry, thanks. | am | Я не голоден, спасибо.
+build: Is the station far from here? | Вокзал далеко отсюда? | Does
+compose: Представьтесь: кто вы, откуда и где вы сейчас. | Introduce yourself: who you are, where you're from, where you are now. | Preséntate: quién eres, de dónde eres y dónde estás. || I'm … I'm from … I'm in … || I'm Anna. I'm from Kazan. I'm at home now.
+
+=== 3 A1 nouns
+title: Артикли: a / an, the или ничего | Articles: a / an, the or nothing | Artículos: a / an, the o nada
+see: 4 28
+p: I have a reservation. | У меня бронь.
+p: The reservation is for two nights. | Бронь на две ночи.
+p: She is an engineer. | Она инженер.
+p: I like coffee. | Я люблю кофе.
+formula: a / an — один из многих, впервые · the — тот самый, понятно какой · — общее
+rule: a (an перед гласным звуком: an hour, an email) — «один, какой-то», впервые, и с профессией: She is an engineer. the — «тот самый»: уже упоминали, единственный, понятно из ситуации (the station, the sun). Без артикля — вообще, во множественном и с неисчисляемыми: I like coffee, Dogs are friendly. Имена, города, страны — без артикля: in London. | a (an before a vowel sound: an hour) = one, some, mentioned first, also with jobs. the = the specific one: mentioned before, unique, clear from context. No article for things in general, plurals and uncountables: I like coffee. Names, cities, most countries — no article. | a / an: uno cualquiera, primera mención, profesiones. the: el conocido. Sin artículo: en general.
+table: | когда | пример
+row: a / an | один из многих, впервые, профессия | a hotel, an email, an engineer
+row: the | понятно какой, единственный | the hotel, the sun
+row: — | вообще, мн. ч., неисчисляемые | Coffee is good. Hotels are expensive.
+bridge: 2 | un / una, el / la | Tengo una reserva. La reserva es para dos noches. | У меня бронь. Бронь на две ночи. | испанцы ставят артикль и при общем значении: Me gusta el café = I like coffee
+choose: I need ___ umbrella. | a, an, the | an | Мне нужен зонт.
+choose: Can you open ___ window, please? | a, the | the | Можешь открыть окно?
+choose: My sister is ___ doctor. | a, the, — | a | Моя сестра — врач.
+choose: I don't drink ___ milk. | the, a, — | — | Я не пью молоко.
+fill: I have ___ idea! | an | У меня есть идея!
+build: The bus stop is near the hotel. | Остановка рядом с отелем. | a
+compose: Опишите, что у вас на столе (a / an), и уточните одну вещь (the). | Describe what is on your desk (a / an), then say something about one item (the). | Describe tu mesa (a / an) y precisa algo (the). || There is a … The … || There is a laptop and a cup. The cup is blue.
+
+=== 4 A1 nouns
+title: Множественное число существительных | Plural nouns | El plural de los sustantivos
+see: 3 5 28
+p: I have two suitcases. | У меня два чемодана.
+p: The children are at school. | Дети в школе.
+p: How many people are there? | Сколько там людей?
+p: These boxes are heavy. | Эти коробки тяжёлые.
+formula: + s · s, x, ch, sh + es · согласная + y → ies · особые: people, children, men
+rule: Обычно +s: tickets. После s, x, ch, sh — +es: boxes, matches. Согласная + y → ies: city → cities (но day → days). Особые формы надо выучить: person → people, child → children, man → men, woman → women, foot → feet. Прилагательные и артикль the не меняются: the new tickets. | Usually +s; after s, x, ch, sh +es; consonant + y → ies (but days). Learn irregulars: people, children, men, women, feet. Adjectives and the do not change. | +s / +es / y → ies. Irregulares: people, children, men, women.
+table: ед. ч. | мн. ч.
+row: ticket | tickets
+row: box, bus | boxes, buses
+row: city | cities
+row: person, child | people, children
+row: man, woman | men, women
+bridge: 3 | -s / -es + los / las | dos maletas, los niños | два чемодана, дети | в испанском артикль и прилагательное тоже во множественном
+choose: We have three ___. | child, children, childs | children | У нас трое детей.
+choose: There are many ___ in this street. | shops, shop, shopes | shops | На этой улице много магазинов.
+choose: How many ___ live in your city? | person, people | people | Сколько людей живёт в вашем городе?
+fill: I visited two ___ in Spain. (city) | cities | Я посетил два города в Испании.
+build: The new buses are very comfortable. | Новые автобусы очень удобные. | news
+compose: Напишите, что у вас есть: несколько предметов во множественном числе. | Write what you have: a few things in the plural. | Escribe qué tienes: varias cosas en plural. || I have … || I have two phones and three bags.
+
+=== 5 A1 verbs
+title: there is / there are — «есть, имеется» | there is / there are | there is / there are: hay
+see: 2 4 28
+p: There is a café near the hotel. | Рядом с отелем есть кафе.
+p: There are two bugs in the code. | В коде две ошибки.
+p: Is there Wi-Fi in the room? | В номере есть вай-фай?
+p: There aren't any tickets for today. | На сегодня билетов нет.
+formula: there is + ед. ч. · there are + мн. ч. (+ место)
+rule: Когда сообщаем, что что-то где-то есть: there is / there are + что + где. Русский порядок обратный: «В номере есть вай-фай» = There is Wi-Fi in the room. Вопрос — Is there…? / Are there…?, отрицание — There isn't a… / There aren't any… | To say that something exists somewhere: there is / there are + what + where. Questions: Is there…? Are there…? Negative: There isn't a… / There aren't any… | there is (singular) / there are (plural) = hay.
+table: | ед. ч. | мн. ч.
+row: + | There is a bank. | There are two banks.
+row: − | There isn't a bank. | There aren't any banks.
+row: ? | Is there a bank? | Are there any banks?
+bridge: 6 | hay | Hay un café cerca del hotel. | Рядом с отелем есть кафе. | hay — одна форма для ед. и мн. числа
+tf: There is a pharmacy near here. || negative = There isn't a pharmacy near here. / There is no pharmacy near here. || question = Is there a pharmacy near here?
+choose: ___ many tourists in summer. | There is, There are, It is | There are | Летом много туристов.
+choose: ___ a parking lot near the office? | Is there, Are there, There is | Is there | Рядом с офисом есть парковка?
+fill: There ___ a problem with my card. | is | С моей картой проблема.
+build: There are three meetings in my calendar today. | Сегодня в моём календаре три совещания. | is
+compose: Опишите, что есть рядом с вашим домом. | Describe what there is near your home. | Describe qué hay cerca de tu casa. || There is … There are … || There is a park near my house. There are two supermarkets.
+
+=== 6 A1 sentence
+title: Предлоги места и времени: in, on, at | Prepositions of place and time: in, on, at | Preposiciones in, on, at
+see: 5 1
+p: The meeting is at ten on Monday. | Совещание в понедельник в десять.
+p: I live in London. | Я живу в Лондоне.
+p: The keys are on the table. | Ключи на столе.
+p: See you at the station. | Встретимся на вокзале.
+formula: время: at 5, on Monday, in May · место: in (внутри), on (на поверхности), at (в точке)
+rule: Время: at — точное время и моменты (at 6, at night), on — дни и даты (on Friday, on 5 May), in — месяцы, годы, части дня (in June, in 2025, in the morning). Место: in — внутри (in the room, in Spain), on — на поверхности (on the wall, on the second floor), at — точка, место события (at the station, at work, at home). Куда — to: go to work (но go home). | Time: at for clock times (at 6), on for days and dates, in for months, years, parts of the day. Place: in = inside, on = on a surface, at = a point or venue (at work, at home). Direction: to (go to work, but go home). | Tiempo: at (hora), on (día), in (mes, año). Lugar: in (dentro), on (superficie), at (punto).
+table: | время | место
+row: at | at 6, at night | at the station, at work
+row: on | on Monday, on 5 May | on the table, on the 2nd floor
+row: in | in June, in 2025, in the morning | in the room, in Spain
+bridge: 7 | en, a, de | La reunión es a las diez. Vivo en Londres. | Совещание в десять. Я живу в Лондоне. | испанское en покрывает in, on, at места
+choose: The concert starts ___ 8 pm. | at, on, in | at | Концерт начинается в 8 вечера.
+choose: I was born ___ 1990. | at, on, in | in | Я родился в 1990 году.
+choose: Let's meet ___ Saturday. | at, on, in | on | Давай встретимся в субботу.
+choose: She is ___ work now. | in, on, at | at | Она сейчас на работе.
+fill: Your passport is ___ the bag. | in | Твой паспорт в сумке.
+build: We have dinner at home on Sundays. | По воскресеньям мы ужинаем дома. | in
+compose: Напишите, где и когда у вас следующая встреча. | Write where and when your next meeting is. | Escribe dónde y cuándo es tu próxima reunión. || My next meeting is on … at … in … || My next meeting is on Tuesday at 11 in the office.
+
+=== 7 A1 tenses
+title: Present Simple: регулярно и всегда | Present Simple: habits and facts | Present Simple: hábitos y hechos
+see: 8 9 17
+words: usually
+p: I work from home. | Я работаю из дома.
+p: She checks her email every morning. | Она проверяет почту каждое утро.
+p: The shop opens at nine. | Магазин открывается в девять.
+p: We usually take the bus. | Мы обычно ездим на автобусе.
+formula: I / you / we / they + V · he / she / it + V-s
+rule: Привычки, расписания, факты: «обычно, всегда, каждый день». Глагол не меняется, кроме he / she / it: +s (works), после s, sh, ch, x, o — +es (watches, goes), согласная + y → ies (studies). have → has. Слова-подсказки: always, usually, often, every day, on Mondays. | Habits, schedules, facts. The verb only changes for he / she / it: +s (works), +es after s, sh, ch, x, o (watches, goes), consonant + y → ies (studies). have → has. Signals: always, usually, every day. | Hábitos y hechos. 3.ª persona: -s / -es / -ies. have → has.
+table: | work | go | have
+row: I, you, we, they | work | go | have
+row: he, she, it | works | goes | has
+time: past-future | всегда, регулярно | always, regularly | siempre, habitualmente
+bridge: 8 | presente: trabajo, trabaja | Trabajo desde casa. | Я работаю из дома. | в испанском окончание у каждого лица, в английском — только -s у he / she / it
+tf: I work in an office. || negative = I don't work in an office. / I do not work in an office. || question = Do you work in an office?
+choose: My brother ___ in a bank. | work, works, working | works | Мой брат работает в банке.
+choose: The train ___ at 7:15. | leave, leaves | leaves | Поезд отправляется в 7:15.
+fill: She ___ English at university. (study) | studies | Она изучает английский в университете.
+fill: He ___ two kids. (have) | has | У него двое детей.
+build: Our team has a meeting every Monday. | У нашей команды совещание каждый понедельник. | have
+compose: Напишите о рабочем дне знакомого (he / she). | Write about a friend's workday (he / she). | Escribe sobre el día de trabajo de un amigo (he / she). || He / She … || She works in a hospital. She starts at eight.
+
+=== 8 A1 sentence
+title: Отрицание: not, don't, doesn't | Negatives: not, don't, doesn't | La negación: not, don't, doesn't
+see: 7 9 20
+p: I don't eat meat. | Я не ем мясо.
+p: The app doesn't work. | Приложение не работает.
+p: She isn't at home. | Её нет дома.
+p: I can't find my keys. | Я не могу найти ключи.
+formula: be / can / have (done) + not · остальные: don't / doesn't + V
+rule: Главный принцип: not ставится после первого вспомогательного глагола. Если он есть (am, is, are, can, will, have в Perfect) — просто + not: isn't, can't, won't. Если его нет — добавляем do: don't (I, you, we, they) / doesn't (he, she, it), а основной глагол — без -s: She doesn't work. Двойного отрицания нет: I don't know anything (не nothing). | Main rule: not goes after the first auxiliary. If there is one (am, is, are, can, will, have) just add not: isn't, can't, won't. If not, add do: don't / doesn't, and the main verb loses -s: She doesn't work. No double negatives: I don't know anything. | not tras el auxiliar; si no hay, don't / doesn't + verbo base. Sin doble negación.
+table: утверждение | отрицание
+row: I am tired. | I'm not tired.
+row: She can swim. | She can't swim.
+row: I work. | I don't work.
+row: He works. | He doesn't work.
+row: I will go. | I won't go.
+bridge: 10 | no + verbo | No como carne. | Я не ем мясо. | в испанском двойное отрицание — норма: No sé nada = I don't know anything
+tf: He likes coffee. || negative = He doesn't like coffee. / He does not like coffee.
+tf: We have a car. || negative = We don't have a car. / We do not have a car.
+tf: The museum is open. || negative = The museum isn't open. / The museum is not open. / The museum's not open.
+choose: She ___ speak Spanish. | don't, doesn't, isn't | doesn't | Она не говорит по-испански.
+choose: I ___ understand anything. | don't, doesn't, not | don't | Я ничего не понимаю.
+choose: It ___ cold today. | doesn't, isn't | isn't | Сегодня не холодно.
+build: My phone doesn't work today. | Мой телефон сегодня не работает. | works
+compose: Напишите три вещи, которые вы не делаете (или не любите). | Write three things you don't do (or don't like). | Escribe tres cosas que no haces (o no te gustan). || I don't … || I don't drink coffee. I don't like long meetings. I can't sing.
+
+=== 9 A1 sentence
+title: Общие вопросы и краткие ответы | Yes / no questions and short answers | Preguntas de sí / no y respuestas cortas
+see: 8 10 34
+p: Do you speak Spanish? — Yes, I do. | Ты говоришь по-испански? — Да.
+p: Does the hotel have a pool? — No, it doesn't. | В отеле есть бассейн? — Нет.
+p: Are you ready? — Yes, I am. | Ты готов? — Да.
+p: Can I pay by card? — Of course you can. | Можно оплатить картой? — Конечно.
+formula: вспомогательный (Do / Does / Is / Can…) + подлежащее + глагол?
+rule: Вопрос — это перестановка: вспомогательный глагол выходит перед подлежащим. Есть be / can / will — они и выходят: Is it far? Can you help? Нет — ставим Do / Does, а глагол без -s: Does she work here? Краткий ответ повторяет вспомогательный: Yes, she does. / No, I can't. Просто «Yes» звучит резковато. | A question inverts: the auxiliary goes before the subject. With be / can / will they move: Is it far? Otherwise add Do / Does and use the base verb: Does she work here? Short answers repeat the auxiliary: Yes, she does. / No, I can't. | Auxiliar + sujeto + verbo. Sin auxiliar: Do / Does. Respuesta corta con el auxiliar.
+table: утверждение | вопрос | краткий ответ
+row: It is far. | Is it far? | Yes, it is. / No, it isn't.
+row: You can help. | Can you help? | Yes, I can. / No, I can't.
+row: You live here. | Do you live here? | Yes, I do. / No, I don't.
+row: She works here. | Does she work here? | Yes, she does. / No, she doesn't.
+bridge: 11 | ¿…? — только интонация | ¿Hablas español? — Sí. | Ты говоришь по-испански? — Да. | в испанском порядок слов не меняется
+tf: You have a reservation. || question = Do you have a reservation?
+tf: She lives near the office. || question = Does she live near the office?
+tf: The bus is late. || question = Is the bus late?
+choose: ___ your brother work in IT? — Yes, he does. | Do, Does, Is | Does | Твой брат работает в IT? — Да.
+choose: Are you tired? — No, I ___. | don't, am not, isn't | am not | Ты устал? — Нет.
+choose: Do they like the plan? — Yes, they ___. | like, do, are | do | Им нравится план? — Да.
+build: Does this train go to the airport? | Этот поезд идёт в аэропорт? | Do
+compose: Задайте три вопроса (да / нет) новому коллеге. | Ask a new colleague three yes / no questions. | Haz tres preguntas de sí / no a un compañero nuevo. || Do you …? Are you …? Can you …? || Do you live near here? Are you from London? Can you help me?
+
+=== 10 A1 sentence
+title: Специальные вопросы и вопрос к подлежащему | Wh-questions and subject questions | Preguntas con interrogativos
+see: 9 20
+p: Where do you live? | Где ты живёшь?
+p: What time does the meeting start? | Во сколько начинается совещание?
+p: How much is this? | Сколько это стоит?
+p: Who called you? | Кто тебе звонил?
+formula: Wh- + вспомогательный + подлежащее + глагол? · Who / What + глагол? (к подлежащему)
+rule: Вопросительное слово ставится в начало, дальше — как в общем вопросе: Where do you live? When is the flight? Если спрашиваем о самом подлежащем (кто? что?), do не нужен и порядок прямой: Who called? What happened? How much — неисчисляемое и цена, how many — количество штук. Предлог часто в конце: Who are you talking to? | The question word goes first, then the yes / no question order: Where do you live? When is the flight? When asking about the subject (who? what?), there is no do: Who called? What happened? how much for uncountables and prices, how many for countables. Prepositions often go last. | Interrogativo + auxiliar + sujeto + verbo. Preguntas de sujeto sin do: Who called?
+table: слово | значение | пример
+row: what / what time | что / во сколько | What time is it?
+row: where | где, куда | Where are you?
+row: when | когда | When does it start?
+row: why | почему | Why are you late?
+row: how / how much / how many | как / сколько | How many days?
+row: who / which | кто / который | Which one do you want?
+bridge: 12 | qué, dónde, cuándo, cómo, cuánto | ¿Dónde vives? | Где ты живёшь? | в испанском нет вспомогательного do: ¿Dónde vives?
+tf: She works in a bank. || wh-question = Where does she work?
+tf: The flight leaves at six. || wh-question = When does the flight leave? / What time does the flight leave?
+choose: ___ does the ticket cost? | How much, How many | How much | Сколько стоит билет?
+choose: Who ___ the report? | wrote, did write | wrote | Кто написал отчёт?
+choose: ___ are you late? — Because of the traffic. | Why, What, Where | Why | Почему ты опоздал? — Из-за пробок.
+fill: Where ___ you work? | do | Где ты работаешь?
+build: What time does the museum open? | Во сколько открывается музей? | do
+compose: Задайте три вопроса администратору отеля. | Ask the hotel receptionist three questions. | Haz tres preguntas al recepcionista del hotel. || Where …? What time …? How much …? || Where is the lift? What time is breakfast? How much is a taxi to the airport?
+
+=== 11 A1 adjectives
+title: Прилагательные: перед существительным и без изменений | Adjectives: before the noun, no endings | Adjetivos: delante del sustantivo, invariables
+see: 16 27
+p: It's a small hotel. | Это маленький отель.
+p: The rooms are clean and quiet. | Номера чистые и тихие.
+p: This task is too difficult. | Эта задача слишком трудная.
+p: Is the coffee hot enough? | Кофе достаточно горячий?
+formula: (a / the) + прилагательное + существительное · be + прилагательное
+rule: Прилагательное стоит перед существительным (a new phone) или после be (the phone is new) и никогда не меняется: new phones, a new car. very — «очень», too — «слишком» (плохо), enough — «достаточно» стоит ПОСЛЕ прилагательного: big enough. Несколько прилагательных: мнение → размер → возраст → цвет: a nice big old red car. | Adjectives come before the noun or after be and never change: new phones. very = очень, too = слишком, enough comes after the adjective: big enough. Order: opinion → size → age → colour. | Adjetivo delante del sustantivo, invariable. very, too, enough (después del adjetivo).
+table: | пример | смысл
+row: very | very expensive | очень дорого
+row: too | too expensive | слишком дорого (не подходит)
+row: enough | cheap enough | достаточно дёшево
+row: not … enough | not big enough | недостаточно большой
+bridge: 13 | sustantivo + adjetivo (concordado) | un hotel pequeño, habitaciones limpias | маленький отель, чистые номера | в испанском прилагательное обычно после существительного и согласуется
+choose: We stayed in a ___ hotel. | lovely, lovelys | lovely | Мы жили в прекрасном отеле.
+choose: The bag is ___ heavy. I can't carry it. | very, too | too | Сумка слишком тяжёлая, я не могу её нести.
+choose: Is the room ___ for four people? | enough big, big enough | big enough | Номер достаточно большой для четверых?
+build: She has a big black dog. | У неё большая чёрная собака. | blacks
+build: The new version is very fast. | Новая версия очень быстрая. | news
+compose: Опишите свою квартиру или город тремя прилагательными. | Describe your flat or city with three adjectives. | Describe tu piso o ciudad con tres adjetivos. || My … is … || My flat is small but bright and quiet.
+
+=== 12 A1 pronouns
+title: Местоимения: I / me / my / mine и 's | Pronouns: I / me / my / mine and 's | Pronombres: I / me / my / mine y 's
+see: 13 2
+p: She called me yesterday. | Она звонила мне вчера.
+p: This is my laptop. Where is yours? | Это мой ноутбук. Где твой?
+p: Is this Tom's bag? | Это сумка Тома?
+p: Give it to them. | Отдай это им.
+formula: I → me → my → mine · Tom's (принадлежность)
+rule: I, you, he… — подлежащее (кто?); me, him, her, us, them — дополнение после глагола и предлога (кого? кому?): She called me, with us. my, your, his… — перед существительным (my bag), mine, yours, his… — без существительного (It's mine). Принадлежность людям — 's: Tom's car, my parents' house. | I, he, she… = subject; me, him, her, us, them = object after verbs and prepositions. my, your, his… before a noun; mine, yours… alone. Possession for people: Tom's car, my parents' house. | Sujeto: I; objeto: me; posesivo: my; pronombre posesivo: mine. 's para personas.
+table: кто | кого / кому | чей + сущ. | чей (отдельно)
+row: I | me | my | mine
+row: you | you | your | yours
+row: he | him | his | his
+row: she | her | her | hers
+row: it | it | its | —
+row: we | us | our | ours
+row: they | them | their | theirs
+bridge: 14 | mi, tu, su, nuestro | Este es mi portátil. ¿Dónde está el tuyo? | Это мой ноутбук. Где твой? | в испанском su — и «его», и «её», и «их», и «ваш»
+choose: Can you help ___? | we, us, our | us | Можешь нам помочь?
+choose: Is this pen ___? | your, yours | yours | Это твоя ручка?
+choose: That's ___ car. | Anna, Anna's | Anna's | Это машина Анны.
+fill: My sister lives in Rome. I visit ___ every summer. | her | Моя сестра живёт в Риме. Я навещаю её каждое лето.
+build: Their office is next to ours. | Их офис рядом с нашим. | them
+compose: Расскажите о вещах в комнате: чьи они? | Talk about the things in your room: whose are they? | Habla de las cosas de tu habitación: ¿de quién son? || This is my … That is … 's … || This is my laptop. That is my wife's phone. The books are ours.
+
+=== 13 A1 pronouns
+title: this / that, these / those | this / that, these / those | this / that, these / those
+see: 12 4
+p: This coffee is great. | Этот кофе отличный.
+p: Who is that man? | Кто тот мужчина?
+p: These shoes are too small. | Эти туфли слишком маленькие.
+p: Those were good days. | Это были хорошие дни.
+formula: this / these — рядом · that / those — далеко
+rule: this (ед. ч.) / these (мн. ч.) — то, что рядом или сейчас; that / those — то, что далеко или в прошлом. Могут стоять без существительного: What's this? That's right! Представление по телефону: This is Anna. | this / these = near or now; that / those = far or past. They can stand alone: What's this? That's right! On the phone: This is Anna. | this / these: cerca; that / those: lejos. Pueden ir solos.
+table: | ед. ч. | мн. ч.
+row: рядом | this | these
+row: далеко | that | those
+bridge: 15 | este / ese / aquel | Este café es estupendo. | Этот кофе отличный. | в испанском три расстояния и род: este, esta, estos, estas
+choose: ___ apples are delicious. | This, These | These | Эти яблоки вкусные.
+choose: Look at ___ mountains over there! | these, those | those | Посмотри на те горы вон там!
+choose: Hello, ___ is Mark from IT. | this, that | this | Здравствуйте, это Марк из IT.
+fill: How much is ___ jacket here? | this | Сколько стоит эта куртка?
+build: Are those your keys on the table? | Это твои ключи на столе? | that
+compose: Вы в магазине: спросите цену двух вещей, рядом и подальше. | In a shop: ask the price of two things, near and further away. | En una tienda: pregunta el precio de dos cosas. || How much is …? || How much is this T-shirt? And how much are those shoes?
+
+=== 14 A1 verbs
+title: have / have got: «у меня есть» | have / have got | have / have got: tener
+see: 7 8 9
+p: I have two brothers. | У меня два брата.
+p: She has a meeting at three. | У неё совещание в три.
+p: Do you have a charger? | У тебя есть зарядка?
+p: I've got a headache. | У меня болит голова.
+formula: I have / she has · I've got / she's got (разговорное)
+rule: «У меня есть» = I have (he / she / it has). Вопросы и отрицания — через do: Do you have…? I don't have… В британской речи часто have got: I've got, Have you got…?, I haven't got. have также в устойчивых выражениях: have breakfast, have a shower, have a good time — там только do. | “I have” = I have (he has). Questions and negatives use do: Do you have…? British speech often uses have got: I've got, Have you got…? have also appears in fixed phrases: have breakfast, have a shower — always with do. | have / has = tener. Preguntas y negación con do. have got (británico).
+table: | have | have got
+row: + | I have, she has | I've got, she's got
+row: − | I don't have, she doesn't have | I haven't got, she hasn't got
+row: ? | Do you have…? Does she have…? | Have you got…? Has she got…?
+bridge: 16 | tener | Tengo dos hermanos. | У меня два брата. | tener — неправильный: tengo, tienes, tiene
+tf: She has a car. || negative = She doesn't have a car. / She hasn't got a car. || question = Does she have a car? / Has she got a car?
+choose: ___ you have any questions? | Do, Have, Are | Do | У вас есть вопросы?
+choose: My brother ___ two kids. | have, has | has | У моего брата двое детей.
+choose: We ___ got much time. | haven't, don't | haven't | У нас мало времени.
+fill: I usually ___ breakfast at eight. | have | Я обычно завтракаю в восемь.
+build: Do you have a pen I can use? | У тебя есть ручка, которой я могу воспользоваться? | Does
+compose: Напишите, что у вас есть и чего нет (три предложения). | Write what you have and don't have (three sentences). | Escribe qué tienes y qué no tienes (tres frases). || I have … I don't have … || I have a bike. I don't have a car. I've got two cats.
+
+=== 15 A1 modals
+title: can / could: умею, могу, можно | can / could: ability, possibility, permission | can / could: poder
+see: 9 24 25
+p: I can speak three languages. | Я говорю на трёх языках (умею).
+p: Can you help me? | Можешь мне помочь?
+p: You can't park here. | Здесь нельзя парковаться.
+p: I could swim when I was five. | Я умел плавать в пять лет.
+formula: can / can't + V (без to) · could — прошлое и вежливость
+rule: can — «умею, могу, можно»; одна форма для всех лиц, без -s и без to: She can drive. Отрицание — can't (cannot), вопрос — Can you…? could — «мог, умел» в прошлом и более вежливая просьба: Could you help me? О будущем умении — will be able to. | can = ability, possibility, permission; one form for all persons, no -s, no to: She can drive. Negative can't, question Can you…? could = past ability and a politer request. Future ability: will be able to. | can + verbo sin to. could: pasado y cortesía. will be able to: futuro.
+table: | + | − | ?
+row: настоящее | I can swim. | I can't swim. | Can you swim?
+row: прошлое | I could swim. | I couldn't swim. | Could you swim?
+row: будущее | I'll be able to swim. | I won't be able to swim. | Will you be able to swim?
+time: now | умение или возможность сейчас | ability or possibility now | capacidad o posibilidad ahora
+bridge: 19 | poder / saber + infinitivo | ¿Puedes ayudarme? | Можешь мне помочь? | «умею плавать» по-испански — sé nadar (saber)
+tf: She can drive. || negative = She can't drive. / She cannot drive. || question = Can she drive?
+tf: I can help you. || past = I could help you.
+choose: He ___ play the guitar. | can, cans, can to | can | Он умеет играть на гитаре.
+choose: ___ I use your phone? | Can, Do, Am | Can | Можно мне воспользоваться твоим телефоном?
+choose: Last year I ___ speak English. | can't, couldn't | couldn't | В прошлом году я не говорил по-английски.
+build: Can you send me the file? | Можешь прислать мне файл? | to
+compose: Напишите, что вы умеете и чего не умеете. | Write what you can and can't do. | Escribe qué sabes y qué no sabes hacer. || I can … but I can't … || I can cook, but I can't dance.
+
+=== 16 A1 adjectives
+title: Наречия: -ly и как часто (always, never) | Adverbs: -ly and frequency (always, never) | Adverbios: -ly y frecuencia
+see: 11 7
+p: She speaks slowly and clearly. | Она говорит медленно и чётко.
+p: I always drink coffee in the morning. | Я всегда пью кофе утром.
+p: He is never late. | Он никогда не опаздывает.
+p: The app works well. | Приложение хорошо работает.
+formula: прилагательное + -ly · always / usually / often / sometimes / never + глагол (но после be)
+rule: Как? — наречие: прилагательное + -ly: quick → quickly, easy → easily. Особые: good → well, fast → fast, hard → hard. Как часто? — always, usually, often, sometimes, rarely, never: перед основным глаголом (I always work), но после be (She is always late) и после вспомогательного (I have never been). | How? — adjective + -ly: quickly, easily. Special: good → well, fast → fast, hard → hard. How often? — always, usually, often, sometimes, never: before the main verb, after be and auxiliaries. | Adjetivo + -ly. good → well. Frecuencia: delante del verbo, detrás de be.
+table: прилагательное | наречие
+row: quick | quickly
+row: easy | easily
+row: good | well
+row: fast, hard | fast, hard
+bridge: 25 | -mente; siempre / nunca | Siempre bebo café por la mañana. | Я всегда пью кофе утром. | -ly ≈ -mente
+choose: She drives very ___. | careful, carefully | carefully | Она водит очень осторожно.
+choose: You speak English ___. | good, well | well | Ты хорошо говоришь по-английски.
+choose: He ___ late. | always is, is always | is always | Он всегда опаздывает.
+fill: I ___ eat meat. I'm vegetarian. (никогда) | never | Я никогда не ем мясо. Я вегетарианец.
+build: We usually have lunch at one. | Мы обычно обедаем в час. | usual
+compose: Напишите, что вы делаете всегда, иногда и никогда. | Write what you always, sometimes and never do. | Escribe qué haces siempre, a veces y nunca. || I always … I sometimes … I never … || I always walk to work. I sometimes cook. I never watch TV.
+
+=== 17 A1 tenses
+title: Present Continuous: происходит сейчас | Present Continuous: happening now | Present Continuous: ahora mismo
+see: 7 22
+p: I'm working right now. | Я сейчас работаю.
+p: What are you doing? | Что ты делаешь?
+p: It's raining. | Идёт дождь.
+p: She isn't listening. | Она не слушает.
+formula: am / is / are + V-ing
+rule: Действие идёт в момент речи или «в эти дни»: now, at the moment, today, this week. be + глагол с -ing: work → working, make → making (е отпадает), stop → stopping, lie → lying. Глаголы состояния (know, like, want, need, understand) в Continuous обычно не ставят: I know, а не I'm knowing. Сравните: I work from home (обычно) — I'm working from home (сейчас, на этой неделе). | An action in progress now or around now: now, at the moment, this week. be + -ing: working, making, stopping, lying. State verbs (know, like, want, need) are normally not used in the continuous. Compare: I work from home (usually) vs I'm working from home (now). | be + -ing: acción en curso. Verbos de estado (know, like, want) sin -ing.
+table: | + | − | ?
+row: I | I'm working | I'm not working | Am I working?
+row: he, she, it | she's working | she isn't working | Is she working?
+row: we, you, they | they're working | they aren't working | Are they working?
+time: now | прямо сейчас или в эти дни | right now or around now | ahora o estos días
+bridge: 24 | estar + gerundio | Estoy trabajando. | Я сейчас работаю. | близко; в испанском обычное presente встречается чаще
+tf: They are watching TV. || negative = They aren't watching TV. / They are not watching TV. / They're not watching TV. || question = Are they watching TV?
+choose: Look! It ___. | snows, is snowing | is snowing | Смотри! Идёт снег.
+choose: I ___ the answer. | know, am knowing | know | Я знаю ответ.
+choose: Shh! The baby ___. | sleeps, is sleeping | is sleeping | Тише! Малыш спит.
+fill: What ___ you doing now? | are | Что ты сейчас делаешь?
+build: We are waiting for a taxi. | Мы ждём такси. | wait
+compose: Напишите, что вы и ваши близкие делают прямо сейчас. | Write what you and your family are doing right now. | Escribe qué estáis haciendo ahora tú y tu familia. || I'm … My … is … || I'm studying English. My husband is cooking dinner.
+
+=== 18 A1 tenses
+title: was / were: «был» | was / were: past of be | was / were: el pasado de be
+see: 2 19
+p: I was at home yesterday. | Вчера я был дома.
+p: The meeting was very long. | Совещание было очень длинным.
+p: Were you tired? — Yes, I was. | Ты устал? — Да.
+p: We weren't in London last week. | На прошлой неделе нас не было в Лондоне.
+formula: I / he / she / it was · we / you / they were
+rule: Прошедшее от be: was (I, he, she, it) и were (we, you, they). Отрицание — wasn't / weren't, вопрос — Was it…? Were you…? Краткий ответ — Yes, I was. «Там было» — there was / there were. | Past of be: was (I, he, she, it), were (we, you, they). Negative: wasn't / weren't; question: Was it…? Were you…? “There was / there were”. | was / were. Negación: wasn't / weren't. there was / there were.
+table: | + | − | ?
+row: I, he, she, it | was | wasn't | Was it…?
+row: we, you, they | were | weren't | Were you…?
+time: past | в прошлом | in the past | en el pasado
+bridge: 31 | fue, estuvo, era | Ayer estuve en casa. | Вчера я был дома. | в испанском «был» — это fue / estuvo / era в зависимости от смысла
+tf: The hotel was expensive. || negative = The hotel wasn't expensive. / The hotel was not expensive. || question = Was the hotel expensive?
+choose: Where ___ you last night? | was, were | were | Где ты был вчера вечером?
+choose: There ___ a lot of people at the party. | was, were | were | На вечеринке было много людей.
+fill: It ___ very cold yesterday. | was | Вчера было очень холодно.
+build: Were your parents at home on Sunday? | Твои родители были дома в воскресенье? | Was
+compose: Напишите, где вы были вчера и каким был день. | Write where you were yesterday and what the day was like. | Escribe dónde estuviste ayer y cómo fue el día. || Yesterday I was … It was … || Yesterday I was at the office. It was a busy day.
+
+=== 19 A2 tenses
+title: Past Simple: worked, went | Past Simple: worked, went | Past Simple: worked, went
+see: 18 20 30
+p: I fixed the bug yesterday. | Я исправил ошибку вчера.
+p: We went to Spain last summer. | Прошлым летом мы ездили в Испанию.
+p: She called me two hours ago. | Она позвонила мне два часа назад.
+p: They had a great time. | Они отлично провели время.
+formula: V-ed (правильные) · 2-я форма (неправильные): go → went
+rule: Законченное действие в прошлом с понятным моментом: yesterday, last week, two days ago, in 2020. Правильные глаголы: +ed (worked, stopped, studied), одна форма для всех лиц. Неправильные учат: go → went, have → had, do → did, see → saw, make → made, get → got, buy → bought. | A finished action at a known past time: yesterday, last week, two days ago. Regular verbs: +ed, one form for all persons. Irregulars must be learned: went, had, did, saw, made, got, bought. | Acción terminada en el pasado. Regulares -ed; irregulares: went, had, did, saw.
+table: инфинитив | Past Simple
+row: work, stop, study | worked, stopped, studied
+row: go, have, do | went, had, did
+row: see, make, get | saw, made, got
+row: buy, take, come | bought, took, came
+time: past | закончилось в прошлом, момент известен | finished at a known past time | terminó en un momento pasado conocido
+bridge: 30 | indefinido: trabajé, fui | Ayer arreglé el error. | Я исправил ошибку вчера. | Past Simple ≈ indefinido
+tf: I visit my parents. || past = I visited my parents.
+tf: We go to the cinema. || past = We went to the cinema.
+choose: Yesterday I ___ a new phone. | buy, bought, buyed | bought | Вчера я купил новый телефон.
+choose: She ___ the report last night. | finish, finished | finished | Она закончила отчёт вчера вечером.
+fill: They ___ to London two years ago. (move) | moved | Они переехали в Лондон два года назад.
+fill: I ___ a strange dream last night. (have) | had | Мне вчера приснился странный сон.
+build: We took a taxi to the airport. | Мы взяли такси до аэропорта. | take
+compose: Напишите, что вы делали в прошлые выходные. | Write what you did last weekend. | Escribe qué hiciste el fin de semana pasado. || Last weekend I … || Last weekend I visited my friends and we cooked dinner.
+
+=== 20 A2 sentence
+title: Past Simple: didn't и Did…? | Past Simple: didn't and Did…? | Past Simple: didn't y Did…?
+see: 19 8 9
+p: I didn't see the message. | Я не видел сообщение.
+p: Did you enjoy the trip? — Yes, I did. | Тебе понравилась поездка? — Да.
+p: Where did you go? | Куда ты ходил?
+p: She didn't come to the meeting. | Она не пришла на совещание.
+formula: didn't + V · Did + подлежащее + V? · Wh- + did + подлежащее + V?
+rule: В отрицании и вопросе прошедшее «забирает» did, а глагол возвращается в начальную форму: I went → I didn't go (не didn't went), Did you go? Это общий принцип do / does / did. Исключение — be и модальные: I wasn't, Could you…? | In negatives and questions did carries the past and the verb returns to the base form: I didn't go (not didn't went), Did you go? Except be and modals: I wasn't, Could you…? | did + verbo base en negación y pregunta (no didn't went).
+table: | утверждение | отрицание | вопрос
+row: правильный | I worked. | I didn't work. | Did you work?
+row: неправильный | She went. | She didn't go. | Did she go?
+row: специальный | — | — | Where did she go?
+time: past | закончилось в прошлом | finished in the past | terminó en el pasado
+bridge: 30 | no + indefinido, ¿…? | No vi el mensaje. ¿Te gustó el viaje? | Я не видел сообщение. Тебе понравилась поездка? | в испанском отрицание и вопрос без вспомогательного глагола
+tf: He fixed the bug. || negative = He didn't fix the bug. / He did not fix the bug. || question = Did he fix the bug?
+tf: They bought tickets. || negative = They didn't buy tickets. / They did not buy tickets. || question = Did they buy tickets?
+tf: You went to Madrid. || wh-question = Where did you go?
+choose: I didn't ___ your email. | get, got | get | Я не получил твоё письмо.
+choose: ___ you sleep well? | Did, Do you, Were | Did | Ты хорошо спал?
+choose: What time ___ the party start? | did, was, started | did | Во сколько началась вечеринка?
+build: Why didn't you call me yesterday? | Почему ты не позвонил мне вчера? | called
+compose: Спросите друга о его отпуске: три вопроса в прошедшем. | Ask a friend about their holiday: three past questions. | Pregunta a un amigo por sus vacaciones: tres preguntas en pasado. || Where did you …? Did you …? || Where did you go? Did you like the hotel? What did you eat?
+
+=== 21 A2 tenses
+title: Будущее с will: решения, обещания, прогнозы | Future with will | El futuro con will
+see: 22 33
+p: I'll call you tomorrow. | Я позвоню тебе завтра.
+p: It will be hot next week. | На следующей неделе будет жарко.
+p: I'm tired. I think I'll go to bed. | Я устал. Пожалуй, пойду спать.
+p: Don't worry, it won't take long. | Не волнуйся, это не займёт много времени.
+formula: will ('ll) + V · won't + V · Will + подлежащее + V?
+rule: will — будущее «решил прямо сейчас», обещание, предложение помощи и прогноз-мнение (I think it will rain). Одна форма для всех лиц, без to: she will go. Отрицание — won't, вопрос — Will you…? Просьба: Will you help me? (Could you — вежливее.) | will = a decision made now, a promise, an offer, an opinion about the future. One form, no to. Negative won't, question Will you…? | will + verbo: decisión espontánea, promesa, predicción. won't.
+table: | + | − | ?
+row: все лица | I'll go | I won't go | Will you go?
+time: future | будущее: решение сейчас, обещание, прогноз | future: decision now, promise, prediction | futuro: decisión, promesa, predicción
+bridge: 33 | futuro simple: llamaré | Mañana te llamaré. | Завтра я тебе позвоню. | will ≈ futuro simple; в разговоре испанцы чаще используют ir a
+tf: I help you. || future = I'll help you. / I will help you.
+tf: She will come. || negative = She won't come. / She will not come. || question = Will she come?
+choose: It's cold. I ___ close the window. | 'll, am going, will to | 'll | Холодно. Я закрою окно.
+choose: I promise I ___ be late. | won't, don't, willn't | won't | Обещаю, я не опоздаю.
+fill: Do you think it ___ rain tomorrow? | will | Думаешь, завтра будет дождь?
+build: I think you will like this film. | Думаю, тебе понравится этот фильм. | likes
+compose: Напишите два обещания на следующую неделю. | Write two promises for next week. | Escribe dos promesas para la semana que viene. || Next week I'll … || Next week I'll go to the gym. I'll call my grandma.
+
+=== 22 A2 tenses
+title: going to и Present Continuous для планов | going to and Present Continuous for plans | going to y Present Continuous para planes
+see: 21 17
+p: I'm going to learn Spanish this year. | В этом году я собираюсь выучить испанский.
+p: We're meeting the client at three. | Мы встречаемся с клиентом в три.
+p: Look at the clouds — it's going to rain. | Посмотри на тучи — сейчас пойдёт дождь.
+p: What are you doing on Saturday? | Что ты делаешь в субботу?
+formula: be going to + V (намерение) · be + V-ing (договорённость)
+rule: be going to — план, решённый заранее, и прогноз по видимым признакам (it's going to rain). Present Continuous — договорённость с временем и местом: I'm meeting Tom at 5. will — решение в момент речи. Сравните: I'll call him (решил сейчас) — I'm going to call him (уже решил). | be going to = an intention decided before, or a prediction from evidence. Present Continuous = a fixed arrangement: I'm meeting Tom at 5. will = a decision made now. | going to: intención; Present Continuous: cita acordada; will: decisión espontánea.
+table: форма | когда | пример
+row: will | решил сейчас | OK, I'll call him.
+row: be going to | уже собираюсь | I'm going to call him tonight.
+row: be + -ing | договорились | I'm meeting him at 5.
+time: now-future | план уже есть — действие впереди | the plan exists — the action is ahead | el plan ya existe — la acción es futura
+bridge: 21 | ir a + infinitivo | Voy a aprender español este año. | В этом году я собираюсь выучить испанский. | going to ≈ ir a — 1:1
+tf: I travel to Italy. || future = I'm going to travel to Italy. / I am going to travel to Italy.
+tf: They are going to buy a house. || negative = They aren't going to buy a house. / They are not going to buy a house. / They're not going to buy a house. || question = Are they going to buy a house?
+choose: We ___ dinner with friends tonight — it's booked. | will have, are having | are having | Сегодня мы ужинаем с друзьями — уже забронировано.
+choose: The phone is ringing. — I ___ get it! | 'll, 'm going to | 'll | Телефон звонит. — Я возьму!
+fill: She is going ___ start a new job. | to | Она собирается выйти на новую работу.
+build: What are you going to do this weekend? | Что ты собираешься делать на этих выходных? | will
+compose: Напишите о своих планах на выходные. | Write about your weekend plans. | Escribe tus planes para el fin de semana. || On Saturday I'm going to … || On Saturday I'm going to clean the flat. On Sunday I'm meeting my friends.
+
+=== 23 A2 modals
+title: Нужно и нельзя: must, have to, don't have to, mustn't | Obligation: must, have to, don't have to, mustn't | Obligación: must, have to, don't have to, mustn't
+see: 24 15
+p: I have to work tomorrow. | Мне нужно работать завтра.
+p: You must wear a helmet. | Ты должен надеть шлем.
+p: You don't have to pay — it's free. | Платить не нужно — это бесплатно.
+p: You mustn't smoke here. | Здесь нельзя курить.
+formula: must / have to + V — нужно · don't have to — не обязательно · mustn't — нельзя
+rule: have to — обязанность из-за обстоятельств и правил (I have to get up early); must — сильнее, от говорящего или в инструкциях (You must see this film!). Главная ловушка: don't have to — «не обязательно», а mustn't — «нельзя». В прошлом и будущем — только have to: I had to wait, You'll have to pay. | have to = obligation from circumstances or rules; must = stronger, from the speaker or in instructions. Trap: don't have to = not necessary; mustn't = prohibited. Past and future use have to: I had to wait. | have to / must = obligación; don't have to = no es necesario; mustn't = prohibido.
+table: форма | смысл | пример
+row: have to | нужно (обстоятельства) | I have to get up at six.
+row: must | должен (сильно, правило) | You must show your passport.
+row: don't have to | не обязательно | You don't have to come.
+row: mustn't | нельзя | You mustn't park here.
+row: had to | пришлось (прошлое) | We had to wait.
+time: now-future | обязанность сейчас или впереди | an obligation now or ahead | una obligación ahora o más adelante
+bridge: 20 | tener que / deber / no tener que | Tengo que trabajar mañana. | Мне нужно работать завтра. | почти 1:1; don't have to = no tengo que
+tf: She has to wear a uniform. || negative = She doesn't have to wear a uniform. / She does not have to wear a uniform. || question = Does she have to wear a uniform?
+tf: I have to wait. || past = I had to wait.
+choose: It's a secret. You ___ tell anyone! | mustn't, don't have to | mustn't | Это секрет. Никому нельзя рассказывать!
+choose: It's Sunday, so I ___ get up early. | mustn't, don't have to | don't have to | Сегодня воскресенье, так что рано вставать не обязательно.
+choose: He ___ work late yesterday. | must, had to | had to | Вчера ему пришлось работать допоздна.
+build: We have to finish the project by Friday. | Нам нужно закончить проект к пятнице. | has
+compose: Напишите, что вам нужно делать на работе и чего делать не обязательно. | Write what you have to do at work and what you don't have to do. | Escribe qué tienes que hacer en el trabajo y qué no. || I have to … I don't have to … || I have to answer emails. I don't have to wear a suit.
+
+=== 24 A2 modals
+title: Совет: should, ought to, need to | Advice: should, ought to, need to | Consejo: should, ought to, need to
+see: 23 25
+p: You should see a doctor. | Тебе стоит сходить к врачу.
+p: We shouldn't stay up so late. | Нам не стоит так поздно ложиться.
+p: Should I take an umbrella? | Мне взять зонт?
+p: You need to update the app. | Тебе нужно обновить приложение.
+formula: should / shouldn't + V · need to + V · don't need to + V
+rule: should — совет, «стоит / следует»: You should rest. Вопрос-совет: Should I…? — «Мне стоит…?» ought to — то же, чуть официальнее. need to — «нужно» (необходимость), don't need to — «не нужно» (как don't have to). После should — глагол без to. | should = advice: You should rest. Should I…? asks for advice. ought to = the same, more formal. need to = necessity; don't need to = not necessary. No to after should. | should: consejo (deberías). need to: necesidad.
+table: | пример | смысл
+row: should | You should rest. | тебе стоит
+row: shouldn't | You shouldn't worry. | не стоит
+row: need to | I need to charge my phone. | мне нужно
+row: don't need to | You don't need to bring anything. | не нужно
+bridge: 34 | deberías + infinitivo | Deberías ir al médico. | Тебе стоит сходить к врачу. | should ≈ deberías (condicional de deber)
+tf: You should call her. || negative = You shouldn't call her. / You should not call her. || question = Should I call her?
+choose: You look tired. You ___ go to bed. | should, should to | should | Ты выглядишь уставшим. Тебе стоит лечь спать.
+choose: You ___ pay now — you can pay later. | don't need to, shouldn't to | don't need to | Платить сейчас не нужно — можно потом.
+fill: ___ I bring anything to the party? | Should | Мне что-нибудь принести на вечеринку?
+build: You shouldn't drink coffee in the evening. | Не стоит пить кофе вечером. | to
+compose: Дайте совет другу, который хочет выучить английский. | Give advice to a friend who wants to learn English. | Da un consejo a un amigo que quiere aprender inglés. || You should … You shouldn't … || You should watch films in English. You shouldn't be afraid of mistakes.
+
+=== 25 A2 modals
+title: Вежливые просьбы: Could you…? Would you mind…? I'd like… | Polite requests: Could you…? Would you mind…? I'd like… | Peticiones corteses en inglés
+see: 15 24
+p: Could you repeat that, please? | Не могли бы вы повторить?
+p: Would you mind opening the window? | Вы не против открыть окно?
+p: I'd like a table for two, please. | Мне, пожалуйста, столик на двоих.
+p: May I ask a question? | Можно задать вопрос?
+formula: Could you + V? · Would you mind + V-ing? · I'd like + сущ. / to + V · May I + V?
+rule: Чем «длиннее», тем вежливее: Can you…? → Could you…? → Would you mind…? После mind — глагол с -ing, а ответ «нет, не против» = No, not at all / Of course not. I want звучит резко — говорите I'd like (= I would like): I'd like to book a room. Разрешение: May I…? / Could I…? | Longer is politer: Can you…? → Could you…? → Would you mind…? After mind use -ing; “no problem” = No, not at all. I want sounds blunt — say I'd like. Permission: May I…? / Could I…? | Could you…? / Would you mind + -ing? / I'd like / May I…?
+table: прямо | вежливо
+row: Can you help me? | Could you help me?
+row: Open the window. | Would you mind opening the window?
+row: I want a coffee. | I'd like a coffee.
+row: Can I sit here? | May I sit here?
+bridge: 34 | ¿Podría…? / Me gustaría… | ¿Podría repetir, por favor? | Не могли бы вы повторить? | I'd like ≈ me gustaría — 1:1
+tf: Help me with my bag. || polite = Could you help me with my bag? / Could you help me with my bag, please?
+tf: I want the bill. || polite = I'd like the bill, please. / I'd like the bill. / Could I have the bill, please?
+choose: Would you mind ___ the door? | close, closing, to close | closing | Вы не против закрыть дверь?
+choose: I'd like ___ a room for two nights. | book, to book, booking | to book | Я бы хотел забронировать номер на две ночи.
+fill: ___ I use your charger? | May / Can / Could | Можно воспользоваться твоей зарядкой?
+build: Could you send me the link, please? | Не могли бы вы прислать мне ссылку? | sending
+compose: Вежливо попросите в отеле поздний выезд. | Politely ask the hotel for a late checkout. | Pide en el hotel, con cortesía, salir más tarde. || Could I …? / I'd like … || Could I check out at two, please? / I'd like a late checkout, please.
+
+=== 26 A2 verbs
+title: Повелительное наклонение и Let's | Imperative and Let's | Imperativo y Let's
+see: 25 8
+p: Click the green button. | Нажмите зелёную кнопку.
+p: Don't forget your passport. | Не забудь паспорт.
+p: Turn left at the bank. | У банка поверните налево.
+p: Let's take a break. | Давайте сделаем перерыв.
+formula: V! · Don't + V! · Let's + V · Let's not + V
+rule: Инструкция и просьба — глагол в начальной форме без подлежащего: Open the file. Запрет — Don't + V: Don't touch. Одна форма для «ты» и «вы»; вежливость добавляют please и интонация. «Давай(те)» — Let's + V, «давай не будем» — Let's not… | Instructions: the base verb, no subject: Open the file. Prohibition: Don't + V. One form for everyone; add please for politeness. Suggestion: Let's + V; Let's not… | Verbo base para todos; Don't + verbo; Let's = vamos a…
+table: | пример
+row: инструкция | Save the file.
+row: запрет | Don't close the window.
+row: предложение | Let's go.
+row: «давай не будем» | Let's not wait.
+bridge: 28 | imperativo: abre / abra / no abras | Abre la ventana, por favor. | Открой окно, пожалуйста. | в испанском разные формы для tú и usted, и особая форма для запрета
+tf: You close the door. || imperative = Close the door. / Close the door, please.
+tf: You touch the screen. || negative = Don't touch the screen. / Do not touch the screen.
+choose: ___ worry, everything is fine. | Not, Don't, No | Don't | Не волнуйся, всё в порядке.
+choose: It's late. ___ go home. | Let's, Let, We | Let's | Уже поздно. Пойдёмте домой.
+fill: ___ straight on and turn right. | Go | Идите прямо и поверните направо.
+build: Don't forget to save your work. | Не забудь сохранить работу. | forgetting
+compose: Объясните коллеге, как открыть отчёт: 2–3 шага. | Explain to a colleague how to open the report: 2–3 steps. | Explica a un compañero cómo abrir el informe: 2–3 pasos. || Open … Click … || Open the app. Click Reports. Choose the month.
+
+=== 27 A2 adjectives
+title: Сравнения: bigger, more expensive, the best | Comparatives and superlatives | Comparativos y superlativos en inglés
+see: 11 16
+p: The train is faster than the bus. | Поезд быстрее автобуса.
+p: This hotel is more expensive than that one. | Этот отель дороже того.
+p: It's the best café in town. | Это лучшее кафе в городе.
+p: My flat is as big as yours. | Моя квартира такая же большая, как твоя.
+formula: короткие: -er than, the -est · длинные: more … than, the most … · as … as
+rule: Короткие прилагательные (1 слог и на -y): +er / the +est: cheap → cheaper → the cheapest, easy → easier → the easiest, big → bigger. Длинные: more / the most: more interesting. Особые: good → better → the best, bad → worse → the worst, far → further. «Такой же… как» — as … as, «не такой… как» — not as … as. | Short adjectives: +er / the +est (cheaper, the cheapest, easier, bigger). Long ones: more / the most. Irregular: better / best, worse / worst, further. as … as, not as … as. | -er / the -est; more / the most; good → better → best; as … as.
+table: | сравнительная | превосходная
+row: cheap | cheaper | the cheapest
+row: big, easy | bigger, easier | the biggest, the easiest
+row: expensive | more expensive | the most expensive
+row: good, bad | better, worse | the best, the worst
+bridge: 29 | más … que, el más | El tren es más rápido que el autobús. | Поезд быстрее автобуса. | в испанском всегда más — без окончаний
+choose: My new laptop is ___ than the old one. | fast, faster, more fast | faster | Мой новый ноутбук быстрее старого.
+choose: This is the ___ film I've ever seen. | bad, worse, worst | worst | Это худший фильм, что я видел.
+choose: London is ___ expensive than Madrid. | more, most, -er | more | Лондон дороже Мадрида.
+fill: Today is ___ than yesterday. (hot) | hotter | Сегодня жарче, чем вчера.
+build: Your English is better than mine. | Твой английский лучше моего. | good
+compose: Сравните два города, которые вы знаете. | Compare two cities you know. | Compara dos ciudades que conoces. || … is …er than … || Moscow is bigger than Kazan, but Kazan is quieter.
+
+=== 28 A2 nouns
+title: Сколько: some / any, much / many, a few / a little | Quantity: some / any, much / many, a few / a little | Cantidad: some / any, much / many
+see: 4 5 3
+p: Is there any milk? | Есть молоко?
+p: I have some questions. | У меня есть несколько вопросов.
+p: We don't have much time. | У нас мало времени.
+p: How many tickets do you need? | Сколько билетов вам нужно?
+formula: исчисляемые: many, a few · неисчисляемые: much, a little · some (+), any (−, ?) · a lot of — всё
+rule: Исчисляемые (можно посчитать: tickets, people) — many, a few, how many. Неисчисляемые (water, money, time, information, advice) — much, a little, how much, без -s и без a. some — в утверждениях и просьбах (Can I have some water?), any — в вопросах и отрицаниях. a lot of — «много» для любых, особенно в утверждениях. | Countable nouns: many, a few, how many. Uncountable (water, money, time, information, advice): much, a little, how much — no -s, no a. some in statements and offers, any in questions and negatives. a lot of works for both. | Contables: many, a few; incontables: much, a little. some (+) / any (−, ?). a lot of.
+table: | исчисляемые | неисчисляемые
+row: много | many, a lot of | much, a lot of
+row: немного | a few | a little
+row: сколько? | how many | how much
+row: какие-то / нисколько | some, any | some, any
+bridge: 35 | mucho / poco, algún / ningún | Tengo muchas preguntas. | У меня много вопросов. | в испанском mucho согласуется: mucho tiempo, muchas preguntas
+choose: How ___ money do you have? | much, many | much | Сколько у тебя денег?
+choose: There aren't ___ tickets left. | some, any | any | Билетов не осталось.
+choose: I need ___ advice. | an, some, many | some | Мне нужен совет.
+choose: I know ___ people here. | a few, a little | a few | Я знаю здесь нескольких людей.
+fill: Would you like ___ coffee? | some | Хотите кофе?
+build: We don't have much time before the flight. | До рейса у нас мало времени. | many
+compose: Опишите свою неделю: чего много, а чего мало. | Describe your week: what there is a lot of and little of. | Describe tu semana: de qué hay mucho y de qué poco. || This week I have a lot of … and not much … || This week I have a lot of meetings and not much free time.
+
+=== 29 A2 tenses
+title: Present Perfect: результат и опыт | Present Perfect: result and experience | Present Perfect: resultado y experiencia
+see: 30 38 19
+words: already yet
+p: I have finished the task. | Я закончил задачу.
+p: Have you ever been to Mexico? | Ты когда-нибудь был в Мексике?
+p: She has just arrived. | Она только что приехала.
+p: We haven't decided yet. | Мы ещё не решили.
+formula: have / has + V3 (worked, done, been)
+rule: Прошлое, важное сейчас: результат (I've lost my keys — их нет), опыт в жизни (ever, never), «только что / уже / ещё не» (just, already, yet). Конкретное время (yesterday, in 2020) с ним не употребляют. 3-я форма: правильные +ed, неправильные учат: done, been, seen, gone, made, written. yet — в конце вопроса и отрицания, just и already — между have и глаголом. | Past linked to now: a result (I've lost my keys), life experience (ever, never), just / already / yet. No specific past time (yesterday). Past participle: +ed or irregular (done, been, seen, gone, written). yet at the end; just and already between have and the verb. | have / has + participio: resultado, experiencia, just / already / yet. Sin tiempo concreto.
+table: | + | − | ?
+row: I, you, we, they | I've done | I haven't done | Have you done?
+row: he, she, it | she's done | she hasn't done | Has she done?
+time: past-now | случилось раньше, важно сейчас | happened before, matters now | pasó antes, importa ahora
+bridge: 27 | haber + participio: he terminado | He terminado la tarea. | Я закончил задачу. | близко к pretérito perfecto (в Испании)
+tf: She has seen this film. || negative = She hasn't seen this film. / She has not seen this film. || question = Has she seen this film?
+tf: I finish the report. || past = I've finished the report. / I have finished the report.
+choose: Have you ___ been to Japan? | ever, yet, just | ever | Ты когда-нибудь был в Японии?
+choose: I haven't called him ___. | already, yet, just | yet | Я ещё не позвонил ему.
+choose: She ___ lost her phone. | have, has, is | has | Она потеряла телефон.
+fill: We have ___ finished lunch. (только что) | just | Мы только что пообедали.
+build: Have you sent the invoice yet? | Ты уже отправил счёт? | send
+compose: Напишите, что вы уже сделали сегодня и чего ещё нет. | Write what you've already done today and what not yet. | Escribe qué has hecho ya hoy y qué todavía no. || I've already … I haven't … yet. || I've already answered my emails. I haven't had lunch yet.
+
+=== 30 B1 tenses
+title: Present Perfect или Past Simple; for и since | Present Perfect or Past Simple; for and since | Present Perfect o Past Simple; for y since
+see: 29 19 38
+p: I've lived here for five years. | Я живу здесь пять лет.
+p: I lived in Kazan for five years. | Я жил в Казани пять лет (теперь нет).
+p: She has worked here since 2020. | Она работает здесь с 2020 года.
+p: I saw him yesterday. | Я видел его вчера.
+formula: Present Perfect + for (срок) / since (с момента) · Past Simple + yesterday / ago / in 2020
+rule: Если время названо и закончилось (yesterday, last year, ago, in 2020) — Past Simple. Если период длится до сих пор или время не важно — Present Perfect. Русское «живу здесь пять лет» = I've lived here for five years (не I live). for — длительность (for two hours), since — точка начала (since Monday, since 2020). Вопрос — How long have you…? | If the time is stated and finished (yesterday, ago, in 2020) — Past Simple. If the period continues to now or the time doesn't matter — Present Perfect. «Живу здесь пять лет» = I've lived here for five years. for = duration, since = starting point. How long have you…? | Tiempo terminado → Past Simple; hasta ahora → Present Perfect. for (duración) / since (desde).
+table: | Past Simple | Present Perfect
+row: время | закончилось: yesterday, ago, in 2020 | до сих пор / не важно
+row: пример | I worked there in 2019. | I've worked here since 2019.
+row: вопрос | When did you start? | How long have you worked here?
+time: past | Past Simple: закрытый период | Past Simple: a closed period | Past Simple: período cerrado
+time: past-now | Present Perfect: до сих пор | Present Perfect: up to now | Present Perfect: hasta ahora
+bridge: 27 | hace + время, desde + момент | Vivo aquí desde 2020. | Я живу здесь с 2020 года. | в испанском «живу пять лет» — presente: Vivo aquí desde hace cinco años
+choose: I ___ him last week. | have met, met | met | Я встретил его на прошлой неделе.
+choose: We have known each other ___ ten years. | for, since | for | Мы знакомы десять лет.
+choose: She has been ill ___ Monday. | for, since | since | Она болеет с понедельника.
+choose: How long ___ you lived in Spain? | did, have, are | have | Сколько ты живёшь в Испании?
+fill: I ___ my keys. I can't open the door. (lose) | 've lost / have lost | Я потерял ключи. Не могу открыть дверь.
+build: I have worked in IT since 2018. | Я работаю в IT с 2018 года. | for
+compose: Напишите, сколько вы живёте в своём городе и когда туда переехали. | Write how long you've lived in your city and when you moved there. | Escribe cuánto tiempo llevas en tu ciudad y cuándo te mudaste. || I've lived in … for … I moved there in … || I've lived in Moscow for ten years. I moved there in 2015.
+
+=== 31 B1 tenses
+title: Past Continuous: делал, когда… | Past Continuous: was doing when… | Past Continuous: estaba haciendo cuando…
+see: 19 17
+p: I was working when you called. | Я работал, когда ты позвонил.
+p: What were you doing at 8 pm? | Что ты делал в 8 вечера?
+p: It was raining all day. | Весь день шёл дождь.
+p: While we were waiting, the bus came. | Пока мы ждали, пришёл автобус.
+formula: was / were + V-ing
+rule: Процесс в прошлом: что шло в определённый момент (at 8 pm) или когда что-то случилось. Длинное фоновое действие — Past Continuous, короткое событие — Past Simple: I was cooking when the phone rang. while — «пока» (обычно с Continuous), when — «когда» (обычно с Simple). | A process in the past: in progress at a time or when something happened. Background action — Past Continuous, short event — Past Simple: I was cooking when the phone rang. while + continuous, when + simple. | was / were + -ing: acción en curso en el pasado (= estaba + gerundio).
+table: | + | − | ?
+row: I, he, she, it | was working | wasn't working | Was he working?
+row: we, you, they | were working | weren't working | Were they working?
+time: past | процесс в прошлом, прерванный событием | a past process interrupted by an event | un proceso pasado interrumpido
+bridge: 24 | estaba + gerundio | Estaba trabajando cuando llamaste. | Я работал, когда ты позвонил. | ≈ estar + gerundio в прошлом (imperfecto)
+tf: She is sleeping. || past = She was sleeping.
+tf: They were watching TV. || negative = They weren't watching TV. / They were not watching TV. || question = Were they watching TV?
+choose: I ___ a shower when the lights went out. | took, was taking | was taking | Я принимал душ, когда погас свет.
+choose: While I was driving, I ___ an accident. | saw, was seeing | saw | Когда я ехал, я увидел аварию.
+fill: What ___ you doing at ten last night? | were | Что ты делал вчера в десять вечера?
+build: We were having dinner when Tom arrived. | Мы ужинали, когда пришёл Том. | had
+compose: Напишите, что вы делали вчера в 8 вечера. | Write what you were doing at 8 pm yesterday. | Escribe qué estabas haciendo ayer a las ocho de la tarde. || At 8 pm yesterday I was … || At 8 pm yesterday I was cooking dinner and listening to music.
+
+=== 32 A2 sentence
+title: Связки: and, but, because, so, when, before, after | Linking words: and, but, because, so, when, before, after | Conectores en inglés
+see: 33 10
+p: I wanted to go, but I was tired. | Я хотел пойти, но устал.
+p: We stayed at home because it was raining. | Мы остались дома, потому что шёл дождь.
+p: It was late, so we took a taxi. | Было поздно, поэтому мы взяли такси.
+p: Call me when you arrive. | Позвони мне, когда приедешь.
+formula: часть 1 + and / but / because / so / when / before / after + часть 2
+rule: and — «и», but — «но», or — «или», because — «потому что» (причина), so — «поэтому» (следствие), when — «когда», before / after — «до / после», while — «пока». После when, before, after, if о будущем — настоящее время: Call me when you arrive (не will arrive). because of + существительное: because of the traffic. | and, but, or, because (reason), so (result), when, before, after, while. After when / before / after / if use the present for the future: Call me when you arrive. because of + noun. | Conectores; después de when / if: presente con valor de futuro.
+table: связка | смысл | пример
+row: but | но | It's small but nice.
+row: because | потому что | because it's late
+row: so | поэтому | so I left
+row: when | когда | when you arrive
+row: before, after | до, после | after work
+bridge: 32 | y, pero, porque, cuando, si | Quería ir, pero estaba cansado. | Я хотел пойти, но устал. | испанское cuando + будущее требует subjuntivo: cuando llegues
+choose: I was hungry, ___ I made a sandwich. | so, because | so | Я проголодался, поэтому сделал бутерброд.
+choose: We were late ___ the traffic. | because, because of | because of | Мы опоздали из-за пробок.
+choose: I'll call you when I ___ home. | get, will get | get | Я позвоню тебе, когда приду домой.
+fill: Wash your hands ___ dinner. (до) | before | Помой руки перед ужином.
+build: I like my job but it is very stressful. | Мне нравится моя работа, но она очень нервная. | because
+compose: Расскажите о вчерашнем вечере с because и so. | Tell about last night using because and so. | Cuenta tu noche de ayer con because y so. || … because … so … || I was tired because I worked a lot, so I went to bed early.
+
+=== 33 B1 sentence
+title: Условные предложения 0 и 1: if + Present | Conditionals 0 and 1: if + Present | Condicionales 0 y 1
+see: 32 21 37
+p: If you heat water to 100 degrees, it boils. | Если нагреть воду до 100 градусов, она закипит.
+p: If it rains, we'll stay at home. | Если пойдёт дождь, мы останемся дома.
+p: If you need help, call me. | Если нужна помощь — звони.
+p: I won't go unless you come with me. | Я не пойду, если ты не пойдёшь со мной.
+formula: 0: If + Present, Present · 1: If + Present, will + V
+rule: Тип 0 — всегда так (факты, правила): If you press this, it restarts. Тип 1 — реальное условие в будущем: If it rains, we'll stay. Главная ловушка: после if будущее не ставят — If it rains (не will rain). Части можно менять местами: We'll stay if it rains (без запятой). unless = if not. | Type 0 — always true: If you press this, it restarts. Type 1 — a real future condition: If it rains, we'll stay. No will after if. Clauses can swap places (no comma). unless = if not. | Tipo 0: hechos; tipo 1: si + presente, will. Nunca will después de if.
+table: тип | if-часть | главная часть
+row: 0 (всегда) | If you heat ice, | it melts.
+row: 1 (реально) | If it rains, | we'll stay home.
+row: 1 (совет) | If you're tired, | go to bed.
+time: future | реальное условие впереди | a real condition ahead | condición real futura
+bridge: 32 | si + presente, futuro | Si llueve, nos quedaremos en casa. | Если пойдёт дождь, мы останемся дома. | 1:1 — и там, и там после «если» настоящее время
+choose: If you ___ late, we'll start without you. | are, will be | are | Если опоздаешь, начнём без тебя.
+choose: If it's sunny tomorrow, we ___ to the beach. | go, 'll go | 'll go | Если завтра будет солнечно, пойдём на пляж.
+choose: I won't come ___ you invite me. | if, unless | unless | Я не приду, если ты меня не пригласишь.
+fill: If you ___ the button, the door opens. (press) | press | Если нажать кнопку, дверь открывается.
+build: If I finish early, I will call you. | Если я закончу рано, я тебе позвоню. | finished
+compose: Напишите, что вы сделаете, если завтра будет хорошая погода. | Write what you'll do if the weather is nice tomorrow. | Escribe qué harás si mañana hace buen tiempo. || If the weather is nice tomorrow, I'll … || If the weather is nice tomorrow, I'll go for a walk in the park.
+
+=== 34 B1 sentence
+title: Разделительные вопросы и So do I / Neither do I | Tag questions and So do I / Neither do I | Preguntas coletilla y So do I / Neither do I
+see: 9 8
+p: It's a nice day, isn't it? | Хороший день, правда?
+p: You don't eat meat, do you? | Ты ведь не ешь мясо?
+p: I love this song. — So do I. | Я обожаю эту песню. — Я тоже.
+p: I can't swim. — Neither can I. | Я не умею плавать. — Я тоже.
+formula: + утверждение, − хвостик? · − утверждение, + хвостик? · So + вспомогательный + I / Neither + вспомогательный + I
+rule: Хвостик «правда? не так ли?» строится из вспомогательного глагола предложения с противоположным знаком: You're tired, aren't you? She works here, doesn't she? They didn't come, did they? «Я тоже» повторяет вспомогательный: So am I / So do I / So did I; «я тоже нет» — Neither do I / Neither can I. I am → aren't I? | Tags use the sentence's auxiliary with the opposite sign: You're tired, aren't you? She works here, doesn't she? “Me too” repeats the auxiliary: So do I / So am I; “me neither”: Neither do I. I am → aren't I? | Coletilla con el auxiliar en signo contrario. So do I = yo también; Neither do I = yo tampoco.
+table: предложение | хвостик | «я тоже»
+row: You are busy, | aren't you? | So am I.
+row: She works here, | doesn't she? | So do I.
+row: They didn't call, | did they? | Neither did I.
+row: He can drive, | can't he? | So can I.
+bridge:  | ¿verdad? / ¿no? · yo también / yo tampoco | Hace buen día, ¿verdad? — Yo también. | Хороший день, правда? — Я тоже. | в испанском хвостик всегда один: ¿verdad? / ¿no?
+choose: You live in Madrid, ___? | don't you, do you, isn't it | don't you | Ты ведь живёшь в Мадриде?
+choose: She can't come, ___? | can she, can't she | can she | Она ведь не сможет прийти?
+choose: I'm hungry. — ___ am I. | So, Neither, Too | So | Я голоден. — Я тоже.
+choose: I didn't like the film. — Neither ___ I. | did, do, was | did | Мне не понравился фильм. — Мне тоже.
+fill: It was a great party, ___ it? | wasn't | Отличная была вечеринка, правда?
+build: You have been to London, haven't you? | Ты ведь был в Лондоне? | didn't
+compose: Ответьте на реплики «я тоже» или «я тоже нет»: I love pizza. I don't like Mondays. | Reply with “me too” or “me neither”: I love pizza. I don't like Mondays. | Responde «yo también» o «yo tampoco»: I love pizza. I don't like Mondays. || So … / Neither … || So do I. Neither do I.
+
+=== 35 B1 verbs
+title: Страдательный залог: is fixed, was deployed | Passive voice: is fixed, was deployed | La voz pasiva: is fixed, was deployed
+see: 19 29
+p: The bug was fixed yesterday. | Ошибку исправили вчера.
+p: This app is used by millions of people. | Этим приложением пользуются миллионы людей.
+p: The meeting has been cancelled. | Совещание отменили.
+p: The new version will be released in May. | Новую версию выпустят в мае.
+formula: be (в нужном времени) + V3 (+ by …)
+rule: Когда важен результат или неизвестно, кто сделал: be + 3-я форма. Время показывает be: is fixed (обычно), was fixed (в прошлом), has been fixed (уже), will be fixed (будет). Исполнитель — через by: written by Tolstoy. Русские «исправили», «говорят», «сделано» часто переводятся пассивом. | Use the passive when the result matters or the doer is unknown: be + past participle. be shows the tense: is fixed, was fixed, has been fixed, will be fixed. Add the doer with by. Russian impersonal «исправили» is often a passive in English. | be + participio: el resultado importa más que el agente. by + agente.
+table: время | активный | пассивный
+row: Present | They fix it. | It is fixed.
+row: Past | They fixed it. | It was fixed.
+row: Present Perfect | They have fixed it. | It has been fixed.
+row: Future | They will fix it. | It will be fixed.
+bridge:  | se + verbo / ser + participio | El error se arregló ayer. | Ошибку исправили вчера. | в испанском чаще пассив с se: se habla español, se arregló
+tf: They clean the rooms every day. || negative = The rooms aren't cleaned every day. / The rooms are not cleaned every day. || question = Are the rooms cleaned every day?
+tf: Someone stole my bike. || past = My bike was stolen.
+choose: English ___ all over the world. | speaks, is spoken | is spoken | На английском говорят во всём мире.
+choose: The server ___ last night. | was restarted, restarted by | was restarted | Сервер перезапустили вчера ночью.
+fill: The tickets have ___ sold. | been | Билеты проданы.
+build: The report will be sent tomorrow. | Отчёт отправят завтра. | send
+compose: Опишите, что сделано в вашем проекте или доме на этой неделе (пассив). | Describe what has been done in your project or home this week (passive). | Describe qué se ha hecho esta semana en tu proyecto o casa (pasiva). || … has been … / … was … || The bug has been fixed. The kitchen was cleaned on Monday.
+
+=== 36 B1 verbs
+title: Герундий или инфинитив: enjoy doing, want to do | Gerund or infinitive: enjoy doing, want to do | Gerundio o infinitivo: enjoy doing, want to do
+see: 25 24
+p: I enjoy cooking. | Мне нравится готовить.
+p: She wants to learn Spanish. | Она хочет выучить испанский.
+p: We decided to stay. | Мы решили остаться.
+p: Stop talking, please. | Перестаньте разговаривать, пожалуйста.
+formula: enjoy / finish / mind / stop + V-ing · want / decide / plan / need + to V
+rule: Одни глаголы требуют -ing: enjoy, finish, mind, avoid, keep, suggest; другие — to + V: want, decide, plan, hope, need, would like. После предлога всегда -ing: good at cooking, before leaving. Особый случай — stop: stop smoking — «бросить курить», stop to smoke — «остановиться, чтобы покурить». like, love, start можно и так, и так. | Some verbs take -ing (enjoy, finish, mind, avoid, keep, suggest), others to + V (want, decide, plan, hope, need, would like). After prepositions always -ing. stop smoking ≠ stop to smoke. like, love, start take both. | -ing tras enjoy, finish, mind; to + verbo tras want, decide, plan. Tras preposición: -ing.
+table: + V-ing | + to V | оба варианта
+row: enjoy, finish, mind | want, decide, plan | like, love, start
+row: avoid, keep, suggest | hope, need, would like | begin, prefer
+bridge:  | infinitivo: quiero aprender, me gusta cocinar | Me gusta cocinar. Quiere aprender español. | Мне нравится готовить. Она хочет выучить испанский. | в испанском в обоих случаях инфинитив
+choose: I've finished ___ the report. | writing, to write | writing | Я закончил писать отчёт.
+choose: We hope ___ you soon. | seeing, to see | to see | Надеемся скоро увидеться.
+choose: She is good at ___ problems. | solve, solving, to solve | solving | Она хорошо решает проблемы.
+fill: Would you mind ___ a moment? (wait) | waiting | Не могли бы вы подождать минутку?
+build: I decided to change my job. | Я решил сменить работу. | changing
+compose: Напишите, что вы любите делать и что планируете сделать в этом году. | Write what you enjoy doing and what you plan to do this year. | Escribe qué te gusta hacer y qué planeas hacer este año. || I enjoy … I plan to … || I enjoy reading. I plan to visit Spain this year.
+
+=== 37 B1 sentence
+title: Условные 2: If I had…, I would… | Second conditional: If I had…, I would… | Condicional 2: If I had…, I would…
+see: 33 25
+p: If I had more time, I would learn Japanese. | Если бы у меня было больше времени, я бы выучил японский.
+p: If I were you, I would take the job. | На твоём месте я бы согласился на эту работу.
+p: What would you do if you won the lottery? | Что бы ты сделал, если бы выиграл в лотерею?
+p: I wouldn't do that if I were you. | На твоём месте я бы этого не делал.
+formula: If + Past Simple, would + V
+rule: Нереальное или маловероятное условие сейчас и в будущем — русское «если бы…, то бы…». После if — прошедшее время (форма, а не смысл!): If I had…, в главной части — would + V. If I were you — «на твоём месте» (were для всех лиц). could = would be able to: If I had a car, I could drive you. | An unreal or unlikely condition now or in the future. After if use the past form: If I had…; main clause: would + V. If I were you = advice. could = would be able to. | si + imperfecto de subjuntivo, condicional: If I had…, I would…
+table: | if-часть | главная часть
+row: нереально | If I had a car, | I would drive.
+row: совет | If I were you, | I'd call her.
+row: возможность | If we had time, | we could stay.
+time: now-future | нереально сейчас или маловероятно потом | unreal now or unlikely later | irreal ahora o improbable
+bridge: 34 | si + imperfecto de subjuntivo, condicional | Si tuviera más tiempo, aprendería japonés. | Если бы у меня было больше времени, я бы выучил японский. | структура та же, но в испанском особая форма tuviera (subjuntivo)
+choose: If I ___ rich, I would travel the world. | am, were, will be | were | Если бы я был богат, я бы путешествовал по миру.
+choose: If she knew the answer, she ___ tell us. | will, would | would | Если бы она знала ответ, она бы нам сказала.
+choose: If I were you, I ___ that. | won't do, wouldn't do | wouldn't do | На твоём месте я бы этого не делал.
+fill: If we ___ a garden, we would grow tomatoes. (have) | had | Если бы у нас был сад, мы бы выращивали помидоры.
+build: What would you do if you lost your job? | Что бы ты сделал, если бы потерял работу? | will
+compose: Напишите, что бы вы сделали, если бы у вас был свободный месяц. | Write what you would do if you had a free month. | Escribe qué harías si tuvieras un mes libre. || If I had a free month, I would … || If I had a free month, I would travel to Spain and learn to surf.
+
+=== 38 B1 tenses
+title: Present Perfect Continuous: делаю уже давно | Present Perfect Continuous: have been doing | Present Perfect Continuous: llevo haciendo
+see: 30 17
+p: I've been waiting for an hour. | Я жду уже час.
+p: How long have you been learning English? | Сколько ты уже учишь английский?
+p: She's been working here since May. | Она работает здесь с мая.
+p: It's been raining all day. | Весь день идёт дождь.
+formula: have / has been + V-ing (+ for / since)
+rule: Действие началось в прошлом и всё ещё идёт (или только что закончилось и видны следы): I've been waiting for an hour — «жду уже час». Акцент на длительности: How long have you been…? Русское настоящее «уже час жду» = Present Perfect Continuous. Глаголы состояния (know, like, have — «иметь») — в обычном Present Perfect: I've known him for years. | An action started in the past and still going (or just stopped with visible results): I've been waiting for an hour. Focus on duration: How long have you been…? State verbs use the simple Present Perfect: I've known him for years. | have been + -ing: acción que empezó y continúa (= llevo + gerundio).
+table: | + | ?
+row: I, you, we, they | I've been working | Have you been working?
+row: he, she, it | she's been working | Has she been working?
+time: past-now | началось раньше и длится до сих пор | started before and still going | empezó antes y continúa
+bridge: 24 | llevar + gerundio | Llevo una hora esperando. | Я жду уже час. | «жду уже час» по-испански — llevo una hora esperando
+tf: I have been working all day. || negative = I haven't been working all day. / I have not been working all day. || question = Have you been working all day?
+choose: We ___ for the bus for twenty minutes. | wait, have been waiting, are waiting | have been waiting | Мы ждём автобус уже двадцать минут.
+choose: I ___ her since school. | have been knowing, have known | have known | Я знаю её со школы.
+fill: How long have you been ___ here? (live) | living | Сколько ты уже здесь живёшь?
+build: She has been learning Spanish for two years. | Она учит испанский уже два года. | since
+compose: Напишите, что вы делаете уже давно и как долго. | Write what you have been doing for a long time and how long. | Escribe qué llevas haciendo mucho tiempo y desde cuándo. || I've been … for … || I've been learning English for three years.

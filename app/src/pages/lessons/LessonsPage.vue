@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { IonContent, IonHeader, IonIcon, IonPage, IonTitle, IonToolbar } from '@ionic/vue'
-import { checkmark, play, sparkles } from 'ionicons/icons'
+import { bookOutline, checkmark, play, sparkles } from 'ionicons/icons'
 import { computed, ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute, useRouter } from 'vue-router'
@@ -8,12 +8,12 @@ import { useRoute, useRouter } from 'vue-router'
 import { useWordStatusStore } from '@/features/dictionary'
 import {
   lessonPath,
+  lessonRoute,
   loadLessons,
   soundLessons,
   useLessonProgressStore,
   type Lesson,
   type LessonStatus,
-  type PathItem,
 } from '@/features/lessons'
 import { useProfilesStore } from '@/features/profiles'
 import { UiButton, UiChip, UiEmptyState, UiSkeleton } from '@/shared/ui'
@@ -64,14 +64,22 @@ const SOUND = 'sound'
 const sounds = computed(() => (lessons.value ? soundLessons(lessons.value, lang.value) : []))
 const topics = computed(() => [
   ...new Set((path.value?.items ?? []).map((i) => i.lesson.topic)),
+  ...(grammar.value.length ? [GRAMMAR] : []),
   ...(sounds.value.length ? [SOUND] : []),
 ])
 const inSound = computed(() => topic.value === SOUND)
+// Грамматика — тоже раздел-«тема» (D-38): темы по order, «следующая» — по ритму пути (D-14).
+const GRAMMAR = 'grammar'
+const grammar = computed(() => path.value?.grammar ?? [])
+const inGrammar = computed(() => topic.value === GRAMMAR)
+const grammarDone = computed(() => grammar.value.filter((g) => g.status === 'done').length)
 const topic = computed(() =>
   topics.value.includes(str(route.query.topic)) ? str(route.query.topic) : (topics.value[0] ?? ''),
 )
 const shown = computed(() =>
-  inSound.value ? [] : (path.value?.items ?? []).filter((i) => i.lesson.topic === topic.value),
+  inSound.value || inGrammar.value
+    ? []
+    : (path.value?.items ?? []).filter((i) => i.lesson.topic === topic.value),
 )
 const doneCount = computed(
   () => (path.value?.items ?? []).filter((i) => i.status === 'done').length,
@@ -86,7 +94,7 @@ function setQuery(patch: Record<string, string | undefined>): void {
 const title = (m: Record<string, string>) => m[locale.value] ?? m.ru ?? Object.values(m)[0]
 /** Пройденные узлы — иконкой, остальные — номером шага в теме. */
 const ICONS: Partial<Record<LessonStatus, string>> = { done: checkmark, known: sparkles }
-const score = (item: PathItem) => {
+const score = (item: { lesson: { id: string } }) => {
   const best = progress.get(item.lesson.id)?.bestScore
   return best === undefined ? '' : `${Math.round(best * 100)}%`
 }
@@ -130,7 +138,7 @@ const score = (item: PathItem) => {
       </template>
 
       <UiEmptyState
-        v-else-if="!path.items.length && !sounds.length"
+        v-else-if="!path.items.length && !sounds.length && !grammar.length"
         variant="empty"
         icon="book-outline"
         :title="t('path.empty')"
@@ -155,11 +163,61 @@ const score = (item: PathItem) => {
             :selected="tp === topic"
             @click="setQuery({ topic: tp })"
           >
-            {{ tp === SOUND ? t('path.sound') : t(`dictionary.card.topics.${tp}`) }}
+            {{
+              tp === SOUND
+                ? t('path.sound')
+                : tp === GRAMMAR
+                  ? t('path.grammar')
+                  : t(`dictionary.card.topics.${tp}`)
+            }}
           </UiChip>
         </div>
 
-        <ol v-if="inSound" class="path__list">
+        <template v-if="inGrammar">
+          <div class="path__grammar-head">
+            <span>{{
+              t('path.grammarProgress', { done: grammarDone, total: grammar.length })
+            }}</span>
+            <RouterLink :to="`/rules?lang=${lang}`" class="path__handbook">
+              <IonIcon :icon="bookOutline" aria-hidden="true" />
+              {{ t('rules.title') }}
+            </RouterLink>
+          </div>
+          <ol class="path__list">
+            <li
+              v-for="item in grammar"
+              :key="item.lesson.id"
+              class="node"
+              :class="`node--${item.status}`"
+            >
+              <button
+                type="button"
+                class="node__row"
+                @click="router.push(lessonRoute(item.lesson))"
+              >
+                <span class="node__dot" aria-hidden="true">
+                  <IonIcon v-if="item.status === 'done'" :icon="checkmark" />
+                  <template v-else>{{ item.lesson.order }}</template>
+                </span>
+                <span class="node__text">
+                  <strong>{{ title(item.lesson.title) }}</strong>
+                  <span class="node__meta">
+                    {{ item.lesson.code }}
+                    <template v-if="item.status !== 'open'">
+                      · {{ t(`path.status.${item.status}`) }}</template
+                    >
+                    <template v-if="score(item)"> · {{ score(item) }}</template>
+                  </span>
+                  <span v-if="item.status === 'next'" class="node__start">
+                    <IonIcon :icon="play" aria-hidden="true" />
+                    {{ t('home.lessons.start') }}
+                  </span>
+                </span>
+              </button>
+            </li>
+          </ol>
+        </template>
+        <ol v-else-if="inSound" class="path__list">
           <li
             v-for="(l, i) in sounds"
             :key="l.id"
@@ -265,6 +323,29 @@ const score = (item: PathItem) => {
   height: 100%;
   border-radius: inherit;
   background: var(--tint);
+}
+
+.path__grammar-head {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 0 var(--size-gutter);
+  color: var(--color-fg-muted);
+  font-size: var(--fs-meta);
+  font-weight: 600;
+}
+
+.path__handbook {
+  display: inline-flex;
+  gap: 6px;
+  align-items: center;
+  padding: 8px 14px;
+  border-radius: var(--radius-xl);
+  background: var(--tint-soft);
+  color: var(--tint-ink);
+  font-weight: 650;
+  text-decoration: none;
 }
 
 .path__topics {

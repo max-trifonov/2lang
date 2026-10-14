@@ -1,0 +1,162 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-34",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "EN-34",
+  "order": 34,
+  "level": "B1",
+  "title": {
+    "ru": "Разделительные вопросы и So do I / Neither do I",
+    "en": "Tag questions and So do I / Neither do I",
+    "es": "Preguntas coletilla y So do I / Neither do I"
+  },
+  "see": [
+    "en-grammar-09",
+    "en-grammar-08"
+  ],
+  "pattern": [
+    {
+      "en": "It's a nice day, isn't it?",
+      "ru": "Хороший день, правда?"
+    },
+    {
+      "en": "You don't eat meat, do you?",
+      "ru": "Ты ведь не ешь мясо?"
+    },
+    {
+      "en": "I love this song. — So do I.",
+      "ru": "Я обожаю эту песню. — Я тоже."
+    },
+    {
+      "en": "I can't swim. — Neither can I.",
+      "ru": "Я не умею плавать. — Я тоже."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Хвостик «правда? не так ли?» строится из вспомогательного глагола предложения с противоположным знаком: You're tired, aren't you? She works here, doesn't she? They didn't come, did they? «Я тоже» повторяет вспомогательный: So am I / So do I / So did I; «я тоже нет» — Neither do I / Neither can I. I am → aren't I?",
+      "en": "Tags use the sentence's auxiliary with the opposite sign: You're tired, aren't you? She works here, doesn't she? “Me too” repeats the auxiliary: So do I / So am I; “me neither”: Neither do I. I am → aren't I?",
+      "es": "Coletilla con el auxiliar en signo contrario. So do I = yo también; Neither do I = yo tampoco."
+    },
+    "formula": "+ утверждение, − хвостик? · − утверждение, + хвостик? · So + вспомогательный + I / Neither + вспомогательный + I",
+    "table": {
+      "head": [
+        "предложение",
+        "хвостик",
+        "«я тоже»"
+      ],
+      "rows": [
+        [
+          "You are busy,",
+          "aren't you?",
+          "So am I."
+        ],
+        [
+          "She works here,",
+          "doesn't she?",
+          "So do I."
+        ],
+        [
+          "They didn't call,",
+          "did they?",
+          "Neither did I."
+        ],
+        [
+          "He can drive,",
+          "can't he?",
+          "So can I."
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "formula": "¿verdad? / ¿no? · yo también / yo tampoco",
+      "examples": [
+        {
+          "es": "Hace buen día, ¿verdad? — Yo también.",
+          "ru": "Хороший день, правда? — Я тоже."
+        }
+      ],
+      "note": {
+        "ru": "в испанском хвостик всегда один: ¿verdad? / ¿no?"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "You live in Madrid, ___?",
+      "options": [
+        "don't you",
+        "do you",
+        "isn't it"
+      ],
+      "answer": "don't you",
+      "ru": "Ты ведь живёшь в Мадриде?"
+    },
+    {
+      "type": "choose",
+      "en": "She can't come, ___?",
+      "options": [
+        "can she",
+        "can't she"
+      ],
+      "answer": "can she",
+      "ru": "Она ведь не сможет прийти?"
+    },
+    {
+      "type": "choose",
+      "en": "I'm hungry. — ___ am I.",
+      "options": [
+        "So",
+        "Neither",
+        "Too"
+      ],
+      "answer": "So",
+      "ru": "Я голоден. — Я тоже."
+    },
+    {
+      "type": "choose",
+      "en": "I didn't like the film. — Neither ___ I.",
+      "options": [
+        "did",
+        "do",
+        "was"
+      ],
+      "answer": "did",
+      "ru": "Мне не понравился фильм. — Мне тоже."
+    },
+    {
+      "type": "fill",
+      "en": "It was a great party, ___ it?",
+      "answer": "wasn't",
+      "ru": "Отличная была вечеринка, правда?"
+    },
+    {
+      "type": "build",
+      "en": "You have been to London, haven't you?",
+      "ru": "Ты ведь был в Лондоне?",
+      "extra": [
+        "didn't"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Ответьте на реплики «я тоже» или «я тоже нет»: I love pizza. I don't like Mondays.",
+        "en": "Reply with “me too” or “me neither”: I love pizza. I don't like Mondays.",
+        "es": "Responde «yo también» o «yo tampoco»: I love pizza. I don't like Mondays."
+      },
+      "template": "So … / Neither …",
+      "sample": "So do I. Neither do I."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

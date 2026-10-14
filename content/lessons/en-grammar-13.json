@@ -1,0 +1,140 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-13",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "pronouns",
+  "code": "EN-13",
+  "order": 13,
+  "level": "A1",
+  "title": {
+    "ru": "this / that, these / those",
+    "en": "this / that, these / those",
+    "es": "this / that, these / those"
+  },
+  "see": [
+    "en-grammar-12",
+    "en-grammar-04"
+  ],
+  "pattern": [
+    {
+      "en": "This coffee is great.",
+      "ru": "Этот кофе отличный."
+    },
+    {
+      "en": "Who is that man?",
+      "ru": "Кто тот мужчина?"
+    },
+    {
+      "en": "These shoes are too small.",
+      "ru": "Эти туфли слишком маленькие."
+    },
+    {
+      "en": "Those were good days.",
+      "ru": "Это были хорошие дни."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "this (ед. ч.) / these (мн. ч.) — то, что рядом или сейчас; that / those — то, что далеко или в прошлом. Могут стоять без существительного: What's this? That's right! Представление по телефону: This is Anna.",
+      "en": "this / these = near or now; that / those = far or past. They can stand alone: What's this? That's right! On the phone: This is Anna.",
+      "es": "this / these: cerca; that / those: lejos. Pueden ir solos."
+    },
+    "formula": "this / these — рядом · that / those — далеко",
+    "table": {
+      "head": [
+        "",
+        "ед. ч.",
+        "мн. ч."
+      ],
+      "rows": [
+        [
+          "рядом",
+          "this",
+          "these"
+        ],
+        [
+          "далеко",
+          "that",
+          "those"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-15",
+      "formula": "este / ese / aquel",
+      "examples": [
+        {
+          "es": "Este café es estupendo.",
+          "ru": "Этот кофе отличный."
+        }
+      ],
+      "note": {
+        "ru": "в испанском три расстояния и род: este, esta, estos, estas"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "___ apples are delicious.",
+      "options": [
+        "This",
+        "These"
+      ],
+      "answer": "These",
+      "ru": "Эти яблоки вкусные."
+    },
+    {
+      "type": "choose",
+      "en": "Look at ___ mountains over there!",
+      "options": [
+        "these",
+        "those"
+      ],
+      "answer": "those",
+      "ru": "Посмотри на те горы вон там!"
+    },
+    {
+      "type": "choose",
+      "en": "Hello, ___ is Mark from IT.",
+      "options": [
+        "this",
+        "that"
+      ],
+      "answer": "this",
+      "ru": "Здравствуйте, это Марк из IT."
+    },
+    {
+      "type": "fill",
+      "en": "How much is ___ jacket here?",
+      "answer": "this",
+      "ru": "Сколько стоит эта куртка?"
+    },
+    {
+      "type": "build",
+      "en": "Are those your keys on the table?",
+      "ru": "Это твои ключи на столе?",
+      "extra": [
+        "that"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Вы в магазине: спросите цену двух вещей, рядом и подальше.",
+        "en": "In a shop: ask the price of two things, near and further away.",
+        "es": "En una tienda: pregunta el precio de dos cosas."
+      },
+      "template": "How much is …?",
+      "sample": "How much is this T-shirt? And how much are those shoes?"
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-32",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "ES-32",
+  "order": 32,
+  "level": "A2",
+  "title": {
+    "ru": "Связки: y, pero, porque, cuando, si, que",
+    "en": "Linking words: y, pero, porque, cuando, si, que",
+    "es": "Conectores: y, pero, porque, cuando, si, que"
+  },
+  "see": [
+    "es-grammar-12",
+    "es-grammar-33"
+  ],
+  "pattern": [
+    {
+      "es": "Quiero ir, pero no tengo tiempo.",
+      "ru": "Я хочу пойти, но у меня нет времени."
+    },
+    {
+      "es": "No voy porque estoy cansado.",
+      "ru": "Я не пойду, потому что устал."
+    },
+    {
+      "es": "Cuando llego a casa, cocino.",
+      "ru": "Когда прихожу домой, я готовлю."
+    },
+    {
+      "es": "Si tienes tiempo, llámame.",
+      "ru": "Если будет время, позвони мне."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "y — «и» (перед i- / hi- → e: padre e hijo), o — «или» (перед o- → u), pero — «но», porque — «потому что» (без пробела и ударения, в отличие от ¿por qué?), cuando — «когда», si — «если» (без ударения; sí — «да»), que — «что»: Creo que es tarde. После si о будущем — настоящее время: Si llueve, no voy.",
+      "en": "y = and (e before i-/hi-), o = or (u before o-), pero = but, porque = because (one word, no accent), cuando = when, si = if (no accent; sí = yes), que = that: Creo que es tarde. After si use the present for the future: Si llueve, no voy.",
+      "es": "y / e, o / u, pero, porque, cuando, si + presente, que."
+    },
+    "formula": "часть 1 + y / pero / porque / cuando / si / que + часть 2",
+    "table": {
+      "head": [
+        "связка",
+        "смысл",
+        "пример"
+      ],
+      "rows": [
+        [
+          "y (e)",
+          "и",
+          "Ana e Inés"
+        ],
+        [
+          "pero",
+          "но",
+          "Es caro, pero bueno."
+        ],
+        [
+          "porque",
+          "потому что",
+          "porque llueve"
+        ],
+        [
+          "cuando",
+          "когда",
+          "cuando llego"
+        ],
+        [
+          "si",
+          "если",
+          "si quieres"
+        ],
+        [
+          "que",
+          "что",
+          "Creo que sí."
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-32",
+      "formula": "and, but, because, when, if",
+      "examples": [
+        {
+          "en": "I want to go, but I don't have time.",
+          "ru": "Я хочу пойти, но у меня нет времени."
+        }
+      ],
+      "note": {
+        "ru": "if + Present ≈ si + presente — 1:1"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "No como carne ___ soy vegetariano.",
+      "options": [
+        "porque",
+        "por qué",
+        "pero"
+      ],
+      "answer": "porque",
+      "ru": "Я не ем мясо, потому что я вегетарианец."
+    },
+    {
+      "type": "choose",
+      "es": "___ llueve, vamos al museo.",
+      "options": [
+        "Si",
+        "Sí"
+      ],
+      "answer": "Si",
+      "ru": "Если будет дождь, пойдём в музей."
+    },
+    {
+      "type": "choose",
+      "es": "Mi padre ___ hijo trabajan juntos.",
+      "options": [
+        "y",
+        "e"
+      ],
+      "answer": "e",
+      "ru": "Отец и сын работают вместе."
+    },
+    {
+      "type": "fill",
+      "es": "Creo ___ el tren sale a las diez.",
+      "answer": "que",
+      "ru": "Думаю, что поезд отправляется в десять."
+    },
+    {
+      "type": "build",
+      "es": "Cuando termino el trabajo, voy al gimnasio.",
+      "ru": "Когда я заканчиваю работу, я иду в спортзал.",
+      "extra": [
+        "si"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы сделаете, если завтра будет хорошая погода.",
+        "en": "Write what you'll do if the weather is nice tomorrow.",
+        "es": "Escribe qué harás si mañana hace buen tiempo."
+      },
+      "template": "Si mañana hace buen tiempo, voy a …",
+      "sample": "Si mañana hace buen tiempo, voy a ir a la playa."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

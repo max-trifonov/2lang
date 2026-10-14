@@ -9,6 +9,7 @@ import { localDay, pickIndex, useActivityStore } from '@/features/activity'
 import { SpeakButton, useWordStatusStore } from '@/features/dictionary'
 import { LangBadge } from '@/features/language'
 import {
+  lessonRoute,
   loadLessons,
   nextLesson,
   phraseOfDay,
@@ -220,9 +221,11 @@ const week = computed(() => {
           </div>
 
           <div v-if="track.next" class="track__next">
-            <span class="track__label">{{ t('home.lessons.next') }}</span>
+            <span class="track__label">{{
+              t(track.next.kind === 'grammar' ? 'home.lessons.nextGrammar' : 'home.lessons.next')
+            }}</span>
             <strong class="track__title">{{ title(track.next.title) }}</strong>
-            <UiButton full-width @click="router.push(`/lessons/${track.next.id}`)">
+            <UiButton full-width @click="router.push(lessonRoute(track.next))">
               <IonIcon :icon="play" aria-hidden="true" />
               {{ t('home.lessons.start') }}
             </UiButton>

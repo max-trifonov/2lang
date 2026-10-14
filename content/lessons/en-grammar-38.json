@@ -1,0 +1,159 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-38",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "EN-38",
+  "order": 38,
+  "level": "B1",
+  "title": {
+    "ru": "Present Perfect Continuous: делаю уже давно",
+    "en": "Present Perfect Continuous: have been doing",
+    "es": "Present Perfect Continuous: llevo haciendo"
+  },
+  "see": [
+    "en-grammar-30",
+    "en-grammar-17"
+  ],
+  "pattern": [
+    {
+      "en": "I've been waiting for an hour.",
+      "ru": "Я жду уже час."
+    },
+    {
+      "en": "How long have you been learning English?",
+      "ru": "Сколько ты уже учишь английский?"
+    },
+    {
+      "en": "She's been working here since May.",
+      "ru": "Она работает здесь с мая."
+    },
+    {
+      "en": "It's been raining all day.",
+      "ru": "Весь день идёт дождь."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Действие началось в прошлом и всё ещё идёт (или только что закончилось и видны следы): I've been waiting for an hour — «жду уже час». Акцент на длительности: How long have you been…? Русское настоящее «уже час жду» = Present Perfect Continuous. Глаголы состояния (know, like, have — «иметь») — в обычном Present Perfect: I've known him for years.",
+      "en": "An action started in the past and still going (or just stopped with visible results): I've been waiting for an hour. Focus on duration: How long have you been…? State verbs use the simple Present Perfect: I've known him for years.",
+      "es": "have been + -ing: acción que empezó y continúa (= llevo + gerundio)."
+    },
+    "formula": "have / has been + V-ing (+ for / since)",
+    "table": {
+      "head": [
+        "",
+        "+",
+        "?"
+      ],
+      "rows": [
+        [
+          "I, you, we, they",
+          "I've been working",
+          "Have you been working?"
+        ],
+        [
+          "he, she, it",
+          "she's been working",
+          "Has she been working?"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "past",
+        "until": "now",
+        "label": {
+          "ru": "началось раньше и длится до сих пор",
+          "en": "started before and still going",
+          "es": "empezó antes y continúa"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-24",
+      "formula": "llevar + gerundio",
+      "examples": [
+        {
+          "es": "Llevo una hora esperando.",
+          "ru": "Я жду уже час."
+        }
+      ],
+      "note": {
+        "ru": "«жду уже час» по-испански — llevo una hora esperando"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "I have been working all day.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "I haven't been working all day.",
+            "I have not been working all day."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Have you been working all day?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "We ___ for the bus for twenty minutes.",
+      "options": [
+        "wait",
+        "have been waiting",
+        "are waiting"
+      ],
+      "answer": "have been waiting",
+      "ru": "Мы ждём автобус уже двадцать минут."
+    },
+    {
+      "type": "choose",
+      "en": "I ___ her since school.",
+      "options": [
+        "have been knowing",
+        "have known"
+      ],
+      "answer": "have known",
+      "ru": "Я знаю её со школы."
+    },
+    {
+      "type": "fill",
+      "en": "How long have you been ___ here? (live)",
+      "answer": "living",
+      "ru": "Сколько ты уже здесь живёшь?"
+    },
+    {
+      "type": "build",
+      "en": "She has been learning Spanish for two years.",
+      "ru": "Она учит испанский уже два года.",
+      "extra": [
+        "since"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы делаете уже давно и как долго.",
+        "en": "Write what you have been doing for a long time and how long.",
+        "es": "Escribe qué llevas haciendo mucho tiempo y desde cuándo."
+      },
+      "template": "I've been … for …",
+      "sample": "I've been learning English for three years."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

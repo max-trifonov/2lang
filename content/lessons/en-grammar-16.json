@@ -1,0 +1,145 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-16",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "adjectives",
+  "code": "EN-16",
+  "order": 16,
+  "level": "A1",
+  "title": {
+    "ru": "Наречия: -ly и как часто (always, never)",
+    "en": "Adverbs: -ly and frequency (always, never)",
+    "es": "Adverbios: -ly y frecuencia"
+  },
+  "see": [
+    "en-grammar-11",
+    "en-grammar-07"
+  ],
+  "pattern": [
+    {
+      "en": "She speaks slowly and clearly.",
+      "ru": "Она говорит медленно и чётко."
+    },
+    {
+      "en": "I always drink coffee in the morning.",
+      "ru": "Я всегда пью кофе утром."
+    },
+    {
+      "en": "He is never late.",
+      "ru": "Он никогда не опаздывает."
+    },
+    {
+      "en": "The app works well.",
+      "ru": "Приложение хорошо работает."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Как? — наречие: прилагательное + -ly: quick → quickly, easy → easily. Особые: good → well, fast → fast, hard → hard. Как часто? — always, usually, often, sometimes, rarely, never: перед основным глаголом (I always work), но после be (She is always late) и после вспомогательного (I have never been).",
+      "en": "How? — adjective + -ly: quickly, easily. Special: good → well, fast → fast, hard → hard. How often? — always, usually, often, sometimes, never: before the main verb, after be and auxiliaries.",
+      "es": "Adjetivo + -ly. good → well. Frecuencia: delante del verbo, detrás de be."
+    },
+    "formula": "прилагательное + -ly · always / usually / often / sometimes / never + глагол (но после be)",
+    "table": {
+      "head": [
+        "прилагательное",
+        "наречие"
+      ],
+      "rows": [
+        [
+          "quick",
+          "quickly"
+        ],
+        [
+          "easy",
+          "easily"
+        ],
+        [
+          "good",
+          "well"
+        ],
+        [
+          "fast, hard",
+          "fast, hard"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-25",
+      "formula": "-mente; siempre / nunca",
+      "examples": [
+        {
+          "es": "Siempre bebo café por la mañana.",
+          "ru": "Я всегда пью кофе утром."
+        }
+      ],
+      "note": {
+        "ru": "-ly ≈ -mente"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "She drives very ___.",
+      "options": [
+        "careful",
+        "carefully"
+      ],
+      "answer": "carefully",
+      "ru": "Она водит очень осторожно."
+    },
+    {
+      "type": "choose",
+      "en": "You speak English ___.",
+      "options": [
+        "good",
+        "well"
+      ],
+      "answer": "well",
+      "ru": "Ты хорошо говоришь по-английски."
+    },
+    {
+      "type": "choose",
+      "en": "He ___ late.",
+      "options": [
+        "always is",
+        "is always"
+      ],
+      "answer": "is always",
+      "ru": "Он всегда опаздывает."
+    },
+    {
+      "type": "fill",
+      "en": "I ___ eat meat. I'm vegetarian. (никогда)",
+      "answer": "never",
+      "ru": "Я никогда не ем мясо. Я вегетарианец."
+    },
+    {
+      "type": "build",
+      "en": "We usually have lunch at one.",
+      "ru": "Мы обычно обедаем в час.",
+      "extra": [
+        "usual"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы делаете всегда, иногда и никогда.",
+        "en": "Write what you always, sometimes and never do.",
+        "es": "Escribe qué haces siempre, a veces y nunca."
+      },
+      "template": "I always … I sometimes … I never …",
+      "sample": "I always walk to work. I sometimes cook. I never watch TV."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

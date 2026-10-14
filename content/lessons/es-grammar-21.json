@@ -1,0 +1,183 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-21",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "ES-21",
+  "order": 21,
+  "level": "A1",
+  "title": {
+    "ru": "Ближайшее будущее: ir a + инфинитив",
+    "en": "Near future: ir a + infinitive",
+    "es": "Futuro próximo: ir a + infinitivo"
+  },
+  "see": [
+    "es-grammar-18",
+    "es-grammar-33"
+  ],
+  "words": [
+    "hacer"
+  ],
+  "pattern": [
+    {
+      "es": "Voy a llamar al cliente.",
+      "ru": "Я позвоню клиенту."
+    },
+    {
+      "es": "¿Qué vas a hacer mañana?",
+      "ru": "Что ты будешь делать завтра?"
+    },
+    {
+      "es": "Vamos a cenar en un restaurante.",
+      "ru": "Мы будем ужинать в ресторане."
+    },
+    {
+      "es": "Va a llover.",
+      "ru": "Сейчас пойдёт дождь."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Планы и то, что вот-вот случится: ir по лицам + a + глагол в начальной форме. Самый частый способ говорить о будущем в разговоре. Vamos a… — ещё и «давай(те)…»: Vamos a empezar.",
+      "en": "Plans and things about to happen: ir (conjugated) + a + infinitive. The most common way to talk about the future. Vamos a… also means “let's…”.",
+      "es": "Planes e intenciones: ir + a + infinitivo. Vamos a… = propuesta."
+    },
+    "formula": "ir (voy, vas, va…) + a + инфинитив",
+    "table": {
+      "head": [
+        "",
+        "ir a + infinitivo"
+      ],
+      "rows": [
+        [
+          "yo",
+          "voy a trabajar"
+        ],
+        [
+          "tú",
+          "vas a trabajar"
+        ],
+        [
+          "él, ella, usted",
+          "va a trabajar"
+        ],
+        [
+          "nosotros",
+          "vamos a trabajar"
+        ],
+        [
+          "vosotros",
+          "vais a trabajar"
+        ],
+        [
+          "ellos, ustedes",
+          "van a trabajar"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "now",
+        "until": "future",
+        "label": {
+          "ru": "план уже есть — действие впереди",
+          "en": "the plan exists — the action is ahead",
+          "es": "el plan ya existe — la acción es futura"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-22",
+      "formula": "be going to + V",
+      "examples": [
+        {
+          "en": "I'm going to call the client.",
+          "ru": "Я позвоню клиенту."
+        }
+      ],
+      "note": {
+        "ru": "going to ≈ ir a — 1:1"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Voy a viajar en verano.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": "No voy a viajar en verano."
+        },
+        {
+          "form": "question",
+          "answer": "¿Vas a viajar en verano?"
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "es": "Trabajo en casa.",
+      "into": [
+        {
+          "form": "future",
+          "answer": "Voy a trabajar en casa."
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "Mañana ___ a visitar a mis padres.",
+      "options": [
+        "voy",
+        "vamos a",
+        "va"
+      ],
+      "answer": "voy",
+      "ru": "Завтра я навещу родителей."
+    },
+    {
+      "type": "choose",
+      "es": "¿Qué ___ a hacer el sábado?",
+      "options": [
+        "vas",
+        "va a",
+        "ir"
+      ],
+      "answer": "vas",
+      "ru": "Что ты будешь делать в субботу?"
+    },
+    {
+      "type": "fill",
+      "es": "Nosotros ___ a cenar fuera.",
+      "answer": "vamos",
+      "ru": "Мы поужинаем не дома."
+    },
+    {
+      "type": "build",
+      "es": "Esta noche voy a ver una película.",
+      "ru": "Сегодня вечером я посмотрю фильм.",
+      "extra": [
+        "veo"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите о своих планах на выходные.",
+        "en": "Write about your weekend plans.",
+        "es": "Escribe tus planes para el fin de semana."
+      },
+      "template": "El sábado voy a …",
+      "sample": "El sábado voy a ver a mis amigos. El domingo voy a descansar."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-35",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "nouns",
+  "code": "ES-35",
+  "order": 35,
+  "level": "A2",
+  "title": {
+    "ru": "Сколько: mucho, poco, algún, ningún",
+    "en": "Quantity: mucho, poco, algún, ningún",
+    "es": "Cantidad: mucho, poco, algún, ningún"
+  },
+  "see": [
+    "es-grammar-13",
+    "es-grammar-10"
+  ],
+  "words": [
+    "mucho"
+  ],
+  "pattern": [
+    {
+      "es": "Tengo mucho trabajo.",
+      "ru": "У меня много работы."
+    },
+    {
+      "es": "Hay pocas personas en la playa.",
+      "ru": "На пляже мало людей."
+    },
+    {
+      "es": "¿Tienes alguna pregunta?",
+      "ru": "У тебя есть какой-нибудь вопрос?"
+    },
+    {
+      "es": "No hay ningún problema.",
+      "ru": "Никаких проблем."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "mucho, poco, bastante, demasiado перед существительным согласуются: mucha gente, muchos días, pocas horas. Перед глаголом и прилагательным — не меняются: trabajo mucho; muy — только с прилагательным: muy caro. algún — «какой-нибудь», ningún — «ни один» (с no): No tengo ningún plan. un poco de — «немного»: un poco de agua.",
+      "en": "mucho, poco, bastante, demasiado agree before nouns: mucha gente, muchos días. After a verb they don't change: trabajo mucho; muy goes with adjectives. algún = some / any, ningún = no (with no). un poco de = a little.",
+      "es": "mucho / poco concuerdan con el sustantivo; con verbo, invariables. muy + adjetivo. algún / ningún. un poco de."
+    },
+    "formula": "mucho / poco / bastante / demasiado + сущ. (согласуются) · algún / ningún",
+    "table": {
+      "head": [
+        "",
+        "муж.",
+        "жен."
+      ],
+      "rows": [
+        [
+          "много",
+          "mucho trabajo, muchos días",
+          "mucha gente, muchas horas"
+        ],
+        [
+          "мало",
+          "poco dinero, pocos días",
+          "poca agua, pocas personas"
+        ],
+        [
+          "какой-нибудь",
+          "algún problema",
+          "alguna pregunta"
+        ],
+        [
+          "ни одного",
+          "ningún problema",
+          "ninguna pregunta"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-28",
+      "formula": "much / many, a few / a little, some / any",
+      "examples": [
+        {
+          "en": "I have a lot of work.",
+          "ru": "У меня много работы."
+        }
+      ],
+      "note": {
+        "ru": "в английском выбор зависит от исчисляемости, в испанском — согласование по роду и числу"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Hay ___ turistas en verano.",
+      "options": [
+        "mucho",
+        "muchos",
+        "muy"
+      ],
+      "answer": "muchos",
+      "ru": "Летом много туристов."
+    },
+    {
+      "type": "choose",
+      "es": "El hotel es ___ caro.",
+      "options": [
+        "mucho",
+        "muy"
+      ],
+      "answer": "muy",
+      "ru": "Отель очень дорогой."
+    },
+    {
+      "type": "choose",
+      "es": "No tengo ___ pregunta.",
+      "options": [
+        "ninguna",
+        "alguna"
+      ],
+      "answer": "ninguna",
+      "ru": "У меня нет вопросов."
+    },
+    {
+      "type": "fill",
+      "es": "Necesito un ___ de tiempo.",
+      "answer": "poco",
+      "ru": "Мне нужно немного времени."
+    },
+    {
+      "type": "build",
+      "es": "Hoy hay poca gente en la oficina.",
+      "ru": "Сегодня в офисе мало людей.",
+      "extra": [
+        "pocos"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Опишите свою неделю: чего много, а чего мало.",
+        "en": "Describe your week: what there is a lot of and little of.",
+        "es": "Describe tu semana: de qué hay mucho y de qué poco."
+      },
+      "template": "Esta semana tengo mucho … y poco …",
+      "sample": "Esta semana tengo mucho trabajo y poco tiempo libre."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

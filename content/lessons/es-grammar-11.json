@@ -1,0 +1,160 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-11",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "ES-11",
+  "order": 11,
+  "level": "A1",
+  "title": {
+    "ru": "Общий вопрос и краткие ответы",
+    "en": "Yes / no questions and short answers",
+    "es": "Preguntas de sí / no y respuestas cortas"
+  },
+  "see": [
+    "es-grammar-10",
+    "es-grammar-12"
+  ],
+  "pattern": [
+    {
+      "es": "¿Hablas inglés? — Sí, hablo inglés.",
+      "ru": "Ты говоришь по-английски? — Да, говорю."
+    },
+    {
+      "es": "¿Hay wifi? — No, no hay.",
+      "ru": "Есть вай-фай? — Нет."
+    },
+    {
+      "es": "¿El hotel está cerca?",
+      "ru": "Отель близко?"
+    },
+    {
+      "es": "¿Está cerca el hotel?",
+      "ru": "Отель близко?"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Общий вопрос — то же утверждение с вопросительной интонацией; подлежащее можно оставить или переставить после глагола: ¿Ana trabaja hoy? = ¿Trabaja Ana hoy? На письме знак ¿ ставится и в начале. Короткий ответ: Sí. / No, no… (первое no — «нет», второе — «не»).",
+      "en": "A yes / no question is the statement with rising intonation; the subject can stay or move after the verb. Write ¿ at the start too. Short answers: Sí. / No, no… (the first no = “no”, the second = “not”).",
+      "es": "Pregunta = afirmación con entonación ascendente; ¿ al principio. Respuesta: Sí. / No, no…"
+    },
+    "formula": "¿ + утверждение + ? (интонация вверх)",
+    "table": {
+      "head": [
+        "",
+        "утверждение",
+        "вопрос",
+        "краткий ответ"
+      ],
+      "rows": [
+        [
+          "ты говоришь",
+          "Hablas inglés.",
+          "¿Hablas inglés?",
+          "Sí, hablo. / No, no hablo."
+        ],
+        [
+          "есть",
+          "Hay wifi.",
+          "¿Hay wifi?",
+          "Sí, hay. / No, no hay."
+        ],
+        [
+          "он здесь",
+          "Pablo está aquí.",
+          "¿Está Pablo aquí?",
+          "Sí, está. / No, no está."
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-09",
+      "formula": "Do you…? Is it…?",
+      "examples": [
+        {
+          "en": "Do you speak English? — Yes, I do.",
+          "ru": "Ты говоришь по-английски? — Да."
+        }
+      ],
+      "note": {
+        "ru": "в английском вопрос строится вспомогательным глаголом, в испанском — только интонацией"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Tienes una reserva.",
+      "into": [
+        {
+          "form": "question",
+          "answer": [
+            "¿Tienes una reserva?",
+            "¿Tienes reserva?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "es": "El tren sale a las ocho.",
+      "into": [
+        {
+          "form": "question",
+          "answer": [
+            "¿El tren sale a las ocho?",
+            "¿Sale el tren a las ocho?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "¿Necesitas ayuda? — No, no ___.",
+      "options": [
+        "necesito",
+        "necesitas"
+      ],
+      "answer": "necesito",
+      "ru": "Тебе нужна помощь? — Нет, не нужна."
+    },
+    {
+      "type": "choose",
+      "es": "¿Está abierto el museo? — Sí, ___.",
+      "options": [
+        "está",
+        "es",
+        "hay"
+      ],
+      "answer": "está",
+      "ru": "Музей открыт? — Да."
+    },
+    {
+      "type": "build",
+      "es": "¿Hay una farmacia cerca?",
+      "ru": "Рядом есть аптека?",
+      "extra": [
+        "está"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Задайте три вопроса новому коллеге (да / нет).",
+        "en": "Ask a new colleague three yes / no questions.",
+        "es": "Haz tres preguntas de sí / no a un compañero nuevo."
+      },
+      "template": "¿…?",
+      "sample": "¿Vives cerca? ¿Hablas inglés? ¿Tienes coche?"
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

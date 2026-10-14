@@ -1,0 +1,181 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-20",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "modals",
+  "code": "ES-20",
+  "order": 20,
+  "level": "A1",
+  "title": {
+    "ru": "Надо, должен: tener que / deber / hay que",
+    "en": "Have to, must: tener que / deber / hay que",
+    "es": "Obligación: tener que / deber / hay que"
+  },
+  "see": [
+    "es-grammar-19",
+    "es-grammar-34"
+  ],
+  "words": [
+    "tener"
+  ],
+  "pattern": [
+    {
+      "es": "Tengo que trabajar mañana.",
+      "ru": "Мне нужно работать завтра."
+    },
+    {
+      "es": "Tenemos que hacer un deploy hoy.",
+      "ru": "Нам нужно сделать деплой сегодня."
+    },
+    {
+      "es": "Debes descansar más.",
+      "ru": "Тебе следует больше отдыхать."
+    },
+    {
+      "es": "Hay que pagar en efectivo.",
+      "ru": "Платить нужно наличными."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "tener que — «нужно, приходится» (обстоятельства): tengo que ir. deber — «должен, следует» (совет, моральный долг): debes descansar. hay que — безлично «надо (всем)»: hay que esperar. Отрицание: no tengo que — «не обязательно», no debes — «не следует, нельзя».",
+      "en": "tener que = have to (circumstances): tengo que ir. deber = must / should (advice, duty). hay que = impersonal “one has to”. Negative: no tengo que = don't have to; no debes = mustn't / shouldn't.",
+      "es": "tener que: necesidad; deber: deber moral o consejo; hay que: impersonal. No tener que ≠ no deber."
+    },
+    "formula": "tener que + инф. · deber + инф. · hay que + инф. (безлично)",
+    "table": {
+      "head": [
+        "конструкция",
+        "смысл",
+        "отрицание"
+      ],
+      "rows": [
+        [
+          "tener que + инф.",
+          "нужно, приходится",
+          "no tengo que = не обязательно"
+        ],
+        [
+          "deber + инф.",
+          "должен, следует",
+          "no debes = не следует"
+        ],
+        [
+          "hay que + инф.",
+          "надо (всем, вообще)",
+          "no hay que = не нужно"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "now",
+        "until": "future",
+        "label": {
+          "ru": "обязанность сейчас или впереди",
+          "en": "an obligation now or ahead",
+          "es": "una obligación ahora o más adelante"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-23",
+      "formula": "have to / must / don't have to",
+      "examples": [
+        {
+          "en": "I have to work tomorrow.",
+          "ru": "Мне нужно работать завтра."
+        }
+      ],
+      "note": {
+        "ru": "почти 1:1; don't have to = no tengo que — «не обязательно», а не «нельзя»"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Tengo que trabajar hoy.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": "No tengo que trabajar hoy."
+        },
+        {
+          "form": "question",
+          "answer": "¿Tengo que trabajar hoy?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "Nosotros ___ que salir a las ocho.",
+      "options": [
+        "tengo",
+        "tenemos",
+        "tienen"
+      ],
+      "answer": "tenemos",
+      "ru": "Нам нужно выйти в восемь."
+    },
+    {
+      "type": "choose",
+      "es": "Para entrar ___ mostrar el pasaporte.",
+      "options": [
+        "hay que",
+        "tengo"
+      ],
+      "answer": "hay que",
+      "ru": "Чтобы войти, надо показать паспорт."
+    },
+    {
+      "type": "choose",
+      "es": "No ___ fumar aquí.",
+      "options": [
+        "debes",
+        "tienes"
+      ],
+      "answer": "debes",
+      "ru": "Здесь не следует курить."
+    },
+    {
+      "type": "fill",
+      "es": "¿___ que pagar ahora?",
+      "answer": [
+        "Tengo",
+        "Tenemos",
+        "Tienes"
+      ],
+      "ru": "Нужно платить сейчас?"
+    },
+    {
+      "type": "build",
+      "es": "Tenemos que hacer un deploy hoy.",
+      "ru": "Нам нужно сделать деплой сегодня.",
+      "extra": [
+        "tiene"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вам нужно сделать завтра.",
+        "en": "Write what you have to do tomorrow.",
+        "es": "Escribe qué tienes que hacer mañana."
+      },
+      "template": "Mañana tengo que …",
+      "sample": [
+        "Mañana tengo que ir al aeropuerto.",
+        "Mañana tengo que trabajar."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

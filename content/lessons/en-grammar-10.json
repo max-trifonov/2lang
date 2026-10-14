@@ -1,0 +1,184 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-10",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "EN-10",
+  "order": 10,
+  "level": "A1",
+  "title": {
+    "ru": "Специальные вопросы и вопрос к подлежащему",
+    "en": "Wh-questions and subject questions",
+    "es": "Preguntas con interrogativos"
+  },
+  "see": [
+    "en-grammar-09",
+    "en-grammar-20"
+  ],
+  "pattern": [
+    {
+      "en": "Where do you live?",
+      "ru": "Где ты живёшь?"
+    },
+    {
+      "en": "What time does the meeting start?",
+      "ru": "Во сколько начинается совещание?"
+    },
+    {
+      "en": "How much is this?",
+      "ru": "Сколько это стоит?"
+    },
+    {
+      "en": "Who called you?",
+      "ru": "Кто тебе звонил?"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Вопросительное слово ставится в начало, дальше — как в общем вопросе: Where do you live? When is the flight? Если спрашиваем о самом подлежащем (кто? что?), do не нужен и порядок прямой: Who called? What happened? How much — неисчисляемое и цена, how many — количество штук. Предлог часто в конце: Who are you talking to?",
+      "en": "The question word goes first, then the yes / no question order: Where do you live? When is the flight? When asking about the subject (who? what?), there is no do: Who called? What happened? how much for uncountables and prices, how many for countables. Prepositions often go last.",
+      "es": "Interrogativo + auxiliar + sujeto + verbo. Preguntas de sujeto sin do: Who called?"
+    },
+    "formula": "Wh- + вспомогательный + подлежащее + глагол? · Who / What + глагол? (к подлежащему)",
+    "table": {
+      "head": [
+        "слово",
+        "значение",
+        "пример"
+      ],
+      "rows": [
+        [
+          "what / what time",
+          "что / во сколько",
+          "What time is it?"
+        ],
+        [
+          "where",
+          "где, куда",
+          "Where are you?"
+        ],
+        [
+          "when",
+          "когда",
+          "When does it start?"
+        ],
+        [
+          "why",
+          "почему",
+          "Why are you late?"
+        ],
+        [
+          "how / how much / how many",
+          "как / сколько",
+          "How many days?"
+        ],
+        [
+          "who / which",
+          "кто / который",
+          "Which one do you want?"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-12",
+      "formula": "qué, dónde, cuándo, cómo, cuánto",
+      "examples": [
+        {
+          "es": "¿Dónde vives?",
+          "ru": "Где ты живёшь?"
+        }
+      ],
+      "note": {
+        "ru": "в испанском нет вспомогательного do: ¿Dónde vives?"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "She works in a bank.",
+      "into": [
+        {
+          "form": "wh-question",
+          "answer": "Where does she work?"
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "The flight leaves at six.",
+      "into": [
+        {
+          "form": "wh-question",
+          "answer": [
+            "When does the flight leave?",
+            "What time does the flight leave?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "___ does the ticket cost?",
+      "options": [
+        "How much",
+        "How many"
+      ],
+      "answer": "How much",
+      "ru": "Сколько стоит билет?"
+    },
+    {
+      "type": "choose",
+      "en": "Who ___ the report?",
+      "options": [
+        "wrote",
+        "did write"
+      ],
+      "answer": "wrote",
+      "ru": "Кто написал отчёт?"
+    },
+    {
+      "type": "choose",
+      "en": "___ are you late? — Because of the traffic.",
+      "options": [
+        "Why",
+        "What",
+        "Where"
+      ],
+      "answer": "Why",
+      "ru": "Почему ты опоздал? — Из-за пробок."
+    },
+    {
+      "type": "fill",
+      "en": "Where ___ you work?",
+      "answer": "do",
+      "ru": "Где ты работаешь?"
+    },
+    {
+      "type": "build",
+      "en": "What time does the museum open?",
+      "ru": "Во сколько открывается музей?",
+      "extra": [
+        "do"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Задайте три вопроса администратору отеля.",
+        "en": "Ask the hotel receptionist three questions.",
+        "es": "Haz tres preguntas al recepcionista del hotel."
+      },
+      "template": "Where …? What time …? How much …?",
+      "sample": "Where is the lift? What time is breakfast? How much is a taxi to the airport?"
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

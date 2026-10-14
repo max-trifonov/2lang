@@ -69,6 +69,10 @@
       ]
     }
   ],
+  "see": [
+    "es-grammar-31",
+    "es-grammar-04"
+  ],
   "ext": {
     "draft": true
   }

@@ -1,0 +1,192 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-30",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "ES-30",
+  "order": 30,
+  "level": "A2",
+  "title": {
+    "ru": "Pretérito indefinido: правильные глаголы",
+    "en": "Preterite: regular verbs",
+    "es": "Pretérito indefinido: verbos regulares"
+  },
+  "see": [
+    "es-grammar-27",
+    "es-grammar-31"
+  ],
+  "pattern": [
+    {
+      "es": "Ayer trabajé hasta las ocho.",
+      "ru": "Вчера я работал до восьми."
+    },
+    {
+      "es": "¿Compraste los billetes?",
+      "ru": "Ты купил билеты?"
+    },
+    {
+      "es": "El año pasado viajamos a México.",
+      "ru": "В прошлом году мы ездили в Мексику."
+    },
+    {
+      "es": "Me escribió un correo.",
+      "ru": "Он написал мне письмо."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Законченное действие в прошлом с моментом, который уже прошёл: ayer, la semana pasada, en 2020, hace dos días. Ударение на окончании важно: trabajo («я работаю») ≠ trabajó («он работал»). В «мы» у -ar и -ir форма совпадает с настоящим: hablamos — по контексту.",
+      "en": "A finished action at a past time: ayer, la semana pasada, en 2020, hace dos días. Stress matters: trabajo (I work) ≠ trabajó (he worked). For -ar and -ir, nosotros is the same as present.",
+      "es": "Acción terminada en un tiempo pasado (ayer, el año pasado). trabajo ≠ trabajó."
+    },
+    "formula": "-ar: -é, -aste, -ó, -amos, -asteis, -aron · -er/-ir: -í, -iste, -ió, -imos, -isteis, -ieron",
+    "table": {
+      "head": [
+        "",
+        "trabajar",
+        "comer",
+        "escribir"
+      ],
+      "rows": [
+        [
+          "yo",
+          "trabajé",
+          "comí",
+          "escribí"
+        ],
+        [
+          "tú",
+          "trabajaste",
+          "comiste",
+          "escribiste"
+        ],
+        [
+          "él, ella, usted",
+          "trabajó",
+          "comió",
+          "escribió"
+        ],
+        [
+          "nosotros",
+          "trabajamos",
+          "comimos",
+          "escribimos"
+        ],
+        [
+          "vosotros",
+          "trabajasteis",
+          "comisteis",
+          "escribisteis"
+        ],
+        [
+          "ellos, ustedes",
+          "trabajaron",
+          "comieron",
+          "escribieron"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "past",
+        "label": {
+          "ru": "закончилось в прошлом, момент назван",
+          "en": "finished at a stated past time",
+          "es": "terminó en un momento pasado"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-19",
+      "formula": "Past Simple: worked, wrote",
+      "examples": [
+        {
+          "en": "Yesterday I worked until eight.",
+          "ru": "Вчера я работал до восьми."
+        }
+      ],
+      "note": {
+        "ru": "Past Simple ≈ indefinido; Present Perfect ≈ perfecto"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Compro un regalo.",
+      "into": [
+        {
+          "form": "past",
+          "answer": "Compré un regalo."
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "es": "Llegaste tarde.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": "No llegaste tarde."
+        },
+        {
+          "form": "question",
+          "answer": "¿Llegaste tarde?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "Ayer ___ con el cliente.",
+      "options": [
+        "hablé",
+        "he hablado",
+        "hablo"
+      ],
+      "answer": "hablé",
+      "ru": "Вчера я говорил с клиентом."
+    },
+    {
+      "type": "choose",
+      "es": "¿Dónde ___ tus vacaciones?",
+      "options": [
+        "pasaste",
+        "pasó"
+      ],
+      "answer": "pasaste",
+      "ru": "Где ты провёл отпуск?"
+    },
+    {
+      "type": "fill",
+      "es": "Ellos ___ en un restaurante italiano. (comer, ayer)",
+      "answer": "comieron",
+      "ru": "Они ели в итальянском ресторане."
+    },
+    {
+      "type": "build",
+      "es": "La semana pasada terminamos el proyecto.",
+      "ru": "На прошлой неделе мы закончили проект.",
+      "extra": [
+        "terminé"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы делали вчера.",
+        "en": "Write what you did yesterday.",
+        "es": "Escribe qué hiciste ayer."
+      },
+      "template": "Ayer …",
+      "sample": "Ayer trabajé mucho y cené con mis amigos."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -9,7 +9,8 @@
 #   fill: предложение с ___ | ответ[/вариант] | ru
 #   build: предложение | ru | лишний,блок
 #   tr: ru | ответ / ответ
-# Запуск: python3 content/drafts/lessons/gen.py   (перезаписывает только уроки из описаний).
+# Запуск: python3 content/drafts/lessons/gen.py   (перезаписывает только уроки из описаний;
+# затем пересчитывает отсылки уроков слов к правилам — grammar/link.py, D-38).
 import json, os, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -85,6 +86,10 @@ def main():
                 f.write(json.dumps(data, ensure_ascii=False, indent=2) + '\n')
             n += 1
     print(f'уроков записано: {n}')
+    # Отсылки к правилам (`see`) генерируются — перезапись урока их стёрла бы.
+    sys.path.insert(0, os.path.join(HERE, '..', 'grammar'))
+    import link
+    link.main()
 
 if __name__ == '__main__':
     main()

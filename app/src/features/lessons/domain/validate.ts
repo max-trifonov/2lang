@@ -14,6 +14,7 @@ import {
   AUDIO_RE,
   EXERCISE_TYPES,
   GAP,
+  GRAMMAR_SECTIONS,
   LESSON_KINDS,
   TIME_POINTS,
   TRANSFORM_FORMS,
@@ -38,12 +39,12 @@ const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']
 /** Тема программы курса: ES-P3, EN-7. */
 const CODE_RE = /^[A-Z]{2}-[A-Z]?\d+$/
 const HEAD_REQUIRED = ['format', 'version', 'id', 'lang', 'kind', 'order', 'title']
-const HEAD_KEYS = [...HEAD_REQUIRED, 'topic', 'code', 'requires', 'level', 'ext']
+const HEAD_KEYS = [...HEAD_REQUIRED, 'topic', 'code', 'requires', 'level', 'see', 'ext']
 const WORDS_REQUIRED = ['words', 'phrase']
 const BODY_KEYS: Record<LessonKind, readonly string[]> = {
   words: [...WORDS_REQUIRED, 'rule', 'exercises'],
   sound: ['letters', 'rules', 'exercises'],
-  grammar: ['words', 'pattern', 'rule', 'bridge', 'exercises'],
+  grammar: ['section', 'words', 'pattern', 'rule', 'bridge', 'exercises'],
 }
 const PHRASE_KEYS = new Set(['note', 'ext'])
 const RULE_KEYS = new Set(['text', 'examples', 'ext'])
@@ -61,7 +62,7 @@ const TRANSFORM_KEYS = new Set(['form', 'answer'])
 const GRAMMAR_RULE_KEYS = new Set(['text', 'formula', 'table', 'timeline', 'ext'])
 const TABLE_KEYS = new Set(['head', 'rows'])
 const TIMELINE_KEYS = new Set(['from', 'until', 'label'])
-const BRIDGE_KEYS = new Set(['lang', 'formula', 'examples', 'note', 'ext'])
+const BRIDGE_KEYS = new Set(['lang', 'lesson', 'formula', 'examples', 'note', 'ext'])
 const PATTERN_MIN = 3
 const PATTERN_MAX = 4
 const SOUND_EXERCISE_KEYS = new Set(['type', 'items', 'ext'])
@@ -117,6 +118,7 @@ class LessonValidator extends Checker {
     if ('level' in raw) this.oneOf(raw.level, 'level', LEVELS)
     if ('ext' in raw) this.type(raw.ext, 'ext', 'object')
     if ('requires' in raw) this.requires(raw.requires, raw.id)
+    if ('see' in raw) this.see(raw.see, raw.id)
     if (kind === 'words') this.words(raw)
     if (kind === 'sound') this.sound(raw)
     if (kind === 'grammar') this.grammar(raw)
@@ -126,6 +128,18 @@ class LessonValidator extends Checker {
     this.list(value, 'requires')?.forEach((id, i) => {
       const path = join('requires', i)
       if (this.slug(id, path) && id === self) this.error('self_require', path)
+    })
+  }
+
+  /** Отсылки к правилам (D-38): slug-и без повторов и без самого урока. */
+  private see(value: unknown, self: unknown): void {
+    const seen = new Set<unknown>()
+    this.list(value, 'see')?.forEach((id, i) => {
+      const path = join('see', i)
+      if (!this.slug(id, path)) return
+      if (id === self) this.error('self_require', path)
+      else if (seen.has(id)) this.error('duplicate_id', path, { id: id as string, other: 'see' })
+      seen.add(id)
     })
   }
 
@@ -280,6 +294,7 @@ class LessonValidator extends Checker {
 
   private grammar(raw: Obj): void {
     this.required(raw, '', ['pattern', 'rule'])
+    if ('section' in raw) this.oneOf(raw.section, 'section', GRAMMAR_SECTIONS)
     if ('words' in raw) {
       const seen = new Set<string>()
       this.list(raw.words, 'words')?.forEach((w, i) => {
@@ -362,6 +377,7 @@ class LessonValidator extends Checker {
     this.required(b, path, ['lang'])
     if ('formula' in b) this.nonEmpty(b.formula, join(path, 'formula'))
     if ('note' in b) this.localized(b.note, join(path, 'note'))
+    if ('lesson' in b) this.slug(b.lesson, join(path, 'lesson'))
     if ('ext' in b) this.type(b.ext, join(path, 'ext'), 'object')
     if (!('lang' in b) || !this.langCode(b.lang, join(path, 'lang'))) return
     const lang = b.lang as string
@@ -516,6 +532,7 @@ export function validateLessonSet(
   const entries = new Map<string, Entry>()
   for (const d of dictionaries) for (const e of d.entries) entries.set(`${d.lang}:${e.id}`, e)
   const ids = new Set(lessons.map((l) => l.lesson.id))
+  const byId = new Map(lessons.map((l) => [l.lesson.id, l.lesson]))
   const seenIds = new Map<string, string>()
   const orders = new Map<string, string>()
   const ruleIds = new Map<string, string>()
@@ -542,6 +559,22 @@ export function validateLessonSet(
     lesson.requires?.forEach((id, i) => {
       if (!ids.has(id)) err('unknown_lesson', join('requires', i), { id })
     })
+    // Отсылки к правилам (D-38): урок того же языка; мост — урок грамматики языка моста.
+    lesson.see?.forEach((id, i) => {
+      const target = byId.get(id)
+      if (!target) err('unknown_lesson', join('see', i), { id })
+      else if (target.lang !== lesson.lang)
+        err('bad_ref', join('see', i), { id, kind: target.kind, lang: lesson.lang })
+    })
+    if (lesson.kind === 'grammar')
+      lesson.bridge?.forEach((b, i) => {
+        if (!b.lesson) return
+        const path = join(join('bridge', i), 'lesson')
+        const target = byId.get(b.lesson)
+        if (!target) err('unknown_lesson', path, { id: b.lesson })
+        else if (target.kind !== 'grammar' || target.lang !== b.lang)
+          err('bad_ref', path, { id: b.lesson, kind: 'grammar', lang: b.lang })
+      })
 
     if (lesson.kind === 'sound') {
       lesson.rules?.forEach((rule, i) => {

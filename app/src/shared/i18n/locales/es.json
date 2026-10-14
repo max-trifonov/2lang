@@ -32,7 +32,8 @@
       "start": "Empezar",
       "allDone": "Todas las lecciones completadas: pronto habrá más",
       "none": "Aún no hay lecciones",
-      "next": "Siguiente lección"
+      "next": "Siguiente lección",
+      "nextGrammar": "Siguiente tema de gramática"
     },
     "placement": {
       "title": "Prueba rápida de palabras",
@@ -266,6 +267,7 @@
       "answer_not_in_options": "La respuesta «{answer}» no está entre las opciones",
       "duplicate_option": "La opción «{option}» se repite",
       "options_count": "Hacen falta al menos {min} opciones",
+      "bad_ref": "La referencia «{id}» debe llevar a una lección {kind} en {lang}",
       "pattern_size": "El patrón tiene {count} ejemplos, se recomiendan de {min} a {max}"
     },
     "type": {
@@ -340,7 +342,8 @@
         "phrase": "expresión"
       },
       "reading": "Cómo se lee",
-      "topicCode": "tema {code}"
+      "topicCode": "tema {code}",
+      "grammar": "Gramática"
     },
     "known": "conocida",
     "knownCount": "{n} conocidas",
@@ -372,7 +375,10 @@
       "translate": "Traduce",
       "answer": "Tu respuesta",
       "reset": "Borrar",
-      "again": "Otra vez"
+      "again": "Otra vez",
+      "choose": "Elige la forma correcta",
+      "transform": "Transforma la frase",
+      "compose": "Tu propia frase"
     },
     "feedback": {
       "correct": "¡Correcto!",
@@ -401,6 +407,34 @@
         "read": "Lee la palabra",
         "dictation": "Escribe la palabra que oyes",
         "spell": "Deletréala"
+      }
+    },
+    "grammar": {
+      "pattern": "Mira los ejemplos",
+      "patternHint": "Fíjate en lo que se repite: la regla está en la siguiente pantalla.",
+      "rule": "Regla",
+      "bridge": "Puente: el otro idioma",
+      "bridgeRule": "Regla en el otro idioma",
+      "summary": "¡Tema superado!",
+      "toHandbook": "Regla en la guía",
+      "see": "Reglas relacionadas",
+      "more": "Más sobre la regla",
+      "yours": "Tu frase",
+      "sample": "Ejemplo:",
+      "showSample": "Comparar con el ejemplo",
+      "form": {
+        "negative": "Pon la frase en negativa",
+        "question": "Haz una pregunta de sí / no",
+        "wh-question": "Haz una pregunta con interrogativo",
+        "imperative": "Conviértela en orden o instrucción",
+        "polite": "Dilo con más cortesía",
+        "past": "Pásala al pasado",
+        "future": "Pásala al futuro"
+      },
+      "time": {
+        "past": "pasado",
+        "now": "ahora",
+        "future": "futuro"
       }
     }
   },
@@ -432,7 +466,9 @@
       "next": "Siguiente",
       "open": "Abierta"
     },
-    "sound": "Sonidos"
+    "sound": "Sonidos",
+    "grammar": "Gramática",
+    "grammarProgress": "Temas superados: {done} de {total}"
   },
   "review": {
     "title": "Repaso",
@@ -498,5 +534,29 @@
     "freezes": "{n} congelación | {n} congelaciones",
     "keep": "estudia hoy para mantener la racha",
     "phrase": "Frase del día"
+  },
+  "rules": {
+    "title": "Guía de gramática",
+    "notFound": "Regla no encontrada",
+    "toIndex": "A la guía",
+    "examples": "Ejemplos",
+    "usedIn": "Aparece en las lecciones",
+    "passed": "Lección superada, mejor resultado {n} %",
+    "practice": "Hacer la lección",
+    "practiceAgain": "Practicar de nuevo",
+    "empty": "Aún no hay reglas para este idioma",
+    "progress": "Temas superados: {done} de {total}",
+    "search": "Buscar una regla",
+    "nothing": "No se ha encontrado nada",
+    "section": {
+      "sentence": "La oración y las preguntas",
+      "verbs": "Verbos",
+      "tenses": "Tiempos verbales",
+      "modals": "Modales y cortesía",
+      "nouns": "Sustantivos y artículos",
+      "adjectives": "Adjetivos y adverbios",
+      "pronouns": "Pronombres",
+      "other": "Otros"
+    }
   }
 }

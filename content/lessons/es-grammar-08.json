@@ -1,0 +1,185 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-08",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "ES-8",
+  "order": 8,
+  "level": "A1",
+  "title": {
+    "ru": "Настоящее время: глаголы на -ar",
+    "en": "Present tense: -ar verbs",
+    "es": "Presente: verbos en -ar"
+  },
+  "see": [
+    "es-grammar-01",
+    "es-grammar-09"
+  ],
+  "words": [
+    "trabajar"
+  ],
+  "pattern": [
+    {
+      "es": "Trabajo en una empresa de IT.",
+      "ru": "Я работаю в IT-компании."
+    },
+    {
+      "es": "¿Hablas inglés?",
+      "ru": "Ты говоришь по-английски?"
+    },
+    {
+      "es": "Ana compra los billetes.",
+      "ru": "Ана покупает билеты."
+    },
+    {
+      "es": "Llegamos mañana.",
+      "ru": "Мы приезжаем завтра."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Отбросьте -ar и добавьте окончание лица: hablar → hablo, hablas, habla… Presente — это и «сейчас», и «обычно», и ближайшие планы: Mañana trabajo en casa. Большинство испанских глаголов — на -ar и правильные.",
+      "en": "Drop -ar and add the person ending: hablar → hablo, hablas, habla… The present covers now, habits and near plans: Mañana trabajo en casa.",
+      "es": "Raíz + -o, -as, -a, -amos, -áis, -an. El presente expresa hábitos, el ahora y planes próximos."
+    },
+    "formula": "основа + -o, -as, -a, -amos, -áis, -an",
+    "table": {
+      "head": [
+        "",
+        "hablar",
+        "trabajar"
+      ],
+      "rows": [
+        [
+          "yo",
+          "hablo",
+          "trabajo"
+        ],
+        [
+          "tú",
+          "hablas",
+          "trabajas"
+        ],
+        [
+          "él, ella, usted",
+          "habla",
+          "trabaja"
+        ],
+        [
+          "nosotros",
+          "hablamos",
+          "trabajamos"
+        ],
+        [
+          "vosotros",
+          "habláis",
+          "trabajáis"
+        ],
+        [
+          "ellos, ustedes",
+          "hablan",
+          "trabajan"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "now",
+        "label": {
+          "ru": "сейчас и обычно",
+          "en": "now and usually",
+          "es": "ahora y habitualmente"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-07",
+      "formula": "Present Simple: I work, he works",
+      "examples": [
+        {
+          "en": "I work in an IT company.",
+          "ru": "Я работаю в IT-компании."
+        }
+      ],
+      "note": {
+        "ru": "в английском окончание только у he / she / it (-s)"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Trabajas los sábados.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": "No trabajas los sábados."
+        },
+        {
+          "form": "question",
+          "answer": "¿Trabajas los sábados?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "Nosotros ___ en el centro.",
+      "options": [
+        "trabajo",
+        "trabajamos",
+        "trabajan"
+      ],
+      "answer": "trabajamos",
+      "ru": "Мы работаем в центре."
+    },
+    {
+      "type": "choose",
+      "es": "¿Usted ___ con tarjeta?",
+      "options": [
+        "paga",
+        "pagas",
+        "pago"
+      ],
+      "answer": "paga",
+      "ru": "Вы платите картой?"
+    },
+    {
+      "type": "fill",
+      "es": "Mis amigos ___ el tren de las ocho. (tomar)",
+      "answer": "toman",
+      "ru": "Мои друзья едут на восьмичасовом поезде."
+    },
+    {
+      "type": "fill",
+      "es": "Yo ___ español y ruso. (hablar)",
+      "answer": "hablo",
+      "ru": "Я говорю по-испански и по-русски."
+    },
+    {
+      "type": "build",
+      "es": "Los clientes llaman por la mañana.",
+      "ru": "Клиенты звонят по утрам.",
+      "extra": [
+        "llamas"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите два предложения о своём рабочем дне (-ar глаголы).",
+        "en": "Write two sentences about your workday (-ar verbs).",
+        "es": "Escribe dos frases sobre tu día de trabajo (verbos en -ar)."
+      },
+      "template": "Trabajo … Hablo …",
+      "sample": "Trabajo en casa. Hablo con clientes."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-12",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "ES-12",
+  "order": 12,
+  "level": "A1",
+  "title": {
+    "ru": "Вопросительные слова: qué, dónde, cuándo, cómo…",
+    "en": "Question words: qué, dónde, cuándo, cómo…",
+    "es": "Interrogativos: qué, dónde, cuándo, cómo…"
+  },
+  "see": [
+    "es-grammar-11",
+    "es-grammar-32"
+  ],
+  "pattern": [
+    {
+      "es": "¿Dónde está la estación?",
+      "ru": "Где вокзал?"
+    },
+    {
+      "es": "¿Cuándo empieza la reunión?",
+      "ru": "Когда начинается совещание?"
+    },
+    {
+      "es": "¿Cuánto cuesta el billete?",
+      "ru": "Сколько стоит билет?"
+    },
+    {
+      "es": "¿Por qué no funciona? — Porque hay un error.",
+      "ru": "Почему не работает? — Потому что есть ошибка."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Вопросительное слово — в начале, у всех есть ударение: qué, dónde, cuándo. Подлежащее обычно после глагола: ¿Dónde vive Ana? cuánto согласуется: cuánta agua, cuántos días. ¿Por qué? — «почему?», ответ — porque. ¿Cuál? — «который из»; перед существительным — qué: ¿Qué hotel?",
+      "en": "The question word comes first and always has an accent: qué, dónde, cuándo. The subject usually follows the verb: ¿Dónde vive Ana? cuánto agrees: cuánta agua, cuántos días. ¿Por qué? “why?” — answer porque. ¿Cuál? = which one; before a noun use qué.",
+      "es": "Interrogativo con tilde + verbo + sujeto. cuánto concuerda. ¿Por qué? / porque. cuál / qué + sustantivo."
+    },
+    "formula": "¿ + вопросительное слово + глагол + (подлежащее)?",
+    "table": {
+      "head": [
+        "вопрос",
+        "значение",
+        "пример"
+      ],
+      "rows": [
+        [
+          "qué",
+          "что, какой",
+          "¿Qué haces?"
+        ],
+        [
+          "dónde, adónde",
+          "где, куда",
+          "¿Adónde vas?"
+        ],
+        [
+          "cuándo",
+          "когда",
+          "¿Cuándo llegas?"
+        ],
+        [
+          "cómo",
+          "как",
+          "¿Cómo estás?"
+        ],
+        [
+          "cuánto, cuánta, cuántos, cuántas",
+          "сколько",
+          "¿Cuántos días?"
+        ],
+        [
+          "quién, quiénes",
+          "кто",
+          "¿Quién es?"
+        ],
+        [
+          "por qué",
+          "почему",
+          "¿Por qué no vienes?"
+        ],
+        [
+          "cuál, cuáles",
+          "который",
+          "¿Cuál prefieres?"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-10",
+      "formula": "what, where, when, how, how much, who, why, which",
+      "examples": [
+        {
+          "en": "Where is the station?",
+          "ru": "Где вокзал?"
+        }
+      ],
+      "note": {
+        "ru": "в английском после вопроса нужен do / does: Where do you live?"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Vives en Valencia.",
+      "into": [
+        {
+          "form": "wh-question",
+          "answer": "¿Dónde vives?"
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "es": "El tren sale a las ocho.",
+      "into": [
+        {
+          "form": "wh-question",
+          "answer": [
+            "¿Cuándo sale el tren?",
+            "¿A qué hora sale el tren?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "¿___ cuesta la habitación?",
+      "options": [
+        "Cuánto",
+        "Cuándo",
+        "Cómo"
+      ],
+      "answer": "Cuánto",
+      "ru": "Сколько стоит номер?"
+    },
+    {
+      "type": "choose",
+      "es": "¿___ maletas tienes?",
+      "options": [
+        "Cuántos",
+        "Cuántas"
+      ],
+      "answer": "Cuántas",
+      "ru": "Сколько у тебя чемоданов?"
+    },
+    {
+      "type": "choose",
+      "es": "¿___ es tu jefe?",
+      "options": [
+        "Quién",
+        "Qué",
+        "Dónde"
+      ],
+      "answer": "Quién",
+      "ru": "Кто твой начальник?"
+    },
+    {
+      "type": "fill",
+      "es": "¿___ no vienes? — Porque estoy cansado.",
+      "answer": "Por qué",
+      "ru": "Почему ты не идёшь? — Потому что устал."
+    },
+    {
+      "type": "build",
+      "es": "¿A qué hora empieza la película?",
+      "ru": "Во сколько начинается фильм?",
+      "extra": [
+        "Cuándo"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Задайте три вопроса администратору отеля.",
+        "en": "Ask the hotel receptionist three questions.",
+        "es": "Haz tres preguntas al recepcionista del hotel."
+      },
+      "template": "¿…?",
+      "sample": "¿Dónde está el ascensor? ¿A qué hora es el desayuno? ¿Cuánto cuesta el taxi?"
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

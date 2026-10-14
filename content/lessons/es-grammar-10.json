@@ -1,0 +1,163 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-10",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "ES-10",
+  "order": 10,
+  "level": "A1",
+  "title": {
+    "ru": "Отрицание: no, nada, nunca, nadie",
+    "en": "Negation: no, nada, nunca, nadie",
+    "es": "La negación: no, nada, nunca, nadie"
+  },
+  "see": [
+    "es-grammar-11",
+    "es-grammar-01"
+  ],
+  "pattern": [
+    {
+      "es": "No hablo alemán.",
+      "ru": "Я не говорю по-немецки."
+    },
+    {
+      "es": "No tengo nada.",
+      "ru": "У меня ничего нет."
+    },
+    {
+      "es": "Nunca trabajo los domingos.",
+      "ru": "Я никогда не работаю по воскресеньям."
+    },
+    {
+      "es": "No hay nadie en la oficina.",
+      "ru": "В офисе никого нет."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "no ставится прямо перед глаголом (и перед местоимением при нём: no lo sé). Двойное отрицание, как в русском, — норма: No veo nada («не вижу ничего»). Если nunca, nadie, nada стоят перед глаголом, no не нужно: Nunca trabajo los domingos. «Тоже нет» — tampoco.",
+      "en": "no goes right before the verb (and before pronouns: no lo sé). Double negation is correct, as in Russian: No veo nada. If nunca, nadie, nada come before the verb, drop no: Nunca trabajo. “Not either” = tampoco.",
+      "es": "no + verbo. Doble negación: No veo nada. Nunca, nadie, nada delante del verbo: sin no. tampoco."
+    },
+    "formula": "no + глагол · no + глагол + nada / nadie / nunca",
+    "table": {
+      "head": [
+        "",
+        "после глагола",
+        "перед глаголом"
+      ],
+      "rows": [
+        [
+          "никогда",
+          "No trabajo nunca.",
+          "Nunca trabajo."
+        ],
+        [
+          "никто",
+          "No viene nadie.",
+          "Nadie viene."
+        ],
+        [
+          "ничего",
+          "No pasa nada.",
+          "Nada pasa."
+        ],
+        [
+          "тоже нет",
+          "No voy tampoco.",
+          "Yo tampoco voy."
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-08",
+      "formula": "don't / doesn't + V",
+      "examples": [
+        {
+          "en": "I don't speak German.",
+          "ru": "Я не говорю по-немецки."
+        }
+      ],
+      "note": {
+        "ru": "в английском двойное отрицание невозможно: I don't see anything"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Tengo tiempo.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": "No tengo tiempo."
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "es": "El cliente llama hoy.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": "El cliente no llama hoy."
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "No veo ___.",
+      "options": [
+        "algo",
+        "nada"
+      ],
+      "answer": "nada",
+      "ru": "Я ничего не вижу."
+    },
+    {
+      "type": "choose",
+      "es": "___ viene a la reunión.",
+      "options": [
+        "Nadie",
+        "No nadie"
+      ],
+      "answer": "Nadie",
+      "ru": "Никто не приходит на совещание."
+    },
+    {
+      "type": "fill",
+      "es": "Yo ___ entiendo el problema.",
+      "answer": "no",
+      "ru": "Я не понимаю проблему."
+    },
+    {
+      "type": "build",
+      "es": "No hay nadie en casa.",
+      "ru": "Дома никого нет.",
+      "extra": [
+        "nada"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, чего вы никогда не делаете.",
+        "en": "Write what you never do.",
+        "es": "Escribe qué no haces nunca."
+      },
+      "template": "Nunca …",
+      "sample": [
+        "Nunca trabajo los domingos.",
+        "No como carne nunca."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

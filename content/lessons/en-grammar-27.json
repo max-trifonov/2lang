@@ -1,0 +1,153 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-27",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "adjectives",
+  "code": "EN-27",
+  "order": 27,
+  "level": "A2",
+  "title": {
+    "ru": "Сравнения: bigger, more expensive, the best",
+    "en": "Comparatives and superlatives",
+    "es": "Comparativos y superlativos en inglés"
+  },
+  "see": [
+    "en-grammar-11",
+    "en-grammar-16"
+  ],
+  "pattern": [
+    {
+      "en": "The train is faster than the bus.",
+      "ru": "Поезд быстрее автобуса."
+    },
+    {
+      "en": "This hotel is more expensive than that one.",
+      "ru": "Этот отель дороже того."
+    },
+    {
+      "en": "It's the best café in town.",
+      "ru": "Это лучшее кафе в городе."
+    },
+    {
+      "en": "My flat is as big as yours.",
+      "ru": "Моя квартира такая же большая, как твоя."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Короткие прилагательные (1 слог и на -y): +er / the +est: cheap → cheaper → the cheapest, easy → easier → the easiest, big → bigger. Длинные: more / the most: more interesting. Особые: good → better → the best, bad → worse → the worst, far → further. «Такой же… как» — as … as, «не такой… как» — not as … as.",
+      "en": "Short adjectives: +er / the +est (cheaper, the cheapest, easier, bigger). Long ones: more / the most. Irregular: better / best, worse / worst, further. as … as, not as … as.",
+      "es": "-er / the -est; more / the most; good → better → best; as … as."
+    },
+    "formula": "короткие: -er than, the -est · длинные: more … than, the most … · as … as",
+    "table": {
+      "head": [
+        "",
+        "сравнительная",
+        "превосходная"
+      ],
+      "rows": [
+        [
+          "cheap",
+          "cheaper",
+          "the cheapest"
+        ],
+        [
+          "big, easy",
+          "bigger, easier",
+          "the biggest, the easiest"
+        ],
+        [
+          "expensive",
+          "more expensive",
+          "the most expensive"
+        ],
+        [
+          "good, bad",
+          "better, worse",
+          "the best, the worst"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-29",
+      "formula": "más … que, el más",
+      "examples": [
+        {
+          "es": "El tren es más rápido que el autobús.",
+          "ru": "Поезд быстрее автобуса."
+        }
+      ],
+      "note": {
+        "ru": "в испанском всегда más — без окончаний"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "My new laptop is ___ than the old one.",
+      "options": [
+        "fast",
+        "faster",
+        "more fast"
+      ],
+      "answer": "faster",
+      "ru": "Мой новый ноутбук быстрее старого."
+    },
+    {
+      "type": "choose",
+      "en": "This is the ___ film I've ever seen.",
+      "options": [
+        "bad",
+        "worse",
+        "worst"
+      ],
+      "answer": "worst",
+      "ru": "Это худший фильм, что я видел."
+    },
+    {
+      "type": "choose",
+      "en": "London is ___ expensive than Madrid.",
+      "options": [
+        "more",
+        "most",
+        "-er"
+      ],
+      "answer": "more",
+      "ru": "Лондон дороже Мадрида."
+    },
+    {
+      "type": "fill",
+      "en": "Today is ___ than yesterday. (hot)",
+      "answer": "hotter",
+      "ru": "Сегодня жарче, чем вчера."
+    },
+    {
+      "type": "build",
+      "en": "Your English is better than mine.",
+      "ru": "Твой английский лучше моего.",
+      "extra": [
+        "good"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Сравните два города, которые вы знаете.",
+        "en": "Compare two cities you know.",
+        "es": "Compara dos ciudades que conoces."
+      },
+      "template": "… is …er than …",
+      "sample": "Moscow is bigger than Kazan, but Kazan is quieter."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

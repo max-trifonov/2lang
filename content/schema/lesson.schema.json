@@ -68,6 +68,14 @@
         "C2"
       ]
     },
+    "see": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      }
+    },
     "ext": {
       "type": "object"
     },
@@ -133,6 +141,17 @@
       "items": {
         "$ref": "#/$defs/bridge"
       }
+    },
+    "section": {
+      "enum": [
+        "sentence",
+        "verbs",
+        "tenses",
+        "modals",
+        "nouns",
+        "adjectives",
+        "pronouns"
+      ]
     }
   },
   "allOf": [
@@ -183,7 +202,8 @@
             }
           },
           "pattern": false,
-          "bridge": false
+          "bridge": false,
+          "section": false
         }
       }
     },
@@ -226,7 +246,8 @@
           "phrase": false,
           "rule": false,
           "pattern": false,
-          "bridge": false
+          "bridge": false,
+          "section": false
         }
       }
     },
@@ -589,6 +610,10 @@
         "lang": {
           "type": "string",
           "pattern": "^[a-z]{2}$"
+        },
+        "lesson": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
         },
         "formula": {
           "type": "string",

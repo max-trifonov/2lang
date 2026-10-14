@@ -1,0 +1,160 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-23",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "verbs",
+  "code": "ES-23",
+  "order": 23,
+  "level": "A2",
+  "title": {
+    "ru": "Возвратные глаголы: me llamo, me levanto",
+    "en": "Reflexive verbs: me llamo, me levanto",
+    "es": "Verbos reflexivos: me llamo, me levanto"
+  },
+  "see": [
+    "es-grammar-22",
+    "es-grammar-26"
+  ],
+  "pattern": [
+    {
+      "es": "Me llamo Pablo.",
+      "ru": "Меня зовут Пабло."
+    },
+    {
+      "es": "Me levanto a las siete.",
+      "ru": "Я встаю в семь."
+    },
+    {
+      "es": "¿Dónde te quedas?",
+      "ru": "Где ты остановился?"
+    },
+    {
+      "es": "Nos vemos mañana.",
+      "ru": "Увидимся завтра."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Возвратный глагол (на -se в словаре: llamarse, levantarse, quedarse) — как русское «-ся»: местоимение стоит перед спрягаемым глаголом и меняется по лицу. С инфинитивом его можно прикрепить в конце: voy a ducharme = me voy a duchar. Часто меняет смысл: ir — «идти», irse — «уходить».",
+      "en": "A reflexive verb (-se in the dictionary) works like Russian «-ся»: the pronoun goes before the conjugated verb and changes with the person. With an infinitive it can attach to the end: voy a ducharme. Often changes meaning: ir → irse (to leave).",
+      "es": "Pronombre reflexivo delante del verbo conjugado o unido al infinitivo. ir / irse."
+    },
+    "formula": "me / te / se / nos / os / se + глагол",
+    "table": {
+      "head": [
+        "",
+        "llamarse",
+        "quedarse"
+      ],
+      "rows": [
+        [
+          "yo",
+          "me llamo",
+          "me quedo"
+        ],
+        [
+          "tú",
+          "te llamas",
+          "te quedas"
+        ],
+        [
+          "él, ella, usted",
+          "se llama",
+          "se queda"
+        ],
+        [
+          "nosotros",
+          "nos llamamos",
+          "nos quedamos"
+        ],
+        [
+          "vosotros",
+          "os llamáis",
+          "os quedáis"
+        ],
+        [
+          "ellos, ustedes",
+          "se llaman",
+          "se quedan"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Te levantas temprano.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": "No te levantas temprano."
+        },
+        {
+          "form": "question",
+          "answer": "¿Te levantas temprano?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "¿Cómo ___ llamas?",
+      "options": [
+        "te",
+        "se",
+        "me"
+      ],
+      "answer": "te",
+      "ru": "Как тебя зовут?"
+    },
+    {
+      "type": "choose",
+      "es": "Mis amigos ___ quedan en un hotel.",
+      "options": [
+        "se",
+        "les",
+        "nos"
+      ],
+      "answer": "se",
+      "ru": "Мои друзья остановились в отеле."
+    },
+    {
+      "type": "choose",
+      "es": "Mañana voy a ___ temprano.",
+      "options": [
+        "levantarme",
+        "me levantar"
+      ],
+      "answer": "levantarme",
+      "ru": "Завтра я встану рано."
+    },
+    {
+      "type": "fill",
+      "es": "Nosotros ___ vamos a las diez. (уходим)",
+      "answer": "nos",
+      "ru": "Мы уходим в десять."
+    },
+    {
+      "type": "build",
+      "es": "Me ducho por la mañana.",
+      "ru": "Я принимаю душ утром.",
+      "extra": [
+        "te"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Опишите своё утро: во сколько встаёте и что делаете.",
+        "en": "Describe your morning: when you get up and what you do.",
+        "es": "Describe tu mañana: a qué hora te levantas y qué haces."
+      },
+      "template": "Me levanto a … Me …",
+      "sample": "Me levanto a las siete. Me ducho y desayuno."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

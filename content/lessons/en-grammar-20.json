@@ -1,0 +1,200 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-20",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "EN-20",
+  "order": 20,
+  "level": "A2",
+  "title": {
+    "ru": "Past Simple: didn't и Did…?",
+    "en": "Past Simple: didn't and Did…?",
+    "es": "Past Simple: didn't y Did…?"
+  },
+  "see": [
+    "en-grammar-19",
+    "en-grammar-08",
+    "en-grammar-09"
+  ],
+  "pattern": [
+    {
+      "en": "I didn't see the message.",
+      "ru": "Я не видел сообщение."
+    },
+    {
+      "en": "Did you enjoy the trip? — Yes, I did.",
+      "ru": "Тебе понравилась поездка? — Да."
+    },
+    {
+      "en": "Where did you go?",
+      "ru": "Куда ты ходил?"
+    },
+    {
+      "en": "She didn't come to the meeting.",
+      "ru": "Она не пришла на совещание."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "В отрицании и вопросе прошедшее «забирает» did, а глагол возвращается в начальную форму: I went → I didn't go (не didn't went), Did you go? Это общий принцип do / does / did. Исключение — be и модальные: I wasn't, Could you…?",
+      "en": "In negatives and questions did carries the past and the verb returns to the base form: I didn't go (not didn't went), Did you go? Except be and modals: I wasn't, Could you…?",
+      "es": "did + verbo base en negación y pregunta (no didn't went)."
+    },
+    "formula": "didn't + V · Did + подлежащее + V? · Wh- + did + подлежащее + V?",
+    "table": {
+      "head": [
+        "",
+        "утверждение",
+        "отрицание",
+        "вопрос"
+      ],
+      "rows": [
+        [
+          "правильный",
+          "I worked.",
+          "I didn't work.",
+          "Did you work?"
+        ],
+        [
+          "неправильный",
+          "She went.",
+          "She didn't go.",
+          "Did she go?"
+        ],
+        [
+          "специальный",
+          "—",
+          "—",
+          "Where did she go?"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "past",
+        "label": {
+          "ru": "закончилось в прошлом",
+          "en": "finished in the past",
+          "es": "terminó en el pasado"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-30",
+      "formula": "no + indefinido, ¿…?",
+      "examples": [
+        {
+          "es": "No vi el mensaje. ¿Te gustó el viaje?",
+          "ru": "Я не видел сообщение. Тебе понравилась поездка?"
+        }
+      ],
+      "note": {
+        "ru": "в испанском отрицание и вопрос без вспомогательного глагола"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "He fixed the bug.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "He didn't fix the bug.",
+            "He did not fix the bug."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Did he fix the bug?"
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "They bought tickets.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "They didn't buy tickets.",
+            "They did not buy tickets."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Did they buy tickets?"
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "You went to Madrid.",
+      "into": [
+        {
+          "form": "wh-question",
+          "answer": "Where did you go?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "I didn't ___ your email.",
+      "options": [
+        "get",
+        "got"
+      ],
+      "answer": "get",
+      "ru": "Я не получил твоё письмо."
+    },
+    {
+      "type": "choose",
+      "en": "___ you sleep well?",
+      "options": [
+        "Did",
+        "Do you",
+        "Were"
+      ],
+      "answer": "Did",
+      "ru": "Ты хорошо спал?"
+    },
+    {
+      "type": "choose",
+      "en": "What time ___ the party start?",
+      "options": [
+        "did",
+        "was",
+        "started"
+      ],
+      "answer": "did",
+      "ru": "Во сколько началась вечеринка?"
+    },
+    {
+      "type": "build",
+      "en": "Why didn't you call me yesterday?",
+      "ru": "Почему ты не позвонил мне вчера?",
+      "extra": [
+        "called"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Спросите друга о его отпуске: три вопроса в прошедшем.",
+        "en": "Ask a friend about their holiday: three past questions.",
+        "es": "Pregunta a un amigo por sus vacaciones: tres preguntas en pasado."
+      },
+      "template": "Where did you …? Did you …?",
+      "sample": "Where did you go? Did you like the hotel? What did you eat?"
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

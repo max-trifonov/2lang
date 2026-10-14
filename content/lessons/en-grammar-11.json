@@ -1,0 +1,152 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-11",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "adjectives",
+  "code": "EN-11",
+  "order": 11,
+  "level": "A1",
+  "title": {
+    "ru": "Прилагательные: перед существительным и без изменений",
+    "en": "Adjectives: before the noun, no endings",
+    "es": "Adjetivos: delante del sustantivo, invariables"
+  },
+  "see": [
+    "en-grammar-16",
+    "en-grammar-27"
+  ],
+  "pattern": [
+    {
+      "en": "It's a small hotel.",
+      "ru": "Это маленький отель."
+    },
+    {
+      "en": "The rooms are clean and quiet.",
+      "ru": "Номера чистые и тихие."
+    },
+    {
+      "en": "This task is too difficult.",
+      "ru": "Эта задача слишком трудная."
+    },
+    {
+      "en": "Is the coffee hot enough?",
+      "ru": "Кофе достаточно горячий?"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Прилагательное стоит перед существительным (a new phone) или после be (the phone is new) и никогда не меняется: new phones, a new car. very — «очень», too — «слишком» (плохо), enough — «достаточно» стоит ПОСЛЕ прилагательного: big enough. Несколько прилагательных: мнение → размер → возраст → цвет: a nice big old red car.",
+      "en": "Adjectives come before the noun or after be and never change: new phones. very = очень, too = слишком, enough comes after the adjective: big enough. Order: opinion → size → age → colour.",
+      "es": "Adjetivo delante del sustantivo, invariable. very, too, enough (después del adjetivo)."
+    },
+    "formula": "(a / the) + прилагательное + существительное · be + прилагательное",
+    "table": {
+      "head": [
+        "",
+        "пример",
+        "смысл"
+      ],
+      "rows": [
+        [
+          "very",
+          "very expensive",
+          "очень дорого"
+        ],
+        [
+          "too",
+          "too expensive",
+          "слишком дорого (не подходит)"
+        ],
+        [
+          "enough",
+          "cheap enough",
+          "достаточно дёшево"
+        ],
+        [
+          "not … enough",
+          "not big enough",
+          "недостаточно большой"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-13",
+      "formula": "sustantivo + adjetivo (concordado)",
+      "examples": [
+        {
+          "es": "un hotel pequeño, habitaciones limpias",
+          "ru": "маленький отель, чистые номера"
+        }
+      ],
+      "note": {
+        "ru": "в испанском прилагательное обычно после существительного и согласуется"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "We stayed in a ___ hotel.",
+      "options": [
+        "lovely",
+        "lovelys"
+      ],
+      "answer": "lovely",
+      "ru": "Мы жили в прекрасном отеле."
+    },
+    {
+      "type": "choose",
+      "en": "The bag is ___ heavy. I can't carry it.",
+      "options": [
+        "very",
+        "too"
+      ],
+      "answer": "too",
+      "ru": "Сумка слишком тяжёлая, я не могу её нести."
+    },
+    {
+      "type": "choose",
+      "en": "Is the room ___ for four people?",
+      "options": [
+        "enough big",
+        "big enough"
+      ],
+      "answer": "big enough",
+      "ru": "Номер достаточно большой для четверых?"
+    },
+    {
+      "type": "build",
+      "en": "She has a big black dog.",
+      "ru": "У неё большая чёрная собака.",
+      "extra": [
+        "blacks"
+      ]
+    },
+    {
+      "type": "build",
+      "en": "The new version is very fast.",
+      "ru": "Новая версия очень быстрая.",
+      "extra": [
+        "news"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Опишите свою квартиру или город тремя прилагательными.",
+        "en": "Describe your flat or city with three adjectives.",
+        "es": "Describe tu piso o ciudad con tres adjetivos."
+      },
+      "template": "My … is …",
+      "sample": "My flat is small but bright and quiet."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

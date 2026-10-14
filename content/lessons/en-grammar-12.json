@@ -1,0 +1,174 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-12",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "pronouns",
+  "code": "EN-12",
+  "order": 12,
+  "level": "A1",
+  "title": {
+    "ru": "Местоимения: I / me / my / mine и 's",
+    "en": "Pronouns: I / me / my / mine and 's",
+    "es": "Pronombres: I / me / my / mine y 's"
+  },
+  "see": [
+    "en-grammar-13",
+    "en-grammar-02"
+  ],
+  "pattern": [
+    {
+      "en": "She called me yesterday.",
+      "ru": "Она звонила мне вчера."
+    },
+    {
+      "en": "This is my laptop. Where is yours?",
+      "ru": "Это мой ноутбук. Где твой?"
+    },
+    {
+      "en": "Is this Tom's bag?",
+      "ru": "Это сумка Тома?"
+    },
+    {
+      "en": "Give it to them.",
+      "ru": "Отдай это им."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "I, you, he… — подлежащее (кто?); me, him, her, us, them — дополнение после глагола и предлога (кого? кому?): She called me, with us. my, your, his… — перед существительным (my bag), mine, yours, his… — без существительного (It's mine). Принадлежность людям — 's: Tom's car, my parents' house.",
+      "en": "I, he, she… = subject; me, him, her, us, them = object after verbs and prepositions. my, your, his… before a noun; mine, yours… alone. Possession for people: Tom's car, my parents' house.",
+      "es": "Sujeto: I; objeto: me; posesivo: my; pronombre posesivo: mine. 's para personas."
+    },
+    "formula": "I → me → my → mine · Tom's (принадлежность)",
+    "table": {
+      "head": [
+        "кто",
+        "кого / кому",
+        "чей + сущ.",
+        "чей (отдельно)"
+      ],
+      "rows": [
+        [
+          "I",
+          "me",
+          "my",
+          "mine"
+        ],
+        [
+          "you",
+          "you",
+          "your",
+          "yours"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "his"
+        ],
+        [
+          "she",
+          "her",
+          "her",
+          "hers"
+        ],
+        [
+          "it",
+          "it",
+          "its",
+          "—"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "ours"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "theirs"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-14",
+      "formula": "mi, tu, su, nuestro",
+      "examples": [
+        {
+          "es": "Este es mi portátil. ¿Dónde está el tuyo?",
+          "ru": "Это мой ноутбук. Где твой?"
+        }
+      ],
+      "note": {
+        "ru": "в испанском su — и «его», и «её», и «их», и «ваш»"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Can you help ___?",
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "answer": "us",
+      "ru": "Можешь нам помочь?"
+    },
+    {
+      "type": "choose",
+      "en": "Is this pen ___?",
+      "options": [
+        "your",
+        "yours"
+      ],
+      "answer": "yours",
+      "ru": "Это твоя ручка?"
+    },
+    {
+      "type": "choose",
+      "en": "That's ___ car.",
+      "options": [
+        "Anna",
+        "Anna's"
+      ],
+      "answer": "Anna's",
+      "ru": "Это машина Анны."
+    },
+    {
+      "type": "fill",
+      "en": "My sister lives in Rome. I visit ___ every summer.",
+      "answer": "her",
+      "ru": "Моя сестра живёт в Риме. Я навещаю её каждое лето."
+    },
+    {
+      "type": "build",
+      "en": "Their office is next to ours.",
+      "ru": "Их офис рядом с нашим.",
+      "extra": [
+        "them"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Расскажите о вещах в комнате: чьи они?",
+        "en": "Talk about the things in your room: whose are they?",
+        "es": "Habla de las cosas de tu habitación: ¿de quién son?"
+      },
+      "template": "This is my … That is … 's …",
+      "sample": "This is my laptop. That is my wife's phone. The books are ours."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

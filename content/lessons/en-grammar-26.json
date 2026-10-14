@@ -1,0 +1,163 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-26",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "verbs",
+  "code": "EN-26",
+  "order": 26,
+  "level": "A2",
+  "title": {
+    "ru": "Повелительное наклонение и Let's",
+    "en": "Imperative and Let's",
+    "es": "Imperativo y Let's"
+  },
+  "see": [
+    "en-grammar-25",
+    "en-grammar-08"
+  ],
+  "pattern": [
+    {
+      "en": "Click the green button.",
+      "ru": "Нажмите зелёную кнопку."
+    },
+    {
+      "en": "Don't forget your passport.",
+      "ru": "Не забудь паспорт."
+    },
+    {
+      "en": "Turn left at the bank.",
+      "ru": "У банка поверните налево."
+    },
+    {
+      "en": "Let's take a break.",
+      "ru": "Давайте сделаем перерыв."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Инструкция и просьба — глагол в начальной форме без подлежащего: Open the file. Запрет — Don't + V: Don't touch. Одна форма для «ты» и «вы»; вежливость добавляют please и интонация. «Давай(те)» — Let's + V, «давай не будем» — Let's not…",
+      "en": "Instructions: the base verb, no subject: Open the file. Prohibition: Don't + V. One form for everyone; add please for politeness. Suggestion: Let's + V; Let's not…",
+      "es": "Verbo base para todos; Don't + verbo; Let's = vamos a…"
+    },
+    "formula": "V! · Don't + V! · Let's + V · Let's not + V",
+    "table": {
+      "head": [
+        "",
+        "пример"
+      ],
+      "rows": [
+        [
+          "инструкция",
+          "Save the file."
+        ],
+        [
+          "запрет",
+          "Don't close the window."
+        ],
+        [
+          "предложение",
+          "Let's go."
+        ],
+        [
+          "«давай не будем»",
+          "Let's not wait."
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-28",
+      "formula": "imperativo: abre / abra / no abras",
+      "examples": [
+        {
+          "es": "Abre la ventana, por favor.",
+          "ru": "Открой окно, пожалуйста."
+        }
+      ],
+      "note": {
+        "ru": "в испанском разные формы для tú и usted, и особая форма для запрета"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "You close the door.",
+      "into": [
+        {
+          "form": "imperative",
+          "answer": [
+            "Close the door.",
+            "Close the door, please."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "You touch the screen.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "Don't touch the screen.",
+            "Do not touch the screen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "___ worry, everything is fine.",
+      "options": [
+        "Not",
+        "Don't",
+        "No"
+      ],
+      "answer": "Don't",
+      "ru": "Не волнуйся, всё в порядке."
+    },
+    {
+      "type": "choose",
+      "en": "It's late. ___ go home.",
+      "options": [
+        "Let's",
+        "Let",
+        "We"
+      ],
+      "answer": "Let's",
+      "ru": "Уже поздно. Пойдёмте домой."
+    },
+    {
+      "type": "fill",
+      "en": "___ straight on and turn right.",
+      "answer": "Go",
+      "ru": "Идите прямо и поверните направо."
+    },
+    {
+      "type": "build",
+      "en": "Don't forget to save your work.",
+      "ru": "Не забудь сохранить работу.",
+      "extra": [
+        "forgetting"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Объясните коллеге, как открыть отчёт: 2–3 шага.",
+        "en": "Explain to a colleague how to open the report: 2–3 steps.",
+        "es": "Explica a un compañero cómo abrir el informe: 2–3 pasos."
+      },
+      "template": "Open … Click …",
+      "sample": "Open the app. Click Reports. Choose the month."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

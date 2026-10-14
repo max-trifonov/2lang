@@ -1,0 +1,147 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-03",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "nouns",
+  "code": "ES-3",
+  "order": 3,
+  "level": "A1",
+  "title": {
+    "ru": "Множественное число: los / las, unos / unas",
+    "en": "Plural: los / las, unos / unas",
+    "es": "El plural: los / las, unos / unas"
+  },
+  "see": [
+    "es-grammar-02",
+    "es-grammar-13"
+  ],
+  "pattern": [
+    {
+      "es": "Tengo dos maletas.",
+      "ru": "У меня два чемодана."
+    },
+    {
+      "es": "Los billetes están aquí.",
+      "ru": "Билеты здесь."
+    },
+    {
+      "es": "Las reuniones son los lunes.",
+      "ru": "Совещания — по понедельникам."
+    },
+    {
+      "es": "Necesito unos días libres.",
+      "ru": "Мне нужно несколько свободных дней."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "На гласную — +s (maleta → maletas), на согласную — +es (reunión → reuniones, ciudad → ciudades); -z меняется на -c: vez → veces. Артикль тоже во множественном: los, las; unos / unas — «несколько, какие-то». Смешанная группа — мужского рода: los amigos — это и друзья, и друзья с подругами.",
+      "en": "After a vowel add -s, after a consonant add -es; -z becomes -ces: vez → veces. Articles go plural too: los, las; unos / unas = “some”. A mixed group is masculine: los amigos.",
+      "es": "Vocal + s, consonante + es, z → ces. Artículos: los, las, unos, unas. Grupo mixto: masculino."
+    },
+    "formula": "-о/-а/-е + s · согласная + es · el → los, la → las",
+    "table": {
+      "head": [
+        "",
+        "ед. число",
+        "мн. число"
+      ],
+      "rows": [
+        [
+          "на гласную",
+          "el billete",
+          "los billetes"
+        ],
+        [
+          "на согласную",
+          "la reunión",
+          "las reuniones"
+        ],
+        [
+          "на -z",
+          "la vez",
+          "las veces"
+        ],
+        [
+          "смешанная группа",
+          "el amigo + la amiga",
+          "los amigos"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-04",
+      "formula": "-s / -es",
+      "examples": [
+        {
+          "en": "two suitcases, three meetings",
+          "ru": "два чемодана, три совещания"
+        }
+      ],
+      "note": {
+        "ru": "в английском артикль во множественном не меняется: the tickets"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Tengo dos ___ para el concierto.",
+      "options": [
+        "billete",
+        "billetes",
+        "billetees"
+      ],
+      "answer": "billetes",
+      "ru": "У меня два билета на концерт."
+    },
+    {
+      "type": "choose",
+      "es": "___ ciudades de España son bonitas.",
+      "options": [
+        "Los",
+        "Las"
+      ],
+      "answer": "Las",
+      "ru": "Города Испании красивые."
+    },
+    {
+      "type": "fill",
+      "es": "Hoy tenemos tres ___. (reunión)",
+      "answer": "reuniones",
+      "ru": "Сегодня у нас три совещания."
+    },
+    {
+      "type": "fill",
+      "es": "Necesito ___ días libres.",
+      "answer": "unos",
+      "ru": "Мне нужно несколько свободных дней."
+    },
+    {
+      "type": "build",
+      "es": "Los amigos de Ana llegan mañana.",
+      "ru": "Друзья Аны приезжают завтра.",
+      "extra": [
+        "las"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что у вас есть: два–три предмета во множественном числе.",
+        "en": "Write what you have: two or three things in the plural.",
+        "es": "Escribe qué tienes: dos o tres cosas en plural."
+      },
+      "template": "Tengo …",
+      "sample": "Tengo dos maletas y tres libros."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

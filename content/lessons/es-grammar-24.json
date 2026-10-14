@@ -1,0 +1,173 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-24",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "tenses",
+  "code": "ES-24",
+  "order": 24,
+  "level": "A2",
+  "title": {
+    "ru": "Происходит сейчас: estar + герундий",
+    "en": "Happening now: estar + gerund",
+    "es": "Acción en curso: estar + gerundio"
+  },
+  "see": [
+    "es-grammar-05",
+    "es-grammar-08",
+    "es-grammar-27"
+  ],
+  "words": [
+    "estar"
+  ],
+  "pattern": [
+    {
+      "es": "Estoy trabajando.",
+      "ru": "Я сейчас работаю."
+    },
+    {
+      "es": "¿Qué estás haciendo?",
+      "ru": "Что ты делаешь (сейчас)?"
+    },
+    {
+      "es": "Estamos esperando el taxi.",
+      "ru": "Мы ждём такси."
+    },
+    {
+      "es": "Está lloviendo.",
+      "ru": "Идёт дождь."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Для действия, которое идёт прямо сейчас: estar по лицам + герундий: hablar → hablando, comer → comiendo, escribir → escribiendo. Неправильные: leer → leyendo, dormir → durmiendo, pedir → pidiendo. Для привычек — обычное presente: Trabajo en casa.",
+      "en": "For an action in progress right now: estar + gerund: hablando, comiendo, escribiendo. Irregular: leyendo, durmiendo, pidiendo. For habits use the simple present.",
+      "es": "estar + gerundio (-ando / -iendo): acción en curso. Irregulares: leyendo, durmiendo, pidiendo."
+    },
+    "formula": "estar + -ando (-ar) / -iendo (-er, -ir)",
+    "table": {
+      "head": [
+        "инфинитив",
+        "герундий",
+        "пример"
+      ],
+      "rows": [
+        [
+          "trabajar",
+          "trabajando",
+          "Estoy trabajando."
+        ],
+        [
+          "comer",
+          "comiendo",
+          "Estamos comiendo."
+        ],
+        [
+          "escribir",
+          "escribiendo",
+          "Está escribiendo."
+        ],
+        [
+          "leer",
+          "leyendo",
+          "Estás leyendo."
+        ],
+        [
+          "dormir",
+          "durmiendo",
+          "Están durmiendo."
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "now",
+        "label": {
+          "ru": "сейчас, в этот момент",
+          "en": "right now",
+          "es": "en este momento"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-17",
+      "formula": "be + -ing",
+      "examples": [
+        {
+          "en": "I'm working.",
+          "ru": "Я сейчас работаю."
+        }
+      ],
+      "note": {
+        "ru": "близко, но в испанском используется реже: ¿Qué haces? часто = What are you doing?"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Trabajo en el informe.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": "No estoy trabajando en el informe."
+        },
+        {
+          "form": "question",
+          "answer": "¿Estás trabajando en el informe?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "Ahora ___ un correo.",
+      "options": [
+        "estoy escribiendo",
+        "escribo siempre"
+      ],
+      "answer": "estoy escribiendo",
+      "ru": "Сейчас я пишу письмо."
+    },
+    {
+      "type": "choose",
+      "es": "Los niños están ___.",
+      "options": [
+        "durmiendo",
+        "dormiendo"
+      ],
+      "answer": "durmiendo",
+      "ru": "Дети спят."
+    },
+    {
+      "type": "fill",
+      "es": "¿Qué estás ___? (hacer)",
+      "answer": "haciendo",
+      "ru": "Что ты делаешь?"
+    },
+    {
+      "type": "build",
+      "es": "Estamos esperando a nuestros amigos.",
+      "ru": "Мы ждём наших друзей.",
+      "extra": [
+        "esperamos"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы и ваши близкие делают прямо сейчас.",
+        "en": "Write what you and your family are doing right now.",
+        "es": "Escribe qué estáis haciendo ahora tú y tu familia."
+      },
+      "template": "Ahora estoy …",
+      "sample": "Ahora estoy estudiando español. Mi hermana está trabajando."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

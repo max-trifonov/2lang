@@ -1,0 +1,178 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-09",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "sentence",
+  "code": "EN-9",
+  "order": 9,
+  "level": "A1",
+  "title": {
+    "ru": "Общие вопросы и краткие ответы",
+    "en": "Yes / no questions and short answers",
+    "es": "Preguntas de sí / no y respuestas cortas"
+  },
+  "see": [
+    "en-grammar-08",
+    "en-grammar-10",
+    "en-grammar-34"
+  ],
+  "pattern": [
+    {
+      "en": "Do you speak Spanish? — Yes, I do.",
+      "ru": "Ты говоришь по-испански? — Да."
+    },
+    {
+      "en": "Does the hotel have a pool? — No, it doesn't.",
+      "ru": "В отеле есть бассейн? — Нет."
+    },
+    {
+      "en": "Are you ready? — Yes, I am.",
+      "ru": "Ты готов? — Да."
+    },
+    {
+      "en": "Can I pay by card? — Of course you can.",
+      "ru": "Можно оплатить картой? — Конечно."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Вопрос — это перестановка: вспомогательный глагол выходит перед подлежащим. Есть be / can / will — они и выходят: Is it far? Can you help? Нет — ставим Do / Does, а глагол без -s: Does she work here? Краткий ответ повторяет вспомогательный: Yes, she does. / No, I can't. Просто «Yes» звучит резковато.",
+      "en": "A question inverts: the auxiliary goes before the subject. With be / can / will they move: Is it far? Otherwise add Do / Does and use the base verb: Does she work here? Short answers repeat the auxiliary: Yes, she does. / No, I can't.",
+      "es": "Auxiliar + sujeto + verbo. Sin auxiliar: Do / Does. Respuesta corta con el auxiliar."
+    },
+    "formula": "вспомогательный (Do / Does / Is / Can…) + подлежащее + глагол?",
+    "table": {
+      "head": [
+        "утверждение",
+        "вопрос",
+        "краткий ответ"
+      ],
+      "rows": [
+        [
+          "It is far.",
+          "Is it far?",
+          "Yes, it is. / No, it isn't."
+        ],
+        [
+          "You can help.",
+          "Can you help?",
+          "Yes, I can. / No, I can't."
+        ],
+        [
+          "You live here.",
+          "Do you live here?",
+          "Yes, I do. / No, I don't."
+        ],
+        [
+          "She works here.",
+          "Does she work here?",
+          "Yes, she does. / No, she doesn't."
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-11",
+      "formula": "¿…? — только интонация",
+      "examples": [
+        {
+          "es": "¿Hablas español? — Sí.",
+          "ru": "Ты говоришь по-испански? — Да."
+        }
+      ],
+      "note": {
+        "ru": "в испанском порядок слов не меняется"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "You have a reservation.",
+      "into": [
+        {
+          "form": "question",
+          "answer": "Do you have a reservation?"
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "She lives near the office.",
+      "into": [
+        {
+          "form": "question",
+          "answer": "Does she live near the office?"
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "en": "The bus is late.",
+      "into": [
+        {
+          "form": "question",
+          "answer": "Is the bus late?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "___ your brother work in IT? — Yes, he does.",
+      "options": [
+        "Do",
+        "Does",
+        "Is"
+      ],
+      "answer": "Does",
+      "ru": "Твой брат работает в IT? — Да."
+    },
+    {
+      "type": "choose",
+      "en": "Are you tired? — No, I ___.",
+      "options": [
+        "don't",
+        "am not",
+        "isn't"
+      ],
+      "answer": "am not",
+      "ru": "Ты устал? — Нет."
+    },
+    {
+      "type": "choose",
+      "en": "Do they like the plan? — Yes, they ___.",
+      "options": [
+        "like",
+        "do",
+        "are"
+      ],
+      "answer": "do",
+      "ru": "Им нравится план? — Да."
+    },
+    {
+      "type": "build",
+      "en": "Does this train go to the airport?",
+      "ru": "Этот поезд идёт в аэропорт?",
+      "extra": [
+        "Do"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Задайте три вопроса (да / нет) новому коллеге.",
+        "en": "Ask a new colleague three yes / no questions.",
+        "es": "Haz tres preguntas de sí / no a un compañero nuevo."
+      },
+      "template": "Do you …? Are you …? Can you …?",
+      "sample": "Do you live near here? Are you from London? Can you help me?"
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-05",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "verbs",
+  "code": "EN-5",
+  "order": 5,
+  "level": "A1",
+  "title": {
+    "ru": "there is / there are — «есть, имеется»",
+    "en": "there is / there are",
+    "es": "there is / there are: hay"
+  },
+  "see": [
+    "en-grammar-02",
+    "en-grammar-04",
+    "en-grammar-28"
+  ],
+  "pattern": [
+    {
+      "en": "There is a café near the hotel.",
+      "ru": "Рядом с отелем есть кафе."
+    },
+    {
+      "en": "There are two bugs in the code.",
+      "ru": "В коде две ошибки."
+    },
+    {
+      "en": "Is there Wi-Fi in the room?",
+      "ru": "В номере есть вай-фай?"
+    },
+    {
+      "en": "There aren't any tickets for today.",
+      "ru": "На сегодня билетов нет."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Когда сообщаем, что что-то где-то есть: there is / there are + что + где. Русский порядок обратный: «В номере есть вай-фай» = There is Wi-Fi in the room. Вопрос — Is there…? / Are there…?, отрицание — There isn't a… / There aren't any…",
+      "en": "To say that something exists somewhere: there is / there are + what + where. Questions: Is there…? Are there…? Negative: There isn't a… / There aren't any…",
+      "es": "there is (singular) / there are (plural) = hay."
+    },
+    "formula": "there is + ед. ч. · there are + мн. ч. (+ место)",
+    "table": {
+      "head": [
+        "",
+        "ед. ч.",
+        "мн. ч."
+      ],
+      "rows": [
+        [
+          "+",
+          "There is a bank.",
+          "There are two banks."
+        ],
+        [
+          "−",
+          "There isn't a bank.",
+          "There aren't any banks."
+        ],
+        [
+          "?",
+          "Is there a bank?",
+          "Are there any banks?"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-06",
+      "formula": "hay",
+      "examples": [
+        {
+          "es": "Hay un café cerca del hotel.",
+          "ru": "Рядом с отелем есть кафе."
+        }
+      ],
+      "note": {
+        "ru": "hay — одна форма для ед. и мн. числа"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "en": "There is a pharmacy near here.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": [
+            "There isn't a pharmacy near here.",
+            "There is no pharmacy near here."
+          ]
+        },
+        {
+          "form": "question",
+          "answer": "Is there a pharmacy near here?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "en": "___ many tourists in summer.",
+      "options": [
+        "There is",
+        "There are",
+        "It is"
+      ],
+      "answer": "There are",
+      "ru": "Летом много туристов."
+    },
+    {
+      "type": "choose",
+      "en": "___ a parking lot near the office?",
+      "options": [
+        "Is there",
+        "Are there",
+        "There is"
+      ],
+      "answer": "Is there",
+      "ru": "Рядом с офисом есть парковка?"
+    },
+    {
+      "type": "fill",
+      "en": "There ___ a problem with my card.",
+      "answer": "is",
+      "ru": "С моей картой проблема."
+    },
+    {
+      "type": "build",
+      "en": "There are three meetings in my calendar today.",
+      "ru": "Сегодня в моём календаре три совещания.",
+      "extra": [
+        "is"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Опишите, что есть рядом с вашим домом.",
+        "en": "Describe what there is near your home.",
+        "es": "Describe qué hay cerca de tu casa."
+      },
+      "template": "There is … There are …",
+      "sample": "There is a park near my house. There are two supermarkets."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

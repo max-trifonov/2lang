@@ -1,0 +1,167 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-34",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "modals",
+  "code": "ES-34",
+  "order": 34,
+  "level": "A2",
+  "title": {
+    "ru": "Вежливость: me gustaría, podría, debería",
+    "en": "Politeness: me gustaría, podría, debería",
+    "es": "Cortesía: me gustaría, podría, debería"
+  },
+  "see": [
+    "es-grammar-19",
+    "es-grammar-20",
+    "es-grammar-22"
+  ],
+  "pattern": [
+    {
+      "es": "Me gustaría reservar una mesa.",
+      "ru": "Я бы хотел забронировать столик."
+    },
+    {
+      "es": "¿Podría repetir, por favor?",
+      "ru": "Не могли бы вы повторить?"
+    },
+    {
+      "es": "Deberías descansar un poco.",
+      "ru": "Тебе стоило бы немного отдохнуть."
+    },
+    {
+      "es": "¿Podrías ayudarme con esto?",
+      "ru": "Не мог бы ты помочь мне с этим?"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Condicional смягчает просьбу и совет — как русское «бы»: ¿Puede…? → ¿Podría…? («не могли бы вы…?»), quiero → me gustaría / querría, debes → deberías («тебе стоило бы»). Основы — как у будущего времени: podr-, tendr-, har-.",
+      "en": "The conditional softens requests and advice, like “would / could”: ¿Podría…?, me gustaría, deberías. Stems are the same as the future: podr-, tendr-, har-.",
+      "es": "Condicional de cortesía: ¿Podría…?, me gustaría, deberías. Mismas raíces que el futuro."
+    },
+    "formula": "инфинитив + -ía, -ías, -ía, -íamos, -íais, -ían (podr-, querr-, tendr-…)",
+    "table": {
+      "head": [
+        "прямо",
+        "вежливо",
+        "смысл"
+      ],
+      "rows": [
+        [
+          "Quiero un café.",
+          "Me gustaría un café.",
+          "я бы хотел"
+        ],
+        [
+          "¿Puede ayudarme?",
+          "¿Podría ayudarme?",
+          "не могли бы вы"
+        ],
+        [
+          "Debes ir.",
+          "Deberías ir.",
+          "тебе стоило бы"
+        ],
+        [
+          "¿Tiene…?",
+          "¿Tendría…?",
+          "не найдётся ли у вас"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-25",
+      "formula": "Could you…? I'd like… You should…",
+      "examples": [
+        {
+          "en": "Could you repeat, please?",
+          "ru": "Не могли бы вы повторить?"
+        }
+      ],
+      "note": {
+        "ru": "I'd like ≈ me gustaría — 1:1"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "¿Puede cerrar la ventana?",
+      "into": [
+        {
+          "form": "polite",
+          "answer": "¿Podría cerrar la ventana?"
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "es": "Quiero una habitación doble.",
+      "into": [
+        {
+          "form": "polite",
+          "answer": [
+            "Me gustaría una habitación doble.",
+            "Querría una habitación doble."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "___ hablar con el director, por favor.",
+      "options": [
+        "Me gustaría",
+        "Me gusta"
+      ],
+      "answer": "Me gustaría",
+      "ru": "Я бы хотел поговорить с директором."
+    },
+    {
+      "type": "choose",
+      "es": "¿___ decirme dónde está el baño?",
+      "options": [
+        "Podría",
+        "Puedo"
+      ],
+      "answer": "Podría",
+      "ru": "Не подскажете, где туалет?"
+    },
+    {
+      "type": "fill",
+      "es": "Estás cansado: ___ dormir más. (deber)",
+      "answer": "deberías",
+      "ru": "Ты устал: тебе стоило бы больше спать."
+    },
+    {
+      "type": "build",
+      "es": "¿Podría traer la cuenta, por favor?",
+      "ru": "Не могли бы вы принести счёт?",
+      "extra": [
+        "puedo"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Вежливо попросите в отеле поздний выезд.",
+        "en": "Politely ask the hotel for a late checkout.",
+        "es": "Pide en el hotel, con cortesía, salir más tarde."
+      },
+      "template": "¿Podría …? / Me gustaría …",
+      "sample": [
+        "¿Podría dejar la habitación a las dos?",
+        "Me gustaría salir más tarde, a las dos."
+      ]
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

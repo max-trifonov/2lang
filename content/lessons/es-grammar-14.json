@@ -1,0 +1,161 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-14",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "pronouns",
+  "code": "ES-14",
+  "order": 14,
+  "level": "A1",
+  "title": {
+    "ru": "Притяжательные: mi, tu, su, nuestro",
+    "en": "Possessives: mi, tu, su, nuestro",
+    "es": "Posesivos: mi, tu, su, nuestro"
+  },
+  "see": [
+    "es-grammar-15",
+    "es-grammar-26"
+  ],
+  "pattern": [
+    {
+      "es": "Mi vuelo sale a las seis.",
+      "ru": "Мой рейс вылетает в шесть."
+    },
+    {
+      "es": "¿Dónde están tus maletas?",
+      "ru": "Где твои чемоданы?"
+    },
+    {
+      "es": "Nuestra oficina está en el centro.",
+      "ru": "Наш офис в центре."
+    },
+    {
+      "es": "Este es su pasaporte, señor.",
+      "ru": "Вот ваш паспорт, сеньор."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Притяжательное согласуется с тем, ЧТО принадлежит, а не с владельцем: mis amigos, nuestra casa. su — «его, её, их и ваш (вежл.)»; если неясно — el coche de él / de usted. После существительного и отдельно — полные формы: un amigo mío, es mío.",
+      "en": "The possessive agrees with the thing owned, not the owner: mis amigos, nuestra casa. su = his, her, their, your (polite); if unclear say de él / de usted. Full forms after the noun: un amigo mío, es mío.",
+      "es": "Concuerda con lo poseído. su = de él, de ella, de ellos, de usted. Formas tónicas: mío, tuyo, suyo."
+    },
+    "formula": "mi / tu / su (+s) · nuestro / vuestro (+a, +s) + существительное",
+    "table": {
+      "head": [
+        "",
+        "ед. ч.",
+        "мн. ч.",
+        "«мой» отдельно"
+      ],
+      "rows": [
+        [
+          "я",
+          "mi",
+          "mis",
+          "mío, mía"
+        ],
+        [
+          "ты",
+          "tu",
+          "tus",
+          "tuyo, tuya"
+        ],
+        [
+          "он, она, вы, они",
+          "su",
+          "sus",
+          "suyo, suya"
+        ],
+        [
+          "мы",
+          "nuestro, nuestra",
+          "nuestros, nuestras",
+          "nuestro"
+        ],
+        [
+          "вы",
+          "vuestro, vuestra",
+          "vuestros, vuestras",
+          "vuestro"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-12",
+      "formula": "my, your, his, her, our, their",
+      "examples": [
+        {
+          "en": "Our office is in the centre.",
+          "ru": "Наш офис в центре."
+        }
+      ],
+      "note": {
+        "ru": "в английском притяжательные не меняются по числу"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "___ padres viven en Sevilla.",
+      "options": [
+        "Mi",
+        "Mis"
+      ],
+      "answer": "Mis",
+      "ru": "Мои родители живут в Севилье."
+    },
+    {
+      "type": "choose",
+      "es": "___ empresa es pequeña.",
+      "options": [
+        "Nuestro",
+        "Nuestra"
+      ],
+      "answer": "Nuestra",
+      "ru": "Наша компания маленькая."
+    },
+    {
+      "type": "choose",
+      "es": "Señora, ¿es ___ maleta?",
+      "options": [
+        "tu",
+        "su"
+      ],
+      "answer": "su",
+      "ru": "Сеньора, это ваш чемодан?"
+    },
+    {
+      "type": "fill",
+      "es": "¿Dónde están ___ llaves, Ana?",
+      "answer": "tus",
+      "ru": "Где твои ключи, Ана?"
+    },
+    {
+      "type": "build",
+      "es": "Nuestros amigos llegan el sábado.",
+      "ru": "Наши друзья приезжают в субботу.",
+      "extra": [
+        "nuestras"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Расскажите о своей семье: два–три предложения с mi / mis.",
+        "en": "Tell about your family: two or three sentences with mi / mis.",
+        "es": "Habla de tu familia: dos o tres frases con mi / mis."
+      },
+      "template": "Mi … Mis …",
+      "sample": "Mi hermano vive en Moscú. Mis padres son médicos."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

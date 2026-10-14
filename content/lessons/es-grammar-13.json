@@ -1,0 +1,155 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-13",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "adjectives",
+  "code": "ES-13",
+  "order": 13,
+  "level": "A1",
+  "title": {
+    "ru": "Прилагательные: место и согласование",
+    "en": "Adjectives: position and agreement",
+    "es": "Adjetivos: posición y concordancia"
+  },
+  "see": [
+    "es-grammar-02",
+    "es-grammar-03",
+    "es-grammar-29"
+  ],
+  "words": [
+    "nuevo"
+  ],
+  "pattern": [
+    {
+      "es": "Tengo un ordenador nuevo.",
+      "ru": "У меня новый компьютер."
+    },
+    {
+      "es": "La habitación es muy bonita.",
+      "ru": "Номер очень красивый."
+    },
+    {
+      "es": "Son unos clientes importantes.",
+      "ru": "Это важные клиенты."
+    },
+    {
+      "es": "Es un buen hotel.",
+      "ru": "Это хороший отель."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Прилагательное обычно стоит после существительного и согласуется с ним: un coche rojo, una casa roja, coches rojos. На -e и согласную — одна форма для обоих родов: grande, difícil (мн. ч. — grandes, difíciles). Перед существительным bueno → buen, malo → mal, grande → gran (= «великий»). muy — «очень».",
+      "en": "Adjectives usually follow the noun and agree with it: un coche rojo, una casa roja, coches rojos. Those ending in -e or a consonant have one form for both genders. Before a noun: buen, mal, gran. muy = very.",
+      "es": "Sustantivo + adjetivo concordado. -e y consonante: invariables en género. buen, mal, gran delante del sustantivo."
+    },
+    "formula": "существительное + прилагательное (род и число — как у существительного)",
+    "table": {
+      "head": [
+        "",
+        "ед. ч.",
+        "мн. ч."
+      ],
+      "rows": [
+        [
+          "на -o",
+          "nuevo, nueva",
+          "nuevos, nuevas"
+        ],
+        [
+          "на -e",
+          "grande",
+          "grandes"
+        ],
+        [
+          "на согласную",
+          "difícil, azul",
+          "difíciles, azules"
+        ],
+        [
+          "перед сущ.",
+          "buen día, mal día",
+          "buenos días"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-11",
+      "formula": "adjective + noun, без изменений",
+      "examples": [
+        {
+          "en": "a new computer, new computers",
+          "ru": "новый компьютер, новые компьютеры"
+        }
+      ],
+      "note": {
+        "ru": "в английском прилагательное стоит перед существительным и не меняется"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Tengo una tarea muy ___.",
+      "options": [
+        "difícil",
+        "difíciles"
+      ],
+      "answer": "difícil",
+      "ru": "У меня очень трудная задача."
+    },
+    {
+      "type": "choose",
+      "es": "Las playas son ___.",
+      "options": [
+        "bonito",
+        "bonitas",
+        "bonitos"
+      ],
+      "answer": "bonitas",
+      "ru": "Пляжи красивые."
+    },
+    {
+      "type": "choose",
+      "es": "Es un ___ restaurante.",
+      "options": [
+        "bueno",
+        "buen"
+      ],
+      "answer": "buen",
+      "ru": "Это хороший ресторан."
+    },
+    {
+      "type": "fill",
+      "es": "Tengo dos maletas ___. (pequeño)",
+      "answer": "pequeñas",
+      "ru": "У меня два маленьких чемодана."
+    },
+    {
+      "type": "build",
+      "es": "Mi hermana tiene un coche rojo.",
+      "ru": "У моей сестры красная машина.",
+      "extra": [
+        "roja"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Опишите свой город двумя прилагательными.",
+        "en": "Describe your city with two adjectives.",
+        "es": "Describe tu ciudad con dos adjetivos."
+      },
+      "template": "Mi ciudad es …",
+      "sample": "Mi ciudad es grande y bonita."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

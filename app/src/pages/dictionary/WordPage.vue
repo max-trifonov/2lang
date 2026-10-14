@@ -24,7 +24,15 @@ import {
   type CatalogEntry,
 } from '@/features/dictionary'
 import { HighlightText, LangBadge, formsOf } from '@/features/language'
-import { loadLessons, rulesFor, rulesIndex, type RuleHint } from '@/features/lessons'
+import {
+  RuleLinks,
+  grammarForWord,
+  loadLessons,
+  rulesFor,
+  rulesIndex,
+  type GrammarLesson,
+  type RuleHint,
+} from '@/features/lessons'
 import { useProfilesStore } from '@/features/profiles'
 import { UiCard, UiEmptyState, UiSkeleton } from '@/shared/ui'
 
@@ -39,6 +47,8 @@ const id = computed(() => String(route.params.id ?? ''))
 const entry = ref<CatalogEntry | null>(null)
 const pair = ref<CatalogEntry | null>(null)
 const rules = ref<RuleHint[]>([])
+/** Темы грамматики, где слово — опора (D-38): «tener» → «tener que». */
+const grammar = ref<GrammarLesson[]>([])
 const loading = ref(true)
 
 async function load(): Promise<void> {
@@ -46,11 +56,13 @@ async function load(): Promise<void> {
   entry.value = null
   pair.value = null
   rules.value = []
+  grammar.value = []
   try {
     entry.value = (await loadLanguage(lang.value)).find((e) => e.id === id.value) ?? null
     // Подсказки правил чтения (LNG-S1-016): уроки грузятся, только если статья на них ссылается.
     if (entry.value?.rules?.length)
       rules.value = rulesFor(entry.value.rules, rulesIndex(await loadLessons(), lang.value))
+    if (entry.value) grammar.value = grammarForWord(await loadLessons(), lang.value, id.value)
     const ref = entry.value?.pair?.split(':')
     if (ref?.length === 2)
       pair.value = (await loadLanguage(ref[0]!)).find((e) => e.id === ref[1]) ?? null
@@ -152,6 +164,11 @@ const listName = computed(() => (entry.value ? t(`dictionary.lists.${entry.value
               }}</span>
             </li>
           </ul>
+        </section>
+
+        <section v-if="grammar.length" class="word__block">
+          <h2>{{ t('dictionary.card.grammar') }}</h2>
+          <RuleLinks :rules="grammar" />
         </section>
 
         <section v-if="entry.examples?.length" class="word__block">

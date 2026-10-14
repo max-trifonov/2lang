@@ -4,160 +4,147 @@
   "id": "es-grammar-06",
   "lang": "es",
   "kind": "grammar",
+  "section": "verbs",
   "code": "ES-6",
   "order": 6,
   "level": "A1",
-  "requires": [
-    "es-travel-01"
-  ],
   "title": {
-    "ru": "Нужно сделать: tener que + инфинитив",
-    "en": "Have to: tener que + infinitive",
-    "es": "Obligación: tener que + infinitivo"
+    "ru": "hay — «есть, имеется»",
+    "en": "hay — “there is / there are”",
+    "es": "hay: existencia"
   },
-  "words": [
-    "tener",
-    "hacer",
-    "ir"
+  "see": [
+    "es-grammar-05",
+    "es-grammar-02"
   ],
   "pattern": [
     {
-      "es": "Tengo que trabajar mañana.",
-      "ru": "Мне нужно работать завтра."
+      "es": "Hay un café cerca del hotel.",
+      "ru": "Рядом с отелем есть кафе."
     },
     {
-      "es": "Tenemos que hacer un deploy hoy.",
-      "ru": "Нам нужно сделать деплой сегодня."
+      "es": "¿Hay wifi en la habitación?",
+      "ru": "В номере есть вай-фай?"
     },
     {
-      "es": "Tienes que ir al aeropuerto a las seis.",
-      "ru": "Тебе нужно ехать в аэропорт к шести."
+      "es": "No hay billetes para hoy.",
+      "ru": "На сегодня билетов нет."
+    },
+    {
+      "es": "Hay muchos errores en el código.",
+      "ru": "В коде много ошибок."
     }
   ],
   "rule": {
-    "formula": "tener que + инфинитив",
     "text": {
-      "ru": "«Нужно, должен что-то сделать» — tener по лицам + que + глагол в начальной форме. Отрицание: no tengo que — «не нужно».",
-      "en": "“Have to do something” is tener (by person) + que + infinitive. Negative: no tengo que — “don’t have to”.",
-      "es": "Obligación: tener (conjugado) + que + infinitivo. Negación: no tengo que."
+      "ru": "hay — одна форма для ед. и мн. числа: «есть, имеется». После hay — без el / la: hay un banco. Про известный предмет «где он» — estar: El banco está aquí. Вопрос — ¿Hay…?, отрицание — No hay…",
+      "en": "hay is one form for singular and plural: “there is / there are”. No el / la after it: hay un banco. For where a known thing is, use estar: El banco está aquí.",
+      "es": "hay (invariable) + sin artículo determinado. Para ubicar algo conocido: estar."
     },
+    "formula": "hay + (un / una / число / mucho) + существительное",
     "table": {
       "head": [
         "",
-        "tener que + ir"
+        "что-то есть (hay)",
+        "где оно (estar)"
       ],
       "rows": [
         [
-          "yo",
-          "tengo que ir"
+          "ед. ч.",
+          "Hay un banco aquí.",
+          "El banco está aquí."
         ],
         [
-          "tú",
-          "tienes que ir"
+          "мн. ч.",
+          "Hay dos bancos.",
+          "Los bancos están aquí."
         ],
         [
-          "él / ella / usted",
-          "tiene que ir"
-        ],
-        [
-          "nosotros",
-          "tenemos que ir"
-        ],
-        [
-          "vosotros",
-          "tenéis que ir"
-        ],
-        [
-          "ellos / ustedes",
-          "tienen que ir"
+          "вопрос",
+          "¿Hay un banco cerca?",
+          "¿Dónde está el banco?"
         ]
       ]
-    },
-    "timeline": [
-      {
-        "from": "now",
-        "until": "future",
-        "label": {
-          "ru": "обязанность сейчас или впереди",
-          "en": "an obligation now or ahead",
-          "es": "una obligación ahora o más adelante"
-        }
-      }
-    ]
+    }
   },
   "bridge": [
     {
       "lang": "en",
-      "formula": "have to + V",
+      "lesson": "en-grammar-05",
+      "formula": "there is / there are",
       "examples": [
         {
-          "en": "I have to work tomorrow.",
-          "ru": "Мне нужно работать завтра."
+          "en": "Is there a café near the hotel?",
+          "ru": "Рядом с отелем есть кафе?"
         }
       ],
       "note": {
-        "ru": "почти 1:1; don't have to = no tengo que — «не обязательно», а не «нельзя»"
+        "ru": "there is / there are ≈ hay, но hay одна форма"
       }
     }
   ],
   "exercises": [
     {
       "type": "transform",
-      "es": "Tengo que trabajar hoy.",
+      "es": "Hay agua en la nevera.",
       "into": [
         {
           "form": "negative",
-          "answer": "No tengo que trabajar hoy."
+          "answer": "No hay agua en la nevera."
         },
         {
           "form": "question",
-          "answer": [
-            "¿Tengo que trabajar hoy?"
-          ]
+          "answer": "¿Hay agua en la nevera?"
         }
       ]
     },
     {
       "type": "choose",
-      "es": "Nosotros ___ que salir a las ocho.",
+      "es": "¿___ un supermercado cerca?",
       "options": [
-        "tengo",
-        "tenemos",
-        "tienen"
+        "Hay",
+        "Está",
+        "Es"
       ],
-      "answer": "tenemos",
-      "ru": "Нам нужно выйти в восемь."
+      "answer": "Hay",
+      "ru": "Рядом есть супермаркет?"
+    },
+    {
+      "type": "choose",
+      "es": "El supermercado ___ en la esquina.",
+      "options": [
+        "hay",
+        "está"
+      ],
+      "answer": "está",
+      "ru": "Супермаркет на углу."
     },
     {
       "type": "fill",
-      "es": "¿___ que pagar ahora?",
-      "answer": [
-        "Tengo",
-        "Tenemos",
-        "Tienes"
-      ],
-      "ru": "Нужно платить сейчас?"
+      "es": "No ___ problema.",
+      "answer": "hay",
+      "ru": "Нет проблем."
     },
     {
       "type": "build",
-      "es": "Tenemos que hacer un deploy hoy.",
-      "ru": "Нам нужно сделать деплой сегодня.",
+      "es": "Hay muchos turistas en la playa.",
+      "ru": "На пляже много туристов.",
       "extra": [
-        "tiene"
+        "están"
       ]
     },
     {
       "type": "compose",
       "prompt": {
-        "ru": "Напишите, что вам нужно сделать завтра.",
-        "en": "Write what you have to do tomorrow.",
-        "es": "Escribe qué tienes que hacer mañana."
+        "ru": "Опишите, что есть рядом с вашим домом.",
+        "en": "Describe what there is near your home.",
+        "es": "Describe qué hay cerca de tu casa."
       },
-      "template": "Mañana tengo que …",
-      "sample": [
-        "Mañana tengo que ir al aeropuerto.",
-        "Mañana tengo que trabajar."
-      ]
+      "template": "Cerca de mi casa hay …",
+      "sample": "Cerca de mi casa hay un parque y una farmacia."
     }
-  ]
+  ],
+  "ext": {
+    "draft": true
+  }
 }

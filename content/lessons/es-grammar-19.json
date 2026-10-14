@@ -1,0 +1,196 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-19",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "modals",
+  "code": "ES-19",
+  "order": 19,
+  "level": "A1",
+  "title": {
+    "ru": "Хочу, могу, нужно: querer / poder / necesitar + инфинитив",
+    "en": "Want, can, need + infinitive",
+    "es": "querer / poder / necesitar + infinitivo"
+  },
+  "see": [
+    "es-grammar-17",
+    "es-grammar-20",
+    "es-grammar-34"
+  ],
+  "words": [
+    "querer",
+    "poder",
+    "necesitar"
+  ],
+  "pattern": [
+    {
+      "es": "Quiero reservar una mesa.",
+      "ru": "Я хочу забронировать столик."
+    },
+    {
+      "es": "¿Puedo pagar con tarjeta?",
+      "ru": "Можно оплатить картой?"
+    },
+    {
+      "es": "Necesitamos cambiar la contraseña.",
+      "ru": "Нам нужно сменить пароль."
+    },
+    {
+      "es": "No puedo abrir el archivo.",
+      "ru": "Я не могу открыть файл."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Первый глагол спрягается, второй — в начальной форме (на -ar, -er, -ir): quiero ir, puedes venir. ¿Puedo…? — «можно мне…?», ¿Puedes…? — «можешь…?» (просьба). Отрицание — перед первым глаголом: no puedo ir.",
+      "en": "The first verb is conjugated, the second stays in the infinitive: quiero ir, puedes venir. ¿Puedo…? = may I, ¿Puedes…? = can you (request). no goes before the first verb.",
+      "es": "Verbo conjugado + infinitivo. ¿Puedo…? permiso; ¿Puedes…? petición. no + primer verbo."
+    },
+    "formula": "querer / poder / necesitar (по лицам) + инфинитив",
+    "table": {
+      "head": [
+        "",
+        "хотеть",
+        "мочь",
+        "нуждаться"
+      ],
+      "rows": [
+        [
+          "yo",
+          "quiero ir",
+          "puedo ir",
+          "necesito ir"
+        ],
+        [
+          "tú",
+          "quieres ir",
+          "puedes ir",
+          "necesitas ir"
+        ],
+        [
+          "él, ella, usted",
+          "quiere ir",
+          "puede ir",
+          "necesita ir"
+        ],
+        [
+          "nosotros",
+          "queremos ir",
+          "podemos ir",
+          "necesitamos ir"
+        ],
+        [
+          "ellos, ustedes",
+          "quieren ir",
+          "pueden ir",
+          "necesitan ir"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "now",
+        "until": "future",
+        "label": {
+          "ru": "желание или возможность сейчас и потом",
+          "en": "wish or ability now and later",
+          "es": "deseo o posibilidad ahora y después"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-15",
+      "formula": "want to / can / need to + V",
+      "examples": [
+        {
+          "en": "Can I pay by card?",
+          "ru": "Можно оплатить картой?"
+        }
+      ],
+      "note": {
+        "ru": "can ≈ poder почти 1:1; want to — с to, в испанском без предлога"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transform",
+      "es": "Puedes venir mañana.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": "No puedes venir mañana."
+        },
+        {
+          "form": "question",
+          "answer": "¿Puedes venir mañana?"
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "es": "Quiero cambiar la reserva.",
+      "into": [
+        {
+          "form": "negative",
+          "answer": "No quiero cambiar la reserva."
+        },
+        {
+          "form": "question",
+          "answer": "¿Quieres cambiar la reserva?"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "es": "¿___ abrir la ventana? Hace calor.",
+      "options": [
+        "Puedes",
+        "Puedo ir"
+      ],
+      "answer": "Puedes",
+      "ru": "Можешь открыть окно? Жарко."
+    },
+    {
+      "type": "choose",
+      "es": "Necesito ___ el código hoy.",
+      "options": [
+        "reviso",
+        "revisar"
+      ],
+      "answer": "revisar",
+      "ru": "Мне нужно проверить код сегодня."
+    },
+    {
+      "type": "fill",
+      "es": "Mis amigos ___ ver la película. (querer)",
+      "answer": "quieren",
+      "ru": "Мои друзья хотят посмотреть фильм."
+    },
+    {
+      "type": "build",
+      "es": "No podemos llegar a las ocho.",
+      "ru": "Мы не можем приехать к восьми.",
+      "extra": [
+        "puedo"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Попросите коллегу о помощи и скажите, что вам нужно сделать.",
+        "en": "Ask a colleague for help and say what you need to do.",
+        "es": "Pide ayuda a un compañero y di qué necesitas hacer."
+      },
+      "template": "¿Puedes …? Necesito …",
+      "sample": "¿Puedes ayudarme? Necesito terminar el informe hoy."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}
