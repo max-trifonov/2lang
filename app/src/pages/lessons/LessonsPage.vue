@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { IonContent, IonHeader, IonIcon, IonPage, IonTitle, IonToolbar } from '@ionic/vue'
-import { bookOutline, checkmark, play, school, sparkles } from 'ionicons/icons'
+import { bookOutline, checkmark, musicalNotes, play, school, sparkles } from 'ionicons/icons'
 import { computed, ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute, useRouter } from 'vue-router'
@@ -17,6 +17,7 @@ import {
   type LessonStatus,
 } from '@/features/lessons'
 import { useProfilesStore } from '@/features/profiles'
+import { libraryDocs, nextSong, songLessonId, songsOf, type TextDoc } from '@/features/texts'
 import { UiButton, UiChip, UiEmptyState, UiSkeleton } from '@/shared/ui'
 
 // Вкладка «Уроки» (LNG-S1-022): путь по языку и теме, состояние — в URL (AC-1).
@@ -29,6 +30,8 @@ const words = useWordStatusStore()
 
 const lessons = ref<Lesson[] | null>(null)
 const failed = ref(false)
+/** Тексты библиотеки — для раздела «Песни» (D-42); сбой библиотеки уроки не ломает. */
+const library = ref<TextDoc[]>([])
 
 async function load(): Promise<void> {
   failed.value = false
@@ -39,6 +42,9 @@ async function load(): Promise<void> {
   }
 }
 void load()
+void libraryDocs()
+  .then((docs) => (library.value = docs))
+  .catch(() => undefined)
 
 watch(
   () => profiles.activeId,
@@ -66,8 +72,16 @@ const sounds = computed(() => (lessons.value ? soundLessons(lessons.value, lang.
 const topics = computed(() => [
   ...new Set((path.value?.items ?? []).map((i) => i.lesson.topic)),
   ...(grammar.value.length ? [GRAMMAR] : []),
+  SONGS,
   ...(sounds.value.length ? [SOUND] : []),
 ])
+// Песни — раздел-«тема» (D-42): уроки по песням библиотеки языка, «следующая» — на пройденные правила.
+const SONGS = 'songs'
+const inSongs = computed(() => topic.value === SONGS)
+const songs = computed(() => songsOf(library.value, lang.value))
+const songNext = computed(() => nextSong(library.value, lang.value, progress.doneIds()))
+const songDone = (d: TextDoc) => !!progress.get(songLessonId(d.id))
+const songsDone = computed(() => songs.value.filter(songDone).length)
 const inSound = computed(() => topic.value === SOUND)
 // Грамматика — тоже раздел-«тема» (D-38): темы по order, «следующая» — по ритму пути (D-14).
 const GRAMMAR = 'grammar'
@@ -85,7 +99,7 @@ const course = computed(() =>
     : [],
 )
 const shown = computed(() => {
-  if (inSound.value || inGrammar.value) return []
+  if (inSound.value || inGrammar.value || inSongs.value) return []
   const nodes = course.value
   const topicAt = (i: number): string => {
     const near = [...nodes.slice(i), ...nodes.slice(0, i).reverse()]
@@ -186,7 +200,9 @@ const score = (item: { lesson: { id: string } }) => {
                 ? t('path.sound')
                 : tp === GRAMMAR
                   ? t('path.grammar')
-                  : t(`dictionary.card.topics.${tp}`)
+                  : tp === SONGS
+                    ? t('path.songs')
+                    : t(`dictionary.card.topics.${tp}`)
             }}
           </UiChip>
         </div>
@@ -227,6 +243,51 @@ const score = (item: { lesson: { id: string } }) => {
                     <template v-if="score(item)"> · {{ score(item) }}</template>
                   </span>
                   <span v-if="item.status === 'next'" class="node__start">
+                    <IonIcon :icon="play" aria-hidden="true" />
+                    {{ t('home.lessons.start') }}
+                  </span>
+                </span>
+              </button>
+            </li>
+          </ol>
+        </template>
+        <template v-else-if="inSongs">
+          <div class="path__grammar-head">
+            <span>{{ t('songs.progress', { done: songsDone, total: songs.length }) }}</span>
+            <RouterLink to="/texts" class="path__handbook">
+              <IonIcon :icon="musicalNotes" aria-hidden="true" />
+              {{ t('songs.library') }}
+            </RouterLink>
+          </div>
+          <UiEmptyState
+            v-if="!songs.length"
+            variant="empty"
+            icon="musical-notes-outline"
+            :title="t('songs.empty')"
+            :description="t('songs.emptyHint')"
+          />
+          <ol v-else class="path__list">
+            <li
+              v-for="d in songs"
+              :key="d.id"
+              class="node node--rule"
+              :class="songDone(d) ? 'node--done' : d === songNext ? 'node--next' : 'node--open'"
+            >
+              <button type="button" class="node__row" @click="router.push(`/songs/${d.id}`)">
+                <span class="node__dot" aria-hidden="true">
+                  <IonIcon :icon="songDone(d) ? checkmark : musicalNotes" />
+                </span>
+                <span class="node__text">
+                  <strong :lang="d.lang">{{ d.title[d.lang] }}</strong>
+                  <span class="node__meta">
+                    <template v-if="d.performer">{{ d.performer }} · </template>
+                    <template v-if="d.level">{{ d.level }}</template>
+                    <template v-if="songDone(d)"> · {{ t('path.status.done') }}</template>
+                    <template v-if="score({ lesson: { id: songLessonId(d.id) } })">
+                      · {{ score({ lesson: { id: songLessonId(d.id) } }) }}</template
+                    >
+                  </span>
+                  <span v-if="d === songNext" class="node__start">
                     <IonIcon :icon="play" aria-hidden="true" />
                     {{ t('home.lessons.start') }}
                   </span>

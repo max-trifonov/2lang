@@ -40,6 +40,7 @@ const ROOT_KEYS = new Set([
   'tags',
   'links',
   'note',
+  'see',
   'ext',
 ])
 const STANZA_KEYS = new Set(['id', 'type', 'lines', 'ref', 'ext'])
@@ -92,6 +93,7 @@ class Validator extends Checker {
     if ('note' in raw) this.localized(raw.note, 'note')
     if ('ext' in raw) this.type(raw.ext, 'ext', 'object')
     if ('tags' in raw) this.tags(raw.tags)
+    if ('see' in raw) this.see(raw.see)
     if ('links' in raw) this.links(raw.links)
 
     const langOk = 'lang' in raw && this.langCode(raw.lang, 'lang')
@@ -232,6 +234,16 @@ class Validator extends Checker {
       if (seen.has(tag as string))
         ok = this.error('duplicate_tag', join('tags', i), { tag: tag as string })
       seen.add(tag as string)
+    })
+    return ok
+  }
+
+  /** Отсылки к темам грамматики (D-42): id уроков; есть ли такой урок — проверяет набор уроков, не файл. */
+  private see(value: unknown): boolean {
+    if (!this.type(value, 'see', 'array')) return false
+    let ok = true
+    ;(value as unknown[]).forEach((id, i) => {
+      if (!this.nonEmpty(id, join('see', i))) ok = false
     })
     return ok
   }

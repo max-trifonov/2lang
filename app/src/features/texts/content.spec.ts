@@ -46,6 +46,18 @@ describe('контент репозитория', () => {
     expect(checkTextFile(readFileSync(file, 'utf8')).text?.license).not.toBe('personal')
   })
 
+  // Отсылки к правилам (D-42): каждая тема `see` — урок грамматики того же языка.
+  const grammar = new Map(
+    jsonFiles('lessons')
+      .map((f) => JSON.parse(readFileSync(f, 'utf8')) as { id: string; kind: string; lang: string })
+      .filter((l) => l.kind === 'grammar')
+      .map((l) => [l.id, l.lang]),
+  )
+  it.each([...shipped, ...personal])('%s — отсылки see ведут на темы грамматики языка', (file) => {
+    const text = checkTextFile(readFileSync(file, 'utf8')).text!
+    for (const id of text.see ?? []) expect([id, grammar.get(id)]).toEqual([id, text.lang])
+  })
+
   it.each([...shipped, ...personal])('%s — проходит и JSON Schema', (file) => {
     expect(schemaCheck(JSON.parse(readFileSync(file, 'utf8')))).toBe(true)
   })
@@ -67,6 +79,7 @@ describe('JSON Schema и валидатор не расходятся', () => {
     tags: ['it'],
     links: [{ type: 'source', url: 'https://example.org' }],
     note: { ru: 'n' },
+    see: ['en-grammar-01'],
     ext: { any: 1 },
     stanzas: [
       {

@@ -436,7 +436,8 @@
         "now": "now",
         "future": "future"
       },
-      "toReview": "Topic added to review: its exercises will come back mixed with words"
+      "toReview": "Topic added to review: its exercises will come back mixed with words",
+      "songs": "Rule in songs"
     },
     "upNext": "Up next",
     "upNextGrammar": "Up next: a new rule",
@@ -473,7 +474,8 @@
     "sound": "Sounds",
     "grammar": "Grammar",
     "grammarProgress": "Topics done: {done} of {total}",
-    "rule": "Rule"
+    "rule": "Rule",
+    "songs": "Songs"
   },
   "review": {
     "title": "Review",
@@ -564,5 +566,23 @@
       "pronouns": "Pronouns",
       "other": "Other"
     }
+  },
+  "songs": {
+    "title": "Song lesson",
+    "start": "Song lesson",
+    "overview": "About the song",
+    "rules": "Rules in the song",
+    "stanza": "Breakdown · {n} of {total}",
+    "phrasesHint": "Phrases from this stanza come back in exercises and in review",
+    "summary": "Song done!",
+    "toReview": "{n} phrase added to review | {n} phrases added to review",
+    "toText": "Open the full text",
+    "phrases": "{n} phrase | {n} phrases",
+    "empty": "No songs in this language yet",
+    "emptyHint": "Upload your song in the Texts tab — its lesson will appear here",
+    "library": "Text library",
+    "next": "Song to study",
+    "fit": "Uses rules you know",
+    "progress": "Songs done: {done} of {total}"
   }
 }

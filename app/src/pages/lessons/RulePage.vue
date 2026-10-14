@@ -29,6 +29,7 @@ import {
   type Lesson,
 } from '@/features/lessons'
 import { useProfilesStore } from '@/features/profiles'
+import { SongLinks, libraryDocs, songsForRule, type TextDoc } from '@/features/texts'
 import { UiButton, UiEmptyState, UiSkeleton } from '@/shared/ui'
 
 // Карточка правила в справочнике (LNG-S1-033, D-38): правило целиком на одном экране —
@@ -41,6 +42,11 @@ const profiles = useProfilesStore()
 const progress = useLessonProgressStore()
 
 const all = ref<Lesson[]>([])
+/** Песни библиотеки — «правило в песнях» (D-42). */
+const library = ref<TextDoc[]>([])
+void libraryDocs()
+  .then((docs) => (library.value = docs))
+  .catch(() => undefined)
 const lesson = ref<GrammarLesson | null>(null)
 const status = ref<'loading' | 'ready' | 'missing' | 'failed'>('loading')
 
@@ -75,6 +81,7 @@ const tr = (ex: Record<string, unknown>, own: string) => {
 const passed = computed(() => (lesson.value ? progress.get(lesson.value.id) : undefined))
 const see = computed(() => grammarRefs(lesson.value?.see, all.value))
 /** Уроки слов, где правило встречается, — до 8, в порядке пути. */
+const songs = computed(() => (lesson.value ? songsForRule(library.value, lesson.value.id) : []))
 const usedIn = computed(() =>
   lesson.value
     ? backlinks(lesson.value.id, all.value)
@@ -169,6 +176,8 @@ const usedIn = computed(() =>
         </section>
 
         <RuleLinks :rules="see" :title="t('lessons.grammar.see')" />
+
+        <SongLinks :songs="songs" :title="t('lessons.grammar.songs')" />
 
         <section v-if="usedIn.length" class="rule__block">
           <h2>{{ t('rules.usedIn') }}</h2>

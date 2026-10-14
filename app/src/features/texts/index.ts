@@ -31,3 +31,16 @@ export {
   type ReplacePlan,
 } from './store'
 export { default as ImportResults } from './ui/ImportResults.vue'
+export {
+  SONG_PRACTICE_PHRASES,
+  buildSongPractice,
+  gapLine,
+  nextSong,
+  songLessonId,
+  songPhrases,
+  songStanzas,
+  songsForRule,
+  songsOf,
+} from './domain/lesson'
+export { libraryDocs } from './library'
+export { default as SongLinks } from './ui/SongLinks.vue'

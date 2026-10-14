@@ -16,6 +16,14 @@
   "note": {
     "ru": "Рэп: много сленга и разговорных форм (I got, the sound don't die). Перевод строк — черновик, его нужно выверить."
   },
+  "see": [
+    "en-grammar-07",
+    "en-grammar-14",
+    "en-grammar-17",
+    "en-grammar-19",
+    "en-grammar-26",
+    "en-grammar-27"
+  ],
   "stanzas": [
     {
       "type": "verse",
@@ -89,6 +97,9 @@
         {
           "en": "Every word's a weapon, every note takes you higher",
           "ru": "Каждое слово — оружие, каждая нота поднимает тебя выше",
+          "note": {
+            "ru": "Present Simple: takes — 3-е лицо с -s (EN-7); higher — сравнительная степень (EN-27)."
+          },
           "phrases": [
             {
               "en": "takes you higher",
@@ -108,6 +119,9 @@
         {
           "en": "Oh, Draugr's got the fire",
           "ru": "О, у Драугра — огонь",
+          "note": {
+            "ru": "'s got = has got — «у него есть» (EN-14). Не путать с is: Draugr's waiting = Draugr is waiting."
+          },
           "phrases": [
             {
               "en": "Draugr's got",
@@ -273,6 +287,9 @@
         {
           "en": "Remember when we stood on cliff's edge high?",
           "ru": "Помнишь, как мы стояли высоко на краю утёса?",
+          "note": {
+            "ru": "Past Simple неправильных глаголов: stand → stood, break → broke; dream → dreamed (EN-19)."
+          },
           "phrases": [
             {
               "en": "Remember when",
@@ -312,6 +329,9 @@
         {
           "en": "Now the whole world's listening, let 'em hear us cry out loud",
           "ru": "Теперь весь мир слушает — пусть слышат, как мы кричим во весь голос",
+          "note": {
+            "ru": "Present Continuous: (the world) is listening — происходит сейчас (EN-17); let 'em = let them + глагол без to (EN-26)."
+          },
           "phrases": [
             {
               "en": "the whole world's listening",

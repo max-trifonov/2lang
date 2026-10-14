@@ -1,0 +1,280 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "long-live-death",
+  "kind": "song",
+  "lang": "en",
+  "license": "personal",
+  "title": {
+    "en": "Long Live Death",
+    "ru": "Да здравствует Смерть"
+  },
+  "level": "A2",
+  "tags": [
+    "history"
+  ],
+  "note": {
+    "ru": "Песня о чумном докторе: корица, лаванда, уксус, можжевельник и полынь — средства от «дурного воздуха», перчатки и трость — его снаряжение."
+  },
+  "see": [
+    "en-grammar-03",
+    "en-grammar-04",
+    "en-grammar-10",
+    "en-grammar-22"
+  ],
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Who's gonna bring the cinnamon?",
+          "ru": "Кто принесёт корицу?",
+          "note": {
+            "ru": "Вопрос к подлежащему: who + глагол без do (EN-10); gonna = going to — «кто собирается / кто будет» (EN-22)."
+          },
+          "phrases": [
+            {
+              "en": "Who's gonna bring",
+              "ru": "кто принесёт",
+              "note": {
+                "ru": "gonna = going to — разговорное будущее (EN-22); who's = who is"
+              }
+            },
+            {
+              "en": "cinnamon",
+              "ru": "корица"
+            }
+          ]
+        },
+        {
+          "en": "Who's gonna bring the gloves?",
+          "ru": "Кто принесёт перчатки?",
+          "phrases": [
+            {
+              "en": "gloves",
+              "ru": "перчатки"
+            }
+          ]
+        },
+        {
+          "en": "Who's gonna bring the lavender?",
+          "ru": "Кто принесёт лаванду?",
+          "phrases": [
+            {
+              "en": "lavender",
+              "ru": "лаванда"
+            }
+          ]
+        },
+        {
+          "en": "Who's gonna bring the torch?",
+          "ru": "Кто принесёт факел?",
+          "phrases": [
+            {
+              "en": "torch",
+              "ru": "факел; фонарик",
+              "note": {
+                "ru": "в британском torch — ещё и карманный фонарик"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Who's gonna heal the easy girls?",
+          "ru": "Кто исцелит девиц лёгкого поведения?",
+          "lit": {
+            "ru": "Кто вылечит «лёгких девочек»?"
+          },
+          "phrases": [
+            {
+              "en": "heal",
+              "ru": "исцелять, лечить"
+            },
+            {
+              "en": "easy girls",
+              "ru": "девицы лёгкого поведения"
+            }
+          ]
+        },
+        {
+          "en": "Who's gonna heal the nuns?",
+          "ru": "Кто исцелит монахинь?",
+          "phrases": [
+            {
+              "en": "nuns",
+              "ru": "монахини"
+            }
+          ]
+        },
+        {
+          "en": "Who's gonna heal the mothers in black?",
+          "ru": "Кто исцелит матерей в чёрном?",
+          "note": {
+            "ru": "the — известные, определённые люди (EN-3); mothers — множественное с -s (EN-4)."
+          },
+          "phrases": [
+            {
+              "en": "in black",
+              "ru": "в чёрном",
+              "note": {
+                "ru": "in + цвет — одетый в этот цвет"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Who's gonna heal their sons?",
+          "ru": "Кто исцелит их сыновей?"
+        }
+      ]
+    },
+    {
+      "id": "death",
+      "type": "chorus",
+      "lines": [
+        {
+          "en": "Long live Death!",
+          "ru": "Да здравствует Смерть!",
+          "phrases": [
+            {
+              "en": "Long live",
+              "ru": "да здравствует",
+              "note": {
+                "ru": "long live + кто-то — «да здравствует»; глагол без -s: это пожелание, а не Present Simple"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Long live Death!",
+          "ru": "Да здравствует Смерть!"
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Who's gonna bring the vinegar?",
+          "ru": "Кто принесёт уксус?",
+          "phrases": [
+            {
+              "en": "vinegar",
+              "ru": "уксус"
+            }
+          ]
+        },
+        {
+          "en": "Who's gonna bring the rod?",
+          "ru": "Кто принесёт трость?",
+          "lit": {
+            "ru": "Кто принесёт жезл?"
+          },
+          "phrases": [
+            {
+              "en": "rod",
+              "ru": "трость, жезл; удочка",
+              "note": {
+                "ru": "fishing rod — удочка; у чумного доктора — трость, которой он осматривал больных, не касаясь их"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Who's gonna bring the junipers?",
+          "ru": "Кто принесёт можжевельник?",
+          "phrases": [
+            {
+              "en": "junipers",
+              "ru": "можжевельник"
+            }
+          ]
+        },
+        {
+          "en": "Who's gonna bring the wormwood?",
+          "ru": "Кто принесёт полынь?",
+          "phrases": [
+            {
+              "en": "wormwood",
+              "ru": "полынь"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Who's gonna heal the noblemen?",
+          "ru": "Кто исцелит знать?",
+          "note": {
+            "ru": "Неправильное множественное: nobleman → noblemen, как man → men (EN-4)."
+          },
+          "phrases": [
+            {
+              "en": "noblemen",
+              "ru": "знать, дворяне",
+              "note": {
+                "ru": "nobleman — мн. ч. noblemen"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Who's gonna heal the dames?",
+          "ru": "Кто исцелит дам?",
+          "phrases": [
+            {
+              "en": "dames",
+              "ru": "дамы",
+              "note": {
+                "ru": "dame — дама, знатная женщина"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Who's gonna heal the widows in black?",
+          "ru": "Кто исцелит вдов в чёрном?",
+          "phrases": [
+            {
+              "en": "widows",
+              "ru": "вдовы"
+            }
+          ]
+        },
+        {
+          "en": "Who's gonna ease the pain?",
+          "ru": "Кто облегчит боль?",
+          "phrases": [
+            {
+              "en": "ease the pain",
+              "ru": "облегчить боль"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "death"
+    },
+    {
+      "ref": "death"
+    },
+    {
+      "ref": "death"
+    },
+    {
+      "ref": "death"
+    },
+    {
+      "ref": "death"
+    }
+  ]
+}

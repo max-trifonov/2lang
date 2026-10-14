@@ -1,0 +1,360 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "here-and-now",
+  "kind": "song",
+  "lang": "en",
+  "license": "personal",
+  "title": {
+    "en": "Here and Now",
+    "ru": "Здесь и сейчас"
+  },
+  "performer": "Kiske/Somerville",
+  "level": "B1",
+  "tags": [
+    "love"
+  ],
+  "note": {
+    "ru": "Дуэт Михаэля Киске и Аманды Сомервилль. Перевод — черновик, его нужно выверить."
+  },
+  "see": [
+    "en-grammar-05",
+    "en-grammar-09",
+    "en-grammar-15",
+    "en-grammar-17",
+    "en-grammar-27",
+    "en-grammar-35"
+  ],
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Is it just a dream, or is it just a deja vu from nowhere?",
+          "ru": "Это просто сон или просто дежавю из ниоткуда?",
+          "note": {
+            "ru": "Общий вопрос с to be: Is it…? — глагол перед подлежащим (EN-9)."
+          },
+          "phrases": [
+            {
+              "en": "Is it just",
+              "ru": "это просто…?",
+              "note": {
+                "ru": "общий вопрос с to be: is + it"
+              }
+            },
+            {
+              "en": "from nowhere",
+              "ru": "из ниоткуда"
+            }
+          ]
+        },
+        {
+          "en": "I hide myself, my feelings were hurt long ago",
+          "ru": "Я прячусь — мои чувства ранили давным-давно",
+          "note": {
+            "ru": "Страдательный залог в прошедшем: were + V3 (EN-35)."
+          },
+          "phrases": [
+            {
+              "en": "I hide myself",
+              "ru": "я прячусь",
+              "note": {
+                "ru": "возвратное: hide oneself"
+              }
+            },
+            {
+              "en": "were hurt",
+              "ru": "были ранены",
+              "note": {
+                "ru": "страдательный залог в прошедшем: were + V3 (hurt — неправильный глагол)"
+              }
+            },
+            {
+              "en": "long ago",
+              "ru": "давным-давно"
+            }
+          ]
+        },
+        {
+          "en": "Just curious, in the middle of a lonely road",
+          "ru": "Просто любопытно… посреди одинокой дороги",
+          "phrases": [
+            {
+              "en": "in the middle of",
+              "ru": "посреди, в середине"
+            }
+          ]
+        },
+        {
+          "en": "I turn myself away, through the dirt",
+          "ru": "Я отворачиваюсь и иду сквозь грязь",
+          "phrases": [
+            {
+              "en": "turn myself away",
+              "ru": "отворачиваюсь",
+              "note": {
+                "ru": "turn away — отвернуться, уйти"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pre",
+      "type": "bridge",
+      "lines": [
+        {
+          "en": "I'm running in the night, got nowhere else to hide",
+          "ru": "Я бегу в ночи, мне больше негде спрятаться",
+          "note": {
+            "ru": "Present Continuous: I am running — происходит сейчас (EN-17)."
+          },
+          "phrases": [
+            {
+              "en": "nowhere else to hide",
+              "ru": "больше негде спрятаться",
+              "note": {
+                "ru": "got = I've got; nowhere else — больше нигде"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I'm looking through this wounded heart inside me",
+          "ru": "Я смотрю сквозь это раненое сердце внутри меня",
+          "phrases": [
+            {
+              "en": "wounded heart",
+              "ru": "раненое сердце"
+            }
+          ]
+        },
+        {
+          "en": "I'm walking without aim, no destination, pouring rain",
+          "ru": "Я иду без цели, никуда, под проливным дождём",
+          "phrases": [
+            {
+              "en": "without aim",
+              "ru": "без цели"
+            },
+            {
+              "en": "pouring rain",
+              "ru": "проливной дождь",
+              "note": {
+                "ru": "pour — лить"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Or is it just the end of my lonely road?",
+          "ru": "Или это просто конец моей одинокой дороги?",
+          "phrases": [
+            {
+              "en": "the end of my lonely road",
+              "ru": "конец моей одинокой дороги"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1",
+      "type": "chorus",
+      "lines": [
+        {
+          "en": "Here and now, I wonder how can feelings hurt",
+          "ru": "Здесь и сейчас я думаю: как могут ранить чувства?",
+          "phrases": [
+            {
+              "en": "Here and now",
+              "ru": "здесь и сейчас"
+            },
+            {
+              "en": "I wonder how",
+              "ru": "интересно, как; я думаю, как",
+              "note": {
+                "ru": "в правильной речи порядок прямой: how feelings can hurt"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Here and now, when silence speaks louder than words",
+          "ru": "Здесь и сейчас, когда молчание говорит громче слов",
+          "note": {
+            "ru": "Сравнительная степень: loud → louder than (EN-27)."
+          },
+          "phrases": [
+            {
+              "en": "louder than words",
+              "ru": "громче слов",
+              "note": {
+                "ru": "сравнительная степень: loud → louder than (EN-27)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "No regrets, another morning and another place",
+          "ru": "Без сожалений: другое утро, другое место",
+          "phrases": [
+            {
+              "en": "No regrets",
+              "ru": "без сожалений"
+            }
+          ]
+        },
+        {
+          "en": "No looking back, just turned myself away",
+          "ru": "Не оглядываясь, просто отвернулся",
+          "phrases": [
+            {
+              "en": "No looking back",
+              "ru": "не оглядываясь",
+              "note": {
+                "ru": "no + -ing — «никаких…, без…»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "There is innocence, and silence that starts long ago",
+          "ru": "Есть невинность и тишина, что началась давным-давно",
+          "note": {
+            "ru": "There is — «есть, имеется» (EN-5)."
+          },
+          "phrases": [
+            {
+              "en": "There is",
+              "ru": "есть, имеется",
+              "note": {
+                "ru": "there is — «есть» (EN-5)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "A destiny, without you",
+          "ru": "Судьба — без тебя",
+          "phrases": [
+            {
+              "en": "A destiny",
+              "ru": "судьба"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "pre"
+    },
+    {
+      "ref": "c1"
+    },
+    {
+      "id": "c2",
+      "type": "chorus",
+      "lines": [
+        {
+          "en": "Here and now, I walk the boulevard of lonely dreams",
+          "ru": "Здесь и сейчас я иду по бульвару одиноких мечтаний",
+          "phrases": [
+            {
+              "en": "I walk the boulevard",
+              "ru": "иду по бульвару",
+              "note": {
+                "ru": "walk + место без предлога — идти по чему-то"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Here and now, no matter if my end is near",
+          "ru": "Здесь и сейчас — неважно, близок ли мой конец",
+          "phrases": [
+            {
+              "en": "no matter if",
+              "ru": "неважно, если/ли",
+              "note": {
+                "ru": "no matter if / how / what — неважно, …"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "pre"
+    },
+    {
+      "type": "bridge",
+      "lines": [
+        {
+          "en": "I am ready for a fight, no matter how you try",
+          "ru": "Я готов к бою, как бы ты ни старался",
+          "phrases": [
+            {
+              "en": "ready for a fight",
+              "ru": "готов к бою"
+            },
+            {
+              "en": "no matter how you try",
+              "ru": "как бы ты ни старался"
+            }
+          ]
+        },
+        {
+          "en": "I would be the one surviving without fortress",
+          "ru": "Я буду тем, кто выживет и без крепости",
+          "phrases": [
+            {
+              "en": "the one surviving",
+              "ru": "тот, кто выживет",
+              "note": {
+                "ru": "the one + -ing — тот, кто…"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I would mend my broken heart, you can't tear it apart",
+          "ru": "Я залечу своё разбитое сердце — тебе его не разорвать",
+          "phrases": [
+            {
+              "en": "mend my broken heart",
+              "ru": "залечить разбитое сердце",
+              "note": {
+                "ru": "mend — чинить, исправлять"
+              }
+            },
+            {
+              "en": "tear it apart",
+              "ru": "разорвать на части",
+              "note": {
+                "ru": "tear — tore — torn"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Or is it just the end of my lonely road?",
+          "ru": "Или это просто конец моей одинокой дороги?"
+        }
+      ]
+    },
+    {
+      "ref": "c1"
+    },
+    {
+      "ref": "c2"
+    }
+  ]
+}

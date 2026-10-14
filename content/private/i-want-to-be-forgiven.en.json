@@ -13,6 +13,13 @@
   "tags": [
     "love"
   ],
+  "see": [
+    "en-grammar-15",
+    "en-grammar-19",
+    "en-grammar-32",
+    "en-grammar-35",
+    "en-grammar-36"
+  ],
   "stanzas": [
     {
       "type": "verse",
@@ -20,6 +27,9 @@
         {
           "en": "Still regret I turned my back on you",
           "ru": "Все еще жалею, что повернулся к тебе спиной",
+          "note": {
+            "ru": "Подлежащее опущено, как часто в песнях: (I) still regret (that) I turned… — сейчас жалею (Present Simple) о том, что сделал (Past Simple, EN-19)."
+          },
           "phrases": [
             {
               "en": "turned my back on",
@@ -95,6 +105,9 @@
           "lit": {
             "ru": "Я был ослаблен крылом очарования искушения"
           },
+          "note": {
+            "ru": "Страдательный залог в прошедшем: was + V3 + by — «был ослаблен чем-то» (EN-35)."
+          },
           "phrases": [
             {
               "en": "I was weakened by",
@@ -114,6 +127,9 @@
         {
           "en": "I want to be forgiven",
           "ru": "Я хочу, чтобы меня простили",
+          "note": {
+            "ru": "want + to + be + V3: «хочу, чтобы меня простили» — пассивный инфинитив (EN-36, EN-35)."
+          },
           "phrases": [
             {
               "en": "I want to be forgiven",
@@ -180,6 +196,9 @@
         {
           "en": "Can you ease the pain I feel within",
           "ru": "Можешь ли ты облегчить боль, которую я чувствую внутри",
+          "note": {
+            "ru": "Can you…? — просьба-вопрос (EN-15); the pain (that) I feel — придаточное без that."
+          },
           "phrases": [
             {
               "en": "ease the pain",

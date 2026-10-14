@@ -91,6 +91,8 @@ export interface TextDoc {
   tags?: string[]
   links?: TextLink[]
   note?: Localized
+  /** Темы грамматики, которые встречаются в тексте (D-42): id уроков `kind: grammar` языка текста. */
+  see?: string[]
   stanzas: Stanza[]
   ext?: Ext
 }

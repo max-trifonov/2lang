@@ -16,6 +16,7 @@ export const router = createRouter({
     { path: '/lessons/:id', component: () => import('@/pages/lessons/LessonPage.vue') },
     { path: '/sounds/:id', component: () => import('@/pages/lessons/SoundLessonPage.vue') },
     { path: '/grammar/:id', component: () => import('@/pages/lessons/GrammarLessonPage.vue') },
+    { path: '/songs/:id', component: () => import('@/pages/lessons/SongLessonPage.vue') },
     { path: '/rules', component: () => import('@/pages/lessons/RulesPage.vue') },
     { path: '/rules/:id', component: () => import('@/pages/lessons/RulePage.vue') },
     { path: '/review', component: () => import('@/pages/review/ReviewPage.vue') },

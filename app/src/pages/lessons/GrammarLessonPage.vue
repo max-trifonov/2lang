@@ -42,6 +42,7 @@ import {
 } from '@/features/lessons'
 import { useProfilesStore } from '@/features/profiles'
 import { grammarKey, useCardsStore } from '@/features/review'
+import { SongLinks, libraryDocs, songsForRule, type TextDoc } from '@/features/texts'
 import { UiButton, UiEmptyState, UiProgressRing, UiSkeleton } from '@/shared/ui'
 
 // Плеер урока грамматики (LNG-S1-033, D-38): паттерн → правило на одном экране → мост →
@@ -56,6 +57,11 @@ const cards = useCardsStore()
 const wordStatus = useWordStatusStore()
 
 const all = ref<Lesson[]>([])
+/** Песни библиотеки — «правило в песнях» на итоге (D-42). */
+const library = ref<TextDoc[]>([])
+void libraryDocs()
+  .then((docs) => (library.value = docs))
+  .catch(() => undefined)
 const lesson = ref<GrammarLesson | null>(null)
 const step = ref(0)
 const practice = ref<Practice<GrammarTask> | null>(null)
@@ -130,6 +136,7 @@ const tr = (ex: Record<string, unknown>, own: string) => {
   return pick(locale.value) || pick('ru')
 }
 const see = computed(() => grammarRefs(lesson.value?.see, all.value))
+const songs = computed(() => (lesson.value ? songsForRule(library.value, lesson.value.id) : []))
 
 function nextIntro(): void {
   step.value++
@@ -294,6 +301,7 @@ function close(): void {
             {{ t('lessons.grammar.toHandbook') }}
           </RouterLink>
           <p class="grammar__review">{{ t('lessons.grammar.toReview') }}</p>
+          <SongLinks :songs="songs" :title="t('lessons.grammar.songs')" class="grammar__see" />
           <RuleLinks :rules="see" :title="t('lessons.grammar.see')" class="grammar__see" />
           <div class="grammar__bottom">
             <UpNext v-if="upNext" :lesson="upNext" @go="goNext" />

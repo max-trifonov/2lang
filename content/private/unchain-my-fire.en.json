@@ -1,0 +1,411 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "unchain-my-fire",
+  "kind": "song",
+  "lang": "en",
+  "license": "personal",
+  "title": {
+    "en": "Unchain My Fire",
+    "ru": "Освободи мой огонь"
+  },
+  "level": "B1",
+  "tags": [
+    "love"
+  ],
+  "note": {
+    "ru": "Перевод — черновик, его нужно выверить. Часть строк, похоже, записана на слух с ошибками (How the man who was wasting on your time, Tell why you need me)."
+  },
+  "see": [
+    "en-grammar-08",
+    "en-grammar-10",
+    "en-grammar-17",
+    "en-grammar-31",
+    "en-grammar-37"
+  ],
+  "stanzas": [
+    {
+      "id": "hum",
+      "type": "intro",
+      "lines": [
+        {
+          "en": "Hmmm Hmmm",
+          "ru": "Хмм, хмм"
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Sometimes I feel on the line",
+          "ru": "Иногда я чувствую себя на грани",
+          "phrases": [
+            {
+              "en": "on the line",
+              "ru": "на грани, на кону",
+              "note": {
+                "ru": "be on the line — быть под угрозой, на кону"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Where are you by now",
+          "ru": "Где ты сейчас",
+          "phrases": [
+            {
+              "en": "by now",
+              "ru": "к этому времени, уже",
+              "note": {
+                "ru": "by now — к настоящему моменту"
+              }
+            }
+          ]
+        },
+        {
+          "en": "How are you doing on your own",
+          "ru": "Как ты справляешься одна",
+          "note": {
+            "ru": "Present Continuous в вопросе о делах: How are you doing? (EN-17)."
+          },
+          "phrases": [
+            {
+              "en": "How are you doing",
+              "ru": "как ты, как справляешься",
+              "note": {
+                "ru": "Present Continuous в вопросе о делах"
+              }
+            },
+            {
+              "en": "on your own",
+              "ru": "одна, сама по себе",
+              "note": {
+                "ru": "on one's own — самостоятельно, в одиночку"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Sometimes I think you were mine",
+          "ru": "Иногда мне кажется, что ты была моей",
+          "phrases": [
+            {
+              "en": "you were mine",
+              "ru": "ты была моей",
+              "note": {
+                "ru": "mine — притяжательное без существительного (EN-12)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I don't believe you in the wrong",
+          "ru": "Я не верю, что ты была неправа",
+          "phrases": [
+            {
+              "en": "in the wrong",
+              "ru": "неправ, виноват",
+              "note": {
+                "ru": "be in the wrong — быть неправым"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Tell me why you love me",
+          "ru": "Скажи, почему ты меня любишь",
+          "phrases": [
+            {
+              "en": "Tell me why",
+              "ru": "скажи, почему",
+              "note": {
+                "ru": "косвенный вопрос: прямой порядок слов — why you love me, без do"
+              }
+            }
+          ]
+        },
+        {
+          "en": "How the man who was wasting on your time",
+          "ru": "Как того, кто лишь тратил твоё время",
+          "lit": {
+            "ru": "Как мужчину, который тратил на твоё время"
+          },
+          "note": {
+            "ru": "Past Continuous: was wasting — длилось в прошлом (EN-31)."
+          },
+          "phrases": [
+            {
+              "en": "was wasting",
+              "ru": "тратил впустую",
+              "note": {
+                "ru": "Past Continuous; обычно говорят waste your time — тратить твоё время"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Tell me why you need me",
+          "ru": "Скажи, зачем я тебе нужен",
+          "phrases": [
+            {
+              "en": "why you need me",
+              "ru": "зачем я тебе нужен"
+            }
+          ]
+        },
+        {
+          "en": "I'm the man who is guilty of this crime",
+          "ru": "Я тот, кто виновен в этом преступлении",
+          "phrases": [
+            {
+              "en": "guilty of",
+              "ru": "виновен в",
+              "note": {
+                "ru": "be guilty of smth — быть виновным в чём-то"
+              }
+            },
+            {
+              "en": "the man who",
+              "ru": "тот, кто",
+              "note": {
+                "ru": "who — «который» о человеке"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Oh nooo",
+          "ru": "О не-е-ет"
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "type": "chorus",
+      "lines": [
+        {
+          "en": "Unchain my arm, my fire",
+          "ru": "Освободи мою руку, мой огонь",
+          "phrases": [
+            {
+              "en": "Unchain",
+              "ru": "освободи, сними цепь",
+              "note": {
+                "ru": "un- + chain (цепь): unchain — снять цепь"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Why do you love me?",
+          "ru": "Почему ты любишь меня?",
+          "note": {
+            "ru": "Специальный вопрос: why + do + you + глагол (EN-10)."
+          },
+          "phrases": [
+            {
+              "en": "Why do you love me",
+              "ru": "почему ты любишь меня",
+              "note": {
+                "ru": "вопрос в Present Simple: why + do + подлежащее + глагол"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Why do you love me?",
+          "ru": "Почему ты любишь меня?"
+        },
+        {
+          "en": "Unchain my dreams desire",
+          "ru": "Освободи мои мечты, моё желание",
+          "lit": {
+            "ru": "Освободи желание моих мечтаний"
+          }
+        },
+        {
+          "en": "Why do you love me?",
+          "ru": "Почему ты любишь меня?"
+        }
+      ]
+    },
+    {
+      "ref": "hum"
+    },
+    {
+      "id": "drag",
+      "type": "bridge",
+      "lines": [
+        {
+          "en": "I drag you down",
+          "ru": "Я тяну тебя на дно",
+          "phrases": [
+            {
+              "en": "drag you down",
+              "ru": "тяну тебя вниз",
+              "note": {
+                "ru": "drag smb down — тянуть вниз, быть обузой"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I hold you down",
+          "ru": "Я не даю тебе подняться",
+          "phrases": [
+            {
+              "en": "hold you down",
+              "ru": "не даю подняться",
+              "note": {
+                "ru": "hold smb down — удерживать, сковывать"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Sometimes I'm lonely in the rain",
+          "ru": "Иногда мне одиноко под дождём",
+          "phrases": [
+            {
+              "en": "lonely",
+              "ru": "одиноко"
+            }
+          ]
+        },
+        {
+          "en": "I think of you right now",
+          "ru": "Я думаю о тебе прямо сейчас",
+          "phrases": [
+            {
+              "en": "think of you",
+              "ru": "думаю о тебе",
+              "note": {
+                "ru": "think of / about smb — думать о ком-то"
+              }
+            },
+            {
+              "en": "right now",
+              "ru": "прямо сейчас"
+            }
+          ]
+        },
+        {
+          "en": "So complicated on my own",
+          "ru": "Так непросто одному",
+          "phrases": [
+            {
+              "en": "complicated",
+              "ru": "сложно, запутанно"
+            }
+          ]
+        },
+        {
+          "en": "Sometimes I wish I knew what you love about me",
+          "ru": "Иногда хотел бы я знать, что ты во мне любишь",
+          "note": {
+            "ru": "wish + Past Simple — жалею, что сейчас не знаю; та же логика, что в условных 2 (EN-37)."
+          },
+          "phrases": [
+            {
+              "en": "I wish I knew",
+              "ru": "хотел бы я знать",
+              "note": {
+                "ru": "wish + Past Simple — жалею, что сейчас не так"
+              }
+            },
+            {
+              "en": "what you love about me",
+              "ru": "что ты во мне любишь",
+              "note": {
+                "ru": "love smth about smb — любить что-то в человеке"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I don't remember anymore",
+          "ru": "Я больше не помню",
+          "note": {
+            "ru": "Отрицание: don't + глагол; not … anymore — «больше не» (EN-8)."
+          },
+          "phrases": [
+            {
+              "en": "anymore",
+              "ru": "больше (не)",
+              "note": {
+                "ru": "not … anymore — больше не"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Tell why you need me",
+          "ru": "Скажи, зачем я тебе нужен"
+        },
+        {
+          "en": "Tell me why you hold me in your life",
+          "ru": "Скажи, почему ты держишь меня в своей жизни",
+          "phrases": [
+            {
+              "en": "hold me in your life",
+              "ru": "держишь меня в своей жизни"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Oh no",
+          "ru": "О нет"
+        }
+      ]
+    },
+    {
+      "ref": "chorus"
+    },
+    {
+      "ref": "drag"
+    },
+    {
+      "type": "outro",
+      "lines": [
+        {
+          "en": "Sometimes I feel on the line",
+          "ru": "Иногда я чувствую себя на грани"
+        },
+        {
+          "en": "Where are you by now",
+          "ru": "Где ты сейчас"
+        },
+        {
+          "en": "How are you doing on your own",
+          "ru": "Как ты справляешься одна"
+        }
+      ]
+    }
+  ]
+}

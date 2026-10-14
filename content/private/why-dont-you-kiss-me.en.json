@@ -1,0 +1,350 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "why-dont-you-kiss-me",
+  "kind": "song",
+  "lang": "en",
+  "license": "personal",
+  "title": {
+    "en": "Why Don't You Kiss Me",
+    "ru": "Почему ты не целуешь меня"
+  },
+  "level": "B1",
+  "tags": [
+    "love"
+  ],
+  "note": {
+    "ru": "Перевод — черновик, его нужно выверить. Песня поётся от лица девушки — в переводе женский род."
+  },
+  "see": [
+    "en-grammar-02",
+    "en-grammar-08",
+    "en-grammar-10",
+    "en-grammar-19",
+    "en-grammar-21",
+    "en-grammar-26"
+  ],
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Please roll your eyes after me",
+          "ru": "Прошу, следи за мной глазами",
+          "lit": {
+            "ru": "Пожалуйста, закатывай глаза мне вслед"
+          },
+          "phrases": [
+            {
+              "en": "roll your eyes",
+              "ru": "водить глазами; закатывать глаза",
+              "note": {
+                "ru": "обычно roll one's eyes — закатить глаза (раздражение); здесь — «води глазами мне вслед»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Control my mind easily",
+          "ru": "Легко управляй моим разумом",
+          "phrases": [
+            {
+              "en": "Control my mind",
+              "ru": "управляй моим разумом"
+            },
+            {
+              "en": "easily",
+              "ru": "легко",
+              "note": {
+                "ru": "наречие на -ly от easy"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I am all yours",
+          "ru": "Я вся твоя",
+          "note": {
+            "ru": "to be: I am (EN-2); yours — «твой» без существительного (EN-12)."
+          },
+          "phrases": [
+            {
+              "en": "all yours",
+              "ru": "весь (вся) твой",
+              "note": {
+                "ru": "be all yours — целиком принадлежать"
+              }
+            }
+          ]
+        },
+        {
+          "en": "That's what you want, baby",
+          "ru": "Ведь этого ты и хочешь, малыш",
+          "phrases": [
+            {
+              "en": "That's what you want",
+              "ru": "вот чего ты хочешь",
+              "note": {
+                "ru": "that's what … — вот что…"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Uh-uh, like a ray of sun shining in the air",
+          "ru": "Ага, как луч солнца, сияющий в воздухе",
+          "phrases": [
+            {
+              "en": "a ray of sun",
+              "ru": "луч солнца"
+            }
+          ]
+        },
+        {
+          "en": "You had me up and down, I took you like ecstasy",
+          "ru": "Со мной ты был как на качелях, я принимала тебя, как экстаз",
+          "phrases": [
+            {
+              "en": "up and down",
+              "ru": "то вверх, то вниз"
+            },
+            {
+              "en": "I took you like",
+              "ru": "я принимала тебя, как"
+            }
+          ]
+        },
+        {
+          "en": "Sight of you, your heart beats like mine 'til the end",
+          "ru": "Вижу тебя — твоё сердце бьётся, как моё, до самого конца",
+          "phrases": [
+            {
+              "en": "'til the end",
+              "ru": "до самого конца",
+              "note": {
+                "ru": "'til = until — до"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Please hide your lies, painted in black and red",
+          "ru": "Прошу, спрячь свою ложь, раскрашенную в чёрное и красное",
+          "phrases": [
+            {
+              "en": "hide your lies",
+              "ru": "спрячь свою ложь"
+            },
+            {
+              "en": "painted in",
+              "ru": "раскрашенная в",
+              "note": {
+                "ru": "painted — V3 от paint"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "type": "chorus",
+      "lines": [
+        {
+          "en": "Why don't you kiss me like you did the day before?",
+          "ru": "Почему ты не целуешь меня, как вчера?",
+          "note": {
+            "ru": "Why don't you…? — вопрос с отрицанием, упрёк (EN-8, EN-10); like you did — did заменяет kissed (EN-19)."
+          },
+          "phrases": [
+            {
+              "en": "Why don't you",
+              "ru": "почему ты не",
+              "note": {
+                "ru": "why don't you …? — упрёк или предложение «почему бы тебе не…»"
+              }
+            },
+            {
+              "en": "like you did",
+              "ru": "как раньше",
+              "note": {
+                "ru": "did заменяет повторный глагол: like you kissed me"
+              }
+            },
+            {
+              "en": "the day before",
+              "ru": "накануне, днём раньше"
+            }
+          ]
+        },
+        {
+          "en": "'Cause I thought you were so in love",
+          "ru": "Ведь я думала, что ты так влюблён",
+          "phrases": [
+            {
+              "en": "so in love",
+              "ru": "так влюблён",
+              "note": {
+                "ru": "be in love — быть влюблённым"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Why don't you love me? Gave you everything and more",
+          "ru": "Почему ты меня не любишь? Я отдала тебе всё и даже больше",
+          "note": {
+            "ru": "gave — Past Simple от give (EN-19), подлежащее I опущено."
+          },
+          "phrases": [
+            {
+              "en": "everything and more",
+              "ru": "всё и даже больше"
+            },
+            {
+              "en": "Gave you",
+              "ru": "отдала тебе",
+              "note": {
+                "ru": "I gave you — подлежащее опущено, как часто в песнях"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I don't want you anymore",
+          "ru": "Ты мне больше не нужен",
+          "lit": {
+            "ru": "Я больше не хочу тебя"
+          },
+          "phrases": [
+            {
+              "en": "I don't want you anymore",
+              "ru": "ты мне больше не нужен",
+              "note": {
+                "ru": "not … anymore — больше не"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "chorus"
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Please roll your eyes after me",
+          "ru": "Прошу, следи за мной глазами"
+        },
+        {
+          "en": "Control my mind easily",
+          "ru": "Легко управляй моим разумом"
+        },
+        {
+          "en": "I am all yours",
+          "ru": "Я вся твоя"
+        },
+        {
+          "en": "That's what you want, baby (that's what you want, baby)",
+          "ru": "Ведь этого ты и хочешь, малыш (этого ты и хочешь, малыш)"
+        }
+      ]
+    },
+    {
+      "type": "bridge",
+      "lines": [
+        {
+          "en": "Don't change your mind, stay with me",
+          "ru": "Не передумай, останься со мной",
+          "note": {
+            "ru": "Повелительное наклонение: Don't + глагол — «не делай», глагол — «сделай» (EN-26)."
+          },
+          "phrases": [
+            {
+              "en": "change your mind",
+              "ru": "передумать",
+              "note": {
+                "ru": "change one's mind — изменить решение"
+              }
+            },
+            {
+              "en": "stay with me",
+              "ru": "останься со мной",
+              "note": {
+                "ru": "повелительное: stay"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I hate goodbyes, stay with me",
+          "ru": "Ненавижу прощания, останься со мной",
+          "phrases": [
+            {
+              "en": "I hate goodbyes",
+              "ru": "ненавижу прощания"
+            }
+          ]
+        },
+        {
+          "en": "I will not fight, I will let it be",
+          "ru": "Я не буду бороться, пусть всё будет как будет",
+          "note": {
+            "ru": "will not — «не буду», решение (EN-21)."
+          },
+          "phrases": [
+            {
+              "en": "let it be",
+              "ru": "пусть будет так",
+              "note": {
+                "ru": "let + it + be — «пусть будет»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "In your mind, it's not about me",
+          "ru": "Ты думаешь совсем не обо мне",
+          "lit": {
+            "ru": "В твоих мыслях речь не обо мне"
+          },
+          "phrases": [
+            {
+              "en": "it's not about me",
+              "ru": "дело не во мне",
+              "note": {
+                "ru": "be about smb — касаться кого-то"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "chorus"
+    },
+    {
+      "ref": "chorus"
+    },
+    {
+      "type": "outro",
+      "lines": [
+        {
+          "en": "I don't want you anymore",
+          "ru": "Ты мне больше не нужен"
+        },
+        {
+          "en": "I don't want you anymore",
+          "ru": "Ты мне больше не нужен"
+        }
+      ]
+    }
+  ]
+}

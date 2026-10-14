@@ -23,7 +23,7 @@ export {
 export { loadLessons } from './loader'
 export { rulesFor, rulesIndex, type RuleHint } from './rules'
 export { checkAnswer, type Checked, type Verdict } from './player/answer'
-export { scramble, seeded, splitBlocks } from './player/blocks'
+export { scramble, seeded, shuffle, splitBlocks } from './player/blocks'
 export { nextLesson, type NextLesson } from './player/next'
 export {
   GRAMMAR_EVERY,

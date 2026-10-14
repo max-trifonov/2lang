@@ -90,6 +90,8 @@ describe('validateText — структура (правило 1)', () => {
     ['пустая строка в title', withEdit((d) => (d.title = { es: '' })), 'title.es', 'empty'],
     ['нет строф', withEdit((d) => (d.stanzas = [])), 'stanzas', 'empty'],
     ['повтор тега', withEdit((d) => (d.tags = ['kids', 'kids'])), 'tags[1]', 'duplicate_tag'],
+    ['see не массив', withEdit((d) => (d.see = 'es-grammar-01')), 'see', 'wrong_type'],
+    ['пустая тема в see', withEdit((d) => (d.see = [''])), 'see[0]', 'empty'],
     [
       'плохая ссылка',
       withEdit((d) => (d.links = [{ type: 'youtube', url: 'не ссылка' }])),

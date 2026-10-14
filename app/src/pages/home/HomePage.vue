@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { IonContent, IonIcon, IonPage } from '@ionic/vue'
-import { flame, play, repeat, snowOutline } from 'ionicons/icons'
+import { flame, musicalNotes, play, repeat, snowOutline } from 'ionicons/icons'
 import { computed, ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
@@ -22,6 +22,7 @@ import { ProfileAvatar, useProfilesStore } from '@/features/profiles'
 import {
   loadBundledTexts,
   mergeLibrary,
+  nextSong,
   songPhraseOfDay,
   useTextsStore,
   type TextDoc,
@@ -78,6 +79,8 @@ const tracks = computed(() =>
         ...nextLesson(lessons.value!, lang, progress.doneIds(), words.knownKeys()),
         placement: PLACEMENT_LANGS.includes(lang) && !placement.isFinished(lang),
         due: cards.due(lang).length,
+        // Песня для разбора (D-42): на пройденные правила, из поставки и своих загруженных.
+        song: nextSong(textDocs.value, lang, progress.doneIds()),
       }))
     : [],
 )
@@ -233,6 +236,15 @@ const week = computed(() => {
           <p v-else class="home__muted">
             {{ t(track.total ? 'home.lessons.allDone' : 'home.lessons.none') }}
           </p>
+
+          <RouterLink v-if="track.song" :to="`/songs/${track.song.id}`" class="track__row">
+            <span class="track__icon" aria-hidden="true"><IonIcon :icon="musicalNotes" /></span>
+            <span class="track__row-text">
+              <strong>{{ t('songs.next') }}</strong>
+              <span :lang="track.lang">{{ track.song.title[track.song.lang] }}</span>
+            </span>
+            <span class="track__go">{{ t('home.lessons.start') }}</span>
+          </RouterLink>
         </article>
       </section>
     </IonContent>

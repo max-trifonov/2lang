@@ -17,6 +17,15 @@
   "note": {
     "ru": "Песня-обращение к братьям и сёстрам по именам. «Brother acustimas» — скорее всего, ошибка расшифровки текста."
   },
+  "see": [
+    "en-grammar-07",
+    "en-grammar-19",
+    "en-grammar-21",
+    "en-grammar-26",
+    "en-grammar-29",
+    "en-grammar-34",
+    "en-grammar-37"
+  ],
   "stanzas": [
     {
       "type": "verse",
@@ -57,6 +66,9 @@
         {
           "en": "Catharina, you've come a long way",
           "ru": "Катарина, ты прошла долгий путь",
+          "note": {
+            "ru": "Present Perfect: you have come — путь пройден, результат виден сейчас (EN-29)."
+          },
           "phrases": [
             {
               "en": "you've come a long way",
@@ -169,6 +181,9 @@
         {
           "en": "We had a dream",
           "ru": "У нас была мечта",
+          "note": {
+            "ru": "had — Past Simple от have (EN-19); сравните с We have a dream в словах отца — настоящее."
+          },
           "phrases": [
             {
               "en": "We had a dream",
@@ -314,6 +329,9 @@
         {
           "en": "Angelino, mother would be so proud of your beautiful family, so am I",
           "ru": "Анджелино, мама так гордилась бы твоей прекрасной семьёй — и я тоже горжусь",
+          "note": {
+            "ru": "would be — «была бы» (EN-37); so am I — «и я тоже» (EN-34)."
+          },
           "phrases": [
             {
               "en": "would be so proud of",
@@ -348,6 +366,9 @@
         {
           "en": "Let's keep this dream alive",
           "ru": "Давайте сохраним эту мечту",
+          "note": {
+            "ru": "Let's + глагол — «давайте…» (EN-26)."
+          },
           "phrases": [
             {
               "en": "Let's keep",
@@ -403,6 +424,9 @@
         {
           "en": "And you and I we'll hurt each other",
           "ru": "И мы с тобой будем ранить друг друга",
+          "note": {
+            "ru": "we'll = we will — будущее, «так будет» (EN-21)."
+          },
           "phrases": [
             {
               "en": "hurt each other",

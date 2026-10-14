@@ -1,0 +1,533 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "i-beg-you",
+  "kind": "song",
+  "lang": "en",
+  "license": "personal",
+  "title": {
+    "en": "I Beg You",
+    "ru": "Умоляю тебя"
+  },
+  "level": "B1",
+  "tags": [
+    "love"
+  ],
+  "note": {
+    "ru": "Перевод — черновик, его нужно выверить. В тексте опечатки расшифровки: loose (lose), seak (seek), live you back (вероятно, leave); одно слово неразборчиво — [?]."
+  },
+  "see": [
+    "en-grammar-15",
+    "en-grammar-20",
+    "en-grammar-21",
+    "en-grammar-22",
+    "en-grammar-26",
+    "en-grammar-29",
+    "en-grammar-38"
+  ],
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Please pick up the phone",
+          "ru": "Пожалуйста, возьми трубку",
+          "note": {
+            "ru": "Просьба — повелительное наклонение с please (EN-26)."
+          },
+          "phrases": [
+            {
+              "en": "pick up the phone",
+              "ru": "взять трубку",
+              "note": {
+                "ru": "pick up — фразовый глагол: поднять, взять"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I've been waiting so long",
+          "ru": "Я так долго жду",
+          "note": {
+            "ru": "Present Perfect Continuous: have been + -ing — жду давно и до сих пор (EN-38)."
+          },
+          "phrases": [
+            {
+              "en": "I've been waiting",
+              "ru": "я жду (уже давно)",
+              "note": {
+                "ru": "Present Perfect Continuous: действие длится до сих пор (EN-38)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Strangely I was full of emptiness",
+          "ru": "Странно, я был полон пустоты",
+          "phrases": [
+            {
+              "en": "full of",
+              "ru": "полон чего-то"
+            },
+            {
+              "en": "Strangely",
+              "ru": "странно, как ни странно"
+            }
+          ]
+        },
+        {
+          "en": "Let me drown into the craziness",
+          "ru": "Дай мне утонуть в безумии",
+          "phrases": [
+            {
+              "en": "Let me",
+              "ru": "дай мне",
+              "note": {
+                "ru": "let + кто-то + глагол без to"
+              }
+            },
+            {
+              "en": "drown",
+              "ru": "утонуть"
+            }
+          ]
+        },
+        {
+          "en": "Please tell me the truth",
+          "ru": "Пожалуйста, скажи мне правду",
+          "phrases": [
+            {
+              "en": "tell me the truth",
+              "ru": "скажи мне правду",
+              "note": {
+                "ru": "tell the truth — говорить правду (не say)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Now I'm ready to loose",
+          "ru": "Теперь я готов проиграть",
+          "phrases": [
+            {
+              "en": "ready to",
+              "ru": "готов",
+              "note": {
+                "ru": "be ready to + глагол"
+              }
+            },
+            {
+              "en": "loose",
+              "ru": "проиграть",
+              "note": {
+                "ru": "в тексте опечатка: lose — терять, проигрывать; loose — свободный, незакреплённый"
+              }
+            }
+          ]
+        },
+        {
+          "en": "You know I'm really tired of this",
+          "ru": "Знаешь, я правда устал от этого",
+          "phrases": [
+            {
+              "en": "tired of",
+              "ru": "устал от",
+              "note": {
+                "ru": "be tired of smth — устать от чего-то"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Quiet stone that [?]",
+          "ru": "Тихий камень, который… [слово неразборчиво]"
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "type": "chorus",
+      "lines": [
+        {
+          "en": "I need phrases and words",
+          "ru": "Мне нужны фразы и слова"
+        },
+        {
+          "en": "That would finally set it off",
+          "ru": "Которые наконец всё прорвут",
+          "phrases": [
+            {
+              "en": "set it off",
+              "ru": "запустить, взорвать",
+              "note": {
+                "ru": "set off — фразовый глагол: вызвать, привести в действие"
+              }
+            },
+            {
+              "en": "finally",
+              "ru": "наконец"
+            }
+          ]
+        },
+        {
+          "en": "Tell me what is the worst",
+          "ru": "Скажи, что хуже",
+          "phrases": [
+            {
+              "en": "the worst",
+              "ru": "самое плохое, хуже всего",
+              "note": {
+                "ru": "bad → worse → the worst"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Silent heart or a loudly burst",
+          "ru": "Молчащее сердце или громкий взрыв",
+          "lit": {
+            "ru": "Молчащее сердце или громко взорвавшееся"
+          },
+          "phrases": [
+            {
+              "en": "Silent heart",
+              "ru": "молчащее сердце"
+            }
+          ]
+        },
+        {
+          "en": "I beg you",
+          "ru": "Умоляю тебя",
+          "phrases": [
+            {
+              "en": "I beg you",
+              "ru": "умоляю тебя",
+              "note": {
+                "ru": "beg — умолять, просить"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Falling down on my knees",
+          "ru": "Падаю на колени",
+          "phrases": [
+            {
+              "en": "on my knees",
+              "ru": "на колени",
+              "note": {
+                "ru": "fall on one's knees — упасть на колени"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Can't get up till you've heard my scream",
+          "ru": "Не могу подняться, пока ты не услышишь мой крик",
+          "note": {
+            "ru": "После till вместо будущего — Present Perfect: till you have heard (EN-29); can't — не могу (EN-15)."
+          },
+          "phrases": [
+            {
+              "en": "get up",
+              "ru": "встать, подняться"
+            },
+            {
+              "en": "till you've heard",
+              "ru": "пока ты не услышишь",
+              "note": {
+                "ru": "после till — Present Perfect вместо будущего"
+              }
+            }
+          ]
+        },
+        {
+          "en": "In my heart it cannot be",
+          "ru": "В моём сердце этому не бывать"
+        },
+        {
+          "en": "If you don't say what this all of your means",
+          "ru": "Если ты не скажешь, что всё это для тебя значит",
+          "lit": {
+            "ru": "Если ты не скажешь, что значит всё это твоё"
+          }
+        },
+        {
+          "en": "Will you stay or are you leaving?",
+          "ru": "Ты останешься или уходишь?",
+          "note": {
+            "ru": "will — будущее, решение (EN-21); are you leaving — Present Continuous для решённого (EN-22)."
+          },
+          "phrases": [
+            {
+              "en": "Will you stay",
+              "ru": "ты останешься?",
+              "note": {
+                "ru": "will — будущее; are you leaving — Present Continuous для решённого"
+              }
+            },
+            {
+              "en": "are you leaving",
+              "ru": "ты уходишь?"
+            }
+          ]
+        },
+        {
+          "en": "Don't let me forever bleed",
+          "ru": "Не дай мне вечно истекать кровью",
+          "phrases": [
+            {
+              "en": "Don't let me",
+              "ru": "не дай мне"
+            },
+            {
+              "en": "bleed",
+              "ru": "истекать кровью"
+            }
+          ]
+        },
+        {
+          "en": "I beg you",
+          "ru": "Умоляю тебя"
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Please listen to my grief",
+          "ru": "Пожалуйста, выслушай моё горе",
+          "phrases": [
+            {
+              "en": "listen to",
+              "ru": "слушать",
+              "note": {
+                "ru": "listen to smb / smth — с предлогом to"
+              }
+            }
+          ]
+        },
+        {
+          "en": "One last time for me at least",
+          "ru": "Хотя бы в последний раз, ради меня",
+          "phrases": [
+            {
+              "en": "One last time",
+              "ru": "в последний раз"
+            },
+            {
+              "en": "at least",
+              "ru": "хотя бы, по крайней мере"
+            }
+          ]
+        },
+        {
+          "en": "Then I'll live you back into the still",
+          "ru": "Потом я отпущу тебя обратно в тишину",
+          "lit": {
+            "ru": "Потом я проживу тебя обратно в тишину (возможно, в оригинале leave — оставлю)"
+          },
+          "phrases": [
+            {
+              "en": "into the still",
+              "ru": "в тишину",
+              "note": {
+                "ru": "the still — тишина, покой"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Never play again this game of skill",
+          "ru": "И больше никогда не сыграю в эту игру на ловкость",
+          "phrases": [
+            {
+              "en": "game of skill",
+              "ru": "игра на ловкость, на умение"
+            }
+          ]
+        },
+        {
+          "en": "Who's the strong who's the weak?",
+          "ru": "Кто сильный, а кто слабый?",
+          "phrases": [
+            {
+              "en": "the strong",
+              "ru": "сильный",
+              "note": {
+                "ru": "the + прилагательное — о человеке или людях"
+              }
+            }
+          ]
+        },
+        {
+          "en": "That is not what I seak",
+          "ru": "Не это я ищу",
+          "phrases": [
+            {
+              "en": "what I seak",
+              "ru": "то, что я ищу",
+              "note": {
+                "ru": "в тексте опечатка: seek — искать"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I need this final talk with you",
+          "ru": "Мне нужен этот последний разговор с тобой",
+          "phrases": [
+            {
+              "en": "final talk",
+              "ru": "последний разговор"
+            }
+          ]
+        },
+        {
+          "en": "Then I'll hide forever in my blue",
+          "ru": "Потом я навсегда спрячусь в своей печали",
+          "phrases": [
+            {
+              "en": "in my blue",
+              "ru": "в своей печали",
+              "note": {
+                "ru": "blue — грусть; feel blue — грустить"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "chorus"
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Please stay where you are",
+          "ru": "Пожалуйста, оставайся там, где ты есть",
+          "phrases": [
+            {
+              "en": "stay where you are",
+              "ru": "оставайся, где ты есть"
+            }
+          ]
+        },
+        {
+          "en": "You know I'm not so far",
+          "ru": "Знаешь, я не так уж далеко",
+          "phrases": [
+            {
+              "en": "not so far",
+              "ru": "не так далеко"
+            }
+          ]
+        },
+        {
+          "en": "I am sure you heard the voice of mine",
+          "ru": "Я уверен, ты слышала мой голос",
+          "phrases": [
+            {
+              "en": "I am sure",
+              "ru": "я уверен"
+            },
+            {
+              "en": "the voice of mine",
+              "ru": "мой голос",
+              "note": {
+                "ru": "редкий оборот: обычно my voice"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Claiming you to be a bit more kind",
+          "ru": "Просящий тебя быть чуточку добрее",
+          "phrases": [
+            {
+              "en": "a bit more kind",
+              "ru": "чуточку добрее",
+              "note": {
+                "ru": "обычно kinder; a bit more — немного больше"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Please pick up the phone",
+          "ru": "Пожалуйста, возьми трубку"
+        },
+        {
+          "en": "Can you feel that I'm down",
+          "ru": "Чувствуешь, как мне плохо?",
+          "phrases": [
+            {
+              "en": "I'm down",
+              "ru": "мне плохо, я подавлен",
+              "note": {
+                "ru": "be down — быть в упадке, грустить"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Don't you get away suddenly",
+          "ru": "Не исчезай так внезапно",
+          "phrases": [
+            {
+              "en": "get away",
+              "ru": "уйти, сбежать"
+            },
+            {
+              "en": "suddenly",
+              "ru": "внезапно"
+            }
+          ]
+        },
+        {
+          "en": "You did not say goodbye to me",
+          "ru": "Ты не попрощалась со мной",
+          "note": {
+            "ru": "Отрицание в Past Simple: did not + глагол (EN-20)."
+          },
+          "phrases": [
+            {
+              "en": "say goodbye to me",
+              "ru": "попрощаться со мной",
+              "note": {
+                "ru": "say goodbye to smb — попрощаться; did not — отрицание в Past Simple (EN-20)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "outro",
+      "lines": [
+        {
+          "en": "You did not say goodbye to me",
+          "ru": "Ты не попрощалась со мной"
+        },
+        {
+          "en": "You did not say goodbye to me",
+          "ru": "Ты не попрощалась со мной"
+        },
+        {
+          "en": "You did not say goodbye to me",
+          "ru": "Ты не попрощалась со мной"
+        },
+        {
+          "en": "Please",
+          "ru": "Пожалуйста"
+        },
+        {
+          "en": "Please",
+          "ru": "Пожалуйста"
+        }
+      ]
+    }
+  ]
+}

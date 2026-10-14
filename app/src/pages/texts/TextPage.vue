@@ -147,6 +147,13 @@ function openWord(e: CatalogEntry): void {
           {{ [doc.author, doc.performer].filter(Boolean).join(' · ') }}
         </p>
         <p v-if="local(doc.note)" class="read__note">{{ local(doc.note) }}</p>
+        <UiButton
+          v-if="doc.kind === 'song'"
+          full-width
+          class="read__lesson"
+          @click="router.push(`/songs/${doc.id}`)"
+          >{{ t('songs.start') }}</UiButton
+        >
 
         <section v-for="(s, si) in stanzas" :key="si" class="read__stanza">
           <h2 v-if="s.type !== 'verse' || s.repeat" class="read__label">
@@ -251,6 +258,10 @@ function openWord(e: CatalogEntry): void {
 .read__note {
   color: var(--color-fg-muted);
   font-size: 0.875rem;
+}
+
+.read__lesson {
+  margin-bottom: var(--size-gutter);
 }
 
 .read__stanza {

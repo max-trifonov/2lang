@@ -436,7 +436,8 @@
         "now": "ahora",
         "future": "futuro"
       },
-      "toReview": "Tema añadido al repaso: sus ejercicios volverán mezclados con las palabras"
+      "toReview": "Tema añadido al repaso: sus ejercicios volverán mezclados con las palabras",
+      "songs": "La regla en canciones"
     },
     "upNext": "A continuación",
     "upNextGrammar": "A continuación: una regla nueva",
@@ -473,7 +474,8 @@
     "sound": "Sonidos",
     "grammar": "Gramática",
     "grammarProgress": "Temas superados: {done} de {total}",
-    "rule": "Regla"
+    "rule": "Regla",
+    "songs": "Canciones"
   },
   "review": {
     "title": "Repaso",
@@ -564,5 +566,23 @@
       "pronouns": "Pronombres",
       "other": "Otros"
     }
+  },
+  "songs": {
+    "title": "Lección con canción",
+    "start": "Lección con canción",
+    "overview": "Sobre la canción",
+    "rules": "Reglas en la canción",
+    "stanza": "Análisis · {n} de {total}",
+    "phrasesHint": "Las frases de esta estrofa volverán en los ejercicios y en el repaso",
+    "summary": "¡Canción superada!",
+    "toReview": "{n} frase añadida al repaso | {n} frases añadidas al repaso",
+    "toText": "Abrir el texto completo",
+    "phrases": "{n} frase | {n} frases",
+    "empty": "Aún no hay canciones en este idioma",
+    "emptyHint": "Sube tu canción en la pestaña Textos: su lección aparecerá aquí",
+    "library": "Biblioteca de textos",
+    "next": "Canción para estudiar",
+    "fit": "Con reglas que ya sabes",
+    "progress": "Canciones superadas: {done} de {total}"
   }
 }

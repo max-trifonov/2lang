@@ -19,6 +19,7 @@
     "year": { "type": "integer" },
     "level": { "enum": ["A1", "A2", "B1", "B2", "C1", "C2"] },
     "tags": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+    "see": { "type": "array", "items": { "type": "string", "minLength": 1 } },
     "links": {
       "type": "array",
       "items": {

@@ -13,6 +13,15 @@
   "tags": [
     "love"
   ],
+  "see": [
+    "en-grammar-07",
+    "en-grammar-15",
+    "en-grammar-17",
+    "en-grammar-21",
+    "en-grammar-24",
+    "en-grammar-35",
+    "en-grammar-37"
+  ],
   "stanzas": [
     {
       "type": "verse",
@@ -46,6 +55,9 @@
         {
           "en": "Your scent still lingers where I shouldn’t have stayed",
           "ru": "Твой запах всё ещё витает там, где мне не следовало оставаться",
+          "note": {
+            "ru": "should have + V3 — сожаление о прошлом: «не надо было оставаться» (EN-24)."
+          },
           "phrases": [
             {
               "en": "still lingers",
@@ -88,6 +100,9 @@
         {
           "en": "Flames eat the truth I was never meant to say",
           "ru": "Пламя пожирает правду, которую мне никогда не следовало говорить",
+          "note": {
+            "ru": "was meant to — страдательный залог: «мне не было суждено» (EN-35)."
+          },
           "phrases": [
             {
               "en": "I was never meant to",
@@ -209,6 +224,9 @@
         {
           "en": "I’ll never confess it, I’ll never be free",
           "ru": "Я никогда не признаюсь, я никогда не буду свободен",
+          "note": {
+            "ru": "I’ll = I will — будущее, решение (EN-21)."
+          },
           "phrases": [
             {
               "en": "I’ll never confess it",
@@ -361,6 +379,9 @@
         {
           "en": "If I let you in… I’d burn the whole world instead",
           "ru": "Если я впущу тебя… я сожгу весь мир",
+          "note": {
+            "ru": "Условное 2: if + Past Simple, would + глагол (I’d = I would) — нереальное условие (EN-37)."
+          },
           "phrases": [
             {
               "en": "If I let you in",
@@ -409,6 +430,9 @@
         {
           "en": "Ashes rise higher, they’re carrying you into my life",
           "ru": "Пепел поднимается выше, он несёт тебя в мою жизнь",
+          "note": {
+            "ru": "Present Continuous: they are carrying — происходит сейчас (EN-17)."
+          },
           "phrases": [
             {
               "en": "rise higher",
