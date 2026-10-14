@@ -27,11 +27,13 @@ export { scramble, seeded, splitBlocks } from './player/blocks'
 export { nextLesson, type NextLesson } from './player/next'
 export {
   GRAMMAR_EVERY,
+  courseRoute,
   lessonPath,
   type GrammarItem,
   type LessonPath,
   type LessonStatus,
   type PathItem,
+  type RouteNode,
 } from './path'
 export {
   buildPractice,
@@ -79,3 +81,4 @@ export {
 } from './refs'
 export { default as GrammarRule } from './ui/GrammarRule.vue'
 export { default as RuleLinks } from './ui/RuleLinks.vue'
+export { default as UpNext } from './ui/UpNext.vue'

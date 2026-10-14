@@ -80,6 +80,9 @@ export const useCardsStore = defineStore('cards', () => {
   /** Фраза текста в повторение (LNG-S1-027): карточка «новая» на завтра; повторное добавление не меняет её. */
   const addPhrase = (key: string) => addLessonWords([key])
 
+  /** Пройденные темы грамматики в повторение (D-40): «новая» на завтра; существующая не меняется. */
+  const addGrammar = (keys: readonly string[]) => addLessonWords(keys)
+
   /** Известные слова проверки: редкое повторение; существующая карточка не меняется (AC-4). */
   async function addKnownWords(keys: readonly string[]): Promise<void> {
     const id = profileId.value
@@ -98,6 +101,7 @@ export const useCardsStore = defineStore('cards', () => {
     putMany,
     addLessonWords,
     addPhrase,
+    addGrammar,
     addKnownWords,
   }
 })

@@ -21,26 +21,31 @@ import {
   canHearWords,
   keyOf,
   loadLanguage,
+  useWordStatusStore,
   type CatalogEntry,
 } from '@/features/dictionary'
 import { LangBadge } from '@/features/language'
 import {
   PracticeTask,
   RuleLinks,
+  UpNext,
   WordIntro,
   answerPractice,
   buildPractice,
   currentTask,
   grammarRefs,
   introSteps,
+  lessonRoute,
   lessonWords,
   loadLessons,
+  nextLesson,
   practiceFinished,
   practiceScore,
   startPractice,
   useLessonProgressStore,
   type GrammarLesson,
   type IntroStep,
+  type Lesson,
   type Practice,
   type WordsLesson,
 } from '@/features/lessons'
@@ -57,7 +62,9 @@ const profiles = useProfilesStore()
 const progress = useLessonProgressStore()
 const cards = useCardsStore()
 const activity = useActivityStore()
+const wordStatus = useWordStatusStore()
 
+const all = ref<Lesson[]>([])
 const lesson = ref<WordsLesson | null>(null)
 /** Отсылки к правилам грамматики (D-38): на шаге мини-правила и в итоге. */
 const rules = ref<GrammarLesson[]>([])
@@ -72,13 +79,13 @@ async function load(): Promise<void> {
   status.value = 'loading'
   try {
     const id = String(route.params.id ?? '')
-    const all = await loadLessons()
-    const found = all.find((l) => l.id === id)
+    all.value = await loadLessons()
+    const found = all.value.find((l) => l.id === id)
     if (found?.kind !== 'words') {
       status.value = 'missing'
       return
     }
-    rules.value = grammarRefs(found.see, all)
+    rules.value = grammarRefs(found.see, all.value)
     const entries = await loadLanguage(found.lang)
     lesson.value = found
     words.value = lessonWords(found, entries)
@@ -105,6 +112,7 @@ watch(
     if (progress.profileId !== pid) void progress.forProfile(pid)
     if (cards.profileId !== pid) void cards.forProfile(pid)
     if (activity.profileId !== pid) void activity.forProfile(pid)
+    if (wordStatus.profileId !== pid) void wordStatus.forProfile(pid)
   },
   { immediate: true },
 )
@@ -162,6 +170,14 @@ async function finishIfDone(): Promise<void> {
   await activity.record('lesson')
   finalScore.value = score
 }
+
+/** Следующий шаг пути после итога (D-40): урок слов или тема грамматики. */
+const upNext = computed(() =>
+  done.value && lesson.value
+    ? nextLesson(all.value, lesson.value.lang, progress.doneIds(), wordStatus.knownKeys()).next
+    : null,
+)
+const goNext = () => upNext.value && router.replace(lessonRoute(upNext.value))
 
 function close(): void {
   if (window.history.state?.back) router.back()
@@ -302,7 +318,14 @@ function close(): void {
           </ul>
           <RuleLinks :rules="rules" :title="t('lessons.grammar.more')" class="lesson__rules" />
           <div class="lesson__bottom">
-            <UiButton full-width size="lg" @click="close">{{ t('lessons.summary.done') }}</UiButton>
+            <UpNext v-if="upNext" :lesson="upNext" @go="goNext" />
+            <UiButton
+              full-width
+              :size="upNext ? 'md' : 'lg'"
+              :variant="upNext ? 'secondary' : 'primary'"
+              @click="close"
+              >{{ t('lessons.summary.done') }}</UiButton
+            >
             <UiButton variant="ghost" full-width @click="load">{{
               t('lessons.summary.again')
             }}</UiButton>

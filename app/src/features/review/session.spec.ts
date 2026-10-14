@@ -1,10 +1,10 @@
 import { describe, expect, it } from 'vitest'
 
 import type { CatalogEntry } from '@/features/dictionary'
-import { seeded } from '@/features/lessons'
+import { seeded, type GrammarLesson } from '@/features/lessons'
 
 import type { Card } from './cards'
-import { buildReview, gradeFor, kindFor, phraseTask } from './session'
+import { buildReview, gradeFor, grammarKey, grammarTask, kindFor, phraseTask } from './session'
 
 const entry = (id: string, pos: CatalogEntry['pos'], rank: number, ru: string): CatalogEntry => ({
   id,
@@ -94,5 +94,52 @@ describe('карточки фраз текстов (LNG-S1-027)', () => {
     const cards = [card('x', { key }), card('x', { key: 'phrase:es:song:gone' }), card('tener')]
     const items = buildReview(cards, dict, { ...opts, phrases: new Map([[key, phrase]]) })
     expect(items.map((i) => i.card.key)).toEqual([key, 'word:es:tener'])
+  })
+})
+
+describe('темы грамматики в повторении (D-40)', () => {
+  const rule = {
+    format: '2lang/lesson',
+    version: 1,
+    id: 'es-grammar-10',
+    lang: 'es',
+    kind: 'grammar',
+    order: 10,
+    title: { ru: 'Отрицание' },
+    pattern: [],
+    rule: { text: { ru: 'no перед глаголом' } },
+    exercises: [
+      { type: 'compose', prompt: { ru: 'Скажите, чего вы не делаете' }, sample: 'No fumo.' },
+      {
+        type: 'choose',
+        es: 'Yo ___ trabajo.',
+        ru: 'Я не работаю.',
+        options: ['no', 'nada'],
+        answer: 'no',
+      },
+      { type: 'fill', es: 'Ella ___ come carne.', ru: 'Она не ест мясо.', answer: 'no' },
+    ],
+  } as GrammarLesson
+  const key = grammarKey(rule)
+
+  it('ключ темы — grammar:<язык>:<id>; язык карточки читается из ключа', () => {
+    expect(key).toBe('grammar:es:es-grammar-10')
+  })
+
+  it('задание — одно упражнение темы, «своё предложение» не берётся', () => {
+    const kinds = new Set(
+      Array.from(
+        { length: 20 },
+        (_, i) => grammarTask(rule, { locale: 'ru', rng: seeded(i) })?.kind,
+      ),
+    )
+    expect([...kinds].sort()).toEqual(['choose', 'fill'])
+  })
+
+  it('в сессии темы стоят среди слов с подписью правила; без урока — пропускаются', () => {
+    const cards = [card('x', { key }), card('x', { key: 'grammar:es:gone' }), card('tener')]
+    const items = buildReview(cards, dict, { ...opts, grammar: new Map([[key, rule]]) })
+    expect(items.map((i) => i.card.key)).toEqual([key, 'word:es:tener'])
+    expect(items[0]?.rule?.id).toBe('es-grammar-10')
   })
 })

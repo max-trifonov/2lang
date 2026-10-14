@@ -81,3 +81,67 @@ export function lessonPath(
     next,
   }
 }
+
+/** Узел маршрута: урок слов или тема грамматики между ними (D-40). */
+export type RouteNode = { kind: 'words'; item: PathItem } | { kind: 'grammar'; item: GrammarItem }
+
+/**
+ * Единый маршрут языка (D-40): уроки слов по порядку, темы грамматики — между ними, там, где путь
+ * их предлагает. Будущие темы — перед уроком слов, который путь даст после темы (прогон «следующего»
+ * от текущего прогресса); пройденные — после каждого GRAMMAR_EVERY-го пройденного урока слов;
+ * темы, до которых слов не хватает, — в конце.
+ */
+export function courseRoute(
+  lessons: readonly Lesson[],
+  lang: string,
+  done: ReadonlySet<string>,
+  known: ReadonlySet<string> = new Set(),
+): RouteNode[] {
+  const path = lessonPath(lessons, lang, done, known)
+  const before = new Map<string, GrammarItem[]>()
+  const after = new Map<string, GrammarItem[]>()
+  const end: GrammarItem[] = []
+  const push = (m: Map<string, GrammarItem[]>, id: string, g: GrammarItem) =>
+    m.set(id, [...(m.get(id) ?? []), g])
+  const byId = new Map(path.grammar.map((g) => [g.lesson.id, g]))
+
+  // Прогон пути вперёд: порядок, в котором ученик получит оставшиеся уроки.
+  const sim = new Set(done)
+  const seq: Lesson[] = []
+  for (let l = path.next; l && seq.length <= lessons.length;) {
+    seq.push(l)
+    sim.add(l.id)
+    l = lessonPath(lessons, lang, sim, known).next
+  }
+  seq.forEach((l, i) => {
+    const g = byId.get(l.id)
+    if (!g) return
+    const anchor = seq.slice(i + 1).find((x) => x.kind === 'words')
+    if (anchor) push(before, anchor.id, g)
+    else end.push(g)
+    byId.delete(l.id)
+  })
+
+  const doneWords = path.items.filter((i) => i.status === 'done')
+  let k = 0
+  for (const g of path.grammar) {
+    if (!byId.has(g.lesson.id)) continue
+    if (g.status !== 'done') {
+      end.push(g)
+      continue
+    }
+    const anchor = doneWords[Math.min(GRAMMAR_EVERY * ++k, doneWords.length) - 1]
+    if (anchor) push(after, anchor.lesson.id, g)
+    else push(before, path.items[0]?.lesson.id ?? '', g)
+  }
+  end.sort((a, b) => a.lesson.order - b.lesson.order)
+
+  const grammar = (list: GrammarItem[] = []): RouteNode[] =>
+    list.map((item) => ({ kind: 'grammar', item }))
+  const nodes = path.items.flatMap((item): RouteNode[] => [
+    ...grammar(before.get(item.lesson.id)),
+    { kind: 'words', item },
+    ...grammar(after.get(item.lesson.id)),
+  ])
+  return [...nodes, ...grammar(before.get('')), ...grammar(end)]
+}

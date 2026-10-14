@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest'
 
 import type { GrammarLesson, Lesson, WordsLesson } from './domain/types'
-import { lessonPath } from './path'
+import { courseRoute, lessonPath } from './path'
 
 const w = (id: string, topic: string, order: number, words: string[] = []): WordsLesson => ({
   format: '2lang/lesson',
@@ -96,5 +96,59 @@ describe('грамматика в пути (D-14, D-38)', () => {
   it('статусы тем: пройдена / следующая / открыта', () => {
     const { grammar } = lessonPath(course, 'es', new Set(['t-1', 't-2']))
     expect(grammar.map((i) => `${i.lesson.id}:${i.status}`)).toEqual(['g-1:next', 'g-2:open'])
+  })
+})
+
+describe('единый маршрут: темы между уроками слов (D-40)', () => {
+  const course: Lesson[] = [
+    w('t-1', 'travel', 1, ['a']),
+    w('t-2', 'travel', 2, ['b']),
+    w('t-3', 'travel', 3, ['c']),
+    w('t-4', 'travel', 4, ['d']),
+    w('it-1', 'it', 1, ['e']),
+    g('g-1', 1),
+    g('g-2', 2),
+    g('g-3', 3, ['zzz']),
+  ]
+  const route = (done: string[]) =>
+    courseRoute(course, 'es', new Set(done)).map((n) => `${n.item.lesson.id}:${n.item.status}`)
+
+  it('с нуля: тема — после каждых двух уроков слов; недостижимая — в конце', () => {
+    expect(route([])).toEqual([
+      't-1:next',
+      't-2:open',
+      'g-1:open',
+      't-3:open',
+      't-4:open',
+      'g-2:open',
+      'it-1:open',
+      'g-3:open',
+    ])
+  })
+
+  it('следующая тема стоит перед следующим уроком слов, пройденная — после двух пройденных', () => {
+    expect(route(['t-1', 't-2'])).toEqual([
+      't-1:done',
+      't-2:done',
+      'g-1:next',
+      't-3:open',
+      't-4:open',
+      'g-2:open',
+      'it-1:open',
+      'g-3:open',
+    ])
+    expect(route(['t-1', 't-2', 'g-1']).slice(0, 4)).toEqual([
+      't-1:done',
+      't-2:done',
+      'g-1:done',
+      't-3:next',
+    ])
+  })
+
+  it('каждая тема в маршруте ровно один раз', () => {
+    for (const done of [[], ['g-1'], ['t-1', 'g-2'], ['t-1', 't-2', 't-3', 't-4', 'it-1']]) {
+      const ids = route(done).map((x) => x.split(':')[0])
+      expect(new Set(ids).size).toBe(course.length)
+    }
   })
 })

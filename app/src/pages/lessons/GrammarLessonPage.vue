@@ -16,17 +16,20 @@ import { useI18n } from 'vue-i18n'
 import { useRoute, useRouter } from 'vue-router'
 
 import { useActivityStore } from '@/features/activity'
-import { SpeakButton } from '@/features/dictionary'
+import { SpeakButton, useWordStatusStore } from '@/features/dictionary'
 import { LangBadge } from '@/features/language'
 import {
   GrammarRule,
   PracticeTask,
   RuleLinks,
+  UpNext,
   answerPractice,
   buildGrammarPractice,
   currentTask,
   grammarRefs,
+  lessonRoute,
   loadLessons,
+  nextLesson,
   practiceFinished,
   practiceScore,
   ruleRoute,
@@ -38,6 +41,7 @@ import {
   type Practice,
 } from '@/features/lessons'
 import { useProfilesStore } from '@/features/profiles'
+import { grammarKey, useCardsStore } from '@/features/review'
 import { UiButton, UiEmptyState, UiProgressRing, UiSkeleton } from '@/shared/ui'
 
 // Плеер урока грамматики (LNG-S1-033, D-38): паттерн → правило на одном экране → мост →
@@ -48,6 +52,8 @@ const router = useRouter()
 const profiles = useProfilesStore()
 const progress = useLessonProgressStore()
 const activity = useActivityStore()
+const cards = useCardsStore()
+const wordStatus = useWordStatusStore()
 
 const all = ref<Lesson[]>([])
 const lesson = ref<GrammarLesson | null>(null)
@@ -96,6 +102,8 @@ watch(
   (pid) => {
     if (progress.profileId !== pid) void progress.forProfile(pid)
     if (activity.profileId !== pid) void activity.forProfile(pid)
+    if (cards.profileId !== pid) void cards.forProfile(pid)
+    if (wordStatus.profileId !== pid) void wordStatus.forProfile(pid)
   },
   { immediate: true },
 )
@@ -138,9 +146,19 @@ async function finishIfDone(): Promise<void> {
   if (!practice.value || !lesson.value || inIntro.value || !practiceFinished(practice.value)) return
   const score = practiceScore(practice.value)
   await progress.complete(lesson.value.id, score)
+  // Тема — в интервальное повторение (D-40): упражнения вернутся вперемешку со словами.
+  await cards.addGrammar([grammarKey(lesson.value)])
   await activity.record('lesson')
   finalScore.value = score
 }
+
+/** Следующий шаг пути после итога (D-40). */
+const upNext = computed(() =>
+  done.value && lesson.value
+    ? nextLesson(all.value, lesson.value.lang, progress.doneIds(), wordStatus.knownKeys()).next
+    : null,
+)
+const goNext = () => upNext.value && router.replace(lessonRoute(upNext.value))
 
 function close(): void {
   if (window.history.state?.back) router.back()
@@ -275,9 +293,17 @@ function close(): void {
             <IonIcon :icon="bookOutline" aria-hidden="true" />
             {{ t('lessons.grammar.toHandbook') }}
           </RouterLink>
+          <p class="grammar__review">{{ t('lessons.grammar.toReview') }}</p>
           <RuleLinks :rules="see" :title="t('lessons.grammar.see')" class="grammar__see" />
           <div class="grammar__bottom">
-            <UiButton full-width size="lg" @click="close">{{ t('lessons.summary.done') }}</UiButton>
+            <UpNext v-if="upNext" :lesson="upNext" @go="goNext" />
+            <UiButton
+              full-width
+              :size="upNext ? 'md' : 'lg'"
+              :variant="upNext ? 'secondary' : 'primary'"
+              @click="close"
+              >{{ t('lessons.summary.done') }}</UiButton
+            >
             <UiButton variant="ghost" full-width @click="load">{{
               t('lessons.summary.again')
             }}</UiButton>
@@ -304,6 +330,13 @@ function close(): void {
   flex-direction: column;
   gap: var(--size-gutter);
   min-height: 100%;
+}
+
+.grammar__review {
+  margin: 0;
+  color: var(--color-fg-muted);
+  font-size: var(--fs-meta);
+  text-align: center;
 }
 
 .grammar__bottom {

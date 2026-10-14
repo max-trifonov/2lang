@@ -435,8 +435,12 @@
         "past": "past",
         "now": "now",
         "future": "future"
-      }
-    }
+      },
+      "toReview": "Topic added to review: its exercises will come back mixed with words"
+    },
+    "upNext": "Up next",
+    "upNextGrammar": "Up next: a new rule",
+    "continue": "Continue"
   },
   "placement": {
     "title": "Which words do you know",
@@ -468,7 +472,8 @@
     },
     "sound": "Sounds",
     "grammar": "Grammar",
-    "grammarProgress": "Topics done: {done} of {total}"
+    "grammarProgress": "Topics done: {done} of {total}",
+    "rule": "Rule"
   },
   "review": {
     "title": "Review",
@@ -482,7 +487,8 @@
       "score": "First try: {correct} of {total}",
       "next": "Next review: {date}",
       "done": "Done"
-    }
+    },
+    "rule": "Rule"
   },
   "train": {
     "title": "Practice",

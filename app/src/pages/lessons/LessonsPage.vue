@@ -1,12 +1,13 @@
 <script setup lang="ts">
 import { IonContent, IonHeader, IonIcon, IonPage, IonTitle, IonToolbar } from '@ionic/vue'
-import { bookOutline, checkmark, play, sparkles } from 'ionicons/icons'
+import { bookOutline, checkmark, play, school, sparkles } from 'ionicons/icons'
 import { computed, ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute, useRouter } from 'vue-router'
 
 import { useWordStatusStore } from '@/features/dictionary'
 import {
+  courseRoute,
   lessonPath,
   lessonRoute,
   loadLessons,
@@ -76,11 +77,28 @@ const grammarDone = computed(() => grammar.value.filter((g) => g.status === 'don
 const topic = computed(() =>
   topics.value.includes(str(route.query.topic)) ? str(route.query.topic) : (topics.value[0] ?? ''),
 )
-const shown = computed(() =>
-  inSound.value || inGrammar.value
-    ? []
-    : (path.value?.items ?? []).filter((i) => i.lesson.topic === topic.value),
+// Маршрут темы (D-40): уроки слов и темы грамматики между ними — там, где их предложит путь.
+// Тема грамматики относится к теме ближайшего следующего урока слов, в конце — предыдущего.
+const course = computed(() =>
+  lessons.value
+    ? courseRoute(lessons.value, lang.value, progress.doneIds(), words.knownKeys())
+    : [],
 )
+const shown = computed(() => {
+  if (inSound.value || inGrammar.value) return []
+  const nodes = course.value
+  const topicAt = (i: number): string => {
+    const near = [...nodes.slice(i), ...nodes.slice(0, i).reverse()]
+    const w = near.find((n) => n.kind === 'words')
+    return w?.kind === 'words' ? w.item.lesson.topic : ''
+  }
+  let n = 0
+  return nodes
+    .filter(
+      (node, i) => (node.kind === 'words' ? node.item.lesson.topic : topicAt(i)) === topic.value,
+    )
+    .map((node) => ({ ...node, step: node.kind === 'words' ? ++n : 0 }))
+})
 const doneCount = computed(
   () => (path.value?.items ?? []).filter((i) => i.status === 'done').length,
 )
@@ -241,27 +259,35 @@ const score = (item: { lesson: { id: string } }) => {
         </ol>
         <ol v-else class="path__list">
           <li
-            v-for="(item, i) in shown"
-            :key="item.lesson.id"
+            v-for="node in shown"
+            :key="node.item.lesson.id"
             class="node"
-            :class="`node--${item.status}`"
+            :class="[`node--${node.item.status}`, { 'node--rule': node.kind === 'grammar' }]"
           >
             <button
               type="button"
               class="node__row"
-              @click="router.push(`/lessons/${item.lesson.id}`)"
+              @click="router.push(lessonRoute(node.item.lesson))"
             >
               <span class="node__dot" aria-hidden="true">
-                <IonIcon v-if="ICONS[item.status]" :icon="ICONS[item.status]" />
-                <template v-else>{{ i + 1 }}</template>
+                <IonIcon
+                  v-if="node.kind === 'grammar' && node.item.status !== 'done'"
+                  :icon="school"
+                />
+                <IonIcon v-else-if="ICONS[node.item.status]" :icon="ICONS[node.item.status]" />
+                <template v-else>{{ node.step }}</template>
               </span>
               <span class="node__text">
-                <strong>{{ title(item.lesson.title) }}</strong>
-                <span v-if="item.status !== 'open'" class="node__meta">
-                  {{ t(`path.status.${item.status}`) }}
-                  <template v-if="score(item)"> · {{ score(item) }}</template>
+                <span v-if="node.kind === 'grammar'" class="node__kicker">
+                  {{ t('path.rule') }}
+                  <template v-if="node.item.lesson.code"> · {{ node.item.lesson.code }}</template>
                 </span>
-                <span v-if="item.status === 'next'" class="node__start">
+                <strong>{{ title(node.item.lesson.title) }}</strong>
+                <span v-if="node.item.status !== 'open'" class="node__meta">
+                  {{ t(`path.status.${node.item.status}`) }}
+                  <template v-if="score(node.item)"> · {{ score(node.item) }}</template>
+                </span>
+                <span v-if="node.item.status === 'next'" class="node__start">
                   <IonIcon :icon="play" aria-hidden="true" />
                   {{ t('home.lessons.start') }}
                 </span>
@@ -455,6 +481,18 @@ const score = (item: { lesson: { id: string } }) => {
 .node--known .node__text strong {
   color: var(--color-fg-muted);
   font-weight: 550;
+}
+
+/* Тема грамматики в маршруте — точка-«правило»: видно, где в пути новое правило. */
+.node--rule .node__dot {
+  border-radius: var(--radius-md);
+}
+
+.node__kicker {
+  color: var(--tint-ink);
+  font-size: var(--fs-small);
+  font-weight: 700;
+  letter-spacing: 0.02em;
 }
 
 /* Следующий урок — карточка в цвете языка: точка входа видна сразу. */

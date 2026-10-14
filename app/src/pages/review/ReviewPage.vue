@@ -10,7 +10,7 @@ import {
   IonTitle,
   IonToolbar,
 } from '@ionic/vue'
-import { closeOutline } from 'ionicons/icons'
+import { closeOutline, school } from 'ionicons/icons'
 import { computed, ref, toRaw, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute, useRouter } from 'vue-router'
@@ -19,16 +19,25 @@ import { canHearWords, loadLanguage } from '@/features/dictionary'
 import {
   PracticeTask,
   answerPractice,
+  loadLessons,
   currentTask,
   practiceFinished,
   startPractice,
+  type GrammarLesson,
   type Practice,
   type Task,
 } from '@/features/lessons'
 import { useActivityStore } from '@/features/activity'
 import { useProfilesStore } from '@/features/profiles'
 import { loadBundledTexts, mergeLibrary, textPhrases, useTextsStore } from '@/features/texts'
-import { buildReview, gradeFor, review, useCardsStore, type Card } from '@/features/review'
+import {
+  buildReview,
+  gradeFor,
+  grammarKey,
+  review,
+  useCardsStore,
+  type Card,
+} from '@/features/review'
 import { LangBadge } from '@/features/language'
 import { UiButton, UiEmptyState, UiProgressRing, UiSkeleton } from '@/shared/ui'
 
@@ -51,6 +60,8 @@ const status = ref<'loading' | 'ready' | 'failed'>('loading')
 const practice = ref<Practice | null>(null)
 /** Задание → его карточка; повтор после ошибки — тот же объект задания. */
 const owners = new Map<Task, Card>()
+/** Задание темы грамматики → тема (D-40): подпись «Правило» над заданием. */
+const rules = new Map<Task, GrammarLesson>()
 const saving = ref(false)
 
 async function load(): Promise<void> {
@@ -58,10 +69,17 @@ async function load(): Promise<void> {
   try {
     if (cards.profileId !== profiles.activeId) await cards.forProfile(profiles.activeId)
     if (activity.profileId !== profiles.activeId) await activity.forProfile(profiles.activeId)
-    const [entries, canHear] = await Promise.all([
+    const [entries, canHear, lessons] = await Promise.all([
       loadLanguage(lang.value),
       canHearWords(lang.value),
+      loadLessons(),
     ])
+    // Темы грамматики (D-40): упражнения пройденных тем возвращаются вперемешку со словами.
+    const grammar = new Map(
+      lessons
+        .filter((l): l is GrammarLesson => l.kind === 'grammar')
+        .map((l) => [grammarKey(l), l]),
+    )
     // Фразы из текстов (LNG-S1-027): карточки фраз берут оригинал и перевод из библиотеки.
     await texts.ready()
     const docs = mergeLibrary(await loadBundledTexts(), texts.texts).map((i) => i.doc)
@@ -71,9 +89,14 @@ async function load(): Promise<void> {
       canHear,
       rng: Math.random,
       phrases,
+      grammar,
     })
     owners.clear()
-    for (const i of items) owners.set(i.task, i.card)
+    rules.clear()
+    for (const i of items) {
+      owners.set(i.task, i.card)
+      if (i.rule) rules.set(i.task, i.rule)
+    }
     practice.value = startPractice(items.map((i) => i.task))
     status.value = 'ready'
   } catch {
@@ -85,6 +108,8 @@ watch([lang, () => profiles.activeId], load, { immediate: true })
 
 const done = computed(() => practice.value !== null && practiceFinished(practice.value))
 const current = computed(() => (practice.value ? currentTask(practice.value) : null))
+const rule = computed(() => (current.value ? rules.get(toRaw(current.value.task)) : undefined))
+const local = (m: Record<string, string>) => m[locale.value] ?? m.ru ?? Object.values(m)[0] ?? ''
 const bar = computed(() => {
   const p = practice.value
   return !p || !p.queue.length ? 1 : p.pos / p.queue.length
@@ -169,14 +194,19 @@ function close(): void {
         </template>
       </UiEmptyState>
 
-      <PracticeTask
-        v-else-if="current && !done"
-        :key="practice!.pos"
-        :task="current.task"
-        :retry="current.retry"
-        :lang="lang"
-        @next="onAnswer"
-      />
+      <template v-else-if="current && !done">
+        <p v-if="rule" :key="`rule-${practice!.pos}`" class="review__rule">
+          <IonIcon :icon="school" aria-hidden="true" />
+          <span>{{ t('review.rule') }} · {{ local(rule.title) }}</span>
+        </p>
+        <PracticeTask
+          :key="practice!.pos"
+          :task="current.task"
+          :retry="current.retry"
+          :lang="lang"
+          @next="onAnswer"
+        />
+      </template>
 
       <section v-else-if="done" class="review__summary">
         <UiProgressRing
@@ -207,6 +237,20 @@ function close(): void {
 <style scoped>
 .review__badge {
   margin-right: 8px;
+}
+
+.review__rule {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin: 0 0 12px;
+  color: var(--tint-ink);
+  font-size: var(--fs-meta);
+  font-weight: 650;
+}
+
+.review__rule ion-icon {
+  flex: none;
 }
 
 .review__skeleton {

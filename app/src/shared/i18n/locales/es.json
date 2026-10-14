@@ -435,8 +435,12 @@
         "past": "pasado",
         "now": "ahora",
         "future": "futuro"
-      }
-    }
+      },
+      "toReview": "Tema añadido al repaso: sus ejercicios volverán mezclados con las palabras"
+    },
+    "upNext": "A continuación",
+    "upNextGrammar": "A continuación: una regla nueva",
+    "continue": "Continuar"
   },
   "placement": {
     "title": "¿Qué palabras conoces?",
@@ -468,7 +472,8 @@
     },
     "sound": "Sonidos",
     "grammar": "Gramática",
-    "grammarProgress": "Temas superados: {done} de {total}"
+    "grammarProgress": "Temas superados: {done} de {total}",
+    "rule": "Regla"
   },
   "review": {
     "title": "Repaso",
@@ -482,7 +487,8 @@
       "score": "A la primera: {correct} de {total}",
       "next": "Próximo repaso: {date}",
       "done": "Listo"
-    }
+    },
+    "rule": "Regla"
   },
   "train": {
     "title": "Entrenamiento",
