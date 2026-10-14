@@ -26,7 +26,7 @@
 | Уроки грамматики и отсылки к правилам (D-38) | исходники `content/drafts/grammar/{es,en}.txt` → `python3 content/drafts/grammar/gen.py` (темы `*-grammar-NN.json` + поле `see` уроков слов через `link.py`) |
 | Записи слов словаря (Piper, D-36) | `content/audio/words/` — после правки словаря: `<venv с piper-tts>/bin/python content/audio/words/build.py --voices <каталог .onnx>` |
 | Контент в поставке (public-domain / own) | `content/texts/` |
-| Личные тексты (`license: personal`) | `content/private/` — в git (D-41), в поставку PWA не входит (D-5) |
+| Личные тексты (`license: personal`) | `content/private/` — в git (D-41) и в поставке PWA (D-43) |
 
 **Префикс задач:** `LNG`. Режим тестов: фронт лёгкий (К2 — unit на чистые функции: валидатор контента, FSRS, подбор урока; К3 — без тестов).
 
@@ -53,5 +53,5 @@ npm run content:frequency -- --src <wordhoard>     # частотный карк
 
 ## Правила контента
 
-- Тексты, защищённые авторским правом, — только в `content/private/` (`license: personal`): в git есть (D-41), в поставку не попадают.
+- Тексты, защищённые авторским правом, — только в `content/private/` (`license: personal`): в git (D-41) и в поставке PWA (D-43); `content/texts/` — только public-domain и own.
 - Любой текст интерфейса — из словаря i18n (RU / EN / ES, D-4): ключ без перевода роняет `npm run test`; числа — формами через `|` (`t(key, { n }, n)`).

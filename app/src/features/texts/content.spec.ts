@@ -8,8 +8,8 @@ import { describe, expect, it } from 'vitest'
 import { checkTextFile, validateText } from './domain/validate'
 
 // Контент репозитория проверяется тем же валидатором, что и загрузка в приложении:
-// невалидный текст в content/ роняет `npm run test`. content/private/ (D-5, D-41)
-// проверяется, когда он есть у автора локально.
+// невалидный текст в content/ роняет `npm run test`. content/private/ — личные тексты,
+// тоже в поставке (D-41, D-43); content/texts/ — только public-domain и own.
 // Не `new URL(…, import.meta.url)`: Vite принимает такую запись за ассет.
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '../../../../content')
 const contentDir = (sub: string) => resolve(root, sub)
@@ -42,7 +42,7 @@ describe('контент репозитория', () => {
     expect(file.endsWith(`/${id}.${lang}.json`)).toBe(true)
   })
 
-  it.each(shipped)('%s — в поставке нет личных текстов (D-5)', (file) => {
+  it.each(shipped)('%s — в content/texts нет личных текстов, они в content/private', (file) => {
     expect(checkTextFile(readFileSync(file, 'utf8')).text?.license).not.toBe('personal')
   })
 

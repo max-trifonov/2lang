@@ -32,6 +32,14 @@ describe('mergeLibrary', () => {
     ])
     expect(items[0]!.doc).toBe(mine)
   })
+
+  it('личный текст поставки главнее загруженной вручную копии (D-43)', () => {
+    const bundled = { ...doc('song', 'en'), license: 'personal' as const }
+    const stale = { ...doc('song', 'en'), license: 'personal' as const, title: { en: 'old' } }
+    const items = mergeLibrary([bundled], [rec(stale)])
+    expect(items.map((i) => [i.doc.id, i.source])).toEqual([['song', 'bundled']])
+    expect(items[0]!.doc).toBe(bundled)
+  })
 })
 
 describe('filterLibrary', () => {
