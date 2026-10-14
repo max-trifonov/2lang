@@ -1,25 +1,47 @@
 /* Цвета языков (brief: «у каждого языка свой цвет»): одинаковы во всех темах по смыслу,
-   оттенок — по color-scheme корня. ink — для текста на фоне, on — для текста на заливке. */
+   оттенок — по схеме корня. ink — для текста на фоне, on — для текста на заливке.
+   Не light-dark(): Lightning CSS в сборке понижает её до переменных --lightningcss-*,
+   а их объявляет только рядом с color-scheme в CSS — у нас схему ставит стор темы,
+   и в проде цвета превращались в невалидные значения (BUG-1). */
 :root {
-  --lang-en: light-dark(#2e5bff, #86a2ff);
-  --lang-en-ink: light-dark(#1d3fd1, #aebfff);
-  --lang-en-soft: light-dark(#e9eeff, #1c2452);
-  --lang-en-on: light-dark(#ffffff, #0b1033);
+  --lang-en: #2e5bff;
+  --lang-en-ink: #1d3fd1;
+  --lang-en-soft: #e9eeff;
+  --lang-en-on: #ffffff;
 
-  --lang-es: light-dark(#f2711c, #ff9d5c);
-  --lang-es-ink: light-dark(#a3450a, #ffb98a);
-  --lang-es-soft: light-dark(#ffefe3, #3b2414);
-  --lang-es-on: light-dark(#2a1405, #2a1405);
+  --lang-es: #f2711c;
+  --lang-es-ink: #a3450a;
+  --lang-es-soft: #ffefe3;
+  --lang-es-on: #2a1405;
 
   /* Род испанского существительного — по цвету артикля. */
-  --gender-m: light-dark(#1b6f94, #7fcbeb);
-  --gender-f: light-dark(#b02e69, #f39bc3);
+  --gender-m: #1b6f94;
+  --gender-f: #b02e69;
 
-  --reward: light-dark(#ffc53d, #ffcf5c);
-  --reward-ink: light-dark(#8a5a00, #ffd97a);
-  --reward-soft: light-dark(#fff4d6, #3a2e10);
+  --reward: #ffc53d;
+  --reward-ink: #8a5a00;
+  --reward-soft: #fff4d6;
 
   --font-lang: var(--font-serif);
+}
+
+:root[data-color-scheme='dark'] {
+  --lang-en: #86a2ff;
+  --lang-en-ink: #aebfff;
+  --lang-en-soft: #1c2452;
+  --lang-en-on: #0b1033;
+
+  --lang-es: #ff9d5c;
+  --lang-es-ink: #ffb98a;
+  --lang-es-soft: #3b2414;
+  --lang-es-on: #2a1405;
+
+  --gender-m: #7fcbeb;
+  --gender-f: #f39bc3;
+
+  --reward: #ffcf5c;
+  --reward-ink: #ffd97a;
+  --reward-soft: #3a2e10;
 }
 
 /* Тинт контейнера: всё внутри берёт цвет языка контента (не профиля). */

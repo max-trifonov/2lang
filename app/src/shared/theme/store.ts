@@ -41,6 +41,8 @@ export const useThemeStore = defineStore('theme', () => {
     applyTheme(applied)
     if (typeof document !== 'undefined') {
       document.documentElement.style.colorScheme = scheme
+      // Селектор для CSS, которому нужна схема (features/language/lang.css).
+      document.documentElement.dataset.colorScheme = scheme
     }
   }
 
