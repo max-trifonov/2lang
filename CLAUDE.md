@@ -17,6 +17,7 @@
 | Журнал решений | `.flow/decisions.md` |
 | Code map | `.flow/code-map.md` |
 | Техдолг | `.flow/tech-debt.md` |
+| Runbook (прод, деплой, откат) | [`.flow/runbook.md`](.flow/runbook.md), скрипт `deploy/deploy.sh`, nginx `deploy/nginx/` (D-39) |
 | Программа курса EN/ES (звучание, грамматика) | [`.flow/curriculum.md`](.flow/curriculum.md) |
 | Формат текстов (песни и стихи) v1 | [`.flow/content-format.md`](.flow/content-format.md), схема `content/schema/text.schema.json` |
 | Формат словаря v1 | [`.flow/dictionary-format.md`](.flow/dictionary-format.md), схема `content/schema/dictionary.schema.json`, словари `content/dictionary/` (черновики ИИ — `ext.draft`; сборка из `content/drafts/` — `python3 content/drafts/build.py`, слияние, D-28), каркас `content/frequency/` |

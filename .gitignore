@@ -1,7 +1,8 @@
 # Личные тексты (license: personal) — не публикуются (D-5)
 content/private/
 
-# Зависимости и сборка
+# Зависимости и сборка (.releases/ — релизы deploy/deploy.sh на сервере)
+/.releases/
 node_modules/
 dist/
 coverage/
