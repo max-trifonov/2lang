@@ -82,7 +82,8 @@
       "retry": "Reintentar",
       "kind": {
         "song": "Canción",
-        "poem": "Poema"
+        "poem": "Poema",
+        "play": "Obra de teatro"
       },
       "personal": "personal",
       "resultsTitle": "Resultado de la carga",
@@ -475,7 +476,7 @@
     "grammar": "Gramática",
     "grammarProgress": "Temas superados: {done} de {total}",
     "rule": "Regla",
-    "songs": "Canciones"
+    "songs": "Canciones y poemas"
   },
   "review": {
     "title": "Repaso",
@@ -568,21 +569,21 @@
     }
   },
   "songs": {
-    "title": "Lección con canción",
-    "start": "Lección con canción",
-    "overview": "Sobre la canción",
-    "rules": "Reglas en la canción",
+    "title": "Lección con texto",
+    "start": "Lección con texto",
+    "overview": "Sobre el texto",
+    "rules": "Reglas en el texto",
     "stanza": "Análisis · {n} de {total}",
     "phrasesHint": "Las frases de esta estrofa volverán en los ejercicios y en el repaso",
-    "summary": "¡Canción superada!",
+    "summary": "¡Texto estudiado!",
     "toReview": "{n} frase añadida al repaso | {n} frases añadidas al repaso",
     "toText": "Abrir el texto completo",
     "phrases": "{n} frase | {n} frases",
-    "empty": "Aún no hay canciones en este idioma",
-    "emptyHint": "Sube tu canción en la pestaña Textos: su lección aparecerá aquí",
+    "empty": "Aún no hay textos en este idioma",
+    "emptyHint": "Sube una canción o un poema en la pestaña «Textos» y su lección aparecerá aquí",
     "library": "Biblioteca de textos",
-    "next": "Canción para estudiar",
+    "next": "Texto para estudiar",
     "fit": "Con reglas que ya sabes",
-    "progress": "Canciones superadas: {done} de {total}"
+    "progress": "Textos estudiados: {done} de {total}"
   }
 }

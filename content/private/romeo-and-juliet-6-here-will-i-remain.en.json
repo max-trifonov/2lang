@@ -1,0 +1,303 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "romeo-and-juliet-6-here-will-i-remain",
+  "kind": "play",
+  "lang": "en",
+  "license": "personal",
+  "title": {
+    "en": "Romeo and Juliet · 6. Here Will I Remain",
+    "ru": "Ромео и Джульетта · 6. Здесь я останусь"
+  },
+  "author": "William Shakespeare",
+  "year": 1597,
+  "level": "C1",
+  "tags": [
+    "love",
+    "classic",
+    "shakespeare",
+    "romeo-and-juliet"
+  ],
+  "links": [
+    {
+      "type": "source",
+      "url": "https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.5.3.html"
+    }
+  ],
+  "note": {
+    "ru": "Акт V, сцена 3, склеп Капулетти. Ромео думает, что Джульетта мертва, — на самом деле она спит под действием снадобья и вот-вот проснётся. Ромео прощается с ней и выпивает яд. Перевод строк «Здесь вечный отдых для меня начнётся…» — тот, что вам понравился; перевод остальных строк и поле «дословно» — построчные. Образы: смерть-жених, звёзды-судьба (перекличка с прологом: star-cross'd lovers), договор, скреплённый поцелуем. Ранний современный английский: thou / thee / thy / thine = you / you / your / your; art = are, wilt = will, dost / doth = do / does, hath = has, 'tis = it is, 'd = -ed (буква e не читается)."
+  },
+  "see": [
+    "en-grammar-21",
+    "en-grammar-26",
+    "en-grammar-29",
+    "en-grammar-35"
+  ],
+  "stanzas": [
+    {
+      "speaker": "Romeo",
+      "lines": [
+        {
+          "en": "O my love! my wife!",
+          "ru": "О любовь моя! Жена моя!"
+        },
+        {
+          "en": "Death, that hath suck'd the honey of thy breath,",
+          "ru": "Смерть, что выпила мёд твоего дыхания,",
+          "note": {
+            "ru": "hath suck'd = has sucked — Present Perfect (EN-29)."
+          },
+          "phrases": [
+            {
+              "en": "the honey of thy breath",
+              "ru": "мёд твоего дыхания"
+            }
+          ]
+        },
+        {
+          "en": "Hath had no power yet upon thy beauty:",
+          "ru": "Ещё не властна над твоей красотой:",
+          "phrases": [
+            {
+              "en": "Hath had no power yet",
+              "ru": "ещё не получила власти",
+              "note": {
+                "ru": "Present Perfect с yet — «ещё не» (EN-29)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Thou art not conquer'd; beauty's ensign yet",
+          "ru": "Ты не побеждена: знамя красоты ещё",
+          "note": {
+            "ru": "conquer'd — страдательный залог: be conquered — «быть побеждённым» (EN-35). ensign — знамя."
+          }
+        },
+        {
+          "en": "Is crimson in thy lips and in thy cheeks,",
+          "ru": "Алеет на твоих губах и щеках,"
+        },
+        {
+          "en": "And death's pale flag is not advanced there.",
+          "ru": "И бледный флаг смерти там ещё не поднят.",
+          "note": {
+            "ru": "Военная метафора: красота и смерть — две армии, и красота ещё держит позицию. Ромео не догадывается, почему."
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Romeo",
+      "lines": [
+        {
+          "en": "Ah, dear Juliet,",
+          "ru": "Ах, милая Джульетта,"
+        },
+        {
+          "en": "Why art thou yet so fair? shall I believe",
+          "ru": "Отчего ты всё ещё так прекрасна? Поверить ли мне,"
+        },
+        {
+          "en": "That unsubstantial death is amorous,",
+          "ru": "Что бесплотная смерть влюблена"
+        },
+        {
+          "en": "And that the lean abhorred monster keeps",
+          "ru": "И что это тощее мерзкое чудовище держит"
+        },
+        {
+          "en": "Thee here in dark to be his paramour?",
+          "ru": "Тебя здесь во тьме, чтобы сделать своей возлюбленной?",
+          "note": {
+            "ru": "paramour — возлюбленный, возлюбленная (книжн.). Смерть-жених — сквозной образ пьесы."
+          }
+        },
+        {
+          "en": "For fear of that, I still will stay with thee;",
+          "ru": "Из страха перед этим я навсегда останусь с тобой",
+          "note": {
+            "ru": "still здесь — «всегда, неизменно»."
+          },
+          "phrases": [
+            {
+              "en": "For fear of that",
+              "ru": "из страха перед этим",
+              "note": {
+                "ru": "for fear of — «из боязни»: живое выражение"
+              }
+            }
+          ]
+        },
+        {
+          "en": "And never from this palace of dim night",
+          "ru": "И никогда из этого дворца тусклой ночи"
+        },
+        {
+          "en": "Depart again: here, here will I remain",
+          "ru": "Не уйду: здесь, здесь я останусь",
+          "phrases": [
+            {
+              "en": "here will I remain",
+              "ru": "здесь я останусь",
+              "note": {
+                "ru": "инверсия ради ритма: will I remain = I will remain (EN-21)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Romeo",
+      "lines": [
+        {
+          "en": "With worms that are thy chamber-maids; O, here",
+          "ru": "С червями — твоими горничными. О, здесь"
+        },
+        {
+          "en": "Will I set up my everlasting rest,",
+          "ru": "Здесь вечный отдых для меня начнётся.",
+          "lit": {
+            "ru": "Устрою свой вечный покой"
+          },
+          "phrases": [
+            {
+              "en": "my everlasting rest",
+              "ru": "мой вечный покой",
+              "note": {
+                "ru": "set up one's rest — «обосноваться навсегда» (выражение из карточной игры: поставить на кон всё); everlasting — вечный"
+              }
+            }
+          ]
+        },
+        {
+          "en": "And shake the yoke of inauspicious stars",
+          "ru": "И здесь стряхну ярмо зловещих звёзд",
+          "lit": {
+            "ru": "И стряхну ярмо неблагосклонных звёзд"
+          },
+          "phrases": [
+            {
+              "en": "shake the yoke of inauspicious stars",
+              "ru": "стряхнуть ярмо зловещих звёзд",
+              "note": {
+                "ru": "inauspicious — «несчастливый, неблагоприятный»; auspicious — «благоприятный»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "From this world-wearied flesh. Eyes, look your last!",
+          "ru": "С усталой шеи. — В последний раз, глаза, глядите;",
+          "lit": {
+            "ru": "С этой утомлённой миром плоти. Глаза, посмотрите в последний раз!"
+          },
+          "phrases": [
+            {
+              "en": "look your last",
+              "ru": "посмотрите в последний раз"
+            }
+          ]
+        },
+        {
+          "en": "Arms, take your last embrace! and, lips, O you",
+          "ru": "руки, обнимайте! Вы, губы,",
+          "lit": {
+            "ru": "Руки, обнимите в последний раз! И вы, о губы,"
+          },
+          "phrases": [
+            {
+              "en": "take your last embrace",
+              "ru": "обнимите в последний раз"
+            }
+          ]
+        },
+        {
+          "en": "The doors of breath, seal with a righteous kiss",
+          "ru": "жизни двери, поцелуем",
+          "lit": {
+            "ru": "Двери дыхания, скрепите праведным поцелуем"
+          },
+          "note": {
+            "ru": "seal — «скрепить печатью» (договор, письмо)."
+          },
+          "phrases": [
+            {
+              "en": "The doors of breath",
+              "ru": "двери дыхания"
+            }
+          ]
+        },
+        {
+          "en": "A dateless bargain to engrossing death!",
+          "ru": "скрепите договор с корыстной смертью.",
+          "lit": {
+            "ru": "Бессрочную сделку со всепоглощающей смертью!"
+          },
+          "note": {
+            "ru": "Юридические слова — печать, сделка: Ромео «подписывает» договор со смертью."
+          },
+          "phrases": [
+            {
+              "en": "a dateless bargain",
+              "ru": "бессрочная сделка",
+              "note": {
+                "ru": "dateless — без срока; engrossing — «забирающий всё себе» (engross — скупать целиком)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Romeo",
+      "lines": [
+        {
+          "en": "Come, bitter conduct, come, unsavoury guide!",
+          "ru": "Приди, мой горький проводник, мой мерзкий вожатый!",
+          "note": {
+            "ru": "Ромео обращается к яду."
+          }
+        },
+        {
+          "en": "Thou desperate pilot, now at once run on",
+          "ru": "Отчаянный кормчий, сейчас же разбей"
+        },
+        {
+          "en": "The dashing rocks thy sea-sick weary bark!",
+          "ru": "О скалы свой измученный, усталый челн!",
+          "note": {
+            "ru": "Ромео — корабль, яд — кормчий, который разобьёт его о скалы. bark — «судно», а не «лай»."
+          }
+        },
+        {
+          "en": "Here's to my love! O true apothecary!",
+          "ru": "За мою любовь! О честный аптекарь!",
+          "note": {
+            "ru": "Между фразами Ромео пьёт яд. true здесь — «честный, не обманул»."
+          },
+          "phrases": [
+            {
+              "en": "Here's to my love!",
+              "ru": "за мою любовь!",
+              "note": {
+                "ru": "Here's to … — живой тост: Here's to us! — за нас!"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Thy drugs are quick. Thus with a kiss I die.",
+          "ru": "Твои снадобья быстры. Так, с поцелуем, я умираю.",
+          "phrases": [
+            {
+              "en": "Thus with a kiss I die.",
+              "ru": "так, с поцелуем, я умираю"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

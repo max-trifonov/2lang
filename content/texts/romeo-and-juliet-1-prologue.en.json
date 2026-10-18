@@ -1,0 +1,242 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "romeo-and-juliet-1-prologue",
+  "kind": "play",
+  "lang": "en",
+  "license": "public-domain",
+  "title": {
+    "en": "Romeo and Juliet · 1. Prologue",
+    "ru": "Ромео и Джульетта · 1. Пролог"
+  },
+  "author": "William Shakespeare",
+  "year": 1597,
+  "level": "C1",
+  "tags": [
+    "love",
+    "classic",
+    "shakespeare",
+    "romeo-and-juliet"
+  ],
+  "links": [
+    {
+      "type": "source",
+      "url": "https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.1.0.html"
+    }
+  ],
+  "note": {
+    "ru": "Пролог читает Хор — это сонет из 14 строк: три четверостишия и двустишие, рифмы ABAB CDCD EFEF GG. В нём сразу пересказан весь сюжет: зритель знает конец с первой минуты. Как разбирать каждый отрывок: 1) прочитайте вслух без перевода — почувствуйте ритм ямба (та-ТА та-ТА); 2) разберите строки: Шекспир ставит слова не по порядку ради ритма — найдите подлежащее и сказуемое; 3) выучите наизусть 2–4 строки, которые понравились. Ранний современный английский: thou / thee / thy / thine = you / you / your / your; art = are, wilt = will, dost / doth = do / does, hath = has, 'tis = it is, 'd = -ed (буква e не читается)."
+  },
+  "see": [
+    "en-grammar-01",
+    "en-grammar-15"
+  ],
+  "stanzas": [
+    {
+      "speaker": "Chorus",
+      "lines": [
+        {
+          "en": "Two households, both alike in dignity,",
+          "ru": "Два дома, равные знатностью,",
+          "phrases": [
+            {
+              "en": "alike in dignity",
+              "ru": "равные по положению",
+              "note": {
+                "ru": "dignity здесь — знатность, положение в обществе, а не «достоинство»; household — семья, род, дом"
+              }
+            }
+          ]
+        },
+        {
+          "en": "In fair Verona, where we lay our scene,",
+          "ru": "В прекрасной Вероне, где разворачивается наше действие,",
+          "phrases": [
+            {
+              "en": "where we lay our scene",
+              "ru": "где происходит наше действие",
+              "note": {
+                "ru": "lay the scene — театральное «поместить действие»; fair — у Шекспира «прекрасный», сегодня чаще «честный, справедливый»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "From ancient grudge break to new mutiny,",
+          "ru": "Из давней вражды вырываются в новую смуту,",
+          "note": {
+            "ru": "Подлежащее — two households из первой строки: (they) break from ancient grudge to new mutiny. Порядок слов переставлен ради ритма (EN-1)."
+          },
+          "phrases": [
+            {
+              "en": "ancient grudge",
+              "ru": "давняя вражда",
+              "note": {
+                "ru": "grudge — затаённая обида; живое выражение: hold a grudge — держать зло"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Where civil blood makes civil hands unclean.",
+          "ru": "Где кровь горожан пачкает руки горожан.",
+          "note": {
+            "ru": "Игра слов: civil — «гражданский» и «вежливый, цивилизованный». Civil war — гражданская война."
+          },
+          "phrases": [
+            {
+              "en": "makes civil hands unclean",
+              "ru": "делает руки горожан нечистыми",
+              "note": {
+                "ru": "make + кто/что + прилагательное: makes hands unclean — «делает руки нечистыми»"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Chorus",
+      "lines": [
+        {
+          "en": "From forth the fatal loins of these two foes",
+          "ru": "Из роковых чресл этих двух врагов",
+          "phrases": [
+            {
+              "en": "these two foes",
+              "ru": "эти два врага",
+              "note": {
+                "ru": "foe — книжное «враг» (= enemy)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "A pair of star-cross'd lovers take their life;",
+          "ru": "Рождается пара несчастных влюблённых;",
+          "lit": {
+            "ru": "Пара влюблённых, перечёркнутых звёздами, берёт свою жизнь"
+          },
+          "phrases": [
+            {
+              "en": "star-cross'd lovers",
+              "ru": "влюблённые, которым не судьба",
+              "note": {
+                "ru": "star-crossed — «звёзды против них». Выражение живо до сих пор: star-crossed lovers — о любой обречённой паре"
+              }
+            },
+            {
+              "en": "take their life",
+              "ru": "появляются на свет",
+              "note": {
+                "ru": "двойной смысл: здесь «получают жизнь», а сегодня take one's life — «покончить с собой»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Whose misadventured piteous overthrows",
+          "ru": "Чьи злосчастные, горестные падения"
+        },
+        {
+          "en": "Do with their death bury their parents' strife.",
+          "ru": "Своей смертью хоронят вражду родителей.",
+          "note": {
+            "ru": "Подлежащее — overthrows из прошлой строки: overthrows … do bury. Do здесь не вопрос, а усиление глагола и лишний слог для ритма."
+          },
+          "phrases": [
+            {
+              "en": "bury their parents' strife",
+              "ru": "хоронят вражду родителей",
+              "note": {
+                "ru": "strife — раздор; parents' — притяжательный падеж множественного числа, апостроф после s"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Chorus",
+      "lines": [
+        {
+          "en": "The fearful passage of their death-mark'd love,",
+          "ru": "Страшный путь их обречённой смерти любви,",
+          "phrases": [
+            {
+              "en": "death-mark'd love",
+              "ru": "любовь, отмеченная смертью"
+            }
+          ]
+        },
+        {
+          "en": "And the continuance of their parents' rage,",
+          "ru": "И неутихающая ярость их родителей,"
+        },
+        {
+          "en": "Which, but their children's end, nought could remove,",
+          "ru": "Которую ничто, кроме гибели детей, не могло унять,",
+          "note": {
+            "ru": "but = «кроме» (except). Обычный порядок: which nought could remove but their children's end."
+          },
+          "phrases": [
+            {
+              "en": "nought could remove",
+              "ru": "ничто не могло устранить",
+              "note": {
+                "ru": "nought = nothing; could — прошедшее от can (EN-15)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Is now the two hours' traffic of our stage;",
+          "ru": "Станет теперь двухчасовым действием нашей сцены;",
+          "phrases": [
+            {
+              "en": "the two hours' traffic",
+              "ru": "двухчасовое действие",
+              "note": {
+                "ru": "traffic у Шекспира — «дела, занятие», сегодня — дорожное движение"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Chorus",
+      "lines": [
+        {
+          "en": "The which if you with patient ears attend,",
+          "ru": "И если вы терпеливо нас выслушаете,",
+          "lit": {
+            "ru": "Которое, если вы терпеливыми ушами будете внимать"
+          },
+          "phrases": [
+            {
+              "en": "with patient ears",
+              "ru": "терпеливо, внимательно",
+              "note": {
+                "ru": "attend здесь — «внимать, слушать», сегодня — «посещать»: attend a meeting"
+              }
+            }
+          ]
+        },
+        {
+          "en": "What here shall miss, our toil shall strive to mend.",
+          "ru": "Чего здесь недостанет — наш труд постарается восполнить.",
+          "phrases": [
+            {
+              "en": "strive to mend",
+              "ru": "постараться исправить",
+              "note": {
+                "ru": "strive — стремиться, mend — чинить, исправлять; shall — торжественное будущее"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -110,15 +110,16 @@ describe('урок по песне (D-42)', () => {
     expect(songsForRule(docs, 'en-grammar-07').map((d) => d.id)).toEqual(['a'])
   })
 
-  it('песни языка: только песни, проще — раньше, затем по названию', () => {
+  it('тексты языка: песни, стихи и пьесы, проще — раньше, затем по названию', () => {
     const docs = [
       song('c', { level: 'B2' }),
       song('b', { level: 'A2' }),
       song('a'),
       song('p', { kind: 'poem', level: 'A1' }),
+      song('d', { kind: 'play', level: 'B2' }),
       song('es', { lang: 'es', title: { es: 'es' } }),
     ]
-    expect(songsOf(docs, 'en').map((d) => d.id)).toEqual(['b', 'c', 'a'])
+    expect(songsOf(docs, 'en').map((d) => d.id)).toEqual(['p', 'b', 'c', 'd', 'a'])
   })
 
   it('следующая песня — непройденная, где пройденных правил больше, чем непройденных', () => {

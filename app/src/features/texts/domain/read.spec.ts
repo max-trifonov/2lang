@@ -27,6 +27,13 @@ describe('expandStanzas', () => {
     ])
     expect(out[2]!.lines).toBe(chorus)
   })
+
+  it('передаёт, кто произносит строфу', () => {
+    const out = expandStanzas(
+      doc([{ speaker: 'Romeo', lines: [{ es: 'x' }] }, { lines: [{ es: 'y' }] }]),
+    )
+    expect(out.map((s) => s.speaker)).toEqual(['Romeo', undefined])
+  })
 })
 
 describe('translationOf', () => {

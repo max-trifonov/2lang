@@ -1,0 +1,332 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "romeo-and-juliet-5-the-lark",
+  "kind": "play",
+  "lang": "en",
+  "license": "public-domain",
+  "title": {
+    "en": "Romeo and Juliet · 5. The Nightingale and the Lark",
+    "ru": "Ромео и Джульетта · 5. Соловей и жаворонок"
+  },
+  "author": "William Shakespeare",
+  "year": 1597,
+  "level": "C1",
+  "tags": [
+    "love",
+    "classic",
+    "shakespeare",
+    "romeo-and-juliet"
+  ],
+  "links": [
+    {
+      "type": "source",
+      "url": "https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.3.5.html"
+    }
+  ],
+  "note": {
+    "ru": "Акт III, сцена 5. Единственная брачная ночь кончается: на рассвете изгнанный Ромео должен бежать в Мантую, иначе его казнят. Влюблённые спорят, кто поёт: соловей — значит, ещё ночь, жаворонок — уже утро. Читайте вслух по ролям: здесь хорошо слышны интонации. Ранний современный английский: thou / thee / thy / thine = you / you / your / your; art = are, wilt = will, dost / doth = do / does, hath = has, 'tis = it is, 'd = -ed (буква e не читается)."
+  },
+  "see": [
+    "en-grammar-18",
+    "en-grammar-19",
+    "en-grammar-23",
+    "en-grammar-24",
+    "en-grammar-26",
+    "en-grammar-27",
+    "en-grammar-35"
+  ],
+  "stanzas": [
+    {
+      "speaker": "Juliet",
+      "lines": [
+        {
+          "en": "Wilt thou be gone? it is not yet near day:",
+          "ru": "Ты хочешь уйти? До утра ещё далеко:",
+          "phrases": [
+            {
+              "en": "Wilt thou be gone?",
+              "ru": "ты уходишь?",
+              "note": {
+                "ru": "wilt thou = will you; be gone — «уйти, уходить»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "It was the nightingale, and not the lark,",
+          "ru": "То был соловей, а не жаворонок,",
+          "note": {
+            "ru": "Соловей поёт ночью, жаворонок — на рассвете."
+          },
+          "phrases": [
+            {
+              "en": "the nightingale, and not the lark",
+              "ru": "соловей, а не жаворонок",
+              "note": {
+                "ru": "it was — «это был» (EN-18)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "That pierced the fearful hollow of thine ear;",
+          "ru": "Что пронзил пугливую глубь твоего уха;",
+          "note": {
+            "ru": "thine = your перед гласной (thine ear) — как an перед гласной. pierced — Past Simple (EN-19)."
+          }
+        },
+        {
+          "en": "Nightly she sings on yon pomegranate-tree:",
+          "ru": "Каждую ночь он поёт на том гранатовом дереве:",
+          "note": {
+            "ru": "nightly — «каждую ночь» (-ly от существительных: daily, weekly). Соловей в английской поэзии — she."
+          }
+        },
+        {
+          "en": "Believe me, love, it was the nightingale.",
+          "ru": "Поверь мне, любимый, это был соловей.",
+          "phrases": [
+            {
+              "en": "Believe me, love",
+              "ru": "поверь мне, любимый",
+              "note": {
+                "ru": "love — частое обращение: «милый, милая»"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Romeo",
+      "lines": [
+        {
+          "en": "It was the lark, the herald of the morn,",
+          "ru": "Это был жаворонок, вестник утра,",
+          "phrases": [
+            {
+              "en": "the herald of the morn",
+              "ru": "вестник утра",
+              "note": {
+                "ru": "morn — утро (поэт.)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "No nightingale: look, love, what envious streaks",
+          "ru": "Не соловей: смотри, любимая, как завистливые полосы"
+        },
+        {
+          "en": "Do lace the severing clouds in yonder east:",
+          "ru": "Расшивают расходящиеся облака там, на востоке:",
+          "note": {
+            "ru": "do lace — do для усиления и ритма; lace — «плести кружево»."
+          }
+        },
+        {
+          "en": "Night's candles are burnt out, and jocund day",
+          "ru": "Свечи ночи догорели, и весёлый день",
+          "phrases": [
+            {
+              "en": "Night's candles are burnt out",
+              "ru": "свечи ночи догорели",
+              "note": {
+                "ru": "свечи ночи — звёзды. burn out живо и сегодня: I'm burnt out — я выгорел"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Stands tiptoe on the misty mountain tops.",
+          "ru": "Стоит на цыпочках на туманных вершинах гор.",
+          "phrases": [
+            {
+              "en": "Stands tiptoe",
+              "ru": "стоит на цыпочках",
+              "note": {
+                "ru": "сегодня: stand on tiptoe"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I must be gone and live, or stay and die.",
+          "ru": "Мне нужно уйти и жить — или остаться и умереть.",
+          "phrases": [
+            {
+              "en": "I must be gone",
+              "ru": "я должен уйти",
+              "note": {
+                "ru": "must — «должен» (EN-23)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Juliet",
+      "lines": [
+        {
+          "en": "Yond light is not day-light, I know it, I:",
+          "ru": "Тот свет — не дневной, я знаю, я:"
+        },
+        {
+          "en": "It is some meteor that the sun exhales,",
+          "ru": "Это какой-то метеор, что выдыхает солнце,",
+          "note": {
+            "ru": "По старым представлениям метеоры — пары, которые солнце поднимает с земли."
+          }
+        },
+        {
+          "en": "To be to thee this night a torch-bearer,",
+          "ru": "Чтобы стать тебе этой ночью факельщиком"
+        },
+        {
+          "en": "And light thee on thy way to Mantua:",
+          "ru": "И осветить тебе путь в Мантую:"
+        },
+        {
+          "en": "Therefore stay yet; thou need'st not to be gone.",
+          "ru": "Так останься ещё; тебе не нужно уходить.",
+          "phrases": [
+            {
+              "en": "thou need'st not to be gone",
+              "ru": "тебе не нужно уходить",
+              "note": {
+                "ru": "need'st = need для thou; сегодня: you don't need to go (EN-24)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Romeo",
+      "lines": [
+        {
+          "en": "Let me be ta'en, let me be put to death;",
+          "ru": "Пусть меня схватят, пусть казнят;",
+          "phrases": [
+            {
+              "en": "Let me be ta'en",
+              "ru": "пусть меня схватят",
+              "note": {
+                "ru": "let + me + be + третья форма — «пусть со мной сделают…» (EN-26, EN-35); ta'en = taken"
+              }
+            },
+            {
+              "en": "put to death",
+              "ru": "казнить"
+            }
+          ]
+        },
+        {
+          "en": "I am content, so thou wilt have it so.",
+          "ru": "Я согласен, раз ты так хочешь.",
+          "note": {
+            "ru": "so здесь = «раз, если»."
+          },
+          "phrases": [
+            {
+              "en": "I am content",
+              "ru": "я доволен, согласен",
+              "note": {
+                "ru": "content (прил.) — «довольный»; ударение на второй слог"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I'll say yon grey is not the morning's eye,",
+          "ru": "Я скажу, что та серость — не око утра,"
+        },
+        {
+          "en": "'Tis but the pale reflex of Cynthia's brow;",
+          "ru": "А лишь бледный отблеск чела Цинтии;",
+          "note": {
+            "ru": "Цинтия — луна (богиня Диана). reflex — «отражение, отблеск»."
+          }
+        },
+        {
+          "en": "Nor that is not the lark, whose notes do beat",
+          "ru": "И что не жаворонок это, чьи трели бьются",
+          "note": {
+            "ru": "nor … not — двойное отрицание: у Шекспира оно усиливает, а не отменяет."
+          }
+        },
+        {
+          "en": "The vaulty heaven so high above our heads:",
+          "ru": "О свод небес так высоко над нами:"
+        },
+        {
+          "en": "I have more care to stay than will to go:",
+          "ru": "Остаться я хочу сильней, чем уйти:",
+          "lit": {
+            "ru": "У меня больше заботы остаться, чем воли уйти"
+          },
+          "phrases": [
+            {
+              "en": "more care to stay than will to go",
+              "ru": "больше желания остаться, чем воли уйти",
+              "note": {
+                "ru": "more … than — «больше, чем» (EN-27)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Come, death, and welcome! Juliet wills it so.",
+          "ru": "Приди же, смерть, — добро пожаловать! Так хочет Джульетта."
+        },
+        {
+          "en": "How is't, my soul? let's talk; it is not day.",
+          "ru": "Как ты, душа моя? Давай поговорим; ещё не день.",
+          "phrases": [
+            {
+              "en": "let's talk",
+              "ru": "давай поговорим",
+              "note": {
+                "ru": "let's — «давай» (EN-26); is't = is it"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Juliet",
+      "lines": [
+        {
+          "en": "It is, it is: hie hence, be gone, away!",
+          "ru": "День, день! Спеши отсюда, уходи, беги!",
+          "note": {
+            "ru": "hie — «спешить», hence — «отсюда»."
+          }
+        },
+        {
+          "en": "It is the lark that sings so out of tune,",
+          "ru": "Это жаворонок поёт так фальшиво,",
+          "note": {
+            "ru": "It is … that — выделение: «это именно жаворонок поёт»."
+          },
+          "phrases": [
+            {
+              "en": "out of tune",
+              "ru": "фальшиво, не в лад",
+              "note": {
+                "ru": "живое: sing out of tune — фальшивить; in tune — в лад"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Straining harsh discords and unpleasing sharps.",
+          "ru": "Выводя резкие, режущие слух ноты."
+        }
+      ]
+    }
+  ]
+}

@@ -147,16 +147,13 @@ function openWord(e: CatalogEntry): void {
           {{ [doc.author, doc.performer].filter(Boolean).join(' · ') }}
         </p>
         <p v-if="local(doc.note)" class="read__note">{{ local(doc.note) }}</p>
-        <UiButton
-          v-if="doc.kind === 'song'"
-          full-width
-          class="read__lesson"
-          @click="router.push(`/songs/${doc.id}`)"
-          >{{ t('songs.start') }}</UiButton
-        >
+        <UiButton full-width class="read__lesson" @click="router.push(`/songs/${doc.id}`)">{{
+          t('songs.start')
+        }}</UiButton>
 
         <section v-for="(s, si) in stanzas" :key="si" class="read__stanza">
-          <h2 v-if="s.type !== 'verse' || s.repeat" class="read__label">
+          <h2 v-if="s.speaker" class="read__label" :lang="lang">{{ s.speaker }}</h2>
+          <h2 v-else-if="s.type !== 'verse' || s.repeat" class="read__label">
             {{ t(`texts.ui.read.stanza.${s.type}`) }}
             <template v-if="s.repeat"> · {{ t('texts.ui.read.repeat') }}</template>
           </h2>

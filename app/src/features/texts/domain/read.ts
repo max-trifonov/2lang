@@ -8,6 +8,7 @@ export interface ReadStanza {
   type: NonNullable<Stanza['type']>
   /** Строфа показана по `ref` — повтор объявленной выше. */
   repeat: boolean
+  speaker?: string | undefined
   lines: Line[]
 }
 
@@ -19,7 +20,7 @@ export function expandStanzas(doc: TextDoc): ReadStanza[] {
     const own = 'lines' in s ? s.lines : undefined
     const lines = own ?? declared.get((s as { ref: string }).ref) ?? []
     if (s.id && own) declared.set(s.id, own)
-    result.push({ id: s.id, type: s.type ?? 'verse', repeat: !own, lines })
+    result.push({ id: s.id, type: s.type ?? 'verse', repeat: !own, speaker: s.speaker, lines })
   }
   return result
 }

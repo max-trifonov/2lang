@@ -7,7 +7,7 @@ export type LangCode = string
 /** `{ "<язык>": "строка" }` */
 export type Localized = Record<LangCode, string>
 
-export const TEXT_KINDS = ['song', 'poem'] as const
+export const TEXT_KINDS = ['song', 'poem', 'play'] as const
 export type TextKind = (typeof TEXT_KINDS)[number]
 
 export const LICENSES = ['public-domain', 'own', 'personal'] as const
@@ -71,6 +71,8 @@ export function textIn(node: Line | Phrase | Word, lang: LangCode): string | und
 interface StanzaBase {
   id?: string
   type?: StanzaType
+  /** Кто произносит строфу — персонаж пьесы (`play`) или голос в дуэте. */
+  speaker?: string
   ext?: Ext
 }
 

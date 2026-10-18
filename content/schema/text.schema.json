@@ -10,7 +10,7 @@
     "format": { "const": "2lang/text" },
     "version": { "const": 1 },
     "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
-    "kind": { "enum": ["song", "poem"] },
+    "kind": { "enum": ["song", "poem", "play"] },
     "lang": { "$ref": "#/$defs/langCode" },
     "license": { "enum": ["public-domain", "own", "personal"] },
     "title": { "$ref": "#/$defs/localized" },
@@ -50,6 +50,7 @@
       "properties": {
         "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
         "type": { "enum": ["verse", "chorus", "bridge", "intro", "outro"] },
+        "speaker": { "type": "string", "minLength": 1 },
         "lines": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/line" } },
         "ref": { "type": "string" },
         "ext": { "type": "object" }

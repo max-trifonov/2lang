@@ -1,0 +1,219 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "romeo-and-juliet-4-gallop-apace",
+  "kind": "play",
+  "lang": "en",
+  "license": "public-domain",
+  "title": {
+    "en": "Romeo and Juliet · 4. Gallop Apace",
+    "ru": "Ромео и Джульетта · 4. Скачите, кони"
+  },
+  "author": "William Shakespeare",
+  "year": 1597,
+  "level": "C1",
+  "tags": [
+    "love",
+    "classic",
+    "shakespeare",
+    "romeo-and-juliet"
+  ],
+  "links": [
+    {
+      "type": "source",
+      "url": "https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.3.2.html"
+    }
+  ],
+  "note": {
+    "ru": "Акт III, сцена 2. Джульетта в день свадьбы ждёт ночи, когда к ней придёт Ромео, — и ещё не знает, что он только что убил Тибальта и изгнан. Весь монолог — обращение: к коням солнца, к ночи, к Ромео. Хороший текст для образного языка: день и ночь, свет и тьма, звёзды. Ранний современный английский: thou / thee / thy / thine = you / you / your / your; art = are, wilt = will, dost / doth = do / does, hath = has, 'tis = it is, 'd = -ed (буква e не читается)."
+  },
+  "see": [
+    "en-grammar-21",
+    "en-grammar-26",
+    "en-grammar-27"
+  ],
+  "stanzas": [
+    {
+      "speaker": "Juliet",
+      "lines": [
+        {
+          "en": "Gallop apace, you fiery-footed steeds,",
+          "ru": "Скачите быстрей, огненноногие кони,",
+          "note": {
+            "ru": "Обращение к коням бога солнца: пусть день скорее кончится."
+          },
+          "phrases": [
+            {
+              "en": "Gallop apace",
+              "ru": "скачите во весь опор",
+              "note": {
+                "ru": "apace — быстро (книжн.); steed — боевой конь (книжн.)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Towards Phoebus' lodging: such a wagoner",
+          "ru": "К жилищу Феба: такой возница,",
+          "note": {
+            "ru": "Феб — бог солнца Аполлон, его «жилище» — запад, где солнце садится. wagoner — возница."
+          }
+        },
+        {
+          "en": "As Phaethon would whip you to the west,",
+          "ru": "Как Фаэтон, погнал бы вас кнутом на запад",
+          "note": {
+            "ru": "Фаэтон — сын бога солнца, не справился с его колесницей. such … as — «такой …, как»."
+          },
+          "phrases": [
+            {
+              "en": "would whip you to the west",
+              "ru": "погнал бы вас кнутом на запад",
+              "note": {
+                "ru": "would — «бы»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "And bring in cloudy night immediately.",
+          "ru": "И тотчас привёл бы облачную ночь.",
+          "phrases": [
+            {
+              "en": "bring in",
+              "ru": "привести, ввести"
+            }
+          ]
+        },
+        {
+          "en": "Spread thy close curtain, love-performing night,",
+          "ru": "Раскинь свой плотный полог, ночь — пособница любви,",
+          "phrases": [
+            {
+              "en": "Spread thy close curtain",
+              "ru": "раскинь свой плотный полог",
+              "note": {
+                "ru": "close здесь — прилагательное «плотный, закрытый», читается с глухим [s]"
+              }
+            }
+          ]
+        },
+        {
+          "en": "That runaways' eyes may wink, and Romeo",
+          "ru": "Чтоб сомкнулись чужие глаза и Ромео",
+          "note": {
+            "ru": "That … may — «чтобы» (цель). Чьи глаза — runaways' — комментаторы спорят до сих пор; ясно одно: чужие, любопытные. wink здесь — «закрыть глаза»."
+          }
+        },
+        {
+          "en": "Leap to these arms, untalk'd of and unseen.",
+          "ru": "Бросился в мои объятья, без пересудов, никем не замеченный.",
+          "phrases": [
+            {
+              "en": "untalk'd of and unseen",
+              "ru": "без пересудов и незамеченный",
+              "note": {
+                "ru": "un- — приставка отрицания: unseen = not seen; talk of — «говорить о»"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Juliet",
+      "lines": [
+        {
+          "en": "Come, night; come, Romeo; come, thou day in night;",
+          "ru": "Приди, ночь; приди, Ромео; приди, ты — день среди ночи;",
+          "phrases": [
+            {
+              "en": "thou day in night",
+              "ru": "ты — день среди ночи",
+              "note": {
+                "ru": "come — повелительное наклонение (EN-26)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "For thou wilt lie upon the wings of night",
+          "ru": "Ведь ты ляжешь на крылья ночи",
+          "note": {
+            "ru": "for = «ведь, потому что» (книжн.); wilt = will."
+          }
+        },
+        {
+          "en": "Whiter than new snow upon a raven's back.",
+          "ru": "Белее свежего снега на спине ворона.",
+          "phrases": [
+            {
+              "en": "Whiter than new snow",
+              "ru": "белее свежего снега",
+              "note": {
+                "ru": "whiter than — сравнительная степень (EN-27)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Come, gentle night, come, loving, black-brow'd night,",
+          "ru": "Приди, нежная ночь, приди, любящая, чернобровая ночь,"
+        },
+        {
+          "en": "Give me my Romeo; and, when he shall die,",
+          "ru": "Отдай мне моего Ромео; а когда он умрёт,"
+        },
+        {
+          "en": "Take him and cut him out in little stars,",
+          "ru": "Возьми его и разрежь на маленькие звёзды,",
+          "phrases": [
+            {
+              "en": "cut him out in little stars",
+              "ru": "вырежи из него маленькие звёзды"
+            }
+          ]
+        },
+        {
+          "en": "And he will make the face of heaven so fine",
+          "ru": "И он сделает лик небес таким прекрасным,",
+          "phrases": [
+            {
+              "en": "make the face of heaven so fine",
+              "ru": "сделать лик небес таким прекрасным",
+              "note": {
+                "ru": "make + что + прилагательное — «сделать каким-то»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "That all the world will be in love with night",
+          "ru": "Что весь мир влюбится в ночь",
+          "phrases": [
+            {
+              "en": "be in love with",
+              "ru": "быть влюблённым в",
+              "note": {
+                "ru": "in love with — с предлогом with; fall in love with — влюбиться"
+              }
+            }
+          ]
+        },
+        {
+          "en": "And pay no worship to the garish sun.",
+          "ru": "И перестанет поклоняться кричащему солнцу.",
+          "phrases": [
+            {
+              "en": "the garish sun",
+              "ru": "слепящее, кричащее солнце",
+              "note": {
+                "ru": "garish — аляповато-яркий: garish colours"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

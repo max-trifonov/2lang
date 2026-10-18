@@ -1,0 +1,98 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "romeo-and-juliet-7-never-was-a-story",
+  "kind": "play",
+  "lang": "en",
+  "license": "public-domain",
+  "title": {
+    "en": "Romeo and Juliet · 7. A Story of More Woe",
+    "ru": "Ромео и Джульетта · 7. Нет повести печальнее"
+  },
+  "author": "William Shakespeare",
+  "year": 1597,
+  "level": "C1",
+  "tags": [
+    "love",
+    "classic",
+    "shakespeare",
+    "romeo-and-juliet"
+  ],
+  "links": [
+    {
+      "type": "source",
+      "url": "https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.5.3.html"
+    }
+  ],
+  "note": {
+    "ru": "Последние строки пьесы — их произносит князь Вероны над телами Ромео и Джульетты, когда враждующие семьи наконец мирятся. Шесть строк с рифмой; последние две стоит выучить наизусть. В русском их знают как «Нет повести печальнее на свете, чем повесть о Ромео и Джульетте». Ранний современный английский: thou / thee / thy / thine = you / you / your / your; art = are, wilt = will, dost / doth = do / does, hath = has, 'tis = it is, 'd = -ed (буква e не читается)."
+  },
+  "see": [
+    "en-grammar-27",
+    "en-grammar-35"
+  ],
+  "stanzas": [
+    {
+      "speaker": "Prince",
+      "lines": [
+        {
+          "en": "A glooming peace this morning with it brings;",
+          "ru": "Хмурый мир приносит с собою это утро;",
+          "note": {
+            "ru": "Обычный порядок: this morning brings with it a glooming peace. glooming = gloomy — «сумрачный»."
+          }
+        },
+        {
+          "en": "The sun, for sorrow, will not show his head:",
+          "ru": "Солнце от горя не покажет лица:",
+          "phrases": [
+            {
+              "en": "for sorrow",
+              "ru": "от горя",
+              "note": {
+                "ru": "for = «из-за, от» (причина); солнце в английской поэзии — he"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Go hence, to have more talk of these sad things;",
+          "ru": "Идёмте отсюда, чтобы ещё поговорить об этих печальных делах;"
+        },
+        {
+          "en": "Some shall be pardon'd, and some punished:",
+          "ru": "Кто-то будет прощён, а кто-то наказан:",
+          "note": {
+            "ru": "punished здесь читается в три слога (pu-nish-ed) ради рифмы с head."
+          },
+          "phrases": [
+            {
+              "en": "Some shall be pardon'd",
+              "ru": "одни будут прощены",
+              "note": {
+                "ru": "будущее в страдательном залоге: shall / will be + третья форма (EN-35)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "For never was a story of more woe",
+          "ru": "Ибо не было повести горестней",
+          "phrases": [
+            {
+              "en": "never was a story of more woe",
+              "ru": "не было истории печальнее",
+              "note": {
+                "ru": "инверсия после never: never was = there was never; of more woe — «горестнее» (EN-27)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Than this of Juliet and her Romeo.",
+          "ru": "Чем эта — о Джульетте и её Ромео."
+        }
+      ]
+    }
+  ]
+}

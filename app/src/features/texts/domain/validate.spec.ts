@@ -59,7 +59,9 @@ describe('validateText — корректный текст', () => {
           note: { ru: 'заметка' },
           ext: { anything: [1, { deep: true }] },
         })
+        d.kind = 'play'
         d.stanzas[0].type = 'chorus'
+        d.stanzas[0].speaker = 'Juliet'
         d.stanzas[0].ext = { x: 1 }
         const line = d.stanzas[0].lines[0]
         Object.assign(line, { lit: { ru: 'дословно' }, note: { ru: 'н' }, t: 1.5, ext: { y: 2 } })
@@ -92,6 +94,7 @@ describe('validateText — структура (правило 1)', () => {
     ['повтор тега', withEdit((d) => (d.tags = ['kids', 'kids'])), 'tags[1]', 'duplicate_tag'],
     ['see не массив', withEdit((d) => (d.see = 'es-grammar-01')), 'see', 'wrong_type'],
     ['пустая тема в see', withEdit((d) => (d.see = [''])), 'see[0]', 'empty'],
+    ['пустой speaker', withEdit((d) => (d.stanzas[0].speaker = '')), 'stanzas[0].speaker', 'empty'],
     [
       'плохая ссылка',
       withEdit((d) => (d.links = [{ type: 'youtube', url: 'не ссылка' }])),

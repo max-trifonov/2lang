@@ -1,0 +1,273 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "romeo-and-juliet-3-fortunes-fool",
+  "kind": "play",
+  "lang": "en",
+  "license": "public-domain",
+  "title": {
+    "en": "Romeo and Juliet · 3. Fortune's Fool",
+    "ru": "Ромео и Джульетта · 3. Игрушка судьбы"
+  },
+  "author": "William Shakespeare",
+  "year": 1597,
+  "level": "C1",
+  "tags": [
+    "love",
+    "classic",
+    "shakespeare",
+    "romeo-and-juliet"
+  ],
+  "links": [
+    {
+      "type": "source",
+      "url": "https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.3.1.html"
+    }
+  ],
+  "note": {
+    "ru": "Акт III, сцена 1 — поворот от комедии к трагедии. Тибальт вызывает Ромео на дуэль, Ромео отказывается: Тибальт теперь его родственник, о тайной свадьбе никто не знает. За Ромео вступается его друг Меркуцио — и гибнет. Ромео убивает Тибальта, и с этого момента всё идёт к катастрофе. Меркуцио говорит прозой, а не стихом — так у Шекспира звучит живая речь. Ранний современный английский: thou / thee / thy / thine = you / you / your / your; art = are, wilt = will, dost / doth = do / does, hath = has, 'tis = it is, 'd = -ed (буква e не читается)."
+  },
+  "see": [
+    "en-grammar-08",
+    "en-grammar-12",
+    "en-grammar-15",
+    "en-grammar-23",
+    "en-grammar-27",
+    "en-grammar-33",
+    "en-grammar-35"
+  ],
+  "stanzas": [
+    {
+      "speaker": "Mercutio",
+      "lines": [
+        {
+          "en": "I am hurt.",
+          "ru": "Я ранен."
+        },
+        {
+          "en": "A plague o' both your houses! I am sped.",
+          "ru": "Чума на оба ваших дома! Мне конец.",
+          "note": {
+            "ru": "Меркуцио проклинает и Монтекки, и Капулетти. sped — «конченый»: сегодня сказали бы I am done for."
+          },
+          "phrases": [
+            {
+              "en": "A plague o' both your houses!",
+              "ru": "чума на оба ваших дома!",
+              "note": {
+                "ru": "o' = on. Крылатое: так говорят о ссоре двух сторон, от которой страдает третий"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Romeo",
+      "lines": [
+        {
+          "en": "Courage, man; the hurt cannot be much.",
+          "ru": "Мужайся, друг; рана не может быть серьёзной.",
+          "phrases": [
+            {
+              "en": "cannot be much",
+              "ru": "не может быть сильной",
+              "note": {
+                "ru": "cannot be — «не может быть», уверенное предположение (EN-15)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Mercutio",
+      "lines": [
+        {
+          "en": "No, 'tis not so deep as a well, nor so wide as a church-door;",
+          "ru": "Да, она не так глубока, как колодец, и не так широка, как церковные ворота;",
+          "phrases": [
+            {
+              "en": "not so deep as a well",
+              "ru": "не так глубока, как колодец",
+              "note": {
+                "ru": "not so … as — «не такой …, как» (EN-27)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "but 'tis enough, 'twill serve:",
+          "ru": "но и этого хватит, сойдёт:",
+          "phrases": [
+            {
+              "en": "'twill serve",
+              "ru": "сойдёт, сгодится",
+              "note": {
+                "ru": "'twill = it will; serve — «сгодиться, подойти»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "ask for me to-morrow, and you shall find me a grave man.",
+          "ru": "Спросите обо мне завтра — и найдёте меня человеком серьёзным и в могиле.",
+          "lit": {
+            "ru": "Спросите меня завтра, и вы найдёте меня серьёзным (могильным) человеком"
+          },
+          "phrases": [
+            {
+              "en": "a grave man",
+              "ru": "серьёзный человек — и человек в могиле",
+              "note": {
+                "ru": "каламбур: grave — «серьёзный» и «могила». Меркуцио шутит до конца"
+              }
+            }
+          ]
+        },
+        {
+          "en": "I am peppered, I warrant, for this world.",
+          "ru": "Меня, ручаюсь, нашпиговали — на этом свете мне крышка.",
+          "note": {
+            "ru": "peppered — «наперчён»: изрешечён ударами."
+          },
+          "phrases": [
+            {
+              "en": "I warrant",
+              "ru": "ручаюсь",
+              "note": {
+                "ru": "warrant — ручаться, гарантировать; отсюда warranty — гарантия"
+              }
+            }
+          ]
+        },
+        {
+          "en": "A plague o' both your houses!",
+          "ru": "Чума на оба ваших дома!"
+        }
+      ]
+    },
+    {
+      "speaker": "Romeo",
+      "lines": [
+        {
+          "en": "This day's black fate on more days doth depend;",
+          "ru": "Чёрный рок этого дня нависнет и над другими днями;",
+          "note": {
+            "ru": "Обычный порядок: this day's black fate doth depend on more days. doth = does; depend здесь в старом значении «нависать» (лат. «свисать»)."
+          }
+        },
+        {
+          "en": "This but begins the woe, others must end.",
+          "ru": "Здесь горе лишь начинается — кончать его другим.",
+          "phrases": [
+            {
+              "en": "begins the woe",
+              "ru": "начинает горе",
+              "note": {
+                "ru": "woe — горе, беда (книжн.); but = only"
+              }
+            },
+            {
+              "en": "others must end",
+              "ru": "другие должны закончить",
+              "note": {
+                "ru": "must — «должен, обязан» (EN-23)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Benvolio",
+      "lines": [
+        {
+          "en": "Romeo, away, be gone!",
+          "ru": "Ромео, беги, уходи!",
+          "phrases": [
+            {
+              "en": "be gone",
+              "ru": "уходи, прочь",
+              "note": {
+                "ru": "сегодня в одно слово: Begone! — «прочь!»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "The citizens are up, and Tybalt slain.",
+          "ru": "Горожане поднялись, а Тибальт убит.",
+          "note": {
+            "ru": "Пропущено is: Tybalt (is) slain — страдательный залог (EN-35). slay — slew — slain: «убивать» (книжн.)."
+          }
+        },
+        {
+          "en": "Stand not amazed: the prince will doom thee death,",
+          "ru": "Не стой в оцепенении: князь приговорит тебя к смерти,",
+          "phrases": [
+            {
+              "en": "Stand not amazed",
+              "ru": "не стой как вкопанный",
+              "note": {
+                "ru": "stand not = don't stand — старое отрицание без do (EN-8); amazed здесь — «ошеломлённый»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "If thou art taken: hence, be gone, away!",
+          "ru": "Если тебя схватят. Прочь отсюда, уходи, беги!",
+          "note": {
+            "ru": "hence — «отсюда»."
+          },
+          "phrases": [
+            {
+              "en": "If thou art taken",
+              "ru": "если тебя схватят",
+              "note": {
+                "ru": "if + настоящее время о будущем (EN-33) и страдательный залог: be taken — «быть схваченным»"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Romeo",
+      "lines": [
+        {
+          "en": "O, I am fortune's fool!",
+          "ru": "О, я шут у судьбы!",
+          "phrases": [
+            {
+              "en": "fortune's fool",
+              "ru": "игрушка судьбы",
+              "note": {
+                "ru": "fool — шут: судьба играет мной. fortune's — притяжательный 's (EN-12)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Benvolio",
+      "lines": [
+        {
+          "en": "Why dost thou stay?",
+          "ru": "Что ж ты медлишь?",
+          "phrases": [
+            {
+              "en": "Why dost thou stay?",
+              "ru": "почему ты медлишь?",
+              "note": {
+                "ru": "dost = do для thou: Why do you stay?"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

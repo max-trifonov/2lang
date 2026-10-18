@@ -82,7 +82,8 @@
       "retry": "Retry",
       "kind": {
         "song": "Song",
-        "poem": "Poem"
+        "poem": "Poem",
+        "play": "Play"
       },
       "personal": "personal",
       "resultsTitle": "Upload results",
@@ -475,7 +476,7 @@
     "grammar": "Grammar",
     "grammarProgress": "Topics done: {done} of {total}",
     "rule": "Rule",
-    "songs": "Songs"
+    "songs": "Songs & poems"
   },
   "review": {
     "title": "Review",
@@ -568,21 +569,21 @@
     }
   },
   "songs": {
-    "title": "Song lesson",
-    "start": "Song lesson",
-    "overview": "About the song",
-    "rules": "Rules in the song",
+    "title": "Text lesson",
+    "start": "Text lesson",
+    "overview": "About the text",
+    "rules": "Rules in the text",
     "stanza": "Breakdown · {n} of {total}",
     "phrasesHint": "Phrases from this stanza come back in exercises and in review",
-    "summary": "Song done!",
+    "summary": "Text studied!",
     "toReview": "{n} phrase added to review | {n} phrases added to review",
     "toText": "Open the full text",
     "phrases": "{n} phrase | {n} phrases",
-    "empty": "No songs in this language yet",
-    "emptyHint": "Upload your song in the Texts tab — its lesson will appear here",
+    "empty": "No texts in this language yet",
+    "emptyHint": "Upload a song or poem in the Texts tab and its lesson will appear here",
     "library": "Text library",
-    "next": "Song to study",
+    "next": "Text to study",
     "fit": "Uses rules you know",
-    "progress": "Songs done: {done} of {total}"
+    "progress": "Texts studied: {done} of {total}"
   }
 }

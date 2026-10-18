@@ -108,10 +108,10 @@ export const songsForRule = (docs: readonly TextDoc[], ruleId: string): TextDoc[
 const LEVEL_ORDER = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']
 const levelRank = (d: TextDoc) => (d.level ? LEVEL_ORDER.indexOf(d.level) : LEVEL_ORDER.length)
 
-/** Песни языка по порядку разбора: проще — раньше, внутри уровня — по названию. */
+/** Тексты языка (песни, стихи, отрывки пьес) по порядку разбора: проще — раньше, внутри уровня — по названию. */
 export function songsOf(docs: readonly TextDoc[], lang: string): TextDoc[] {
   return docs
-    .filter((d) => d.lang === lang && d.kind === 'song')
+    .filter((d) => d.lang === lang)
     .sort(
       (a, b) =>
         levelRank(a) - levelRank(b) || (a.title[a.lang] ?? '').localeCompare(b.title[b.lang] ?? ''),

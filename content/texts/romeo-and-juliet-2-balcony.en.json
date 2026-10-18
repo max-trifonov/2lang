@@ -1,0 +1,431 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "romeo-and-juliet-2-balcony",
+  "kind": "play",
+  "lang": "en",
+  "license": "public-domain",
+  "title": {
+    "en": "Romeo and Juliet · 2. The Balcony",
+    "ru": "Ромео и Джульетта · 2. Сцена на балконе"
+  },
+  "author": "William Shakespeare",
+  "year": 1597,
+  "level": "C1",
+  "tags": [
+    "love",
+    "classic",
+    "shakespeare",
+    "romeo-and-juliet"
+  ],
+  "links": [
+    {
+      "type": "source",
+      "url": "https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.2.2.html"
+    }
+  ],
+  "note": {
+    "ru": "Акт II, сцена 2 — самая известная сцена пьесы. Ромео пробрался в сад Капулетти и видит Джульетту в окне; она не знает, что он слышит её. Здесь собраны ключевые реплики сцены, часть строк между ними пропущена. Следите за образами света: Джульетта — солнце, луна — её завистливая соперница. Ранний современный английский: thou / thee / thy / thine = you / you / your / your; art = are, wilt = will, dost / doth = do / does, hath = has, 'tis = it is, 'd = -ed (буква e не читается)."
+  },
+  "see": [
+    "en-grammar-10",
+    "en-grammar-21",
+    "en-grammar-26",
+    "en-grammar-27",
+    "en-grammar-35",
+    "en-grammar-37"
+  ],
+  "stanzas": [
+    {
+      "speaker": "Romeo",
+      "lines": [
+        {
+          "en": "But, soft! what light through yonder window breaks?",
+          "ru": "Но тише! Что за свет блеснул в том окне?",
+          "note": {
+            "ru": "Обычный порядок: What light breaks through yonder window? What light — подлежащее, поэтому вопрос без do (EN-10)."
+          },
+          "phrases": [
+            {
+              "en": "But, soft!",
+              "ru": "но тише! постой!",
+              "note": {
+                "ru": "soft! — восклицание «тише, погоди!»"
+              }
+            },
+            {
+              "en": "yonder window",
+              "ru": "вон то окно",
+              "note": {
+                "ru": "yonder — «вон тот, вдалеке»; yon — короткая форма"
+              }
+            }
+          ]
+        },
+        {
+          "en": "It is the east, and Juliet is the sun.",
+          "ru": "Там восток, и Джульетта — солнце.",
+          "note": {
+            "ru": "Метафора без «как»: Джульетта не похожа на солнце — она и есть солнце."
+          }
+        },
+        {
+          "en": "Arise, fair sun, and kill the envious moon,",
+          "ru": "Взойди, прекрасное солнце, и убей завистливую луну,",
+          "phrases": [
+            {
+              "en": "Arise, fair sun",
+              "ru": "взойди, прекрасное солнце",
+              "note": {
+                "ru": "повелительное наклонение (EN-26): глагол без подлежащего — arise, kill"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Who is already sick and pale with grief,",
+          "ru": "Которая уже больна и бледна от горя,",
+          "phrases": [
+            {
+              "en": "pale with grief",
+              "ru": "бледная от горя",
+              "note": {
+                "ru": "with = «от» (причина): pale with fear, shaking with cold"
+              }
+            }
+          ]
+        },
+        {
+          "en": "That thou her maid art far more fair than she:",
+          "ru": "Оттого что ты, её служанка, гораздо прекраснее её:",
+          "note": {
+            "ru": "thou … art = you … are. Луна — богиня Диана, покровительница девушек; «служанка луны» — незамужняя девушка."
+          },
+          "phrases": [
+            {
+              "en": "far more fair than she",
+              "ru": "гораздо прекраснее, чем она",
+              "note": {
+                "ru": "far more … than — «гораздо более … чем» (EN-27); сегодня сказали бы far fairer than her"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Romeo",
+      "lines": [
+        {
+          "en": "See, how she leans her cheek upon her hand!",
+          "ru": "Смотри, как она склонила щёку на руку!"
+        },
+        {
+          "en": "O, that I were a glove upon that hand,",
+          "ru": "О, если бы я был перчаткой на этой руке,",
+          "phrases": [
+            {
+              "en": "O, that I were",
+              "ru": "о, если бы я был",
+              "note": {
+                "ru": "were — для всех лиц в нереальном желании, как в I wish I were…, If I were you (EN-37)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "That I might touch that cheek!",
+          "ru": "Чтобы коснуться этой щеки!",
+          "phrases": [
+            {
+              "en": "That I might touch",
+              "ru": "чтобы я мог коснуться",
+              "note": {
+                "ru": "that … might — «чтобы» (цель); сегодня: so that I could touch"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Juliet",
+      "lines": [
+        {
+          "en": "Ay me!",
+          "ru": "Ах!",
+          "note": {
+            "ru": "Вздох: «увы мне»."
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Romeo",
+      "lines": [
+        {
+          "en": "She speaks: O, speak again, bright angel!",
+          "ru": "Она говорит! О, говори ещё, светлый ангел!",
+          "phrases": [
+            {
+              "en": "speak again",
+              "ru": "скажи ещё"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Juliet",
+      "lines": [
+        {
+          "en": "O Romeo, Romeo! wherefore art thou Romeo?",
+          "ru": "О Ромео, Ромео! Почему же ты Ромео?",
+          "note": {
+            "ru": "Джульетта не ищет Ромео: она спрашивает, почему он именно Ромео Монтекки — сын врага её семьи. art thou = are you."
+          },
+          "phrases": [
+            {
+              "en": "wherefore art thou",
+              "ru": "почему ты",
+              "note": {
+                "ru": "wherefore — не «где», а «почему, зачем» (where — где). Это самая частая ошибка в понимании строки"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Deny thy father and refuse thy name;",
+          "ru": "Отрекись от отца и откажись от своего имени;",
+          "phrases": [
+            {
+              "en": "refuse thy name",
+              "ru": "откажись от своего имени",
+              "note": {
+                "ru": "thy = your; deny, refuse — повелительное наклонение (EN-26)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Or, if thou wilt not, be but sworn my love,",
+          "ru": "А если не хочешь — только поклянись мне в любви,",
+          "note": {
+            "ru": "be but sworn — «только поклянись»: but = only."
+          },
+          "phrases": [
+            {
+              "en": "if thou wilt not",
+              "ru": "если ты не хочешь",
+              "note": {
+                "ru": "wilt = will для thou: if you will not — «если не хочешь»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "And I'll no longer be a Capulet.",
+          "ru": "И я больше не буду Капулетти.",
+          "phrases": [
+            {
+              "en": "no longer",
+              "ru": "больше не",
+              "note": {
+                "ru": "живое: I no longer work there — я там больше не работаю; I'll = I will (EN-21)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Romeo",
+      "lines": [
+        {
+          "en": "Shall I hear more, or shall I speak at this?",
+          "ru": "Слушать ли дальше или ответить на это?",
+          "note": {
+            "ru": "Ромео говорит в сторону — Джульетта его не слышит."
+          },
+          "phrases": [
+            {
+              "en": "Shall I",
+              "ru": "мне (сделать)…?",
+              "note": {
+                "ru": "Shall I…? — «мне…?», «может, мне…?»; живо и сегодня: Shall I open the window?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "Juliet",
+      "lines": [
+        {
+          "en": "'Tis but thy name that is my enemy;",
+          "ru": "Лишь твоё имя мне враг;",
+          "phrases": [
+            {
+              "en": "'Tis but",
+              "ru": "это всего лишь",
+              "note": {
+                "ru": "'tis = it is; but = only"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Thou art thyself, though not a Montague.",
+          "ru": "Ты — это ты, а вовсе не Монтекки.",
+          "lit": {
+            "ru": "Ты есть ты сам, хоть и не Монтекки"
+          },
+          "phrases": [
+            {
+              "en": "Thou art thyself",
+              "ru": "ты — это ты",
+              "note": {
+                "ru": "thyself = yourself"
+              }
+            }
+          ]
+        },
+        {
+          "en": "What's Montague? it is nor hand, nor foot,",
+          "ru": "Что такое Монтекки? Ведь это не рука и не нога,",
+          "note": {
+            "ru": "nor … nor = neither … nor — «ни … ни»."
+          }
+        },
+        {
+          "en": "Nor arm, nor face, nor any other part",
+          "ru": "Не плечо, не лицо и не другая часть тела,"
+        },
+        {
+          "en": "Belonging to a man. O, be some other name!",
+          "ru": "Принадлежащая человеку. О, зовись иначе!",
+          "lit": {
+            "ru": "О, будь каким-нибудь другим именем!"
+          },
+          "phrases": [
+            {
+              "en": "be some other name",
+              "ru": "будь другим именем"
+            }
+          ]
+        },
+        {
+          "en": "What's in a name? that which we call a rose",
+          "ru": "Что в имени? То, что мы зовём розой,",
+          "note": {
+            "ru": "that which = what — «то, что»."
+          },
+          "phrases": [
+            {
+              "en": "What's in a name?",
+              "ru": "что значит имя?",
+              "note": {
+                "ru": "крылатое выражение: название, ярлык ничего не меняет в сути"
+              }
+            }
+          ]
+        },
+        {
+          "en": "By any other word would smell as sweet;",
+          "ru": "Под любым другим словом пахло бы так же сладко;",
+          "phrases": [
+            {
+              "en": "would smell as sweet",
+              "ru": "пахло бы так же сладко",
+              "note": {
+                "ru": "would + глагол — «бы» (EN-37); as sweet — «так же сладко» (as … as, EN-27)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "So Romeo would, were he not Romeo call'd,",
+          "ru": "Так и Ромео, если б звался не Ромео,",
+          "note": {
+            "ru": "call'd = called — страдательный залог: be called — «называться» (EN-35)."
+          },
+          "phrases": [
+            {
+              "en": "were he not",
+              "ru": "если бы он не был",
+              "note": {
+                "ru": "инверсия вместо if: were he not = if he were not — условное 2 (EN-37)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Retain that dear perfection which he owes",
+          "ru": "Сохранил бы всё дорогое совершенство, которым обладает,",
+          "note": {
+            "ru": "owes здесь = owns — «владеет», а не «должен»."
+          }
+        },
+        {
+          "en": "Without that title. Romeo, doff thy name,",
+          "ru": "И без этого титула. Ромео, сбрось своё имя,",
+          "phrases": [
+            {
+              "en": "doff thy name",
+              "ru": "сбрось своё имя",
+              "note": {
+                "ru": "doff = do off — снять (шляпу, одежду); наоборот — don = do on"
+              }
+            }
+          ]
+        },
+        {
+          "en": "And for that name which is no part of thee",
+          "ru": "И взамен этого имени, которое не часть тебя,"
+        },
+        {
+          "en": "Take all myself.",
+          "ru": "Возьми меня всю."
+        }
+      ]
+    },
+    {
+      "speaker": "Juliet",
+      "lines": [
+        {
+          "en": "Good night, good night! parting is such sweet sorrow,",
+          "ru": "Спокойной ночи! Расставание — такая сладкая печаль,",
+          "note": {
+            "ru": "Это конец сцены: влюблённые уже договорились о свадьбе."
+          },
+          "phrases": [
+            {
+              "en": "parting is such sweet sorrow",
+              "ru": "расставание — такая сладкая печаль",
+              "note": {
+                "ru": "крылатая фраза; sweet sorrow — оксюморон, соединение противоположностей"
+              }
+            }
+          ]
+        },
+        {
+          "en": "That I shall say good night till it be morrow.",
+          "ru": "Что я до утра твердила бы «спокойной ночи».",
+          "lit": {
+            "ru": "Что я буду говорить «спокойной ночи», пока не станет утро"
+          },
+          "phrases": [
+            {
+              "en": "till it be morrow",
+              "ru": "пока не настанет утро",
+              "note": {
+                "ru": "morrow — утро, завтрашний день; tomorrow = to + morrow"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

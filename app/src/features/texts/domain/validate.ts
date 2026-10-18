@@ -43,7 +43,7 @@ const ROOT_KEYS = new Set([
   'see',
   'ext',
 ])
-const STANZA_KEYS = new Set(['id', 'type', 'lines', 'ref', 'ext'])
+const STANZA_KEYS = new Set(['id', 'type', 'speaker', 'lines', 'ref', 'ext'])
 const LINE_KEYS = new Set(['lit', 'phrases', 'words', 'note', 't', 'ext'])
 const PHRASE_KEYS = new Set(['note', 'ext'])
 const WORD_KEYS = new Set(['lemma', 'pos', 'ext'])
@@ -119,6 +119,7 @@ class Validator extends Checker {
       const s = stanza as Obj
       this.keys(s, path, STANZA_KEYS)
       if ('type' in s) this.oneOf(s.type, join(path, 'type'), STANZA_TYPES)
+      if ('speaker' in s) this.nonEmpty(s.speaker, join(path, 'speaker'))
       if ('ext' in s) this.type(s.ext, join(path, 'ext'), 'object')
       if ('id' in s && this.slug(s.id, join(path, 'id'))) {
         const id = s.id as string

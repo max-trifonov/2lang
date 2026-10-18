@@ -239,7 +239,10 @@ function close(): void {
           <template v-else-if="stanza">
             <p class="song__label">
               {{ t('songs.stanza', { n: step, total: stanzas.length }) }}
-              <span class="song__type">{{ t(`texts.ui.read.stanza.${stanza.type}`) }}</span>
+              <span v-if="stanza.speaker" class="song__type" :lang="lang">{{
+                stanza.speaker
+              }}</span>
+              <span v-else class="song__type">{{ t(`texts.ui.read.stanza.${stanza.type}`) }}</span>
             </p>
             <article v-for="(line, i) in stanza.lines" :key="i" class="song__line">
               <div class="song__row">
