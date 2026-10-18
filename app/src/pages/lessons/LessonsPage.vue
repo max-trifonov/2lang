@@ -1,6 +1,15 @@
 <script setup lang="ts">
 import { IonContent, IonHeader, IonIcon, IonPage, IonTitle, IonToolbar } from '@ionic/vue'
-import { bookOutline, checkmark, musicalNotes, play, school, sparkles } from 'ionicons/icons'
+import {
+  alertCircleOutline,
+  bookOutline,
+  checkmark,
+  musicalNotes,
+  musicalNotesOutline,
+  play,
+  school,
+  sparkles,
+} from 'ionicons/icons'
 import { computed, ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute, useRouter } from 'vue-router'
@@ -157,7 +166,7 @@ const score = (item: { lesson: { id: string } }) => {
       <UiEmptyState
         v-if="failed"
         variant="error"
-        icon="alert-circle-outline"
+        :icon="alertCircleOutline"
         :title="t('lessons.loadFailed')"
       >
         <template #action>
@@ -172,7 +181,7 @@ const score = (item: { lesson: { id: string } }) => {
       <UiEmptyState
         v-else-if="!path.items.length && !sounds.length && !grammar.length"
         variant="empty"
-        icon="book-outline"
+        :icon="bookOutline"
         :title="t('path.empty')"
         :description="t('path.emptyHint')"
       />
@@ -262,7 +271,7 @@ const score = (item: { lesson: { id: string } }) => {
           <UiEmptyState
             v-if="!songs.length"
             variant="empty"
-            icon="musical-notes-outline"
+            :icon="musicalNotesOutline"
             :title="t('songs.empty')"
             :description="t('songs.emptyHint')"
           />

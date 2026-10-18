@@ -10,7 +10,7 @@ import {
   IonTitle,
   IonToolbar,
 } from '@ionic/vue'
-import { closeOutline, school } from 'ionicons/icons'
+import { alertCircleOutline, checkmarkDoneOutline, closeOutline, school } from 'ionicons/icons'
 import { computed, ref, toRaw, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute, useRouter } from 'vue-router'
@@ -174,7 +174,7 @@ function close(): void {
       <UiEmptyState
         v-else-if="status === 'failed'"
         variant="error"
-        icon="alert-circle-outline"
+        :icon="alertCircleOutline"
         :title="t('review.loadFailed')"
       >
         <template #action>
@@ -185,7 +185,7 @@ function close(): void {
       <UiEmptyState
         v-else-if="!practice?.queue.length"
         variant="empty"
-        icon="checkmark-done-outline"
+        :icon="checkmarkDoneOutline"
         :title="t('review.empty')"
         :description="t('review.emptyHint')"
       >

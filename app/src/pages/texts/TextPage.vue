@@ -8,6 +8,7 @@ import {
   IonTitle,
   IonToolbar,
 } from '@ionic/vue'
+import { alertCircleOutline, searchOutline } from 'ionicons/icons'
 import { computed, onMounted, ref } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute, useRouter } from 'vue-router'
@@ -122,7 +123,7 @@ function openWord(e: CatalogEntry): void {
       <UiEmptyState
         v-if="failed"
         variant="error"
-        icon="alert-circle-outline"
+        :icon="alertCircleOutline"
         :title="t('texts.ui.loadFailed')"
       >
         <template #action>
@@ -137,7 +138,7 @@ function openWord(e: CatalogEntry): void {
       <UiEmptyState
         v-else-if="!doc"
         variant="empty"
-        icon="search-outline"
+        :icon="searchOutline"
         :title="t('texts.ui.read.notFound')"
         :description="t('texts.ui.read.notFoundHint')"
       />

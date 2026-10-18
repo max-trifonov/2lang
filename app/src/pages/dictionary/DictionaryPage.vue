@@ -1,6 +1,14 @@
 <script setup lang="ts">
 import { IonContent, IonHeader, IonIcon, IonPage, IonTitle, IonToolbar } from '@ionic/vue'
-import { checkmarkCircle, chevronForward, flash, star, starOutline } from 'ionicons/icons'
+import {
+  alertCircleOutline,
+  checkmarkCircle,
+  chevronForward,
+  flash,
+  searchOutline,
+  star,
+  starOutline,
+} from 'ionicons/icons'
 import { computed, ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute, useRouter } from 'vue-router'
@@ -153,7 +161,7 @@ const translation = (e: CatalogEntry) =>
       <UiEmptyState
         v-if="failed"
         variant="error"
-        icon="alert-circle-outline"
+        :icon="alertCircleOutline"
         :title="t('dictionary.loadFailed')"
       >
         <template #action>
@@ -168,7 +176,7 @@ const translation = (e: CatalogEntry) =>
       <UiEmptyState
         v-else-if="shown.length === 0 && view === 'saved' && !query.trim()"
         variant="empty"
-        icon="star-outline"
+        :icon="starOutline"
         :title="t('dictionary.savedEmpty')"
         :description="t('dictionary.savedHint')"
       />
@@ -176,7 +184,7 @@ const translation = (e: CatalogEntry) =>
       <UiEmptyState
         v-else-if="shown.length === 0"
         variant="empty"
-        icon="search-outline"
+        :icon="searchOutline"
         :title="t('dictionary.notFound')"
       />
 

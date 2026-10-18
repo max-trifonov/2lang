@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, alertController } from '@ionic/vue'
+import { alertCircleOutline, musicalNotesOutline, searchOutline } from 'ionicons/icons'
 import { computed, onMounted, ref } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute, useRouter } from 'vue-router'
@@ -131,7 +132,7 @@ const translatedTitle = (title: Record<string, string>, lang: string) =>
       <UiEmptyState
         v-if="failed"
         variant="error"
-        icon="alert-circle-outline"
+        :icon="alertCircleOutline"
         :title="t('texts.ui.loadFailed')"
       >
         <template #action>
@@ -146,7 +147,7 @@ const translatedTitle = (title: Record<string, string>, lang: string) =>
       <UiEmptyState
         v-else-if="library.length === 0"
         variant="empty"
-        icon="musical-notes-outline"
+        :icon="musicalNotesOutline"
         :title="t('texts.ui.emptyTitle')"
         :description="t('texts.ui.emptyText')"
       >
@@ -189,7 +190,7 @@ const translatedTitle = (title: Record<string, string>, lang: string) =>
         <UiEmptyState
           v-if="shown.length === 0"
           variant="empty"
-          icon="search-outline"
+          :icon="searchOutline"
           :title="t('texts.ui.filteredEmpty')"
         />
         <UiList>

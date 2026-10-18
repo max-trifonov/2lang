@@ -1,11 +1,11 @@
 <script setup lang="ts">
 import { IonIcon } from '@ionic/vue'
-import * as ionicons from 'ionicons/icons'
 import { computed, useSlots } from 'vue'
 
-const props = withDefaults(
+withDefaults(
   defineProps<{
     variant: 'empty' | 'error' | 'no-access'
+    /** Иконка из `ionicons/icons` (именованный импорт), не имя: поиск по имени тянет в бандл весь набор. */
     icon: string
     title: string
     description?: string | undefined
@@ -15,18 +15,11 @@ const props = withDefaults(
 
 const slots = useSlots()
 const hasAction = computed(() => Boolean(slots.action))
-
-function resolveIcon(name: string): string | undefined {
-  const key = name.replace(/-([a-z])/g, (_: string, letter: string) => letter.toUpperCase())
-  return (ionicons as Record<string, string>)[key] ?? (ionicons as Record<string, string>)[name]
-}
-
-const iconData = computed(() => resolveIcon(props.icon))
 </script>
 
 <template>
   <div class="ui-empty" :data-variant="variant" role="status">
-    <IonIcon v-if="iconData" class="ui-empty__icon" :icon="iconData" aria-hidden="true" />
+    <IonIcon class="ui-empty__icon" :icon="icon" aria-hidden="true" />
     <h3 class="ui-empty__title">{{ title }}</h3>
     <p v-if="description" class="ui-empty__description">{{ description }}</p>
     <div v-if="hasAction" class="ui-empty__action">

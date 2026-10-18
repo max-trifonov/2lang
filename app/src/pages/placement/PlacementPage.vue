@@ -10,7 +10,7 @@ import {
   IonTitle,
   IonToolbar,
 } from '@ionic/vue'
-import { closeOutline } from 'ionicons/icons'
+import { alertCircleOutline, closeOutline } from 'ionicons/icons'
 import { computed, ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute, useRouter } from 'vue-router'
@@ -130,7 +130,7 @@ const label = (e: CatalogEntry) => [article(e), e.lemma].filter(Boolean).join(' 
       <UiEmptyState
         v-else-if="status === 'failed'"
         variant="error"
-        icon="alert-circle-outline"
+        :icon="alertCircleOutline"
         :title="t('placement.loadFailed')"
       >
         <template #action>

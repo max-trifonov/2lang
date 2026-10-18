@@ -9,7 +9,7 @@ import {
   IonTitle,
   IonToolbar,
 } from '@ionic/vue'
-import { bookOutline, checkmark, play } from 'ionicons/icons'
+import { alertCircleOutline, bookOutline, checkmark, play, searchOutline } from 'ionicons/icons'
 import { computed, ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute, useRouter } from 'vue-router'
@@ -112,7 +112,7 @@ const usedIn = computed(() =>
       <UiEmptyState
         v-else-if="status === 'missing'"
         variant="empty"
-        icon="search-outline"
+        :icon="searchOutline"
         :title="t('rules.notFound')"
       >
         <template #action>
@@ -123,7 +123,7 @@ const usedIn = computed(() =>
       <UiEmptyState
         v-else-if="status === 'failed'"
         variant="error"
-        icon="alert-circle-outline"
+        :icon="alertCircleOutline"
         :title="t('lessons.loadFailed')"
       >
         <template #action>

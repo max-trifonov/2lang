@@ -80,6 +80,14 @@ export default tseslint.config(
           ],
         },
       ],
+      // Весь набор ionicons — ~2 МБ в бандле; иконки — только именованным импортом.
+      'no-restricted-syntax': [
+        'error',
+        {
+          selector: "ImportDeclaration[source.value='ionicons/icons'] > ImportNamespaceSpecifier",
+          message: "Иконки — именованным импортом из 'ionicons/icons', не import * as.",
+        },
+      ],
       'no-restricted-globals': [
         'error',
         {

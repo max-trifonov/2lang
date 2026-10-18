@@ -10,7 +10,12 @@ import {
   IonTitle,
   IonToolbar,
 } from '@ionic/vue'
-import { closeOutline, documentTextOutline } from 'ionicons/icons'
+import {
+  alertCircleOutline,
+  closeOutline,
+  documentTextOutline,
+  searchOutline,
+} from 'ionicons/icons'
 import { computed, ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute, useRouter } from 'vue-router'
@@ -199,7 +204,7 @@ function close(): void {
       <UiEmptyState
         v-else-if="status === 'missing'"
         variant="empty"
-        icon="search-outline"
+        :icon="searchOutline"
         :title="t('texts.ui.read.notFound')"
         :description="t('texts.ui.read.notFoundHint')"
       >
@@ -211,7 +216,7 @@ function close(): void {
       <UiEmptyState
         v-else-if="status === 'failed'"
         variant="error"
-        icon="alert-circle-outline"
+        :icon="alertCircleOutline"
         :title="t('lessons.loadFailed')"
       >
         <template #action>

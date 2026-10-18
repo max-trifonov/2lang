@@ -8,7 +8,6 @@ import {
   IonTabButton,
   IonTabs,
 } from '@ionic/vue'
-import * as ionicons from 'ionicons/icons'
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 
@@ -19,11 +18,6 @@ const { t } = useI18n()
 
 const props = defineProps<{ tabs?: readonly TabDescriptor[] }>()
 const tabs = computed(() => props.tabs ?? appTabs)
-
-function iconFor(name: string): string | undefined {
-  const key = name.replace(/-([a-z])/g, (_: string, letter: string) => letter.toUpperCase())
-  return (ionicons as Record<string, string>)[key]
-}
 </script>
 
 <template>
@@ -32,7 +26,7 @@ function iconFor(name: string): string | undefined {
       <IonRouterOutlet />
       <IonTabBar slot="bottom">
         <IonTabButton v-for="tab in tabs" :key="tab.id" :tab="tab.id" :href="`/${tab.path}`">
-          <IonIcon :icon="iconFor(tab.icon)" aria-hidden="true" />
+          <IonIcon :icon="tab.icon" aria-hidden="true" />
           <IonLabel>{{ t(tab.labelKey) }}</IonLabel>
         </IonTabButton>
       </IonTabBar>

@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/vue'
+import { fileTrayOutline } from 'ionicons/icons'
 import { ref } from 'vue'
 import { useI18n } from 'vue-i18n'
 
@@ -23,7 +24,7 @@ const field = ref('')
       <UiField v-model="field" :label="t('profile.title')" />
       <UiCard>Card</UiCard>
       <UiSkeleton />
-      <UiEmptyState variant="empty" icon="file-tray-outline" :title="t('home.hello')" />
+      <UiEmptyState variant="empty" :icon="fileTrayOutline" :title="t('home.hello')" />
     </IonContent>
   </IonPage>
 </template>

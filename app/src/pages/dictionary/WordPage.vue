@@ -9,7 +9,7 @@ import {
   IonTitle,
   IonToolbar,
 } from '@ionic/vue'
-import { chevronForward, star, starOutline } from 'ionicons/icons'
+import { chevronForward, searchOutline, star, starOutline } from 'ionicons/icons'
 import { computed, ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute } from 'vue-router'
@@ -109,7 +109,7 @@ const listName = computed(() => (entry.value ? t(`dictionary.lists.${entry.value
       <UiEmptyState
         v-else-if="!entry"
         variant="empty"
-        icon="search-outline"
+        :icon="searchOutline"
         :title="t('dictionary.card.notFound')"
         :description="t('dictionary.card.notFoundHint')"
       />

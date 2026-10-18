@@ -9,7 +9,7 @@ import {
   IonTitle,
   IonToolbar,
 } from '@ionic/vue'
-import { checkmark } from 'ionicons/icons'
+import { alertCircleOutline, bookOutline, checkmark } from 'ionicons/icons'
 import { computed, ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute, useRouter } from 'vue-router'
@@ -113,7 +113,7 @@ function setLang(l: string): void {
       <UiEmptyState
         v-if="failed"
         variant="error"
-        icon="alert-circle-outline"
+        :icon="alertCircleOutline"
         :title="t('lessons.loadFailed')"
       >
         <template #action>
@@ -128,7 +128,7 @@ function setLang(l: string): void {
       <UiEmptyState
         v-else-if="!total.length"
         variant="empty"
-        icon="book-outline"
+        :icon="bookOutline"
         :title="t('rules.empty')"
       />
 
