@@ -18,7 +18,7 @@
 | Code map | `.flow/code-map.md` |
 | Техдолг | `.flow/tech-debt.md` |
 | Баги (открытые / пофикшенные) | `.flow/bugs.md` / `.flow/bugfix.md` |
-| Runbook (прод, деплой, откат) | [`.flow/runbook.md`](.flow/runbook.md), скрипт `deploy/deploy.sh`, nginx `deploy/nginx/` (D-39) |
+| Runbook (прод, деплой, откат) | [`.flow/runbook.md`](.flow/runbook.md): `make deploy-prod` / `rollback-prod` / `status-prod` (`deploy/prod.sh` → `deploy/deploy.sh` на сервере), nginx `deploy/nginx/` (D-39) |
 | Программа курса EN/ES (звучание, грамматика) | [`.flow/curriculum.md`](.flow/curriculum.md) |
 | Формат текстов (песни и стихи) v1 | [`.flow/content-format.md`](.flow/content-format.md), схема `content/schema/text.schema.json` |
 | Формат словаря v1 | [`.flow/dictionary-format.md`](.flow/dictionary-format.md), схема `content/schema/dictionary.schema.json`, словари `content/dictionary/` (черновики ИИ — `ext.draft`; сборка из `content/drafts/` — `python3 content/drafts/build.py`, слияние, D-28), каркас `content/frequency/` |
@@ -29,6 +29,15 @@
 | Личные тексты (`license: personal`) | `content/private/` — в git (D-41) и в поставке PWA (D-43) |
 
 **Префикс задач:** `LNG`. Режим тестов: фронт лёгкий (К2 — unit на чистые функции: валидатор контента, FSRS, подбор урока; К3 — без тестов).
+
+## Команды — `Makefile` (корень)
+
+```bash
+make help            # все цели
+make check           # typecheck + lint + test (Node из app/.nvmrc)
+make deploy-prod     # прод: гейты → проверки → выкладка HEAD → смоук (runbook)
+make rollback-prod   # прод: предыдущий релиз
+```
 
 ## Приложение — `app/`
 

@@ -14,43 +14,44 @@
 
 ## Деплой
 
-Код берётся только из GitHub — сначала `git push`, потом:
+С рабочей машины, из корня репозитория:
 
 ```bash
-ssh hawk@bots.nidavellir.ru /home/hawk/2lang/deploy/deploy.sh             # origin/main
-ssh hawk@bots.nidavellir.ru /home/hawk/2lang/deploy/deploy.sh <ref>       # тег / коммит
+make deploy-prod                      # HEAD (должен быть запушен), с проверками
+make deploy-prod REF=<sha|тег> SKIP_CHECKS=1   # другой коммит без проверок (например, откат на старый)
+make status-prod                      # живой релиз, список релизов, version.txt
+make smoke-prod                       # HTTP-смоук; EXPECT_SHA=<полный sha> — сверить версию
 ```
 
-Скрипт: `git fetch` → `checkout --detach <ref>` → `npm ci && npm run build` в контейнере → копия `app/dist` в новый релиз → атомарная подмена `current`. Упавшая сборка живой сайт не трогает. Перезагружать nginx не нужно.
+`make deploy-prod` (`deploy/prod.sh`):
 
-Проверка после деплоя:
+1. **Гейты:** коммит есть в `origin` (сервер собирает из GitHub — сначала `git push`); нет незакоммиченных правок; `REF` = `HEAD` (проверки идут по рабочему дереву). Если выкатывается не `origin/main` — предупреждение.
+2. **Проверки:** `typecheck` → `lint` → `test` на Node из `app/.nvmrc`. `SKIP_CHECKS=1` — пропустить.
+3. **Выкладка:** на сервере чекаут переключается на точный sha, затем `deploy/deploy.sh <sha>` уже этого коммита: `npm ci && npm run build` в контейнере → копия `app/dist` + `version.txt` (полный sha) в новый релиз → атомарная подмена `current`. Упавшая сборка живой сайт не трогает, nginx перезагружать не нужно. Параллельный деплой отсекается `flock` (`.releases/.deploy.lock`).
+4. **Смоук:** `/`, `/rules` (SPA-маршрут), `/manifest.webmanifest` → 200; `/sw.js` с `Cache-Control: no-cache`; `/version.txt` = выкатываемый sha. Красный смоук — `make rollback-prod`.
 
-```bash
-curl -sI https://2lang.nidavellir.ru/ | head -1                  # 200
-curl -s https://2lang.nidavellir.ru/sw.js | head -c 200          # service worker отдаётся
-curl -sI https://2lang.nidavellir.ru/rules | head -1             # 200 (SPA-маршрут → index.html)
-```
+Хост, каталог и URL переопределяются: `PROD_HOST`, `PROD_DIR`, `PROD_URL`.
+
+Без make (на сервере): `/home/hawk/2lang/deploy/deploy.sh [<ref>|--rollback]`.
 
 Установленное PWA подхватывает релиз при следующем заходе: `index.html`, `sw.js`, `manifest.webmanifest` отдаются с `no-cache`, `assets/` — `immutable` (имена с хэшем).
 
 ## Откат
 
 ```bash
-ssh hawk@bots.nidavellir.ru /home/hawk/2lang/deploy/deploy.sh --rollback   # current → предыдущий релиз
+make rollback-prod                         # current → предыдущий релиз + смоук
+make deploy-prod REF=<sha> SKIP_CHECKS=1   # конкретный коммит (пересборка)
 ```
-
-Или конкретный коммит: `deploy.sh <sha>`.
 
 ## Изменение конфига nginx
 
+Сначала выкатить коммит с новым `deploy/nginx/…conf` (`make deploy-prod`), затем:
+
 ```bash
-cd /home/hawk/2lang && deploy/deploy.sh   # подтянуть репо с новым конфигом
-sudo cp /etc/nginx/sites-available/2lang.nidavellir.ru.conf{,.bak-$(date +%F)}
-sudo cp deploy/nginx/2lang.nidavellir.ru.conf /etc/nginx/sites-available/
-sudo nginx -t && sudo systemctl reload nginx
+make nginx-prod     # diff → копия .bak-<дата> → cp → nginx -t → reload; при ошибке nginx -t копия возвращается без reload
 ```
 
-`nginx -t` упал — вернуть `.bak` и не перезагружать: nginx общий, падение задевает все сайты сервера.
+Нужен `sudo` на сервере (`ssh -t`, спросит пароль). nginx общий: падение задевает все сайты сервера, поэтому reload только после зелёного `nginx -t`.
 
 ## Первичная установка (сделано 2026-10-14)
 
@@ -66,5 +67,7 @@ sudo nginx -t && sudo systemctl reload nginx
 ## Типовые сбои
 
 - **`deploy.sh`: «В чекауте есть правки»** — кто-то правил файлы на сервере. `git -C /home/hawk/2lang diff` → перенести правку в репозиторий, на сервере `git checkout -- .`.
-- **404 на всё / 403** — `current` указывает в никуда: `ls -l /home/hawk/2lang/.releases/` → `deploy.sh --rollback` или новый деплой.
+- **404 на всё / 403** — `current` указывает в никуда: `make status-prod` → `make rollback-prod` или новый деплой.
+- **«Уже идёт другой деплой»** — дождаться; если процесса нет (`pgrep -af deploy.sh` на сервере), блокировка снимается сама — `flock` держится только пока жив процесс.
+- **Смоук: `version.txt = —`** — у релиза нет `version.txt` (собран до 2026-10-18) или `current` не переключился: `make status-prod`.
 - **После деплоя у пользователей старая версия** — проверить `curl -sI .../sw.js` на `Cache-Control: no-cache`; PWA обновляется на следующем открытии, не мгновенно.

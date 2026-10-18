@@ -8,6 +8,7 @@
 #
 # nginx отдаёт $RELEASES/current; сборка идёт в отдельный каталог, поэтому
 # упавшая сборка не трогает живой сайт, а переключение атомарно (mv -T).
+# С рабочей машины вызывается через make deploy-prod (deploy/prod.sh).
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
@@ -27,7 +28,14 @@ switch_to() {
   log "current → $(basename "$1")"
 }
 
+# Тело — в функции: bash разбирает её целиком до запуска, поэтому git checkout
+# новой версии этого же файла посреди выкладки не ломает выполнение.
+main() {
 mkdir -p "$RELEASES"
+
+# Два деплоя разом перетёрли бы друг другу чекаут и app/dist.
+exec 9>"$RELEASES/.deploy.lock"
+flock -n 9 || { echo "Уже идёт другой деплой ($RELEASES/.deploy.lock)" >&2; exit 1; }
 
 if [[ "${1:-}" == "--rollback" ]]; then
   current="$(readlink -f "$RELEASES/current" 2>/dev/null || true)"
@@ -48,7 +56,8 @@ fi
 log "git fetch, checkout $ref"
 git fetch --prune --tags origin
 git checkout --quiet --detach "$ref"
-sha="$(git rev-parse --short=12 HEAD)"
+full_sha="$(git rev-parse HEAD)"
+sha="${full_sha:0:12}"
 log "Коммит $sha: $(git log -1 --format=%s)"
 
 # Контейнер от имени владельца чекаута: node_modules и dist не уйдут в root.
@@ -62,6 +71,8 @@ docker run --rm \
 
 target="$RELEASES/$(date +%Y%m%d-%H%M%S)-$sha"
 cp -a "$ROOT/app/dist" "$target"
+# По нему make deploy-prod сверяет, что сайт отдаёт именно этот коммит.
+printf '%s\n' "$full_sha" >"$target/version.txt"
 switch_to "$target"
 
 # Старые релизы: оставляем $KEEP последних, текущий не трогаем никогда.
@@ -69,3 +80,6 @@ current="$(readlink -f "$RELEASES/current")"
 releases | grep -vxF "$current" | tail -n +"$KEEP" | xargs -r rm -rf
 
 log "Готово: $sha"
+}
+
+main "$@"
