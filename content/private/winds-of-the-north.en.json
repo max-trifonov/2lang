@@ -1,0 +1,542 @@
+{
+  "format": "2lang/text",
+  "version": 1,
+  "id": "winds-of-the-north",
+  "kind": "song",
+  "lang": "en",
+  "license": "personal",
+  "title": {
+    "en": "Winds of the North",
+    "ru": "Ветры Севера"
+  },
+  "performer": "True Viking, Fjorddd & Moonlighttt",
+  "level": "B1",
+  "tags": [
+    "vikings",
+    "love"
+  ],
+  "note": {
+    "ru": "Песня о двух воинах, которые идут в бой как равные: «я смотрю на тебя и вижу себя». Распевы (na-na-la-le, oh-oh) и выкрики в скобках опущены — оставлены только строки со словами. Образы скандинавских мифов: вороны Одина, древо Иггдрасиль, Вальгалла. Перевод строк — черновик, его нужно выверить."
+  },
+  "see": [
+    "en-grammar-04",
+    "en-grammar-07",
+    "en-grammar-14",
+    "en-grammar-17",
+    "en-grammar-21",
+    "en-grammar-27",
+    "en-grammar-33",
+    "en-grammar-35"
+  ],
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "The mist clings heavy to the fjord tonight",
+          "ru": "Туман тяжело льнёт к фьорду этой ночью",
+          "phrases": [
+            {
+              "en": "clings heavy to",
+              "ru": "тяжело льнёт к",
+              "note": {
+                "ru": "cling to — цепляться, льнуть; heavy вместо heavily — в песнях так часто"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Two shadows moving in the pale moonlight",
+          "ru": "Две тени движутся в бледном лунном свете",
+          "note": {
+            "ru": "Пропущено are: two shadows (are) moving — Present Continuous, «прямо сейчас» (EN-17)."
+          }
+        },
+        {
+          "en": "I check my axe, you sharpen your blade",
+          "ru": "Я проверяю топор, ты точишь клинок",
+          "note": {
+            "ru": "Present Simple (EN-7): привычные действия перед боем."
+          },
+          "phrases": [
+            {
+              "en": "sharpen your blade",
+              "ru": "точишь клинок",
+              "note": {
+                "ru": "sharpen — точить (sharp — острый + -en «делать»)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Side by side, we are never afraid",
+          "ru": "Плечом к плечу — мы никогда не боимся",
+          "phrases": [
+            {
+              "en": "Side by side",
+              "ru": "бок о бок, плечом к плечу"
+            },
+            {
+              "en": "we are never afraid",
+              "ru": "мы никогда не боимся",
+              "note": {
+                "ru": "be afraid — «бояться»: be + прилагательное (EN-2); never стоит после are (EN-16)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "You want a ghost following in my wake",
+          "ru": "Ты не тень, что тянется за мной следом",
+          "lit": {
+            "ru": "Ты хочешь призрака, идущего за мной следом"
+          },
+          "note": {
+            "ru": "Так записано в тексте, но по смыслу поётся скорее You ain't a ghost… — «ты не тень за моей спиной»: дальше в песне — равенство, «ни шага позади»."
+          },
+          "phrases": [
+            {
+              "en": "in my wake",
+              "ru": "за мной следом",
+              "note": {
+                "ru": "wake — след за кораблём: in someone's wake — следом за кем-то"
+              }
+            }
+          ]
+        },
+        {
+          "en": "You're the shield that holds when the mountains quake",
+          "ru": "Ты — щит, что выстоит, когда дрожат горы",
+          "phrases": [
+            {
+              "en": "the shield that holds",
+              "ru": "щит, который держит удар",
+              "note": {
+                "ru": "that — «который»; hold здесь — «выдержать, устоять»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "A queen of the forest, a wolf in the fray",
+          "ru": "Королева леса, волчица в схватке",
+          "phrases": [
+            {
+              "en": "in the fray",
+              "ru": "в гуще боя",
+              "note": {
+                "ru": "fray — драка, схватка (книжн.)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "We march to the rhythm of the iron grey",
+          "ru": "Мы шагаем в ритме серого железа",
+          "phrases": [
+            {
+              "en": "march to the rhythm of",
+              "ru": "шагать в ритме"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "Equality carved in the runes we bear",
+          "ru": "Равенство, высеченное в рунах, что мы носим",
+          "note": {
+            "ru": "the runes we bear — «руны, которые мы носим»: которые (that) в английском можно опустить."
+          },
+          "phrases": [
+            {
+              "en": "carved in the runes",
+              "ru": "высеченное в рунах",
+              "note": {
+                "ru": "carved — третья форма: (which is) carved — «высеченный» (EN-35)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "The weight of the world is a weight we share",
+          "ru": "Тяжесть мира — ноша, которую мы делим",
+          "phrases": [
+            {
+              "en": "a weight we share",
+              "ru": "ноша, которую мы делим"
+            }
+          ]
+        },
+        {
+          "en": "The ravens are watching from the ancient tree",
+          "ru": "Вороны смотрят с древнего дерева",
+          "note": {
+            "ru": "Вороны Одина — Хугин и Мунин, древнее дерево — ясень мира Иггдрасиль. are watching — Present Continuous (EN-17)."
+          }
+        },
+        {
+          "en": "I look at you and I see me",
+          "ru": "Смотрю на тебя — и вижу себя",
+          "note": {
+            "ru": "see me — разговорно вместо see myself."
+          },
+          "phrases": [
+            {
+              "en": "look at you",
+              "ru": "смотреть на тебя",
+              "note": {
+                "ru": "look at — смотреть на; see — видеть (без усилия)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "No step behind, no sword to lead",
+          "ru": "Никто не позади на шаг, никто не ведёт мечом",
+          "lit": {
+            "ru": "Ни шага позади, ни меча, чтобы вести"
+          }
+        },
+        {
+          "en": "Together we plant the warrior seed",
+          "ru": "Вместе мы сеем семя воина",
+          "phrases": [
+            {
+              "en": "plant the warrior seed",
+              "ru": "сеем семя воина",
+              "note": {
+                "ru": "plant a seed — посеять семя; переносно — заложить начало чего-то"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "type": "chorus",
+      "lines": [
+        {
+          "en": "Gold in the fire, silver in the soul",
+          "ru": "Золото в огне, серебро в душе"
+        },
+        {
+          "en": "Two halves of a heart making the circle whole",
+          "ru": "Две половинки сердца замыкают круг",
+          "phrases": [
+            {
+              "en": "Two halves of a heart",
+              "ru": "две половинки сердца",
+              "note": {
+                "ru": "half — halves: f → v во множественном числе (EN-4), как wolf — wolves"
+              }
+            },
+            {
+              "en": "making the circle whole",
+              "ru": "делая круг целым",
+              "note": {
+                "ru": "make + что + прилагательное: make it whole — «сделать целым»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "When the shields clash loud and the arrows fly",
+          "ru": "Когда с грохотом сшибаются щиты и летят стрелы",
+          "note": {
+            "ru": "when + Present Simple: «когда (бы ни)» (EN-32)."
+          }
+        },
+        {
+          "en": "I've got your back beneath the northern sky",
+          "ru": "Я прикрою тебя под северным небом",
+          "phrases": [
+            {
+              "en": "I've got your back",
+              "ru": "я тебя прикрою, я за тебя",
+              "note": {
+                "ru": "живая идиома: «прикрываю тебе спину». have got = have (EN-14)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Through the thunder and the rain, through the mud and the strife",
+          "ru": "Сквозь гром и дождь, сквозь грязь и битвы",
+          "phrases": [
+            {
+              "en": "Through the thunder and the rain",
+              "ru": "сквозь гром и дождь",
+              "note": {
+                "ru": "through — «сквозь, через»; strife — раздор, борьба"
+              }
+            }
+          ]
+        },
+        {
+          "en": "You are my shield, may the breath of my life",
+          "ru": "Ты мой щит, дыхание моей жизни",
+          "note": {
+            "ru": "may здесь, скорее всего, ослышка вместо my: …my shield, my breath of my life. May в начале фразы — пожелание: May the gods be with you."
+          },
+          "phrases": [
+            {
+              "en": "the breath of my life",
+              "ru": "дыхание моей жизни"
+            }
+          ]
+        },
+        {
+          "en": "And if we fall where the cold winds blow",
+          "ru": "И если мы падём там, где дуют холодные ветра",
+          "phrases": [
+            {
+              "en": "if we fall",
+              "ru": "если мы падём",
+              "note": {
+                "ru": "if + Present, а в главной части will: if we fall … we will go (EN-33)"
+              }
+            },
+            {
+              "en": "the cold winds blow",
+              "ru": "дуют холодные ветра"
+            }
+          ]
+        },
+        {
+          "en": "Together to Valhalla we will go",
+          "ru": "Вместе в Вальгаллу мы уйдём",
+          "note": {
+            "ru": "Порядок слов ради рифмы: we will go to Valhalla together. Вальгалла — чертог Одина, куда попадают павшие в бою."
+          },
+          "phrases": [
+            {
+              "en": "we will go",
+              "ru": "мы уйдём",
+              "note": {
+                "ru": "will — будущее, решение и обещание (EN-21)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        {
+          "en": "They talk of the berserkers, the rage in the heat",
+          "ru": "Говорят о берсерках, о ярости в пылу боя",
+          "phrases": [
+            {
+              "en": "talk of",
+              "ru": "говорить о"
+            },
+            {
+              "en": "in the heat",
+              "ru": "в пылу",
+              "note": {
+                "ru": "in the heat of battle — в пылу битвы"
+              }
+            }
+          ]
+        },
+        {
+          "en": "But a man is a fool if his heart's incomplete",
+          "ru": "Но глупец тот, у кого сердце неполное",
+          "note": {
+            "ru": "heart's = heart is; incomplete — in- + complete, «неполный»."
+          },
+          "phrases": [
+            {
+              "en": "a man is a fool",
+              "ru": "мужчина — глупец"
+            }
+          ]
+        },
+        {
+          "en": "I honour your strength, I honour your name",
+          "ru": "Я чту твою силу, я чту твоё имя",
+          "phrases": [
+            {
+              "en": "I honour your strength",
+              "ru": "я чту твою силу",
+              "note": {
+                "ru": "honour — британское написание, в США honor"
+              }
+            }
+          ]
+        },
+        {
+          "en": "In the halls of our home we are one and the same",
+          "ru": "В чертогах нашего дома мы одно целое",
+          "phrases": [
+            {
+              "en": "one and the same",
+              "ru": "одно и то же, одно целое"
+            }
+          ]
+        },
+        {
+          "en": "When the line breaks thin and the danger is near",
+          "ru": "Когда строй редеет и опасность близка",
+          "note": {
+            "ru": "line — здесь «строй, линия щитов»."
+          },
+          "phrases": [
+            {
+              "en": "the danger is near",
+              "ru": "опасность близка"
+            }
+          ]
+        },
+        {
+          "en": "You're the silence of steel, the end of my fear",
+          "ru": "Ты — тишина стали, конец моему страху",
+          "phrases": [
+            {
+              "en": "the end of my fear",
+              "ru": "конец моему страху"
+            }
+          ]
+        },
+        {
+          "en": "A bond forged in iron, a love beyond breath",
+          "ru": "Узы, выкованные в железе, любовь сильнее дыхания",
+          "phrases": [
+            {
+              "en": "A bond forged in iron",
+              "ru": "узы, выкованные в железе",
+              "note": {
+                "ru": "forged — третья форма forge, «выкованный» (EN-35)"
+              }
+            },
+            {
+              "en": "beyond breath",
+              "ru": "за пределами дыхания",
+              "note": {
+                "ru": "beyond — «за пределами, сверх»: beyond words — словами не передать"
+              }
+            }
+          ]
+        },
+        {
+          "en": "We walk through the valley of the shadow of death",
+          "ru": "Мы идём долиной смертной тени",
+          "phrases": [
+            {
+              "en": "the valley of the shadow of death",
+              "ru": "долина смертной тени",
+              "note": {
+                "ru": "цитата из Псалма 22 (в английской Библии — 23): «Если я пойду и долиною смертной тени, не убоюсь зла»"
+              }
+            }
+          ]
+        },
+        {
+          "en": "My backbone, my brother, my lover, my life",
+          "ru": "Моя опора, мой брат, любимый мой, жизнь моя",
+          "phrases": [
+            {
+              "en": "my backbone",
+              "ru": "моя опора",
+              "note": {
+                "ru": "backbone — позвоночник; переносно — опора, стержень"
+              }
+            }
+          ]
+        },
+        {
+          "en": "The fiercest star in the darkest night",
+          "ru": "Самая яростная звезда в самой тёмной ночи",
+          "phrases": [
+            {
+              "en": "The fiercest star",
+              "ru": "самая яростная звезда",
+              "note": {
+                "ru": "превосходная степень: fierce — fiercest, dark — darkest (EN-27)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "chorus"
+    },
+    {
+      "type": "bridge",
+      "lines": [
+        {
+          "en": "I will never retreat, I will never look back",
+          "ru": "Я никогда не отступлю, я никогда не оглянусь",
+          "phrases": [
+            {
+              "en": "never look back",
+              "ru": "никогда не оглядываться",
+              "note": {
+                "ru": "look back — оглядываться; переносно — жалеть о прошлом"
+              }
+            }
+          ]
+        },
+        {
+          "en": "On the line that strikes in the middle of the pack",
+          "ru": "В строю, что бьёт в самую гущу стаи",
+          "phrases": [
+            {
+              "en": "in the middle of",
+              "ru": "посреди, в гуще"
+            }
+          ]
+        },
+        {
+          "en": "If you bleed, I bleed, if you stand, I stand",
+          "ru": "Ты истекаешь кровью — и я, ты стоишь — стою и я",
+          "phrases": [
+            {
+              "en": "If you bleed, I bleed",
+              "ru": "если ты истекаешь кровью — и я",
+              "note": {
+                "ru": "нулевое условное: if + Present, Present — «так бывает всегда» (EN-33)"
+              }
+            }
+          ]
+        },
+        {
+          "en": "The fate of the gods is held in our hands",
+          "ru": "Судьба богов — в наших руках",
+          "phrases": [
+            {
+              "en": "is held in our hands",
+              "ru": "в наших руках",
+              "note": {
+                "ru": "страдательный залог: is held — «удерживается» (EN-35)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "outro",
+      "lines": [
+        {
+          "en": "Until the halls of gold",
+          "ru": "До золотых чертогов"
+        },
+        {
+          "en": "Side by side till Valhalla",
+          "ru": "Плечом к плечу до самой Вальгаллы",
+          "note": {
+            "ru": "till = until, разговорнее и короче."
+          }
+        }
+      ]
+    }
+  ]
+}
