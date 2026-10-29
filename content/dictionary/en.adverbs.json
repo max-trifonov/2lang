@@ -63,6 +63,9 @@
       "pos": "adv",
       "rank": 3,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "здесь, сюда"
       },
@@ -192,6 +195,9 @@
       "pos": "adv",
       "rank": 8,
       "level": "A1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "сейчас"
       },
@@ -218,6 +224,9 @@
       "pos": "adv",
       "rank": 9,
       "level": "A1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "назад, обратно"
       },
@@ -244,6 +253,9 @@
       "pos": "adv",
       "rank": 10,
       "level": "A1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "тогда; потом"
       },
@@ -270,6 +282,9 @@
       "pos": "adv",
       "rank": 11,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "действительно, очень"
       },
@@ -296,6 +311,9 @@
       "pos": "adv",
       "rank": 12,
       "level": "A1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "тоже; слишком"
       },
@@ -322,6 +340,9 @@
       "pos": "adv",
       "rank": 13,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "больше, ещё; более"
       },
@@ -348,6 +369,9 @@
       "pos": "adv",
       "rank": 14,
       "level": "A1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "вниз; не работает (о системе)"
       },
@@ -555,6 +579,9 @@
       "pos": "adv",
       "rank": 22,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "снова, опять"
       },
@@ -581,6 +608,9 @@
       "pos": "adv",
       "rank": 23,
       "level": "A1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "долго"
       },
@@ -606,6 +636,9 @@
       "pos": "adv",
       "rank": 24,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "может быть"
       },
@@ -632,6 +665,10 @@
       "pos": "adv",
       "rank": 25,
       "level": "A1",
+      "rules": [
+        "en-ai-ay",
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "прочь; далеко; в отъезде"
       },
@@ -658,6 +695,9 @@
       "pos": "adv",
       "rank": 26,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "всегда"
       },
@@ -814,6 +854,9 @@
       "pos": "adv",
       "rank": 32,
       "level": "A1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "вместе"
       },
@@ -839,6 +882,9 @@
       "pos": "adv",
       "rank": 33,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "уже"
       },
@@ -919,6 +965,9 @@
       "pos": "adv",
       "rank": 36,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "один раз; когда-то"
       },
@@ -1047,6 +1096,9 @@
       "pos": "adv",
       "rank": 41,
       "level": "A1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "скоро"
       },
@@ -1150,6 +1202,9 @@
       "pos": "adv",
       "rank": 45,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "близко"
       },
@@ -1202,6 +1257,9 @@
       "pos": "adv",
       "rank": 47,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "поздно"
       },
@@ -1305,6 +1363,9 @@
       "pos": "adv",
       "rank": 51,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "всё равно, в любом случае"
       },
@@ -1407,6 +1468,9 @@
       "pos": "adv",
       "rank": 55,
       "level": "A1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "тоже (в отрицании); либо"
       },
@@ -1483,6 +1547,9 @@
       "pos": "adv",
       "rank": 58,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "рано"
       },
@@ -1509,6 +1576,9 @@
       "pos": "adv",
       "rank": 59,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "ясно; в стороне (stay clear)"
       },
@@ -1535,6 +1605,9 @@
       "pos": "adv",
       "rank": 60,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "впереди, вперёд"
       },
@@ -1561,6 +1634,9 @@
       "pos": "adv",
       "rank": 61,
       "level": "A1",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "хорошо, ладно"
       },
@@ -1639,6 +1715,9 @@
       "pos": "adv",
       "rank": 64,
       "level": "A1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "довольно; скорее, лучше"
       },
@@ -1715,6 +1794,10 @@
       "pos": "adv",
       "rank": 67,
       "level": "A1",
+      "rules": [
+        "en-igh",
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "прямо; сразу"
       },
@@ -1818,6 +1901,9 @@
       "pos": "adv",
       "rank": 71,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "вместо этого"
       },
@@ -1869,6 +1955,10 @@
       "pos": "adv",
       "rank": 73,
       "level": "A1",
+      "rules": [
+        "en-ai-ay",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "конечно, безусловно"
       },
@@ -1970,6 +2060,9 @@
       "pos": "adv",
       "rank": 77,
       "level": "A2",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "быстро"
       },
@@ -2047,6 +2140,9 @@
       "pos": "adv",
       "rank": 80,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "особенно"
       },
@@ -2252,6 +2348,9 @@
       "pos": "adv",
       "rank": 88,
       "level": "A2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "иначе, в противном случае"
       },
@@ -2303,6 +2402,9 @@
       "pos": "adv",
       "rank": 90,
       "level": "A2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "наверху, наверх (по лестнице)"
       },
@@ -2329,6 +2431,10 @@
       "pos": "adv",
       "rank": 91,
       "level": "A2",
+      "rules": [
+        "en-open-syllable",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "дважды"
       },
@@ -2354,6 +2460,9 @@
       "pos": "adv",
       "rank": 92,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "действительно; в самом деле"
       },
@@ -2431,6 +2540,9 @@
       "pos": "adv",
       "rank": 95,
       "level": "A2",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "однако"
       },
@@ -2508,6 +2620,9 @@
       "pos": "adv",
       "rank": 98,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "ясно, явно"
       },
@@ -2585,6 +2700,9 @@
       "pos": "adv",
       "rank": 101,
       "level": "A2",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "как-нибудь; каким-то образом"
       },
@@ -2605,6 +2723,9 @@
       "pos": "adv",
       "rank": 102,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "почти, чуть не"
       },
@@ -2673,6 +2794,9 @@
       "pos": "adv",
       "rank": 105,
       "level": "A2",
+      "rules": [
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "честно говоря"
       },
@@ -2713,6 +2837,9 @@
       "pos": "adv",
       "rank": 107,
       "level": "A2",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "нигде, никуда"
       },
@@ -2733,6 +2860,9 @@
       "pos": "adv",
       "rank": 108,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "глубоко"
       },
@@ -2818,6 +2948,9 @@
       "pos": "adv",
       "rank": 112,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "недавно, в последнее время"
       },
@@ -2843,6 +2976,9 @@
       "pos": "adv",
       "rank": 113,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "медленно"
       },
@@ -2863,6 +2999,9 @@
       "pos": "adv",
       "rank": 114,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "легко"
       },
@@ -2943,6 +3082,9 @@
       "pos": "adv",
       "rank": 118,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "ниже"
       },
@@ -2963,6 +3105,10 @@
       "pos": "adv",
       "rank": 119,
       "level": "B1",
+      "rules": [
+        "en-ai-ay",
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "внизу, вниз"
       },
@@ -2983,6 +3129,9 @@
       "pos": "adv",
       "rank": 120,
       "level": "B1",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "выше"
       },
@@ -3183,6 +3332,9 @@
       "pos": "adv",
       "rank": 130,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "когда-нибудь"
       },
@@ -3203,6 +3355,9 @@
       "pos": "adv",
       "rank": 131,
       "level": "B1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "поэтому"
       },
@@ -3223,6 +3378,9 @@
       "pos": "adv",
       "rank": 132,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "широко"
       },
@@ -3323,6 +3481,9 @@
       "pos": "adv",
       "rank": 137,
       "level": "B1",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "высоко; весьма"
       },
@@ -3403,6 +3564,9 @@
       "pos": "adv",
       "rank": 141,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "сильно, тяжело"
       },
@@ -3443,6 +3607,9 @@
       "pos": "adv",
       "rank": 143,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "ежедневно"
       },
@@ -3563,6 +3730,9 @@
       "pos": "adv",
       "rank": 149,
       "level": "B1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "на протяжении"
       },
@@ -3643,6 +3813,9 @@
       "pos": "adv",
       "rank": 155,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "официально"
       },
@@ -3663,6 +3836,9 @@
       "pos": "adv",
       "rank": 157,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "поблизости"
       },
@@ -3683,6 +3859,9 @@
       "pos": "adv",
       "rank": 158,
       "level": "B1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "таким образом"
       },
@@ -3703,6 +3882,9 @@
       "pos": "adv",
       "rank": 159,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "тем временем (in the meantime)"
       },
@@ -3723,6 +3905,9 @@
       "pos": "adv",
       "rank": 160,
       "level": "B2",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "слегка"
       },
@@ -3743,6 +3928,9 @@
       "pos": "adv",
       "rank": 161,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "точно"
       },
@@ -3783,6 +3971,9 @@
       "pos": "adv",
       "rank": 163,
       "level": "B2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "технически"
       },
@@ -3803,6 +3994,9 @@
       "pos": "adv",
       "rank": 164,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "между тем"
       },
@@ -3883,6 +4077,9 @@
       "pos": "adv",
       "rank": 168,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "хорошо, приятно"
       },
@@ -3923,6 +4120,9 @@
       "pos": "adv",
       "rank": 170,
       "level": "B2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "ужасно; очень"
       },
@@ -3988,6 +4188,9 @@
       "pos": "adv",
       "rank": 173,
       "level": "B2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "вскоре"
       },
@@ -4008,6 +4211,9 @@
       "pos": "adv",
       "rank": 174,
       "level": "B2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "на полпути"
       },
@@ -4028,6 +4234,9 @@
       "pos": "adv",
       "rank": 175,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "обязательно"
       },
@@ -4048,6 +4257,9 @@
       "pos": "adv",
       "rank": 176,
       "level": "B2",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "за границей, за границу"
       },
@@ -4076,6 +4288,10 @@
       "pos": "adv",
       "rank": 177,
       "level": "B2",
+      "rules": [
+        "en-ai-ay",
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "в наши дни"
       },
@@ -4096,6 +4312,9 @@
       "pos": "adv",
       "rank": 178,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "нежно, осторожно"
       },
@@ -4116,6 +4335,9 @@
       "pos": "adv",
       "rank": 179,
       "level": "B2",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "назад, задом наперёд"
       },
@@ -4156,6 +4378,9 @@
       "pos": "adv",
       "rank": 181,
       "level": "B2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "довольно, справедливо"
       },
@@ -4176,6 +4401,9 @@
       "pos": "adv",
       "rank": 182,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "конкретно"
       },
@@ -4216,6 +4444,9 @@
       "pos": "adv",
       "rank": 184,
       "level": "B2",
+      "rules": [
+        "en-ph"
+      ],
       "translations": {
         "ru": "физически"
       },
@@ -4236,6 +4467,9 @@
       "pos": "adv",
       "rank": 185,
       "level": "B2",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "на ночь, ночью"
       },
@@ -4296,6 +4530,9 @@
       "pos": "adv",
       "rank": 189,
       "level": "B2",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "к счастью"
       },
@@ -4336,6 +4573,9 @@
       "pos": "adv",
       "rank": 193,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "случайно"
       },
@@ -4356,6 +4596,9 @@
       "pos": "adv",
       "rank": 194,
       "level": "B2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "в любом случае (разг.)"
       },
@@ -4456,6 +4699,9 @@
       "pos": "adv",
       "rank": 200,
       "level": "B2",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "так или иначе"
       },
@@ -4476,6 +4722,9 @@
       "pos": "adv",
       "rank": 201,
       "level": "B2",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "соответственно"
       },
@@ -4581,6 +4830,9 @@
       "pos": "adv",
       "rank": 206,
       "level": "B2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "в целом; полностью"
       },
@@ -4623,6 +4875,9 @@
       "pos": "adv",
       "rank": 208,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "где угодно"
       },
@@ -4665,6 +4920,9 @@
       "pos": "adv",
       "rank": 210,
       "level": "B1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "автоматически"
       },
@@ -4686,6 +4944,9 @@
       "pos": "adv",
       "rank": 211,
       "level": "B2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "неловко"
       },
@@ -4749,6 +5010,9 @@
       "pos": "adv",
       "rank": 214,
       "level": "B1",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "ярко"
       },
@@ -4791,6 +5055,9 @@
       "pos": "adv",
       "rank": 216,
       "level": "B2",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "широко; в общем"
       },
@@ -4875,6 +5142,10 @@
       "pos": "adv",
       "rank": 220,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "дёшево"
       },
@@ -4896,6 +5167,10 @@
       "pos": "adv",
       "rank": 221,
       "level": "B2",
+      "rules": [
+        "en-sh-ch",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "весело"
       },
@@ -5085,6 +5360,9 @@
       "pos": "adv",
       "rank": 230,
       "level": "B2",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "дерзко"
       },
@@ -5106,6 +5384,9 @@
       "pos": "adv",
       "rank": 231,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "определённо"
       },
@@ -5232,6 +5513,9 @@
       "pos": "adv",
       "rank": 237,
       "level": "B2",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "вниз"
       },
@@ -5274,6 +5558,9 @@
       "pos": "adv",
       "rank": 239,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "с нетерпением"
       },
@@ -5295,6 +5582,9 @@
       "pos": "adv",
       "rank": 240,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "серьёзно, искренне"
       },
@@ -5337,6 +5627,9 @@
       "pos": "adv",
       "rank": 242,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "эффективно, чётко"
       },
@@ -5463,6 +5756,9 @@
       "pos": "adv",
       "rank": 248,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "взволнованно"
       },
@@ -5526,6 +5822,10 @@
       "pos": "adv",
       "rank": 251,
       "level": "B2",
+      "rules": [
+        "en-th",
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "верно"
       },
@@ -5568,6 +5868,9 @@
       "pos": "adv",
       "rank": 253,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "яростно"
       },
@@ -5652,6 +5955,10 @@
       "pos": "adv",
       "rank": 257,
       "level": "B2",
+      "rules": [
+        "en-sh-ch",
+        "en-oo"
+      ],
       "translations": {
         "ru": "глупо"
       },
@@ -5694,6 +6001,9 @@
       "pos": "adv",
       "rank": 259,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "свободно"
       },
@@ -5736,6 +6046,9 @@
       "pos": "adv",
       "rank": 262,
       "level": "B2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "только что, свеже"
       },
@@ -5757,6 +6070,9 @@
       "pos": "adv",
       "rank": 263,
       "level": "B2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "кроме того"
       },
@@ -5778,6 +6094,9 @@
       "pos": "adv",
       "rank": 264,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "обычно, в целом"
       },
@@ -5820,6 +6139,9 @@
       "pos": "adv",
       "rank": 266,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "изящно"
       },
@@ -5862,6 +6184,9 @@
       "pos": "adv",
       "rank": 268,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "очень, значительно"
       },
@@ -5883,6 +6208,9 @@
       "pos": "adv",
       "rank": 269,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "от души"
       },
@@ -5904,6 +6232,9 @@
       "pos": "adv",
       "rank": 270,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "отсюда, следовательно"
       },
@@ -5925,6 +6256,10 @@
       "pos": "adv",
       "rank": 271,
       "level": "B2",
+      "rules": [
+        "en-th",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "впредь"
       },
@@ -6135,6 +6470,9 @@
       "pos": "adv",
       "rank": 281,
       "level": "B2",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "на международном уровне"
       },
@@ -6156,6 +6494,9 @@
       "pos": "adv",
       "rank": 282,
       "level": "B2",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "в шутку"
       },
@@ -6177,6 +6518,9 @@
       "pos": "adv",
       "rank": 283,
       "level": "B2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "радостно"
       },
@@ -6282,6 +6626,9 @@
       "pos": "adv",
       "rank": 288,
       "level": "B2",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "слегка; легко"
       },
@@ -6366,6 +6713,9 @@
       "pos": "adv",
       "rank": 292,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "главным образом"
       },
@@ -6576,6 +6926,9 @@
       "pos": "adv",
       "rank": 302,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "аккуратно"
       },
@@ -6618,6 +6971,9 @@
       "pos": "adv",
       "rank": 304,
       "level": "B2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "тем не менее"
       },
@@ -6639,6 +6995,9 @@
       "pos": "adv",
       "rank": 305,
       "level": "B2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "шумно"
       },
@@ -6660,6 +7019,9 @@
       "pos": "adv",
       "rank": 306,
       "level": "B1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "на север"
       },
@@ -6681,6 +7043,10 @@
       "pos": "adv",
       "rank": 307,
       "level": "B2",
+      "rules": [
+        "en-ee-ea",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "заметно"
       },
@@ -6702,6 +7068,9 @@
       "pos": "adv",
       "rank": 308,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "время от времени"
       },
@@ -6744,6 +7113,9 @@
       "pos": "adv",
       "rank": 311,
       "level": "B1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "на улице"
       },
@@ -6828,6 +7200,9 @@
       "pos": "adv",
       "rank": 315,
       "level": "B2",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "страстно"
       },
@@ -6870,6 +7245,10 @@
       "pos": "adv",
       "rank": 317,
       "level": "B2",
+      "rules": [
+        "en-ee-ea",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "мирно"
       },
@@ -6912,6 +7291,9 @@
       "pos": "adv",
       "rank": 319,
       "level": "B2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "ясно; просто"
       },
@@ -6933,6 +7315,9 @@
       "pos": "adv",
       "rank": 320,
       "level": "B2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "игриво"
       },
@@ -6975,6 +7360,9 @@
       "pos": "adv",
       "rank": 322,
       "level": "B2",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "плохо"
       },
@@ -7290,6 +7678,9 @@
       "pos": "adv",
       "rank": 337,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "охотно"
       },
@@ -7311,6 +7702,9 @@
       "pos": "adv",
       "rank": 338,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "разумно; довольно"
       },
@@ -7416,6 +7810,9 @@
       "pos": "adv",
       "rank": 343,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "неоднократно"
       },
@@ -7458,6 +7855,9 @@
       "pos": "adv",
       "rank": 345,
       "level": "B2",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "справедливо"
       },
@@ -7542,6 +7942,10 @@
       "pos": "adv",
       "rank": 349,
       "level": "B2",
+      "rules": [
+        "en-ng",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "по-видимому"
       },
@@ -7668,6 +8072,9 @@
       "pos": "adv",
       "rank": 355,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "искренне"
       },
@@ -7710,6 +8117,10 @@
       "pos": "adv",
       "rank": 357,
       "level": "B1",
+      "rules": [
+        "en-th",
+        "en-oo"
+      ],
       "translations": {
         "ru": "гладко"
       },
@@ -7731,6 +8142,9 @@
       "pos": "adv",
       "rank": 358,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "специально"
       },
@@ -7752,6 +8166,9 @@
       "pos": "adv",
       "rank": 359,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "неуклонно"
       },
@@ -7794,6 +8211,9 @@
       "pos": "adv",
       "rank": 361,
       "level": "B1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "сильно"
       },
@@ -7815,6 +8235,9 @@
       "pos": "adv",
       "rank": 362,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "успешно"
       },
@@ -7878,6 +8301,9 @@
       "pos": "adv",
       "rank": 365,
       "level": "B2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "к счастью"
       },
@@ -7899,6 +8325,9 @@
       "pos": "adv",
       "rank": 366,
       "level": "B2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "тщательно"
       },
@@ -7920,6 +8349,9 @@
       "pos": "adv",
       "rank": 367,
       "level": "B2",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "крепко"
       },
@@ -7941,6 +8373,9 @@
       "pos": "adv",
       "rank": 368,
       "level": "A1",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "сегодня вечером"
       },
@@ -7962,6 +8397,9 @@
       "pos": "adv",
       "rank": 369,
       "level": "B2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "правдиво"
       },
@@ -8151,6 +8589,9 @@
       "pos": "adv",
       "rank": 378,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "еженедельно"
       },
@@ -8193,6 +8634,9 @@
       "pos": "adv",
       "rank": 380,
       "level": "B2",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "охотно"
       },
@@ -8277,6 +8721,9 @@
       "pos": "adv",
       "rank": 384,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "ежегодно"
       },

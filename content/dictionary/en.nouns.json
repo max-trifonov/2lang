@@ -11,6 +11,9 @@
       "pos": "noun",
       "rank": 1,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "время; раз"
       },
@@ -69,6 +72,10 @@
       "pos": "noun",
       "rank": 3,
       "level": "A1",
+      "rules": [
+        "en-th",
+        "en-ng"
+      ],
       "translations": {
         "ru": "вещь"
       },
@@ -98,6 +105,9 @@
       "pos": "noun",
       "rank": 4,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "путь, дорога; способ"
       },
@@ -214,6 +224,9 @@
       "pos": "noun",
       "rank": 8,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "день"
       },
@@ -243,6 +256,9 @@
       "pos": "noun",
       "rank": 9,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "жизнь"
       },
@@ -272,6 +288,9 @@
       "pos": "noun",
       "rank": 10,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "год"
       },
@@ -327,6 +346,9 @@
       "pos": "noun",
       "rank": 12,
       "level": "A1",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "ночь, вечер"
       },
@@ -356,6 +378,9 @@
       "pos": "noun",
       "rank": 13,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "дом (родной), жильё"
       },
@@ -442,6 +467,9 @@
       "pos": "noun",
       "rank": 16,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "имя; название"
       },
@@ -471,6 +499,10 @@
       "pos": "noun",
       "rank": 17,
       "level": "A1",
+      "rules": [
+        "en-open-syllable",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "место"
       },
@@ -586,6 +618,9 @@
       "pos": "noun",
       "rank": 21,
       "level": "A1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "мальчик, парень"
       },
@@ -672,6 +707,9 @@
       "pos": "noun",
       "rank": 24,
       "level": "A1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "мать"
       },
@@ -759,6 +797,9 @@
       "pos": "noun",
       "rank": 27,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "сегодня; сегодняшний день"
       },
@@ -987,6 +1028,9 @@
       "pos": "noun",
       "rank": 35,
       "level": "A1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "комната; номер (в отеле)"
       },
@@ -1016,6 +1060,9 @@
       "pos": "noun",
       "rank": 36,
       "level": "A1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "ребёнок"
       },
@@ -1045,6 +1092,9 @@
       "pos": "noun",
       "rank": 37,
       "level": "A1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "утро"
       },
@@ -1073,6 +1123,9 @@
       "pos": "noun",
       "rank": 38,
       "level": "A1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "брат"
       },
@@ -1102,6 +1155,9 @@
       "pos": "noun",
       "rank": 39,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "голова; глава"
       },
@@ -1131,6 +1187,9 @@
       "pos": "noun",
       "rank": 40,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "идея"
       },
@@ -1189,6 +1248,9 @@
       "pos": "noun",
       "rank": 42,
       "level": "A1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "дверь"
       },
@@ -1274,6 +1336,9 @@
       "pos": "noun",
       "rank": 45,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "жена"
       },
@@ -1303,6 +1368,9 @@
       "pos": "noun",
       "rank": 46,
       "level": "A1",
+      "rules": [
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "час"
       },
@@ -1390,6 +1458,9 @@
       "pos": "noun",
       "rank": 49,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "использование, польза"
       },
@@ -1418,6 +1489,10 @@
       "pos": "noun",
       "rank": 50,
       "level": "A1",
+      "rules": [
+        "en-sh-ch",
+        "en-oo"
+      ],
       "translations": {
         "ru": "школа"
       },
@@ -1447,6 +1522,9 @@
       "pos": "noun",
       "rank": 51,
       "level": "A1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "завтра; завтрашний день"
       },
@@ -1472,6 +1550,9 @@
       "pos": "noun",
       "rank": 52,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "неделя"
       },
@@ -1501,6 +1582,10 @@
       "pos": "noun",
       "rank": 53,
       "level": "A1",
+      "rules": [
+        "en-ph",
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "телефон"
       },
@@ -1530,6 +1615,9 @@
       "pos": "noun",
       "rank": 54,
       "level": "A1",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "сегодня вечером"
       },
@@ -1555,6 +1643,9 @@
       "pos": "noun",
       "rank": 55,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "случай; дело; чехол"
       },
@@ -1584,6 +1675,9 @@
       "pos": "noun",
       "rank": 56,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "надежда"
       },
@@ -1641,6 +1735,9 @@
       "pos": "noun",
       "rank": 58,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "сердце"
       },
@@ -1670,6 +1767,9 @@
       "pos": "noun",
       "rank": 59,
       "level": "A1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "вопрос"
       },
@@ -1727,6 +1827,9 @@
       "pos": "noun",
       "rank": 61,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "полиция"
       },
@@ -1864,6 +1967,9 @@
       "pos": "noun",
       "rank": 66,
       "level": "A1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "месяц"
       },
@@ -1922,6 +2028,9 @@
       "pos": "noun",
       "rank": 68,
       "level": "A1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "точка; пункт; смысл"
       },
@@ -2009,6 +2118,10 @@
       "pos": "noun",
       "rank": 71,
       "level": "A1",
+      "rules": [
+        "en-th",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "смерть"
       },
@@ -2125,6 +2238,10 @@
       "pos": "noun",
       "rank": 75,
       "level": "A1",
+      "rules": [
+        "en-sh-ch",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "шанс, возможность"
       },
@@ -2183,6 +2300,9 @@
       "pos": "noun",
       "rank": 77,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "сделка; a big deal — важное дело"
       },
@@ -2241,6 +2361,9 @@
       "pos": "noun",
       "rank": 79,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "сон"
       },
@@ -2295,6 +2418,9 @@
       "pos": "noun",
       "rank": 81,
       "level": "A1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "дочь"
       },
@@ -2324,6 +2450,9 @@
       "pos": "noun",
       "rank": 82,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "сторона, бок"
       },
@@ -2381,6 +2510,9 @@
       "pos": "noun",
       "rank": 84,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "причина"
       },
@@ -2410,6 +2542,9 @@
       "pos": "noun",
       "rank": 85,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "огонь; пожар"
       },
@@ -2522,6 +2657,9 @@
       "pos": "noun",
       "rank": 89,
       "level": "A1",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "свет; светофор"
       },
@@ -2551,6 +2689,9 @@
       "pos": "noun",
       "rank": 90,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "линия; очередь; строка"
       },
@@ -2579,6 +2720,9 @@
       "pos": "noun",
       "rank": 91,
       "level": "A1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "сила; власть; электропитание"
       },
@@ -2607,6 +2751,9 @@
       "pos": "noun",
       "rank": 92,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "игра; матч"
       },
@@ -2694,6 +2841,9 @@
       "pos": "noun",
       "rank": 95,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "город"
       },
@@ -2752,6 +2902,9 @@
       "pos": "noun",
       "rank": 97,
       "level": "A1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "правда"
       },
@@ -2781,6 +2934,9 @@
       "pos": "noun",
       "rank": 98,
       "level": "A1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "кровь"
       },
@@ -2807,6 +2963,9 @@
       "pos": "noun",
       "rank": 99,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "команда"
       },
@@ -2836,6 +2995,9 @@
       "pos": "noun",
       "rank": 100,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "офис, контора"
       },
@@ -2864,6 +3026,9 @@
       "pos": "noun",
       "rank": 101,
       "level": "A1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "городок, город"
       },
@@ -3055,6 +3220,9 @@
       "pos": "noun",
       "rank": 110,
       "level": "A1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "еда"
       },
@@ -3076,6 +3244,9 @@
       "pos": "noun",
       "rank": 111,
       "level": "A1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "ступня, нога (ниже щиколотки); фут"
       },
@@ -3103,6 +3274,9 @@
       "pos": "noun",
       "rank": 112,
       "level": "A1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "король"
       },
@@ -3151,6 +3325,9 @@
       "pos": "noun",
       "rank": 114,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "капитан"
       },
@@ -3175,6 +3352,9 @@
       "pos": "noun",
       "rank": 115,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "потребность, нужда"
       },
@@ -3223,6 +3403,9 @@
       "pos": "noun",
       "rank": 117,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "улица"
       },
@@ -3394,6 +3577,9 @@
       "pos": "noun",
       "rank": 124,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "состояние; штат"
       },
@@ -3418,6 +3604,9 @@
       "pos": "noun",
       "rank": 125,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "кусок, часть"
       },
@@ -3469,6 +3658,9 @@
       "pos": "noun",
       "rank": 129,
       "level": "A1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "прикосновение; связь"
       },
@@ -3495,6 +3687,9 @@
       "pos": "noun",
       "rank": 130,
       "level": "A1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "кольцо; звонок"
       },
@@ -3567,6 +3762,10 @@
       "pos": "noun",
       "rank": 133,
       "level": "A1",
+      "rules": [
+        "en-oi-oy",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "голос"
       },
@@ -3591,6 +3790,9 @@
       "pos": "noun",
       "rank": 134,
       "level": "A1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "песня"
       },
@@ -3615,6 +3817,10 @@
       "pos": "noun",
       "rank": 135,
       "level": "A1",
+      "rules": [
+        "en-th",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "земля; Земля"
       },
@@ -3636,6 +3842,10 @@
       "pos": "noun",
       "rank": 136,
       "level": "A1",
+      "rules": [
+        "en-ng",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "встреча, совещание"
       },
@@ -3665,6 +3875,9 @@
       "pos": "noun",
       "rank": 137,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "волосы"
       },
@@ -3686,6 +3899,9 @@
       "pos": "noun",
       "rank": 138,
       "level": "A1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "смех"
       },
@@ -3782,6 +3998,9 @@
       "pos": "noun",
       "rank": 143,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "танец"
       },
@@ -3805,6 +4024,9 @@
       "pos": "noun",
       "rank": 144,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "воздух"
       },
@@ -3826,6 +4048,9 @@
       "pos": "noun",
       "rank": 146,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "дата; свидание"
       },
@@ -3874,6 +4099,9 @@
       "pos": "noun",
       "rank": 148,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "офицер; сотрудник"
       },
@@ -3898,6 +4126,9 @@
       "pos": "noun",
       "rank": 149,
       "level": "A1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "вечер"
       },
@@ -3949,6 +4180,9 @@
       "pos": "noun",
       "rank": 151,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "мечта; сон"
       },
@@ -3973,6 +4207,9 @@
       "pos": "noun",
       "rank": 152,
       "level": "A1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "дорога"
       },
@@ -4068,6 +4305,9 @@
       "pos": "noun",
       "rank": 156,
       "level": "A1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "закон"
       },
@@ -4140,6 +4380,9 @@
       "pos": "noun",
       "rank": 159,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "кофе"
       },
@@ -4188,6 +4431,9 @@
       "pos": "noun",
       "rank": 161,
       "level": "A1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "корабль"
       },
@@ -4236,6 +4482,10 @@
       "pos": "noun",
       "rank": 164,
       "level": "A1",
+      "rules": [
+        "en-open-syllable",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "возраст"
       },
@@ -4356,6 +4606,11 @@
       "pos": "noun",
       "rank": 170,
       "level": "A1",
+      "rules": [
+        "en-sh-ch",
+        "en-oi-oy",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "выбор"
       },
@@ -4456,6 +4711,9 @@
       "pos": "noun",
       "rank": 175,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "сила"
       },
@@ -4503,6 +4761,9 @@
       "pos": "noun",
       "rank": 177,
       "level": "A1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "камень, скала; рок"
       },
@@ -4526,6 +4787,9 @@
       "pos": "noun",
       "rank": 178,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "вчера (сущ.)"
       },
@@ -4570,6 +4834,9 @@
       "pos": "noun",
       "rank": 181,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "правило"
       },
@@ -4618,6 +4885,9 @@
       "pos": "noun",
       "rank": 183,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "сообщение"
       },
@@ -4642,6 +4912,9 @@
       "pos": "noun",
       "rank": 184,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "боль"
       },
@@ -4666,6 +4939,9 @@
       "pos": "noun",
       "rank": 185,
       "level": "A1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "атака"
       },
@@ -4690,6 +4966,9 @@
       "pos": "noun",
       "rank": 187,
       "level": "A1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "свадьба"
       },
@@ -4770,6 +5049,9 @@
       "pos": "noun",
       "rank": 191,
       "level": "A1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "прощание; до свидания"
       },
@@ -4816,6 +5098,9 @@
       "pos": "noun",
       "rank": 193,
       "level": "A1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "рот; устье"
       },
@@ -4840,6 +5125,9 @@
       "pos": "noun",
       "rank": 194,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "мозг"
       },
@@ -4888,6 +5176,9 @@
       "pos": "noun",
       "rank": 196,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "преступление"
       },
@@ -4936,6 +5227,9 @@
       "pos": "noun",
       "rank": 198,
       "level": "A1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "вокзал, станция"
       },
@@ -4989,6 +5283,9 @@
       "pos": "noun",
       "rank": 201,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "миля"
       },
@@ -5013,6 +5310,9 @@
       "pos": "noun",
       "rank": 202,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "услуга, обслуживание"
       },
@@ -5114,6 +5414,10 @@
       "pos": "noun",
       "rank": 207,
       "level": "A1",
+      "rules": [
+        "en-th",
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "день рождения"
       },
@@ -5138,6 +5442,9 @@
       "pos": "noun",
       "rank": 208,
       "level": "A1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "финиш, конец"
       },
@@ -5161,6 +5468,9 @@
       "pos": "noun",
       "rank": 209,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "оружие"
       },
@@ -5209,6 +5519,9 @@
       "pos": "noun",
       "rank": 211,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "доказательство"
       },
@@ -5254,6 +5567,9 @@
       "pos": "noun",
       "rank": 213,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "дерево"
       },
@@ -5371,6 +5687,9 @@
       "pos": "noun",
       "rank": 218,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "район, область"
       },
@@ -5395,6 +5714,9 @@
       "pos": "noun",
       "rank": 219,
       "level": "A1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "информация"
       },
@@ -5419,6 +5741,9 @@
       "pos": "noun",
       "rank": 220,
       "level": "A1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "ситуация"
       },
@@ -5443,6 +5768,9 @@
       "pos": "noun",
       "rank": 221,
       "level": "A1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "пол; этаж"
       },
@@ -5515,6 +5843,9 @@
       "pos": "noun",
       "rank": 224,
       "level": "A1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "одежда"
       },
@@ -5539,6 +5870,9 @@
       "pos": "noun",
       "rank": 225,
       "level": "A1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "окно"
       },
@@ -5563,6 +5897,9 @@
       "pos": "noun",
       "rank": 226,
       "level": "A1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "лодка, катер"
       },
@@ -5634,6 +5971,9 @@
       "pos": "noun",
       "rank": 229,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "клетка; ячейка"
       },
@@ -5705,6 +6045,10 @@
       "pos": "noun",
       "rank": 233,
       "level": "A2",
+      "rules": [
+        "en-open-syllable",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "пространство; космос"
       },
@@ -5753,6 +6097,9 @@
       "pos": "noun",
       "rank": 235,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "брак"
       },
@@ -5777,6 +6124,9 @@
       "pos": "noun",
       "rank": 236,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "место (сиденье)"
       },
@@ -5825,6 +6175,9 @@
       "pos": "noun",
       "rank": 238,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "несчастный случай; авария"
       },
@@ -5849,6 +6202,10 @@
       "pos": "noun",
       "rank": 239,
       "level": "A2",
+      "rules": [
+        "en-open-syllable",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "сцена; место события"
       },
@@ -5873,6 +6230,9 @@
       "pos": "noun",
       "rank": 240,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "машина, аппарат"
       },
@@ -5897,6 +6257,9 @@
       "pos": "noun",
       "rank": 241,
       "level": "A2",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "внимание"
       },
@@ -5918,6 +6281,9 @@
       "pos": "noun",
       "rank": 243,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "море"
       },
@@ -5997,6 +6363,10 @@
       "pos": "noun",
       "rank": 248,
       "level": "A2",
+      "rules": [
+        "en-sh-ch",
+        "en-tion"
+      ],
       "translations": {
         "ru": "отношения"
       },
@@ -6021,6 +6391,10 @@
       "pos": "noun",
       "rank": 249,
       "level": "A2",
+      "rules": [
+        "en-tion",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "решение"
       },
@@ -6045,6 +6419,10 @@
       "pos": "noun",
       "rank": 250,
       "level": "A2",
+      "rules": [
+        "en-ee-ea",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "мир, покой"
       },
@@ -6090,6 +6468,9 @@
       "pos": "noun",
       "rank": 252,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "обед"
       },
@@ -6183,6 +6564,9 @@
       "pos": "noun",
       "rank": 256,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "рыба"
       },
@@ -6250,6 +6634,10 @@
       "pos": "noun",
       "rank": 260,
       "level": "A2",
+      "rules": [
+        "en-sh-ch",
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "доля; акция"
       },
@@ -6274,6 +6662,10 @@
       "pos": "noun",
       "rank": 261,
       "level": "A2",
+      "rules": [
+        "en-sh-ch",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "учитель"
       },
@@ -6438,6 +6830,9 @@
       "pos": "noun",
       "rank": 272,
       "level": "A2",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "позиция; должность"
       },
@@ -6461,6 +6856,9 @@
       "pos": "noun",
       "rank": 274,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "туфля, ботинок"
       },
@@ -6485,6 +6883,9 @@
       "pos": "noun",
       "rank": 275,
       "level": "A2",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "вторая половина дня"
       },
@@ -6509,6 +6910,9 @@
       "pos": "noun",
       "rank": 276,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "подарок"
       },
@@ -6533,6 +6937,9 @@
       "pos": "noun",
       "rank": 277,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "церковь"
       },
@@ -6556,6 +6963,9 @@
       "pos": "noun",
       "rank": 278,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "чай"
       },
@@ -6624,6 +7034,9 @@
       "pos": "noun",
       "rank": 282,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "самолёт"
       },
@@ -6672,6 +7085,9 @@
       "pos": "noun",
       "rank": 286,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "магазин; хранилище"
       },
@@ -6696,6 +7112,10 @@
       "pos": "noun",
       "rank": 287,
       "level": "A2",
+      "rules": [
+        "en-open-syllable",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "лёд"
       },
@@ -6764,6 +7184,9 @@
       "pos": "noun",
       "rank": 290,
       "level": "A2",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "цветок"
       },
@@ -6788,6 +7211,9 @@
       "pos": "noun",
       "rank": 291,
       "level": "A2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "парень (друг)"
       },
@@ -6812,6 +7238,9 @@
       "pos": "noun",
       "rank": 292,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "удовольствие"
       },
@@ -6836,6 +7265,9 @@
       "pos": "noun",
       "rank": 293,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "магазин"
       },
@@ -7002,6 +7434,9 @@
       "pos": "noun",
       "rank": 300,
       "level": "A2",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "действие"
       },
@@ -7026,6 +7461,9 @@
       "pos": "noun",
       "rank": 301,
       "level": "A2",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "грузовик"
       },
@@ -7050,6 +7488,9 @@
       "pos": "noun",
       "rank": 302,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "колледж"
       },
@@ -7074,6 +7515,9 @@
       "pos": "noun",
       "rank": 304,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "пиво"
       },
@@ -7098,6 +7542,9 @@
       "pos": "noun",
       "rank": 305,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "разница"
       },
@@ -7121,6 +7568,9 @@
       "pos": "noun",
       "rank": 306,
       "level": "A2",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "путь, дорожка; трек"
       },
@@ -7174,6 +7624,9 @@
       "pos": "noun",
       "rank": 308,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "деревня"
       },
@@ -7222,6 +7675,9 @@
       "pos": "noun",
       "rank": 310,
       "level": "A2",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "билет"
       },
@@ -7365,6 +7821,9 @@
       "pos": "noun",
       "rank": 316,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "опыт"
       },
@@ -7413,6 +7872,9 @@
       "pos": "noun",
       "rank": 321,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "тип, вид"
       },
@@ -7437,6 +7899,9 @@
       "pos": "noun",
       "rank": 322,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "файл; папка с документами"
       },
@@ -7466,6 +7931,9 @@
       "pos": "noun",
       "rank": 323,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "дыра, яма"
       },
@@ -7514,6 +7982,9 @@
       "pos": "noun",
       "rank": 325,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "вино"
       },
@@ -7660,6 +8131,9 @@
       "pos": "noun",
       "rank": 334,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "наличные"
       },
@@ -7681,6 +8155,9 @@
       "pos": "noun",
       "rank": 335,
       "level": "A2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "гора"
       },
@@ -7705,6 +8182,10 @@
       "pos": "noun",
       "rank": 336,
       "level": "A2",
+      "rules": [
+        "en-open-syllable",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "цена"
       },
@@ -7760,6 +8241,10 @@
       "pos": "noun",
       "rank": 338,
       "level": "A2",
+      "rules": [
+        "en-open-syllable",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "гонка; раса"
       },
@@ -7784,6 +8269,9 @@
       "pos": "noun",
       "rank": 339,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "камень"
       },
@@ -7808,6 +8296,9 @@
       "pos": "noun",
       "rank": 340,
       "level": "A2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "север"
       },
@@ -7877,6 +8368,9 @@
       "pos": "noun",
       "rank": 344,
       "level": "A2",
+      "rules": [
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "бомба"
       },
@@ -7924,6 +8418,10 @@
       "pos": "noun",
       "rank": 346,
       "level": "A2",
+      "rules": [
+        "en-sh-ch",
+        "en-ck"
+      ],
       "translations": {
         "ru": "курица"
       },
@@ -8113,6 +8611,9 @@
       "pos": "noun",
       "rank": 355,
       "level": "A2",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "миссия, задача"
       },
@@ -8137,6 +8638,9 @@
       "pos": "noun",
       "rank": 356,
       "level": "A2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "тётя"
       },
@@ -8160,6 +8664,9 @@
       "pos": "noun",
       "rank": 357,
       "level": "A2",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "луна"
       },
@@ -8208,6 +8715,9 @@
       "pos": "noun",
       "rank": 359,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "кухня"
       },
@@ -8347,6 +8857,9 @@
       "pos": "noun",
       "rank": 365,
       "level": "A2",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "трюк, фокус"
       },
@@ -8370,6 +8883,10 @@
       "pos": "noun",
       "rank": 366,
       "level": "A2",
+      "rules": [
+        "en-open-syllable",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "сцена; этап"
       },
@@ -8418,6 +8935,9 @@
       "pos": "noun",
       "rank": 368,
       "level": "A2",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "разговор"
       },
@@ -8442,6 +8962,9 @@
       "pos": "noun",
       "rank": 369,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "приятель; напарник"
       },
@@ -8469,6 +8992,9 @@
       "pos": "noun",
       "rank": 370,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "лидер"
       },
@@ -8493,6 +9019,9 @@
       "pos": "noun",
       "rank": 371,
       "level": "A2",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "условие; состояние"
       },
@@ -8565,6 +9094,9 @@
       "pos": "noun",
       "rank": 374,
       "level": "A2",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "книга"
       },
@@ -8613,6 +9145,9 @@
       "pos": "noun",
       "rank": 376,
       "level": "A2",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "дерево (материал); лес"
       },
@@ -8637,6 +9172,9 @@
       "pos": "noun",
       "rank": 377,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "голос; голосование"
       },
@@ -8708,6 +9246,9 @@
       "pos": "noun",
       "rank": 380,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "кость"
       },
@@ -8732,6 +9273,10 @@
       "pos": "noun",
       "rank": 381,
       "level": "A2",
+      "rules": [
+        "en-th",
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "горло"
       },
@@ -8756,6 +9301,10 @@
       "pos": "noun",
       "rank": 382,
       "level": "A2",
+      "rules": [
+        "en-ng",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "чувство"
       },
@@ -8849,6 +9398,9 @@
       "pos": "noun",
       "rank": 389,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "нос"
       },
@@ -8921,6 +9473,9 @@
       "pos": "noun",
       "rank": 394,
       "level": "A2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "дождь"
       },
@@ -8946,6 +9501,9 @@
       "pos": "noun",
       "rank": 395,
       "level": "A2",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "рейс, полёт"
       },
@@ -8999,6 +9557,9 @@
       "pos": "noun",
       "rank": 397,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "выходные"
       },
@@ -9054,6 +9615,9 @@
       "pos": "noun",
       "rank": 399,
       "level": "A2",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "операция; работа"
       },
@@ -9102,6 +9666,10 @@
       "pos": "noun",
       "rank": 404,
       "level": "A2",
+      "rules": [
+        "en-silent-letters",
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "нож"
       },
@@ -9173,6 +9741,9 @@
       "pos": "noun",
       "rank": 407,
       "level": "A2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "деталь"
       },
@@ -9197,6 +9768,9 @@
       "pos": "noun",
       "rank": 408,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "лента; скотч"
       },
@@ -9245,6 +9819,10 @@
       "pos": "noun",
       "rank": 410,
       "level": "A2",
+      "rules": [
+        "en-th",
+        "en-oo"
+      ],
       "translations": {
         "ru": "ванная"
       },
@@ -9293,6 +9871,9 @@
       "pos": "noun",
       "rank": 412,
       "level": "A2",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "шея"
       },
@@ -9317,6 +9898,9 @@
       "pos": "noun",
       "rank": 413,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "завтрак"
       },
@@ -9364,6 +9948,9 @@
       "pos": "noun",
       "rank": 415,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "код"
       },
@@ -9416,6 +10003,9 @@
       "pos": "noun",
       "rank": 418,
       "level": "A2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "ресторан"
       },
@@ -9464,6 +10054,9 @@
       "pos": "noun",
       "rank": 421,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "язык"
       },
@@ -9487,6 +10080,10 @@
       "pos": "noun",
       "rank": 422,
       "level": "A2",
+      "rules": [
+        "en-ee-ea",
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "красота"
       },
@@ -9555,6 +10152,9 @@
       "pos": "noun",
       "rank": 425,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "торт, пирог"
       },
@@ -9648,6 +10248,10 @@
       "pos": "noun",
       "rank": 429,
       "level": "A2",
+      "rules": [
+        "en-open-syllable",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "грация, изящество"
       },
@@ -9669,6 +10273,10 @@
       "pos": "noun",
       "rank": 430,
       "level": "A2",
+      "rules": [
+        "en-sh-ch",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "вызов, испытание"
       },
@@ -9840,6 +10448,10 @@
       "pos": "noun",
       "rank": 440,
       "level": "A2",
+      "rules": [
+        "en-sh-ch",
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "стул"
       },
@@ -9911,6 +10523,9 @@
       "pos": "noun",
       "rank": 445,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "скорость"
       },
@@ -9935,6 +10550,9 @@
       "pos": "noun",
       "rank": 446,
       "level": "A2",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "вид; достопримечательность"
       },
@@ -9981,6 +10599,9 @@
       "pos": "noun",
       "rank": 448,
       "level": "A2",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "квартал; блок"
       },
@@ -10028,6 +10649,9 @@
       "pos": "noun",
       "rank": 450,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "карьера"
       },
@@ -10052,6 +10676,9 @@
       "pos": "noun",
       "rank": 451,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "чрезвычайная ситуация"
       },
@@ -10076,6 +10703,10 @@
       "pos": "noun",
       "rank": 452,
       "level": "A2",
+      "rules": [
+        "en-sh-ch",
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "тренер; автобус дальнего следования"
       },
@@ -10123,6 +10754,9 @@
       "pos": "noun",
       "rank": 454,
       "level": "A2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "игрок; проигрыватель"
       },
@@ -10147,6 +10781,9 @@
       "pos": "noun",
       "rank": 455,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "рубашка"
       },
@@ -10299,6 +10936,9 @@
       "pos": "noun",
       "rank": 463,
       "level": "A2",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "расследование"
       },
@@ -10371,6 +11011,9 @@
       "pos": "noun",
       "rank": 466,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "совет"
       },
@@ -10419,6 +11062,10 @@
       "pos": "noun",
       "rank": 469,
       "level": "A2",
+      "rules": [
+        "en-th",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "здоровье"
       },
@@ -10440,6 +11087,10 @@
       "pos": "noun",
       "rank": 470,
       "level": "A2",
+      "rules": [
+        "en-open-syllable",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "страница"
       },
@@ -10512,6 +11163,10 @@
       "pos": "noun",
       "rank": 473,
       "level": "A2",
+      "rules": [
+        "en-th",
+        "en-ng"
+      ],
       "translations": {
         "ru": "сила"
       },
@@ -10581,6 +11236,9 @@
       "pos": "noun",
       "rank": 477,
       "level": "A2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "дело"
       },
@@ -10604,6 +11262,9 @@
       "pos": "noun",
       "rank": 478,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "свобода"
       },
@@ -10625,6 +11286,9 @@
       "pos": "noun",
       "rank": 479,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "мясо"
       },
@@ -10646,6 +11310,9 @@
       "pos": "noun",
       "rank": 481,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "век"
       },
@@ -10718,6 +11385,9 @@
       "pos": "noun",
       "rank": 486,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "наука"
       },
@@ -10766,6 +11436,9 @@
       "pos": "noun",
       "rank": 488,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "размер"
       },
@@ -10789,6 +11462,9 @@
       "pos": "noun",
       "rank": 489,
       "level": "A2",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "карман"
       },
@@ -10956,6 +11632,9 @@
       "pos": "noun",
       "rank": 498,
       "level": "A2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "масло; нефть"
       },
@@ -10976,6 +11655,9 @@
       "pos": "noun",
       "rank": 500,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "сезон, время года"
       },
@@ -11000,6 +11682,10 @@
       "pos": "noun",
       "rank": 501,
       "level": "A2",
+      "rules": [
+        "en-oi-oy",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "публика, зрители"
       },
@@ -11071,6 +11757,10 @@
       "pos": "noun",
       "rank": 504,
       "level": "A2",
+      "rules": [
+        "en-th",
+        "en-oo"
+      ],
       "translations": {
         "ru": "зуб"
       },
@@ -11095,6 +11785,9 @@
       "pos": "noun",
       "rank": 507,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "изображение"
       },
@@ -11119,6 +11812,9 @@
       "pos": "noun",
       "rank": 508,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "общество"
       },
@@ -11166,6 +11862,9 @@
       "pos": "noun",
       "rank": 512,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "тарелка"
       },
@@ -11190,6 +11889,9 @@
       "pos": "noun",
       "rank": 513,
       "level": "A2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "тропа, путь"
       },
@@ -11213,6 +11915,9 @@
       "pos": "noun",
       "rank": 514,
       "level": "A2",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "владелец"
       },
@@ -11237,6 +11942,9 @@
       "pos": "noun",
       "rank": 515,
       "level": "A2",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "соединение; пересадка"
       },
@@ -11261,6 +11969,10 @@
       "pos": "noun",
       "rank": 516,
       "level": "A2",
+      "rules": [
+        "en-sh-ch",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "исследование"
       },
@@ -11330,6 +12042,9 @@
       "pos": "noun",
       "rank": 520,
       "level": "A2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "теория"
       },
@@ -11354,6 +12069,9 @@
       "pos": "noun",
       "rank": 521,
       "level": "A2",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "весна; пружина"
       },
@@ -11402,6 +12120,9 @@
       "pos": "noun",
       "rank": 523,
       "level": "A2",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "доказательство"
       },
@@ -11423,6 +12144,9 @@
       "pos": "noun",
       "rank": 524,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "сливки; крем"
       },
@@ -11443,6 +12167,9 @@
       "pos": "noun",
       "rank": 528,
       "level": "A2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "радость"
       },
@@ -11464,6 +12191,9 @@
       "pos": "noun",
       "rank": 529,
       "level": "A2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "рождение"
       },
@@ -11484,6 +12214,10 @@
       "pos": "noun",
       "rank": 530,
       "level": "A2",
+      "rules": [
+        "en-sh-ch",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "речь"
       },
@@ -11508,6 +12242,9 @@
       "pos": "noun",
       "rank": 531,
       "level": "A2",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "крыло"
       },
@@ -11532,6 +12269,9 @@
       "pos": "noun",
       "rank": 532,
       "level": "A2",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "бассейн"
       },
@@ -11556,6 +12296,9 @@
       "pos": "noun",
       "rank": 533,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "расстояние"
       },
@@ -11603,6 +12346,9 @@
       "pos": "noun",
       "rank": 535,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "жара"
       },
@@ -11624,6 +12370,9 @@
       "pos": "noun",
       "rank": 536,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "волна"
       },
@@ -11647,6 +12396,9 @@
       "pos": "noun",
       "rank": 537,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "основа, база"
       },
@@ -11671,6 +12423,9 @@
       "pos": "noun",
       "rank": 538,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "лекарство; медицина"
       },
@@ -11695,6 +12450,9 @@
       "pos": "noun",
       "rank": 540,
       "level": "A2",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "вес"
       },
@@ -11743,6 +12501,9 @@
       "pos": "noun",
       "rank": 544,
       "level": "A2",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "направление"
       },
@@ -11767,6 +12528,9 @@
       "pos": "noun",
       "rank": 545,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "распродажа; продажа"
       },
@@ -11839,6 +12603,9 @@
       "pos": "noun",
       "rank": 548,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "стиль"
       },
@@ -11863,6 +12630,9 @@
       "pos": "noun",
       "rank": 550,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "ущерб"
       },
@@ -11932,6 +12702,9 @@
       "pos": "noun",
       "rank": 555,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "приём пищи, еда"
       },
@@ -11979,6 +12752,9 @@
       "pos": "noun",
       "rank": 557,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "пальто, куртка"
       },
@@ -12026,6 +12802,9 @@
       "pos": "noun",
       "rank": 559,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "колесо"
       },
@@ -12121,6 +12900,10 @@
       "pos": "noun",
       "rank": 563,
       "level": "B1",
+      "rules": [
+        "en-th",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "угроза"
       },
@@ -12145,6 +12928,9 @@
       "pos": "noun",
       "rank": 564,
       "level": "B1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "тысяча"
       },
@@ -12168,6 +12954,9 @@
       "pos": "noun",
       "rank": 565,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "процесс"
       },
@@ -12213,6 +13002,9 @@
       "pos": "noun",
       "rank": 567,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "мэр"
       },
@@ -12237,6 +13029,9 @@
       "pos": "noun",
       "rank": 568,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "краска"
       },
@@ -12258,6 +13053,9 @@
       "pos": "noun",
       "rank": 569,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "сайт; место"
       },
@@ -12282,6 +13080,10 @@
       "pos": "noun",
       "rank": 570,
       "level": "B1",
+      "rules": [
+        "en-silent-letters",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "колено"
       },
@@ -12306,6 +13108,9 @@
       "pos": "noun",
       "rank": 571,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "чиновник; должностное лицо"
       },
@@ -12350,6 +13155,9 @@
       "pos": "noun",
       "rank": 573,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "велосипед"
       },
@@ -12373,6 +13181,9 @@
       "pos": "noun",
       "rank": 574,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "нация, страна"
       },
@@ -12397,6 +13208,9 @@
       "pos": "noun",
       "rank": 575,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "праздник; отпуск"
       },
@@ -12421,6 +13235,10 @@
       "pos": "noun",
       "rank": 576,
       "level": "B1",
+      "rules": [
+        "en-th",
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "власть; орган"
       },
@@ -12445,6 +13263,9 @@
       "pos": "noun",
       "rank": 577,
       "level": "B1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "крыша"
       },
@@ -12469,6 +13290,10 @@
       "pos": "noun",
       "rank": 578,
       "level": "B1",
+      "rules": [
+        "en-th",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "погода"
       },
@@ -12497,6 +13322,9 @@
       "pos": "noun",
       "rank": 580,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "источник"
       },
@@ -12545,6 +13373,9 @@
       "pos": "noun",
       "rank": 582,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "снег"
       },
@@ -12587,6 +13418,9 @@
       "pos": "noun",
       "rank": 584,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "степень; градус"
       },
@@ -12610,6 +13444,9 @@
       "pos": "noun",
       "rank": 585,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "доступ"
       },
@@ -12655,6 +13492,10 @@
       "pos": "noun",
       "rank": 587,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "плечо"
       },
@@ -12679,6 +13520,9 @@
       "pos": "noun",
       "rank": 588,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "шина"
       },
@@ -12726,6 +13570,9 @@
       "pos": "noun",
       "rank": 591,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "торговля; ремесло"
       },
@@ -12746,6 +13593,9 @@
       "pos": "noun",
       "rank": 592,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "успех"
       },
@@ -12794,6 +13644,9 @@
       "pos": "noun",
       "rank": 594,
       "level": "B1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "туалет"
       },
@@ -12842,6 +13695,9 @@
       "pos": "noun",
       "rank": 598,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "желудок, живот"
       },
@@ -12866,6 +13722,9 @@
       "pos": "noun",
       "rank": 599,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "реальность"
       },
@@ -12887,6 +13746,9 @@
       "pos": "noun",
       "rank": 600,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "тишина"
       },
@@ -12911,6 +13773,9 @@
       "pos": "noun",
       "rank": 601,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "грудь; сундук"
       },
@@ -12982,6 +13847,10 @@
       "pos": "noun",
       "rank": 604,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "форма"
       },
@@ -13128,6 +13997,9 @@
       "pos": "noun",
       "rank": 611,
       "level": "B1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "часы (настенные)"
       },
@@ -13173,6 +14045,9 @@
       "pos": "noun",
       "rank": 613,
       "level": "B1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "настроение"
       },
@@ -13221,6 +14096,9 @@
       "pos": "noun",
       "rank": 615,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "корова"
       },
@@ -13244,6 +14122,9 @@
       "pos": "noun",
       "rank": 616,
       "level": "B1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "спальня"
       },
@@ -13268,6 +14149,9 @@
       "pos": "noun",
       "rank": 617,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "местоположение"
       },
@@ -13291,6 +14175,9 @@
       "pos": "noun",
       "rank": 619,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "блюдо; тарелка"
       },
@@ -13342,6 +14229,9 @@
       "pos": "noun",
       "rank": 622,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "груз; нагрузка"
       },
@@ -13440,6 +14330,9 @@
       "pos": "noun",
       "rank": 626,
       "level": "B1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "футбол"
       },
@@ -13485,6 +14378,10 @@
       "pos": "noun",
       "rank": 628,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "изменение; сдача"
       },
@@ -13509,6 +14406,9 @@
       "pos": "noun",
       "rank": 630,
       "level": "B1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "мысль"
       },
@@ -13557,6 +14457,10 @@
       "pos": "noun",
       "rank": 633,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "тень"
       },
@@ -13604,6 +14508,9 @@
       "pos": "noun",
       "rank": 635,
       "level": "B1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "ванна"
       },
@@ -13652,6 +14559,9 @@
       "pos": "noun",
       "rank": 639,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "ухо"
       },
@@ -13699,6 +14609,9 @@
       "pos": "noun",
       "rank": 641,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "разрешение"
       },
@@ -13720,6 +14633,9 @@
       "pos": "noun",
       "rank": 642,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "вариант"
       },
@@ -13744,6 +14660,9 @@
       "pos": "noun",
       "rank": 643,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "хлеб"
       },
@@ -13789,6 +14708,9 @@
       "pos": "noun",
       "rank": 647,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "роль"
       },
@@ -13813,6 +14735,9 @@
       "pos": "noun",
       "rank": 648,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "соревнование; конкуренция"
       },
@@ -13931,6 +14856,9 @@
       "pos": "noun",
       "rank": 655,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "спешка, час пик"
       },
@@ -13978,6 +14906,9 @@
       "pos": "noun",
       "rank": 659,
       "level": "B1",
+      "rules": [
+        "en-ph"
+      ],
       "translations": {
         "ru": "телефон (аппарат)"
       },
@@ -14095,6 +15026,9 @@
       "pos": "noun",
       "rank": 669,
       "level": "B1",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "право; правая сторона"
       },
@@ -14142,6 +15076,9 @@
       "pos": "noun",
       "rank": 672,
       "level": "B1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "куртка"
       },
@@ -14186,6 +15123,9 @@
       "pos": "noun",
       "rank": 678,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "выключатель; переключатель"
       },
@@ -14209,6 +15149,9 @@
       "pos": "noun",
       "rank": 680,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "авария; сбой"
       },
@@ -14233,6 +15176,9 @@
       "pos": "noun",
       "rank": 682,
       "level": "B1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "встреча (назначенная); запись"
       },
@@ -14329,6 +15275,9 @@
       "pos": "noun",
       "rank": 688,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "страховка"
       },
@@ -14374,6 +15323,9 @@
       "pos": "noun",
       "rank": 697,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "гражданин"
       },
@@ -14398,6 +15350,9 @@
       "pos": "noun",
       "rank": 698,
       "level": "B1",
+      "rules": [
+        "en-ph"
+      ],
       "translations": {
         "ru": "фото"
       },
@@ -14422,6 +15377,10 @@
       "pos": "noun",
       "rank": 699,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-ck"
+      ],
       "translations": {
         "ru": "шок"
       },
@@ -14445,6 +15404,9 @@
       "pos": "noun",
       "rank": 700,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "оценка; класс"
       },
@@ -14469,6 +15431,10 @@
       "pos": "noun",
       "rank": 701,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "цепь"
       },
@@ -14493,6 +15459,9 @@
       "pos": "noun",
       "rank": 703,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "преимущество"
       },
@@ -14565,6 +15534,11 @@
       "pos": "noun",
       "rank": 706,
       "level": "B1",
+      "rules": [
+        "en-silent-letters",
+        "en-oa-ow",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "знание"
       },
@@ -14586,6 +15560,9 @@
       "pos": "noun",
       "rank": 709,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "цель; гол"
       },
@@ -14662,6 +15639,9 @@
       "pos": "noun",
       "rank": 719,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "лечение; обращение"
       },
@@ -14686,6 +15666,9 @@
       "pos": "noun",
       "rank": 721,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "край"
       },
@@ -14733,6 +15716,9 @@
       "pos": "noun",
       "rank": 725,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "выступление; производительность"
       },
@@ -14779,6 +15765,9 @@
       "pos": "noun",
       "rank": 727,
       "level": "B1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "игрушка"
       },
@@ -14827,6 +15816,9 @@
       "pos": "noun",
       "rank": 729,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "телевидение"
       },
@@ -14875,6 +15867,10 @@
       "pos": "noun",
       "rank": 731,
       "level": "B1",
+      "rules": [
+        "en-igh",
+        "en-oo"
+      ],
       "translations": {
         "ru": "район, окрестности"
       },
@@ -14899,6 +15895,9 @@
       "pos": "noun",
       "rank": 732,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "отпуск"
       },
@@ -14947,6 +15946,9 @@
       "pos": "noun",
       "rank": 736,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "дворец"
       },
@@ -14971,6 +15973,9 @@
       "pos": "noun",
       "rank": 737,
       "level": "B1",
+      "rules": [
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "писатель"
       },
@@ -14995,6 +16000,9 @@
       "pos": "noun",
       "rank": 741,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "зрение; видение"
       },
@@ -15087,6 +16095,9 @@
       "pos": "noun",
       "rank": 750,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "лицензия, права"
       },
@@ -15132,6 +16143,9 @@
       "pos": "noun",
       "rank": 753,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "почта"
       },
@@ -15153,6 +16167,9 @@
       "pos": "noun",
       "rank": 754,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "смелость"
       },
@@ -15174,6 +16191,9 @@
       "pos": "noun",
       "rank": 756,
       "level": "B1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "рассвет"
       },
@@ -15198,6 +16218,9 @@
       "pos": "noun",
       "rank": 758,
       "level": "B1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "бабушка"
       },
@@ -15292,6 +16315,9 @@
       "pos": "noun",
       "rank": 762,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "устройство"
       },
@@ -15367,6 +16393,9 @@
       "pos": "noun",
       "rank": 766,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "верёвка"
       },
@@ -15390,6 +16419,9 @@
       "pos": "noun",
       "rank": 767,
       "level": "B1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "утка"
       },
@@ -15413,6 +16445,9 @@
       "pos": "noun",
       "rank": 770,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "насилие"
       },
@@ -15434,6 +16469,9 @@
       "pos": "noun",
       "rank": 771,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "дружба"
       },
@@ -15481,6 +16519,9 @@
       "pos": "noun",
       "rank": 775,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "предложение; приговор"
       },
@@ -15576,6 +16617,9 @@
       "pos": "noun",
       "rank": 779,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "ноготь; гвоздь"
       },
@@ -15623,6 +16667,9 @@
       "pos": "noun",
       "rank": 784,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "раздел"
       },
@@ -15647,6 +16694,9 @@
       "pos": "noun",
       "rank": 786,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "сэндвич"
       },
@@ -15670,6 +16720,9 @@
       "pos": "noun",
       "rank": 787,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "защита"
       },
@@ -15691,6 +16744,9 @@
       "pos": "noun",
       "rank": 788,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "технология"
       },
@@ -15715,6 +16771,9 @@
       "pos": "noun",
       "rank": 789,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "инцидент"
       },
@@ -15763,6 +16822,10 @@
       "pos": "noun",
       "rank": 792,
       "level": "B1",
+      "rules": [
+        "en-th",
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "тема"
       },
@@ -15787,6 +16850,10 @@
       "pos": "noun",
       "rank": 793,
       "level": "B1",
+      "rules": [
+        "en-tion",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "поколение"
       },
@@ -15811,6 +16878,9 @@
       "pos": "noun",
       "rank": 794,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "поверхность"
       },
@@ -15835,6 +16905,9 @@
       "pos": "noun",
       "rank": 795,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "решение (задачи)"
       },
@@ -15935,6 +17008,10 @@
       "pos": "noun",
       "rank": 803,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "подход"
       },
@@ -16052,6 +17129,9 @@
       "pos": "noun",
       "rank": 810,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "расписание, график"
       },
@@ -16154,6 +17234,10 @@
       "pos": "noun",
       "rank": 814,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "обмен"
       },
@@ -16178,6 +17262,9 @@
       "pos": "noun",
       "rank": 816,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "тост; гренок"
       },
@@ -16201,6 +17288,9 @@
       "pos": "noun",
       "rank": 817,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "зона"
       },
@@ -16225,6 +17315,9 @@
       "pos": "noun",
       "rank": 819,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "коллега"
       },
@@ -16322,6 +17415,9 @@
       "pos": "noun",
       "rank": 823,
       "level": "B1",
+      "rules": [
+        "en-ph"
+      ],
       "translations": {
         "ru": "фотография"
       },
@@ -16346,6 +17442,9 @@
       "pos": "noun",
       "rank": 824,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "агентство"
       },
@@ -16370,6 +17469,9 @@
       "pos": "noun",
       "rank": 825,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "присутствие"
       },
@@ -16508,6 +17610,9 @@
       "pos": "noun",
       "rank": 832,
       "level": "B1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "королевство"
       },
@@ -16554,6 +17659,9 @@
       "pos": "noun",
       "rank": 834,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "кампания"
       },
@@ -16625,6 +17733,9 @@
       "pos": "noun",
       "rank": 837,
       "level": "B1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "юность; молодёжь"
       },
@@ -16669,6 +17780,9 @@
       "pos": "noun",
       "rank": 839,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "канал"
       },
@@ -16693,6 +17807,9 @@
       "pos": "noun",
       "rank": 841,
       "level": "B1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "инструмент"
       },
@@ -16716,6 +17833,10 @@
       "pos": "noun",
       "rank": 842,
       "level": "B1",
+      "rules": [
+        "en-open-syllable",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "рис"
       },
@@ -16736,6 +17857,9 @@
       "pos": "noun",
       "rank": 843,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "приз"
       },
@@ -16784,6 +17908,9 @@
       "pos": "noun",
       "rank": 845,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "страсть"
       },
@@ -16808,6 +17935,9 @@
       "pos": "noun",
       "rank": 847,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "скорая помощь"
       },
@@ -16856,6 +17986,10 @@
       "pos": "noun",
       "rank": 850,
       "level": "B1",
+      "rules": [
+        "en-ee-ea",
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "сотрудник"
       },
@@ -16927,6 +18061,9 @@
       "pos": "noun",
       "rank": 853,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "ступенька (stairs — лестница)"
       },
@@ -16975,6 +18112,9 @@
       "pos": "noun",
       "rank": 855,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "неудача; сбой"
       },
@@ -16998,6 +18138,9 @@
       "pos": "noun",
       "rank": 856,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "гараж"
       },
@@ -17066,6 +18209,9 @@
       "pos": "noun",
       "rank": 861,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "политика; правила"
       },
@@ -17118,6 +18264,9 @@
       "pos": "noun",
       "rank": 864,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "эмоция"
       },
@@ -17142,6 +18291,9 @@
       "pos": "noun",
       "rank": 865,
       "level": "B1",
+      "rules": [
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "разговор; доклад"
       },
@@ -17165,6 +18317,9 @@
       "pos": "noun",
       "rank": 866,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "диапазон"
       },
@@ -17188,6 +18343,9 @@
       "pos": "noun",
       "rank": 867,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "заём"
       },
@@ -17302,6 +18460,9 @@
       "pos": "noun",
       "rank": 872,
       "level": "B1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "парковка"
       },
@@ -17345,6 +18506,9 @@
       "pos": "noun",
       "rank": 874,
       "level": "B1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "качели"
       },
@@ -17388,6 +18552,9 @@
       "pos": "noun",
       "rank": 877,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "конференция"
       },
@@ -17481,6 +18648,10 @@
       "pos": "noun",
       "rank": 883,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-ng"
+      ],
       "translations": {
         "ru": "рыбалка"
       },
@@ -17545,6 +18716,9 @@
       "pos": "noun",
       "rank": 887,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "мода"
       },
@@ -17614,6 +18788,10 @@
       "pos": "noun",
       "rank": 890,
       "level": "B1",
+      "rules": [
+        "en-th",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "театр"
       },
@@ -17638,6 +18816,9 @@
       "pos": "noun",
       "rank": 891,
       "level": "B1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "гром"
       },
@@ -17820,6 +19001,9 @@
       "pos": "noun",
       "rank": 899,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "объяснение"
       },
@@ -17844,6 +19028,9 @@
       "pos": "noun",
       "rank": 900,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "соглашение"
       },
@@ -17913,6 +19100,9 @@
       "pos": "noun",
       "rank": 903,
       "level": "B1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "фон; происхождение"
       },
@@ -17937,6 +19127,9 @@
       "pos": "noun",
       "rank": 904,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "репутация"
       },
@@ -17982,6 +19175,9 @@
       "pos": "noun",
       "rank": 906,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "мусор"
       },
@@ -18096,6 +19292,9 @@
       "pos": "noun",
       "rank": 911,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "намерение"
       },
@@ -18143,6 +19342,9 @@
       "pos": "noun",
       "rank": 913,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "пепел"
       },
@@ -18163,6 +19365,10 @@
       "pos": "noun",
       "rank": 914,
       "level": "B1",
+      "rules": [
+        "en-ck",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "посылка; пакет"
       },
@@ -18187,6 +19393,9 @@
       "pos": "noun",
       "rank": 915,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "желание"
       },
@@ -18234,6 +19443,9 @@
       "pos": "noun",
       "rank": 917,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "чат; беседа"
       },
@@ -18257,6 +19469,9 @@
       "pos": "noun",
       "rank": 918,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "образование"
       },
@@ -18278,6 +19493,10 @@
       "pos": "noun",
       "rank": 919,
       "level": "B1",
+      "rules": [
+        "en-oi-oy",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "совпадение"
       },
@@ -18302,6 +19521,9 @@
       "pos": "noun",
       "rank": 920,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "процент"
       },
@@ -18325,6 +19547,9 @@
       "pos": "noun",
       "rank": 921,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "уверенность"
       },
@@ -18392,6 +19617,10 @@
       "pos": "noun",
       "rank": 925,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "простыня; лист"
       },
@@ -18416,6 +19645,9 @@
       "pos": "noun",
       "rank": 926,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "производство"
       },
@@ -18436,6 +19668,9 @@
       "pos": "noun",
       "rank": 927,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "труба"
       },
@@ -18483,6 +19718,9 @@
       "pos": "noun",
       "rank": 929,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "революция"
       },
@@ -18530,6 +19768,9 @@
       "pos": "noun",
       "rank": 931,
       "level": "B1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "нехватка"
       },
@@ -18593,6 +19834,9 @@
       "pos": "noun",
       "rank": 934,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "плоть"
       },
@@ -18614,6 +19858,9 @@
       "pos": "noun",
       "rank": 937,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "впечатление"
       },
@@ -18638,6 +19885,9 @@
       "pos": "noun",
       "rank": 938,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "чемпион"
       },
@@ -18662,6 +19912,10 @@
       "pos": "noun",
       "rank": 940,
       "level": "B1",
+      "rules": [
+        "en-tion",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "реакция"
       },
@@ -18686,6 +19940,9 @@
       "pos": "noun",
       "rank": 941,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "выборы"
       },
@@ -18710,6 +19967,9 @@
       "pos": "noun",
       "rank": 942,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "упражнение"
       },
@@ -18734,6 +19994,9 @@
       "pos": "noun",
       "rank": 943,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "племя"
       },
@@ -18757,6 +20020,9 @@
       "pos": "noun",
       "rank": 945,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "комитет"
       },
@@ -18828,6 +20094,9 @@
       "pos": "noun",
       "rank": 949,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "рассказ, сказка"
       },
@@ -18852,6 +20121,9 @@
       "pos": "noun",
       "rank": 951,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "мусор"
       },
@@ -18899,6 +20171,10 @@
       "pos": "noun",
       "rank": 955,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-oo"
+      ],
       "translations": {
         "ru": "детство"
       },
@@ -19062,6 +20338,9 @@
       "pos": "noun",
       "rank": 963,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "тропа"
       },
@@ -19085,6 +20364,9 @@
       "pos": "noun",
       "rank": 964,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "помощь"
       },
@@ -19150,6 +20432,9 @@
       "pos": "noun",
       "rank": 967,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "дюйм"
       },
@@ -19173,6 +20458,9 @@
       "pos": "noun",
       "rank": 968,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "полицейский"
       },
@@ -19244,6 +20532,9 @@
       "pos": "noun",
       "rank": 971,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "версия"
       },
@@ -19293,6 +20584,9 @@
       "pos": "noun",
       "rank": 973,
       "level": "B1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "монета"
       },
@@ -19364,6 +20658,9 @@
       "pos": "noun",
       "rank": 978,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "церемония"
       },
@@ -19388,6 +20685,9 @@
       "pos": "noun",
       "rank": 981,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "коллекция"
       },
@@ -19411,6 +20711,9 @@
       "pos": "noun",
       "rank": 983,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "лига"
       },
@@ -19457,6 +20760,9 @@
       "pos": "noun",
       "rank": 985,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "переулок; полоса"
       },
@@ -19500,6 +20806,9 @@
       "pos": "noun",
       "rank": 988,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "наказание"
       },
@@ -19548,6 +20857,9 @@
       "pos": "noun",
       "rank": 991,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "благотворительность"
       },
@@ -19568,6 +20880,9 @@
       "pos": "noun",
       "rank": 992,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "диван"
       },
@@ -19662,6 +20977,9 @@
       "pos": "noun",
       "rank": 1000,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "традиция"
       },

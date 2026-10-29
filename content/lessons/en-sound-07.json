@@ -1,0 +1,94 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-sound-07",
+  "lang": "en",
+  "kind": "sound",
+  "code": "EN-P7",
+  "order": 7,
+  "level": "A2",
+  "requires": [
+    "en-sound-01"
+  ],
+  "title": {
+    "ru": "Ударение в слове и во фразе",
+    "en": "Word and sentence stress",
+    "es": "El acento en la palabra y la frase"
+  },
+  "rules": [
+    {
+      "id": "en-word-stress",
+      "title": {
+        "ru": "Ударение в слове",
+        "en": "Word stress",
+        "es": "Acento de palabra"
+      },
+      "text": {
+        "ru": "Ударение в английском не обозначается, его учат вместе со словом (в словаре — знак ˈ перед ударным слогом). Подсказки: двусложные существительные чаще ударны на первом слоге — TA-ble, DOC-tor, а глаголы — на втором — be-GIN, de-CIDE. Одно и то же слово может менять ударение: a REC-ord «запись» / to re-CORD «записывать», a PRES-ent «подарок» / to pre-SENT «представлять».",
+        "en": "Stress is not written: learn it with the word (ˈ in dictionaries). Two-syllable nouns are often stressed first (TA-ble), verbs second (be-GIN). Some words shift: a REC-ord / to re-CORD."
+      },
+      "ipa": "ˈ",
+      "examples": [
+        {
+          "en": "record",
+          "ru": "запись / записывать"
+        },
+        {
+          "en": "present",
+          "ru": "подарок / представлять"
+        },
+        {
+          "en": "doctor",
+          "ru": "врач"
+        },
+        {
+          "en": "begin",
+          "ru": "начинать"
+        }
+      ]
+    },
+    {
+      "id": "en-sentence-stress",
+      "title": {
+        "ru": "Ударение во фразе",
+        "en": "Sentence stress",
+        "es": "Acento de frase"
+      },
+      "text": {
+        "ru": "Во фразе ударны смысловые слова — существительные, глаголы, прилагательные, вопросительные слова: I WANT to GO HOME. Служебные — артикли, предлоги, местоимения, вспомогательные глаголы — проговариваются быстро и слабо (EN-P6). Поэтому английская речь звучит ритмично: удар — быстрые слоги — удар.",
+        "en": "Content words are stressed (I WANT to GO HOME); function words are quick and weak. That gives English its rhythm."
+      },
+      "examples": [
+        {
+          "en": "I want to go home.",
+          "ru": "Я хочу домой."
+        },
+        {
+          "en": "Where do you live?",
+          "ru": "Где ты живёшь?"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "read",
+      "items": [
+        "record",
+        "present",
+        "begin",
+        "doctor",
+        "information"
+      ]
+    },
+    {
+      "type": "pairs",
+      "items": [
+        [
+          "desert",
+          "dessert"
+        ]
+      ]
+    }
+  ]
+}

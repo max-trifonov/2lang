@@ -1,0 +1,207 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-sound-03",
+  "lang": "en",
+  "kind": "sound",
+  "code": "EN-P3",
+  "order": 3,
+  "level": "A1",
+  "requires": [
+    "en-sound-01"
+  ],
+  "title": {
+    "ru": "Четыре типа слога: как читать гласные",
+    "en": "Four syllable types: how vowels are read",
+    "es": "Cuatro tipos de sílaba: cómo leer las vocales"
+  },
+  "rules": [
+    {
+      "id": "en-open-syllable",
+      "title": {
+        "ru": "Открытый слог: гласная «как в алфавите»",
+        "en": "Open syllable: the vowel says its name",
+        "es": "Sílaba abierta"
+      },
+      "text": {
+        "ru": "Если слог кончается на гласную (go, he, my) или после гласной стоит одна согласная и немая e (cake, time, home, cute), гласная читается как её название в алфавите: a [eɪ], e [iː], i / y [aɪ], o [əʊ], u [juː]. Немая e в конце не читается — она «открывает» слог.",
+        "en": "If a syllable ends in a vowel (go, he, my) or has vowel + consonant + silent e (cake, time, home, cute), the vowel says its name: a [eɪ], e [iː], i / y [aɪ], o [əʊ], u [juː]."
+      },
+      "ipa": "eɪ iː aɪ əʊ juː",
+      "examples": [
+        {
+          "en": "cake",
+          "ru": "торт"
+        },
+        {
+          "en": "Pete",
+          "ru": "Пит"
+        },
+        {
+          "en": "time",
+          "ru": "время"
+        },
+        {
+          "en": "home",
+          "ru": "дом"
+        },
+        {
+          "en": "cute",
+          "ru": "милый"
+        }
+      ]
+    },
+    {
+      "id": "en-closed-syllable",
+      "title": {
+        "ru": "Закрытый слог: краткая гласная",
+        "en": "Closed syllable: short vowel",
+        "es": "Sílaba cerrada"
+      },
+      "text": {
+        "ru": "Если слог кончается на согласную (cat, bed, sit, hot, cup), гласная краткая: a [æ], e [e], i / y [ɪ], o [ɒ], u [ʌ]. Отсюда пары, где всё решает немая e: hat / hate, kit / kite, not / note, cut / cute. Удвоенная согласная закрывает слог: hopping (от hop) ≠ hoping (от hope).",
+        "en": "A syllable ending in a consonant has a short vowel: a [æ], e [e], i [ɪ], o [ɒ], u [ʌ]. Hence hat / hate, kit / kite, not / note, cut / cute; a double consonant keeps it closed: hopping vs hoping."
+      },
+      "ipa": "æ e ɪ ɒ ʌ",
+      "examples": [
+        {
+          "en": "cat",
+          "ru": "кошка"
+        },
+        {
+          "en": "bed",
+          "ru": "кровать"
+        },
+        {
+          "en": "sit",
+          "ru": "сидеть"
+        },
+        {
+          "en": "hot",
+          "ru": "горячий"
+        },
+        {
+          "en": "cup",
+          "ru": "чашка"
+        }
+      ]
+    },
+    {
+      "id": "en-vowel-r",
+      "title": {
+        "ru": "Гласная + r и гласная + re",
+        "en": "Vowel + r and vowel + re",
+        "es": "Vocal + r, vocal + re"
+      },
+      "text": {
+        "ru": "Гласная + r: ar — [ɑː] (car), or — [ɔː] (fork), er, ir, ur — одинаковое [ɜː] (her, girl, turn). Гласная + re: are — [eə] (care), ere — [ɪə] (here), ire — [aɪə] (fire), ore — [ɔː] (more), ure — [jʊə] (pure). В британском r после гласной не звучит.",
+        "en": "Vowel + r: ar [ɑː], or [ɔː], er / ir / ur [ɜː]. Vowel + re: are [eə], ere [ɪə], ire [aɪə], ore [ɔː], ure [jʊə]. British English does not pronounce this r."
+      },
+      "ipa": "ɑː ɔː ɜː",
+      "examples": [
+        {
+          "en": "car",
+          "ru": "машина"
+        },
+        {
+          "en": "fork",
+          "ru": "вилка"
+        },
+        {
+          "en": "girl",
+          "ru": "девочка"
+        },
+        {
+          "en": "care",
+          "ru": "забота"
+        },
+        {
+          "en": "here",
+          "ru": "здесь"
+        }
+      ]
+    },
+    {
+      "id": "en-long-short",
+      "title": {
+        "ru": "Долгие и краткие: ship / sheep",
+        "en": "Long and short: ship / sheep",
+        "es": "Largas y cortas: ship / sheep"
+      },
+      "text": {
+        "ru": "В английском долгота гласной меняет слово: ship [ʃɪp] «корабль» / sheep [ʃiːp] «овца», live / leave, full / fool. Долгие [iː], [uː], [ɑː], [ɔː], [ɜː] тяните, краткие [ɪ], [ʊ], [æ], [ɒ], [ʌ] — обрывайте.",
+        "en": "Vowel length changes the word: ship / sheep, live / leave, full / fool. Hold long vowels, cut short ones."
+      },
+      "ipa": "ɪ / iː",
+      "examples": [
+        {
+          "en": "ship",
+          "ru": "корабль"
+        },
+        {
+          "en": "sheep",
+          "ru": "овца"
+        },
+        {
+          "en": "live",
+          "ru": "жить"
+        },
+        {
+          "en": "leave",
+          "ru": "уходить"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "pairs",
+      "items": [
+        [
+          "hat",
+          "hate"
+        ],
+        [
+          "kit",
+          "kite"
+        ],
+        [
+          "not",
+          "note"
+        ],
+        [
+          "cut",
+          "cute"
+        ],
+        [
+          "ship",
+          "sheep"
+        ],
+        [
+          "live",
+          "leave"
+        ]
+      ]
+    },
+    {
+      "type": "read",
+      "items": [
+        "plane",
+        "pin",
+        "fork",
+        "care",
+        "tune",
+        "bird"
+      ]
+    },
+    {
+      "type": "dictation",
+      "items": [
+        "make",
+        "sit",
+        "her",
+        "home"
+      ]
+    }
+  ]
+}

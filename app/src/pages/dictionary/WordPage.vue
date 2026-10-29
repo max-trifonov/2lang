@@ -32,6 +32,7 @@ import {
   rulesIndex,
   type GrammarLesson,
   type RuleHint,
+  CodeText,
 } from '@/features/lessons'
 import { useProfilesStore } from '@/features/profiles'
 import { UiCard, UiEmptyState, UiSkeleton } from '@/shared/ui'
@@ -158,12 +159,15 @@ const listName = computed(() => (entry.value ? t(`dictionary.lists.${entry.value
             <li v-for="r in rules" :key="r.id">
               <strong>{{ r.title[locale] ?? r.title.ru }}</strong>
               <span v-if="r.ipa" class="word__ipa">[{{ r.ipa }}]</span>
-              <p>{{ r.text[locale] ?? r.text.ru }}</p>
+              <p><CodeText :text="r.text[locale] ?? r.text.ru" /></p>
               <span v-if="r.code" class="word__topic">{{
                 t('dictionary.card.topicCode', { code: r.code })
               }}</span>
             </li>
           </ul>
+          <RouterLink :to="{ path: '/alphabet', query: { lang } }" class="word__alphabet">{{
+            t('alphabet.open')
+          }}</RouterLink>
         </section>
 
         <section v-if="grammar.length" class="word__block">
@@ -497,5 +501,12 @@ const listName = computed(() => (entry.value ? t(`dictionary.lists.${entry.value
   flex: none;
   color: var(--tint-ink);
   font-size: 1.2rem;
+}
+
+.word__alphabet {
+  display: inline-block;
+  margin-top: 12px;
+  color: var(--tint-ink);
+  font-weight: 650;
 }
 </style>

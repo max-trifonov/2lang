@@ -180,6 +180,10 @@
       "rank": 6,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-silent-letters",
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "знать"
       },
@@ -275,6 +279,9 @@
       "rank": 9,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "думать"
       },
@@ -340,6 +347,9 @@
       "rank": 11,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "видеть"
       },
@@ -373,6 +383,9 @@
       "rank": 12,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "сказать, говорить"
       },
@@ -405,6 +418,9 @@
       "pos": "verb",
       "rank": 13,
       "level": "A1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "смотреть; выглядеть; look for — искать"
       },
@@ -466,6 +482,9 @@
       "rank": 15,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "брать; занимать (время); ехать на транспорте"
       },
@@ -532,6 +551,9 @@
       "rank": 17,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "делать, производить; заставлять"
       },
@@ -597,6 +619,9 @@
       "pos": "verb",
       "rank": 19,
       "level": "A1",
+      "rules": [
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "вспомогательный глагол (бы); I would like — я бы хотел"
       },
@@ -658,6 +683,9 @@
       "pos": "verb",
       "rank": 21,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "нуждаться; нужно"
       },
@@ -690,6 +718,9 @@
       "pos": "verb",
       "rank": 22,
       "level": "A1",
+      "rules": [
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "мог бы; мог (прошедшее от can)"
       },
@@ -719,6 +750,9 @@
       "rank": 23,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "значить, иметь в виду"
       },
@@ -785,6 +819,9 @@
       "rank": 25,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "уходить, уезжать; оставлять"
       },
@@ -849,6 +886,9 @@
       "pos": "verb",
       "rank": 27,
       "level": "A1",
+      "rules": [
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "разговаривать"
       },
@@ -913,6 +953,10 @@
       "pos": "verb",
       "rank": 29,
       "level": "A1",
+      "rules": [
+        "en-sh-ch",
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "следует, стоит"
       },
@@ -941,6 +985,9 @@
       "pos": "verb",
       "rank": 30,
       "level": "A1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "благодарить; thank you — спасибо"
       },
@@ -1036,6 +1083,9 @@
       "pos": "verb",
       "rank": 33,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "ждать"
       },
@@ -1101,6 +1151,9 @@
       "rank": 35,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "чувствовать"
       },
@@ -1198,6 +1251,9 @@
       "rank": 38,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "слышать"
       },
@@ -1231,6 +1287,9 @@
       "rank": 39,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "держать, хранить; продолжать (keep doing)"
       },
@@ -1423,6 +1482,9 @@
       "pos": "verb",
       "rank": 45,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "оставаться; останавливаться (в отеле)"
       },
@@ -1456,6 +1518,10 @@
       "rank": 46,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-sh-ch",
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "показывать"
       },
@@ -1488,6 +1554,9 @@
       "pos": "verb",
       "rank": 47,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "играть"
       },
@@ -1586,6 +1655,9 @@
       "rank": 50,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "приносить, привозить"
       },
@@ -1618,6 +1690,9 @@
       "pos": "verb",
       "rank": 51,
       "level": "A1",
+      "rules": [
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "слушать"
       },
@@ -1779,6 +1854,9 @@
       "rank": 56,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "встречать(ся), знакомиться"
       },
@@ -1906,6 +1984,9 @@
       "pos": "verb",
       "rank": 60,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "заботиться; беспокоиться"
       },
@@ -1937,6 +2018,9 @@
       "pos": "verb",
       "rank": 61,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "мочь (разрешение, вероятность)"
       },
@@ -1965,6 +2049,9 @@
       "pos": "verb",
       "rank": 62,
       "level": "A1",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "может быть, возможно (малая вероятность)"
       },
@@ -2025,6 +2112,9 @@
       "pos": "verb",
       "rank": 64,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "использовать"
       },
@@ -2089,6 +2179,9 @@
       "rank": 66,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "говорить (на языке), выступать"
       },
@@ -2121,6 +2214,9 @@
       "pos": "verb",
       "rank": 67,
       "level": "A1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "смотреть, наблюдать"
       },
@@ -2186,6 +2282,9 @@
       "rank": 69,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "ломать; break down — сломаться"
       },
@@ -2218,6 +2317,9 @@
       "rank": 70,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "платить"
       },
@@ -2251,6 +2353,9 @@
       "rank": 71,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "есть"
       },
@@ -2283,6 +2388,10 @@
       "pos": "verb",
       "rank": 72,
       "level": "A1",
+      "rules": [
+        "en-sh-ch",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "менять(ся)"
       },
@@ -2382,6 +2491,10 @@
       "rank": 75,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-sh-ch",
+        "en-oo"
+      ],
       "translations": {
         "ru": "стрелять; снимать (фото, видео)"
       },
@@ -2447,6 +2560,9 @@
       "pos": "verb",
       "rank": 77,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "казаться"
       },
@@ -2510,6 +2626,10 @@
       "pos": "verb",
       "rank": 79,
       "level": "A1",
+      "rules": [
+        "en-open-syllable",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "сталкиваться (с проблемой); стоять лицом к"
       },
@@ -2605,6 +2725,9 @@
       "rank": 82,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "драться, бороться"
       },
@@ -2672,6 +2795,10 @@
       "rank": 84,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-silent-letters",
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "писать"
       },
@@ -2704,6 +2831,9 @@
       "pos": "verb",
       "rank": 85,
       "level": "A1",
+      "rules": [
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "ходить пешком, гулять"
       },
@@ -2766,6 +2896,10 @@
       "pos": "verb",
       "rank": 87,
       "level": "A1",
+      "rules": [
+        "en-sh-ch",
+        "en-ck"
+      ],
       "translations": {
         "ru": "проверять; check in/out — заселяться/выселяться"
       },
@@ -2959,6 +3093,9 @@
       "pos": "verb",
       "rank": 93,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "сохранять; спасать; экономить"
       },
@@ -3023,6 +3160,9 @@
       "rank": 95,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "читать"
       },
@@ -3058,6 +3198,9 @@
       "pos": "verb",
       "rank": 96,
       "level": "A1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "выбирать; pick up — забирать"
       },
@@ -3090,6 +3233,9 @@
       "rank": 97,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "водить машину, ехать"
       },
@@ -3122,6 +3268,9 @@
       "rank": 98,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "закрывать; shut down — выключать"
       },
@@ -3154,6 +3303,9 @@
       "rank": 99,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "ловить; успеть на (транспорт)"
       },
@@ -3272,6 +3424,9 @@
       "pos": "verb",
       "rank": 103,
       "level": "A1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "желать; хотеть, чтобы (нереальное)"
       },
@@ -3301,6 +3456,9 @@
       "pos": "verb",
       "rank": 104,
       "level": "A1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "следовать; следить"
       },
@@ -3383,6 +3541,9 @@
       "pos": "verb",
       "rank": 107,
       "level": "A1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "вопрос-предложение: Shall we…?"
       },
@@ -3406,6 +3567,9 @@
       "pos": "verb",
       "rank": 108,
       "level": "A1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "вызывать, быть причиной"
       },
@@ -3433,6 +3597,9 @@
       "pos": "verb",
       "rank": 109,
       "level": "A1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "смеяться"
       },
@@ -3516,6 +3683,10 @@
       "rank": 112,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-th",
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "бросать"
       },
@@ -3543,6 +3714,9 @@
       "pos": "verb",
       "rank": 113,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "учить, выучить"
       },
@@ -3571,6 +3745,9 @@
       "rank": 114,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "носить (одежду)"
       },
@@ -3735,6 +3912,9 @@
       "rank": 120,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "вешать; висеть; hang out — проводить время"
       },
@@ -3824,6 +4004,9 @@
       "rank": 123,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "петь"
       },
@@ -3880,6 +4063,9 @@
       "pos": "verb",
       "rank": 125,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "решать, принимать решение"
       },
@@ -3907,6 +4093,9 @@
       "pos": "verb",
       "rank": 126,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "ненавидеть; терпеть не мочь"
       },
@@ -3995,6 +4184,9 @@
       "rank": 129,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "расти; выращивать"
       },
@@ -4077,6 +4269,9 @@
       "rank": 132,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "вести; возглавлять"
       },
@@ -4105,6 +4300,9 @@
       "rank": 133,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "бить; побеждать"
       },
@@ -4133,6 +4331,9 @@
       "rank": 134,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "дуть; задувать"
       },
@@ -4187,6 +4388,9 @@
       "pos": "verb",
       "rank": 136,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "тренировать(ся); учить"
       },
@@ -4241,6 +4445,9 @@
       "pos": "verb",
       "rank": 138,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "кричать, вопить"
       },
@@ -4321,6 +4528,9 @@
       "pos": "verb",
       "rank": 141,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "нравиться; любить"
       },
@@ -4348,6 +4558,9 @@
       "pos": "verb",
       "rank": 142,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "объяснять"
       },
@@ -4410,6 +4623,10 @@
       "rank": 144,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-sh-ch",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "учить, преподавать"
       },
@@ -4464,6 +4681,9 @@
       "pos": "verb",
       "rank": 146,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "соглашаться"
       },
@@ -4491,6 +4711,9 @@
       "rank": 147,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "просыпаться; будить (wake up)"
       },
@@ -4571,6 +4794,9 @@
       "pos": "verb",
       "rank": 150,
       "level": "A1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "разрешать"
       },
@@ -4654,6 +4880,9 @@
       "pos": "verb",
       "rank": 153,
       "level": "A1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "присоединяться"
       },
@@ -4681,6 +4910,9 @@
       "pos": "verb",
       "rank": 154,
       "level": "A1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "наслаждаться; получать удовольствие"
       },
@@ -4710,6 +4942,10 @@
       "pos": "verb",
       "rank": 155,
       "level": "A1",
+      "rules": [
+        "en-ck",
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "стучать"
       },
@@ -4737,6 +4973,10 @@
       "rank": 156,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-sh-ch",
+        "en-oo"
+      ],
       "translations": {
         "ru": "выбирать"
       },
@@ -4765,6 +5005,9 @@
       "rank": 157,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "красть"
       },
@@ -4793,6 +5036,9 @@
       "rank": 158,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "прятать(ся)"
       },
@@ -4847,6 +5093,9 @@
       "pos": "verb",
       "rank": 160,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "осознавать, понимать"
       },
@@ -4927,6 +5176,9 @@
       "pos": "verb",
       "rank": 163,
       "level": "A1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "запирать"
       },
@@ -4980,6 +5232,9 @@
       "pos": "verb",
       "rank": 165,
       "level": "A1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "толкать, нажимать"
       },
@@ -5034,6 +5289,9 @@
       "pos": "verb",
       "rank": 167,
       "level": "A1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "уничтожать, разрушать"
       },
@@ -5116,6 +5374,10 @@
       "pos": "verb",
       "rank": 170,
       "level": "A1",
+      "rules": [
+        "en-sh-ch",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "брать плату; заряжать"
       },
@@ -5144,6 +5406,9 @@
       "rank": 171,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "ехать (верхом, на велосипеде)"
       },
@@ -5171,6 +5436,9 @@
       "rank": 172,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "нести; выносить, терпеть"
       },
@@ -5197,6 +5465,9 @@
       "pos": "verb",
       "rank": 173,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "замечать"
       },
@@ -5224,6 +5495,10 @@
       "pos": "verb",
       "rank": 174,
       "level": "A1",
+      "rules": [
+        "en-sh-ch",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "достигать; связаться"
       },
@@ -5251,6 +5526,9 @@
       "pos": "verb",
       "rank": 175,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "бояться"
       },
@@ -5306,6 +5584,9 @@
       "rank": 177,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "спать"
       },
@@ -5389,6 +5670,9 @@
       "pos": "verb",
       "rank": 180,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "мечтать; видеть сон"
       },
@@ -5416,6 +5700,9 @@
       "pos": "verb",
       "rank": 182,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "принимать, соглашаться"
       },
@@ -5443,6 +5730,9 @@
       "pos": "verb",
       "rank": 183,
       "level": "A1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "заканчивать"
       },
@@ -5475,6 +5765,9 @@
       "pos": "verb",
       "rank": 184,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "создавать"
       },
@@ -5502,6 +5795,9 @@
       "pos": "verb",
       "rank": 185,
       "level": "A1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "пинать, бить ногой"
       },
@@ -5529,6 +5825,9 @@
       "rank": 186,
       "level": "A1",
       "irregular": true,
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "подниматься"
       },
@@ -5609,6 +5908,9 @@
       "pos": "verb",
       "rank": 189,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "поднимать; повышать"
       },
@@ -5663,6 +5965,9 @@
       "pos": "verb",
       "rank": 191,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "курить; дымить"
       },
@@ -5742,6 +6047,10 @@
       "pos": "verb",
       "rank": 194,
       "level": "A1",
+      "rules": [
+        "en-th",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "дышать"
       },
@@ -5795,6 +6104,9 @@
       "pos": "verb",
       "rank": 197,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "относиться; угощать"
       },
@@ -5821,6 +6133,9 @@
       "pos": "verb",
       "rank": 198,
       "level": "A2",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "готовить (еду)"
       },
@@ -5874,6 +6189,9 @@
       "pos": "verb",
       "rank": 200,
       "level": "A2",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "упоминать"
       },
@@ -5928,6 +6246,9 @@
       "pos": "verb",
       "rank": 202,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "осмеливаться"
       },
@@ -5954,6 +6275,9 @@
       "pos": "verb",
       "rank": 203,
       "level": "A2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "беспокоить; утруждаться"
       },
@@ -5980,6 +6304,9 @@
       "pos": "verb",
       "rank": 204,
       "level": "A2",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "принадлежать"
       },
@@ -6033,6 +6360,9 @@
       "pos": "verb",
       "rank": 206,
       "level": "A2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "оставаться"
       },
@@ -6060,6 +6390,9 @@
       "pos": "verb",
       "rank": 207,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "улыбаться"
       },
@@ -6087,6 +6420,9 @@
       "pos": "verb",
       "rank": 208,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "закрывать(ся)"
       },
@@ -6195,6 +6531,9 @@
       "pos": "verb",
       "rank": 212,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "кричать"
       },
@@ -6275,6 +6614,9 @@
       "pos": "verb",
       "rank": 215,
       "level": "A2",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "быть должным"
       },
@@ -6302,6 +6644,9 @@
       "pos": "verb",
       "rank": 216,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "отмечать; замечать"
       },
@@ -6410,6 +6755,9 @@
       "rank": 220,
       "level": "A2",
       "irregular": true,
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "приклеивать; застревать"
       },
@@ -6436,6 +6784,9 @@
       "pos": "verb",
       "rank": 221,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "ценить; быть благодарным"
       },
@@ -6490,6 +6841,9 @@
       "pos": "verb",
       "rank": 223,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "винить"
       },
@@ -6544,6 +6898,9 @@
       "pos": "verb",
       "rank": 225,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "увольнять; стрелять"
       },
@@ -6570,6 +6927,9 @@
       "pos": "verb",
       "rank": 226,
       "level": "A2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "терпеть неудачу; не получаться"
       },
@@ -6597,6 +6957,9 @@
       "pos": "verb",
       "rank": 227,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "исчезать"
       },
@@ -6678,6 +7041,9 @@
       "pos": "verb",
       "rank": 230,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "появляться; казаться"
       },
@@ -6705,6 +7071,9 @@
       "pos": "verb",
       "rank": 231,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "получать"
       },
@@ -6732,6 +7101,9 @@
       "pos": "verb",
       "rank": 232,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "управлять, руководить; справляться"
       },
@@ -6793,6 +7165,9 @@
       "pos": "verb",
       "rank": 234,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "совпадать; подходить"
       },
@@ -6819,6 +7194,9 @@
       "pos": "verb",
       "rank": 235,
       "level": "A2",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "собирать вещи; упаковывать"
       },
@@ -7063,6 +7441,9 @@
       "rank": 247,
       "level": "A2",
       "irregular": true,
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "ударять; бастовать"
       },
@@ -7089,6 +7470,9 @@
       "pos": "verb",
       "rank": 248,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "направляться; возглавлять"
       },
@@ -7169,6 +7553,9 @@
       "pos": "verb",
       "rank": 251,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "называть; давать имя"
       },
@@ -7195,6 +7582,9 @@
       "pos": "verb",
       "rank": 252,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "нанимать; арендовать"
       },
@@ -7281,6 +7671,9 @@
       "pos": "verb",
       "rank": 255,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "практиковаться, тренировать"
       },
@@ -7307,6 +7700,9 @@
       "pos": "verb",
       "rank": 256,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "убеждать"
       },
@@ -7360,6 +7756,9 @@
       "pos": "verb",
       "rank": 258,
       "level": "A2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "молиться"
       },
@@ -7526,6 +7925,9 @@
       "pos": "verb",
       "rank": 264,
       "level": "A2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "утверждать; требовать"
       },
@@ -7632,6 +8034,9 @@
       "pos": "verb",
       "rank": 268,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "наскучить"
       },
@@ -7659,6 +8064,9 @@
       "rank": 269,
       "level": "A2",
       "irregular": true,
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "звонить (о звонке); звонить по телефону"
       },
@@ -7739,6 +8147,9 @@
       "pos": "verb",
       "rank": 272,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "волновать, будоражить"
       },
@@ -7819,6 +8230,10 @@
       "rank": 275,
       "level": "A2",
       "irregular": true,
+      "rules": [
+        "en-sh-ch",
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "трясти; пожать (руку)"
       },
@@ -7871,6 +8286,9 @@
       "pos": "verb",
       "rank": 277,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "представлять (знакомить)"
       },
@@ -7898,6 +8316,9 @@
       "pos": "verb",
       "rank": 278,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "танцевать"
       },
@@ -7925,6 +8346,10 @@
       "pos": "verb",
       "rank": 280,
       "level": "A2",
+      "rules": [
+        "en-sh-ch",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "обманывать"
       },
@@ -7978,6 +8403,10 @@
       "pos": "verb",
       "rank": 282,
       "level": "A2",
+      "rules": [
+        "en-sh-ch",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "подбадривать; ликовать"
       },
@@ -8139,6 +8568,10 @@
       "pos": "verb",
       "rank": 290,
       "level": "A2",
+      "rules": [
+        "en-th",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "угрожать"
       },
@@ -8166,6 +8599,9 @@
       "pos": "verb",
       "rank": 292,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "праздновать"
       },
@@ -8194,6 +8630,9 @@
       "rank": 294,
       "level": "A2",
       "irregular": true,
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "кусать"
       },
@@ -8221,6 +8660,9 @@
       "pos": "verb",
       "rank": 295,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "касаться; беспокоить"
       },
@@ -8247,6 +8689,9 @@
       "pos": "verb",
       "rank": 298,
       "level": "A2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "красить; рисовать красками"
       },
@@ -8328,6 +8773,9 @@
       "rank": 301,
       "level": "A2",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "распространяться; намазывать"
       },
@@ -8354,6 +8802,9 @@
       "pos": "verb",
       "rank": 302,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "очищать; проясняться"
       },
@@ -8380,6 +8831,9 @@
       "pos": "verb",
       "rank": 303,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "трогать, касаться"
       },
@@ -8407,6 +8861,9 @@
       "pos": "verb",
       "rank": 305,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "заставлять"
       },
@@ -8433,6 +8890,9 @@
       "pos": "verb",
       "rank": 306,
       "level": "A2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "избегать"
       },
@@ -8571,6 +9031,9 @@
       "pos": "verb",
       "rank": 311,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "зарабатывать"
       },
@@ -8598,6 +9061,9 @@
       "pos": "verb",
       "rank": 312,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "встречаться (романтически); датировать"
       },
@@ -8678,6 +9144,9 @@
       "pos": "verb",
       "rank": 315,
       "level": "A2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "собираться; собирать"
       },
@@ -8705,6 +9174,9 @@
       "pos": "verb",
       "rank": 316,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "убирать, чистить"
       },
@@ -8760,6 +9232,9 @@
       "pos": "verb",
       "rank": 318,
       "level": "A2",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "нападать; атаковать"
       },
@@ -8787,6 +9262,9 @@
       "pos": "verb",
       "rank": 319,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "повторять"
       },
@@ -8815,6 +9293,9 @@
       "rank": 320,
       "level": "A2",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "замерзать; зависать"
       },
@@ -8875,6 +9356,10 @@
       "pos": "verb",
       "rank": 322,
       "level": "A2",
+      "rules": [
+        "en-sh-ch",
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "принимать душ"
       },
@@ -8902,6 +9387,9 @@
       "rank": 323,
       "level": "A2",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "искать"
       },
@@ -8932,6 +9420,9 @@
       "rank": 324,
       "level": "A2",
       "irregular": true,
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "класть; накрывать (lay the table)"
       },
@@ -9050,6 +9541,9 @@
       "pos": "verb",
       "rank": 328,
       "level": "A2",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "брать взаймы"
       },
@@ -9236,6 +9730,9 @@
       "pos": "verb",
       "rank": 335,
       "level": "B1",
+      "rules": [
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "взбираться"
       },
@@ -9324,6 +9821,9 @@
       "rank": 338,
       "level": "B1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "иметь дело; deal with — справляться"
       },
@@ -9350,6 +9850,9 @@
       "pos": "verb",
       "rank": 340,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "продвигаться"
       },
@@ -9404,6 +9907,9 @@
       "pos": "verb",
       "rank": 343,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "основывать"
       },
@@ -9457,6 +9963,9 @@
       "pos": "verb",
       "rank": 345,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "угождать; нравиться"
       },
@@ -9537,6 +10046,10 @@
       "pos": "verb",
       "rank": 349,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "искать"
       },
@@ -9591,6 +10104,9 @@
       "pos": "verb",
       "rank": 351,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "отменять"
       },
@@ -9707,6 +10223,9 @@
       "rank": 355,
       "level": "B1",
       "irregular": true,
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "кормить"
       },
@@ -9733,6 +10252,9 @@
       "pos": "verb",
       "rank": 357,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "производить"
       },
@@ -9813,6 +10335,9 @@
       "pos": "verb",
       "rank": 361,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "вовлекать; заниматься"
       },
@@ -9893,6 +10418,9 @@
       "pos": "verb",
       "rank": 367,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "раскрывать"
       },
@@ -9974,6 +10502,9 @@
       "pos": "verb",
       "rank": 372,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "набирать очки; забивать"
       },
@@ -10000,6 +10531,9 @@
       "pos": "verb",
       "rank": 373,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "жаловаться"
       },
@@ -10087,6 +10621,9 @@
       "pos": "verb",
       "rank": 378,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "наказывать"
       },
@@ -10114,6 +10651,9 @@
       "pos": "verb",
       "rank": 380,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "гарантировать"
       },
@@ -10299,6 +10839,9 @@
       "pos": "verb",
       "rank": 388,
       "level": "B1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "разочаровывать"
       },
@@ -10325,6 +10868,9 @@
       "pos": "verb",
       "rank": 389,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "владеть"
       },
@@ -10351,6 +10897,9 @@
       "pos": "verb",
       "rank": 390,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "вытирать"
       },
@@ -10404,6 +10953,9 @@
       "pos": "verb",
       "rank": 392,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "заменять"
       },
@@ -10536,6 +11088,10 @@
       "pos": "verb",
       "rank": 398,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "гнаться"
       },
@@ -10563,6 +11119,9 @@
       "pos": "verb",
       "rank": 399,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "выпускать (релиз); отпускать"
       },
@@ -10594,6 +11153,9 @@
       "pos": "verb",
       "rank": 400,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "делать покупки"
       },
@@ -10699,6 +11261,9 @@
       "pos": "verb",
       "rank": 405,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "тонуть"
       },
@@ -10725,6 +11290,9 @@
       "pos": "verb",
       "rank": 407,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "шутить"
       },
@@ -10779,6 +11347,9 @@
       "pos": "verb",
       "rank": 409,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "течь"
       },
@@ -10831,6 +11402,10 @@
       "pos": "verb",
       "rank": 411,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "делиться; давать доступ"
       },
@@ -10892,6 +11467,9 @@
       "pos": "verb",
       "rank": 413,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "получать, набирать"
       },
@@ -11000,6 +11578,10 @@
       "pos": "verb",
       "rank": 423,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "приближаться; подходить"
       },
@@ -11079,6 +11661,9 @@
       "pos": "verb",
       "rank": 427,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "падать (о программе); разбиться"
       },
@@ -11110,6 +11695,9 @@
       "pos": "verb",
       "rank": 429,
       "level": "B1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "нажимать (мышью)"
       },
@@ -11298,6 +11886,9 @@
       "pos": "verb",
       "rank": 439,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "содержать"
       },
@@ -11482,6 +12073,9 @@
       "pos": "verb",
       "rank": 449,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "целиться; стремиться"
       },
@@ -11666,6 +12260,10 @@
       "pos": "verb",
       "rank": 456,
       "level": "B1",
+      "rules": [
+        "en-ee-ea",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "преуспевать"
       },
@@ -11718,6 +12316,9 @@
       "pos": "verb",
       "rank": 460,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "объявлять"
       },
@@ -11824,6 +12425,9 @@
       "pos": "verb",
       "rank": 468,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "сосредоточиваться"
       },
@@ -11876,6 +12480,9 @@
       "pos": "verb",
       "rank": 473,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "грузить; загружаться"
       },
@@ -11928,6 +12535,9 @@
       "pos": "verb",
       "rank": 477,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "растягивать(ся)"
       },
@@ -11955,6 +12565,10 @@
       "rank": 478,
       "level": "B1",
       "irregular": true,
+      "rules": [
+        "en-sh-ch",
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "светить, сиять"
       },
@@ -12034,6 +12648,9 @@
       "pos": "verb",
       "rank": 484,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "достигать"
       },
@@ -12166,6 +12783,9 @@
       "pos": "verb",
       "rank": 489,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "организовывать; договариваться"
       },
@@ -12227,6 +12847,10 @@
       "pos": "verb",
       "rank": 492,
       "level": "B1",
+      "rules": [
+        "en-ee-ea",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "продолжать; переходить"
       },
@@ -12253,6 +12877,9 @@
       "pos": "verb",
       "rank": 495,
       "level": "B1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "отслеживать"
       },

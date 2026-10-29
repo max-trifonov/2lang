@@ -98,6 +98,14 @@ export interface Letter {
   name: string
   ipa?: string
   audio?: string
+  /** Как читается буква (D-48): звуки, позиции, подсказка на родном языке. */
+  sound?: Record<string, string>
+  /** Тренировка чтения на слогах и коротких словах: ba, be, bi… или cat — cake. */
+  syllables?: string[]
+  /** Слова с буквой: оригинал + перевод. */
+  examples?: LangText[]
+  /** id правил чтения, где буква читается по-особому (глобальные, как в словаре). */
+  rules?: string[]
 }
 
 export interface ReadingRule {

@@ -63,7 +63,8 @@
       "rank": 3,
       "level": "A1",
       "rules": [
-        "es-qu"
+        "es-qu",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "здесь, сюда"
@@ -91,6 +92,9 @@
       "pos": "adv",
       "rank": 4,
       "level": "A1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "больше, ещё; более"
       },
@@ -117,6 +121,9 @@
       "pos": "adv",
       "rank": 5,
       "level": "A1",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "уже; ¡ya! — сейчас, понял"
       },
@@ -198,6 +205,9 @@
       "pos": "adv",
       "rank": 8,
       "level": "A1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "так, таким образом"
       },
@@ -333,6 +343,9 @@
       "pos": "adv",
       "rank": 13,
       "level": "A1",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "много; очень"
       },
@@ -358,6 +371,9 @@
       "pos": "adv",
       "rank": 14,
       "level": "A1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "тоже, также"
       },
@@ -411,7 +427,8 @@
       "rank": 16,
       "level": "A1",
       "rules": [
-        "es-h-silent"
+        "es-h-silent",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "там (рядом с собеседником)"
@@ -488,6 +505,9 @@
       "pos": "adv",
       "rank": 19,
       "level": "A1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "после, потом"
       },
@@ -544,6 +564,10 @@
       "pos": "adv",
       "rank": 21,
       "level": "A1",
+      "rules": [
+        "es-ll-y",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "там (далеко)"
       },
@@ -699,6 +723,9 @@
       "pos": "adv",
       "rank": 27,
       "level": "A1",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "действительно"
       },
@@ -725,6 +752,9 @@
       "pos": "adv",
       "rank": 28,
       "level": "A1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "ещё, всё ещё"
       },
@@ -832,6 +862,10 @@
       "pos": "adv",
       "rank": 32,
       "level": "A1",
+      "rules": [
+        "es-b-v",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "ещё, всё ещё"
       },
@@ -860,7 +894,8 @@
       "level": "A1",
       "rules": [
         "es-z",
-        "es-qu"
+        "es-qu",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "может быть"
@@ -1073,6 +1108,9 @@
       "pos": "adv",
       "rank": 41,
       "level": "A1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "когда (в вопросе)"
       },
@@ -1124,6 +1162,10 @@
       "pos": "adv",
       "rank": 43,
       "level": "A1",
+      "rules": [
+        "es-ll-y",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "туда, там (далеко)"
       },
@@ -1149,6 +1191,9 @@
       "pos": "adv",
       "rank": 44,
       "level": "A1",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "наверху, вверх"
       },
@@ -1252,6 +1297,9 @@
       "pos": "adv",
       "rank": 48,
       "level": "A1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "назад, сзади"
       },
@@ -1382,6 +1430,9 @@
       "pos": "adv",
       "rank": 53,
       "level": "A1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "кроме того"
       },
@@ -1437,6 +1488,9 @@
       "pos": "adv",
       "rank": 55,
       "level": "A1",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "вчера вечером, прошлой ночью"
       },
@@ -1462,6 +1516,9 @@
       "pos": "adv",
       "rank": 56,
       "level": "A1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "сзади, позади"
       },
@@ -1488,6 +1545,9 @@
       "pos": "adv",
       "rank": 57,
       "level": "A1",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "вчера"
       },
@@ -1542,6 +1602,9 @@
       "pos": "adv",
       "rank": 59,
       "level": "A1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "никогда (сильнее, чем nunca)"
       },
@@ -1567,6 +1630,9 @@
       "pos": "adv",
       "rank": 60,
       "level": "A1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "куда (в вопросе)"
       },
@@ -1592,6 +1658,9 @@
       "pos": "adv",
       "rank": 61,
       "level": "A1",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "вокруг; около"
       },
@@ -1825,6 +1894,9 @@
       "pos": "adv",
       "rank": 70,
       "level": "A2",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "определённо, окончательно"
       },
@@ -1876,6 +1948,9 @@
       "pos": "adv",
       "rank": 72,
       "level": "A2",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "очевидно, конечно"
       },
@@ -2115,6 +2190,9 @@
       "pos": "adv",
       "rank": 81,
       "level": "B1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "в последнее время"
       },
@@ -2244,7 +2322,9 @@
       "rank": 86,
       "level": "B1",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-r-rr",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "только что, недавно"
@@ -2297,6 +2377,10 @@
       "pos": "adv",
       "rank": 88,
       "level": "B1",
+      "rules": [
+        "es-r-rr",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "быстро"
       },
@@ -2349,6 +2433,10 @@
       "pos": "adv",
       "rank": 90,
       "level": "B1",
+      "rules": [
+        "es-ch",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "очень много, очень сильно"
       },
@@ -2399,6 +2487,9 @@
       "pos": "adv",
       "rank": 92,
       "level": "B1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "в основном, по сути"
       },
@@ -2479,7 +2570,8 @@
       "rank": 95,
       "level": "B1",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "легко"
@@ -2534,6 +2626,9 @@
       "pos": "adv",
       "rank": 97,
       "level": "B1",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "снова, опять"
       },
@@ -2560,6 +2655,9 @@
       "pos": "adv",
       "rank": 98,
       "level": "B1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "насколько, как (книжн.)"
       },
@@ -2639,7 +2737,8 @@
       "rank": 101,
       "level": "B1",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-r-rr"
       ],
       "translations": {
         "ru": "недавно"
@@ -2661,6 +2760,9 @@
       "pos": "adv",
       "rank": 102,
       "level": "B1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "практически"
       },
@@ -2847,6 +2949,9 @@
       "pos": "adv",
       "rank": 111,
       "level": "B1",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "поистине"
       },
@@ -2907,6 +3012,9 @@
       "pos": "adv",
       "rank": 114,
       "level": "B2",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "технически"
       },
@@ -2947,6 +3055,9 @@
       "pos": "adv",
       "rank": 116,
       "level": "B2",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "невероятно"
       },
@@ -3050,6 +3161,9 @@
       "pos": "adv",
       "rank": 121,
       "level": "B2",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "правильно"
       },
@@ -3090,6 +3204,9 @@
       "pos": "adv",
       "rank": 123,
       "level": "B2",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "ужасно"
       },
@@ -3193,6 +3310,9 @@
       "pos": "adv",
       "rank": 128,
       "level": "B2",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "физически"
       },
@@ -3236,6 +3356,9 @@
       "pos": "adv",
       "rank": 130,
       "level": "B2",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "очевидно"
       },
@@ -3316,6 +3439,9 @@
       "pos": "adv",
       "rank": 134,
       "level": "B2",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "в итоге; иногда"
       },
@@ -3377,7 +3503,8 @@
       "rank": 137,
       "level": "B2",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "конкретно"
@@ -3485,6 +3612,9 @@
       "pos": "adv",
       "rank": 142,
       "level": "B2",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "только"
       },
@@ -3505,6 +3635,9 @@
       "pos": "adv",
       "rank": 143,
       "level": "B2",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "мягко"
       },
@@ -3634,6 +3767,9 @@
       "pos": "adv",
       "rank": 149,
       "level": "C1",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "действительно"
       },
@@ -3674,6 +3810,9 @@
       "pos": "adv",
       "rank": 151,
       "level": "C1",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "ранее"
       },
@@ -3774,6 +3913,9 @@
       "pos": "adv",
       "rank": 156,
       "level": "C1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "только; просто (Лат. Америка)"
       },
@@ -3837,6 +3979,9 @@
       "pos": "adv",
       "rank": 159,
       "level": "C1",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "внезапно"
       },
@@ -3877,6 +4022,9 @@
       "pos": "adv",
       "rank": 161,
       "level": "C1",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "добровольно"
       },
@@ -3918,7 +4066,8 @@
       "rank": 163,
       "level": "C1",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-ll-y"
       ],
       "translations": {
         "ru": "просто"
@@ -3941,7 +4090,8 @@
       "rank": 164,
       "level": "C1",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "едва ли"
@@ -4046,6 +4196,9 @@
       "pos": "adv",
       "rank": 169,
       "level": "C1",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "в основном"
       },
@@ -4086,6 +4239,9 @@
       "pos": "adv",
       "rank": 171,
       "level": "C1",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "тяжело"
       },
@@ -4126,6 +4282,9 @@
       "pos": "adv",
       "rank": 173,
       "level": "C1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "публично"
       },
@@ -4209,6 +4368,9 @@
       "pos": "adv",
       "rank": 177,
       "level": "C1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "автоматически"
       },
@@ -4272,6 +4434,9 @@
       "pos": "adv",
       "rank": 180,
       "level": "C1",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "регулярно"
       },
@@ -4352,6 +4517,10 @@
       "pos": "adv",
       "rank": 184,
       "level": "C1",
+      "rules": [
+        "es-r-rr",
+        "es-b-v"
+      ],
       "translations": {
         "ru": "относительно"
       },
@@ -4372,6 +4541,9 @@
       "pos": "adv",
       "rank": 185,
       "level": "C1",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "включительно; даже"
       },
@@ -4392,6 +4564,10 @@
       "pos": "adv",
       "rank": 186,
       "level": "C1",
+      "rules": [
+        "es-ll-y",
+        "es-b-v"
+      ],
       "translations": {
         "ru": "чудесно"
       },
@@ -4538,6 +4714,9 @@
       "pos": "adv",
       "rank": 194,
       "level": "C1",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "редко"
       },
@@ -4598,6 +4777,9 @@
       "pos": "adv",
       "rank": 198,
       "level": "C1",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "исключительно"
       },
@@ -4638,6 +4820,9 @@
       "pos": "adv",
       "rank": 200,
       "level": "C1",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "кратко"
       },
@@ -4703,6 +4888,9 @@
       "pos": "adv",
       "rank": 203,
       "level": "A2",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "позавчера"
       },
@@ -4892,6 +5080,9 @@
       "pos": "adv",
       "rank": 215,
       "level": "B2",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "активно"
       },
@@ -5066,6 +5257,9 @@
       "pos": "adv",
       "rank": 223,
       "level": "B1",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "удобно"
       },
@@ -5261,6 +5455,9 @@
       "pos": "adv",
       "rank": 232,
       "level": "B2",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "драматично"
       },
@@ -5352,7 +5549,8 @@
       "rank": 236,
       "level": "B2",
       "rules": [
-        "es-g-before-e-i"
+        "es-g-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "энергично"
@@ -5397,7 +5595,8 @@
       "rank": 238,
       "level": "B2",
       "rules": [
-        "es-qu"
+        "es-qu",
+        "es-b-v"
       ],
       "translations": {
         "ru": "ошибочно"
@@ -5421,7 +5620,8 @@
       "rank": 239,
       "level": "B2",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-b-v"
       ],
       "translations": {
         "ru": "чрезмерно"
@@ -5529,7 +5729,8 @@
       "rank": 244,
       "level": "B2",
       "rules": [
-        "es-h-silent"
+        "es-h-silent",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "ловко"
@@ -5619,7 +5820,8 @@
       "rank": 248,
       "level": "B2",
       "rules": [
-        "es-g-before-e-i"
+        "es-g-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "логично"
@@ -5663,6 +5865,9 @@
       "pos": "adv",
       "rank": 250,
       "level": "B2",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "нервно"
       },
@@ -5753,6 +5958,9 @@
       "pos": "adv",
       "rank": 254,
       "level": "B2",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "пассивно"
       },
@@ -5795,6 +6003,9 @@
       "pos": "adv",
       "rank": 256,
       "level": "B2",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "положительно"
       },
@@ -5838,7 +6049,8 @@
       "rank": 258,
       "level": "B2",
       "rules": [
-        "es-z"
+        "es-z",
+        "es-r-rr"
       ],
       "translations": {
         "ru": "разумно"
@@ -5861,6 +6073,9 @@
       "pos": "adv",
       "rank": 259,
       "level": "B2",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "неоднократно"
       },
@@ -5882,6 +6097,10 @@
       "pos": "adv",
       "rank": 260,
       "level": "B2",
+      "rules": [
+        "es-r-rr",
+        "es-b-v"
+      ],
       "translations": {
         "ru": "соответственно"
       },
@@ -5903,6 +6122,10 @@
       "pos": "adv",
       "rank": 261,
       "level": "B2",
+      "rules": [
+        "es-r-rr",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "нелепо"
       },
@@ -5948,6 +6171,9 @@
       "pos": "adv",
       "rank": 263,
       "level": "B2",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "робко"
       },
@@ -5993,6 +6219,9 @@
       "pos": "adv",
       "rank": 265,
       "level": "B2",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "как правило"
       },
@@ -6014,6 +6243,9 @@
       "pos": "adv",
       "rank": 266,
       "level": "B2",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "смутно"
       },
@@ -6035,6 +6267,9 @@
       "pos": "adv",
       "rank": 267,
       "level": "B2",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "живо"
       },

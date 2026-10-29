@@ -110,6 +110,10 @@ function setLang(l: string): void {
         </UiChip>
       </div>
 
+      <RouterLink :to="{ path: '/alphabet', query: { lang } }" class="rules__alphabet">{{
+        t('alphabet.open')
+      }}</RouterLink>
+
       <UiEmptyState
         v-if="failed"
         variant="error"
@@ -172,6 +176,17 @@ function setLang(l: string): void {
   grid-auto-flow: column;
   gap: 8px;
   margin-bottom: var(--size-gutter);
+}
+
+.rules__alphabet {
+  display: block;
+  margin-bottom: var(--size-gutter);
+  padding: 12px 14px;
+  border-radius: var(--radius-md);
+  background: var(--tint-soft);
+  color: var(--tint-ink);
+  font-weight: 650;
+  text-decoration: none;
 }
 
 .rules__skeleton {

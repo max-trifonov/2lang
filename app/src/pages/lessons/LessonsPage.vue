@@ -305,28 +305,33 @@ const score = (item: { lesson: { id: string } }) => {
             </li>
           </ol>
         </template>
-        <ol v-else-if="inSound" class="path__list">
-          <li
-            v-for="(l, i) in sounds"
-            :key="l.id"
-            class="node"
-            :class="progress.get(l.id) ? 'node--done' : 'node--open'"
-          >
-            <button type="button" class="node__row" @click="router.push(`/sounds/${l.id}`)">
-              <span class="node__dot" aria-hidden="true">
-                <IonIcon v-if="progress.get(l.id)" :icon="checkmark" />
-                <template v-else>{{ i + 1 }}</template>
-              </span>
-              <span class="node__text">
-                <strong>{{ title(l.title) }}</strong>
-                <span class="node__meta">
-                  {{ l.code }} ·
-                  {{ t(progress.get(l.id) ? 'path.status.done' : 'path.status.open') }}
+        <template v-else-if="inSound">
+          <RouterLink :to="{ path: '/alphabet', query: { lang } }" class="path__alphabet">{{
+            t('alphabet.open')
+          }}</RouterLink>
+          <ol class="path__list">
+            <li
+              v-for="(l, i) in sounds"
+              :key="l.id"
+              class="node"
+              :class="progress.get(l.id) ? 'node--done' : 'node--open'"
+            >
+              <button type="button" class="node__row" @click="router.push(`/sounds/${l.id}`)">
+                <span class="node__dot" aria-hidden="true">
+                  <IonIcon v-if="progress.get(l.id)" :icon="checkmark" />
+                  <template v-else>{{ i + 1 }}</template>
                 </span>
-              </span>
-            </button>
-          </li>
-        </ol>
+                <span class="node__text">
+                  <strong>{{ title(l.title) }}</strong>
+                  <span class="node__meta">
+                    {{ l.code }} ·
+                    {{ t(progress.get(l.id) ? 'path.status.done' : 'path.status.open') }}
+                  </span>
+                </span>
+              </button>
+            </li>
+          </ol>
+        </template>
         <ol v-else class="path__list">
           <li
             v-for="node in shown"
@@ -589,5 +594,16 @@ const score = (item: { lesson: { id: string } }) => {
   background: var(--tint);
   color: var(--on-tint);
   font-weight: 650;
+}
+
+.path__alphabet {
+  display: block;
+  margin-bottom: var(--size-gutter);
+  padding: 12px 14px;
+  border-radius: var(--radius-md);
+  background: var(--tint-soft);
+  color: var(--tint-ink);
+  font-weight: 650;
+  text-decoration: none;
 }
 </style>

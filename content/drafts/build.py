@@ -1,6 +1,6 @@
 # Сборка словаря из партий ИИ-черновика (LNG-S1-013, LNG-S1-018): каркас content/frequency +
 # модули batch-*/<lang>_<pos>.py → content/dictionary/<lang>.<list>.json. Ранг, род и id — из
-# каркаса; правильные формы ES — по правилам; rules ES — по написанию; пары — при наличии второй
+# каркаса; правильные формы ES — по правилам; rules — по написанию (content/drafts/sound/reading.py); пары — при наличии второй
 # статьи. По умолчанию — слияние (D-1 LNG-S1-018): статья, уже лежащая в словаре, — источник
 # истины после выверки автора и не меняется; добавляются только новые. --rebuild — пересборка
 # всего словаря из черновиков (сотрёт выверку).
@@ -8,6 +8,8 @@ import csv, glob, importlib.util, json, os, re, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
+sys.path.insert(0, os.path.join(HERE, 'sound'))
+import reading  # noqa: E402
 ROOT = os.path.abspath(os.path.join(HERE, '..'))
 LISTS = {'verb': 'verbs', 'noun': 'nouns', 'adj': 'adjectives', 'adv': 'adverbs'}
 SRC = 'Черновик ИИ (D-25) на частотном каркасе wordhoard v0.1.0 (CC BY-SA 4.0, D-24): https://github.com/natema/wordhoard; см. content/frequency/NOTICE.md'
@@ -51,16 +53,6 @@ def es_adj(adj):
     pl = es_plural(adj)
     return {'f': adj, 'pl': pl, 'fpl': pl}
 
-def es_rules(lemma):
-    r = []
-    if 'ñ' in lemma: r.append('es-n-tilde')
-    if re.search(r'c[eiéí]', lemma): r.append('es-c-before-e-i')
-    if 'z' in lemma: r.append('es-z')
-    if 'qu' in lemma: r.append('es-qu')
-    if re.search(r'g[eiéí]', lemma) or 'gü' in lemma: r.append('es-g-before-e-i')
-    if re.search(r'(^|[^c])h', lemma): r.append('es-h-silent')
-    return r
-
 # --- сборка ------------------------------------------------------------------------------
 PRIORITY = ['verb', 'noun', 'adj', 'adv']
 
@@ -82,9 +74,8 @@ def build_entry(lang, pos, lemma, sk, d, wid):
     if d.get('irr'): e['irregular'] = True
     if lang == 'es' and pos == 'noun': e['gender'] = sk['gender']
     if d.get('ipa'): e['ipa'] = d['ipa']
-    if lang == 'es':
-        rules = es_rules(lemma)
-        if rules: e['rules'] = rules
+    rules = reading.rules_for(lang, lemma)
+    if rules: e['rules'] = rules
     e['translations'] = {'ru': d['tr'], **d.get('trx', {})}
     forms = {}
     if lang == 'es' and pos == 'verb': forms = es_regular(lemma)

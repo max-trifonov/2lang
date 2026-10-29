@@ -586,5 +586,17 @@
     "next": "Text to study",
     "fit": "Uses rules you know",
     "progress": "Texts studied: {done} of {total}"
+  },
+  "alphabet": {
+    "title": "Alphabet and reading",
+    "open": "Alphabet and reading rules →",
+    "hint": "Tap a letter to see how it is read, syllables to practise and words.",
+    "letters": "Letters",
+    "empty": "No alphabet for this language yet",
+    "syllables": "Syllables to practise",
+    "words": "Words",
+    "letterRules": "Rules with this letter",
+    "rules": "Reading rules",
+    "practice": "Lesson →"
   }
 }

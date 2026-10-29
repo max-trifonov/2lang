@@ -1,0 +1,121 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-sound-05",
+  "lang": "en",
+  "kind": "sound",
+  "code": "EN-P5",
+  "order": 5,
+  "level": "A2",
+  "requires": [
+    "en-sound-01"
+  ],
+  "title": {
+    "ru": "Окончания -s и -ed",
+    "en": "Endings -s and -ed",
+    "es": "Terminaciones -s y -ed"
+  },
+  "rules": [
+    {
+      "id": "en-s-endings",
+      "title": {
+        "ru": "-s: [s], [z] или [ɪz]",
+        "en": "-s: [s], [z] or [ɪz]",
+        "es": "-s: [s], [z] o [ɪz]"
+      },
+      "text": {
+        "ru": "Окончание -s (множественное число, he works, притяжательное 's) читается по предыдущему звуку. После глухих (p, t, k, f, θ) — [s]: cats, works. После звонких и гласных — [z]: dogs, plays, Tom's. После шипящих и свистящих (s, z, sh, ch, x, ge) — [ɪz]: boxes, watches, pages.",
+        "en": "-s is [s] after voiceless sounds (cats), [z] after voiced sounds and vowels (dogs, plays), [ɪz] after s, z, sh, ch, x, ge (boxes, pages)."
+      },
+      "ipa": "s / z / ɪz",
+      "examples": [
+        {
+          "en": "cats",
+          "ru": "кошки"
+        },
+        {
+          "en": "dogs",
+          "ru": "собаки"
+        },
+        {
+          "en": "boxes",
+          "ru": "коробки"
+        },
+        {
+          "en": "watches",
+          "ru": "часы"
+        }
+      ]
+    },
+    {
+      "id": "en-ed-endings",
+      "title": {
+        "ru": "-ed: [t], [d] или [ɪd]",
+        "en": "-ed: [t], [d] or [ɪd]",
+        "es": "-ed: [t], [d] o [ɪd]"
+      },
+      "text": {
+        "ru": "Окончание -ed (Past Simple, EN-19) читается тоже по предыдущему звуку. После глухих (p, k, f, s, sh, ch) — [t]: worked, stopped. После звонких и гласных — [d]: played, called. После t и d — отдельный слог [ɪd]: wanted, needed. Лишнего слога не добавляйте: worked — [wɜːkt], а не «воркед».",
+        "en": "-ed is [t] after voiceless sounds (worked), [d] after voiced ones (played), [ɪd] after t and d (wanted). Never add an extra syllable: worked is [wɜːkt]."
+      },
+      "ipa": "t / d / ɪd",
+      "examples": [
+        {
+          "en": "worked",
+          "ru": "работал"
+        },
+        {
+          "en": "played",
+          "ru": "играл"
+        },
+        {
+          "en": "wanted",
+          "ru": "хотел"
+        },
+        {
+          "en": "needed",
+          "ru": "нуждался"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "read",
+      "items": [
+        "cats",
+        "dogs",
+        "boxes",
+        "worked",
+        "played",
+        "wanted",
+        "watches"
+      ]
+    },
+    {
+      "type": "pairs",
+      "items": [
+        [
+          "play",
+          "played"
+        ],
+        [
+          "want",
+          "wanted"
+        ],
+        [
+          "cat",
+          "cats"
+        ]
+      ]
+    },
+    {
+      "type": "dictation",
+      "items": [
+        "stopped",
+        "pages",
+        "called"
+      ]
+    }
+  ]
+}

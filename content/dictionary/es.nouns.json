@@ -13,7 +13,8 @@
       "level": "A1",
       "gender": "f",
       "rules": [
-        "es-z"
+        "es-z",
+        "es-b-v"
       ],
       "translations": {
         "ru": "раз"
@@ -106,6 +107,9 @@
       "rank": 4,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "день"
       },
@@ -199,6 +203,9 @@
       "rank": 7,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "правда"
       },
@@ -328,6 +335,9 @@
       "rank": 11,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "одолжение; por favor — пожалуйста"
       },
@@ -357,6 +367,9 @@
       "rank": 12,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "ночь, вечер"
       },
@@ -387,6 +400,9 @@
       "rank": 13,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "жизнь"
       },
@@ -915,6 +931,9 @@
       "rank": 30,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "мама"
       },
@@ -975,6 +994,9 @@
       "rank": 32,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "папа"
       },
@@ -1072,7 +1094,9 @@
       "level": "A1",
       "gender": "f",
       "rules": [
-        "es-z"
+        "es-z",
+        "es-r-rr",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "причина; tener razón — быть правым"
@@ -1135,7 +1159,8 @@
       "level": "A1",
       "gender": "mf",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "полиция; полицейский"
@@ -1353,6 +1378,9 @@
       "rank": 44,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "парень, мальчик"
       },
@@ -1662,6 +1690,9 @@
       "rank": 54,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "помощь"
       },
@@ -1722,6 +1753,9 @@
       "rank": 56,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "дядя; чувак (разг., Испания)"
       },
@@ -1942,7 +1976,8 @@
       "level": "A1",
       "gender": "m",
       "rules": [
-        "es-z"
+        "es-z",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "сердце"
@@ -2185,6 +2220,9 @@
       "rank": 71,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "реальность, действительность"
       },
@@ -2277,6 +2315,9 @@
       "rank": 74,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "машина, автомобиль (Испания)"
       },
@@ -2397,6 +2438,9 @@
       "rank": 78,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "возвращение; круг; сдача"
       },
@@ -2426,6 +2470,9 @@
       "rank": 79,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "земля"
       },
@@ -2486,6 +2533,9 @@
       "rank": 81,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "номер; число"
       },
@@ -2546,6 +2596,9 @@
       "rank": 83,
       "level": "A1",
       "gender": "mf",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "молодой человек, юноша, девушка"
       },
@@ -2668,6 +2721,9 @@
       "rank": 87,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "война"
       },
@@ -2728,6 +2784,9 @@
       "rank": 89,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "телефон"
       },
@@ -2758,6 +2817,9 @@
       "rank": 90,
       "level": "A1",
       "gender": "mf",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "младенец, малыш"
       },
@@ -2851,6 +2913,9 @@
       "rank": 93,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "парень, юноша"
       },
@@ -2942,7 +3007,8 @@
       "gender": "f",
       "rules": [
         "es-c-before-e-i",
-        "es-h-silent"
+        "es-h-silent",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "комната; номер (в отеле)"
@@ -3119,6 +3185,9 @@
       "rank": 102,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "капитан"
       },
@@ -3193,6 +3262,9 @@
       "rank": 105,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "девушка"
       },
@@ -3320,6 +3392,9 @@
       "rank": 110,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "собака"
       },
@@ -3344,6 +3419,9 @@
       "rank": 111,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "фильм"
       },
@@ -3369,6 +3447,10 @@
       "rank": 112,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-ll-y",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "миллион"
       },
@@ -3393,6 +3475,9 @@
       "rank": 113,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "доллар"
       },
@@ -3446,6 +3531,9 @@
       "rank": 115,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "улица"
       },
@@ -3704,6 +3792,9 @@
       "rank": 125,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "страна"
       },
@@ -3754,6 +3845,9 @@
       "rank": 127,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "король"
       },
@@ -3955,6 +4049,9 @@
       "rank": 135,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "остаток; остальное"
       },
@@ -3979,6 +4076,9 @@
       "rank": 136,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "поездка, путешествие"
       },
@@ -4081,6 +4181,9 @@
       "rank": 140,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "музыка"
       },
@@ -4102,6 +4205,9 @@
       "rank": 141,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "прощение; простите"
       },
@@ -4126,6 +4232,9 @@
       "rank": 142,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "ошибка"
       },
@@ -4182,7 +4291,9 @@
       "level": "A1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-r-rr",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "отношение; связь"
@@ -4209,6 +4320,9 @@
       "rank": 147,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "одежда"
       },
@@ -4231,6 +4345,9 @@
       "rank": 148,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "кофе; кафе"
       },
@@ -4415,7 +4532,8 @@
       "level": "A1",
       "gender": "f",
       "rules": [
-        "es-z"
+        "es-z",
+        "es-b-v"
       ],
       "translations": {
         "ru": "голос"
@@ -4443,7 +4561,8 @@
       "level": "A1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "информация"
@@ -4523,6 +4642,9 @@
       "rank": 160,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "ответ"
       },
@@ -4704,6 +4826,9 @@
       "rank": 168,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "линия"
       },
@@ -4803,7 +4928,8 @@
       "level": "A1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "внимание"
@@ -4856,7 +4982,8 @@
       "level": "A1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "песня"
@@ -4883,6 +5010,9 @@
       "rank": 175,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "девушка (подруга); невеста"
       },
@@ -4907,6 +5037,10 @@
       "rank": 176,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-ll-y",
+        "es-b-v"
+      ],
       "translations": {
         "ru": "ключ"
       },
@@ -4933,7 +5067,8 @@
       "level": "A1",
       "gender": "m",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-b-v"
       ],
       "translations": {
         "ru": "услуга, обслуживание"
@@ -5035,6 +5170,9 @@
       "rank": 181,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "лошадь"
       },
@@ -5060,6 +5198,9 @@
       "rank": 182,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "камера; фотоаппарат"
       },
@@ -5111,7 +5252,8 @@
       "level": "A1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "решение"
@@ -5163,6 +5305,10 @@
       "rank": 186,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-b-v",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "жертва"
       },
@@ -5189,7 +5335,8 @@
       "level": "A1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "ситуация"
@@ -5216,6 +5363,9 @@
       "rank": 188,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "звезда"
       },
@@ -5266,6 +5416,9 @@
       "rank": 190,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "подарок"
       },
@@ -5399,7 +5552,8 @@
       "level": "A1",
       "gender": "f",
       "rules": [
-        "es-n-tilde"
+        "es-n-tilde",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "компания; общество"
@@ -5502,6 +5656,9 @@
       "rank": 200,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "куча"
       },
@@ -5554,6 +5711,9 @@
       "rank": 202,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "карьера; бег; гонка"
       },
@@ -5579,6 +5739,10 @@
       "rank": 203,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-r-rr",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "встреча, совещание"
       },
@@ -5634,6 +5798,9 @@
       "rank": 205,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "парень (друг); жених"
       },
@@ -5819,7 +5986,8 @@
       "level": "A1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "адрес; направление"
@@ -5870,6 +6038,10 @@
       "rank": 214,
       "level": "A1",
       "gender": "m",
+      "rules": [
+        "es-b-v",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "самолёт"
       },
@@ -6177,6 +6349,9 @@
       "rank": 229,
       "level": "A1",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "корабль (космический); зал"
       },
@@ -6352,6 +6527,9 @@
       "rank": 237,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "университет"
       },
@@ -6378,7 +6556,9 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-b-v",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "исследование"
@@ -6481,7 +6661,8 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "действие; акция"
@@ -6589,6 +6770,9 @@
       "rank": 247,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "окно"
       },
@@ -6640,7 +6824,8 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "тюрьма"
@@ -6740,6 +6925,9 @@
       "rank": 253,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "Рождество"
       },
@@ -6868,7 +7056,8 @@
       "level": "A2",
       "gender": "m",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "армия"
@@ -6920,6 +7109,9 @@
       "rank": 261,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "правило; линейка"
       },
@@ -7174,7 +7366,8 @@
       "gender": "f",
       "rules": [
         "es-c-before-e-i",
-        "es-z"
+        "es-z",
+        "es-b-v"
       ],
       "translations": {
         "ru": "пиво"
@@ -7499,7 +7692,8 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "вариант"
@@ -7550,6 +7744,9 @@
       "rank": 292,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "миссия, задача"
       },
@@ -7622,6 +7819,9 @@
       "rank": 295,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "мнение"
       },
@@ -7648,7 +7848,8 @@
       "level": "A2",
       "gender": "m",
       "rules": [
-        "es-g-before-e-i"
+        "es-g-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "ангел"
@@ -7823,6 +8024,9 @@
       "rank": 304,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "холод"
       },
@@ -7947,6 +8151,9 @@
       "rank": 309,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "дерево"
       },
@@ -8021,6 +8228,10 @@
       "rank": 312,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-ll-y",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "большинство"
       },
@@ -8046,7 +8257,8 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-g-before-e-i"
+        "es-g-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "энергия"
@@ -8096,7 +8308,8 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "позиция; должность"
@@ -8122,6 +8335,9 @@
       "rank": 316,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "пламя; лама"
       },
@@ -8194,6 +8410,9 @@
       "rank": 319,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "уровень"
       },
@@ -8301,6 +8520,9 @@
       "rank": 324,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "результат"
       },
@@ -8378,6 +8600,9 @@
       "rank": 328,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "королева"
       },
@@ -8428,7 +8653,8 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-qu"
+        "es-qu",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "машина, аппарат"
@@ -8609,7 +8835,8 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "вокзал, станция; время года"
@@ -8736,6 +8963,9 @@
       "rank": 344,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "визит; гость"
       },
@@ -8760,6 +8990,9 @@
       "rank": 345,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "причина, повод"
       },
@@ -8785,7 +9018,8 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "операция"
@@ -8860,6 +9094,9 @@
       "rank": 352,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "движение"
       },
@@ -8910,6 +9147,9 @@
       "rank": 354,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "успех"
       },
@@ -9039,6 +9279,9 @@
       "rank": 359,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "радио"
       },
@@ -9113,6 +9356,9 @@
       "rank": 362,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "ценность; значение; смелость"
       },
@@ -9138,6 +9384,9 @@
       "rank": 363,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "чай"
       },
@@ -9185,6 +9434,9 @@
       "rank": 365,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "цель"
       },
@@ -9211,7 +9463,8 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "выбор; выборы"
@@ -9336,6 +9589,9 @@
       "rank": 372,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "вопрос, проблема"
       },
@@ -9384,6 +9640,10 @@
       "rank": 374,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-r-rr",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "река"
       },
@@ -9409,6 +9669,9 @@
       "rank": 376,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "возвращение"
       },
@@ -9434,7 +9697,8 @@
       "level": "A2",
       "gender": "m",
       "rules": [
-        "es-h-silent"
+        "es-h-silent",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "герой"
@@ -9511,7 +9775,8 @@
       "level": "A2",
       "gender": "m",
       "rules": [
-        "es-h-silent"
+        "es-h-silent",
+        "es-b-v"
       ],
       "translations": {
         "ru": "яйцо"
@@ -9538,6 +9803,9 @@
       "rank": 381,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "дух"
       },
@@ -9562,6 +9830,9 @@
       "rank": 382,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "рейс, полёт"
       },
@@ -9642,6 +9913,9 @@
       "rank": 385,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "английский (язык); англичанин"
       },
@@ -9666,6 +9940,9 @@
       "rank": 386,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "деталь"
       },
@@ -9691,6 +9968,9 @@
       "rank": 388,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "ход; марш; отправление"
       },
@@ -9765,6 +10045,9 @@
       "rank": 392,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "битва"
       },
@@ -9860,6 +10143,9 @@
       "rank": 398,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "риск"
       },
@@ -9936,7 +10222,9 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-b-v",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "разговор"
@@ -10012,6 +10300,9 @@
       "rank": 404,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "грузовик"
       },
@@ -10140,6 +10431,9 @@
       "rank": 411,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "лето"
       },
@@ -10165,6 +10459,9 @@
       "rank": 412,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "кольцо"
       },
@@ -10215,6 +10512,9 @@
       "rank": 416,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "шея; воротник"
       },
@@ -10289,6 +10589,9 @@
       "rank": 420,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "брюки"
       },
@@ -10313,6 +10616,9 @@
       "rank": 421,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "бутылка"
       },
@@ -10338,6 +10644,9 @@
       "rank": 422,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "ресторан"
       },
@@ -10412,6 +10721,9 @@
       "rank": 426,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "давление"
       },
@@ -10437,6 +10749,9 @@
       "rank": 427,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "сеть"
       },
@@ -10486,6 +10801,9 @@
       "rank": 429,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "шум"
       },
@@ -10538,6 +10856,9 @@
       "rank": 431,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "стул"
       },
@@ -10616,6 +10937,9 @@
       "rank": 435,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "код"
       },
@@ -10724,7 +11048,8 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "условие; состояние"
@@ -10751,6 +11076,9 @@
       "rank": 441,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "интерес; процент"
       },
@@ -10798,6 +11126,9 @@
       "rank": 443,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "проект"
       },
@@ -10828,6 +11159,9 @@
       "rank": 444,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "часы"
       },
@@ -10905,7 +11239,8 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "намерение"
@@ -10932,6 +11267,9 @@
       "rank": 448,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "цель, намерение"
       },
@@ -10958,7 +11296,8 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-b-v"
       ],
       "translations": {
         "ru": "отпуск, каникулы"
@@ -11032,6 +11371,9 @@
       "rank": 453,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "борьба"
       },
@@ -11057,6 +11399,10 @@
       "rank": 454,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-ch",
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "нож"
       },
@@ -11082,6 +11428,9 @@
       "rank": 455,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "победа"
       },
@@ -11107,6 +11456,9 @@
       "rank": 456,
       "level": "A2",
       "gender": "mf",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "лидер"
       },
@@ -11238,6 +11590,9 @@
       "rank": 462,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "ветер"
       },
@@ -11263,6 +11618,9 @@
       "rank": 463,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "молоко"
       },
@@ -11312,6 +11670,9 @@
       "rank": 465,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "область; район"
       },
@@ -11442,7 +11803,8 @@
       "level": "A2",
       "gender": "m",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "принц"
@@ -11601,6 +11963,9 @@
       "rank": 479,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "волосы"
       },
@@ -11650,6 +12015,9 @@
       "rank": 481,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "пляж"
       },
@@ -11727,6 +12095,9 @@
       "rank": 484,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "грудь"
       },
@@ -11803,6 +12174,9 @@
       "rank": 488,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "автобус"
       },
@@ -11956,6 +12330,9 @@
       "rank": 494,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "голос (на выборах); обет"
       },
@@ -12079,7 +12456,8 @@
       "level": "A2",
       "gender": "m",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-b-v"
       ],
       "translations": {
         "ru": "сосед"
@@ -12105,6 +12483,10 @@
       "rank": 500,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-b-v",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "телевидение; телевизор"
       },
@@ -12203,6 +12585,9 @@
       "rank": 504,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "видео"
       },
@@ -12228,7 +12613,8 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-b-v"
       ],
       "translations": {
         "ru": "скорость"
@@ -12406,6 +12792,9 @@
       "rank": 514,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "шоу"
       },
@@ -12430,6 +12819,9 @@
       "rank": 515,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "эпоха; время"
       },
@@ -12454,6 +12846,9 @@
       "rank": 516,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "ответственность"
       },
@@ -12651,6 +13046,9 @@
       "rank": 526,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "вселенная"
       },
@@ -12676,6 +13074,9 @@
       "rank": 528,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "курица"
       },
@@ -12725,6 +13126,9 @@
       "rank": 530,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "сад"
       },
@@ -12774,6 +13178,9 @@
       "rank": 532,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "поддержка"
       },
@@ -12823,6 +13230,9 @@
       "rank": 534,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "теория"
       },
@@ -13055,7 +13465,8 @@
       "gender": "f",
       "rules": [
         "es-z",
-        "es-g-before-e-i"
+        "es-g-before-e-i",
+        "es-b-v"
       ],
       "translations": {
         "ru": "стыд"
@@ -13106,7 +13517,8 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "заявление; декларация"
@@ -13133,6 +13545,9 @@
       "rank": 549,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "птица"
       },
@@ -13158,6 +13573,9 @@
       "rank": 550,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "шоссе"
       },
@@ -13183,7 +13601,8 @@
       "level": "A2",
       "gender": "f",
       "rules": [
-        "es-g-before-e-i"
+        "es-g-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "страница"
@@ -13234,6 +13653,9 @@
       "rank": 553,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "пятница"
       },
@@ -13259,7 +13681,8 @@
       "level": "A2",
       "gender": "m",
       "rules": [
-        "es-h-silent"
+        "es-h-silent",
+        "es-ch"
       ],
       "translations": {
         "ru": "факт"
@@ -13412,6 +13835,9 @@
       "rank": 562,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "продажа"
       },
@@ -13437,6 +13863,9 @@
       "rank": 563,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "статья; товар"
       },
@@ -13511,6 +13940,9 @@
       "rank": 566,
       "level": "A2",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "потеря"
       },
@@ -13536,6 +13968,9 @@
       "rank": 567,
       "level": "A2",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "километр"
       },
@@ -13688,6 +14123,9 @@
       "rank": 573,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "предел, лимит"
       },
@@ -13761,6 +14199,9 @@
       "rank": 578,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "соединение; пересадка"
       },
@@ -13888,6 +14329,9 @@
       "rank": 583,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "интервью; собеседование"
       },
@@ -13913,6 +14357,10 @@
       "rank": 584,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-b-v",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "зрение; видение"
       },
@@ -14019,6 +14467,9 @@
       "rank": 591,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "карман"
       },
@@ -14251,6 +14702,9 @@
       "rank": 600,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "приключение"
       },
@@ -14301,7 +14755,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "урок"
@@ -14328,6 +14783,9 @@
       "rank": 605,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "почта; письмо (e-mail)"
       },
@@ -14410,6 +14868,9 @@
       "rank": 608,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "жаль"
       },
@@ -14458,6 +14919,9 @@
       "rank": 610,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "машина (Лат. Америка)"
       },
@@ -14507,6 +14971,9 @@
       "rank": 613,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "воспоминание; сувенир"
       },
@@ -14582,6 +15049,9 @@
       "rank": 617,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "воля"
       },
@@ -14632,7 +15102,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "ощущение"
@@ -14658,6 +15129,9 @@
       "rank": 620,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "завтрак"
       },
@@ -14683,6 +15157,9 @@
       "rank": 621,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "кредит"
       },
@@ -14708,6 +15185,9 @@
       "rank": 622,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "пыль; порошок"
       },
@@ -14730,6 +15210,9 @@
       "rank": 623,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "случай, возможность"
       },
@@ -14781,6 +15264,9 @@
       "rank": 625,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "дата"
       },
@@ -14866,6 +15352,10 @@
       "rank": 628,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-r-rr",
+        "es-b-v"
+      ],
       "translations": {
         "ru": "журнал"
       },
@@ -14945,6 +15435,9 @@
       "rank": 632,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "шоколад"
       },
@@ -15021,6 +15514,10 @@
       "rank": 636,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-b-v",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "мобильный телефон"
       },
@@ -15147,7 +15644,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "волнение; эмоция"
@@ -15198,6 +15696,9 @@
       "rank": 644,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "кошмар"
       },
@@ -15222,6 +15723,9 @@
       "rank": 645,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "стакан"
       },
@@ -15247,6 +15751,9 @@
       "rank": 646,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "потолок; крыша"
       },
@@ -15325,6 +15832,10 @@
       "rank": 649,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-ll-y",
+        "es-b-v"
+      ],
       "translations": {
         "ru": "дождь"
       },
@@ -15420,6 +15931,9 @@
       "rank": 654,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "фотография"
       },
@@ -15469,6 +15983,10 @@
       "rank": 656,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-ll-y",
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "колено"
       },
@@ -15518,6 +16036,9 @@
       "rank": 658,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "право; правая сторона"
       },
@@ -15542,6 +16063,9 @@
       "rank": 659,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "футбол"
       },
@@ -15611,6 +16135,9 @@
       "rank": 662,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "зал; гостиная"
       },
@@ -15684,7 +16211,8 @@
       "level": "B1",
       "gender": "m",
       "rules": [
-        "es-qu"
+        "es-qu",
+        "es-ch"
       ],
       "translations": {
         "ru": "чек"
@@ -15710,6 +16238,9 @@
       "rank": 667,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "путаница, беспорядок"
       },
@@ -15763,7 +16294,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "защита"
@@ -15787,6 +16319,9 @@
       "rank": 672,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "ток; течение"
       },
@@ -15812,7 +16347,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-z"
+        "es-z",
+        "es-b-v"
       ],
       "translations": {
         "ru": "месть"
@@ -15863,6 +16399,10 @@
       "rank": 675,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-b-v",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "развлечение"
       },
@@ -15912,6 +16452,9 @@
       "rank": 677,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "снег"
       },
@@ -15959,7 +16502,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "решение"
@@ -15985,6 +16529,9 @@
       "rank": 680,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "врач"
       },
@@ -16034,6 +16581,9 @@
       "rank": 682,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "район"
       },
@@ -16086,6 +16636,9 @@
       "rank": 685,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "миля"
       },
@@ -16212,7 +16765,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-g-before-e-i"
+        "es-g-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "технология"
@@ -16239,6 +16793,9 @@
       "rank": 696,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "смех"
       },
@@ -16470,6 +17027,9 @@
       "rank": 706,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "мероприятие"
       },
@@ -16645,7 +17205,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "нация"
@@ -16672,6 +17233,9 @@
       "rank": 720,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "радость"
       },
@@ -16694,6 +17258,9 @@
       "rank": 722,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "улыбка"
       },
@@ -16768,6 +17335,9 @@
       "rank": 726,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "билет"
       },
@@ -16801,6 +17371,9 @@
       "rank": 727,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "фабрика"
       },
@@ -16875,6 +17448,9 @@
       "rank": 732,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "взрыв"
       },
@@ -16899,6 +17475,9 @@
       "rank": 733,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "желудок, живот"
       },
@@ -16952,6 +17531,9 @@
       "rank": 735,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "преимущество"
       },
@@ -17031,7 +17613,9 @@
       "level": "B1",
       "gender": "m",
       "rules": [
-        "es-h-silent"
+        "es-h-silent",
+        "es-b-v",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "транспортное средство"
@@ -17083,7 +17667,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-b-v"
       ],
       "translations": {
         "ru": "насилие"
@@ -17107,6 +17692,9 @@
       "rank": 743,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "ритм, темп"
       },
@@ -17186,6 +17774,10 @@
       "rank": 747,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-ch",
+        "es-b-v"
+      ],
       "translations": {
         "ru": "файл; архив"
       },
@@ -17241,7 +17833,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-qu"
+        "es-qu",
+        "es-ch"
       ],
       "translations": {
         "ru": "куртка"
@@ -17345,6 +17938,9 @@
       "rank": 753,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "печенье"
       },
@@ -17422,6 +18018,9 @@
       "rank": 758,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "коридор"
       },
@@ -17498,6 +18097,9 @@
       "rank": 762,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "гость"
       },
@@ -17570,7 +18172,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "общение; связь"
@@ -17620,6 +18223,9 @@
       "rank": 768,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "сеанс; сессия"
       },
@@ -17672,7 +18278,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "объяснение"
@@ -17699,6 +18306,9 @@
       "rank": 773,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "маршрут"
       },
@@ -17775,6 +18385,9 @@
       "rank": 777,
       "level": "B1",
       "gender": "mf",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "шпион"
       },
@@ -17799,6 +18412,10 @@
       "rank": 778,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-ll-y",
+        "es-b-v"
+      ],
       "translations": {
         "ru": "чудо"
       },
@@ -17824,6 +18441,9 @@
       "rank": 779,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "кнопка"
       },
@@ -17872,6 +18492,9 @@
       "rank": 781,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "занятие, активность"
       },
@@ -18050,6 +18673,9 @@
       "rank": 790,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "впечатление"
       },
@@ -18251,6 +18877,9 @@
       "rank": 803,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "чемпион"
       },
@@ -18302,7 +18931,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "раздел"
@@ -18329,6 +18959,9 @@
       "rank": 807,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "зима"
       },
@@ -18379,6 +19012,9 @@
       "rank": 811,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "душ"
       },
@@ -18527,6 +19163,9 @@
       "rank": 819,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "предупреждение"
       },
@@ -18552,7 +19191,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "перевод"
@@ -18579,7 +19219,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "образование; воспитание"
@@ -18603,6 +19244,10 @@
       "rank": 823,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-b-v",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "версия"
       },
@@ -18633,6 +19278,9 @@
       "rank": 826,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "подвал"
       },
@@ -18658,6 +19306,10 @@
       "rank": 827,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-b-v",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "путь; дорога"
       },
@@ -18707,6 +19359,9 @@
       "rank": 830,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "название; титул"
       },
@@ -18805,6 +19460,10 @@
       "rank": 834,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-r-rr",
+        "es-b-v"
+      ],
       "translations": {
         "ru": "бронь, бронирование"
       },
@@ -18910,7 +19569,8 @@
       "gender": "f",
       "rules": [
         "es-c-before-e-i",
-        "es-g-before-e-i"
+        "es-g-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "поколение"
@@ -18962,6 +19622,9 @@
       "rank": 840,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "движение, пробки"
       },
@@ -18984,6 +19647,9 @@
       "rank": 842,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "лев"
       },
@@ -19009,6 +19675,9 @@
       "rank": 843,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "термин; срок"
       },
@@ -19035,7 +19704,8 @@
       "level": "B1",
       "gender": "m",
       "rules": [
-        "es-z"
+        "es-z",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "сахар"
@@ -19059,6 +19729,9 @@
       "rank": 845,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "таблетка"
       },
@@ -19113,7 +19786,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "беспокойство"
@@ -19187,6 +19861,9 @@
       "rank": 854,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "воин"
       },
@@ -19237,7 +19914,8 @@
       "level": "B1",
       "gender": "m",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "круг"
@@ -19426,6 +20104,9 @@
       "rank": 867,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "вызов"
       },
@@ -19452,7 +20133,8 @@
       "level": "B1",
       "gender": "m",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "океан"
@@ -19577,6 +20259,9 @@
       "rank": 873,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "участок, местность"
       },
@@ -19601,6 +20286,9 @@
       "rank": 874,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "вирус"
       },
@@ -19625,6 +20313,9 @@
       "rank": 876,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "гордость"
       },
@@ -19670,6 +20361,9 @@
       "rank": 878,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "диван"
       },
@@ -19697,7 +20391,8 @@
       "gender": "f",
       "rules": [
         "es-c-before-e-i",
-        "es-z"
+        "es-z",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "организация"
@@ -19723,6 +20418,9 @@
       "rank": 880,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "страсть"
       },
@@ -19801,6 +20499,9 @@
       "rank": 883,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "индейка"
       },
@@ -19852,6 +20553,9 @@
       "rank": 885,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "барная стойка; батон"
       },
@@ -19900,6 +20604,9 @@
       "rank": 887,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "слеза"
       },
@@ -19924,6 +20631,9 @@
       "rank": 888,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "дракон"
       },
@@ -19998,6 +20708,9 @@
       "rank": 891,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "яд"
       },
@@ -20095,6 +20808,9 @@
       "rank": 897,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "ресурс"
       },
@@ -20243,7 +20959,9 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-r-rr",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "реакция"
@@ -20295,6 +21013,9 @@
       "rank": 906,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "субтитр"
       },
@@ -20365,6 +21086,9 @@
       "rank": 909,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "комитет"
       },
@@ -20440,6 +21164,9 @@
       "rank": 912,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "весна"
       },
@@ -20466,7 +21193,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "инструкция"
@@ -20493,7 +21221,9 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-r-rr",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "репутация"
@@ -20520,6 +21250,9 @@
       "rank": 915,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "робот"
       },
@@ -20545,6 +21278,9 @@
       "rank": 916,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-b-v"
+      ],
       "translations": {
         "ru": "четверг"
       },
@@ -20695,7 +21431,8 @@
       "level": "B1",
       "gender": "m",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "ремень"
@@ -20721,6 +21458,9 @@
       "rank": 925,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "экран"
       },
@@ -20751,7 +21491,8 @@
       "level": "B1",
       "gender": "m",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-r-rr"
       ],
       "translations": {
         "ru": "закрытие; молния"
@@ -20802,6 +21543,9 @@
       "rank": 929,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "помощь"
       },
@@ -20826,6 +21570,9 @@
       "rank": 930,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "спасение"
       },
@@ -20972,6 +21719,9 @@
       "rank": 939,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "туннель"
       },
@@ -20997,6 +21747,9 @@
       "rank": 940,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "гид; путеводитель"
       },
@@ -21021,6 +21774,9 @@
       "rank": 941,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "территория"
       },
@@ -21124,6 +21880,9 @@
       "rank": 946,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "спор; обсуждение"
       },
@@ -21149,7 +21908,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "выступление"
@@ -21176,7 +21936,8 @@
       "level": "B1",
       "gender": "m",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "склад"
@@ -21203,7 +21964,8 @@
       "level": "B1",
       "gender": "m",
       "rules": [
-        "es-h-silent"
+        "es-h-silent",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "вертолёт"
@@ -21229,6 +21991,9 @@
       "rank": 952,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "легенда"
       },
@@ -21303,6 +22068,9 @@
       "rank": 955,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "клоун"
       },
@@ -21351,6 +22119,9 @@
       "rank": 957,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "маска"
       },
@@ -21400,7 +22171,8 @@
       "level": "B1",
       "gender": "m",
       "rules": [
-        "es-g-before-e-i"
+        "es-g-before-e-i",
+        "es-r-rr"
       ],
       "translations": {
         "ru": "убежище, приют"
@@ -21451,7 +22223,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-z"
+        "es-z",
+        "es-r-rr"
       ],
       "translations": {
         "ru": "порода; раса"
@@ -21477,6 +22250,9 @@
       "rank": 967,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "газета"
       },
@@ -21502,6 +22278,10 @@
       "rank": 968,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-b-v",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "видео"
       },
@@ -21555,6 +22335,10 @@
       "rank": 970,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-b-v",
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "деление, разделение"
       },
@@ -21628,6 +22412,9 @@
       "rank": 974,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-ch"
+      ],
       "translations": {
         "ru": "шеф-повар"
       },
@@ -21676,6 +22463,9 @@
       "rank": 976,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "депозит; бак"
       },
@@ -21701,7 +22491,8 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "запись"
@@ -21754,6 +22545,9 @@
       "rank": 980,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-ll-y"
+      ],
       "translations": {
         "ru": "ожерелье; ошейник"
       },
@@ -21802,6 +22596,9 @@
       "rank": 983,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "метод"
       },
@@ -21826,6 +22623,9 @@
       "rank": 984,
       "level": "B1",
       "gender": "f",
+      "rules": [
+        "es-stress-tilde"
+      ],
       "translations": {
         "ru": "фантазия"
       },
@@ -21924,7 +22724,9 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-c-before-e-i"
+        "es-c-before-e-i",
+        "es-b-v",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "приглашение"
@@ -22026,6 +22828,9 @@
       "rank": 994,
       "level": "B1",
       "gender": "m",
+      "rules": [
+        "es-r-rr"
+      ],
       "translations": {
         "ru": "ремонт; договорённость"
       },
@@ -22075,7 +22880,9 @@
       "level": "B1",
       "gender": "f",
       "rules": [
-        "es-h-silent"
+        "es-h-silent",
+        "es-r-rr",
+        "es-stress-tilde"
       ],
       "translations": {
         "ru": "заложник"

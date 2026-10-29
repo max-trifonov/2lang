@@ -11,6 +11,9 @@
       "pos": "adj",
       "rank": 1,
       "level": "A1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "хороший"
       },
@@ -96,6 +99,9 @@
       "pos": "adj",
       "rank": 4,
       "level": "A1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "много (с неисчисляемыми)"
       },
@@ -128,6 +134,9 @@
       "pos": "adj",
       "rank": 5,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "уверенный; sure! — конечно!"
       },
@@ -154,6 +163,9 @@
       "pos": "adj",
       "rank": 6,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "отличный; великий; огромный"
       },
@@ -184,6 +196,9 @@
       "pos": "adj",
       "rank": 7,
       "level": "A1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "другой"
       },
@@ -355,6 +370,9 @@
       "pos": "adj",
       "rank": 13,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "прекрасный; в порядке"
       },
@@ -384,6 +402,10 @@
       "pos": "adj",
       "rank": 14,
       "level": "A1",
+      "rules": [
+        "en-open-syllable",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "приятный, милый, хороший"
       },
@@ -414,6 +436,10 @@
       "pos": "adj",
       "rank": 15,
       "level": "A1",
+      "rules": [
+        "en-ng",
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "неправильный; не тот"
       },
@@ -440,6 +466,9 @@
       "pos": "adj",
       "rank": 16,
       "level": "A1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "собственный"
       },
@@ -466,6 +495,9 @@
       "pos": "adj",
       "rank": 17,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "тот же самый"
       },
@@ -518,6 +550,9 @@
       "pos": "adj",
       "rank": 19,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "мёртвый; разряженный (о батарее)"
       },
@@ -572,6 +607,9 @@
       "pos": "adj",
       "rank": 21,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "настоящий, реальный"
       },
@@ -654,6 +692,9 @@
       "pos": "adj",
       "rank": 24,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "готовый"
       },
@@ -680,6 +721,9 @@
       "pos": "adj",
       "rank": 25,
       "level": "A1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "такой"
       },
@@ -705,6 +749,9 @@
       "pos": "adj",
       "rank": 26,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "целый, весь"
       },
@@ -815,6 +862,9 @@
       "pos": "adj",
       "rank": 30,
       "level": "A1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "молодой"
       },
@@ -871,6 +921,9 @@
       "pos": "adj",
       "rank": 32,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "лёгкий, простой"
       },
@@ -901,6 +954,10 @@
       "pos": "adj",
       "rank": 33,
       "level": "A1",
+      "rules": [
+        "en-ee-ea",
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "красивый"
       },
@@ -1016,6 +1073,9 @@
       "pos": "adj",
       "rank": 37,
       "level": "A1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "испуганный; I'm afraid — боюсь, что"
       },
@@ -1041,6 +1101,9 @@
       "pos": "adj",
       "rank": 38,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "дорогой (обращение)"
       },
@@ -1097,6 +1160,9 @@
       "pos": "adj",
       "rank": 40,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "наименьший; at least — по крайней мере"
       },
@@ -1122,6 +1188,9 @@
       "pos": "adj",
       "rank": 41,
       "level": "A1",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "высокий"
       },
@@ -1178,6 +1247,9 @@
       "pos": "adj",
       "rank": 43,
       "level": "A1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "прохладный; классный"
       },
@@ -1232,6 +1304,9 @@
       "pos": "adj",
       "rank": 45,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "свободный; бесплатный"
       },
@@ -1381,6 +1456,9 @@
       "pos": "adj",
       "rank": 50,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "безопасный"
       },
@@ -1411,6 +1489,9 @@
       "pos": "adj",
       "rank": 51,
       "level": "A1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "чёрный"
       },
@@ -1492,6 +1573,9 @@
       "pos": "adj",
       "rank": 54,
       "level": "A1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "белый"
       },
@@ -1544,6 +1628,9 @@
       "pos": "adj",
       "rank": 56,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "особенный"
       },
@@ -1574,6 +1661,9 @@
       "pos": "adj",
       "rank": 57,
       "level": "A1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "бедный; плохой (по качеству)"
       },
@@ -1604,6 +1694,9 @@
       "pos": "adj",
       "rank": 58,
       "level": "A1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "больной; меня тошнит (feel sick)"
       },
@@ -1737,6 +1830,9 @@
       "pos": "adj",
       "rank": 63,
       "level": "A1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "сильный; крепкий"
       },
@@ -1876,6 +1972,9 @@
       "pos": "adj",
       "rank": 68,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "сладкий; милый"
       },
@@ -1905,6 +2004,9 @@
       "pos": "adj",
       "rank": 69,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "странный"
       },
@@ -1935,6 +2037,9 @@
       "pos": "adj",
       "rank": 70,
       "level": "A1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "везучий"
       },
@@ -2108,6 +2213,9 @@
       "pos": "adj",
       "rank": 76,
       "level": "A1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "чистый"
       },
@@ -2137,6 +2245,9 @@
       "pos": "adj",
       "rank": 77,
       "level": "A1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "быстрый"
       },
@@ -2167,6 +2278,9 @@
       "pos": "adj",
       "rank": 78,
       "level": "A1",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "стоящий; be worth — стоить того"
       },
@@ -2222,6 +2336,9 @@
       "pos": "adj",
       "rank": 80,
       "level": "A1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "потрясающий"
       },
@@ -2282,6 +2399,9 @@
       "pos": "adj",
       "rank": 82,
       "level": "A1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "общий"
       },
@@ -2450,6 +2570,9 @@
       "pos": "adj",
       "rank": 88,
       "level": "A1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "короткий; низкий (рост)"
       },
@@ -2584,6 +2707,9 @@
       "pos": "adj",
       "rank": 93,
       "level": "A2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "справедливый; ярмарка"
       },
@@ -2644,6 +2770,9 @@
       "pos": "adj",
       "rank": 95,
       "level": "A2",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "интересный"
       },
@@ -2674,6 +2803,9 @@
       "pos": "adj",
       "rank": 96,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "глубокий"
       },
@@ -2703,6 +2835,9 @@
       "pos": "adj",
       "rank": 97,
       "level": "A2",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "одиночный; одноместный; холостой"
       },
@@ -2729,6 +2864,9 @@
       "pos": "adj",
       "rank": 98,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "богатый"
       },
@@ -2887,6 +3025,10 @@
       "pos": "adj",
       "rank": 104,
       "level": "A2",
+      "rules": [
+        "en-ai-ay",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "определённый; уверенный"
       },
@@ -3030,6 +3172,9 @@
       "pos": "adj",
       "rank": 110,
       "level": "A2",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "злой, сердитый"
       },
@@ -3102,6 +3247,9 @@
       "pos": "adj",
       "rank": 113,
       "level": "A2",
+      "rules": [
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "честный"
       },
@@ -3126,6 +3274,9 @@
       "pos": "adj",
       "rank": 114,
       "level": "A2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "третий"
       },
@@ -3146,6 +3297,9 @@
       "pos": "adj",
       "rank": 115,
       "level": "A2",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "голодный"
       },
@@ -3194,6 +3348,9 @@
       "pos": "adj",
       "rank": 117,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "милый"
       },
@@ -3218,6 +3375,9 @@
       "pos": "adj",
       "rank": 118,
       "level": "A2",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "медленный"
       },
@@ -3242,6 +3402,9 @@
       "pos": "adj",
       "rank": 119,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "большой"
       },
@@ -3266,6 +3429,9 @@
       "pos": "adj",
       "rank": 120,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "французский"
       },
@@ -3310,6 +3476,10 @@
       "pos": "adj",
       "rank": 122,
       "level": "A2",
+      "rules": [
+        "en-open-syllable",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "огромный"
       },
@@ -3334,6 +3504,9 @@
       "pos": "adj",
       "rank": 123,
       "level": "A2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "южный"
       },
@@ -3426,6 +3599,9 @@
       "pos": "adj",
       "rank": 127,
       "level": "A2",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "низкий"
       },
@@ -3498,6 +3674,9 @@
       "pos": "adj",
       "rank": 130,
       "level": "A2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "потрясающий"
       },
@@ -3546,6 +3725,9 @@
       "pos": "adj",
       "rank": 132,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "невиновный"
       },
@@ -3594,6 +3776,9 @@
       "pos": "adj",
       "rank": 135,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "тяжёлый"
       },
@@ -3686,6 +3871,9 @@
       "pos": "adj",
       "rank": 139,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "свежий"
       },
@@ -3919,6 +4107,9 @@
       "pos": "adj",
       "rank": 149,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "спящий"
       },
@@ -3939,6 +4130,9 @@
       "pos": "adj",
       "rank": 150,
       "level": "A2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "ужасный"
       },
@@ -3988,6 +4182,9 @@
       "pos": "adj",
       "rank": 152,
       "level": "A2",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "готовый, согласный"
       },
@@ -4012,6 +4209,9 @@
       "pos": "adj",
       "rank": 153,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "отличный"
       },
@@ -4083,6 +4283,9 @@
       "pos": "adj",
       "rank": 156,
       "level": "A2",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "главный"
       },
@@ -4103,6 +4306,9 @@
       "pos": "adj",
       "rank": 157,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "необходимый"
       },
@@ -4224,6 +4430,9 @@
       "pos": "adj",
       "rank": 162,
       "level": "A2",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "тугой; тесный; плотный"
       },
@@ -4248,6 +4457,9 @@
       "pos": "adj",
       "rank": 163,
       "level": "A2",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "мощный"
       },
@@ -4344,6 +4556,9 @@
       "pos": "adj",
       "rank": 167,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "слабый"
       },
@@ -4392,6 +4607,9 @@
       "pos": "adj",
       "rank": 169,
       "level": "A2",
+      "rules": [
+        "en-silent-letters"
+      ],
       "translations": {
         "ru": "глупый"
       },
@@ -4416,6 +4634,9 @@
       "pos": "adj",
       "rank": 170,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "поддельный"
       },
@@ -4460,6 +4681,9 @@
       "pos": "adj",
       "rank": 172,
       "level": "A2",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "яркий"
       },
@@ -4508,6 +4732,9 @@
       "pos": "adj",
       "rank": 174,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "ревнивый; завидующий"
       },
@@ -4604,6 +4831,9 @@
       "pos": "adj",
       "rank": 178,
       "level": "A2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "осведомлённый"
       },
@@ -4628,6 +4858,9 @@
       "pos": "adj",
       "rank": 179,
       "level": "A2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "британский"
       },
@@ -4648,6 +4881,10 @@
       "pos": "adj",
       "rank": 180,
       "level": "A2",
+      "rules": [
+        "en-sh-ch",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "дешёвый"
       },
@@ -4677,6 +4914,9 @@
       "pos": "adj",
       "rank": 181,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "социальный; общительный"
       },
@@ -4773,6 +5013,9 @@
       "pos": "adj",
       "rank": 185,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "храбрый"
       },
@@ -4821,6 +5064,9 @@
       "pos": "adj",
       "rank": 187,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "древний"
       },
@@ -4917,6 +5163,9 @@
       "pos": "adj",
       "rank": 191,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "запасной"
       },
@@ -4937,6 +5186,9 @@
       "pos": "adj",
       "rank": 192,
       "level": "B1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "свободный; расшатанный"
       },
@@ -4961,6 +5213,9 @@
       "pos": "adj",
       "rank": 193,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "причудливый; шикарный"
       },
@@ -5005,6 +5260,10 @@
       "pos": "adj",
       "rank": 195,
       "level": "B1",
+      "rules": [
+        "en-ng",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "захватывающий"
       },
@@ -5150,6 +5409,10 @@
       "pos": "adj",
       "rank": 201,
       "level": "B1",
+      "rules": [
+        "en-ng",
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "раздражающий"
       },
@@ -5200,6 +5463,9 @@
       "pos": "adj",
       "rank": 203,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "доступный, свободный"
       },
@@ -5225,6 +5491,9 @@
       "pos": "adj",
       "rank": 204,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "средний"
       },
@@ -5246,6 +5515,9 @@
       "pos": "adj",
       "rank": 205,
       "level": "B2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "неловкий"
       },
@@ -5296,6 +5568,9 @@
       "pos": "adj",
       "rank": 207,
       "level": "A2",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "скучный"
       },
@@ -5392,6 +5667,10 @@
       "pos": "adj",
       "rank": 211,
       "level": "B1",
+      "rules": [
+        "en-sh-ch",
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "весёлый"
       },
@@ -5442,6 +5721,9 @@
       "pos": "adj",
       "rank": 213,
       "level": "A2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "близкий"
       },
@@ -5542,6 +5824,9 @@
       "pos": "adj",
       "rank": 217,
       "level": "B1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "запутанный"
       },
@@ -5592,6 +5877,9 @@
       "pos": "adj",
       "rank": 219,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "творческий"
       },
@@ -5617,6 +5905,9 @@
       "pos": "adj",
       "rank": 220,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "многолюдный"
       },
@@ -5667,6 +5958,9 @@
       "pos": "adj",
       "rank": 222,
       "level": "A2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "вкусный"
       },
@@ -5692,6 +5986,9 @@
       "pos": "adj",
       "rank": 223,
       "level": "B2",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "в восторге"
       },
@@ -5717,6 +6014,9 @@
       "pos": "adj",
       "rank": 224,
       "level": "B1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "разочарованный"
       },
@@ -5742,6 +6042,10 @@
       "pos": "adj",
       "rank": 225,
       "level": "B1",
+      "rules": [
+        "en-ng",
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "разочаровывающий"
       },
@@ -5842,6 +6146,9 @@
       "pos": "adj",
       "rank": 229,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "нетерпеливый, жаждущий"
       },
@@ -5867,6 +6174,9 @@
       "pos": "adj",
       "rank": 230,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "эффективный"
       },
@@ -5938,6 +6248,9 @@
       "pos": "adj",
       "rank": 233,
       "level": "B2",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "неловкий"
       },
@@ -5984,6 +6297,9 @@
       "pos": "adj",
       "rank": 235,
       "level": "B1",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "измученный"
       },
@@ -6059,6 +6375,9 @@
       "pos": "adj",
       "rank": 238,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "яростный"
       },
@@ -6155,6 +6474,9 @@
       "pos": "adj",
       "rank": 242,
       "level": "B1",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "напуганный"
       },
@@ -6201,6 +6523,9 @@
       "pos": "adj",
       "rank": 244,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "щедрый"
       },
@@ -6226,6 +6551,9 @@
       "pos": "adj",
       "rank": 245,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "мягкий, нежный"
       },
@@ -6476,6 +6804,9 @@
       "pos": "adj",
       "rank": 255,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "ледяной"
       },
@@ -6501,6 +6832,9 @@
       "pos": "adj",
       "rank": 256,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "идеальный"
       },
@@ -6651,6 +6985,9 @@
       "pos": "adj",
       "rank": 262,
       "level": "B2",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "раздражающий"
       },
@@ -6701,6 +7038,9 @@
       "pos": "adj",
       "rank": 264,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "сочный"
       },
@@ -6726,6 +7066,9 @@
       "pos": "adj",
       "rank": 265,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "увлечённый"
       },
@@ -6801,6 +7144,9 @@
       "pos": "adj",
       "rank": 268,
       "level": "A2",
+      "rules": [
+        "en-igh"
+      ],
       "translations": {
         "ru": "лёгкий; светлый"
       },
@@ -6922,6 +7268,9 @@
       "pos": "adj",
       "rank": 273,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "злой; подлый"
       },
@@ -7022,6 +7371,9 @@
       "pos": "adj",
       "rank": 277,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "узкий"
       },
@@ -7047,6 +7399,9 @@
       "pos": "adj",
       "rank": 278,
       "level": "B2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "непослушный"
       },
@@ -7072,6 +7427,9 @@
       "pos": "adj",
       "rank": 279,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "аккуратный"
       },
@@ -7097,6 +7455,10 @@
       "pos": "adj",
       "rank": 280,
       "level": "B2",
+      "rules": [
+        "en-ng",
+        "en-igh"
+      ],
       "translations": {
         "ru": "соседний"
       },
@@ -7118,6 +7480,9 @@
       "pos": "adj",
       "rank": 281,
       "level": "A2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "шумный"
       },
@@ -7239,6 +7604,9 @@
       "pos": "adj",
       "rank": 286,
       "level": "B2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "старомодный"
       },
@@ -7339,6 +7707,9 @@
       "pos": "adj",
       "rank": 290,
       "level": "B1",
+      "rules": [
+        "en-oo"
+      ],
       "translations": {
         "ru": "уличный"
       },
@@ -7360,6 +7731,9 @@
       "pos": "adj",
       "rank": 291,
       "level": "B1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "переполненный"
       },
@@ -7385,6 +7759,9 @@
       "pos": "adj",
       "rank": 292,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "болезненный"
       },
@@ -7435,6 +7812,10 @@
       "pos": "adj",
       "rank": 294,
       "level": "B1",
+      "rules": [
+        "en-ee-ea",
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "мирный, спокойный"
       },
@@ -7460,6 +7841,9 @@
       "pos": "adj",
       "rank": 295,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "приятный"
       },
@@ -7485,6 +7869,9 @@
       "pos": "adj",
       "rank": 296,
       "level": "A2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "довольный"
       },
@@ -7610,6 +7997,9 @@
       "pos": "adj",
       "rank": 301,
       "level": "B2",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "драгоценный"
       },
@@ -7681,6 +8071,9 @@
       "pos": "adj",
       "rank": 304,
       "level": "B2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "чистый"
       },
@@ -7706,6 +8099,9 @@
       "pos": "adj",
       "rank": 305,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "редкий"
       },
@@ -7731,6 +8127,9 @@
       "pos": "adj",
       "rank": 306,
       "level": "B2",
+      "rules": [
+        "en-oi-oy"
+      ],
       "translations": {
         "ru": "сырой"
       },
@@ -7752,6 +8151,9 @@
       "pos": "adj",
       "rank": 307,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "разумный"
       },
@@ -7802,6 +8204,9 @@
       "pos": "adj",
       "rank": 309,
       "level": "B1",
+      "rules": [
+        "en-ng"
+      ],
       "translations": {
         "ru": "расслабляющий"
       },
@@ -7852,6 +8257,9 @@
       "pos": "adj",
       "rank": 311,
       "level": "B2",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "спелый"
       },
@@ -7902,6 +8310,9 @@
       "pos": "adj",
       "rank": 313,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "грубый"
       },
@@ -8027,6 +8438,9 @@
       "pos": "adj",
       "rank": 318,
       "level": "B2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "эгоистичный"
       },
@@ -8127,6 +8541,10 @@
       "pos": "adj",
       "rank": 322,
       "level": "B2",
+      "rules": [
+        "en-sh-ch",
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "мелкий"
       },
@@ -8152,6 +8570,9 @@
       "pos": "adj",
       "rank": 323,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "острый"
       },
@@ -8177,6 +8598,9 @@
       "pos": "adj",
       "rank": 324,
       "level": "B2",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "блестящий"
       },
@@ -8202,6 +8626,9 @@
       "pos": "adj",
       "rank": 325,
       "level": "B1",
+      "rules": [
+        "en-sh-ch"
+      ],
       "translations": {
         "ru": "застенчивый"
       },
@@ -8277,6 +8704,9 @@
       "pos": "adj",
       "rank": 328,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "сонный"
       },
@@ -8327,6 +8757,10 @@
       "pos": "adj",
       "rank": 330,
       "level": "B2",
+      "rules": [
+        "en-th",
+        "en-oo"
+      ],
       "translations": {
         "ru": "гладкий; плавный"
       },
@@ -8377,6 +8811,9 @@
       "pos": "adj",
       "rank": 332,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "острый (о еде)"
       },
@@ -8427,6 +8864,9 @@
       "pos": "adj",
       "rank": 334,
       "level": "B2",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "устойчивый, ровный"
       },
@@ -8452,6 +8892,9 @@
       "pos": "adj",
       "rank": 335,
       "level": "B1",
+      "rules": [
+        "en-ee-ea"
+      ],
       "translations": {
         "ru": "крутой"
       },
@@ -8477,6 +8920,9 @@
       "pos": "adj",
       "rank": 336,
       "level": "B2",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "липкий"
       },
@@ -8577,6 +9023,9 @@
       "pos": "adj",
       "rank": 340,
       "level": "B1",
+      "rules": [
+        "en-c-g-soft"
+      ],
       "translations": {
         "ru": "успешный"
       },
@@ -8748,6 +9197,10 @@
       "pos": "adj",
       "rank": 347,
       "level": "B1",
+      "rules": [
+        "en-th",
+        "en-ck"
+      ],
       "translations": {
         "ru": "толстый; густой"
       },
@@ -8773,6 +9226,9 @@
       "pos": "adj",
       "rank": 348,
       "level": "A2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "тонкий"
       },
@@ -8798,6 +9254,9 @@
       "pos": "adj",
       "rank": 349,
       "level": "A2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "жаждущий"
       },
@@ -8869,6 +9328,9 @@
       "pos": "adj",
       "rank": 352,
       "level": "B1",
+      "rules": [
+        "en-tion"
+      ],
       "translations": {
         "ru": "традиционный"
       },
@@ -9011,6 +9473,9 @@
       "pos": "adj",
       "rank": 358,
       "level": "B1",
+      "rules": [
+        "en-ai-ay"
+      ],
       "translations": {
         "ru": "несправедливый"
       },
@@ -9111,6 +9576,9 @@
       "pos": "adj",
       "rank": 362,
       "level": "B1",
+      "rules": [
+        "en-oa-ow"
+      ],
       "translations": {
         "ru": "неизвестный"
       },
@@ -9132,6 +9600,9 @@
       "pos": "adj",
       "rank": 363,
       "level": "B1",
+      "rules": [
+        "en-ck"
+      ],
       "translations": {
         "ru": "невезучий"
       },
@@ -9478,6 +9949,9 @@
       "pos": "adj",
       "rank": 377,
       "level": "B1",
+      "rules": [
+        "en-open-syllable"
+      ],
       "translations": {
         "ru": "мудрый"
       },
@@ -9528,6 +10002,9 @@
       "pos": "adj",
       "rank": 379,
       "level": "B2",
+      "rules": [
+        "en-th"
+      ],
       "translations": {
         "ru": "стоящий"
       },

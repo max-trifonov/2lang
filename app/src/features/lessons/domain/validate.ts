@@ -66,7 +66,17 @@ const BRIDGE_KEYS = new Set(['lang', 'lesson', 'formula', 'examples', 'note', 'e
 const PATTERN_MIN = 3
 const PATTERN_MAX = 4
 const SOUND_EXERCISE_KEYS = new Set(['type', 'items', 'ext'])
-const LETTER_KEYS = new Set(['letter', 'name', 'ipa', 'audio', 'ext'])
+const LETTER_KEYS = new Set([
+  'letter',
+  'name',
+  'ipa',
+  'audio',
+  'sound',
+  'syllables',
+  'examples',
+  'rules',
+  'ext',
+])
 const READING_RULE_KEYS = new Set(['id', 'title', 'text', 'ipa', 'audio', 'examples', 'ext'])
 
 export function checkLessonFile(source: string): LessonCheckResult {
@@ -430,6 +440,31 @@ class LessonValidator extends Checker {
     if ('ipa' in l) this.nonEmpty(l.ipa, join(path, 'ipa'))
     if ('audio' in l) this.audio(l.audio, join(path, 'audio'))
     if ('ext' in l) this.type(l.ext, join(path, 'ext'), 'object')
+    if ('sound' in l) this.localized(l.sound, join(path, 'sound'))
+    for (const key of ['syllables', 'rules'] as const) {
+      if (!(key in l)) continue
+      const items = this.list(l[key], join(path, key))
+      if (items?.length === 0) this.error('empty', join(path, key))
+      items?.forEach((item, i) =>
+        key === 'rules'
+          ? this.slug(item, join(join(path, key), i))
+          : this.nonEmpty(item, join(join(path, key), i)),
+      )
+    }
+    if ('examples' in l) this.examples(l.examples, join(path, 'examples'))
+  }
+
+  /** Слова-примеры звучания: у каждого — оригинал на языке урока. */
+  private examples(value: unknown, path: string): void {
+    const examples = this.list(value, path)
+    if (examples?.length === 0) this.error('empty', path)
+    examples?.forEach((ex, i) => {
+      const p = join(path, i)
+      if (!this.type(ex, p, 'object') || !this.langKeys(ex as Obj, p, EXAMPLE_KEYS) || !this.lang)
+        return
+      if (typeof (ex as Obj)[this.lang] !== 'string')
+        this.error('missing_original', p, { lang: this.lang })
+    })
   }
 
   /** id правила, если он корректен — для проверки повторов. */
@@ -444,15 +479,7 @@ class LessonValidator extends Checker {
     if ('ipa' in r) this.nonEmpty(r.ipa, join(path, 'ipa'))
     if ('audio' in r) this.audio(r.audio, join(path, 'audio'))
     if ('ext' in r) this.type(r.ext, join(path, 'ext'), 'object')
-    const examples = 'examples' in r ? this.list(r.examples, join(path, 'examples')) : null
-    if (examples?.length === 0) this.error('empty', join(path, 'examples'))
-    examples?.forEach((ex, i) => {
-      const p = join(join(path, 'examples'), i)
-      if (!this.type(ex, p, 'object') || !this.langKeys(ex as Obj, p, EXAMPLE_KEYS) || !this.lang)
-        return
-      if (typeof (ex as Obj)[this.lang] !== 'string')
-        this.error('missing_original', p, { lang: this.lang })
-    })
+    if ('examples' in r) this.examples(r.examples, join(path, 'examples'))
     return idOk ? (r.id as string) : null
   }
 
@@ -626,6 +653,21 @@ export function validateLessonSet(
           answer: answers.join(' / '),
         })
     })
+  }
+  // Буква алфавита ссылается на правила чтения (D-48): правило может быть в любом уроке звучания.
+  for (const { name, lesson } of lessons) {
+    if (lesson.kind !== 'sound') continue
+    lesson.letters?.forEach((l, i) =>
+      l.rules?.forEach((rule, j) => {
+        if (!ruleIds.has(rule))
+          errors.push({
+            severity: 'error',
+            code: 'rule_not_found',
+            path: `${name} › ${join(join(join('letters', i), 'rules'), j)}`,
+            params: { rule },
+          })
+      }),
+    )
   }
   // Подсказка правила в карточке слова (D-2 LNG-S1-009): урок с правилом могут ещё не
   // написать — поэтому предупреждение, а не ошибка.

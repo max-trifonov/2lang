@@ -29,12 +29,14 @@
 | # | Тема |
 |---|---|
 | EN-P1 | Алфавит и диктовка по буквам (email, коды, фамилия), названия символов (@, dot, dash, underscore) |
-| EN-P2 | Основы транскрипции (IPA), чтобы читать словарные подсказки |
-| EN-P3 | Долгие и краткие гласные, минимальные пары (ship / sheep, full / fool) |
-| EN-P4 | th, w / v, r, конечные звонкие согласные |
+| EN-P2 | Сочетания гласных: ee / ea, oo, ai / ay, oa / ow, oi / oy, igh (IPA — в каждом правиле, D-48) |
+| EN-P3 | Четыре типа слога (открытый, закрытый, + r, + re), долгие и краткие гласные (ship / sheep) |
+| EN-P4 | th, w / v, sh / ch, ph, ck, ng, c и g перед e, i, y, конечные звонкие согласные |
 | EN-P5 | Окончания -ed ([t] / [d] / [ɪd]) и -s ([s] / [z] / [ɪz]) |
-| EN-P6 | Безударный звук schwa, слабые формы (to, for, can), немые буквы |
+| EN-P6 | Безударный звук schwa, слабые формы (to, for, can), немые буквы, -tion |
 | EN-P7 | Словесное ударение (record / reCORD) и фразовое ударение, интонация вопросов |
+
+**Алфавит и чтение (D-48).** Буквы обоих языков — в первом уроке звучания (ES-P1, EN-P1): название, IPA, как читается (по позициям), слоги для тренировки (ES — ba be bi bo bu; EN — cat / cake / car / care по типам слога), слова и ссылки на правила чтения. Экран «Алфавит и чтение» (`/alphabet`) собирает буквы и все правила уроков звучания; правила подсвечиваются в карточке слова (`rules` статьи словаря — `content/drafts/sound/reading.py`). Источник уроков звучания — `content/drafts/sound/gen.py` (кроме ES-P3).
 
 ## Повторение по разделам (`D-9`)
 
@@ -197,3 +199,42 @@
 | Present Perfect | pretérito perfecto | близко (в Испании), в Латинской Америке чаще indefinido |
 | if + Present, will | si + presente, futuro | 1:1 |
 | I'd like | me gustaría | 1:1 |
+
+## Похоже, но не одно и то же (D-46)
+
+Пары-ловушки — темы грамматики раздела `contrasts` (справочник «Похоже, но не одно и то же»), идут в пути после базы. Каждая: паттерн, правило с таблицей «где что», мост к такой же паре второго языка, выбор формы, своё предложение. Уроки слов ссылаются на пары, где встречаются их слова (`link.py`).
+
+| EN | Пара | ES | Пара |
+|---|---|---|---|
+| EN-39 | call me / give me a call | ES-36 | por / para |
+| EN-40 | make / do | ES-37 | ser / estar: listo, malo, rico… |
+| EN-41 | say / tell | ES-38 | pedir / preguntar |
+| EN-42 | speak / talk | ES-39 | llevar / traer |
+| EN-43 | hear / listen | ES-40 | ir / venir |
+| EN-44 | see / look / watch | ES-41 | tocar / jugar |
+| EN-45 | borrow / lend | ES-42 | muy / mucho |
+| EN-46 | bring / take | ES-43 | bueno / bien |
+| EN-47 | come / go | ES-44 | también / tampoco |
+| EN-48 | used to / be used to | ES-45 | oír / escuchar |
+| EN-49 | few / a few, little / a little | ES-46 | ver / mirar |
+| EN-50 | good / well | ES-47 | hablar / decir / contar |
+| EN-51 | remember / remind | ES-48 | salir / irse / dejar |
+| EN-52 | bored / boring | ES-49 | quedar / quedarse |
+| EN-53 | fun / funny | ES-50 | he comido / comí |
+| EN-54 | already / yet / still | ES-51 | si / sí, tu / tú, el / él |
+| EN-55 | during / for / while | ES-52 | porque / por qué / porqué |
+| EN-56 | until / by | ES-53 | tener / hay / he |
+| EN-57 | like / as | ES-54 | a / en |
+| EN-58 | another / other / the other | ES-55 | me gusta / quiero / te quiero |
+| EN-59 | each / every | ES-56 | tiempo / vez / hora |
+| EN-60 | so / such | ES-57 | desde / hace / desde hace |
+| EN-61 | too / very / enough | ES-58 | buen / bueno, primer / primero |
+| EN-62 | on time / in time | ES-59 | saber / poder |
+| EN-63 | at the end / in the end | ES-60 | ложные друзья: embarazada, éxito… |
+| EN-64 | travel / trip / journey | ES-61 | echar de menos / perder |
+| EN-65 | job / work | | |
+| EN-66 | win / earn | | |
+| EN-67 | miss / lose | | |
+| EN-68 | ложные друзья: actually, magazine… | | |
+| EN-69 | affect / effect | | |
+| EN-70 | rise / raise | | |

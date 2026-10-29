@@ -1,0 +1,310 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-sound-04",
+  "lang": "en",
+  "kind": "sound",
+  "code": "EN-P4",
+  "order": 4,
+  "level": "A1",
+  "requires": [
+    "en-sound-01"
+  ],
+  "title": {
+    "ru": "Согласные: th, w и v, sh и ch, звонкие на конце",
+    "en": "Consonants: th, w and v, sh and ch, final voiced",
+    "es": "Consonantes: th, w y v, sh y ch"
+  },
+  "rules": [
+    {
+      "id": "en-th",
+      "title": {
+        "ru": "th — [θ] и [ð]",
+        "en": "th",
+        "es": "th"
+      },
+      "text": {
+        "ru": "th — звука нет в русском: кончик языка между зубами, выдыхаем. Глухой [θ] — think, three, thanks; звонкий [ð] — this, the, mother. Не заменяйте на «с», «з», «ф», «т»: think ≠ sink, three ≠ tree.",
+        "en": "Put the tongue between the teeth: voiceless [θ] in think, voiced [ð] in this. Do not replace it with s, z, f or t: think ≠ sink."
+      },
+      "ipa": "θ / ð",
+      "examples": [
+        {
+          "en": "think",
+          "ru": "думать"
+        },
+        {
+          "en": "three",
+          "ru": "три"
+        },
+        {
+          "en": "this",
+          "ru": "это"
+        },
+        {
+          "en": "mother",
+          "ru": "мама"
+        }
+      ]
+    },
+    {
+      "id": "en-w-v",
+      "title": {
+        "ru": "w и v",
+        "en": "w and v",
+        "es": "w y v"
+      },
+      "text": {
+        "ru": "w — губы вытянуты трубочкой, зубы не касаются губы, сразу переходим в гласную: we, west, window. v — верхние зубы на нижней губе, как русское «в»: vest, very. west ≠ vest, wine ≠ vine.",
+        "en": "w: rounded lips, no teeth (we, west). v: top teeth on the lower lip (vest, very). west ≠ vest."
+      },
+      "ipa": "w / v",
+      "examples": [
+        {
+          "en": "west",
+          "ru": "запад"
+        },
+        {
+          "en": "vest",
+          "ru": "жилет"
+        },
+        {
+          "en": "wine",
+          "ru": "вино"
+        },
+        {
+          "en": "very",
+          "ru": "очень"
+        }
+      ]
+    },
+    {
+      "id": "en-final-voiced",
+      "title": {
+        "ru": "Звонкие на конце не оглушаются",
+        "en": "Final voiced consonants stay voiced",
+        "es": "Sonoras finales"
+      },
+      "text": {
+        "ru": "В русском «код» звучит как «кот», а в английском конечные звонкие остаются звонкими — иначе получится другое слово: bad / bat, dog / dock, bag / back, eyes / ice. Гласная перед звонкой согласной чуть длиннее.",
+        "en": "Do not devoice final consonants: bad / bat, dog / dock, bag / back. The vowel before a voiced consonant is a bit longer."
+      },
+      "examples": [
+        {
+          "en": "bad",
+          "ru": "плохой"
+        },
+        {
+          "en": "bat",
+          "ru": "летучая мышь"
+        },
+        {
+          "en": "bag",
+          "ru": "сумка"
+        },
+        {
+          "en": "back",
+          "ru": "спина"
+        }
+      ]
+    },
+    {
+      "id": "en-sh-ch",
+      "title": {
+        "ru": "sh — [ʃ], ch и tch — [tʃ]",
+        "en": "sh, ch, tch",
+        "es": "sh, ch, tch"
+      },
+      "text": {
+        "ru": "sh — мягкое «ш» [ʃ]: she, shop, fish. ch и tch — «ч» [tʃ]: chip, much, watch. Пары: ship / chip, sheep / cheap, wash / watch. В греческих словах ch = [k]: school, Christmas.",
+        "en": "sh is [ʃ]: she, fish. ch and tch are [tʃ]: chip, watch. ship / chip. In Greek words ch = [k]: school."
+      },
+      "ipa": "ʃ / tʃ",
+      "examples": [
+        {
+          "en": "shop",
+          "ru": "магазин"
+        },
+        {
+          "en": "chip",
+          "ru": "чипс"
+        },
+        {
+          "en": "watch",
+          "ru": "часы"
+        },
+        {
+          "en": "school",
+          "ru": "школа"
+        }
+      ]
+    },
+    {
+      "id": "en-ph",
+      "title": {
+        "ru": "ph — [f]",
+        "en": "ph",
+        "es": "ph"
+      },
+      "text": {
+        "ru": "ph всегда [f]: phone, photo, alphabet. Это след греческих слов.",
+        "en": "ph is always [f]: phone, photo."
+      },
+      "ipa": "f",
+      "examples": [
+        {
+          "en": "phone",
+          "ru": "телефон"
+        },
+        {
+          "en": "photo",
+          "ru": "фото"
+        },
+        {
+          "en": "alphabet",
+          "ru": "алфавит"
+        }
+      ]
+    },
+    {
+      "id": "en-ck",
+      "title": {
+        "ru": "ck — [k]",
+        "en": "ck",
+        "es": "ck"
+      },
+      "text": {
+        "ru": "ck в конце слога после краткой гласной — один звук [k]: back, clock, sick. Он сохраняет слог закрытым: back [bæk].",
+        "en": "ck after a short vowel is one [k]: back, clock."
+      },
+      "ipa": "k",
+      "examples": [
+        {
+          "en": "back",
+          "ru": "назад"
+        },
+        {
+          "en": "clock",
+          "ru": "часы"
+        },
+        {
+          "en": "sick",
+          "ru": "больной"
+        }
+      ]
+    },
+    {
+      "id": "en-ng",
+      "title": {
+        "ru": "ng — носовой [ŋ]",
+        "en": "ng",
+        "es": "ng"
+      },
+      "text": {
+        "ru": "ng в конце слова — один носовой звук [ŋ], задняя часть языка у нёба, «г» не произносится: sing, long, morning. В середине слова иногда с [g]: finger, English.",
+        "en": "ng at the end is one nasal [ŋ] with no [g]: sing, long; inside some words with [g]: finger."
+      },
+      "ipa": "ŋ",
+      "examples": [
+        {
+          "en": "sing",
+          "ru": "петь"
+        },
+        {
+          "en": "long",
+          "ru": "длинный"
+        },
+        {
+          "en": "morning",
+          "ru": "утро"
+        },
+        {
+          "en": "English",
+          "ru": "английский"
+        }
+      ]
+    },
+    {
+      "id": "en-c-g-soft",
+      "title": {
+        "ru": "c и g перед e, i, y",
+        "en": "c and g before e, i, y",
+        "es": "c y g ante e, i, y"
+      },
+      "text": {
+        "ru": "Перед e, i, y буква c читается [s] (city, cent, bicycle), g — часто [dʒ] (gym, page, giant). Перед другими буквами — [k] и [g]: cat, cup, go, big. У g много исключений с [g]: get, give, girl, together.",
+        "en": "Before e, i, y: c is [s] (city), g is often [dʒ] (gym). Elsewhere [k] and [g]. g has exceptions: get, give, girl."
+      },
+      "ipa": "s / dʒ",
+      "examples": [
+        {
+          "en": "city",
+          "ru": "город"
+        },
+        {
+          "en": "cent",
+          "ru": "цент"
+        },
+        {
+          "en": "gym",
+          "ru": "спортзал"
+        },
+        {
+          "en": "page",
+          "ru": "страница"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "pairs",
+      "items": [
+        [
+          "think",
+          "sink"
+        ],
+        [
+          "west",
+          "vest"
+        ],
+        [
+          "bad",
+          "bat"
+        ],
+        [
+          "sheep",
+          "cheap"
+        ],
+        [
+          "thin",
+          "tin"
+        ],
+        [
+          "three",
+          "tree"
+        ]
+      ]
+    },
+    {
+      "type": "read",
+      "items": [
+        "three",
+        "this",
+        "phone",
+        "clock",
+        "sing",
+        "city",
+        "watch"
+      ]
+    },
+    {
+      "type": "dictation",
+      "items": [
+        "thank",
+        "very",
+        "fish"
+      ]
+    }
+  ]
+}

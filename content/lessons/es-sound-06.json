@@ -1,0 +1,154 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-sound-06",
+  "lang": "es",
+  "kind": "sound",
+  "code": "ES-P6",
+  "order": 6,
+  "level": "A2",
+  "requires": [
+    "es-sound-01"
+  ],
+  "title": {
+    "ru": "Дифтонги, слияние слов, интонация",
+    "en": "Diphthongs, linking and intonation",
+    "es": "Diptongos, enlace y entonación"
+  },
+  "rules": [
+    {
+      "id": "es-diphthongs",
+      "title": {
+        "ru": "Дифтонги: ie, ue, ai, au…",
+        "en": "Diphthongs",
+        "es": "Diptongos"
+      },
+      "text": {
+        "ru": "Безударные i и u рядом с другой гласной сливаются с ней в один слог: i звучит как «й», u — как короткое «у»: bien [бйен], bueno [буэ-но], aire [ай-рэ], ciudad [сьу-дад]. Так получаются дифтонги — их произносят одним движением.",
+        "en": "Unstressed i and u next to another vowel merge with it into one syllable — i as [j], u as [w]: bien, bueno, aire, ciudad."
+      },
+      "ipa": "j / w",
+      "examples": [
+        {
+          "es": "bien",
+          "ru": "хорошо"
+        },
+        {
+          "es": "bueno",
+          "ru": "хороший"
+        },
+        {
+          "es": "aire",
+          "ru": "воздух"
+        },
+        {
+          "es": "ciudad",
+          "ru": "город"
+        }
+      ]
+    },
+    {
+      "id": "es-hiatus",
+      "title": {
+        "ru": "Две гласные — два слога",
+        "en": "Two vowels, two syllables",
+        "es": "Hiato"
+      },
+      "text": {
+        "ru": "Две «сильные» гласные (a, e, o) рядом — это два слога: le-er, a-e-ro-puer-to. Ударные í и ú со знаком тоже отделяются: dí-a, pa-ís, rí-o. Сравните: pais [пайс] не существует — país [па-ис] «страна».",
+        "en": "Two strong vowels (a, e, o) form two syllables: le-er. Accented í, ú also split off: dí-a, pa-ís, rí-o."
+      },
+      "examples": [
+        {
+          "es": "día",
+          "ru": "день"
+        },
+        {
+          "es": "país",
+          "ru": "страна"
+        },
+        {
+          "es": "leer",
+          "ru": "читать"
+        },
+        {
+          "es": "río",
+          "ru": "река"
+        }
+      ]
+    },
+    {
+      "id": "es-linking",
+      "title": {
+        "ru": "Слова сливаются в речи",
+        "en": "Words run together",
+        "es": "Enlace"
+      },
+      "text": {
+        "ru": "В речи слова не разделяют паузами: конечная согласная цепляется к гласной следующего слова, а одинаковые гласные сливаются: los amigos [ло-са-ми-гос], mi hermano [мьер-ма-но] — h не читается. Поэтому испанская речь кажется очень быстрой.",
+        "en": "Words are linked: a final consonant joins the next vowel and equal vowels merge: los amigos [lo-sa-mi-gos], mi hermano. That is why Spanish sounds fast."
+      },
+      "examples": [
+        {
+          "es": "los amigos",
+          "ru": "друзья"
+        },
+        {
+          "es": "mi hermano",
+          "ru": "мой брат"
+        },
+        {
+          "es": "está aquí",
+          "ru": "он здесь"
+        }
+      ]
+    },
+    {
+      "id": "es-intonation",
+      "title": {
+        "ru": "¿…? и ¡…!: интонация с начала фразы",
+        "en": "¿…? and ¡…!: intonation from the start",
+        "es": "Entonación: ¿…? ¡…!"
+      },
+      "text": {
+        "ru": "Перевёрнутые ¿ и ¡ стоят в начале вопроса и восклицания — чтобы интонация была видна сразу. Общий вопрос без вопросительного слова звучит как утверждение, но с подъёмом голоса в конце: ¿Vienes? ↗ В вопросе с qué, dónde, cómo голос в конце опускается.",
+        "en": "Inverted ¿ and ¡ open questions and exclamations so you know the tune in advance. Yes / no questions rise at the end: ¿Vienes? ↗ Questions with qué, dónde, cómo fall."
+      },
+      "examples": [
+        {
+          "es": "¿Vienes?",
+          "ru": "Придёшь?"
+        },
+        {
+          "es": "¡Qué bonito!",
+          "ru": "Как красиво!"
+        },
+        {
+          "es": "¿Dónde vives?",
+          "ru": "Где ты живёшь?"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "read",
+      "items": [
+        "bueno",
+        "ciudad",
+        "día",
+        "país",
+        "aeropuerto",
+        "Europa"
+      ]
+    },
+    {
+      "type": "dictation",
+      "items": [
+        "tiempo",
+        "nuevo",
+        "aire"
+      ]
+    }
+  ]
+}

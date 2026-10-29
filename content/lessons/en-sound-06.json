@@ -1,0 +1,134 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-sound-06",
+  "lang": "en",
+  "kind": "sound",
+  "code": "EN-P6",
+  "order": 6,
+  "level": "A2",
+  "requires": [
+    "en-sound-01"
+  ],
+  "title": {
+    "ru": "Безударный звук, немые буквы, -tion",
+    "en": "Schwa, silent letters, -tion",
+    "es": "La schwa, letras mudas, -tion"
+  },
+  "rules": [
+    {
+      "id": "en-schwa",
+      "title": {
+        "ru": "Schwa [ə] — самый частый звук",
+        "en": "Schwa [ə]",
+        "es": "La schwa [ə]"
+      },
+      "text": {
+        "ru": "Безударные гласные в английском почти всегда звучат как нейтральный короткий [ə] — что бы ни было написано: about [əˈbaʊt], banana [bəˈnɑːnə], doctor, today. Служебные слова в потоке речи тоже «слабеют»: to [tə], for [fə], can [kən]: I can swim [aɪ kən swɪm].",
+        "en": "Unstressed vowels usually become a short neutral [ə]: about, banana, doctor. Function words weaken too: to [tə], for [fə], can [kən]."
+      },
+      "ipa": "ə",
+      "examples": [
+        {
+          "en": "about",
+          "ru": "о, около"
+        },
+        {
+          "en": "banana",
+          "ru": "банан"
+        },
+        {
+          "en": "doctor",
+          "ru": "врач"
+        },
+        {
+          "en": "today",
+          "ru": "сегодня"
+        }
+      ]
+    },
+    {
+      "id": "en-silent-letters",
+      "title": {
+        "ru": "Немые буквы",
+        "en": "Silent letters",
+        "es": "Letras mudas"
+      },
+      "text": {
+        "ru": "Некоторые буквы пишутся, но не читаются: k перед n — know, knife; w перед r — write, wrong; b после m — climb, comb; l в talk, walk, half, could; h в hour, honest; gh в night, daughter; t в listen, castle. Это следы старого произношения.",
+        "en": "Some letters are written but not pronounced: k in know, w in write, b in climb, l in talk, h in hour, gh in night, t in listen."
+      },
+      "examples": [
+        {
+          "en": "know",
+          "ru": "знать"
+        },
+        {
+          "en": "write",
+          "ru": "писать"
+        },
+        {
+          "en": "climb",
+          "ru": "карабкаться"
+        },
+        {
+          "en": "hour",
+          "ru": "час"
+        },
+        {
+          "en": "listen",
+          "ru": "слушать"
+        }
+      ]
+    },
+    {
+      "id": "en-tion",
+      "title": {
+        "ru": "-tion, -sion — [ʃən]",
+        "en": "-tion, -sion",
+        "es": "-tion, -sion"
+      },
+      "text": {
+        "ru": "Окончание -tion читается [ʃən] «шн»: station, information, action. -sion после согласной — тоже [ʃən] (mission), после гласной — [ʒən] (television, decision). Ударение — на слог перед окончанием: infor-MA-tion.",
+        "en": "-tion is [ʃən]: station. -sion is [ʃən] after a consonant (mission), [ʒən] after a vowel (television). Stress falls just before: infor-MA-tion."
+      },
+      "ipa": "ʃən",
+      "examples": [
+        {
+          "en": "station",
+          "ru": "станция"
+        },
+        {
+          "en": "information",
+          "ru": "информация"
+        },
+        {
+          "en": "decision",
+          "ru": "решение"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "read",
+      "items": [
+        "about",
+        "banana",
+        "know",
+        "write",
+        "hour",
+        "station",
+        "decision"
+      ]
+    },
+    {
+      "type": "dictation",
+      "items": [
+        "listen",
+        "knife",
+        "action"
+      ]
+    }
+  ]
+}

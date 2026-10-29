@@ -1,0 +1,250 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-sound-02",
+  "lang": "en",
+  "kind": "sound",
+  "code": "EN-P2",
+  "order": 2,
+  "level": "A1",
+  "requires": [
+    "en-sound-01"
+  ],
+  "title": {
+    "ru": "Сочетания гласных: ee, ea, oo, ai, ou…",
+    "en": "Vowel teams: ee, ea, oo, ai, ou…",
+    "es": "Grupos de vocales: ee, ea, oo, ai, ou…"
+  },
+  "rules": [
+    {
+      "id": "en-ee-ea",
+      "title": {
+        "ru": "ee, ea — долгое [iː]",
+        "en": "ee, ea",
+        "es": "ee, ea"
+      },
+      "text": {
+        "ru": "ee и ea обычно читаются как долгое «и» [iː]: see, meet, sea, read. У ea есть исключения с [e]: bread, head, weather, и с [eɪ]: great, break.",
+        "en": "ee and ea usually give a long [iː]: see, sea. Exceptions with [e]: bread, head; with [eɪ]: great."
+      },
+      "ipa": "iː",
+      "examples": [
+        {
+          "en": "see",
+          "ru": "видеть"
+        },
+        {
+          "en": "meet",
+          "ru": "встречать"
+        },
+        {
+          "en": "sea",
+          "ru": "море"
+        },
+        {
+          "en": "bread",
+          "ru": "хлеб"
+        }
+      ]
+    },
+    {
+      "id": "en-oo",
+      "title": {
+        "ru": "oo — [uː] или [ʊ]",
+        "en": "oo",
+        "es": "oo"
+      },
+      "text": {
+        "ru": "oo чаще долгое «у» [uː]: food, moon, school. Перед k и в нескольких частых словах — краткое [ʊ]: book, look, good, foot. Сравните: pool / pull, fool / full.",
+        "en": "oo is usually long [uː]: food, moon; short [ʊ] before k and in good, foot: book, look."
+      },
+      "ipa": "uː / ʊ",
+      "examples": [
+        {
+          "en": "food",
+          "ru": "еда"
+        },
+        {
+          "en": "moon",
+          "ru": "луна"
+        },
+        {
+          "en": "book",
+          "ru": "книга"
+        },
+        {
+          "en": "good",
+          "ru": "хороший"
+        }
+      ]
+    },
+    {
+      "id": "en-ai-ay",
+      "title": {
+        "ru": "ai, ay — [eɪ]",
+        "en": "ai, ay",
+        "es": "ai, ay"
+      },
+      "text": {
+        "ru": "ai (внутри слова) и ay (в конце) читаются [eɪ] «эй»: rain, wait, day, play. Исключение: said [sed], says [sez].",
+        "en": "ai (inside a word) and ay (at the end) give [eɪ]: rain, day. Exception: said [sed]."
+      },
+      "ipa": "eɪ",
+      "examples": [
+        {
+          "en": "rain",
+          "ru": "дождь"
+        },
+        {
+          "en": "wait",
+          "ru": "ждать"
+        },
+        {
+          "en": "day",
+          "ru": "день"
+        },
+        {
+          "en": "play",
+          "ru": "играть"
+        }
+      ]
+    },
+    {
+      "id": "en-oa-ow",
+      "title": {
+        "ru": "oa, ow — [əʊ] или [aʊ]",
+        "en": "oa, ow",
+        "es": "oa, ow"
+      },
+      "text": {
+        "ru": "oa — [əʊ] «оу»: boat, road, coat. ow бывает двух видов: [əʊ] в конце многих слов — show, know, window — и [aʊ] «ау» — now, how, town, down. ou тоже чаще [aʊ]: out, house, mouse.",
+        "en": "oa = [əʊ]: boat. ow is [əʊ] in show, know or [aʊ] in now, town; ou is usually [aʊ]: out, house."
+      },
+      "ipa": "əʊ / aʊ",
+      "examples": [
+        {
+          "en": "boat",
+          "ru": "лодка"
+        },
+        {
+          "en": "show",
+          "ru": "шоу"
+        },
+        {
+          "en": "now",
+          "ru": "сейчас"
+        },
+        {
+          "en": "house",
+          "ru": "дом"
+        }
+      ]
+    },
+    {
+      "id": "en-oi-oy",
+      "title": {
+        "ru": "oi, oy — [ɔɪ]; au, aw — [ɔː]",
+        "en": "oi, oy; au, aw",
+        "es": "oi, oy; au, aw"
+      },
+      "text": {
+        "ru": "oi (внутри) и oy (в конце) — [ɔɪ] «ой»: coin, boy, enjoy. au и aw — долгое [ɔː]: August, author, saw, draw.",
+        "en": "oi, oy = [ɔɪ]: coin, boy. au, aw = [ɔː]: August, saw."
+      },
+      "ipa": "ɔɪ / ɔː",
+      "examples": [
+        {
+          "en": "coin",
+          "ru": "монета"
+        },
+        {
+          "en": "boy",
+          "ru": "мальчик"
+        },
+        {
+          "en": "saw",
+          "ru": "видел"
+        },
+        {
+          "en": "August",
+          "ru": "август"
+        }
+      ]
+    },
+    {
+      "id": "en-igh",
+      "title": {
+        "ru": "igh — [aɪ]",
+        "en": "igh",
+        "es": "igh"
+      },
+      "text": {
+        "ru": "В сочетании igh буквы gh немые, а i читается [aɪ] «ай»: night, light, high, right. Тот же звук в eigh даёт [eɪ]: eight, weight.",
+        "en": "In igh the gh is silent and i is [aɪ]: night, light. eigh gives [eɪ]: eight."
+      },
+      "ipa": "aɪ",
+      "examples": [
+        {
+          "en": "night",
+          "ru": "ночь"
+        },
+        {
+          "en": "light",
+          "ru": "свет"
+        },
+        {
+          "en": "right",
+          "ru": "правый"
+        },
+        {
+          "en": "eight",
+          "ru": "восемь"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "read",
+      "items": [
+        "street",
+        "teacher",
+        "moon",
+        "rain",
+        "boat",
+        "town",
+        "enjoy",
+        "night"
+      ]
+    },
+    {
+      "type": "pairs",
+      "items": [
+        [
+          "pool",
+          "pull"
+        ],
+        [
+          "fool",
+          "full"
+        ],
+        [
+          "meet",
+          "met"
+        ],
+        [
+          "boat",
+          "bought"
+        ]
+      ]
+    },
+    {
+      "type": "dictation",
+      "items": [
+        "green",
+        "school",
+        "today"
+      ]
+    }
+  ]
+}

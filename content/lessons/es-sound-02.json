@@ -1,0 +1,153 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-sound-02",
+  "lang": "es",
+  "kind": "sound",
+  "code": "ES-P2",
+  "order": 2,
+  "level": "A1",
+  "requires": [
+    "es-sound-01"
+  ],
+  "title": {
+    "ru": "Гласные и слоги: как пишется, так и читается",
+    "en": "Vowels and syllables: read as written",
+    "es": "Vocales y sílabas: se lee como se escribe"
+  },
+  "rules": [
+    {
+      "id": "es-five-vowels",
+      "title": {
+        "ru": "Пять чистых гласных",
+        "en": "Five pure vowels",
+        "es": "Cinco vocales puras"
+      },
+      "text": {
+        "ru": "В испанском пять гласных: a, e, i, o, u — и каждая всегда звучит одинаково, ударная она или нет. Никакого аканья: todo — [тодо], а не [тада]; e — [э], а не [йэ]. Гласные короткие и чёткие, без скольжения.",
+        "en": "Spanish has five vowels — a, e, i, o, u — and each always sounds the same, stressed or not. No reduction: todo is [todo]. Vowels are short and clear."
+      },
+      "ipa": "a e i o u",
+      "examples": [
+        {
+          "es": "casa",
+          "ru": "дом"
+        },
+        {
+          "es": "mesa",
+          "ru": "стол"
+        },
+        {
+          "es": "piso",
+          "ru": "квартира"
+        },
+        {
+          "es": "todo",
+          "ru": "всё"
+        },
+        {
+          "es": "luna",
+          "ru": "луна"
+        }
+      ]
+    },
+    {
+      "id": "es-open-syllables",
+      "title": {
+        "ru": "Читаем по слогам",
+        "en": "Reading syllable by syllable",
+        "es": "Leer por sílabas"
+      },
+      "text": {
+        "ru": "Испанский слог чаще всего открытый: согласная + гласная. Одна согласная между гласными отходит к следующему слогу: ca-sa, pe-lo-ta, ma-ña-na. Две согласные делятся: per-ro, can-tar; но pl, pr, bl, br, cl, cr, tr, dr не делятся: pro-ble-ma. ch, ll, rr — один звук и не делятся.",
+        "en": "Spanish syllables are mostly open (consonant + vowel): ca-sa, pe-lo-ta. Two consonants split (can-tar) except pl, pr, bl, br, cl, cr, tr, dr (pro-ble-ma). ch, ll, rr stay together."
+      },
+      "examples": [
+        {
+          "es": "pelota",
+          "ru": "мяч"
+        },
+        {
+          "es": "mañana",
+          "ru": "завтра"
+        },
+        {
+          "es": "problema",
+          "ru": "проблема"
+        },
+        {
+          "es": "chocolate",
+          "ru": "шоколад"
+        }
+      ]
+    },
+    {
+      "id": "es-read-as-written",
+      "title": {
+        "ru": "Как пишется, так и читается",
+        "en": "Read as written",
+        "es": "Se lee como se escribe"
+      },
+      "text": {
+        "ru": "Почти каждая буква — один звук, поэтому любое новое слово можно прочитать сразу. Исключений немного, и все они — правила чтения: c и g перед e, i (ES-P3), немая h, qu и gu, ll и y, r и rr, b = v (ES-P4). Куда падает ударение, тоже видно по написанию (ES-P5).",
+        "en": "Almost every letter is one sound, so any new word can be read at once. The few exceptions are reading rules: c and g before e, i, silent h, qu, gu, ll, y, r / rr, b = v. Stress is also visible from spelling."
+      },
+      "examples": [
+        {
+          "es": "momento",
+          "ru": "момент"
+        },
+        {
+          "es": "Toledo",
+          "ru": "Толедо"
+        },
+        {
+          "es": "banana",
+          "ru": "банан"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "read",
+      "items": [
+        "mamá",
+        "pelota",
+        "Toledo",
+        "momento",
+        "banana",
+        "problema"
+      ]
+    },
+    {
+      "type": "pairs",
+      "items": [
+        [
+          "peso",
+          "piso"
+        ],
+        [
+          "mesa",
+          "misa"
+        ],
+        [
+          "bola",
+          "bula"
+        ],
+        [
+          "pata",
+          "pato"
+        ]
+      ]
+    },
+    {
+      "type": "dictation",
+      "items": [
+        "luna",
+        "tomate",
+        "camino"
+      ]
+    }
+  ]
+}

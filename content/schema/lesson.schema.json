@@ -392,6 +392,45 @@
           "type": "string",
           "pattern": "^audio/[a-z]{2}/[a-z0-9_\\-/]+\\.(mp3|ogg|m4a)$"
         },
+        "sound": {
+          "$ref": "#/$defs/localized"
+        },
+        "syllables": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "examples": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "minProperties": 1,
+            "properties": {
+              "ext": {
+                "type": "object"
+              }
+            },
+            "patternProperties": {
+              "^[a-z]{2}$": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "rules": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          }
+        },
         "ext": {
           "type": "object"
         }

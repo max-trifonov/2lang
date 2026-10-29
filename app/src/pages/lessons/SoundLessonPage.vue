@@ -197,6 +197,9 @@ function close(): void {
                 <SoundButton :text="l.name" :lang="lang" :audio="l.audio" />
               </li>
             </ul>
+            <RouterLink :to="{ path: '/alphabet', query: { lang } }" class="sound__alphabet">{{
+              t('alphabet.open')
+            }}</RouterLink>
           </template>
 
           <template v-else-if="rule">
@@ -312,5 +315,12 @@ function close(): void {
   margin: 0;
   padding: 0;
   list-style: none;
+}
+
+.sound__alphabet {
+  display: inline-block;
+  margin-top: 12px;
+  color: var(--tint-ink);
+  font-weight: 650;
 }
 </style>

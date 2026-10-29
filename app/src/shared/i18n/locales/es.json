@@ -586,5 +586,17 @@
     "next": "Texto para estudiar",
     "fit": "Con reglas que ya sabes",
     "progress": "Textos estudiados: {done} de {total}"
+  },
+  "alphabet": {
+    "title": "Alfabeto y lectura",
+    "open": "Alfabeto y reglas de lectura →",
+    "hint": "Toca una letra: cómo se lee, sílabas para practicar y palabras.",
+    "letters": "Letras",
+    "empty": "Todavía no hay alfabeto para este idioma",
+    "syllables": "Practica por sílabas",
+    "words": "Palabras",
+    "letterRules": "Reglas con esta letra",
+    "rules": "Reglas de lectura",
+    "practice": "Lección →"
   }
 }

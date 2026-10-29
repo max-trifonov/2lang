@@ -15,112 +15,849 @@
   "letters": [
     {
       "letter": "a",
-      "name": "a"
+      "name": "a",
+      "ipa": "a",
+      "sound": {
+        "ru": "Всегда чистое [а], как в «мама», — и под ударением, и без.",
+        "en": "Always a clear [a], stressed or not."
+      },
+      "syllables": [
+        "ma",
+        "pa",
+        "la",
+        "ta",
+        "sa"
+      ],
+      "examples": [
+        {
+          "es": "casa",
+          "ru": "дом"
+        },
+        {
+          "es": "mapa",
+          "ru": "карта"
+        },
+        {
+          "es": "agua",
+          "ru": "вода"
+        }
+      ]
     },
     {
       "letter": "b",
-      "name": "be"
+      "name": "be",
+      "ipa": "b",
+      "sound": {
+        "ru": "Как русское «б». Между гласными мягче: губы почти не смыкаются [β]. b и v звучат одинаково.",
+        "en": "Like English b; softer between vowels [β]. b and v sound the same."
+      },
+      "syllables": [
+        "ba",
+        "be",
+        "bi",
+        "bo",
+        "bu"
+      ],
+      "examples": [
+        {
+          "es": "barco",
+          "ru": "корабль"
+        },
+        {
+          "es": "bueno",
+          "ru": "хороший"
+        },
+        {
+          "es": "Cuba",
+          "ru": "Куба"
+        }
+      ],
+      "rules": [
+        "es-b-v"
+      ]
     },
     {
       "letter": "c",
-      "name": "ce"
+      "name": "ce",
+      "ipa": "k / θ",
+      "sound": {
+        "ru": "Перед a, o, u и согласными — [к]: casa. Перед e, i — [θ] (как английское th в think, Испания) или [с] (Латинская Америка): cena. ch — «ч».",
+        "en": "Before a, o, u and consonants — [k]; before e, i — [θ] (Spain) or [s] (Latin America). ch = [tʃ]."
+      },
+      "syllables": [
+        "ca",
+        "co",
+        "cu",
+        "ce",
+        "ci"
+      ],
+      "examples": [
+        {
+          "es": "casa",
+          "ru": "дом"
+        },
+        {
+          "es": "cosa",
+          "ru": "вещь"
+        },
+        {
+          "es": "cena",
+          "ru": "ужин"
+        },
+        {
+          "es": "cine",
+          "ru": "кино"
+        }
+      ],
+      "rules": [
+        "es-c-before-e-i",
+        "es-ch"
+      ]
     },
     {
       "letter": "d",
-      "name": "de"
+      "name": "de",
+      "ipa": "d",
+      "sound": {
+        "ru": "Как «д», но кончик языка у зубов. Между гласными и в конце слова — мягко, почти как th в this [ð]: nada, Madrid.",
+        "en": "Like d, tongue on the teeth; between vowels and at the end it softens to [ð]."
+      },
+      "syllables": [
+        "da",
+        "de",
+        "di",
+        "do",
+        "du"
+      ],
+      "examples": [
+        {
+          "es": "dedo",
+          "ru": "палец"
+        },
+        {
+          "es": "nada",
+          "ru": "ничего"
+        },
+        {
+          "es": "Madrid",
+          "ru": "Мадрид"
+        }
+      ],
+      "rules": [
+        "es-d-soft"
+      ]
     },
     {
       "letter": "e",
-      "name": "e"
+      "name": "e",
+      "ipa": "e",
+      "sound": {
+        "ru": "Чистое [э], без «й» в начале: mesa [мэса], leche [лэчэ].",
+        "en": "A clear [e], never a diphthong."
+      },
+      "syllables": [
+        "me",
+        "pe",
+        "le",
+        "te",
+        "se"
+      ],
+      "examples": [
+        {
+          "es": "mesa",
+          "ru": "стол"
+        },
+        {
+          "es": "leche",
+          "ru": "молоко"
+        },
+        {
+          "es": "café",
+          "ru": "кофе"
+        }
+      ]
     },
     {
       "letter": "f",
-      "name": "efe"
+      "name": "efe",
+      "ipa": "f",
+      "sound": {
+        "ru": "Как «ф».",
+        "en": "Like English f."
+      },
+      "syllables": [
+        "fa",
+        "fe",
+        "fi",
+        "fo",
+        "fu"
+      ],
+      "examples": [
+        {
+          "es": "foto",
+          "ru": "фото"
+        },
+        {
+          "es": "café",
+          "ru": "кофе"
+        },
+        {
+          "es": "fiesta",
+          "ru": "праздник"
+        }
+      ]
     },
     {
       "letter": "g",
-      "name": "ge"
+      "name": "ge",
+      "ipa": "g / x",
+      "sound": {
+        "ru": "Перед a, o, u — [г]: gato. Перед e, i — хриплое [х], как j: gente. gue, gui — [ге], [ги] (u немая); güe, güi — [гуэ], [гуи].",
+        "en": "Before a, o, u — [g]; before e, i — [x] like j. gue, gui = [ge], [gi]; güe, güi = [gwe], [gwi]."
+      },
+      "syllables": [
+        "ga",
+        "go",
+        "gu",
+        "ge",
+        "gi",
+        "gue",
+        "gui"
+      ],
+      "examples": [
+        {
+          "es": "gato",
+          "ru": "кот"
+        },
+        {
+          "es": "gente",
+          "ru": "люди"
+        },
+        {
+          "es": "guitarra",
+          "ru": "гитара"
+        }
+      ],
+      "rules": [
+        "es-g-before-e-i"
+      ]
     },
     {
       "letter": "h",
-      "name": "hache"
+      "name": "hache",
+      "sound": {
+        "ru": "Не читается никогда: hola [ола], ahora [аора]. Звучит только в сочетании ch — «ч».",
+        "en": "Always silent: hola [ola]. Only ch is pronounced [tʃ]."
+      },
+      "syllables": [
+        "ha",
+        "he",
+        "hi",
+        "ho",
+        "hu"
+      ],
+      "examples": [
+        {
+          "es": "hola",
+          "ru": "привет"
+        },
+        {
+          "es": "hotel",
+          "ru": "отель"
+        },
+        {
+          "es": "ahora",
+          "ru": "сейчас"
+        }
+      ],
+      "rules": [
+        "es-h-silent",
+        "es-ch"
+      ]
     },
     {
       "letter": "i",
-      "name": "i"
+      "name": "i",
+      "ipa": "i",
+      "sound": {
+        "ru": "Чистое [и]. Рядом с другой гласной без ударения — короткое «й»: bien [бйен].",
+        "en": "A clear [i]; next to another vowel it glides to [j]: bien."
+      },
+      "syllables": [
+        "mi",
+        "pi",
+        "li",
+        "ti",
+        "si"
+      ],
+      "examples": [
+        {
+          "es": "isla",
+          "ru": "остров"
+        },
+        {
+          "es": "vida",
+          "ru": "жизнь"
+        },
+        {
+          "es": "sí",
+          "ru": "да"
+        }
+      ],
+      "rules": [
+        "es-diphthongs"
+      ]
     },
     {
       "letter": "j",
-      "name": "jota"
+      "name": "jota",
+      "ipa": "x",
+      "sound": {
+        "ru": "Хриплое [х] из глубины горла — сильнее русского «х»: jamón, ojo.",
+        "en": "A rough [x] from the back of the throat."
+      },
+      "syllables": [
+        "ja",
+        "je",
+        "ji",
+        "jo",
+        "ju"
+      ],
+      "examples": [
+        {
+          "es": "jamón",
+          "ru": "хамон"
+        },
+        {
+          "es": "ojo",
+          "ru": "глаз"
+        },
+        {
+          "es": "Juan",
+          "ru": "Хуан"
+        }
+      ]
     },
     {
       "letter": "k",
-      "name": "ka"
+      "name": "ka",
+      "ipa": "k",
+      "sound": {
+        "ru": "Как «к». Редкая буква — в заимствованиях: kilo, kiwi.",
+        "en": "Like k; only in loanwords."
+      },
+      "syllables": [
+        "ka",
+        "ke",
+        "ki",
+        "ko",
+        "ku"
+      ],
+      "examples": [
+        {
+          "es": "kilo",
+          "ru": "килограмм"
+        },
+        {
+          "es": "kiosco",
+          "ru": "киоск"
+        }
+      ]
     },
     {
       "letter": "l",
-      "name": "ele"
+      "name": "ele",
+      "ipa": "l",
+      "sound": {
+        "ru": "Светлое «л» — средняя между «л» и «ль», в конце слова не твёрдая: sol, papel. ll — отдельный звук «й».",
+        "en": "A clear l, never dark; ll is a different sound."
+      },
+      "syllables": [
+        "la",
+        "le",
+        "li",
+        "lo",
+        "lu"
+      ],
+      "examples": [
+        {
+          "es": "luna",
+          "ru": "луна"
+        },
+        {
+          "es": "sol",
+          "ru": "солнце"
+        },
+        {
+          "es": "papel",
+          "ru": "бумага"
+        }
+      ],
+      "rules": [
+        "es-ll-y"
+      ]
     },
     {
       "letter": "m",
-      "name": "eme"
+      "name": "eme",
+      "ipa": "m",
+      "sound": {
+        "ru": "Как «м».",
+        "en": "Like m."
+      },
+      "syllables": [
+        "ma",
+        "me",
+        "mi",
+        "mo",
+        "mu"
+      ],
+      "examples": [
+        {
+          "es": "mamá",
+          "ru": "мама"
+        },
+        {
+          "es": "mano",
+          "ru": "рука"
+        },
+        {
+          "es": "mismo",
+          "ru": "тот же"
+        }
+      ]
     },
     {
       "letter": "n",
-      "name": "ene"
+      "name": "ene",
+      "ipa": "n",
+      "sound": {
+        "ru": "Как «н». Перед b, v, p читается как [м]: un beso [ум бэсо].",
+        "en": "Like n; before b, v, p it becomes [m]."
+      },
+      "syllables": [
+        "na",
+        "ne",
+        "ni",
+        "no",
+        "nu"
+      ],
+      "examples": [
+        {
+          "es": "nada",
+          "ru": "ничего"
+        },
+        {
+          "es": "noche",
+          "ru": "ночь"
+        },
+        {
+          "es": "nombre",
+          "ru": "имя"
+        }
+      ]
     },
     {
       "letter": "ñ",
       "name": "eñe",
-      "ipa": "ɲ"
+      "ipa": "ɲ",
+      "sound": {
+        "ru": "Мягкое «нь» одним звуком: España [эспанья], año [анйо]. Отдельная буква после n.",
+        "en": "A palatal [ɲ] like ny in canyon; a separate letter after n."
+      },
+      "syllables": [
+        "ña",
+        "ñe",
+        "ñi",
+        "ño",
+        "ñu"
+      ],
+      "examples": [
+        {
+          "es": "año",
+          "ru": "год"
+        },
+        {
+          "es": "niño",
+          "ru": "ребёнок"
+        },
+        {
+          "es": "España",
+          "ru": "Испания"
+        }
+      ],
+      "rules": [
+        "es-n-tilde"
+      ]
     },
     {
       "letter": "o",
-      "name": "o"
+      "name": "o",
+      "ipa": "o",
+      "sound": {
+        "ru": "Чистое [о] — без аканья, даже без ударения: todo [тодо], como [комо].",
+        "en": "A clear [o], never reduced."
+      },
+      "syllables": [
+        "mo",
+        "po",
+        "lo",
+        "to",
+        "so"
+      ],
+      "examples": [
+        {
+          "es": "ojo",
+          "ru": "глаз"
+        },
+        {
+          "es": "todo",
+          "ru": "всё"
+        },
+        {
+          "es": "como",
+          "ru": "как"
+        }
+      ]
     },
     {
       "letter": "p",
-      "name": "pe"
+      "name": "pe",
+      "ipa": "p",
+      "sound": {
+        "ru": "Как «п», без придыхания.",
+        "en": "Like p, without a puff of air."
+      },
+      "syllables": [
+        "pa",
+        "pe",
+        "pi",
+        "po",
+        "pu"
+      ],
+      "examples": [
+        {
+          "es": "pan",
+          "ru": "хлеб"
+        },
+        {
+          "es": "papá",
+          "ru": "папа"
+        },
+        {
+          "es": "sopa",
+          "ru": "суп"
+        }
+      ]
     },
     {
       "letter": "q",
-      "name": "cu"
+      "name": "cu",
+      "ipa": "k",
+      "sound": {
+        "ru": "Только в que, qui = [ке], [ки]; u не читается: queso [кэсо].",
+        "en": "Only in que, qui = [ke], [ki]; the u is silent."
+      },
+      "syllables": [
+        "que",
+        "qui"
+      ],
+      "examples": [
+        {
+          "es": "queso",
+          "ru": "сыр"
+        },
+        {
+          "es": "aquí",
+          "ru": "здесь"
+        },
+        {
+          "es": "¿qué?",
+          "ru": "что?"
+        }
+      ],
+      "rules": [
+        "es-qu"
+      ]
     },
     {
       "letter": "r",
-      "name": "erre"
+      "name": "erre",
+      "ipa": "ɾ / r",
+      "sound": {
+        "ru": "Между гласными и в конце — один удар языком [ɾ]: pero, mar. В начале слова, после n, l, s и в rr — раскатистое [р]: rosa, perro.",
+        "en": "One tap [ɾ] between vowels; a trill [r] at the start of a word, after n, l, s and for rr."
+      },
+      "syllables": [
+        "ra",
+        "re",
+        "ri",
+        "ro",
+        "ru"
+      ],
+      "examples": [
+        {
+          "es": "pero",
+          "ru": "но"
+        },
+        {
+          "es": "perro",
+          "ru": "собака"
+        },
+        {
+          "es": "rosa",
+          "ru": "роза"
+        }
+      ],
+      "rules": [
+        "es-r-rr"
+      ]
     },
     {
       "letter": "s",
-      "name": "ese"
+      "name": "ese",
+      "ipa": "s",
+      "sound": {
+        "ru": "Всегда глухое [с], даже между гласными: casa [каса], не [каза].",
+        "en": "Always voiceless [s], even between vowels."
+      },
+      "syllables": [
+        "sa",
+        "se",
+        "si",
+        "so",
+        "su"
+      ],
+      "examples": [
+        {
+          "es": "sol",
+          "ru": "солнце"
+        },
+        {
+          "es": "casa",
+          "ru": "дом"
+        },
+        {
+          "es": "más",
+          "ru": "больше"
+        }
+      ]
     },
     {
       "letter": "t",
-      "name": "te"
+      "name": "te",
+      "ipa": "t",
+      "sound": {
+        "ru": "Как «т», кончик языка у зубов, без придыхания.",
+        "en": "Like t, tongue on the teeth, no puff of air."
+      },
+      "syllables": [
+        "ta",
+        "te",
+        "ti",
+        "to",
+        "tu"
+      ],
+      "examples": [
+        {
+          "es": "taza",
+          "ru": "чашка"
+        },
+        {
+          "es": "tomate",
+          "ru": "помидор"
+        },
+        {
+          "es": "tío",
+          "ru": "дядя"
+        }
+      ]
     },
     {
       "letter": "u",
-      "name": "u"
+      "name": "u",
+      "ipa": "u",
+      "sound": {
+        "ru": "Чистое [у]. Немая в que, qui, gue, gui. Рядом с другой гласной — короткое «у»: bueno [буэно].",
+        "en": "A clear [u]; silent in que, qui, gue, gui; glides to [w] before vowels."
+      },
+      "syllables": [
+        "mu",
+        "pu",
+        "lu",
+        "tu",
+        "su"
+      ],
+      "examples": [
+        {
+          "es": "uno",
+          "ru": "один"
+        },
+        {
+          "es": "luna",
+          "ru": "луна"
+        },
+        {
+          "es": "bueno",
+          "ru": "хороший"
+        }
+      ],
+      "rules": [
+        "es-diphthongs"
+      ]
     },
     {
       "letter": "v",
-      "name": "uve"
+      "name": "uve",
+      "ipa": "b",
+      "sound": {
+        "ru": "Читается как b: vino [бино]. Губы не касаются зубов, как в русском «в».",
+        "en": "Pronounced like b: vino [bino]."
+      },
+      "syllables": [
+        "va",
+        "ve",
+        "vi",
+        "vo",
+        "vu"
+      ],
+      "examples": [
+        {
+          "es": "vino",
+          "ru": "вино"
+        },
+        {
+          "es": "vaso",
+          "ru": "стакан"
+        },
+        {
+          "es": "nuevo",
+          "ru": "новый"
+        }
+      ],
+      "rules": [
+        "es-b-v"
+      ]
     },
     {
       "letter": "w",
-      "name": "uve doble"
+      "name": "uve doble",
+      "ipa": "w",
+      "sound": {
+        "ru": "Только в заимствованиях: web [уэб], wifi [уифи].",
+        "en": "Only in loanwords: web, wifi."
+      },
+      "syllables": [
+        "wa",
+        "we",
+        "wi"
+      ],
+      "examples": [
+        {
+          "es": "web",
+          "ru": "сайт"
+        },
+        {
+          "es": "wifi",
+          "ru": "вай-фай"
+        },
+        {
+          "es": "kiwi",
+          "ru": "киви"
+        }
+      ]
     },
     {
       "letter": "x",
-      "name": "equis"
+      "name": "equis",
+      "ipa": "ks",
+      "sound": {
+        "ru": "Между гласными — [кс]: taxi, examen. В начале слова часто [с]. В México, Oaxaca — старое [х].",
+        "en": "[ks] between vowels; often [s] at the start; [x] in México."
+      },
+      "syllables": [
+        "xa",
+        "xe",
+        "xi",
+        "xo"
+      ],
+      "examples": [
+        {
+          "es": "taxi",
+          "ru": "такси"
+        },
+        {
+          "es": "examen",
+          "ru": "экзамен"
+        },
+        {
+          "es": "México",
+          "ru": "Мексика"
+        }
+      ]
     },
     {
       "letter": "y",
-      "name": "ye"
+      "name": "ye",
+      "ipa": "ʝ / i",
+      "sound": {
+        "ru": "Перед гласной — согласный «й» (в Аргентине — «ж», «ш»): yo, playa. Отдельно и в конце слова — гласная [и]: y, hoy, muy.",
+        "en": "Before a vowel — consonant [ʝ] (Argentina [ʃ]); alone or at the end — vowel [i]."
+      },
+      "syllables": [
+        "ya",
+        "ye",
+        "yo",
+        "yu"
+      ],
+      "examples": [
+        {
+          "es": "yo",
+          "ru": "я"
+        },
+        {
+          "es": "playa",
+          "ru": "пляж"
+        },
+        {
+          "es": "hoy",
+          "ru": "сегодня"
+        }
+      ],
+      "rules": [
+        "es-ll-y"
+      ]
     },
     {
       "letter": "z",
-      "name": "zeta"
+      "name": "zeta",
+      "ipa": "θ / s",
+      "sound": {
+        "ru": "В Испании — межзубное [θ], как th в think; в Латинской Америке — [с]: zapato. Перед e, i пишут c: lápiz → lápices.",
+        "en": "[θ] in Spain, [s] in Latin America; before e, i Spanish writes c."
+      },
+      "syllables": [
+        "za",
+        "zo",
+        "zu"
+      ],
+      "examples": [
+        {
+          "es": "zapato",
+          "ru": "ботинок"
+        },
+        {
+          "es": "plaza",
+          "ru": "площадь"
+        },
+        {
+          "es": "azul",
+          "ru": "синий"
+        }
+      ],
+      "rules": [
+        "es-z"
+      ]
     }
   ],
   "rules": [
@@ -144,7 +881,7 @@
         },
         {
           "es": "mañana",
-          "ru": "завтра; утро"
+          "ru": "завтра, утро"
         },
         {
           "es": "España",

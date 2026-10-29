@@ -1,0 +1,954 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-sound-01",
+  "lang": "en",
+  "kind": "sound",
+  "code": "EN-P1",
+  "order": 1,
+  "level": "A1",
+  "title": {
+    "ru": "Алфавит и диктовка по буквам",
+    "en": "The alphabet and spelling out",
+    "es": "El alfabeto inglés y deletrear"
+  },
+  "letters": [
+    {
+      "letter": "a",
+      "name": "a",
+      "ipa": "eɪ",
+      "sound": {
+        "ru": "Гласная читается по-разному — смотря какой слог. Открытый (a + согласная + немая e): [eɪ] «эй», как название буквы — cake, name. Закрытый (кончается на согласную): [æ] — между «а» и «э», рот широко — cat, bag. a + r: долгое [ɑː] — car. a + re: [eə] «эа» — care.",
+        "en": "Open syllable (a + consonant + silent e): [eɪ] — cake. Closed: [æ] — cat. a + r: [ɑː] — car. a + re: [eə] — care."
+      },
+      "syllables": [
+        "cat",
+        "cake",
+        "car",
+        "care"
+      ],
+      "examples": [
+        {
+          "en": "cat",
+          "ru": "кошка"
+        },
+        {
+          "en": "name",
+          "ru": "имя"
+        },
+        {
+          "en": "car",
+          "ru": "машина"
+        },
+        {
+          "en": "care",
+          "ru": "забота"
+        }
+      ],
+      "rules": [
+        "en-open-syllable",
+        "en-closed-syllable",
+        "en-vowel-r"
+      ]
+    },
+    {
+      "letter": "b",
+      "name": "bee",
+      "ipa": "biː",
+      "sound": {
+        "ru": "Название «би». Читается как «б»; в конце слова не оглушается: cab ≠ cap. После m в конце немая: climb, comb.",
+        "en": "Like b; stays voiced at the end; silent after m: climb."
+      },
+      "syllables": [
+        "bat",
+        "bet",
+        "bit",
+        "bot",
+        "but"
+      ],
+      "examples": [
+        {
+          "en": "bag",
+          "ru": "сумка"
+        },
+        {
+          "en": "job",
+          "ru": "работа"
+        },
+        {
+          "en": "climb",
+          "ru": "карабкаться"
+        }
+      ],
+      "rules": [
+        "en-final-voiced",
+        "en-silent-letters"
+      ]
+    },
+    {
+      "letter": "c",
+      "name": "cee",
+      "ipa": "siː",
+      "sound": {
+        "ru": "Название «си». Перед e, i, y — [s]: city, cent, cycle. Перед a, o, u и согласными — [k]: cat, cup, clock. ck — [k]: back. ch — «ч»: chip.",
+        "en": "Before e, i, y — [s]: city; otherwise [k]: cat. ck = [k], ch = [tʃ]."
+      },
+      "syllables": [
+        "cat",
+        "cot",
+        "cut",
+        "cent",
+        "city"
+      ],
+      "examples": [
+        {
+          "en": "cat",
+          "ru": "кошка"
+        },
+        {
+          "en": "city",
+          "ru": "город"
+        },
+        {
+          "en": "clock",
+          "ru": "часы"
+        },
+        {
+          "en": "back",
+          "ru": "назад"
+        }
+      ],
+      "rules": [
+        "en-c-g-soft",
+        "en-ck",
+        "en-sh-ch"
+      ]
+    },
+    {
+      "letter": "d",
+      "name": "dee",
+      "ipa": "diː",
+      "sound": {
+        "ru": "Название «ди». Как «д», но кончик языка на бугорках за зубами, а не на зубах. В конце не оглушается: bad ≠ bat.",
+        "en": "Tongue on the ridge behind the teeth; stays voiced at the end: bad ≠ bat."
+      },
+      "syllables": [
+        "dad",
+        "dog",
+        "dig",
+        "did"
+      ],
+      "examples": [
+        {
+          "en": "dog",
+          "ru": "собака"
+        },
+        {
+          "en": "bed",
+          "ru": "кровать"
+        },
+        {
+          "en": "red",
+          "ru": "красный"
+        }
+      ],
+      "rules": [
+        "en-final-voiced"
+      ]
+    },
+    {
+      "letter": "e",
+      "name": "e",
+      "ipa": "iː",
+      "sound": {
+        "ru": "Гласная читается по-разному — смотря какой слог. Открытый: [iː] долгое «и», как название — he, Pete, these. Закрытый: [e] «э» — bed, pen. e + r: [ɜː] — her. e + re: [ɪə] «иа» — here. Немая e в конце слова не читается, а только «открывает» слог: make, time.",
+        "en": "Open: [iː] — he, Pete. Closed: [e] — bed. e + r: [ɜː] — her. e + re: [ɪə] — here. Final e is silent and makes the vowel before it open."
+      },
+      "syllables": [
+        "pen",
+        "Pete",
+        "her",
+        "here"
+      ],
+      "examples": [
+        {
+          "en": "bed",
+          "ru": "кровать"
+        },
+        {
+          "en": "he",
+          "ru": "он"
+        },
+        {
+          "en": "her",
+          "ru": "её"
+        },
+        {
+          "en": "here",
+          "ru": "здесь"
+        }
+      ],
+      "rules": [
+        "en-open-syllable",
+        "en-closed-syllable",
+        "en-vowel-r"
+      ]
+    },
+    {
+      "letter": "f",
+      "name": "ef",
+      "ipa": "ef",
+      "sound": {
+        "ru": "Название «эф». Как «ф». Тот же звук даёт ph: phone. Исключение: of — [ɒv].",
+        "en": "Like f; ph also gives [f]. Exception: of [ɒv]."
+      },
+      "syllables": [
+        "fat",
+        "fit",
+        "fun",
+        "fog"
+      ],
+      "examples": [
+        {
+          "en": "fish",
+          "ru": "рыба"
+        },
+        {
+          "en": "off",
+          "ru": "выключено"
+        },
+        {
+          "en": "coffee",
+          "ru": "кофе"
+        }
+      ],
+      "rules": [
+        "en-ph"
+      ]
+    },
+    {
+      "letter": "g",
+      "name": "gee",
+      "ipa": "dʒiː",
+      "sound": {
+        "ru": "Название «джи». Перед e, i, y часто [dʒ] «дж»: gym, page, giant. Иначе — [g]: go, big, glass. Частые исключения с [g]: get, give, girl, begin.",
+        "en": "Before e, i, y often [dʒ]: gym, page; otherwise [g]: go. Exceptions: get, give, girl."
+      },
+      "syllables": [
+        "gap",
+        "got",
+        "gum",
+        "gem",
+        "gym"
+      ],
+      "examples": [
+        {
+          "en": "go",
+          "ru": "идти"
+        },
+        {
+          "en": "page",
+          "ru": "страница"
+        },
+        {
+          "en": "gym",
+          "ru": "спортзал"
+        },
+        {
+          "en": "girl",
+          "ru": "девочка"
+        }
+      ],
+      "rules": [
+        "en-c-g-soft",
+        "en-igh"
+      ]
+    },
+    {
+      "letter": "h",
+      "name": "aitch",
+      "ipa": "eɪtʃ",
+      "sound": {
+        "ru": "Название «эйч». Лёгкий выдох, а не русское «х»: hat, home. Немая в hour, honest и в wh: what. В сочетаниях sh, ch, th, ph, gh — часть другого звука.",
+        "en": "A light breath, not a Russian [x]. Silent in hour, honest; part of sh, ch, th, ph."
+      },
+      "syllables": [
+        "hat",
+        "hot",
+        "hit",
+        "hut"
+      ],
+      "examples": [
+        {
+          "en": "hat",
+          "ru": "шляпа"
+        },
+        {
+          "en": "hello",
+          "ru": "привет"
+        },
+        {
+          "en": "hour",
+          "ru": "час"
+        }
+      ],
+      "rules": [
+        "en-silent-letters",
+        "en-th",
+        "en-sh-ch"
+      ]
+    },
+    {
+      "letter": "i",
+      "name": "i",
+      "ipa": "aɪ",
+      "sound": {
+        "ru": "Гласная читается по-разному — смотря какой слог. Открытый: [aɪ] «ай», как название — bike, time. Закрытый: [ɪ] — короткое, между «и» и «ы»: sit, big. i + r: [ɜː] — girl. i + re: [aɪə] — fire. igh — тоже [aɪ]: night.",
+        "en": "Open: [aɪ] — bike. Closed: [ɪ] — sit. i + r: [ɜː] — girl. i + re: [aɪə] — fire. igh = [aɪ]."
+      },
+      "syllables": [
+        "sit",
+        "site",
+        "bird",
+        "fire"
+      ],
+      "examples": [
+        {
+          "en": "big",
+          "ru": "большой"
+        },
+        {
+          "en": "time",
+          "ru": "время"
+        },
+        {
+          "en": "girl",
+          "ru": "девочка"
+        },
+        {
+          "en": "fire",
+          "ru": "огонь"
+        }
+      ],
+      "rules": [
+        "en-open-syllable",
+        "en-closed-syllable",
+        "en-vowel-r",
+        "en-igh"
+      ]
+    },
+    {
+      "letter": "j",
+      "name": "jay",
+      "ipa": "dʒeɪ",
+      "sound": {
+        "ru": "Название «джей». Всегда [dʒ] «дж» одним звуком: job, jam, July.",
+        "en": "Always [dʒ]: job, jam."
+      },
+      "syllables": [
+        "jam",
+        "jet",
+        "jog",
+        "jug"
+      ],
+      "examples": [
+        {
+          "en": "job",
+          "ru": "работа"
+        },
+        {
+          "en": "jam",
+          "ru": "джем"
+        },
+        {
+          "en": "July",
+          "ru": "июль"
+        }
+      ]
+    },
+    {
+      "letter": "k",
+      "name": "kay",
+      "ipa": "keɪ",
+      "sound": {
+        "ru": "Название «кей». Как «к» с придыханием. Перед n в начале слова немая: know, knife. ck в конце — [k]: back.",
+        "en": "Like k with a puff of air; silent before n: know, knife."
+      },
+      "syllables": [
+        "kit",
+        "kid",
+        "key"
+      ],
+      "examples": [
+        {
+          "en": "key",
+          "ru": "ключ"
+        },
+        {
+          "en": "kind",
+          "ru": "добрый"
+        },
+        {
+          "en": "know",
+          "ru": "знать"
+        }
+      ],
+      "rules": [
+        "en-silent-letters",
+        "en-ck"
+      ]
+    },
+    {
+      "letter": "l",
+      "name": "el",
+      "ipa": "el",
+      "sound": {
+        "ru": "Название «эл». В начале слога — светлое [l]: light. В конце — тёмное, «глубокое» [ɫ]: feel, ball. Немая в talk, walk, half, could.",
+        "en": "Clear [l] at the start, dark [ɫ] at the end; silent in talk, half, could."
+      },
+      "syllables": [
+        "lap",
+        "let",
+        "lit",
+        "lot"
+      ],
+      "examples": [
+        {
+          "en": "lamp",
+          "ru": "лампа"
+        },
+        {
+          "en": "ball",
+          "ru": "мяч"
+        },
+        {
+          "en": "walk",
+          "ru": "идти пешком"
+        }
+      ],
+      "rules": [
+        "en-silent-letters"
+      ]
+    },
+    {
+      "letter": "m",
+      "name": "em",
+      "ipa": "em",
+      "sound": {
+        "ru": "Название «эм». Как «м».",
+        "en": "Like m."
+      },
+      "syllables": [
+        "map",
+        "men",
+        "mix",
+        "mop"
+      ],
+      "examples": [
+        {
+          "en": "map",
+          "ru": "карта"
+        },
+        {
+          "en": "time",
+          "ru": "время"
+        },
+        {
+          "en": "summer",
+          "ru": "лето"
+        }
+      ]
+    },
+    {
+      "letter": "n",
+      "name": "en",
+      "ipa": "en",
+      "sound": {
+        "ru": "Название «эн». Как «н», язык на бугорках. ng — носовой [ŋ] без «г» на конце: sing, long. nk — [ŋk]: think.",
+        "en": "Like n; ng is [ŋ] with no [g]: sing; nk = [ŋk]."
+      },
+      "syllables": [
+        "nap",
+        "net",
+        "nod",
+        "nut"
+      ],
+      "examples": [
+        {
+          "en": "name",
+          "ru": "имя"
+        },
+        {
+          "en": "sing",
+          "ru": "петь"
+        },
+        {
+          "en": "think",
+          "ru": "думать"
+        }
+      ],
+      "rules": [
+        "en-ng"
+      ]
+    },
+    {
+      "letter": "o",
+      "name": "o",
+      "ipa": "əʊ",
+      "sound": {
+        "ru": "Гласная читается по-разному — смотря какой слог. Открытый: [əʊ] «оу», как название — home, note, go. Закрытый: [ɒ] — короткое открытое «о»: hot, dog (в американском ближе к «а»). o + r: [ɔː] долгое «о» — fork. o + re: [ɔː] — more. Безударная o часто звучит как [ə]: today.",
+        "en": "Open: [əʊ] — home. Closed: [ɒ] — hot. o + r and o + re: [ɔː] — fork, more. Unstressed o is often [ə]."
+      },
+      "syllables": [
+        "not",
+        "note",
+        "fork",
+        "more"
+      ],
+      "examples": [
+        {
+          "en": "hot",
+          "ru": "горячий"
+        },
+        {
+          "en": "home",
+          "ru": "дом"
+        },
+        {
+          "en": "fork",
+          "ru": "вилка"
+        },
+        {
+          "en": "more",
+          "ru": "больше"
+        }
+      ],
+      "rules": [
+        "en-open-syllable",
+        "en-closed-syllable",
+        "en-vowel-r",
+        "en-schwa"
+      ]
+    },
+    {
+      "letter": "p",
+      "name": "pee",
+      "ipa": "piː",
+      "sound": {
+        "ru": "Название «пи». Как «п» с заметным придыханием в начале слова: pen [pʰen]. ph — [f]: phone.",
+        "en": "Aspirated at the start of a word; ph = [f]."
+      },
+      "syllables": [
+        "pat",
+        "pet",
+        "pit",
+        "pot"
+      ],
+      "examples": [
+        {
+          "en": "pen",
+          "ru": "ручка"
+        },
+        {
+          "en": "stop",
+          "ru": "стоп"
+        },
+        {
+          "en": "apple",
+          "ru": "яблоко"
+        }
+      ],
+      "rules": [
+        "en-ph"
+      ]
+    },
+    {
+      "letter": "q",
+      "name": "cue",
+      "ipa": "kjuː",
+      "sound": {
+        "ru": "Название «кью». Почти всегда с u: qu — [kw] «кв»: queen, quick, question.",
+        "en": "Almost always qu = [kw]: queen."
+      },
+      "syllables": [
+        "quit",
+        "quiz",
+        "queen"
+      ],
+      "examples": [
+        {
+          "en": "queen",
+          "ru": "королева"
+        },
+        {
+          "en": "quick",
+          "ru": "быстрый"
+        },
+        {
+          "en": "question",
+          "ru": "вопрос"
+        }
+      ]
+    },
+    {
+      "letter": "r",
+      "name": "ar",
+      "ipa": "ɑː",
+      "sound": {
+        "ru": "Название «а:». Язык не вибрирует: кончик загнут назад и не касается нёба — red, try. После гласной в британском не читается, а удлиняет гласную: car [kɑː], her; в американском — слышно.",
+        "en": "No trill: the tongue curls back. After a vowel it is silent in British English and lengthens the vowel: car [kɑː]."
+      },
+      "syllables": [
+        "rat",
+        "red",
+        "rid",
+        "rot"
+      ],
+      "examples": [
+        {
+          "en": "red",
+          "ru": "красный"
+        },
+        {
+          "en": "try",
+          "ru": "пытаться"
+        },
+        {
+          "en": "car",
+          "ru": "машина"
+        }
+      ],
+      "rules": [
+        "en-vowel-r"
+      ]
+    },
+    {
+      "letter": "s",
+      "name": "ess",
+      "ipa": "es",
+      "sound": {
+        "ru": "Название «эс». Обычно [s]: sun, bus. Между гласными и в окончаниях после звонких часто [z]: rose, is, dogs. sh — [ʃ] «ш». sion — [ʒən] или [ʃən].",
+        "en": "Usually [s]; often [z] between vowels and after voiced sounds: rose, dogs. sh = [ʃ]."
+      },
+      "syllables": [
+        "sat",
+        "set",
+        "sit",
+        "sun"
+      ],
+      "examples": [
+        {
+          "en": "sun",
+          "ru": "солнце"
+        },
+        {
+          "en": "rose",
+          "ru": "роза"
+        },
+        {
+          "en": "dogs",
+          "ru": "собаки"
+        }
+      ],
+      "rules": [
+        "en-s-endings",
+        "en-sh-ch"
+      ]
+    },
+    {
+      "letter": "t",
+      "name": "tee",
+      "ipa": "tiː",
+      "sound": {
+        "ru": "Название «ти». Как «т» с придыханием, язык на бугорках. th — особые звуки [θ] / [ð]. -tion — [ʃən]: station.",
+        "en": "Aspirated t; th is [θ] / [ð]; -tion = [ʃən]."
+      },
+      "syllables": [
+        "tap",
+        "ten",
+        "tip",
+        "top"
+      ],
+      "examples": [
+        {
+          "en": "ten",
+          "ru": "десять"
+        },
+        {
+          "en": "that",
+          "ru": "тот"
+        },
+        {
+          "en": "station",
+          "ru": "станция"
+        }
+      ],
+      "rules": [
+        "en-th",
+        "en-tion"
+      ]
+    },
+    {
+      "letter": "u",
+      "name": "u",
+      "ipa": "juː",
+      "sound": {
+        "ru": "Гласная читается по-разному — смотря какой слог. Открытый: [juː] «ю», как название — cute, tube, music. Закрытый: [ʌ] — короткое, похоже на безударное «а»: cup, bus, sun. u + r: [ɜː] — turn. u + re: [jʊə] — pure. После l, r, j часто без «й»: rule [ruːl].",
+        "en": "Open: [juː] — cute. Closed: [ʌ] — cup. u + r: [ɜː] — turn. u + re: [jʊə] — pure."
+      },
+      "syllables": [
+        "cut",
+        "cute",
+        "turn",
+        "pure"
+      ],
+      "examples": [
+        {
+          "en": "cup",
+          "ru": "чашка"
+        },
+        {
+          "en": "music",
+          "ru": "музыка"
+        },
+        {
+          "en": "turn",
+          "ru": "поворачивать"
+        },
+        {
+          "en": "pure",
+          "ru": "чистый"
+        }
+      ],
+      "rules": [
+        "en-open-syllable",
+        "en-closed-syllable",
+        "en-vowel-r"
+      ]
+    },
+    {
+      "letter": "v",
+      "name": "vee",
+      "ipa": "viː",
+      "sound": {
+        "ru": "Название «ви». Настоящее «в»: верхние зубы на нижней губе. Не путать с w: vest «жилет» ≠ west «запад».",
+        "en": "A real [v] with teeth on the lip; vest ≠ west."
+      },
+      "syllables": [
+        "van",
+        "vet",
+        "vim"
+      ],
+      "examples": [
+        {
+          "en": "van",
+          "ru": "фургон"
+        },
+        {
+          "en": "very",
+          "ru": "очень"
+        },
+        {
+          "en": "live",
+          "ru": "жить"
+        }
+      ],
+      "rules": [
+        "en-w-v"
+      ]
+    },
+    {
+      "letter": "w",
+      "name": "double u",
+      "ipa": "ˈdʌbəljuː",
+      "sound": {
+        "ru": "Название «дабл-ю». Губы трубочкой и сразу в гласную, зубы не участвуют: we, window. wh — тоже [w]: what, when (кроме who [huː]). wr — w немая: write.",
+        "en": "Rounded lips, no teeth: we. wh = [w] (but who [huː]); silent in wr: write."
+      },
+      "syllables": [
+        "wet",
+        "win",
+        "wag"
+      ],
+      "examples": [
+        {
+          "en": "we",
+          "ru": "мы"
+        },
+        {
+          "en": "what",
+          "ru": "что"
+        },
+        {
+          "en": "write",
+          "ru": "писать"
+        }
+      ],
+      "rules": [
+        "en-w-v",
+        "en-silent-letters"
+      ]
+    },
+    {
+      "letter": "x",
+      "name": "ex",
+      "ipa": "eks",
+      "sound": {
+        "ru": "Название «экс». Обычно [ks]: box, six. Перед ударной гласной часто [gz]: exam [ɪgˈzæm]. В начале слова — [z]: xylophone.",
+        "en": "Usually [ks]: box; [gz] in exam; [z] at the start: xylophone."
+      },
+      "syllables": [
+        "box",
+        "fix",
+        "six"
+      ],
+      "examples": [
+        {
+          "en": "box",
+          "ru": "коробка"
+        },
+        {
+          "en": "six",
+          "ru": "шесть"
+        },
+        {
+          "en": "exam",
+          "ru": "экзамен"
+        }
+      ]
+    },
+    {
+      "letter": "y",
+      "name": "wye",
+      "ipa": "waɪ",
+      "sound": {
+        "ru": "Название «уай». В начале слова — согласная «й»: yes, you. В конце односложного слова — [aɪ]: my, fly. В конце длинного — [i]: happy, city. Внутри слова — как i: gym [ɪ], type [aɪ].",
+        "en": "Consonant [j] at the start: yes. [aɪ] at the end of one-syllable words: my; [i] in happy; like i inside: gym, type."
+      },
+      "syllables": [
+        "yes",
+        "my",
+        "gym",
+        "happy"
+      ],
+      "examples": [
+        {
+          "en": "yes",
+          "ru": "да"
+        },
+        {
+          "en": "my",
+          "ru": "мой"
+        },
+        {
+          "en": "happy",
+          "ru": "счастливый"
+        },
+        {
+          "en": "gym",
+          "ru": "спортзал"
+        }
+      ],
+      "rules": [
+        "en-open-syllable"
+      ]
+    },
+    {
+      "letter": "z",
+      "name": "zed",
+      "ipa": "zed",
+      "sound": {
+        "ru": "Название «зед» (в Америке — «зи»). Как «з»: zoo, size, lazy.",
+        "en": "Like z; called zee in American English."
+      },
+      "syllables": [
+        "zip",
+        "zoo",
+        "zap"
+      ],
+      "examples": [
+        {
+          "en": "zoo",
+          "ru": "зоопарк"
+        },
+        {
+          "en": "size",
+          "ru": "размер"
+        },
+        {
+          "en": "lazy",
+          "ru": "ленивый"
+        }
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "id": "en-letter-names",
+      "title": {
+        "ru": "Названия букв: где путают",
+        "en": "Letter names: common mix-ups",
+        "es": "Nombres de letras: confusiones"
+      },
+      "text": {
+        "ru": "Названия гласных — это их звук в открытом слоге: A [eɪ] «эй», E [iː] «и», I [aɪ] «ай», O [əʊ] «оу», U [juː] «ю». Чаще всего путают: E [iː] и I [aɪ]; G [dʒiː] и J [dʒeɪ]; R [ɑː]; Y [waɪ]; W [ˈdʌbəljuː]. Двойные буквы диктуют так: double l, double o (Hollywood: H-O-double L-Y-W-double O-D).",
+        "en": "Vowel names are their open-syllable sounds: A [eɪ], E [iː], I [aɪ], O [əʊ], U [juː]. Common mix-ups: E / I, G / J, R, Y, W. Double letters: double l."
+      },
+      "examples": [
+        {
+          "en": "email",
+          "ru": "электронная почта"
+        },
+        {
+          "en": "Hollywood",
+          "ru": "Голливуд"
+        },
+        {
+          "en": "Smith",
+          "ru": "Смит"
+        }
+      ]
+    },
+    {
+      "id": "en-spelling-symbols",
+      "title": {
+        "ru": "Как диктовать email и коды",
+        "en": "Spelling emails and codes",
+        "es": "Dictar correos y códigos"
+      },
+      "text": {
+        "ru": "@ — at, точка — dot, дефис — dash (или hyphen), _ — underscore, / — slash. Цифры диктуют по одной: 2026 — two-oh-two-six (0 — «oh» или zero). Пример: anna_lee@mail.com — anna underscore lee at mail dot com.",
+        "en": "@ is at, . is dot, - is dash, _ is underscore, / is slash. Digits one by one; 0 is “oh” or zero."
+      },
+      "examples": [
+        {
+          "en": "anna_lee@mail.com",
+          "ru": "адрес почты"
+        },
+        {
+          "en": "www.site.org",
+          "ru": "адрес сайта"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "spell",
+      "items": [
+        "Smith",
+        "Hughes",
+        "john.lee@mail.com",
+        "Kate_99"
+      ]
+    },
+    {
+      "type": "dictation",
+      "items": [
+        "queen",
+        "jazz",
+        "yellow"
+      ]
+    }
+  ]
+}

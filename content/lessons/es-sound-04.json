@@ -1,0 +1,214 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-sound-04",
+  "lang": "es",
+  "kind": "sound",
+  "code": "ES-P4",
+  "order": 4,
+  "level": "A1",
+  "requires": [
+    "es-sound-01"
+  ],
+  "title": {
+    "ru": "ll и y, ch, r и rr, b и v, мягкое d",
+    "en": "ll and y, ch, r and rr, b and v, soft d",
+    "es": "ll y y, ch, r y rr, b y v, la d suave"
+  },
+  "rules": [
+    {
+      "id": "es-ll-y",
+      "title": {
+        "ru": "ll и y — «й»",
+        "en": "ll and y",
+        "es": "ll e y"
+      },
+      "text": {
+        "ru": "ll и y перед гласной читаются одинаково — как напряжённое «й», почти «дж»: calle [кайе], llave, playa. В Аргентине и Уругвае — как «ж» или «ш»: calle [каже]. В конце слова и как союз y — гласная [и]: hoy, muy, y.",
+        "en": "ll and y before a vowel sound the same — a strong [ʝ], close to “y” in yes: calle, llave, playa. In Argentina and Uruguay — [ʒ] or [ʃ]. At the end of a word and as the word y — [i]."
+      },
+      "ipa": "ʝ",
+      "examples": [
+        {
+          "es": "calle",
+          "ru": "улица"
+        },
+        {
+          "es": "llave",
+          "ru": "ключ"
+        },
+        {
+          "es": "playa",
+          "ru": "пляж"
+        },
+        {
+          "es": "llamar",
+          "ru": "звать, звонить"
+        }
+      ]
+    },
+    {
+      "id": "es-ch",
+      "title": {
+        "ru": "ch — «ч»",
+        "en": "ch",
+        "es": "ch"
+      },
+      "text": {
+        "ru": "ch — один звук «ч» [tʃ], твёрже русского: chico, noche, mucho. В слогах ch не делится: co-che.",
+        "en": "ch is one sound [tʃ] like in church: chico, noche, mucho."
+      },
+      "ipa": "tʃ",
+      "examples": [
+        {
+          "es": "chico",
+          "ru": "парень"
+        },
+        {
+          "es": "noche",
+          "ru": "ночь"
+        },
+        {
+          "es": "mucho",
+          "ru": "много"
+        }
+      ]
+    },
+    {
+      "id": "es-r-rr",
+      "title": {
+        "ru": "r и rr",
+        "en": "r and rr",
+        "es": "r y rr"
+      },
+      "text": {
+        "ru": "r между гласными и в конце слога — один короткий удар кончиком языка [ɾ]: pero «но», caro, hablar. rr, а также r в начале слова и после n, l, s — раскатистое [r] из нескольких ударов: perro «собака», carro, rosa, Enrique. Пары pero / perro, caro / carro различаются только этим.",
+        "en": "r between vowels and at the end of a syllable is a single tap [ɾ]: pero, hablar. rr, and r at the start of a word or after n, l, s, is a trill [r]: perro, rosa, Enrique. pero / perro differ only in this."
+      },
+      "ipa": "ɾ / r",
+      "examples": [
+        {
+          "es": "pero",
+          "ru": "но"
+        },
+        {
+          "es": "perro",
+          "ru": "собака"
+        },
+        {
+          "es": "rosa",
+          "ru": "роза"
+        },
+        {
+          "es": "carro",
+          "ru": "машина (Лат. Ам.)"
+        }
+      ]
+    },
+    {
+      "id": "es-b-v",
+      "title": {
+        "ru": "b и v — один звук",
+        "en": "b and v are the same sound",
+        "es": "b y v suenan igual"
+      },
+      "text": {
+        "ru": "b и v читаются одинаково: в начале фразы и после m, n — как «б» [b]: vino [бино], también; между гласными — мягче, губы едва смыкаются [β]: cabo, nuevo. Звука «в» с зубами в испанском нет. Какую букву писать — надо запомнить: vaso, beso.",
+        "en": "b and v are pronounced the same: [b] at the start and after m, n (vino, también), a soft [β] between vowels (nuevo). Spanish has no [v]. The spelling must be learned."
+      },
+      "ipa": "b / β",
+      "examples": [
+        {
+          "es": "vino",
+          "ru": "вино"
+        },
+        {
+          "es": "beso",
+          "ru": "поцелуй"
+        },
+        {
+          "es": "nuevo",
+          "ru": "новый"
+        },
+        {
+          "es": "haber",
+          "ru": "иметь (вспом.)"
+        }
+      ]
+    },
+    {
+      "id": "es-d-soft",
+      "title": {
+        "ru": "Мягкое d",
+        "en": "Soft d",
+        "es": "La d suave"
+      },
+      "text": {
+        "ru": "d между гласными и в конце слова звучит мягко, почти как английское th в this [ð]: nada, cansado, Madrid, usted. В разговорной речи окончание -ado часто звучит как [ао]: cansao.",
+        "en": "d between vowels and at the end of a word is soft, close to th in this [ð]: nada, cansado, Madrid. In casual speech -ado often sounds like [ao]."
+      },
+      "ipa": "ð",
+      "examples": [
+        {
+          "es": "nada",
+          "ru": "ничего"
+        },
+        {
+          "es": "cansado",
+          "ru": "уставший"
+        },
+        {
+          "es": "Madrid",
+          "ru": "Мадрид"
+        },
+        {
+          "es": "usted",
+          "ru": "вы"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "pairs",
+      "items": [
+        [
+          "pero",
+          "perro"
+        ],
+        [
+          "caro",
+          "carro"
+        ],
+        [
+          "coro",
+          "corro"
+        ],
+        [
+          "para",
+          "parra"
+        ]
+      ]
+    },
+    {
+      "type": "read",
+      "items": [
+        "calle",
+        "chocolate",
+        "perro",
+        "vivir",
+        "radio",
+        "ciudad"
+      ]
+    },
+    {
+      "type": "dictation",
+      "items": [
+        "llamar",
+        "noche",
+        "barrio",
+        "nuevo"
+      ]
+    }
+  ]
+}
