@@ -1,0 +1,160 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-37",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-37",
+  "order": 37,
+  "level": "A2",
+  "title": {
+    "ru": "ser или estar: прилагательные меняют смысл",
+    "en": "ser or estar: adjectives that change meaning",
+    "es": "ser o estar: adjetivos que cambian de sentido"
+  },
+  "see": [
+    "es-grammar-04",
+    "es-grammar-05",
+    "es-grammar-13"
+  ],
+  "pattern": [
+    {
+      "es": "Ana es lista.",
+      "ru": "Ана умная."
+    },
+    {
+      "es": "Ana está lista.",
+      "ru": "Ана готова."
+    },
+    {
+      "es": "El niño es malo.",
+      "ru": "Мальчик плохой (по характеру)."
+    },
+    {
+      "es": "El niño está malo.",
+      "ru": "Мальчик болеет."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "С ser прилагательное описывает характер и суть, с estar — состояние сейчас. У некоторых слов смысл меняется полностью: ser listo — «умный», estar listo — «готовый»; ser malo — «плохой», estar malo — «больной»; ser aburrido — «скучный», estar aburrido — «скучать»; ser rico — «богатый», estar rico — «вкусный»; ser verde — «зелёный», estar verde — «незрелый».",
+      "en": "With ser the adjective describes what someone or something is like; with estar, a current state. Some adjectives change meaning: listo (clever / ready), malo (bad / ill), aburrido (boring / bored), rico (rich / tasty), verde (green / unripe).",
+      "es": "ser + adjetivo = característica; estar + adjetivo = estado. listo, malo, aburrido, rico, verde cambian de sentido."
+    },
+    "formula": "ser + прил. — какой по сути · estar + прил. — в каком состоянии сейчас",
+    "table": {
+      "head": [
+        "прилагательное",
+        "ser",
+        "estar"
+      ],
+      "rows": [
+        [
+          "listo",
+          "умный",
+          "готовый"
+        ],
+        [
+          "malo",
+          "плохой",
+          "больной"
+        ],
+        [
+          "aburrido",
+          "скучный",
+          "скучающий"
+        ],
+        [
+          "rico",
+          "богатый",
+          "вкусный"
+        ],
+        [
+          "verde",
+          "зелёный",
+          "незрелый"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-52",
+      "formula": "bored / boring",
+      "examples": [
+        {
+          "en": "I'm bored. The film is boring.",
+          "ru": "Мне скучно. Фильм скучный."
+        }
+      ],
+      "note": {
+        "ru": "в английском разница в окончании (-ed / -ing), в испанском — в глаголе (estar / ser)"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "¿___ listos? ¡Nos vamos!",
+      "options": [
+        "Estáis",
+        "Sois"
+      ],
+      "answer": "Estáis",
+      "ru": "Вы готовы? Уходим!"
+    },
+    {
+      "type": "choose",
+      "es": "Esta paella ___ muy rica.",
+      "options": [
+        "está",
+        "es"
+      ],
+      "answer": "está",
+      "ru": "Эта паэлья очень вкусная."
+    },
+    {
+      "type": "choose",
+      "es": "La película ___ aburrida, me dormí.",
+      "options": [
+        "era",
+        "estaba"
+      ],
+      "answer": "era",
+      "ru": "Фильм был скучным, я уснул."
+    },
+    {
+      "type": "choose",
+      "es": "Hoy no voy al trabajo, ___ malo.",
+      "options": [
+        "estoy",
+        "soy"
+      ],
+      "answer": "estoy",
+      "ru": "Сегодня я не пойду на работу, я заболел."
+    },
+    {
+      "type": "build",
+      "es": "Mi hermano es muy listo.",
+      "ru": "Мой брат очень умный.",
+      "extra": [
+        "está"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите про человека, какой он (ser) и как он сейчас (estar).",
+        "en": "Describe a person: what they are like (ser) and how they are now (estar).",
+        "es": "Describe a una persona: cómo es y cómo está ahora."
+      },
+      "template": "Mi amigo es … Hoy está …",
+      "sample": "Mi amigo es divertido. Hoy está cansado."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

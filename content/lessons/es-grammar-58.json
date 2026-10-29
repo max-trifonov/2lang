@@ -1,0 +1,143 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-58",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-58",
+  "order": 58,
+  "level": "A2",
+  "title": {
+    "ru": "bueno / buen, primero / primer: усечение",
+    "en": "bueno or buen, primero or primer",
+    "es": "Apócope: bueno / buen, primero / primer"
+  },
+  "see": [
+    "es-grammar-13",
+    "es-grammar-43"
+  ],
+  "pattern": [
+    {
+      "es": "Es un buen día.",
+      "ru": "Хороший день."
+    },
+    {
+      "es": "El día es bueno.",
+      "ru": "День хороший."
+    },
+    {
+      "es": "Es mi primer viaje.",
+      "ru": "Это моя первая поездка."
+    },
+    {
+      "es": "Vivo en el tercer piso.",
+      "ru": "Я живу на четвёртом этаже (третьем над первым)."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Некоторые прилагательные перед существительным мужского рода единственного числа теряют конечное -o: bueno → buen día, malo → mal tiempo, primero → primer piso, tercero → tercer día, alguno → algún libro, ninguno → ningún problema, uno → un amigo. После существительного или с женским родом — полная форма: un día bueno, la primera vez, buena suerte. grande перед любым существительным ед. ч. → gran (un gran hombre = великий).",
+      "en": "Before a masculine singular noun some adjectives drop -o: buen, mal, primer, tercer, algún, ningún, un. After the noun or with feminine — full form. grande → gran before any singular noun.",
+      "es": "Apócope ante sustantivo masculino singular: buen, mal, primer, tercer, algún, ningún. grande → gran."
+    },
+    "formula": "перед существительным м. р. ед. ч. теряют -o: buen, mal, primer, tercer, algún, ningún, un",
+    "table": {
+      "head": [
+        "полная форма",
+        "перед сущ. м. р. ед. ч.",
+        "а так — полная"
+      ],
+      "rows": [
+        [
+          "bueno",
+          "un buen amigo",
+          "una buena amiga"
+        ],
+        [
+          "malo",
+          "un mal día",
+          "un día malo"
+        ],
+        [
+          "primero",
+          "el primer día",
+          "la primera vez"
+        ],
+        [
+          "ninguno",
+          "ningún problema",
+          "ninguna idea"
+        ],
+        [
+          "grande",
+          "un gran país (великий)",
+          "un país grande (большой)"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "¡Que tengas un ___ día!",
+      "options": [
+        "buen",
+        "bueno"
+      ],
+      "answer": "buen",
+      "ru": "Хорошего тебе дня!"
+    },
+    {
+      "type": "choose",
+      "es": "Es la ___ vez que vengo aquí.",
+      "options": [
+        "primera",
+        "primer"
+      ],
+      "answer": "primera",
+      "ru": "Я здесь впервые."
+    },
+    {
+      "type": "choose",
+      "es": "No hay ___ problema.",
+      "options": [
+        "ningún",
+        "ninguno"
+      ],
+      "answer": "ningún",
+      "ru": "Никаких проблем."
+    },
+    {
+      "type": "choose",
+      "es": "Hoy hace ___ tiempo, no salimos.",
+      "options": [
+        "mal",
+        "malo"
+      ],
+      "answer": "mal",
+      "ru": "Сегодня плохая погода, мы не выходим."
+    },
+    {
+      "type": "build",
+      "es": "Mi oficina está en el primer piso.",
+      "ru": "Мой офис на втором этаже (первом над нижним).",
+      "extra": [
+        "primero"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Опишите свой первый рабочий день: buen / bueno, primer / primero.",
+        "en": "Describe your first day at work using buen / bueno, primer / primero.",
+        "es": "Describe tu primer día de trabajo con buen / bueno, primer / primero."
+      },
+      "template": "Mi primer día … Fue un buen …",
+      "sample": "Mi primer día fue en abril. Fue un buen día."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-58",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-58",
+  "order": 58,
+  "level": "B1",
+  "title": {
+    "ru": "another, other, the other",
+    "en": "another, other, the other",
+    "es": "another, other, the other"
+  },
+  "see": [
+    "en-grammar-03",
+    "en-grammar-04"
+  ],
+  "pattern": [
+    {
+      "en": "Can I have another coffee?",
+      "ru": "Можно мне ещё кофе?"
+    },
+    {
+      "en": "I have other plans.",
+      "ru": "У меня другие планы."
+    },
+    {
+      "en": "Where is the other sock?",
+      "ru": "Где второй носок?"
+    },
+    {
+      "en": "Some people agree, others don't.",
+      "ru": "Одни согласны, другие нет."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "another (= an + other) — «ещё один» или «какой-то другой» с существительным в ед. числе: another day, another idea. other — «другие» с мн. числом или неисчисляемым: other people, other information. the other — «тот, другой» из известных: the other hand, the other side; без существительного во мн. — the others. others — «другие» без существительного: Some like it, others don't.",
+      "en": "another + singular (one more / a different one). other + plural or uncountable. the other = the remaining one(s) (the other side, the others). others = other people / things.",
+      "es": "another = otro (uno más); other = otros; the other = el otro (el que queda)."
+    },
+    "formula": "another + ед. ч. — ещё один, другой · other + мн. ч. — другие · the other — тот второй, оставшийся",
+    "table": {
+      "head": [
+        "",
+        "с чем",
+        "пример"
+      ],
+      "rows": [
+        [
+          "another",
+          "ед. ч.",
+          "another cup"
+        ],
+        [
+          "other",
+          "мн. ч.",
+          "other cups"
+        ],
+        [
+          "the other(s)",
+          "известный, оставшийся",
+          "the other cup, the others"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Let's meet ___ day, I'm busy today.",
+      "options": [
+        "another",
+        "other",
+        "the other"
+      ],
+      "answer": "another",
+      "ru": "Давай встретимся в другой день, сегодня я занят."
+    },
+    {
+      "type": "choose",
+      "en": "Are there any ___ questions?",
+      "options": [
+        "other",
+        "another"
+      ],
+      "answer": "other",
+      "ru": "Есть ещё вопросы?"
+    },
+    {
+      "type": "choose",
+      "en": "I've found one shoe. Where's ___ one?",
+      "options": [
+        "the other",
+        "another",
+        "other"
+      ],
+      "answer": "the other",
+      "ru": "Одну туфлю я нашёл. Где вторая?"
+    },
+    {
+      "type": "choose",
+      "en": "Two friends came, ___ were late.",
+      "options": [
+        "the others",
+        "other",
+        "another"
+      ],
+      "answer": "the others",
+      "ru": "Двое друзей пришли, остальные опоздали."
+    },
+    {
+      "type": "build",
+      "en": "Would you like another piece of cake?",
+      "ru": "Хочешь ещё кусочек торта?",
+      "extra": [
+        "other"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы хотите ещё (another), и про других людей (other / others).",
+        "en": "Write what you'd like another of, and something about other people.",
+        "es": "Escribe qué quieres otra vez (another) y algo sobre otras personas (other / others)."
+      },
+      "template": "I'd like another … Other people …",
+      "sample": "I'd like another holiday. Other people prefer the mountains."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

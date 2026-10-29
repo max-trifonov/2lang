@@ -1,0 +1,144 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-46",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-46",
+  "order": 46,
+  "level": "A1",
+  "title": {
+    "ru": "ver или mirar",
+    "en": "ver or mirar",
+    "es": "ver o mirar"
+  },
+  "see": [
+    "es-grammar-18",
+    "es-grammar-45"
+  ],
+  "pattern": [
+    {
+      "es": "Desde aquí veo el mar.",
+      "ru": "Отсюда я вижу море."
+    },
+    {
+      "es": "Mira esta foto.",
+      "ru": "Посмотри на это фото."
+    },
+    {
+      "es": "Vemos una película.",
+      "ru": "Мы смотрим фильм."
+    },
+    {
+      "es": "¿Qué miras?",
+      "ru": "На что ты смотришь?"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "ver — видеть само, без усилия (no veo nada), а ещё смотреть фильм, сериал, телевизор: ver la tele, ver una película. mirar — специально направить взгляд, рассматривать: mirar el mapa, mirar por la ventana. Перед человеком — a: Mira a ese chico. ¡Mira! — «Смотри!», чтобы обратить внимание. ver неправильный: veo, visto.",
+      "en": "ver = see; also watch films and TV (ver la tele). mirar = look at on purpose (mirar el mapa); a before people. ver: veo, visto.",
+      "es": "ver = percibir; ver la tele. mirar = dirigir la vista."
+    },
+    "formula": "ver — видеть; смотреть фильм, ТВ · mirar — смотреть, направлять взгляд",
+    "table": {
+      "head": [
+        "",
+        "ver",
+        "mirar"
+      ],
+      "rows": [
+        [
+          "смысл",
+          "видеть; смотреть ТВ, фильм",
+          "смотреть на, рассматривать"
+        ],
+        [
+          "пример",
+          "Veo la tele.",
+          "Mira el reloj."
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-44",
+      "formula": "see / look / watch",
+      "examples": [
+        {
+          "en": "I can see the sea. Look at this photo!",
+          "ru": "Отсюда видно море. Посмотри на это фото!"
+        }
+      ],
+      "note": {
+        "ru": "ver = see и watch (TV), mirar = look at"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Anoche ___ una serie muy buena.",
+      "options": [
+        "vi",
+        "miré"
+      ],
+      "answer": "vi",
+      "ru": "Вчера вечером я посмотрел очень хороший сериал."
+    },
+    {
+      "type": "choose",
+      "es": "___ por la ventana: ¡nieva!",
+      "options": [
+        "Mira",
+        "Ve"
+      ],
+      "answer": "Mira",
+      "ru": "Посмотри в окно: снег идёт!"
+    },
+    {
+      "type": "choose",
+      "es": "Sin gafas no ___ nada.",
+      "options": [
+        "veo",
+        "miro"
+      ],
+      "answer": "veo",
+      "ru": "Без очков я ничего не вижу."
+    },
+    {
+      "type": "choose",
+      "es": "¿Por qué me ___ así?",
+      "options": [
+        "miras",
+        "ves"
+      ],
+      "answer": "miras",
+      "ru": "Почему ты так на меня смотришь?"
+    },
+    {
+      "type": "build",
+      "es": "Los domingos vemos el fútbol en casa.",
+      "ru": "По воскресеньям мы смотрим футбол дома.",
+      "extra": [
+        "miramos"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы видите из окна (ver) и что любите смотреть (ver / mirar).",
+        "en": "Write what you see from your window and what you like to watch.",
+        "es": "Escribe qué ves por la ventana y qué te gusta ver."
+      },
+      "template": "Desde mi ventana veo … Me gusta ver …",
+      "sample": "Desde mi ventana veo un parque. Me gusta ver series."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

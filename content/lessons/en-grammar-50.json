@@ -1,0 +1,149 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-50",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-50",
+  "order": 50,
+  "level": "A1",
+  "title": {
+    "ru": "good или well",
+    "en": "good or well",
+    "es": "good o well"
+  },
+  "see": [
+    "en-grammar-11",
+    "en-grammar-16"
+  ],
+  "pattern": [
+    {
+      "en": "She is a good singer.",
+      "ru": "Она хорошая певица."
+    },
+    {
+      "en": "She sings well.",
+      "ru": "Она хорошо поёт."
+    },
+    {
+      "en": "The food smells good.",
+      "ru": "Еда хорошо пахнет."
+    },
+    {
+      "en": "I'm well, thanks.",
+      "ru": "Я хорошо себя чувствую, спасибо."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "good — прилагательное: описывает человека или вещь (a good job, the film is good). well — наречие: описывает, как выполняется действие (you work well, she speaks English well). После глаголов чувств и состояния — look, smell, taste, sound, feel — ставят good: It looks good. Но про здоровье — well: I'm well, I don't feel well.",
+      "en": "good is an adjective (a good job); well is an adverb (you work well). After look, smell, taste, sound, feel — good (it tastes good). For health — well (I'm well).",
+      "es": "good = bueno (adjetivo); well = bien (adverbio). Salud: I'm well."
+    },
+    "formula": "good — какой (прилагательное) · well — как (наречие)",
+    "table": {
+      "head": [
+        "",
+        "good",
+        "well"
+      ],
+      "rows": [
+        [
+          "что описывает",
+          "человека, вещь",
+          "действие"
+        ],
+        [
+          "пример",
+          "a good driver",
+          "He drives well."
+        ],
+        [
+          "после look, taste…",
+          "It looks good.",
+          "—"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-43",
+      "formula": "bueno / bien",
+      "examples": [
+        {
+          "es": "Es un buen conductor. Conduce bien.",
+          "ru": "Он хороший водитель. Он хорошо водит."
+        }
+      ],
+      "note": {
+        "ru": "та же пара: bueno = good, bien = well"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "You did a ___ job!",
+      "options": [
+        "good",
+        "well"
+      ],
+      "answer": "good",
+      "ru": "Ты отлично поработал!"
+    },
+    {
+      "type": "choose",
+      "en": "He plays the piano very ___.",
+      "options": [
+        "well",
+        "good"
+      ],
+      "answer": "well",
+      "ru": "Он очень хорошо играет на пианино."
+    },
+    {
+      "type": "choose",
+      "en": "This soup tastes ___.",
+      "options": [
+        "good",
+        "well"
+      ],
+      "answer": "good",
+      "ru": "Этот суп вкусный."
+    },
+    {
+      "type": "choose",
+      "en": "I didn't sleep ___ last night.",
+      "options": [
+        "well",
+        "good"
+      ],
+      "answer": "well",
+      "ru": "Я плохо спал этой ночью."
+    },
+    {
+      "type": "build",
+      "en": "My sister speaks English very well.",
+      "ru": "Моя сестра очень хорошо говорит по-английски.",
+      "extra": [
+        "good"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что у вас хорошее (good) и что вы хорошо делаете (well).",
+        "en": "Write something good you have and something you do well.",
+        "es": "Escribe algo bueno que tienes y algo que haces bien."
+      },
+      "template": "I have a good … I … well.",
+      "sample": "I have a good bike. I cook well."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

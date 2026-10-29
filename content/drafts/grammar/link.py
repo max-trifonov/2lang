@@ -1,6 +1,6 @@
 # Отсылки уроков слов к правилам грамматики (LNG-S1-033, D-38): поле `see` уроков слов.
 # Эвристика: каждой теме — шаблоны конструкции; совпадение в мини-правиле весит 3, во фразе дня — 2,
-# в примерах и упражнениях — 1; общие темы (отрицание, вопрос…) вне мини-правила — вполовину. В `see` — до 3 тем
+# в примерах и упражнениях — 1; общие темы (отрицание, вопрос…) вне мини-правила — вполовину. В `see` — до 4 тем
 # с весом ≥ 2, самые весомые первыми. Ручную правку `see` перезапуск сотрёт — правьте шаблоны.
 # Запуск: python3 content/drafts/grammar/link.py   (вызывается и из gen.py).
 import json, os, re
@@ -8,7 +8,7 @@ import json, os, re
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.abspath(os.path.join(HERE, '..', '..'))
 OUT = os.path.join(ROOT, 'lessons')
-MAX_REFS = 3
+MAX_REFS = 4
 THRESHOLD = 2
 
 I = re.IGNORECASE
@@ -47,6 +47,31 @@ ES = [
     (12, r"¿\s*(qué|dónde|adónde|cuándo|cómo|cuánto|cuánta|cuántos|cuántas|quién|quiénes|por qué|cuál|a qué)\b", True),
     (11, r"¿(?!\s*(qué|dónde|adónde|cuándo|cómo|cuánt\w+|quién\w*|por qué|cuál|a qué)\b)", True),
     (10, r"\bno\b|\bnunca\b|\bnadie\b|\bnada\b|\btampoco\b|отрицан", True),
+    # Пары «похоже, но не одно и то же» (D-46): конкретные слова пары.
+    (36, r"\bgracias por\b|\bpara \w+(ar|er|ir)\b|\bpor / para\b|\bpara (ti|mí|el|la)\b", False),
+    (37, r"\b(es|está|estás|estoy|son|están) (listo|lista|listos|malo|mala|rico|rica|aburrido|aburrida)\b", False),
+    (38, r"\b(pregunt\w+|pido|pides|pide|piden|pedir|pedimos)\b", False),
+    (39, r"\b(llevar|llevo|llevas|lleva|lleve|traer|traigo|trae|traes|trajo|tráeme)\b", False),
+    (40, r"\b(ven|vienes|viene|vienen|venimos|venir)\b|\bya voy\b", False),
+    (41, r"\b(tocar|toco|tocas|toca|jugar|juego|juegas|juega|jugamos)\b", False),
+    (42, r"\bmuy / mucho\b|\bmucho (frío|calor|tiempo)\b|\bdemasiad\w+\b", False),
+    (43, r"\bbien\b|\bbuen\b", True),
+    (44, r"\btambién\b|\btampoco\b", False),
+    (45, r"\b(oír|oigo|oyes|oye|escuchar|escucho|escuchas|escucha)\b", False),
+    (46, r"\b(mirar|miro|miras|mira|veo|ver la|vemos la)\b", False),
+    (47, r"\b(contar|cuento|cuentas|cuéntame|decir|dice|digo|dijo|dime)\b", False),
+    (48, r"\b(salgo|salir|sale|salimos|irse|me voy|se va|dejar|dejo|dejé|deja)\b", False),
+    (49, r"\b(quedar|quedamos|quedo|quedas|queda|quedan|quedarse|me quedo|nos quedamos)\b", False),
+    (51, r"\b(tú|él|mí|té|sé)\b", True),
+    (52, r"\bporque\b|\bpor qué\b", False),
+    (54, r"\ben (coche|tren|metro|bici|autobús|avión|taxi)\b|\ba pie\b", False),
+    (55, r"\bte quiero\b|\bquiero a\b|\bme encant\w+\b", False),
+    (56, r"\b(vez|veces)\b|\bqué hora\b|\bes hora de\b", False),
+    (57, r"\bdesde hace\b|\bhace (dos|tres|un|una|mucho|poco|\d+) \w+|\bdesde (el|la|las|enero|\d)", False),
+    (58, r"\b(buen|mal|primer|tercer|algún|ningún|gran)\b", True),
+    (59, r"\b(sé|sabes|sabe|sabemos) \w+(ar|er|ir)\b", False),
+    (60, r"\b(embarazada|constipad\w+|éxito|carpeta|librería)\b|ложн", False),
+    (61, r"\bech\w+ de menos\b|\bextrañ\w+\b|\b(perder|perdí|perdiste|pierdo|pierdes|pierde|perdido)\b", False),
 ]
 
 EN = [
@@ -86,6 +111,39 @@ EN = [
     (9, r"^(do|does|is|are|can|have|has|will|did|was|were)\b.*\?", True),
     (8, r"\b(don't|doesn't|isn't|aren't|not)\b", True),
     (2, r"\bto be\b|\bam / is / are\b|\bbe \+ (прилагат|существит)", False),
+    # Пары «похоже, но не одно и то же» (D-46): конкретные слова пары.
+    (39, r"\bgive (me|us|him|her|it) a (call|try|ring)\b|\bhave a (look|try|rest|break)\b|\btake a (break|look|rest|shower)\b", False),
+    (40, r"\b(make|made|makes) (a |the )?(mistake|decision|plan|money|friends|noise)\b|\b(do|did|does) (the |my |your )?(homework|dishes|shopping|sport|yoga|exercise|business|your best)\b", False),
+    (41, r"\b(tell|told|tells) (me|him|her|us|them|the|a)\b|\bsay / tell\b|\bsaid (that|to)\b", False),
+    (42, r"\bspeaks? (english|spanish|russian|to)\b|\btalk(ed|s|ing)? (to|about|with)\b", False),
+    (43, r"\blisten(ing|ed)? to\b|\bhear\b", False),
+    (44, r"\b(look|looked|looking) at\b|\bwatch(ed|ing)? (tv|a film|a movie|films|movies|the match)\b", False),
+    (45, r"\b(borrow\w*|lend|lent)\b", False),
+    (46, r"\bbring\b|\bbrought\b", False),
+    (47, r"\bi'm coming\b|\bcome (here|to|with)\b|\bcoming to\b", False),
+    (48, r"\bused to\b", False),
+    (49, r"\b(a )?(few|little)\b", True),
+    (50, r"\bwell\b", True),
+    (51, r"\bremind\w*\b", False),
+    (52, r"\b(bored|boring|tiring|interested|interesting|excited|exciting|confused|confusing)\b", False),
+    (53, r"\bfunny\b|\bhave fun\b|\bis fun\b", False),
+    (54, r"\bstill\b", True),
+    (55, r"\bduring\b", False),
+    (56, r"\buntil\b|\btill\b|\bby (monday|tuesday|wednesday|thursday|friday|tomorrow|the end|\d)", False),
+    (57, r"\bas a \w+\b|\blooks like\b", False),
+    (58, r"\banother\b|\bthe other\b|\bothers\b", False),
+    (59, r"\beach\b", False),
+    (60, r"\bsuch\b|\bso \w+ that\b", False),
+    (61, r"\btoo \w+ to\b|\benough\b", False),
+    (62, r"\b(on|in) time\b", False),
+    (63, r"\b(at|in) the end\b", False),
+    (64, r"\btrip\b|\bjourney\b", False),
+    (65, r"\bjob\b|\bat work\b|\bgo to work\b", False),
+    (66, r"\bearn\w*\b|\bwin\b|\bwon\b", False),
+    (67, r"\bmiss(ed|es|ing)?\b|\blose\b|\blost\b", False),
+    (68, r"\bactually\b|\bcurrently\b|ложн", False),
+    (69, r"\baffect\w*\b|\beffect\b", False),
+    (70, r"\braise[ds]?\b|\brises?\b|\brose\b|\brising\b", False),
 ]
 
 DETECTORS = {

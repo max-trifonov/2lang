@@ -1,0 +1,128 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-52",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-52",
+  "order": 52,
+  "level": "A2",
+  "title": {
+    "ru": "bored или boring: -ed и -ing",
+    "en": "bored or boring: -ed and -ing adjectives",
+    "es": "bored o boring: adjetivos en -ed y -ing"
+  },
+  "see": [
+    "en-grammar-11"
+  ],
+  "pattern": [
+    {
+      "en": "I'm bored.",
+      "ru": "Мне скучно."
+    },
+    {
+      "en": "The film is boring.",
+      "ru": "Фильм скучный."
+    },
+    {
+      "en": "She was surprised by the news.",
+      "ru": "Её удивила новость."
+    },
+    {
+      "en": "The news was surprising.",
+      "ru": "Новость была удивительной."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "-ed описывает, что чувствует человек: I'm bored, tired, interested, excited. -ing описывает то, что вызывает чувство: The film is boring, the trip was tiring, the book is interesting. Ошибка I'm boring значит «я скучный человек». Пары: bored / boring, tired / tiring, interested / interesting, excited / exciting, confused / confusing, surprised / surprising.",
+      "en": "-ed = how a person feels (I'm bored). -ing = the thing that causes the feeling (The film is boring). I'm boring means “I am a boring person”.",
+      "es": "-ed = cómo me siento (bored = aburrido / me aburro); -ing = cómo es la cosa (boring = aburrido)."
+    },
+    "formula": "-ed — что я чувствую · -ing — какое оно (что вызывает чувство)",
+    "table": {
+      "head": [
+        "я чувствую (-ed)",
+        "оно такое (-ing)"
+      ],
+      "rows": [
+        [
+          "I'm bored.",
+          "The lesson is boring."
+        ],
+        [
+          "I'm tired.",
+          "The trip was tiring."
+        ],
+        [
+          "I'm interested in art.",
+          "Art is interesting."
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "The meeting was so ___ that I fell asleep.",
+      "options": [
+        "boring",
+        "bored"
+      ],
+      "answer": "boring",
+      "ru": "Совещание было таким скучным, что я уснул."
+    },
+    {
+      "type": "choose",
+      "en": "Are you ___ in history?",
+      "options": [
+        "interested",
+        "interesting"
+      ],
+      "answer": "interested",
+      "ru": "Тебе интересна история?"
+    },
+    {
+      "type": "choose",
+      "en": "The kids are ___ about the holiday.",
+      "options": [
+        "excited",
+        "exciting"
+      ],
+      "answer": "excited",
+      "ru": "Дети в восторге от поездки."
+    },
+    {
+      "type": "choose",
+      "en": "These instructions are really ___.",
+      "options": [
+        "confusing",
+        "confused"
+      ],
+      "answer": "confusing",
+      "ru": "Эти инструкции очень запутанные."
+    },
+    {
+      "type": "build",
+      "en": "I was very tired after the long flight.",
+      "ru": "После долгого перелёта я очень устал.",
+      "extra": [
+        "tiring"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вам скучно или интересно и почему (-ed / -ing).",
+        "en": "Write what bores or interests you and why (-ed / -ing).",
+        "es": "Escribe qué te aburre o interesa y por qué (-ed / -ing)."
+      },
+      "template": "I'm bored when … … is interesting.",
+      "sample": "I'm bored when it rains. Cooking is interesting."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

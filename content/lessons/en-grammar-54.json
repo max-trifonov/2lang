@@ -1,0 +1,137 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-54",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-54",
+  "order": 54,
+  "level": "A2",
+  "title": {
+    "ru": "already, yet, still",
+    "en": "already, yet or still",
+    "es": "already, yet o still"
+  },
+  "see": [
+    "en-grammar-29",
+    "en-grammar-30"
+  ],
+  "pattern": [
+    {
+      "en": "I've already finished.",
+      "ru": "Я уже закончил."
+    },
+    {
+      "en": "Have you finished yet?",
+      "ru": "Ты уже закончил?"
+    },
+    {
+      "en": "I haven't finished yet.",
+      "ru": "Я ещё не закончил."
+    },
+    {
+      "en": "I'm still working.",
+      "ru": "Я всё ещё работаю."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "already — «уже» в утверждении, часто раньше, чем ждали: I've already eaten. yet — в вопросе «уже?» (Have you eaten yet?) и в отрицании «ещё не» (I haven't eaten yet), ставится в конце. still — «всё ещё», действие продолжается: I'm still hungry; перед отрицанием — «до сих пор не»: I still haven't called. С already и yet обычно Present Perfect.",
+      "en": "already = sooner than expected (affirmative). yet = in questions (…yet?) and negatives (not yet), at the end. still = continuing (I'm still here; I still haven't…).",
+      "es": "already = ya (+); yet = ya (?) / todavía no (−); still = todavía, aún."
+    },
+    "formula": "already (+) — уже, раньше, чем ждали · yet (? и −) — уже? / ещё не · still — всё ещё",
+    "table": {
+      "head": [
+        "",
+        "where",
+        "example"
+      ],
+      "rows": [
+        [
+          "already",
+          "утверждение, до глагола",
+          "I've already paid."
+        ],
+        [
+          "yet",
+          "вопрос и отрицание, в конце",
+          "Have you paid yet? I haven't paid yet."
+        ],
+        [
+          "still",
+          "продолжается",
+          "I'm still waiting."
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Is the build ready ___?",
+      "options": [
+        "yet",
+        "already",
+        "still"
+      ],
+      "answer": "yet",
+      "ru": "Сборка уже готова?"
+    },
+    {
+      "type": "choose",
+      "en": "I've ___ sent the email.",
+      "options": [
+        "already",
+        "yet",
+        "still"
+      ],
+      "answer": "already",
+      "ru": "Я уже отправил письмо."
+    },
+    {
+      "type": "choose",
+      "en": "It's midnight and he's ___ at work.",
+      "options": [
+        "still",
+        "yet",
+        "already"
+      ],
+      "answer": "still",
+      "ru": "Полночь, а он всё ещё на работе."
+    },
+    {
+      "type": "choose",
+      "en": "We haven't decided ___.",
+      "options": [
+        "yet",
+        "already",
+        "still"
+      ],
+      "answer": "yet",
+      "ru": "Мы ещё не решили."
+    },
+    {
+      "type": "build",
+      "en": "I still don't understand this rule.",
+      "ru": "Я до сих пор не понимаю это правило.",
+      "extra": [
+        "yet"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы уже сделали сегодня, что ещё нет и что всё ещё делаете.",
+        "en": "Write what you've already done today, what you haven't done yet and what you're still doing.",
+        "es": "Escribe qué ya has hecho, qué todavía no y qué sigues haciendo."
+      },
+      "template": "I've already … I haven't … yet. I'm still …",
+      "sample": "I've already had breakfast. I haven't called Mum yet. I'm still learning English."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-49",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-49",
+  "order": 49,
+  "level": "A2",
+  "title": {
+    "ru": "few / a few, little / a little",
+    "en": "few or a few, little or a little",
+    "es": "few o a few, little o a little"
+  },
+  "see": [
+    "en-grammar-28"
+  ],
+  "pattern": [
+    {
+      "en": "I have a few friends here.",
+      "ru": "У меня здесь есть несколько друзей."
+    },
+    {
+      "en": "I have few friends here.",
+      "ru": "У меня здесь мало друзей."
+    },
+    {
+      "en": "There's a little milk left.",
+      "ru": "Осталось немного молока."
+    },
+    {
+      "en": "There's little time.",
+      "ru": "Времени мало."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Артикль a меняет настроение. a few / a little — «немного, но есть» (хорошо): a few friends, a little money. few / little без a — «мало, почти нет» (плохо): few people came. few, a few — с исчисляемыми (friends, days), little, a little — с неисчисляемыми (time, money, milk). В разговоре вместо few / little чаще not many / not much.",
+      "en": "a few / a little = some, enough (positive). few / little = almost none (negative). few with countables, little with uncountables. Spoken English prefers not many / not much.",
+      "es": "a few / a little = unos pocos, un poco (positivo); few / little = pocos, poco (negativo)."
+    },
+    "formula": "a few / a little — немного, хватает (+) · few / little — мало, почти нет (−)",
+    "table": {
+      "head": [
+        "",
+        "исчисляемые",
+        "неисчисляемые"
+      ],
+      "rows": [
+        [
+          "есть немного (+)",
+          "a few days",
+          "a little time"
+        ],
+        [
+          "почти нет (−)",
+          "few days",
+          "little time"
+        ],
+        [
+          "в разговоре",
+          "not many days",
+          "not much time"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "I speak ___ Spanish, enough for a café.",
+      "options": [
+        "a little",
+        "little",
+        "a few"
+      ],
+      "answer": "a little",
+      "ru": "Я немного говорю по-испански — на кафе хватает."
+    },
+    {
+      "type": "choose",
+      "en": "Only ___ people came, so we cancelled the talk.",
+      "options": [
+        "few",
+        "a few"
+      ],
+      "answer": "few",
+      "ru": "Пришло мало людей, и мы отменили доклад."
+    },
+    {
+      "type": "choose",
+      "en": "Wait ___ minutes, please.",
+      "options": [
+        "a few",
+        "a little"
+      ],
+      "answer": "a few",
+      "ru": "Подождите несколько минут, пожалуйста."
+    },
+    {
+      "type": "choose",
+      "en": "Hurry up, we have very ___ time.",
+      "options": [
+        "little",
+        "few"
+      ],
+      "answer": "little",
+      "ru": "Поторопись, у нас очень мало времени."
+    },
+    {
+      "type": "build",
+      "en": "I have a few questions about the plan.",
+      "ru": "У меня есть несколько вопросов по плану.",
+      "extra": [
+        "little"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, чего у вас немного (a few / a little) и чего мало (few / little).",
+        "en": "Write what you have a little of and what you have little of.",
+        "es": "Escribe de qué tienes un poco y de qué tienes poco."
+      },
+      "template": "I have a few … I have little …",
+      "sample": "I have a few good friends. I have little free time."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-44",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-44",
+  "order": 44,
+  "level": "A1",
+  "title": {
+    "ru": "también или tampoco",
+    "en": "también or tampoco",
+    "es": "también o tampoco"
+  },
+  "see": [
+    "es-grammar-10"
+  ],
+  "pattern": [
+    {
+      "es": "Me gusta el café. — A mí también.",
+      "ru": "Я люблю кофе. — Я тоже."
+    },
+    {
+      "es": "No me gusta el té. — A mí tampoco.",
+      "ru": "Я не люблю чай. — Я тоже (не люблю)."
+    },
+    {
+      "es": "Yo también trabajo aquí.",
+      "ru": "Я тоже здесь работаю."
+    },
+    {
+      "es": "Ella tampoco habla inglés.",
+      "ru": "Она тоже не говорит по-английски."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "«Тоже» после утверждения — también, после отрицания — tampoco: русское «я тоже» по-испански бывает двумя словами. No me gusta. — A mí tampoco (не también!). Если tampoco стоит перед глаголом, no не нужен: Yo tampoco voy. Если после — нужен: No voy tampoco. С gustar — a mí también / tampoco, с обычными глаголами — yo también / tampoco.",
+      "en": "también = also (after a positive), tampoco = neither / not either (after a negative). Yo tampoco voy (no no before the verb). With gustar: a mí también / tampoco.",
+      "es": "también tras afirmación; tampoco tras negación. Yo tampoco voy."
+    },
+    "formula": "también — тоже (+) · tampoco — тоже не (−)",
+    "table": {
+      "head": [
+        "фраза",
+        "ответ «я тоже»"
+      ],
+      "rows": [
+        [
+          "Me gusta el mar.",
+          "A mí también."
+        ],
+        [
+          "No me gusta el frío.",
+          "A mí tampoco."
+        ],
+        [
+          "Hablo francés. / No hablo francés.",
+          "Yo también. / Yo tampoco."
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-34",
+      "formula": "so do I / neither do I",
+      "examples": [
+        {
+          "en": "I like the sea. — So do I. I don't like the cold. — Neither do I.",
+          "ru": "Я люблю море. — Я тоже. Я не люблю холод. — Я тоже."
+        }
+      ],
+      "note": {
+        "ru": "в английском тоже два варианта: So do I и Neither do I"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "No tengo hambre. — Yo ___.",
+      "options": [
+        "tampoco",
+        "también"
+      ],
+      "answer": "tampoco",
+      "ru": "Я не голоден. — Я тоже."
+    },
+    {
+      "type": "choose",
+      "es": "Me encanta bailar. — A mí ___.",
+      "options": [
+        "también",
+        "tampoco"
+      ],
+      "answer": "también",
+      "ru": "Обожаю танцевать. — Я тоже."
+    },
+    {
+      "type": "choose",
+      "es": "Mi hermano ___ fuma.",
+      "options": [
+        "tampoco",
+        "también"
+      ],
+      "answer": "tampoco",
+      "ru": "Мой брат тоже не курит."
+    },
+    {
+      "type": "choose",
+      "es": "Voy a la playa. — Nosotros ___.",
+      "options": [
+        "también",
+        "tampoco"
+      ],
+      "answer": "también",
+      "ru": "Я иду на пляж. — Мы тоже."
+    },
+    {
+      "type": "build",
+      "es": "Yo tampoco entiendo esta regla.",
+      "ru": "Я тоже не понимаю это правило.",
+      "extra": [
+        "también"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Согласитесь с двумя фразами: «Me gusta viajar.» и «No me gusta madrugar.»",
+        "en": "Agree with: “Me gusta viajar.” and “No me gusta madrugar.”",
+        "es": "Responde: «Me gusta viajar.» y «No me gusta madrugar.»"
+      },
+      "template": "A mí … A mí …",
+      "sample": "A mí también. A mí tampoco."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

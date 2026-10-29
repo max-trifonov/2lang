@@ -1,0 +1,133 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-62",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-62",
+  "order": 62,
+  "level": "B1",
+  "title": {
+    "ru": "on time или in time",
+    "en": "on time or in time",
+    "es": "on time o in time"
+  },
+  "see": [
+    "en-grammar-06"
+  ],
+  "pattern": [
+    {
+      "en": "The train arrived on time.",
+      "ru": "Поезд пришёл вовремя (по расписанию)."
+    },
+    {
+      "en": "We arrived in time for dinner.",
+      "ru": "Мы успели к ужину."
+    },
+    {
+      "en": "Please be on time tomorrow.",
+      "ru": "Пожалуйста, не опаздывайте завтра."
+    },
+    {
+      "en": "The doctor came just in time.",
+      "ru": "Врач пришёл как раз вовремя."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "on time — «вовремя, по расписанию», ни раньше ни позже: The meeting started on time. in time — «успеть, до того как будет поздно», часто in time for + событие или in time to + глагол: in time for the flight, in time to say goodbye. just in time — «в последний момент».",
+      "en": "on time = at the planned time (punctual). in time = early enough, not too late (in time for…, in time to…); just in time = at the last moment.",
+      "es": "on time = puntual; in time = a tiempo, con tiempo suficiente (llegar a tiempo para…)."
+    },
+    "formula": "on time — точно по плану · in time (for / to) — успеть, не опоздать к чему-то",
+    "table": {
+      "head": [
+        "",
+        "смысл",
+        "пример"
+      ],
+      "rows": [
+        [
+          "on time",
+          "по расписанию",
+          "The bus left on time."
+        ],
+        [
+          "in time for / to",
+          "успеть до",
+          "We got there in time for the start."
+        ],
+        [
+          "just in time",
+          "в последний момент",
+          "I caught it just in time."
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "The flight left ___, at 9:15 exactly.",
+      "options": [
+        "on time",
+        "in time"
+      ],
+      "answer": "on time",
+      "ru": "Рейс вылетел вовремя, ровно в 9:15."
+    },
+    {
+      "type": "choose",
+      "en": "We got home just ___ before the storm.",
+      "options": [
+        "in time",
+        "on time"
+      ],
+      "answer": "in time",
+      "ru": "Мы успели домой как раз перед грозой."
+    },
+    {
+      "type": "choose",
+      "en": "Will you be back in time ___ dinner?",
+      "options": [
+        "for",
+        "to",
+        "on"
+      ],
+      "answer": "for",
+      "ru": "Ты успеешь вернуться к ужину?"
+    },
+    {
+      "type": "choose",
+      "en": "Our boss is never late, she's always ___.",
+      "options": [
+        "on time",
+        "in time"
+      ],
+      "answer": "on time",
+      "ru": "Наш начальник никогда не опаздывает, она всегда вовремя."
+    },
+    {
+      "type": "build",
+      "en": "I arrived just in time to catch the train.",
+      "ru": "Я пришёл как раз вовремя, чтобы успеть на поезд.",
+      "extra": [
+        "on"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, где важно быть on time и к чему вы недавно успели in time.",
+        "en": "Write where you must be on time and what you recently got to in time.",
+        "es": "Escribe dónde hay que ser puntual y a qué llegaste a tiempo."
+      },
+      "template": "I'm always on time for … I got to … just in time.",
+      "sample": "I'm always on time for work. I got to the station just in time."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -843,3 +843,556 @@ choose: No tengo ___ pregunta. | ninguna, alguna | ninguna | У меня нет 
 fill: Necesito un ___ de tiempo. | poco | Мне нужно немного времени.
 build: Hoy hay poca gente en la oficina. | Сегодня в офисе мало людей. | pocos
 compose: Опишите свою неделю: чего много, а чего мало. | Describe your week: what there is a lot of and little of. | Describe tu semana: de qué hay mucho y de qué poco. || Esta semana tengo mucho … y poco … || Esta semana tengo mucho trabajo y poco tiempo libre.
+
+# ── Похоже, но не одно и то же (D-46): пары-ловушки, раздел contrasts ──
+
+=== 36 A2 contrasts
+title: por или para | por or para | por o para
+see: 7 32
+p: Este regalo es para ti. | Этот подарок для тебя.
+p: Gracias por el regalo. | Спасибо за подарок.
+p: Estudio español para viajar. | Я учу испанский, чтобы путешествовать.
+p: Paseamos por el parque. | Мы гуляем по парку.
+formula: para — цель, для кого, куда, срок · por — причина, через / по, обмен, «за»
+rule: para смотрит вперёд, на цель: для кого (para ti), зачем (para viajar), куда (el tren para Madrid), к какому сроку (para el lunes). por смотрит на причину и путь: из-за чего (por la lluvia), за что (gracias por…, pagué diez euros por el libro), где проходим (por el parque, por la calle), каким способом (por teléfono), часть дня (por la mañana). | para looks ahead: purpose, recipient, destination, deadline (para ti, para viajar, para el lunes). por looks at cause and route: because of, in exchange for, through, by means of, parts of the day (por la lluvia, gracias por, por el parque, por teléfono, por la mañana). | para: finalidad, destinatario, destino, plazo. por: causa, intercambio, lugar de paso, medio, partes del día.
+table: | para | por
+row: смысл | цель, для кого, куда | причина, путь, обмен
+row: пример | para ti, para trabajar | por ti, por la calle
+row: время | para el lunes (к сроку) | por la tarde (днём)
+choose: Gracias ___ tu ayuda. | por, para | por | Спасибо за твою помощь.
+choose: Necesito el informe ___ mañana. | para, por | para | Отчёт нужен мне к завтрашнему дню.
+choose: Hablamos ___ teléfono ayer. | por, para | por | Мы вчера говорили по телефону.
+choose: Trabajo ___ ganar dinero. | para, por | para | Я работаю, чтобы зарабатывать деньги.
+choose: Caminamos ___ la playa toda la tarde. | por, para | por | Мы весь вечер гуляли по пляжу.
+build: Este café es para mi madre. | Этот кофе для моей мамы. | por
+compose: Напишите, для чего вы учите испанский (para) и за что вы благодарны (por). | Write why you study Spanish (para) and what you're grateful for (por). | Escribe para qué estudias español y por qué estás agradecido. || Estudio español para … Gracias por … || Estudio español para viajar. Gracias por la paciencia.
+
+=== 37 A2 contrasts
+title: ser или estar: прилагательные меняют смысл | ser or estar: adjectives that change meaning | ser o estar: adjetivos que cambian de sentido
+see: 4 5 13
+p: Ana es lista. | Ана умная.
+p: Ana está lista. | Ана готова.
+p: El niño es malo. | Мальчик плохой (по характеру).
+p: El niño está malo. | Мальчик болеет.
+formula: ser + прил. — какой по сути · estar + прил. — в каком состоянии сейчас
+rule: С ser прилагательное описывает характер и суть, с estar — состояние сейчас. У некоторых слов смысл меняется полностью: ser listo — «умный», estar listo — «готовый»; ser malo — «плохой», estar malo — «больной»; ser aburrido — «скучный», estar aburrido — «скучать»; ser rico — «богатый», estar rico — «вкусный»; ser verde — «зелёный», estar verde — «незрелый». | With ser the adjective describes what someone or something is like; with estar, a current state. Some adjectives change meaning: listo (clever / ready), malo (bad / ill), aburrido (boring / bored), rico (rich / tasty), verde (green / unripe). | ser + adjetivo = característica; estar + adjetivo = estado. listo, malo, aburrido, rico, verde cambian de sentido.
+table: прилагательное | ser | estar
+row: listo | умный | готовый
+row: malo | плохой | больной
+row: aburrido | скучный | скучающий
+row: rico | богатый | вкусный
+row: verde | зелёный | незрелый
+bridge: 52 | bored / boring | I'm bored. The film is boring. | Мне скучно. Фильм скучный. | в английском разница в окончании (-ed / -ing), в испанском — в глаголе (estar / ser)
+choose: ¿___ listos? ¡Nos vamos! | Estáis, Sois | Estáis | Вы готовы? Уходим!
+choose: Esta paella ___ muy rica. | está, es | está | Эта паэлья очень вкусная.
+choose: La película ___ aburrida, me dormí. | era, estaba | era | Фильм был скучным, я уснул.
+choose: Hoy no voy al trabajo, ___ malo. | estoy, soy | estoy | Сегодня я не пойду на работу, я заболел.
+build: Mi hermano es muy listo. | Мой брат очень умный. | está
+compose: Напишите про человека, какой он (ser) и как он сейчас (estar). | Describe a person: what they are like (ser) and how they are now (estar). | Describe a una persona: cómo es y cómo está ahora. || Mi amigo es … Hoy está … || Mi amigo es divertido. Hoy está cansado.
+
+=== 38 A2 contrasts
+title: pedir или preguntar | pedir or preguntar | pedir o preguntar
+see: 17 11
+p: Voy a preguntar la hora. | Я спрошу, который час.
+p: Voy a pedir un café. | Я закажу кофе.
+p: Te pido un favor. | Прошу тебя об одолжении.
+p: Pregúntale dónde vive. | Спроси его, где он живёт.
+formula: preguntar — спросить (информацию) · pedir — попросить, заказать (что-то получить)
+rule: По-русски «спросить» и «попросить» похожи, в испанском это разные глаголы. preguntar — задать вопрос, узнать информацию: preguntar la hora, preguntar por alguien («спросить о ком-то»). pedir — попросить, чтобы тебе что-то дали или сделали, и заказать в кафе: pedir ayuda, pedir la cuenta, pedir una pizza. pedir меняет e → i: pido, pides, pide. | preguntar = ask a question (preguntar la hora). pedir = ask for something, order (pedir ayuda, pedir la cuenta). pedir: e → i (pido). | preguntar = hacer una pregunta; pedir = solicitar algo, encargar. pedir: e → i.
+table: | preguntar | pedir
+row: что | вопрос, информация | вещь, услуга, помощь
+row: пример | preguntar la dirección | pedir un taxi
+row: формы | pregunto, preguntas | pido, pides
+bridge: 41 | ask / ask for | Ask him where he lives. Ask for the bill. | Спроси его, где он живёт. Попроси счёт. | в английском одно ask: просто ask — спросить, ask for — попросить
+choose: Camarero, ¿podemos ___ la cuenta? | pedir, preguntar | pedir | Официант, можно нам счёт?
+choose: Voy a ___ a la profesora qué significa esta palabra. | preguntar, pedir | preguntar | Я спрошу у учительницы, что значит это слово.
+choose: Si necesitas algo, ___ ayuda. | pide, pregunta | pide | Если тебе что-то нужно, попроси помощи.
+choose: Alguien ha ___ por ti. | preguntado, pedido | preguntado | Тебя кто-то спрашивал.
+build: Siempre pido una pizza los viernes. | По пятницам я всегда заказываю пиццу. | pregunto
+compose: Напишите, что вы обычно заказываете в кафе и о чём спрашиваете в отеле. | Write what you usually order in a café and what you ask at a hotel. | Escribe qué pides en un café y qué preguntas en un hotel. || En el café pido … En el hotel pregunto … || En el café pido un té. En el hotel pregunto a qué hora es el desayuno.
+
+=== 39 A2 contrasts
+title: llevar или traer | llevar or traer | llevar o traer
+see: 40 16
+p: Trae el pasaporte mañana. | Принеси завтра паспорт.
+p: Lleva un paraguas, llueve. | Возьми зонт, идёт дождь.
+p: ¿Me traes un vaso de agua? | Принесёшь мне стакан воды?
+p: Llevo a los niños al colegio. | Я отвожу детей в школу.
+formula: traer — сюда, к говорящему · llevar — туда, от говорящего
+rule: Всё решает направление. traer — нести туда, где говорящий: Tráeme el libro («принеси мне»). llevar — нести или везти туда, где говорящего нет: Lleva el libro a la oficina («отнеси»). У llevar есть и другие значения: «носить одежду» (llevo gafas), «провести время» (llevo dos años aquí). traer неправильный: traigo, trajo. | traer = bring (towards the speaker); llevar = take (away from the speaker). llevar also means wear and spend time (llevo dos años aquí). traer: traigo, trajo. | traer = hacia el hablante; llevar = hacia otro lugar. llevar también: ropa, tiempo.
+table: | traer | llevar
+row: куда | сюда, ко мне | туда, от меня
+row: пример | Trae vino a la fiesta. | Lleva vino a casa de Ana.
+row: пара | venir | ir
+bridge: 46 | bring / take | Bring your passport. Take an umbrella. | Принеси паспорт. Возьми зонт. | та же пара: bring = traer, take = llevar
+choose: ¿Puedes ___ me la sal, por favor? | traer, llevar | traer | Можешь принести мне соль?
+choose: Mañana ___ el coche al taller. | llevo, traigo | llevo | Завтра отвезу машину в мастерскую.
+choose: Ven a la fiesta y ___ a tus amigos. | trae, lleva | trae | Приходи на вечеринку и приводи друзей.
+choose: ¿Quieres que te ___ al aeropuerto? | lleve, traiga | lleve | Хочешь, отвезу тебя в аэропорт?
+build: Te traigo un café de la cafetería. | Я принесу тебе кофе из кафе. | llevo
+compose: Напишите, что гости должны принести к вам (traer) и что вы возьмёте в поездку (llevar). | Write what guests should bring and what you will take on a trip. | Escribe qué deben traer tus invitados y qué llevarás de viaje. || Traed … Voy a llevar … || Traed música. Voy a llevar la cámara.
+
+=== 40 A1 contrasts
+title: ir или venir | ir or venir | ir o venir
+see: 39 18 21
+p: Ven aquí. | Иди сюда.
+p: Voy a casa. | Я иду домой.
+p: ¿Vienes a la fiesta? | Ты придёшь на вечеринку?
+p: ¡Ya voy! | Иду!
+formula: venir — сюда, к говорящему · ir — туда, в другое место
+rule: venir — движение к месту, где находится говорящий: Ven a mi casa, ¿Vienes conmigo? ir — движение в любое другое место: Voy al trabajo. Внимание: на зов «Иди сюда!» испанец отвечает ¡Ya voy! (ir — к тебе, а не к себе), тогда как англичанин — I'm coming. Формы: voy, vas, va; vengo, vienes, viene. | venir = come (to where the speaker is); ir = go elsewhere. When someone calls you, answer ¡Ya voy! (English: I'm coming). | venir = hacia donde está el hablante; ir = a otro lugar. Respuesta a una llamada: ¡Ya voy!
+table: | venir | ir
+row: куда | к говорящему | в другое место
+row: пример | Ven a mi casa. | Vamos al cine.
+row: ответ на зов | — | ¡Ya voy!
+bridge: 47 | come / go | Come here! I'm coming! | Иди сюда! Иду! | в английском на зов отвечают I'm coming, в испанском — ¡Ya voy!
+choose: ¡La cena está lista! — ¡Ya ___! | voy, vengo | voy | Ужин готов! — Иду!
+choose: ¿___ a mi cumpleaños el sábado? | Vienes, Vas | Vienes | Придёшь ко мне на день рождения в субботу?
+choose: Todos los días ___ al trabajo en metro. | voy, vengo | voy | Каждый день я езжу на работу на метро.
+choose: ___ aquí un momento, por favor. | Ven, Ve | Ven | Подойди сюда на минутку, пожалуйста.
+build: Mis padres vienen a cenar esta noche. | Мои родители придут сегодня на ужин. | van
+compose: Пригласите друга к себе (venir) и скажите, куда вы пойдёте потом (ir). | Invite a friend (venir) and say where you'll go after (ir). | Invita a un amigo (venir) y di adónde iréis (ir). || ¿Vienes a …? Luego vamos a … || ¿Vienes a mi casa a las siete? Luego vamos al cine.
+
+=== 41 A1 contrasts
+title: tocar или jugar | tocar or jugar | tocar o jugar
+see: 9
+p: Toco la guitarra. | Я играю на гитаре.
+p: Juego al fútbol. | Я играю в футбол.
+p: Los niños juegan en el parque. | Дети играют в парке.
+p: No toques el horno, quema. | Не трогай духовку, она горячая.
+formula: tocar — играть на инструменте; трогать · jugar a — играть в игру, спорт
+rule: По-русски одно «играть», в испанском два глагола. tocar — на музыкальном инструменте (tocar el piano), а ещё «трогать» (no toques) и «быть чьей-то очередью» (te toca a ti). jugar — в игру или спорт, после него a + артикль: jugar al tenis, jugar a las cartas. jugar меняет u → ue: juego, juegas. | tocar = play an instrument, also touch and be someone's turn (te toca). jugar a = play a game or sport (jugar al tenis); u → ue (juego). | tocar = instrumento, tocar algo, turno; jugar a = juegos y deportes (u → ue).
+table: | tocar | jugar
+row: что | инструмент | игра, спорт
+row: пример | tocar el violín | jugar al ajedrez
+row: ещё | трогать; очередь (te toca) | играть (дети)
+bridge:  | play | I play the guitar. I play football. | Я играю на гитаре. Я играю в футбол. | в английском одно play, но с инструментом — the: play the guitar
+choose: Mi hija ___ el piano muy bien. | toca, juega | toca | Моя дочь очень хорошо играет на пианино.
+choose: ¿___ al baloncesto los sábados? | Juegas, Tocas | Juegas | Ты играешь в баскетбол по субботам?
+choose: Ahora te ___ a ti. | toca, juega | toca | Теперь твоя очередь.
+choose: Los niños están ___ en el jardín. | jugando, tocando | jugando | Дети играют в саду.
+build: Mi padre toca la guitarra en un grupo. | Мой папа играет на гитаре в группе. | juega
+compose: Напишите, на чём вы играете (tocar) и во что (jugar). | Write what instrument you play (tocar) and what game or sport (jugar). | Escribe qué instrumento tocas y a qué juegas. || Toco … Juego a … || Toco un poco el piano. Juego al tenis los domingos.
+
+=== 42 A1 contrasts
+title: muy или mucho | muy or mucho | muy o mucho
+see: 25 35
+p: Hace mucho frío. | Очень холодно.
+p: Hace muy buen tiempo. | Очень хорошая погода.
+p: Trabajo mucho. | Я много работаю.
+p: Está muy lejos. | Это очень далеко.
+formula: muy + прилагательное / наречие · mucho + существительное / после глагола
+rule: muy — «очень» только перед прилагательным или наречием: muy bueno, muy rápido. mucho — «много, сильно»: перед существительным, тогда согласуется (mucho tiempo, muchas personas), или после глагола, тогда не меняется (trabajo mucho, me gusta mucho). Ловушка: «очень холодно» — hace mucho frío, ведь frío здесь существительное. Никогда muy mucho. Слишком — demasiado, достаточно — bastante. | muy + adjective / adverb (muy bueno). mucho + noun, agreeing (muchas personas), or after a verb, unchanged (trabajo mucho). hace mucho frío (frío is a noun). Too = demasiado, enough = bastante. | muy + adjetivo / adverbio; mucho + sustantivo o después del verbo. Hace mucho frío.
+table: | перед чем | пример
+row: muy | прилагательное, наречие | muy caro, muy bien
+row: mucho, -a, -os, -as | существительное | mucha gente, muchos libros
+row: mucho | после глагола | Me gusta mucho.
+bridge: 61 | very / too / enough | It's very expensive. It's too expensive. | Очень дорого. Слишком дорого. | very = muy, too = demasiado, enough = bastante
+choose: El hotel es ___ bonito. | muy, mucho | muy | Отель очень красивый.
+choose: Hay ___ gente en la playa. | mucha, muy, mucho | mucha | На пляже много людей.
+choose: Me gusta ___ este libro. | mucho, muy | mucho | Мне очень нравится эта книга.
+choose: Hoy hace ___ calor. | mucho, muy | mucho | Сегодня очень жарко.
+build: Mi abuela cocina muy bien. | Моя бабушка очень хорошо готовит. | mucho
+compose: Напишите про свой город с muy и mucho. | Describe your city with muy and mucho. | Describe tu ciudad con muy y mucho. || Mi ciudad es muy … Hay mucho / mucha … || Mi ciudad es muy verde. Hay mucho tráfico.
+
+=== 43 A1 contrasts
+title: bueno или bien | bueno or bien | bueno o bien
+see: 13 25
+p: Es un buen libro. | Это хорошая книга.
+p: Escribe muy bien. | Он очень хорошо пишет.
+p: ¿Qué tal? — Bien, gracias. | Как дела? — Хорошо, спасибо.
+p: La sopa está buena. | Суп вкусный.
+formula: bueno, -a — какой (прилагательное) · bien — как (наречие)
+rule: bueno — прилагательное, согласуется с существительным: un libro bueno, una idea buena, buenos amigos; перед существительным м. р. ед. ч. — buen: un buen día. bien — наречие, не меняется: описывает, как выполняется действие (cantas bien) и самочувствие (estoy bien). С estar: estar bien — «в порядке», estar bueno — «вкусный» (о еде) или разговорно «привлекательный». | bueno is an adjective (agrees, buen before a masculine singular noun). bien is an adverb (cantas bien, estoy bien). La sopa está buena = the soup is tasty. | bueno = adjetivo (buen libro); bien = adverbio (canta bien, estoy bien).
+table: | bueno | bien
+row: что описывает | вещь, человека | действие, самочувствие
+row: пример | un buen médico | Trabaja bien.
+row: с estar | está bueno (вкусно) | estoy bien (в порядке)
+bridge: 50 | good / well | She is a good singer. She sings well. | Она хорошая певица. Она хорошо поёт. | та же пара: good = bueno, well = bien
+choose: Hablas español muy ___. | bien, bueno | bien | Ты очень хорошо говоришь по-испански.
+choose: Es una ___ idea. | buena, bien | buena | Это хорошая идея.
+choose: Hoy hace ___ tiempo. | buen, bien, bueno | buen | Сегодня хорошая погода.
+choose: ¿Estás ___? Pareces cansado. | bien, bueno | bien | Ты в порядке? Выглядишь усталым.
+build: Mi hermano es un buen cocinero. | Мой брат — хороший повар. | bien
+compose: Напишите, что у вас хорошее (bueno) и что вы хорошо делаете (bien). | Write something good you have and something you do well. | Escribe algo bueno que tienes y algo que haces bien. || Tengo un buen … … bien. || Tengo un buen trabajo. Cocino bien.
+
+=== 44 A1 contrasts
+title: también или tampoco | también or tampoco | también o tampoco
+see: 10
+p: Me gusta el café. — A mí también. | Я люблю кофе. — Я тоже.
+p: No me gusta el té. — A mí tampoco. | Я не люблю чай. — Я тоже (не люблю).
+p: Yo también trabajo aquí. | Я тоже здесь работаю.
+p: Ella tampoco habla inglés. | Она тоже не говорит по-английски.
+formula: también — тоже (+) · tampoco — тоже не (−)
+rule: «Тоже» после утверждения — también, после отрицания — tampoco: русское «я тоже» по-испански бывает двумя словами. No me gusta. — A mí tampoco (не también!). Если tampoco стоит перед глаголом, no не нужен: Yo tampoco voy. Если после — нужен: No voy tampoco. С gustar — a mí también / tampoco, с обычными глаголами — yo también / tampoco. | también = also (after a positive), tampoco = neither / not either (after a negative). Yo tampoco voy (no no before the verb). With gustar: a mí también / tampoco. | también tras afirmación; tampoco tras negación. Yo tampoco voy.
+table: фраза | ответ «я тоже»
+row: Me gusta el mar. | A mí también.
+row: No me gusta el frío. | A mí tampoco.
+row: Hablo francés. / No hablo francés. | Yo también. / Yo tampoco.
+bridge: 34 | so do I / neither do I | I like the sea. — So do I. I don't like the cold. — Neither do I. | Я люблю море. — Я тоже. Я не люблю холод. — Я тоже. | в английском тоже два варианта: So do I и Neither do I
+choose: No tengo hambre. — Yo ___. | tampoco, también | tampoco | Я не голоден. — Я тоже.
+choose: Me encanta bailar. — A mí ___. | también, tampoco | también | Обожаю танцевать. — Я тоже.
+choose: Mi hermano ___ fuma. | tampoco, también | tampoco | Мой брат тоже не курит.
+choose: Voy a la playa. — Nosotros ___. | también, tampoco | también | Я иду на пляж. — Мы тоже.
+build: Yo tampoco entiendo esta regla. | Я тоже не понимаю это правило. | también
+compose: Согласитесь с двумя фразами: «Me gusta viajar.» и «No me gusta madrugar.» | Agree with: “Me gusta viajar.” and “No me gusta madrugar.” | Responde: «Me gusta viajar.» y «No me gusta madrugar.» || A mí … A mí … || A mí también. A mí tampoco.
+
+=== 45 A1 contrasts
+title: oír или escuchar | oír or escuchar | oír o escuchar
+see: 16 46
+p: Oigo música. | Я слышу музыку.
+p: Escucho música en el tren. | Я слушаю музыку в поезде.
+p: ¡Oye! ¿Tienes un momento? | Слушай! У тебя есть минутка?
+p: No te oigo bien. | Я тебя плохо слышу.
+formula: oír — слышать (само) · escuchar — слушать (специально)
+rule: oír — звук доходит сам: oigo un ruido. escuchar — слушать с вниманием: escuchar la radio, escúchame. В отличие от английского listen to, после escuchar предлог не нужен: escucho música. Разговорное ¡Oye! / ¡Oiga! — «Слушай! / Послушайте!» — чтобы привлечь внимание. oír неправильный: oigo, oyes, oye. | oír = hear (oigo un ruido); escuchar = listen to, with no preposition (escucho música). ¡Oye! = Hey! oír: oigo, oyes. | oír = sin intención; escuchar = con atención (sin preposición). ¡Oye! para llamar la atención.
+table: | oír | escuchar
+row: смысл | слышать | слушать
+row: пример | Oigo pasos. | Escucho la radio.
+row: формы | oigo, oyes, oye | escucho, escuchas
+bridge: 43 | hear / listen | I can hear music. I listen to music. | Я слышу музыку. Я слушаю музыку. | та же пара, но listen требует to, а escuchar — нет
+choose: ¿Me ___? Hay mucho ruido aquí. | oyes, escuchas | oyes | Ты меня слышишь? Тут очень шумно.
+choose: Me gusta ___ la radio por la mañana. | escuchar, oír | escuchar | Я люблю слушать радио по утрам.
+choose: ___ a tu madre, tiene razón. | Escucha, Oye | Escucha | Послушай маму, она права.
+choose: Anoche ___ un ruido raro. | oí, escuché | oí | Ночью я услышал странный шум.
+build: Escucho podcasts cuando corro. | Я слушаю подкасты, когда бегаю. | oigo
+compose: Напишите, что вы слушаете (escuchar) и что слышите из окна (oír). | Write what you listen to and what you hear from your window. | Escribe qué escuchas y qué oyes desde tu ventana. || Escucho … Desde mi ventana oigo … || Escucho rock. Desde mi ventana oigo el tráfico.
+
+=== 46 A1 contrasts
+title: ver или mirar | ver or mirar | ver o mirar
+see: 18 45
+p: Desde aquí veo el mar. | Отсюда я вижу море.
+p: Mira esta foto. | Посмотри на это фото.
+p: Vemos una película. | Мы смотрим фильм.
+p: ¿Qué miras? | На что ты смотришь?
+formula: ver — видеть; смотреть фильм, ТВ · mirar — смотреть, направлять взгляд
+rule: ver — видеть само, без усилия (no veo nada), а ещё смотреть фильм, сериал, телевизор: ver la tele, ver una película. mirar — специально направить взгляд, рассматривать: mirar el mapa, mirar por la ventana. Перед человеком — a: Mira a ese chico. ¡Mira! — «Смотри!», чтобы обратить внимание. ver неправильный: veo, visto. | ver = see; also watch films and TV (ver la tele). mirar = look at on purpose (mirar el mapa); a before people. ver: veo, visto. | ver = percibir; ver la tele. mirar = dirigir la vista.
+table: | ver | mirar
+row: смысл | видеть; смотреть ТВ, фильм | смотреть на, рассматривать
+row: пример | Veo la tele. | Mira el reloj.
+bridge: 44 | see / look / watch | I can see the sea. Look at this photo! | Отсюда видно море. Посмотри на это фото! | ver = see и watch (TV), mirar = look at
+choose: Anoche ___ una serie muy buena. | vi, miré | vi | Вчера вечером я посмотрел очень хороший сериал.
+choose: ___ por la ventana: ¡nieva! | Mira, Ve | Mira | Посмотри в окно: снег идёт!
+choose: Sin gafas no ___ nada. | veo, miro | veo | Без очков я ничего не вижу.
+choose: ¿Por qué me ___ así? | miras, ves | miras | Почему ты так на меня смотришь?
+build: Los domingos vemos el fútbol en casa. | По воскресеньям мы смотрим футбол дома. | miramos
+compose: Напишите, что вы видите из окна (ver) и что любите смотреть (ver / mirar). | Write what you see from your window and what you like to watch. | Escribe qué ves por la ventana y qué te gusta ver. || Desde mi ventana veo … Me gusta ver … || Desde mi ventana veo un parque. Me gusta ver series.
+
+=== 47 A2 contrasts
+title: hablar, decir, contar | hablar, decir or contar | hablar, decir o contar
+see: 16 26
+p: Hablo con mi madre cada día. | Я каждый день говорю с мамой.
+p: Dice que está cansado. | Он говорит, что устал.
+p: Cuéntame un secreto. | Расскажи мне секрет.
+p: ¿Hablas inglés? | Ты говоришь по-английски?
+formula: hablar — говорить, разговаривать · decir — сказать что-то · contar — рассказать (историю); считать
+rule: hablar — сам процесс речи: hablar con alguien, hablar de algo, hablar idiomas. decir — сказать конкретные слова или мысль: decir la verdad, decir que sí, dice que… contar — рассказать историю, новость, подробности: contar un cuento, ¿qué me cuentas? — «что расскажешь?», а ещё «считать»: contar hasta diez. decir неправильный: digo, dice, dijo; contar меняет o → ue: cuento. | hablar = speak, talk (hablar con, hablar de, idiomas). decir = say, tell specific words (decir que…). contar = tell a story, also count (o → ue). decir: digo, dijo. | hablar = conversar; decir = expresar palabras; contar = narrar, también contar números.
+table: | что | пример
+row: hablar | говорить, разговаривать | hablar con Ana
+row: decir | сказать что-то | decir la verdad
+row: contar | рассказать историю; считать | contar un chiste
+bridge: 41 | say / tell / speak | He said he was tired. Tell me a story. | Он сказал, что устал. Расскажи мне историю. | decir ≈ say и tell, contar ≈ tell a story, hablar ≈ speak / talk
+choose: ¿Me ___ la verdad? | dices, hablas | dices | Ты говоришь мне правду?
+choose: Mi abuelo nos ___ historias de la guerra. | contaba, hablaba | contaba | Дедушка рассказывал нам истории о войне.
+choose: Necesito ___ con el jefe. | hablar, decir | hablar | Мне нужно поговорить с начальником.
+choose: Ana ___ que llega tarde. | dice, cuenta | dice | Ана говорит, что опоздает.
+build: Cuéntame qué hiciste el fin de semana. | Расскажи, что ты делал на выходных. | dime
+compose: Перескажите разговор с другом: с hablar, decir и contar. | Retell a conversation with a friend using hablar, decir and contar. | Cuenta una conversación con hablar, decir y contar. || Hablé con … Me dijo que … Me contó … || Hablé con Luis. Me dijo que se muda. Me contó todo sobre su nuevo piso.
+
+=== 48 A2 contrasts
+title: salir, irse, dejar | salir, irse or dejar | salir, irse o dejar
+see: 16 23
+p: Salgo de casa a las ocho. | Я выхожу из дома в восемь.
+p: Me voy, ¡hasta mañana! | Я ухожу, до завтра!
+p: Dejé las llaves en la mesa. | Я оставил ключи на столе.
+p: Dejé el trabajo el año pasado. | Я ушёл с работы в прошлом году.
+formula: salir (de) — выйти из места · irse — уйти, уехать (прочь) · dejar — оставить; бросить
+rule: salir — выйти изнутри наружу или отправиться (о транспорте): salir del metro, el tren sale a las diez; ещё «встречаться, гулять»: salir con amigos. irse — уйти, уехать, акцент «прочь отсюда»: Me voy, Se fue a México. dejar — оставить что-то или кого-то и бросить занятие: dejar la maleta, dejar de fumar («бросить курить»). salir неправильный: salgo. | salir = go out of a place, leave (trains); also go out with friends. irse = go away (Me voy). dejar = leave something behind, quit (dejar de fumar). salir: salgo. | salir = pasar de dentro a fuera; irse = marcharse; dejar = abandonar algo, dejar de + infinitivo.
+table: | смысл | пример
+row: salir | выйти; отправиться | Salgo a las 7.
+row: irse | уйти, уехать | Me voy a casa.
+row: dejar | оставить; бросить | Dejo el coche aquí. Dejé de fumar.
+choose: El tren ___ a las diez y media. | sale, deja, se va | sale | Поезд отправляется в десять тридцать.
+choose: Es tarde, ___ a casa. | me voy, dejo | me voy | Поздно, я пошёл домой.
+choose: ¿Dónde ___ las llaves? | dejaste, saliste | dejaste | Где ты оставил ключи?
+choose: Mi padre ___ de fumar hace diez años. | dejó, salió | dejó | Папа бросил курить десять лет назад.
+build: Los viernes salgo con mis amigos. | По пятницам я гуляю с друзьями. | dejo
+compose: Напишите, во сколько вы выходите из дома, когда уходите с работы и что хотели бы бросить. | Write when you leave home, when you leave work and what you'd like to quit. | Escribe a qué hora sales de casa, cuándo te vas del trabajo y qué quieres dejar. || Salgo de casa a … Me voy del trabajo a … Quiero dejar de … || Salgo de casa a las ocho. Me voy del trabajo a las seis. Quiero dejar de comer dulces.
+
+=== 49 A2 contrasts
+title: quedar или quedarse | quedar or quedarse | quedar o quedarse
+see: 23
+p: ¿Quedamos a las ocho? | Встретимся в восемь?
+p: Me quedo en casa hoy. | Сегодня я остаюсь дома.
+p: No queda leche. | Молока не осталось.
+p: Esta camisa te queda bien. | Эта рубашка тебе идёт.
+formula: quedar — договориться о встрече; остаться (о количестве); идти (об одежде) · quedarse — остаться где-то
+rule: Одна частица se меняет смысл. quedarse — «остаться» самому где-то: Me quedo aquí, Nos quedamos tres días en Roma. quedar — без se: договориться о встрече (quedar con alguien, ¿quedamos?), остаться о количестве (queda pan, quedan dos días), подходить по размеру или к лицу (te queda bien), находиться (¿Dónde queda el museo?). | quedarse = stay somewhere. quedar = arrange to meet (¿quedamos?), be left (queda pan), fit or suit (te queda bien), be located. | quedarse = permanecer; quedar = citarse, restar, sentar bien, estar situado.
+table: | смысл | пример
+row: quedarse | остаться где-то | Me quedo en el hotel.
+row: quedar con | договориться встретиться | Quedo con Ana.
+row: quedar | остаться (о количестве) | Quedan dos entradas.
+row: quedar bien | идти, подходить | Te queda bien.
+choose: Este fin de semana ___ en casa. | me quedo, quedo | me quedo | В эти выходные я остаюсь дома.
+choose: ¿___ mañana para tomar un café? | Quedamos, Nos quedamos | Quedamos | Встретимся завтра выпить кофе?
+choose: Solo ___ cinco minutos para el examen. | quedan, se quedan | quedan | До экзамена осталось всего пять минут.
+choose: Ese vestido te ___ muy bien. | queda, quedas | queda | Это платье тебе очень идёт.
+build: Nos quedamos una semana en Sevilla. | Мы остались на неделю в Севилье. | quedamos con
+compose: Договоритесь с другом о встрече (quedar) и скажите, где вы остаётесь на выходные (quedarse). | Arrange to meet a friend (quedar) and say where you're staying this weekend (quedarse). | Queda con un amigo y di dónde te quedas el fin de semana. || ¿Quedamos …? El fin de semana me quedo … || ¿Quedamos el sábado a las cinco? El fin de semana me quedo en casa.
+
+=== 50 A2 contrasts
+title: he comido или comí | he comido or comí | he comido o comí
+see: 27 30 25
+p: Hoy he comido paella. | Сегодня я ел паэлью.
+p: Ayer comí paella. | Вчера я ел паэлью.
+p: ¿Has estado en Roma? | Ты бывал в Риме?
+p: Estuve en Roma en 2019. | Я был в Риме в 2019 году.
+formula: he comido — время ещё идёт (hoy, este año, ya, nunca) · comí — время закончилось (ayer, en 2019, el lunes)
+rule: Оба переводятся прошедшим временем, разница — в отрезке времени. Pretérito perfecto (he comido) — когда отрезок ещё не закончился или время не важно: hoy, esta semana, este año, ya, todavía no, nunca, alguna vez. Indefinido (comí) — законченный момент в прошлом: ayer, anoche, el lunes, en 2019, hace dos años. В Латинской Америке и на Канарах indefinido часто и там, где в Испании perfecto. | Pretérito perfecto (he comido) for unfinished time or experience (hoy, este año, ya, nunca). Indefinido (comí) for finished time (ayer, en 2019, hace dos años). Latin America often uses comí for both. | perfecto: hoy, esta semana, ya, nunca; indefinido: ayer, el año pasado, en 2019.
+table: | маркеры | пример
+row: he comido | hoy, este año, ya, nunca | Este año he viajado mucho.
+row: comí | ayer, el lunes, en 2019, hace… | El año pasado viajé mucho.
+time: past-now | he comido: отрезок до сейчас | he comido: up to now | hasta ahora
+time: past | comí: закончилось | comí: finished | terminado
+bridge: 30 | Present Perfect / Past Simple | I've eaten today. I ate yesterday. | Я поел сегодня. Я ел вчера. | граница почти та же, что в английском: today — Present Perfect, yesterday — Past Simple
+choose: Esta mañana ___ un correo importante. | he recibido, recibí | he recibido | Сегодня утром я получил важное письмо.
+choose: El verano pasado ___ a Italia. | fuimos, hemos ido | fuimos | Прошлым летом мы ездили в Италию.
+choose: ¿Alguna vez ___ sushi? | has comido, comiste | has comido | Ты когда-нибудь ел суши?
+choose: Hace dos años ___ de trabajo. | cambié, he cambiado | cambié | Два года назад я сменил работу.
+build: Esta semana he trabajado mucho. | На этой неделе я много работал. | trabajé
+compose: Напишите, что вы сделали сегодня (he…) и что делали вчера (…é / …í). | Write what you did today and what you did yesterday. | Escribe qué has hecho hoy y qué hiciste ayer. || Hoy he … Ayer … || Hoy he estudiado español. Ayer vi una película.
+
+=== 51 A1 contrasts
+title: Знак ударения меняет слово: si / sí, tu / tú, el / él | The written accent changes the word: si / sí, tu / tú, el / él | La tilde diacrítica: si / sí, tu / tú, el / él
+see: 14 26 32
+p: Si quieres, voy. — ¡Sí, por favor! | Если хочешь, я пойду. — Да, пожалуйста!
+p: Tu casa es bonita. — Tú eres bonita. | Твой дом красивый. — Ты красивая.
+p: El libro es de él. | Книга его.
+p: Esto es para mí. — Mi madre. | Это для меня. — Моя мама.
+formula: без знака — служебное слово · со знаком (´) — самостоятельное слово с ударением
+rule: Тильда (´) в коротких словах не меняет произношение, а различает слова. si — «если», sí — «да» и «себя». tu — «твой», tú — «ты». el — «(артикль)», él — «он». mi — «мой», mí — «меня, мне» (после предлога: para mí). de — «из, от», dé — «пусть даст». te — «тебя», té — «чай». se — «себя», sé — «я знаю». В вопросах и восклицаниях тоже знак: qué, cómo, dónde. | The accent mark distinguishes short words: si (if) / sí (yes), tu (your) / tú (you), el (the) / él (he), mi (my) / mí (me), te (you) / té (tea), se / sé (I know). | La tilde diacrítica distingue palabras: si / sí, tu / tú, el / él, mi / mí, te / té, se / sé.
+table: без знака | со знаком
+row: si — если | sí — да
+row: tu — твой | tú — ты
+row: el — артикль | él — он
+row: mi — мой | mí — меня (para mí)
+row: te — тебя | té — чай
+row: se — себя | sé — я знаю
+choose: ¿Quieres un ___? | té, te | té | Хочешь чаю?
+choose: ¿Vienes? — ___, claro. | Sí, Si | Sí | Придёшь? — Да, конечно.
+choose: Este regalo es para ___. | mí, mi | mí | Этот подарок для меня.
+choose: No ___ dónde está la estación. | sé, se | sé | Я не знаю, где вокзал.
+choose: ___ coche es nuevo. | Tu, Tú | Tu | Твоя машина новая.
+build: Él no sabe si viene. | Он не знает, придёт ли. | El
+compose: Напишите две фразы, где одно и то же слово стоит со знаком и без. | Write two sentences with the same word with and without the accent. | Escribe dos frases con la misma palabra con y sin tilde. || Tu … Tú … || Tu hermano es simpático. Tú eres muy alto.
+
+=== 52 A1 contrasts
+title: porque, por qué, porqué | porque, por qué or porqué | porque, por qué o porqué
+see: 11 32
+p: ¿Por qué estudias español? | Почему ты учишь испанский?
+p: Porque me gusta viajar. | Потому что я люблю путешествовать.
+p: No sé por qué no vino. | Не знаю, почему он не пришёл.
+p: Quiero saber el porqué. | Хочу знать причину.
+formula: por qué — почему (вопрос) · porque — потому что (ответ) · el porqué — причина
+rule: por qué — два слова со знаком — «почему»: в прямом и косвенном вопросе (¿Por qué? / No sé por qué). porque — одно слово без знака — «потому что», в ответе. el porqué — существительное «причина», с артиклем. На слух por qué и porque различаются ударением: por QUÉ / PORque. | por qué (two words, accent) = why, also in indirect questions. porque (one word) = because. el porqué = the reason. | por qué = pregunta; porque = respuesta; el porqué = la causa.
+table: | смысл | пример
+row: por qué | почему | ¿Por qué lloras?
+row: porque | потому что | Porque estoy triste.
+row: el porqué | причина | No entiendo el porqué.
+choose: ¿___ no me llamaste? | Por qué, Porque | Por qué | Почему ты мне не позвонил?
+choose: No fui ___ estaba enfermo. | porque, por qué | porque | Я не пошёл, потому что болел.
+choose: Explícame ___ estás enfadado. | por qué, porque | por qué | Объясни мне, почему ты злишься.
+choose: Nadie sabe el ___ de su decisión. | porqué, por qué | porqué | Никто не знает причины его решения.
+build: Estudio español porque me encanta la música latina. | Я учу испанский, потому что обожаю латинскую музыку. | qué
+compose: Задайте вопрос с por qué и ответьте с porque. | Ask a question with por qué and answer it with porque. | Haz una pregunta con por qué y responde con porque. || ¿Por qué …? Porque … || ¿Por qué te gusta Madrid? Porque hay mucha vida.
+
+=== 53 A2 contrasts
+title: tener, hay или he: «есть» и «имею» | tener, hay or he | tener, hay o he
+see: 6 16 27
+p: Tengo un coche. | У меня есть машина.
+p: Hay un coche en la calle. | На улице стоит машина.
+p: He comprado un coche. | Я купил машину.
+p: Tengo que comprar un coche. | Мне нужно купить машину.
+formula: tener — иметь, у меня есть · hay — где-то есть, имеется · haber + причастие — he hecho
+rule: tener — «иметь, у кого-то есть»: tengo dos hermanos, tengo hambre, tengo 30 años; tener que — «нужно». hay (от haber) — «есть, имеется где-то», без владельца: hay un banco aquí; hay que — «надо (всем)». haber как вспомогательный — только для перфекта: he comido, has visto. Нельзя: tengo comido. | tener = have, own (tengo un coche, tengo hambre). hay = there is / are (hay un banco). haber + participle forms the perfect (he comido); never tengo comido. | tener = posesión; hay = existencia; haber = auxiliar (he comido).
+table: | смысл | пример
+row: tener | у меня есть | Tengo tiempo.
+row: hay | где-то есть | Hay tiempo.
+row: haber + -ado / -ido | сделал (перфект) | He tenido tiempo.
+row: tener que / hay que | мне нужно / надо всем | Tengo que salir. Hay que salir.
+choose: ¿___ un supermercado cerca? | Hay, Tiene, Ha | Hay | Рядом есть супермаркет?
+choose: ___ dos hijos y un perro. | Tengo, Hay, He | Tengo | У меня двое детей и собака.
+choose: Nunca ___ estado en Cuba. | he, tengo, hay | he | Я никогда не был на Кубе.
+choose: ___ que reservar mesa antes. | Hay, Tiene, Ha | Hay | Столик надо бронировать заранее.
+build: En mi barrio hay tres parques. | В моём районе три парка. | tiene
+compose: Напишите, что у вас есть (tener), что есть в вашем районе (hay) и что вы уже сделали сегодня (he…). | Write what you have, what there is in your area and what you've done today. | Escribe qué tienes, qué hay en tu barrio y qué has hecho hoy. || Tengo … En mi barrio hay … Hoy he … || Tengo una bici. En mi barrio hay un mercado. Hoy he corrido.
+
+=== 54 A1 contrasts
+title: a или en: куда и где | a or en: where to and where | a o en: adónde y dónde
+see: 7 40
+p: Voy a Madrid. | Я еду в Мадрид.
+p: Estoy en Madrid. | Я в Мадриде.
+p: Llegamos a la estación. | Мы прибываем на вокзал.
+p: Vivo en un piso pequeño. | Я живу в маленькой квартире.
+formula: a — куда (движение) · en — где (место); на транспорте
+rule: В русском «в Мадрид» и «в Мадриде» — один предлог, в испанском — два. a — направление «куда»: ir a, llegar a, volver a. en — место «где»: estar en, vivir en, trabajar en; и транспорт: en coche, en tren (но a pie — пешком). a + el сливается в al: voy al cine. | a = direction (voy a, llego a); en = location (estoy en, vivo en) and transport (en tren, but a pie). a + el = al. | a = destino; en = lugar y transporte. a + el = al.
+table: | вопрос | пример
+row: a | ¿adónde? куда | Voy al trabajo.
+row: en | ¿dónde? где | Estoy en el trabajo.
+row: транспорт | ¿cómo? | en metro, en bici, a pie
+choose: Mañana vamos ___ la playa. | a, en | a | Завтра мы едем на пляж.
+choose: Mis padres viven ___ Valencia. | en, a | en | Мои родители живут в Валенсии.
+choose: Siempre voy al trabajo ___ bici. | en, a | en | На работу я всегда езжу на велосипеде.
+choose: ¿A qué hora llegas ___ casa? | a, en | a | Во сколько ты приходишь домой?
+build: Vamos al cine en metro. | Мы едем в кино на метро. | a el
+compose: Напишите, где вы сейчас (en) и куда пойдёте потом (a). | Write where you are now and where you'll go later. | Escribe dónde estás ahora y adónde irás después. || Ahora estoy en … Luego voy a … || Ahora estoy en la oficina. Luego voy al gimnasio.
+
+=== 55 A2 contrasts
+title: me gusta, me encanta, quiero, te quiero | me gusta, me encanta, quiero, te quiero | me gusta, me encanta, quiero, te quiero
+see: 22 19
+p: Me gusta el chocolate. | Мне нравится шоколад.
+p: Me encanta el chocolate. | Я обожаю шоколад.
+p: Quiero chocolate. | Я хочу шоколада.
+p: Te quiero. | Я тебя люблю.
+formula: me gusta — нравится · me encanta — обожаю · quiero + что — хочу · quiero a + кого — люблю
+rule: gustar и encantar устроены «наоборот»: me gusta el café — «мне нравится кофе» (нравится кофе, а не я). Про людей me gustas — «ты мне нравишься» (симпатия). querer + вещь или глагол — «хотеть»: quiero un café, quiero dormir. querer a + человек — «любить» (семью, друзей, любимого): Quiero a mis padres, Te quiero. Для страстной любви — te amo, это сильнее и торжественнее. | gustar = like (me gusta el café), encantar = love things (me encanta). querer + thing = want; querer a + person = love (te quiero). te amo is stronger, more solemn. | gustar = agradar; encantar = gustar mucho; querer algo = desear; querer a alguien = amar.
+table: | смысл | пример
+row: me gusta(n) | нравится | Me gustan los gatos.
+row: me encanta(n) | обожаю | Me encanta bailar.
+row: quiero + вещь | хочу | Quiero un helado.
+row: quiero a + человек | люблю | Quiero a mi hermana.
+choose: ___ mucho a mis abuelos. | Quiero, Me gustan | Quiero | Я очень люблю своих бабушку с дедушкой.
+choose: ¿Te ___ las películas de terror? | gustan, quieres | gustan | Тебе нравятся фильмы ужасов?
+choose: ___ un vaso de agua, por favor. | Quiero, Me gusta | Quiero | Я хочу стакан воды, пожалуйста.
+choose: Me ___ el mar, voy cada verano. | encanta, quiero | encanta | Обожаю море, езжу каждое лето.
+build: Te quiero mucho, mamá. | Я тебя очень люблю, мама. | gustas
+compose: Напишите, что вам нравится, что вы обожаете, чего хотите и кого любите. | Write what you like, love, want and who you love. | Escribe qué te gusta, qué te encanta, qué quieres y a quién quieres. || Me gusta … Me encanta … Quiero … Quiero a … || Me gusta leer. Me encanta el mar. Quiero un perro. Quiero a mi familia.
+
+=== 56 A1 contrasts
+title: tiempo, vez, hora | tiempo, vez or hora | tiempo, vez u hora
+see: 2 7
+p: No tengo tiempo. | У меня нет времени.
+p: ¿Qué hora es? | Который час?
+p: Voy al gimnasio tres veces a la semana. | Я хожу в спортзал три раза в неделю.
+p: Hace buen tiempo. | Хорошая погода.
+formula: tiempo — время (вообще); погода · hora — час, время на часах · vez — раз
+rule: tiempo — время как длительность (no tengo tiempo, mucho tiempo) и погода (¿Qué tiempo hace?). hora — час и время на часах (¿Qué hora es?, a qué hora), а ещё «пора»: Es hora de comer. vez — «раз»: una vez, muchas veces, a veces («иногда»), otra vez («опять»), la primera vez. Мн. ч. vez — veces (z → c). | tiempo = time in general, also weather. hora = hour, clock time (¿Qué hora es?), es hora de… vez = an occasion: una vez, a veces, otra vez (plural veces). | tiempo = duración, clima; hora = momento del reloj; vez = ocasión.
+table: | смысл | пример
+row: tiempo | время вообще; погода | No hay tiempo. Hace mal tiempo.
+row: hora | час, время на часах | ¿A qué hora empieza?
+row: vez | раз | Es la primera vez.
+choose: ¿A qué ___ abre el museo? | hora, tiempo, vez | hora | Во сколько открывается музей?
+choose: He estado en Madrid dos ___. | veces, horas, tiempos | veces | Я был в Мадриде два раза.
+choose: ¿Qué ___ hace hoy? | tiempo, hora | tiempo | Какая сегодня погода?
+choose: Lo siento, no tengo ___ ahora. | tiempo, hora, vez | tiempo | Извини, у меня сейчас нет времени.
+build: A veces como en el trabajo. | Иногда я обедаю на работе. | horas
+compose: Напишите, сколько раз в неделю вы что-то делаете (vez), во сколько (hora) и хватает ли времени (tiempo). | Write how many times a week you do something, at what time, and whether you have time. | Escribe cuántas veces a la semana haces algo, a qué hora y si tienes tiempo. || … veces a la semana … a las … No tengo tiempo para … || Corro tres veces a la semana a las siete. No tengo tiempo para leer.
+
+=== 57 A2 contrasts
+title: desde, hace, desde hace | desde, hace or desde hace | desde, hace o desde hace
+see: 27 30
+p: Vivo aquí desde 2020. | Я живу здесь с 2020 года.
+p: Vivo aquí desde hace cinco años. | Я живу здесь уже пять лет.
+p: Llegué hace cinco años. | Я приехал пять лет назад.
+p: Te espero desde las ocho. | Я жду тебя с восьми.
+formula: desde + момент — с · desde hace + срок — уже (столько-то) · hace + срок — тому назад
+rule: desde + точка отсчёта — «с»: desde enero, desde las ocho, desde niño. desde hace + длительность — «уже столько-то», действие продолжается: trabajo aquí desde hace un año (в английском — for). hace + длительность — «тому назад», действие закончилось, обычно с indefinido: hace un año empecé. Сравните: estudio desde hace un mes (и учу сейчас) / empecé hace un mes. | desde + point in time = since. desde hace + period = for (still true now). hace + period = ago (finished, usually with the preterite). | desde + momento; desde hace + duración (sigue); hace + duración (terminó).
+table: | после чего | пример
+row: desde | момент | desde el lunes
+row: desde hace | срок, ещё длится | desde hace tres días
+row: hace | срок, тому назад | hace tres días
+bridge: 30 | since / for / ago | I've lived here since 2020 / for five years. I came five years ago. | Живу здесь с 2020 года / пять лет. Приехал пять лет назад. | desde = since, desde hace = for, hace = ago
+choose: Estudio español ___ septiembre. | desde, hace, desde hace | desde | Я учу испанский с сентября.
+choose: Nos conocimos ___ diez años. | hace, desde, desde hace | hace | Мы познакомились десять лет назад.
+choose: Trabajo en esta empresa ___ tres años. | desde hace, hace, desde | desde hace | Я работаю в этой компании уже три года.
+choose: No como carne ___ niño. | desde, hace | desde | Я не ем мясо с детства.
+build: Te espero desde hace media hora. | Я жду тебя уже полчаса. | hace desde
+compose: Напишите, с каких пор и как давно вы что-то делаете, и когда это началось. | Write since when and for how long you've been doing something, and when it started. | Escribe desde cuándo y desde hace cuánto haces algo, y cuándo empezó. || … desde … / desde hace … Empecé hace … || Hago yoga desde hace dos años. Empecé hace dos años en Madrid.
+
+=== 58 A2 contrasts
+title: bueno / buen, primero / primer: усечение | bueno or buen, primero or primer | Apócope: bueno / buen, primero / primer
+see: 13 43
+p: Es un buen día. | Хороший день.
+p: El día es bueno. | День хороший.
+p: Es mi primer viaje. | Это моя первая поездка.
+p: Vivo en el tercer piso. | Я живу на четвёртом этаже (третьем над первым).
+formula: перед существительным м. р. ед. ч. теряют -o: buen, mal, primer, tercer, algún, ningún, un
+rule: Некоторые прилагательные перед существительным мужского рода единственного числа теряют конечное -o: bueno → buen día, malo → mal tiempo, primero → primer piso, tercero → tercer día, alguno → algún libro, ninguno → ningún problema, uno → un amigo. После существительного или с женским родом — полная форма: un día bueno, la primera vez, buena suerte. grande перед любым существительным ед. ч. → gran (un gran hombre = великий). | Before a masculine singular noun some adjectives drop -o: buen, mal, primer, tercer, algún, ningún, un. After the noun or with feminine — full form. grande → gran before any singular noun. | Apócope ante sustantivo masculino singular: buen, mal, primer, tercer, algún, ningún. grande → gran.
+table: полная форма | перед сущ. м. р. ед. ч. | а так — полная
+row: bueno | un buen amigo | una buena amiga
+row: malo | un mal día | un día malo
+row: primero | el primer día | la primera vez
+row: ninguno | ningún problema | ninguna idea
+row: grande | un gran país (великий) | un país grande (большой)
+choose: ¡Que tengas un ___ día! | buen, bueno | buen | Хорошего тебе дня!
+choose: Es la ___ vez que vengo aquí. | primera, primer | primera | Я здесь впервые.
+choose: No hay ___ problema. | ningún, ninguno | ningún | Никаких проблем.
+choose: Hoy hace ___ tiempo, no salimos. | mal, malo | mal | Сегодня плохая погода, мы не выходим.
+build: Mi oficina está en el primer piso. | Мой офис на втором этаже (первом над нижним). | primero
+compose: Опишите свой первый рабочий день: buen / bueno, primer / primero. | Describe your first day at work using buen / bueno, primer / primero. | Describe tu primer día de trabajo con buen / bueno, primer / primero. || Mi primer día … Fue un buen … || Mi primer día fue en abril. Fue un buen día.
+
+=== 59 A2 contrasts
+title: saber или poder: «умею» и «могу» | saber or poder: know how or can | saber o poder: saber hacer o poder hacer
+see: 18 19
+p: Sé nadar. | Я умею плавать.
+p: Hoy no puedo nadar, estoy resfriado. | Сегодня я не могу плавать, я простужен.
+p: ¿Sabes conducir? | Ты умеешь водить?
+p: ¿Puedes conducir tú? He bebido. | Можешь повести ты? Я выпил.
+formula: saber + инфинитив — умею (навык) · poder + инфинитив — могу (есть возможность, разрешение)
+rule: Русское «я могу» в испанском делится. saber + глагол — навык, «умею, знаю как»: sé cocinar, sé hablar inglés. poder + глагол — возможность или разрешение в конкретной ситуации: no puedo ir, ¿puedo pasar? Умеешь, но сейчас нельзя — sé, pero no puedo. saber: sé, sabes, sabe; poder: puedo, puedes (o → ue). | saber + infinitive = know how to (a skill). poder + infinitive = be able to / be allowed in a situation. sé, sabes; puedo, puedes. | saber + infinitivo = habilidad; poder + infinitivo = posibilidad o permiso.
+table: | смысл | пример
+row: saber + V | умею, навык | Sé tocar la guitarra.
+row: poder + V | могу сейчас, можно | No puedo tocar, me duele la mano.
+bridge: 15 | can / be able to | I can swim. I can't come today. | Я умею плавать. Я не могу прийти сегодня. | в английском оба значения у одного can
+choose: Mi hijo ya ___ leer. | sabe, puede | sabe | Мой сын уже умеет читать.
+choose: Lo siento, hoy no ___ venir. | puedo, sé | puedo | Извини, сегодня я не могу прийти.
+choose: ¿___ abrir la ventana? Hace calor. | Puedo, Sé | Puedo | Можно открыть окно? Жарко.
+choose: No ___ nadar, nunca aprendí. | sé, puedo | sé | Я не умею плавать, так и не научился.
+build: Sé cocinar, pero hoy no puedo. | Я умею готовить, но сегодня не могу. | puedo cocinar
+compose: Напишите, что вы умеете (saber) и что не можете сделать на этой неделе (poder). | Write what you know how to do and what you can't do this week. | Escribe qué sabes hacer y qué no puedes hacer esta semana. || Sé … Esta semana no puedo … || Sé esquiar. Esta semana no puedo ir a la montaña.
+
+=== 60 B1 contrasts
+title: Ложные друзья: embarazada, constipado, éxito… | False friends: embarazada, constipado, éxito… | Falsos amigos: embarazada, constipado, éxito…
+see: 13
+p: Mi hermana está embarazada. | Моя сестра беременна.
+p: Estoy constipado. | У меня насморк (я простужен).
+p: La obra fue un éxito. | Спектакль имел успех.
+p: Este camino es largo. | Эта дорога длинная.
+formula: похоже на русское или английское слово, а значит другое
+rule: Ловушки для русских и англоговорящих. embarazada — «беременная», а не «смущённая» (смущённый — avergonzado). constipado — «простуженный», не «страдающий запором». éxito — «успех», а выход — salida. largo — «длинный», а большой — grande. carpeta — «папка», а ковёр — alfombra. exquisito — «изысканный, очень вкусный». librería — «книжный магазин», а библиотека — biblioteca. | embarazada = pregnant (not embarrassed), constipado = having a cold, éxito = success (exit = salida), largo = long (large = grande), carpeta = folder, librería = bookshop (library = biblioteca). | Falsos amigos: embarazada, constipado, éxito, largo, carpeta, librería.
+table: испанское | значит | а похожее «…» — это
+row: embarazada | беременная | смущённый — avergonzado
+row: constipado | простуженный | запор — estreñimiento
+row: éxito | успех | выход — salida
+row: largo | длинный | большой — grande
+row: carpeta | папка | ковёр — alfombra
+row: librería | книжный магазин | библиотека — biblioteca
+bridge: 68 | false friends | Actually, I'm from Kazan. I bought a magazine. | Вообще-то я из Казани. Я купил журнал. | в английском свои ловушки: actually, magazine, sympathetic
+choose: Compré un libro en la ___ de la esquina. | librería, biblioteca | librería | Я купил книгу в книжном на углу.
+choose: ¿Dónde está la ___? Quiero irme. | salida, éxito | salida | Где выход? Я хочу уйти.
+choose: Me puse rojo, estaba muy ___. | avergonzado, embarazado | avergonzado | Я покраснел, мне было очень стыдно.
+choose: Guarda los documentos en esta ___. | carpeta, alfombra | carpeta | Сложи документы в эту папку.
+build: El concierto fue un gran éxito. | Концерт имел большой успех. | salida
+compose: Напишите две фразы с ложными друзьями: éxito и largo. | Write two sentences with false friends: éxito and largo. | Escribe dos frases con éxito y largo. || … éxito. … largo. || Mi proyecto fue un éxito. El viaje fue muy largo.
+
+=== 61 A2 contrasts
+title: echar de menos или perder | echar de menos or perder | echar de menos o perder
+see: 30
+p: Te echo de menos. | Я скучаю по тебе.
+p: Perdí el tren. | Я опоздал на поезд.
+p: He perdido las llaves. | Я потерял ключи.
+p: Perdimos el partido. | Мы проиграли матч.
+formula: echar de menos — скучать · perder — потерять, проиграть, опоздать на транспорт
+rule: perder — широкое слово: потерять вещь (perder el móvil), проиграть (perder un partido), опоздать на транспорт (perder el autobús), упустить время (perder el tiempo). А «скучать по кому-то» — echar de menos (в Испании) или extrañar (в Латинской Америке): Te echo de menos / Te extraño. perder меняет e → ie: pierdo, pierdes. | perder = lose (things, games), miss (a bus), waste (time). “I miss you” = te echo de menos (Spain) or te extraño (Latin America). pierdo. | perder = objeto, partido, transporte, tiempo; echar de menos / extrañar = sentir la falta de alguien.
+table: | смысл | пример
+row: perder | потерять | perder la cartera
+row: perder | проиграть | perder el partido
+row: perder | опоздать на | perder el vuelo
+row: echar de menos | скучать | echo de menos a mi familia
+bridge: 67 | miss / lose | I miss you. I missed the bus. I lost my keys. | Я скучаю. Я опоздал на автобус. Я потерял ключи. | английское miss = и «скучать», и «опоздать», а lose = «потерять»
+choose: ___ mucho a mis amigos de Rusia. | Echo de menos, Pierdo | Echo de menos | Я очень скучаю по друзьям из России.
+choose: Corre o vamos a ___ el autobús. | perder, echar de menos | perder | Беги, а то опоздаем на автобус.
+choose: ¿Dónde ___ el paraguas? | perdiste, echaste de menos | perdiste | Где ты потерял зонт?
+choose: No quiero ___ el tiempo. | perder, echar | perder | Не хочу терять время.
+build: Echo de menos el mar de mi ciudad. | Я скучаю по морю своего города. | pierdo
+compose: Напишите, по кому или чему вы скучаете и что недавно потеряли. | Write who or what you miss and what you lost recently. | Escribe qué echas de menos y qué perdiste hace poco. || Echo de menos … Perdí … || Echo de menos a mi abuela. Perdí los auriculares.

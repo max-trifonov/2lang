@@ -1,0 +1,135 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-64",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-64",
+  "order": 64,
+  "level": "A2",
+  "title": {
+    "ru": "travel, trip, journey",
+    "en": "travel, trip or journey",
+    "es": "travel, trip o journey"
+  },
+  "see": [
+    "en-grammar-04"
+  ],
+  "pattern": [
+    {
+      "en": "I love to travel.",
+      "ru": "Я люблю путешествовать."
+    },
+    {
+      "en": "How was your trip to Rome?",
+      "ru": "Как съездил в Рим?"
+    },
+    {
+      "en": "The journey took six hours.",
+      "ru": "Дорога заняла шесть часов."
+    },
+    {
+      "en": "Have a nice trip!",
+      "ru": "Хорошей поездки!"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "travel — чаще глагол: I travel a lot; как существительное — путешествия вообще, без a: Travel broadens the mind. trip — конкретная поездка с целью и возвращением: a business trip, a day trip, a trip to Paris. journey — сам путь из точки А в точку Б, особенно долгий: a long journey, the journey home. Нельзя: a travel → a trip.",
+      "en": "travel = mostly a verb, or travelling in general (no a). trip = a specific visit and return (a business trip). journey = the act of going from A to B (a long journey).",
+      "es": "travel = viajar; trip = viaje (escapada); journey = trayecto, recorrido."
+    },
+    "formula": "travel — путешествовать (глагол), путешествия вообще · trip — поездка (туда и обратно) · journey — дорога, путь",
+    "table": {
+      "head": [
+        "",
+        "что это",
+        "пример"
+      ],
+      "rows": [
+        [
+          "travel",
+          "путешествовать; путешествия вообще",
+          "I travel for work."
+        ],
+        [
+          "trip",
+          "поездка (туда и обратно)",
+          "a weekend trip"
+        ],
+        [
+          "journey",
+          "путь из А в Б",
+          "The journey was long."
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "We're going on a business ___ next week.",
+      "options": [
+        "trip",
+        "travel",
+        "journey"
+      ],
+      "answer": "trip",
+      "ru": "На следующей неделе мы едем в командировку."
+    },
+    {
+      "type": "choose",
+      "en": "I want to ___ around the world.",
+      "options": [
+        "travel",
+        "trip",
+        "journey"
+      ],
+      "answer": "travel",
+      "ru": "Я хочу путешествовать по миру."
+    },
+    {
+      "type": "choose",
+      "en": "The ___ from London to Edinburgh takes four hours by train.",
+      "options": [
+        "journey",
+        "travel",
+        "trip"
+      ],
+      "answer": "journey",
+      "ru": "Дорога из Лондона в Эдинбург занимает четыре часа на поезде."
+    },
+    {
+      "type": "choose",
+      "en": "Have a good ___!",
+      "options": [
+        "trip",
+        "travel"
+      ],
+      "answer": "trip",
+      "ru": "Хорошей поездки!"
+    },
+    {
+      "type": "build",
+      "en": "How was your trip to Barcelona?",
+      "ru": "Как прошла поездка в Барселону?",
+      "extra": [
+        "travel"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите о своей последней поездке: куда (trip) и как прошла дорога (journey).",
+        "en": "Write about your last trip: where you went and how the journey was.",
+        "es": "Escribe sobre tu último viaje: adónde (trip) y cómo fue el trayecto (journey)."
+      },
+      "template": "My last trip was to … The journey …",
+      "sample": "My last trip was to Kazan. The journey took twelve hours by train."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

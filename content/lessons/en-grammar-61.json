@@ -1,0 +1,149 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-61",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-61",
+  "order": 61,
+  "level": "A2",
+  "title": {
+    "ru": "too, very, enough",
+    "en": "too, very or enough",
+    "es": "too, very o enough"
+  },
+  "see": [
+    "en-grammar-27",
+    "en-grammar-16"
+  ],
+  "pattern": [
+    {
+      "en": "The coffee is very hot.",
+      "ru": "Кофе очень горячий."
+    },
+    {
+      "en": "The coffee is too hot to drink.",
+      "ru": "Кофе слишком горячий, чтобы пить."
+    },
+    {
+      "en": "The room is big enough.",
+      "ru": "Комната достаточно большая."
+    },
+    {
+      "en": "We don't have enough time.",
+      "ru": "У нас недостаточно времени."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "very просто усиливает: very cold — «очень холодно», ничего страшного. too — «слишком», это проблема, что-то нельзя сделать: too cold to swim. enough — «достаточно»: после прилагательного (old enough, warm enough), но перед существительным (enough money, enough chairs). Отрицание: not big enough — «маловат».",
+      "en": "very = intensifier (very cold). too = more than OK, a problem (too cold to swim). enough goes after adjectives (old enough) and before nouns (enough money).",
+      "es": "very = muy; too = demasiado; enough = suficiente (adj. + enough / enough + sust.)."
+    },
+    "formula": "very — очень (нормально) · too — слишком (проблема) · прил. + enough / enough + сущ. — достаточно",
+    "table": {
+      "head": [
+        "",
+        "смысл",
+        "пример"
+      ],
+      "rows": [
+        [
+          "very",
+          "очень",
+          "very expensive"
+        ],
+        [
+          "too",
+          "слишком, проблема",
+          "too expensive to buy"
+        ],
+        [
+          "enough",
+          "достаточно",
+          "cheap enough, enough money"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-42",
+      "formula": "muy / demasiado / bastante",
+      "examples": [
+        {
+          "es": "Es muy caro. Es demasiado caro.",
+          "ru": "Очень дорого. Слишком дорого."
+        }
+      ],
+      "note": {
+        "ru": "demasiado = too, bastante = enough"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "I can't buy it, it's ___ expensive.",
+      "options": [
+        "too",
+        "very"
+      ],
+      "answer": "too",
+      "ru": "Не могу купить, это слишком дорого."
+    },
+    {
+      "type": "choose",
+      "en": "Is he old ___ to drive?",
+      "options": [
+        "enough",
+        "too"
+      ],
+      "answer": "enough",
+      "ru": "Он достаточно взрослый, чтобы водить?"
+    },
+    {
+      "type": "choose",
+      "en": "We don't have ___ chairs for everyone.",
+      "options": [
+        "enough",
+        "too"
+      ],
+      "answer": "enough",
+      "ru": "Нам не хватит стульев на всех."
+    },
+    {
+      "type": "choose",
+      "en": "The hotel was ___ nice, we loved it.",
+      "options": [
+        "very",
+        "too"
+      ],
+      "answer": "very",
+      "ru": "Отель был очень хорошим, нам понравилось."
+    },
+    {
+      "type": "build",
+      "en": "This bag is too heavy to carry.",
+      "ru": "Эта сумка слишком тяжёлая, чтобы её нести.",
+      "extra": [
+        "very"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что для вас слишком (too), что очень (very) и чего недостаточно (enough).",
+        "en": "Write what is too…, very… and not … enough for you.",
+        "es": "Escribe qué es demasiado, muy y no suficiente para ti."
+      },
+      "template": "… is too … I don't have enough …",
+      "sample": "My flat is too small. I don't have enough space."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

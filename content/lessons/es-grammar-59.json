@@ -1,0 +1,144 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-59",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-59",
+  "order": 59,
+  "level": "A2",
+  "title": {
+    "ru": "saber или poder: «умею» и «могу»",
+    "en": "saber or poder: know how or can",
+    "es": "saber o poder: saber hacer o poder hacer"
+  },
+  "see": [
+    "es-grammar-18",
+    "es-grammar-19"
+  ],
+  "pattern": [
+    {
+      "es": "Sé nadar.",
+      "ru": "Я умею плавать."
+    },
+    {
+      "es": "Hoy no puedo nadar, estoy resfriado.",
+      "ru": "Сегодня я не могу плавать, я простужен."
+    },
+    {
+      "es": "¿Sabes conducir?",
+      "ru": "Ты умеешь водить?"
+    },
+    {
+      "es": "¿Puedes conducir tú? He bebido.",
+      "ru": "Можешь повести ты? Я выпил."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Русское «я могу» в испанском делится. saber + глагол — навык, «умею, знаю как»: sé cocinar, sé hablar inglés. poder + глагол — возможность или разрешение в конкретной ситуации: no puedo ir, ¿puedo pasar? Умеешь, но сейчас нельзя — sé, pero no puedo. saber: sé, sabes, sabe; poder: puedo, puedes (o → ue).",
+      "en": "saber + infinitive = know how to (a skill). poder + infinitive = be able to / be allowed in a situation. sé, sabes; puedo, puedes.",
+      "es": "saber + infinitivo = habilidad; poder + infinitivo = posibilidad o permiso."
+    },
+    "formula": "saber + инфинитив — умею (навык) · poder + инфинитив — могу (есть возможность, разрешение)",
+    "table": {
+      "head": [
+        "",
+        "смысл",
+        "пример"
+      ],
+      "rows": [
+        [
+          "saber + V",
+          "умею, навык",
+          "Sé tocar la guitarra."
+        ],
+        [
+          "poder + V",
+          "могу сейчас, можно",
+          "No puedo tocar, me duele la mano."
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-15",
+      "formula": "can / be able to",
+      "examples": [
+        {
+          "en": "I can swim. I can't come today.",
+          "ru": "Я умею плавать. Я не могу прийти сегодня."
+        }
+      ],
+      "note": {
+        "ru": "в английском оба значения у одного can"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Mi hijo ya ___ leer.",
+      "options": [
+        "sabe",
+        "puede"
+      ],
+      "answer": "sabe",
+      "ru": "Мой сын уже умеет читать."
+    },
+    {
+      "type": "choose",
+      "es": "Lo siento, hoy no ___ venir.",
+      "options": [
+        "puedo",
+        "sé"
+      ],
+      "answer": "puedo",
+      "ru": "Извини, сегодня я не могу прийти."
+    },
+    {
+      "type": "choose",
+      "es": "¿___ abrir la ventana? Hace calor.",
+      "options": [
+        "Puedo",
+        "Sé"
+      ],
+      "answer": "Puedo",
+      "ru": "Можно открыть окно? Жарко."
+    },
+    {
+      "type": "choose",
+      "es": "No ___ nadar, nunca aprendí.",
+      "options": [
+        "sé",
+        "puedo"
+      ],
+      "answer": "sé",
+      "ru": "Я не умею плавать, так и не научился."
+    },
+    {
+      "type": "build",
+      "es": "Sé cocinar, pero hoy no puedo.",
+      "ru": "Я умею готовить, но сегодня не могу.",
+      "extra": [
+        "puedo cocinar"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы умеете (saber) и что не можете сделать на этой неделе (poder).",
+        "en": "Write what you know how to do and what you can't do this week.",
+        "es": "Escribe qué sabes hacer y qué no puedes hacer esta semana."
+      },
+      "template": "Sé … Esta semana no puedo …",
+      "sample": "Sé esquiar. Esta semana no puedo ir a la montaña."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

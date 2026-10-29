@@ -1,0 +1,143 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-36",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-36",
+  "order": 36,
+  "level": "A2",
+  "title": {
+    "ru": "por или para",
+    "en": "por or para",
+    "es": "por o para"
+  },
+  "see": [
+    "es-grammar-07",
+    "es-grammar-32"
+  ],
+  "pattern": [
+    {
+      "es": "Este regalo es para ti.",
+      "ru": "Этот подарок для тебя."
+    },
+    {
+      "es": "Gracias por el regalo.",
+      "ru": "Спасибо за подарок."
+    },
+    {
+      "es": "Estudio español para viajar.",
+      "ru": "Я учу испанский, чтобы путешествовать."
+    },
+    {
+      "es": "Paseamos por el parque.",
+      "ru": "Мы гуляем по парку."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "para смотрит вперёд, на цель: для кого (para ti), зачем (para viajar), куда (el tren para Madrid), к какому сроку (para el lunes). por смотрит на причину и путь: из-за чего (por la lluvia), за что (gracias por…, pagué diez euros por el libro), где проходим (por el parque, por la calle), каким способом (por teléfono), часть дня (por la mañana).",
+      "en": "para looks ahead: purpose, recipient, destination, deadline (para ti, para viajar, para el lunes). por looks at cause and route: because of, in exchange for, through, by means of, parts of the day (por la lluvia, gracias por, por el parque, por teléfono, por la mañana).",
+      "es": "para: finalidad, destinatario, destino, plazo. por: causa, intercambio, lugar de paso, medio, partes del día."
+    },
+    "formula": "para — цель, для кого, куда, срок · por — причина, через / по, обмен, «за»",
+    "table": {
+      "head": [
+        "",
+        "para",
+        "por"
+      ],
+      "rows": [
+        [
+          "смысл",
+          "цель, для кого, куда",
+          "причина, путь, обмен"
+        ],
+        [
+          "пример",
+          "para ti, para trabajar",
+          "por ti, por la calle"
+        ],
+        [
+          "время",
+          "para el lunes (к сроку)",
+          "por la tarde (днём)"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Gracias ___ tu ayuda.",
+      "options": [
+        "por",
+        "para"
+      ],
+      "answer": "por",
+      "ru": "Спасибо за твою помощь."
+    },
+    {
+      "type": "choose",
+      "es": "Necesito el informe ___ mañana.",
+      "options": [
+        "para",
+        "por"
+      ],
+      "answer": "para",
+      "ru": "Отчёт нужен мне к завтрашнему дню."
+    },
+    {
+      "type": "choose",
+      "es": "Hablamos ___ teléfono ayer.",
+      "options": [
+        "por",
+        "para"
+      ],
+      "answer": "por",
+      "ru": "Мы вчера говорили по телефону."
+    },
+    {
+      "type": "choose",
+      "es": "Trabajo ___ ganar dinero.",
+      "options": [
+        "para",
+        "por"
+      ],
+      "answer": "para",
+      "ru": "Я работаю, чтобы зарабатывать деньги."
+    },
+    {
+      "type": "choose",
+      "es": "Caminamos ___ la playa toda la tarde.",
+      "options": [
+        "por",
+        "para"
+      ],
+      "answer": "por",
+      "ru": "Мы весь вечер гуляли по пляжу."
+    },
+    {
+      "type": "build",
+      "es": "Este café es para mi madre.",
+      "ru": "Этот кофе для моей мамы.",
+      "extra": [
+        "por"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, для чего вы учите испанский (para) и за что вы благодарны (por).",
+        "en": "Write why you study Spanish (para) and what you're grateful for (por).",
+        "es": "Escribe para qué estudias español y por qué estás agradecido."
+      },
+      "template": "Estudio español para … Gracias por …",
+      "sample": "Estudio español para viajar. Gracias por la paciencia."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

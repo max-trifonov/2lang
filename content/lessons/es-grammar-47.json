@@ -1,0 +1,149 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-47",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-47",
+  "order": 47,
+  "level": "A2",
+  "title": {
+    "ru": "hablar, decir, contar",
+    "en": "hablar, decir or contar",
+    "es": "hablar, decir o contar"
+  },
+  "see": [
+    "es-grammar-16",
+    "es-grammar-26"
+  ],
+  "pattern": [
+    {
+      "es": "Hablo con mi madre cada día.",
+      "ru": "Я каждый день говорю с мамой."
+    },
+    {
+      "es": "Dice que está cansado.",
+      "ru": "Он говорит, что устал."
+    },
+    {
+      "es": "Cuéntame un secreto.",
+      "ru": "Расскажи мне секрет."
+    },
+    {
+      "es": "¿Hablas inglés?",
+      "ru": "Ты говоришь по-английски?"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "hablar — сам процесс речи: hablar con alguien, hablar de algo, hablar idiomas. decir — сказать конкретные слова или мысль: decir la verdad, decir que sí, dice que… contar — рассказать историю, новость, подробности: contar un cuento, ¿qué me cuentas? — «что расскажешь?», а ещё «считать»: contar hasta diez. decir неправильный: digo, dice, dijo; contar меняет o → ue: cuento.",
+      "en": "hablar = speak, talk (hablar con, hablar de, idiomas). decir = say, tell specific words (decir que…). contar = tell a story, also count (o → ue). decir: digo, dijo.",
+      "es": "hablar = conversar; decir = expresar palabras; contar = narrar, también contar números."
+    },
+    "formula": "hablar — говорить, разговаривать · decir — сказать что-то · contar — рассказать (историю); считать",
+    "table": {
+      "head": [
+        "",
+        "что",
+        "пример"
+      ],
+      "rows": [
+        [
+          "hablar",
+          "говорить, разговаривать",
+          "hablar con Ana"
+        ],
+        [
+          "decir",
+          "сказать что-то",
+          "decir la verdad"
+        ],
+        [
+          "contar",
+          "рассказать историю; считать",
+          "contar un chiste"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-41",
+      "formula": "say / tell / speak",
+      "examples": [
+        {
+          "en": "He said he was tired. Tell me a story.",
+          "ru": "Он сказал, что устал. Расскажи мне историю."
+        }
+      ],
+      "note": {
+        "ru": "decir ≈ say и tell, contar ≈ tell a story, hablar ≈ speak / talk"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "¿Me ___ la verdad?",
+      "options": [
+        "dices",
+        "hablas"
+      ],
+      "answer": "dices",
+      "ru": "Ты говоришь мне правду?"
+    },
+    {
+      "type": "choose",
+      "es": "Mi abuelo nos ___ historias de la guerra.",
+      "options": [
+        "contaba",
+        "hablaba"
+      ],
+      "answer": "contaba",
+      "ru": "Дедушка рассказывал нам истории о войне."
+    },
+    {
+      "type": "choose",
+      "es": "Necesito ___ con el jefe.",
+      "options": [
+        "hablar",
+        "decir"
+      ],
+      "answer": "hablar",
+      "ru": "Мне нужно поговорить с начальником."
+    },
+    {
+      "type": "choose",
+      "es": "Ana ___ que llega tarde.",
+      "options": [
+        "dice",
+        "cuenta"
+      ],
+      "answer": "dice",
+      "ru": "Ана говорит, что опоздает."
+    },
+    {
+      "type": "build",
+      "es": "Cuéntame qué hiciste el fin de semana.",
+      "ru": "Расскажи, что ты делал на выходных.",
+      "extra": [
+        "dime"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Перескажите разговор с другом: с hablar, decir и contar.",
+        "en": "Retell a conversation with a friend using hablar, decir and contar.",
+        "es": "Cuenta una conversación con hablar, decir y contar."
+      },
+      "template": "Hablé con … Me dijo que … Me contó …",
+      "sample": "Hablé con Luis. Me dijo que se muda. Me contó todo sobre su nuevo piso."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

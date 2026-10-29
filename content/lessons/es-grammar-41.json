@@ -1,0 +1,148 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-41",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-41",
+  "order": 41,
+  "level": "A1",
+  "title": {
+    "ru": "tocar или jugar",
+    "en": "tocar or jugar",
+    "es": "tocar o jugar"
+  },
+  "see": [
+    "es-grammar-09"
+  ],
+  "pattern": [
+    {
+      "es": "Toco la guitarra.",
+      "ru": "Я играю на гитаре."
+    },
+    {
+      "es": "Juego al fútbol.",
+      "ru": "Я играю в футбол."
+    },
+    {
+      "es": "Los niños juegan en el parque.",
+      "ru": "Дети играют в парке."
+    },
+    {
+      "es": "No toques el horno, quema.",
+      "ru": "Не трогай духовку, она горячая."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "По-русски одно «играть», в испанском два глагола. tocar — на музыкальном инструменте (tocar el piano), а ещё «трогать» (no toques) и «быть чьей-то очередью» (te toca a ti). jugar — в игру или спорт, после него a + артикль: jugar al tenis, jugar a las cartas. jugar меняет u → ue: juego, juegas.",
+      "en": "tocar = play an instrument, also touch and be someone's turn (te toca). jugar a = play a game or sport (jugar al tenis); u → ue (juego).",
+      "es": "tocar = instrumento, tocar algo, turno; jugar a = juegos y deportes (u → ue)."
+    },
+    "formula": "tocar — играть на инструменте; трогать · jugar a — играть в игру, спорт",
+    "table": {
+      "head": [
+        "",
+        "tocar",
+        "jugar"
+      ],
+      "rows": [
+        [
+          "что",
+          "инструмент",
+          "игра, спорт"
+        ],
+        [
+          "пример",
+          "tocar el violín",
+          "jugar al ajedrez"
+        ],
+        [
+          "ещё",
+          "трогать; очередь (te toca)",
+          "играть (дети)"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-01",
+      "formula": "play",
+      "examples": [
+        {
+          "en": "I play the guitar. I play football.",
+          "ru": "Я играю на гитаре. Я играю в футбол."
+        }
+      ],
+      "note": {
+        "ru": "в английском одно play, но с инструментом — the: play the guitar"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Mi hija ___ el piano muy bien.",
+      "options": [
+        "toca",
+        "juega"
+      ],
+      "answer": "toca",
+      "ru": "Моя дочь очень хорошо играет на пианино."
+    },
+    {
+      "type": "choose",
+      "es": "¿___ al baloncesto los sábados?",
+      "options": [
+        "Juegas",
+        "Tocas"
+      ],
+      "answer": "Juegas",
+      "ru": "Ты играешь в баскетбол по субботам?"
+    },
+    {
+      "type": "choose",
+      "es": "Ahora te ___ a ti.",
+      "options": [
+        "toca",
+        "juega"
+      ],
+      "answer": "toca",
+      "ru": "Теперь твоя очередь."
+    },
+    {
+      "type": "choose",
+      "es": "Los niños están ___ en el jardín.",
+      "options": [
+        "jugando",
+        "tocando"
+      ],
+      "answer": "jugando",
+      "ru": "Дети играют в саду."
+    },
+    {
+      "type": "build",
+      "es": "Mi padre toca la guitarra en un grupo.",
+      "ru": "Мой папа играет на гитаре в группе.",
+      "extra": [
+        "juega"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, на чём вы играете (tocar) и во что (jugar).",
+        "en": "Write what instrument you play (tocar) and what game or sport (jugar).",
+        "es": "Escribe qué instrumento tocas y a qué juegas."
+      },
+      "template": "Toco … Juego a …",
+      "sample": "Toco un poco el piano. Juego al tenis los domingos."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

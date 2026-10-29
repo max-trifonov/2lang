@@ -1,0 +1,150 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-42",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-42",
+  "order": 42,
+  "level": "A1",
+  "title": {
+    "ru": "muy или mucho",
+    "en": "muy or mucho",
+    "es": "muy o mucho"
+  },
+  "see": [
+    "es-grammar-25",
+    "es-grammar-35"
+  ],
+  "pattern": [
+    {
+      "es": "Hace mucho frío.",
+      "ru": "Очень холодно."
+    },
+    {
+      "es": "Hace muy buen tiempo.",
+      "ru": "Очень хорошая погода."
+    },
+    {
+      "es": "Trabajo mucho.",
+      "ru": "Я много работаю."
+    },
+    {
+      "es": "Está muy lejos.",
+      "ru": "Это очень далеко."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "muy — «очень» только перед прилагательным или наречием: muy bueno, muy rápido. mucho — «много, сильно»: перед существительным, тогда согласуется (mucho tiempo, muchas personas), или после глагола, тогда не меняется (trabajo mucho, me gusta mucho). Ловушка: «очень холодно» — hace mucho frío, ведь frío здесь существительное. Никогда muy mucho. Слишком — demasiado, достаточно — bastante.",
+      "en": "muy + adjective / adverb (muy bueno). mucho + noun, agreeing (muchas personas), or after a verb, unchanged (trabajo mucho). hace mucho frío (frío is a noun). Too = demasiado, enough = bastante.",
+      "es": "muy + adjetivo / adverbio; mucho + sustantivo o después del verbo. Hace mucho frío."
+    },
+    "formula": "muy + прилагательное / наречие · mucho + существительное / после глагола",
+    "table": {
+      "head": [
+        "",
+        "перед чем",
+        "пример"
+      ],
+      "rows": [
+        [
+          "muy",
+          "прилагательное, наречие",
+          "muy caro, muy bien"
+        ],
+        [
+          "mucho, -a, -os, -as",
+          "существительное",
+          "mucha gente, muchos libros"
+        ],
+        [
+          "mucho",
+          "после глагола",
+          "Me gusta mucho."
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-61",
+      "formula": "very / too / enough",
+      "examples": [
+        {
+          "en": "It's very expensive. It's too expensive.",
+          "ru": "Очень дорого. Слишком дорого."
+        }
+      ],
+      "note": {
+        "ru": "very = muy, too = demasiado, enough = bastante"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "El hotel es ___ bonito.",
+      "options": [
+        "muy",
+        "mucho"
+      ],
+      "answer": "muy",
+      "ru": "Отель очень красивый."
+    },
+    {
+      "type": "choose",
+      "es": "Hay ___ gente en la playa.",
+      "options": [
+        "mucha",
+        "muy",
+        "mucho"
+      ],
+      "answer": "mucha",
+      "ru": "На пляже много людей."
+    },
+    {
+      "type": "choose",
+      "es": "Me gusta ___ este libro.",
+      "options": [
+        "mucho",
+        "muy"
+      ],
+      "answer": "mucho",
+      "ru": "Мне очень нравится эта книга."
+    },
+    {
+      "type": "choose",
+      "es": "Hoy hace ___ calor.",
+      "options": [
+        "mucho",
+        "muy"
+      ],
+      "answer": "mucho",
+      "ru": "Сегодня очень жарко."
+    },
+    {
+      "type": "build",
+      "es": "Mi abuela cocina muy bien.",
+      "ru": "Моя бабушка очень хорошо готовит.",
+      "extra": [
+        "mucho"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите про свой город с muy и mucho.",
+        "en": "Describe your city with muy and mucho.",
+        "es": "Describe tu ciudad con muy y mucho."
+      },
+      "template": "Mi ciudad es muy … Hay mucho / mucha …",
+      "sample": "Mi ciudad es muy verde. Hay mucho tráfico."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

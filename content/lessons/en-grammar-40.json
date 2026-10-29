@@ -1,0 +1,139 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-40",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-40",
+  "order": 40,
+  "level": "A2",
+  "title": {
+    "ru": "make или do",
+    "en": "make or do",
+    "es": "make o do"
+  },
+  "see": [
+    "en-grammar-39",
+    "en-grammar-07"
+  ],
+  "pattern": [
+    {
+      "en": "I made a mistake in the code.",
+      "ru": "Я сделал ошибку в коде."
+    },
+    {
+      "en": "Can you do the dishes?",
+      "ru": "Можешь помыть посуду?"
+    },
+    {
+      "en": "She makes coffee every morning.",
+      "ru": "Она варит кофе каждое утро."
+    },
+    {
+      "en": "I do yoga on Sundays.",
+      "ru": "По воскресеньям я занимаюсь йогой."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "make — когда что-то появляется в результате: make coffee, make a mistake, make a decision, make money, make noise, make friends. do — когда выполняешь работу, обязанность, занятие: do homework, do the shopping, do sport, do your best, do business. Подсказка: make — «изготовить, создать», do — «заниматься». Вопрос «что ты делаешь?» — всегда do: What are you doing?",
+      "en": "make = create or produce a result (make coffee, a mistake, a decision, money, noise). do = perform work, duties, activities (do homework, the shopping, sport, your best). What are you doing? always uses do.",
+      "es": "make = crear, producir (make coffee, a mistake). do = realizar una tarea (do homework, sport)."
+    },
+    "formula": "make — создать, получить результат · do — выполнить действие, работу",
+    "table": {
+      "head": [
+        "make",
+        "do"
+      ],
+      "rows": [
+        [
+          "a mistake, a decision, a plan",
+          "homework, the dishes, the shopping"
+        ],
+        [
+          "coffee, dinner, a cake",
+          "sport, yoga, exercise"
+        ],
+        [
+          "money, friends, noise",
+          "business, a favour, your best"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Don't worry, everybody ___ mistakes.",
+      "options": [
+        "makes",
+        "does"
+      ],
+      "answer": "makes",
+      "ru": "Не переживай, все ошибаются."
+    },
+    {
+      "type": "choose",
+      "en": "I have to ___ my homework tonight.",
+      "options": [
+        "do",
+        "make"
+      ],
+      "answer": "do",
+      "ru": "Мне надо сделать домашку вечером."
+    },
+    {
+      "type": "choose",
+      "en": "We need to ___ a decision today.",
+      "options": [
+        "make",
+        "do"
+      ],
+      "answer": "make",
+      "ru": "Нам нужно принять решение сегодня."
+    },
+    {
+      "type": "choose",
+      "en": "Could you ___ me a favour?",
+      "options": [
+        "do",
+        "make"
+      ],
+      "answer": "do",
+      "ru": "Можешь сделать мне одолжение?"
+    },
+    {
+      "type": "choose",
+      "en": "Stop ___ so much noise!",
+      "options": [
+        "making",
+        "doing"
+      ],
+      "answer": "making",
+      "ru": "Хватит так шуметь!"
+    },
+    {
+      "type": "build",
+      "en": "I made a plan for the weekend.",
+      "ru": "Я составил план на выходные.",
+      "extra": [
+        "did"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы делаете по дому (do) и что готовите или создаёте (make).",
+        "en": "Write what you do at home (do) and what you make (make).",
+        "es": "Escribe qué tareas haces (do) y qué preparas (make)."
+      },
+      "template": "I do … I make …",
+      "sample": "I do the shopping on Saturdays. I make pancakes on Sundays."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

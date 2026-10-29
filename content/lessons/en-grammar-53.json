@@ -1,0 +1,132 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-53",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-53",
+  "order": 53,
+  "level": "A2",
+  "title": {
+    "ru": "fun или funny",
+    "en": "fun or funny",
+    "es": "fun o funny"
+  },
+  "see": [
+    "en-grammar-52"
+  ],
+  "pattern": [
+    {
+      "en": "The party was fun.",
+      "ru": "Вечеринка была классной."
+    },
+    {
+      "en": "The film was funny.",
+      "ru": "Фильм был смешным."
+    },
+    {
+      "en": "Have fun!",
+      "ru": "Повеселись!"
+    },
+    {
+      "en": "He's a funny guy.",
+      "ru": "Он смешной парень."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "fun — «весело, классно, удовольствие»: a fun day, skiing is fun, have fun. funny — «смешной, забавный», вызывает смех: a funny joke, a funny video. Ещё funny бывает «странный»: That's funny, the door is open. Сравните: The teacher is fun — с ним интересно; The teacher is funny — он смешит.",
+      "en": "fun = enjoyable (a fun day, have fun). funny = makes you laugh (a funny joke); also “strange”.",
+      "es": "fun = divertido (lo pasamos bien); funny = gracioso (da risa) o raro."
+    },
+    "formula": "fun — весело, приятно проводить время · funny — смешно, вызывает смех",
+    "table": {
+      "head": [
+        "",
+        "fun",
+        "funny"
+      ],
+      "rows": [
+        [
+          "смысл",
+          "весело, приятно",
+          "смешно; странно"
+        ],
+        [
+          "пример",
+          "The trip was fun.",
+          "The joke was funny."
+        ],
+        [
+          "устойчивое",
+          "Have fun!",
+          "That's funny…"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "We had a lot of ___ at the beach.",
+      "options": [
+        "fun",
+        "funny"
+      ],
+      "answer": "fun",
+      "ru": "Мы отлично повеселились на пляже."
+    },
+    {
+      "type": "choose",
+      "en": "Tell me a ___ story!",
+      "options": [
+        "funny",
+        "fun"
+      ],
+      "answer": "funny",
+      "ru": "Расскажи мне смешную историю!"
+    },
+    {
+      "type": "choose",
+      "en": "Learning languages can be ___.",
+      "options": [
+        "fun",
+        "funny"
+      ],
+      "answer": "fun",
+      "ru": "Учить языки может быть весело."
+    },
+    {
+      "type": "choose",
+      "en": "That's ___ — I'm sure I locked the door.",
+      "options": [
+        "funny",
+        "fun"
+      ],
+      "answer": "funny",
+      "ru": "Странно — я уверен, что запер дверь."
+    },
+    {
+      "type": "build",
+      "en": "The weekend was really fun.",
+      "ru": "Выходные были очень классными.",
+      "extra": [
+        "funny"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что для вас fun и что вам кажется funny.",
+        "en": "Write what is fun for you and what you find funny.",
+        "es": "Escribe qué es divertido para ti y qué te parece gracioso."
+      },
+      "template": "… is fun. … is funny.",
+      "sample": "Dancing is fun. My cat is funny."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

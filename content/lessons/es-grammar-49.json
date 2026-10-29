@@ -1,0 +1,137 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-49",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-49",
+  "order": 49,
+  "level": "A2",
+  "title": {
+    "ru": "quedar или quedarse",
+    "en": "quedar or quedarse",
+    "es": "quedar o quedarse"
+  },
+  "see": [
+    "es-grammar-23"
+  ],
+  "pattern": [
+    {
+      "es": "¿Quedamos a las ocho?",
+      "ru": "Встретимся в восемь?"
+    },
+    {
+      "es": "Me quedo en casa hoy.",
+      "ru": "Сегодня я остаюсь дома."
+    },
+    {
+      "es": "No queda leche.",
+      "ru": "Молока не осталось."
+    },
+    {
+      "es": "Esta camisa te queda bien.",
+      "ru": "Эта рубашка тебе идёт."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Одна частица se меняет смысл. quedarse — «остаться» самому где-то: Me quedo aquí, Nos quedamos tres días en Roma. quedar — без se: договориться о встрече (quedar con alguien, ¿quedamos?), остаться о количестве (queda pan, quedan dos días), подходить по размеру или к лицу (te queda bien), находиться (¿Dónde queda el museo?).",
+      "en": "quedarse = stay somewhere. quedar = arrange to meet (¿quedamos?), be left (queda pan), fit or suit (te queda bien), be located.",
+      "es": "quedarse = permanecer; quedar = citarse, restar, sentar bien, estar situado."
+    },
+    "formula": "quedar — договориться о встрече; остаться (о количестве); идти (об одежде) · quedarse — остаться где-то",
+    "table": {
+      "head": [
+        "",
+        "смысл",
+        "пример"
+      ],
+      "rows": [
+        [
+          "quedarse",
+          "остаться где-то",
+          "Me quedo en el hotel."
+        ],
+        [
+          "quedar con",
+          "договориться встретиться",
+          "Quedo con Ana."
+        ],
+        [
+          "quedar",
+          "остаться (о количестве)",
+          "Quedan dos entradas."
+        ],
+        [
+          "quedar bien",
+          "идти, подходить",
+          "Te queda bien."
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Este fin de semana ___ en casa.",
+      "options": [
+        "me quedo",
+        "quedo"
+      ],
+      "answer": "me quedo",
+      "ru": "В эти выходные я остаюсь дома."
+    },
+    {
+      "type": "choose",
+      "es": "¿___ mañana para tomar un café?",
+      "options": [
+        "Quedamos",
+        "Nos quedamos"
+      ],
+      "answer": "Quedamos",
+      "ru": "Встретимся завтра выпить кофе?"
+    },
+    {
+      "type": "choose",
+      "es": "Solo ___ cinco minutos para el examen.",
+      "options": [
+        "quedan",
+        "se quedan"
+      ],
+      "answer": "quedan",
+      "ru": "До экзамена осталось всего пять минут."
+    },
+    {
+      "type": "choose",
+      "es": "Ese vestido te ___ muy bien.",
+      "options": [
+        "queda",
+        "quedas"
+      ],
+      "answer": "queda",
+      "ru": "Это платье тебе очень идёт."
+    },
+    {
+      "type": "build",
+      "es": "Nos quedamos una semana en Sevilla.",
+      "ru": "Мы остались на неделю в Севилье.",
+      "extra": [
+        "quedamos con"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Договоритесь с другом о встрече (quedar) и скажите, где вы остаётесь на выходные (quedarse).",
+        "en": "Arrange to meet a friend (quedar) and say where you're staying this weekend (quedarse).",
+        "es": "Queda con un amigo y di dónde te quedas el fin de semana."
+      },
+      "template": "¿Quedamos …? El fin de semana me quedo …",
+      "sample": "¿Quedamos el sábado a las cinco? El fin de semana me quedo en casa."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

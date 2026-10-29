@@ -1,0 +1,137 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-55",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-55",
+  "order": 55,
+  "level": "B1",
+  "title": {
+    "ru": "during, for, while",
+    "en": "during, for or while",
+    "es": "during, for o while"
+  },
+  "see": [
+    "en-grammar-30",
+    "en-grammar-31"
+  ],
+  "pattern": [
+    {
+      "en": "I slept during the film.",
+      "ru": "Я спал во время фильма."
+    },
+    {
+      "en": "I slept for two hours.",
+      "ru": "Я спал два часа."
+    },
+    {
+      "en": "I slept while you were driving.",
+      "ru": "Я спал, пока ты вёл машину."
+    },
+    {
+      "en": "We met during the holidays.",
+      "ru": "Мы познакомились на каникулах."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "during — «во время» + существительное-событие: during the meeting, during the summer. for — «в течение» + длительность: for two hours, for a week. while — «пока, в то время как» + целое предложение с глаголом: while I was cooking. Ошибка: during two hours → правильно for two hours.",
+      "en": "during + an event (during the meeting). for + a length of time (for two hours). while + a clause (while I was cooking).",
+      "es": "during + evento; for + duración; while + oración (mientras)."
+    },
+    "formula": "during + событие · for + сколько времени · while + предложение",
+    "table": {
+      "head": [
+        "",
+        "после чего",
+        "пример"
+      ],
+      "rows": [
+        [
+          "during",
+          "событие",
+          "during the flight"
+        ],
+        [
+          "for",
+          "длительность",
+          "for three days"
+        ],
+        [
+          "while",
+          "подлежащее + глагол",
+          "while we were flying"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Please switch off your phone ___ the film.",
+      "options": [
+        "during",
+        "for",
+        "while"
+      ],
+      "answer": "during",
+      "ru": "Пожалуйста, выключите телефон во время фильма."
+    },
+    {
+      "type": "choose",
+      "en": "I lived in Spain ___ five years.",
+      "options": [
+        "for",
+        "during",
+        "while"
+      ],
+      "answer": "for",
+      "ru": "Я пять лет жил в Испании."
+    },
+    {
+      "type": "choose",
+      "en": "Someone called ___ you were out.",
+      "options": [
+        "while",
+        "during",
+        "for"
+      ],
+      "answer": "while",
+      "ru": "Кто-то звонил, пока тебя не было."
+    },
+    {
+      "type": "choose",
+      "en": "It rained ___ the night.",
+      "options": [
+        "during",
+        "while",
+        "for"
+      ],
+      "answer": "during",
+      "ru": "Ночью шёл дождь."
+    },
+    {
+      "type": "build",
+      "en": "I read a book while I was waiting.",
+      "ru": "Я читал книгу, пока ждал.",
+      "extra": [
+        "during"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы делаете во время поездок (during), как долго (for) и пока едете (while).",
+        "en": "Write what you do during trips, for how long and while travelling.",
+        "es": "Escribe qué haces durante los viajes, cuánto tiempo y mientras viajas."
+      },
+      "template": "During … for … while …",
+      "sample": "During the flight I sleep for an hour while my wife reads."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

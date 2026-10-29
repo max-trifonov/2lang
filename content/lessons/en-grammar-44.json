@@ -1,0 +1,156 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-44",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-44",
+  "order": 44,
+  "level": "A1",
+  "title": {
+    "ru": "see, look, watch",
+    "en": "see, look or watch",
+    "es": "see, look o watch"
+  },
+  "see": [
+    "en-grammar-43"
+  ],
+  "pattern": [
+    {
+      "en": "I can see the sea from here.",
+      "ru": "Отсюда видно море."
+    },
+    {
+      "en": "Look at this photo!",
+      "ru": "Посмотри на это фото!"
+    },
+    {
+      "en": "We watched a film last night.",
+      "ru": "Вчера вечером мы смотрели фильм."
+    },
+    {
+      "en": "Watch the kids, please.",
+      "ru": "Присмотри за детьми, пожалуйста."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "see — видишь само, без усилия: I see a car. look — направляешь взгляд, на что-то — look at: look at the screen. watch — смотришь долго на то, что движется и меняется: watch TV, watch a match, watch the kids. Фильм в кино часто see: I saw a great film. Встретиться с человеком — тоже see: See you tomorrow!",
+      "en": "see = notice with your eyes; look at = direct your eyes; watch = look for some time at something that moves (TV, a match). Films at the cinema: see a film. Meet people: see you!",
+      "es": "see = ver; look at = mirar; watch = mirar algo en movimiento (TV, un partido)."
+    },
+    "formula": "see — видеть · look at — посмотреть на · watch — смотреть, следить (что-то движется)",
+    "table": {
+      "head": [
+        "",
+        "see",
+        "look",
+        "watch"
+      ],
+      "rows": [
+        [
+          "смысл",
+          "видеть",
+          "посмотреть на",
+          "смотреть, следить"
+        ],
+        [
+          "пример",
+          "I see the bus.",
+          "Look at the bus!",
+          "Watch the match."
+        ],
+        [
+          "с чем",
+          "всё, что видно",
+          "at + что",
+          "ТВ, спорт, дети"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-46",
+      "formula": "ver / mirar",
+      "examples": [
+        {
+          "es": "Veo el mar. Mira esta foto.",
+          "ru": "Вижу море. Посмотри на это фото."
+        }
+      ],
+      "note": {
+        "ru": "ver = see, mirar = look (at) и часто watch"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Do you want to ___ a film tonight?",
+      "options": [
+        "watch",
+        "look",
+        "see"
+      ],
+      "answer": "watch",
+      "ru": "Хочешь посмотреть фильм вечером?"
+    },
+    {
+      "type": "choose",
+      "en": "___ at that bird!",
+      "options": [
+        "Look",
+        "See",
+        "Watch"
+      ],
+      "answer": "Look",
+      "ru": "Посмотри на ту птицу!"
+    },
+    {
+      "type": "choose",
+      "en": "I can't ___ anything, it's too dark.",
+      "options": [
+        "see",
+        "look",
+        "watch"
+      ],
+      "answer": "see",
+      "ru": "Ничего не вижу, слишком темно."
+    },
+    {
+      "type": "choose",
+      "en": "Can you ___ my bag for a minute?",
+      "options": [
+        "watch",
+        "see",
+        "look"
+      ],
+      "answer": "watch",
+      "ru": "Присмотришь за моей сумкой минутку?"
+    },
+    {
+      "type": "build",
+      "en": "We watched the match at a bar.",
+      "ru": "Мы смотрели матч в баре.",
+      "extra": [
+        "looked"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы видите из окна и что любите смотреть.",
+        "en": "Write what you can see from your window and what you like to watch.",
+        "es": "Escribe qué ves por la ventana y qué te gusta mirar."
+      },
+      "template": "I can see … I like watching …",
+      "sample": "I can see a park. I like watching football."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

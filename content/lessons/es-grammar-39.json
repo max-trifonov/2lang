@@ -1,0 +1,149 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-39",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-39",
+  "order": 39,
+  "level": "A2",
+  "title": {
+    "ru": "llevar или traer",
+    "en": "llevar or traer",
+    "es": "llevar o traer"
+  },
+  "see": [
+    "es-grammar-40",
+    "es-grammar-16"
+  ],
+  "pattern": [
+    {
+      "es": "Trae el pasaporte mañana.",
+      "ru": "Принеси завтра паспорт."
+    },
+    {
+      "es": "Lleva un paraguas, llueve.",
+      "ru": "Возьми зонт, идёт дождь."
+    },
+    {
+      "es": "¿Me traes un vaso de agua?",
+      "ru": "Принесёшь мне стакан воды?"
+    },
+    {
+      "es": "Llevo a los niños al colegio.",
+      "ru": "Я отвожу детей в школу."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Всё решает направление. traer — нести туда, где говорящий: Tráeme el libro («принеси мне»). llevar — нести или везти туда, где говорящего нет: Lleva el libro a la oficina («отнеси»). У llevar есть и другие значения: «носить одежду» (llevo gafas), «провести время» (llevo dos años aquí). traer неправильный: traigo, trajo.",
+      "en": "traer = bring (towards the speaker); llevar = take (away from the speaker). llevar also means wear and spend time (llevo dos años aquí). traer: traigo, trajo.",
+      "es": "traer = hacia el hablante; llevar = hacia otro lugar. llevar también: ropa, tiempo."
+    },
+    "formula": "traer — сюда, к говорящему · llevar — туда, от говорящего",
+    "table": {
+      "head": [
+        "",
+        "traer",
+        "llevar"
+      ],
+      "rows": [
+        [
+          "куда",
+          "сюда, ко мне",
+          "туда, от меня"
+        ],
+        [
+          "пример",
+          "Trae vino a la fiesta.",
+          "Lleva vino a casa de Ana."
+        ],
+        [
+          "пара",
+          "venir",
+          "ir"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-46",
+      "formula": "bring / take",
+      "examples": [
+        {
+          "en": "Bring your passport. Take an umbrella.",
+          "ru": "Принеси паспорт. Возьми зонт."
+        }
+      ],
+      "note": {
+        "ru": "та же пара: bring = traer, take = llevar"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "¿Puedes ___ me la sal, por favor?",
+      "options": [
+        "traer",
+        "llevar"
+      ],
+      "answer": "traer",
+      "ru": "Можешь принести мне соль?"
+    },
+    {
+      "type": "choose",
+      "es": "Mañana ___ el coche al taller.",
+      "options": [
+        "llevo",
+        "traigo"
+      ],
+      "answer": "llevo",
+      "ru": "Завтра отвезу машину в мастерскую."
+    },
+    {
+      "type": "choose",
+      "es": "Ven a la fiesta y ___ a tus amigos.",
+      "options": [
+        "trae",
+        "lleva"
+      ],
+      "answer": "trae",
+      "ru": "Приходи на вечеринку и приводи друзей."
+    },
+    {
+      "type": "choose",
+      "es": "¿Quieres que te ___ al aeropuerto?",
+      "options": [
+        "lleve",
+        "traiga"
+      ],
+      "answer": "lleve",
+      "ru": "Хочешь, отвезу тебя в аэропорт?"
+    },
+    {
+      "type": "build",
+      "es": "Te traigo un café de la cafetería.",
+      "ru": "Я принесу тебе кофе из кафе.",
+      "extra": [
+        "llevo"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что гости должны принести к вам (traer) и что вы возьмёте в поездку (llevar).",
+        "en": "Write what guests should bring and what you will take on a trip.",
+        "es": "Escribe qué deben traer tus invitados y qué llevarás de viaje."
+      },
+      "template": "Traed … Voy a llevar …",
+      "sample": "Traed música. Voy a llevar la cámara."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

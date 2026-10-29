@@ -1,0 +1,128 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-63",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-63",
+  "order": 63,
+  "level": "B1",
+  "title": {
+    "ru": "at the end или in the end",
+    "en": "at the end or in the end",
+    "es": "at the end o in the end"
+  },
+  "see": [
+    "en-grammar-06",
+    "en-grammar-32"
+  ],
+  "pattern": [
+    {
+      "en": "Pay at the end of the month.",
+      "ru": "Заплатите в конце месяца."
+    },
+    {
+      "en": "In the end, we stayed at home.",
+      "ru": "В итоге мы остались дома."
+    },
+    {
+      "en": "The shop is at the end of the street.",
+      "ru": "Магазин в конце улицы."
+    },
+    {
+      "en": "We argued, but in the end we agreed.",
+      "ru": "Мы спорили, но в конце концов договорились."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "at the end of — буквально конец чего-то во времени или пространстве: at the end of the film, at the end of the road. После него обычно of + существительное. in the end — «в итоге, в конце концов», после долгого процесса или раздумий, и обычно без of: In the end, we took a taxi.",
+      "en": "at the end of + noun = the final part of something (at the end of the film). in the end = finally, after a process (In the end we took a taxi).",
+      "es": "at the end of = al final de; in the end = al final, por fin."
+    },
+    "formula": "at the end of + что — в конце чего-то · in the end — в итоге, в конце концов",
+    "table": {
+      "head": [
+        "",
+        "смысл",
+        "пример"
+      ],
+      "rows": [
+        [
+          "at the end of",
+          "конец чего-то",
+          "at the end of the day"
+        ],
+        [
+          "in the end",
+          "в итоге",
+          "In the end, it was fine."
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Turn left ___ the end of the corridor.",
+      "options": [
+        "at",
+        "in"
+      ],
+      "answer": "at",
+      "ru": "В конце коридора поверните налево."
+    },
+    {
+      "type": "choose",
+      "en": "We looked at many flats and ___ the end we bought a house.",
+      "options": [
+        "in",
+        "at"
+      ],
+      "answer": "in",
+      "ru": "Мы посмотрели много квартир, а в итоге купили дом."
+    },
+    {
+      "type": "choose",
+      "en": "I'm paid at the end ___ the month.",
+      "options": [
+        "of",
+        "in"
+      ],
+      "answer": "of",
+      "ru": "Мне платят в конце месяца."
+    },
+    {
+      "type": "choose",
+      "en": "It was difficult, but ___ the end everything was OK.",
+      "options": [
+        "in",
+        "at"
+      ],
+      "answer": "in",
+      "ru": "Было трудно, но в итоге всё было хорошо."
+    },
+    {
+      "type": "build",
+      "en": "The answers are at the end of the book.",
+      "ru": "Ответы в конце книги.",
+      "extra": [
+        "in"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Расскажите историю, которая закончилась неожиданно: что было at the end и что в итоге (in the end).",
+        "en": "Tell a story with an unexpected ending: what happened at the end and in the end.",
+        "es": "Cuenta una historia con final inesperado: at the end / in the end."
+      },
+      "template": "At the end of … In the end …",
+      "sample": "At the end of the trip we lost our bags. In the end, an airline sent them home."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

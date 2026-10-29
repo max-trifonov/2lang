@@ -1,0 +1,132 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-69",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-69",
+  "order": 69,
+  "level": "B1",
+  "title": {
+    "ru": "affect или effect",
+    "en": "affect or effect",
+    "es": "affect o effect"
+  },
+  "see": [
+    "en-grammar-35"
+  ],
+  "pattern": [
+    {
+      "en": "The weather affects my mood.",
+      "ru": "Погода влияет на моё настроение."
+    },
+    {
+      "en": "The weather has an effect on my mood.",
+      "ru": "Погода оказывает влияние на моё настроение."
+    },
+    {
+      "en": "Stress can affect your sleep.",
+      "ru": "Стресс может влиять на сон."
+    },
+    {
+      "en": "The new rules had no effect.",
+      "ru": "Новые правила не дали результата."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "affect — глагол, «влиять на» (без предлога on!): It affects me. effect — существительное, «эффект, результат»: have an effect on, side effects, special effects. Подсказка: Affect — Action (глагол), Effect — End result (существительное). Произносятся почти одинаково, поэтому путают даже носители.",
+      "en": "affect is a verb (it affects me — no on). effect is a noun (have an effect on, side effects). Affect = Action, Effect = End result.",
+      "es": "affect = afectar (verbo); effect = efecto (sustantivo): have an effect on."
+    },
+    "formula": "affect — глагол «влиять на» · effect — существительное «эффект, влияние, результат»",
+    "table": {
+      "head": [
+        "",
+        "часть речи",
+        "пример"
+      ],
+      "rows": [
+        [
+          "affect",
+          "глагол",
+          "Noise affects my work."
+        ],
+        [
+          "effect",
+          "существительное",
+          "Noise has an effect on my work."
+        ],
+        [
+          "устойчивые",
+          "—",
+          "side effects, special effects"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Lack of sleep can ___ your memory.",
+      "options": [
+        "affect",
+        "effect"
+      ],
+      "answer": "affect",
+      "ru": "Недосып может влиять на память."
+    },
+    {
+      "type": "choose",
+      "en": "This medicine has no side ___.",
+      "options": [
+        "effects",
+        "affects"
+      ],
+      "answer": "effects",
+      "ru": "У этого лекарства нет побочных эффектов."
+    },
+    {
+      "type": "choose",
+      "en": "The strike ___ thousands of passengers.",
+      "options": [
+        "affected",
+        "effected"
+      ],
+      "answer": "affected",
+      "ru": "Забастовка затронула тысячи пассажиров."
+    },
+    {
+      "type": "choose",
+      "en": "Music has a strong ___ on me.",
+      "options": [
+        "effect",
+        "affect"
+      ],
+      "answer": "effect",
+      "ru": "Музыка сильно на меня действует."
+    },
+    {
+      "type": "build",
+      "en": "The rain affected our plans.",
+      "ru": "Дождь повлиял на наши планы.",
+      "extra": [
+        "effected"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что влияет на ваше настроение (affect) и какой эффект даёт спорт (effect).",
+        "en": "Write what affects your mood and what effect sport has on you.",
+        "es": "Escribe qué afecta a tu ánimo y qué efecto tiene el deporte en ti."
+      },
+      "template": "… affects my mood. Sport has … effect on me.",
+      "sample": "The weather affects my mood. Sport has a great effect on me."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

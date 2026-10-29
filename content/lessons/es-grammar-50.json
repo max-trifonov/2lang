@@ -1,0 +1,164 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-50",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-50",
+  "order": 50,
+  "level": "A2",
+  "title": {
+    "ru": "he comido или comí",
+    "en": "he comido or comí",
+    "es": "he comido o comí"
+  },
+  "see": [
+    "es-grammar-27",
+    "es-grammar-30",
+    "es-grammar-25"
+  ],
+  "pattern": [
+    {
+      "es": "Hoy he comido paella.",
+      "ru": "Сегодня я ел паэлью."
+    },
+    {
+      "es": "Ayer comí paella.",
+      "ru": "Вчера я ел паэлью."
+    },
+    {
+      "es": "¿Has estado en Roma?",
+      "ru": "Ты бывал в Риме?"
+    },
+    {
+      "es": "Estuve en Roma en 2019.",
+      "ru": "Я был в Риме в 2019 году."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Оба переводятся прошедшим временем, разница — в отрезке времени. Pretérito perfecto (he comido) — когда отрезок ещё не закончился или время не важно: hoy, esta semana, este año, ya, todavía no, nunca, alguna vez. Indefinido (comí) — законченный момент в прошлом: ayer, anoche, el lunes, en 2019, hace dos años. В Латинской Америке и на Канарах indefinido часто и там, где в Испании perfecto.",
+      "en": "Pretérito perfecto (he comido) for unfinished time or experience (hoy, este año, ya, nunca). Indefinido (comí) for finished time (ayer, en 2019, hace dos años). Latin America often uses comí for both.",
+      "es": "perfecto: hoy, esta semana, ya, nunca; indefinido: ayer, el año pasado, en 2019."
+    },
+    "formula": "he comido — время ещё идёт (hoy, este año, ya, nunca) · comí — время закончилось (ayer, en 2019, el lunes)",
+    "table": {
+      "head": [
+        "",
+        "маркеры",
+        "пример"
+      ],
+      "rows": [
+        [
+          "he comido",
+          "hoy, este año, ya, nunca",
+          "Este año he viajado mucho."
+        ],
+        [
+          "comí",
+          "ayer, el lunes, en 2019, hace…",
+          "El año pasado viajé mucho."
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "from": "past",
+        "until": "now",
+        "label": {
+          "ru": "he comido: отрезок до сейчас",
+          "en": "he comido: up to now",
+          "es": "hasta ahora"
+        }
+      },
+      {
+        "from": "past",
+        "label": {
+          "ru": "comí: закончилось",
+          "en": "comí: finished",
+          "es": "terminado"
+        }
+      }
+    ]
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-30",
+      "formula": "Present Perfect / Past Simple",
+      "examples": [
+        {
+          "en": "I've eaten today. I ate yesterday.",
+          "ru": "Я поел сегодня. Я ел вчера."
+        }
+      ],
+      "note": {
+        "ru": "граница почти та же, что в английском: today — Present Perfect, yesterday — Past Simple"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Esta mañana ___ un correo importante.",
+      "options": [
+        "he recibido",
+        "recibí"
+      ],
+      "answer": "he recibido",
+      "ru": "Сегодня утром я получил важное письмо."
+    },
+    {
+      "type": "choose",
+      "es": "El verano pasado ___ a Italia.",
+      "options": [
+        "fuimos",
+        "hemos ido"
+      ],
+      "answer": "fuimos",
+      "ru": "Прошлым летом мы ездили в Италию."
+    },
+    {
+      "type": "choose",
+      "es": "¿Alguna vez ___ sushi?",
+      "options": [
+        "has comido",
+        "comiste"
+      ],
+      "answer": "has comido",
+      "ru": "Ты когда-нибудь ел суши?"
+    },
+    {
+      "type": "choose",
+      "es": "Hace dos años ___ de trabajo.",
+      "options": [
+        "cambié",
+        "he cambiado"
+      ],
+      "answer": "cambié",
+      "ru": "Два года назад я сменил работу."
+    },
+    {
+      "type": "build",
+      "es": "Esta semana he trabajado mucho.",
+      "ru": "На этой неделе я много работал.",
+      "extra": [
+        "trabajé"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы сделали сегодня (he…) и что делали вчера (…é / …í).",
+        "en": "Write what you did today and what you did yesterday.",
+        "es": "Escribe qué has hecho hoy y qué hiciste ayer."
+      },
+      "template": "Hoy he … Ayer …",
+      "sample": "Hoy he estudiado español. Ayer vi una película."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

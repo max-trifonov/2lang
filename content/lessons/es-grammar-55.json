@@ -1,0 +1,138 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-55",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-55",
+  "order": 55,
+  "level": "A2",
+  "title": {
+    "ru": "me gusta, me encanta, quiero, te quiero",
+    "en": "me gusta, me encanta, quiero, te quiero",
+    "es": "me gusta, me encanta, quiero, te quiero"
+  },
+  "see": [
+    "es-grammar-22",
+    "es-grammar-19"
+  ],
+  "pattern": [
+    {
+      "es": "Me gusta el chocolate.",
+      "ru": "Мне нравится шоколад."
+    },
+    {
+      "es": "Me encanta el chocolate.",
+      "ru": "Я обожаю шоколад."
+    },
+    {
+      "es": "Quiero chocolate.",
+      "ru": "Я хочу шоколада."
+    },
+    {
+      "es": "Te quiero.",
+      "ru": "Я тебя люблю."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "gustar и encantar устроены «наоборот»: me gusta el café — «мне нравится кофе» (нравится кофе, а не я). Про людей me gustas — «ты мне нравишься» (симпатия). querer + вещь или глагол — «хотеть»: quiero un café, quiero dormir. querer a + человек — «любить» (семью, друзей, любимого): Quiero a mis padres, Te quiero. Для страстной любви — te amo, это сильнее и торжественнее.",
+      "en": "gustar = like (me gusta el café), encantar = love things (me encanta). querer + thing = want; querer a + person = love (te quiero). te amo is stronger, more solemn.",
+      "es": "gustar = agradar; encantar = gustar mucho; querer algo = desear; querer a alguien = amar."
+    },
+    "formula": "me gusta — нравится · me encanta — обожаю · quiero + что — хочу · quiero a + кого — люблю",
+    "table": {
+      "head": [
+        "",
+        "смысл",
+        "пример"
+      ],
+      "rows": [
+        [
+          "me gusta(n)",
+          "нравится",
+          "Me gustan los gatos."
+        ],
+        [
+          "me encanta(n)",
+          "обожаю",
+          "Me encanta bailar."
+        ],
+        [
+          "quiero + вещь",
+          "хочу",
+          "Quiero un helado."
+        ],
+        [
+          "quiero a + человек",
+          "люблю",
+          "Quiero a mi hermana."
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "___ mucho a mis abuelos.",
+      "options": [
+        "Quiero",
+        "Me gustan"
+      ],
+      "answer": "Quiero",
+      "ru": "Я очень люблю своих бабушку с дедушкой."
+    },
+    {
+      "type": "choose",
+      "es": "¿Te ___ las películas de terror?",
+      "options": [
+        "gustan",
+        "quieres"
+      ],
+      "answer": "gustan",
+      "ru": "Тебе нравятся фильмы ужасов?"
+    },
+    {
+      "type": "choose",
+      "es": "___ un vaso de agua, por favor.",
+      "options": [
+        "Quiero",
+        "Me gusta"
+      ],
+      "answer": "Quiero",
+      "ru": "Я хочу стакан воды, пожалуйста."
+    },
+    {
+      "type": "choose",
+      "es": "Me ___ el mar, voy cada verano.",
+      "options": [
+        "encanta",
+        "quiero"
+      ],
+      "answer": "encanta",
+      "ru": "Обожаю море, езжу каждое лето."
+    },
+    {
+      "type": "build",
+      "es": "Te quiero mucho, mamá.",
+      "ru": "Я тебя очень люблю, мама.",
+      "extra": [
+        "gustas"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вам нравится, что вы обожаете, чего хотите и кого любите.",
+        "en": "Write what you like, love, want and who you love.",
+        "es": "Escribe qué te gusta, qué te encanta, qué quieres y a quién quieres."
+      },
+      "template": "Me gusta … Me encanta … Quiero … Quiero a …",
+      "sample": "Me gusta leer. Me encanta el mar. Quiero un perro. Quiero a mi familia."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

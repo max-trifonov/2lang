@@ -1,0 +1,128 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-42",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-42",
+  "order": 42,
+  "level": "A2",
+  "title": {
+    "ru": "speak или talk",
+    "en": "speak or talk",
+    "es": "speak o talk"
+  },
+  "see": [
+    "en-grammar-41"
+  ],
+  "pattern": [
+    {
+      "en": "Do you speak Spanish?",
+      "ru": "Ты говоришь по-испански?"
+    },
+    {
+      "en": "We talked for hours.",
+      "ru": "Мы проговорили несколько часов."
+    },
+    {
+      "en": "Can I speak to the manager?",
+      "ru": "Могу я поговорить с менеджером?"
+    },
+    {
+      "en": "Let's talk about it tomorrow.",
+      "ru": "Давай обсудим это завтра."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "speak — про языки (speak English), официальную речь и вежливые просьбы (May I speak to…?, speak at a conference). talk — про обычную беседу, разговор между людьми: talk to a friend, talk about the weekend. Языки — только speak: не talk English. В разговоре оба часто взаимозаменяемы: speak / talk to someone.",
+      "en": "speak: languages, formal speech, polite requests (May I speak to…?). talk: conversation between people (talk to a friend, talk about…). Languages always take speak.",
+      "es": "speak: idiomas, formal; talk: conversación. Idiomas — siempre speak."
+    },
+    "formula": "speak — языки, официально, один говорит · talk — беседа, разговор двоих",
+    "table": {
+      "head": [
+        "speak",
+        "talk"
+      ],
+      "rows": [
+        [
+          "English, two languages",
+          "to a friend, with your boss"
+        ],
+        [
+          "at a conference, in public",
+          "about the weather, about plans"
+        ],
+        [
+          "May I speak to Mr Lee?",
+          "We need to talk."
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "How many languages do you ___?",
+      "options": [
+        "speak",
+        "talk"
+      ],
+      "answer": "speak",
+      "ru": "Сколько языков ты знаешь?"
+    },
+    {
+      "type": "choose",
+      "en": "We need to ___ about the budget.",
+      "options": [
+        "talk",
+        "speak"
+      ],
+      "answer": "talk",
+      "ru": "Нам надо поговорить о бюджете."
+    },
+    {
+      "type": "choose",
+      "en": "She ___ at the conference last year.",
+      "options": [
+        "spoke",
+        "talked"
+      ],
+      "answer": "spoke",
+      "ru": "Она выступала на конференции в прошлом году."
+    },
+    {
+      "type": "choose",
+      "en": "Stop ___ and listen!",
+      "options": [
+        "talking",
+        "speaking"
+      ],
+      "answer": "talking",
+      "ru": "Хватит болтать, слушайте!"
+    },
+    {
+      "type": "build",
+      "en": "Can I speak to the manager, please?",
+      "ru": "Могу я поговорить с менеджером?",
+      "extra": [
+        "talk"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, какие языки вы знаете (speak) и о чём любите говорить с друзьями (talk).",
+        "en": "Write which languages you speak and what you like to talk about with friends.",
+        "es": "Escribe qué idiomas hablas (speak) y de qué hablas con amigos (talk)."
+      },
+      "template": "I speak … I like to talk about …",
+      "sample": "I speak Russian and English. I like to talk about films."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

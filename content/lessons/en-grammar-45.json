@@ -1,0 +1,133 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-45",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-45",
+  "order": 45,
+  "level": "A2",
+  "title": {
+    "ru": "borrow или lend",
+    "en": "borrow or lend",
+    "es": "borrow o lend"
+  },
+  "see": [
+    "en-grammar-46",
+    "en-grammar-15"
+  ],
+  "pattern": [
+    {
+      "en": "Can I borrow your pen?",
+      "ru": "Можно взять твою ручку?"
+    },
+    {
+      "en": "Can you lend me your pen?",
+      "ru": "Можешь одолжить мне ручку?"
+    },
+    {
+      "en": "I borrowed money from my brother.",
+      "ru": "Я занял деньги у брата."
+    },
+    {
+      "en": "He lent me his car.",
+      "ru": "Он одолжил мне свою машину."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Направление действия: borrow — я беру у кого-то (borrow from), lend — я даю кому-то (lend to / lend me). По-русски оба «одолжить», поэтому их путают. Can I borrow…? — «можно я возьму»; Can you lend me…? — «дай мне». Формы: lend — lent — lent.",
+      "en": "borrow = take for a while (from someone); lend = give for a while (to someone). Can I borrow…? / Can you lend me…? lend — lent — lent.",
+      "es": "borrow = pedir prestado (tomar); lend = prestar (dar). lend — lent — lent."
+    },
+    "formula": "borrow (from) — брать на время · lend (to) — давать на время",
+    "table": {
+      "head": [
+        "",
+        "borrow",
+        "lend"
+      ],
+      "rows": [
+        [
+          "кто действует",
+          "я беру",
+          "я даю"
+        ],
+        [
+          "предлог",
+          "from someone",
+          "to someone / someone"
+        ],
+        [
+          "вопрос",
+          "Can I borrow your car?",
+          "Can you lend me your car?"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Can I ___ your charger?",
+      "options": [
+        "borrow",
+        "lend"
+      ],
+      "answer": "borrow",
+      "ru": "Можно взять твою зарядку?"
+    },
+    {
+      "type": "choose",
+      "en": "Could you ___ me ten euros?",
+      "options": [
+        "lend",
+        "borrow"
+      ],
+      "answer": "lend",
+      "ru": "Можешь одолжить мне десять евро?"
+    },
+    {
+      "type": "choose",
+      "en": "I borrowed this book ___ the library.",
+      "options": [
+        "from",
+        "to"
+      ],
+      "answer": "from",
+      "ru": "Я взял эту книгу в библиотеке."
+    },
+    {
+      "type": "choose",
+      "en": "She ___ me her umbrella yesterday.",
+      "options": [
+        "lent",
+        "borrowed"
+      ],
+      "answer": "lent",
+      "ru": "Вчера она дала мне свой зонт."
+    },
+    {
+      "type": "build",
+      "en": "Can you lend me your bike?",
+      "ru": "Можешь одолжить мне велосипед?",
+      "extra": [
+        "borrow"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Попросите у друга вещь двумя способами: borrow и lend.",
+        "en": "Ask a friend for something in two ways: borrow and lend.",
+        "es": "Pide algo a un amigo de dos maneras: borrow y lend."
+      },
+      "template": "Can I borrow …? Can you lend me …?",
+      "sample": "Can I borrow your laptop? Can you lend me your laptop?"
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

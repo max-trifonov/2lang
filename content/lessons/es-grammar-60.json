@@ -1,0 +1,163 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-60",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-60",
+  "order": 60,
+  "level": "B1",
+  "title": {
+    "ru": "Ложные друзья: embarazada, constipado, éxito…",
+    "en": "False friends: embarazada, constipado, éxito…",
+    "es": "Falsos amigos: embarazada, constipado, éxito…"
+  },
+  "see": [
+    "es-grammar-13"
+  ],
+  "pattern": [
+    {
+      "es": "Mi hermana está embarazada.",
+      "ru": "Моя сестра беременна."
+    },
+    {
+      "es": "Estoy constipado.",
+      "ru": "У меня насморк (я простужен)."
+    },
+    {
+      "es": "La obra fue un éxito.",
+      "ru": "Спектакль имел успех."
+    },
+    {
+      "es": "Este camino es largo.",
+      "ru": "Эта дорога длинная."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Ловушки для русских и англоговорящих. embarazada — «беременная», а не «смущённая» (смущённый — avergonzado). constipado — «простуженный», не «страдающий запором». éxito — «успех», а выход — salida. largo — «длинный», а большой — grande. carpeta — «папка», а ковёр — alfombra. exquisito — «изысканный, очень вкусный». librería — «книжный магазин», а библиотека — biblioteca.",
+      "en": "embarazada = pregnant (not embarrassed), constipado = having a cold, éxito = success (exit = salida), largo = long (large = grande), carpeta = folder, librería = bookshop (library = biblioteca).",
+      "es": "Falsos amigos: embarazada, constipado, éxito, largo, carpeta, librería."
+    },
+    "formula": "похоже на русское или английское слово, а значит другое",
+    "table": {
+      "head": [
+        "испанское",
+        "значит",
+        "а похожее «…» — это"
+      ],
+      "rows": [
+        [
+          "embarazada",
+          "беременная",
+          "смущённый — avergonzado"
+        ],
+        [
+          "constipado",
+          "простуженный",
+          "запор — estreñimiento"
+        ],
+        [
+          "éxito",
+          "успех",
+          "выход — salida"
+        ],
+        [
+          "largo",
+          "длинный",
+          "большой — grande"
+        ],
+        [
+          "carpeta",
+          "папка",
+          "ковёр — alfombra"
+        ],
+        [
+          "librería",
+          "книжный магазин",
+          "библиотека — biblioteca"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-68",
+      "formula": "false friends",
+      "examples": [
+        {
+          "en": "Actually, I'm from Kazan. I bought a magazine.",
+          "ru": "Вообще-то я из Казани. Я купил журнал."
+        }
+      ],
+      "note": {
+        "ru": "в английском свои ловушки: actually, magazine, sympathetic"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Compré un libro en la ___ de la esquina.",
+      "options": [
+        "librería",
+        "biblioteca"
+      ],
+      "answer": "librería",
+      "ru": "Я купил книгу в книжном на углу."
+    },
+    {
+      "type": "choose",
+      "es": "¿Dónde está la ___? Quiero irme.",
+      "options": [
+        "salida",
+        "éxito"
+      ],
+      "answer": "salida",
+      "ru": "Где выход? Я хочу уйти."
+    },
+    {
+      "type": "choose",
+      "es": "Me puse rojo, estaba muy ___.",
+      "options": [
+        "avergonzado",
+        "embarazado"
+      ],
+      "answer": "avergonzado",
+      "ru": "Я покраснел, мне было очень стыдно."
+    },
+    {
+      "type": "choose",
+      "es": "Guarda los documentos en esta ___.",
+      "options": [
+        "carpeta",
+        "alfombra"
+      ],
+      "answer": "carpeta",
+      "ru": "Сложи документы в эту папку."
+    },
+    {
+      "type": "build",
+      "es": "El concierto fue un gran éxito.",
+      "ru": "Концерт имел большой успех.",
+      "extra": [
+        "salida"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите две фразы с ложными друзьями: éxito и largo.",
+        "en": "Write two sentences with false friends: éxito and largo.",
+        "es": "Escribe dos frases con éxito y largo."
+      },
+      "template": "… éxito. … largo.",
+      "sample": "Mi proyecto fue un éxito. El viaje fue muy largo."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

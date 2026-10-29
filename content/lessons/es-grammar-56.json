@@ -1,0 +1,136 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-56",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-56",
+  "order": 56,
+  "level": "A1",
+  "title": {
+    "ru": "tiempo, vez, hora",
+    "en": "tiempo, vez or hora",
+    "es": "tiempo, vez u hora"
+  },
+  "see": [
+    "es-grammar-02",
+    "es-grammar-07"
+  ],
+  "pattern": [
+    {
+      "es": "No tengo tiempo.",
+      "ru": "У меня нет времени."
+    },
+    {
+      "es": "¿Qué hora es?",
+      "ru": "Который час?"
+    },
+    {
+      "es": "Voy al gimnasio tres veces a la semana.",
+      "ru": "Я хожу в спортзал три раза в неделю."
+    },
+    {
+      "es": "Hace buen tiempo.",
+      "ru": "Хорошая погода."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "tiempo — время как длительность (no tengo tiempo, mucho tiempo) и погода (¿Qué tiempo hace?). hora — час и время на часах (¿Qué hora es?, a qué hora), а ещё «пора»: Es hora de comer. vez — «раз»: una vez, muchas veces, a veces («иногда»), otra vez («опять»), la primera vez. Мн. ч. vez — veces (z → c).",
+      "en": "tiempo = time in general, also weather. hora = hour, clock time (¿Qué hora es?), es hora de… vez = an occasion: una vez, a veces, otra vez (plural veces).",
+      "es": "tiempo = duración, clima; hora = momento del reloj; vez = ocasión."
+    },
+    "formula": "tiempo — время (вообще); погода · hora — час, время на часах · vez — раз",
+    "table": {
+      "head": [
+        "",
+        "смысл",
+        "пример"
+      ],
+      "rows": [
+        [
+          "tiempo",
+          "время вообще; погода",
+          "No hay tiempo. Hace mal tiempo."
+        ],
+        [
+          "hora",
+          "час, время на часах",
+          "¿A qué hora empieza?"
+        ],
+        [
+          "vez",
+          "раз",
+          "Es la primera vez."
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "¿A qué ___ abre el museo?",
+      "options": [
+        "hora",
+        "tiempo",
+        "vez"
+      ],
+      "answer": "hora",
+      "ru": "Во сколько открывается музей?"
+    },
+    {
+      "type": "choose",
+      "es": "He estado en Madrid dos ___.",
+      "options": [
+        "veces",
+        "horas",
+        "tiempos"
+      ],
+      "answer": "veces",
+      "ru": "Я был в Мадриде два раза."
+    },
+    {
+      "type": "choose",
+      "es": "¿Qué ___ hace hoy?",
+      "options": [
+        "tiempo",
+        "hora"
+      ],
+      "answer": "tiempo",
+      "ru": "Какая сегодня погода?"
+    },
+    {
+      "type": "choose",
+      "es": "Lo siento, no tengo ___ ahora.",
+      "options": [
+        "tiempo",
+        "hora",
+        "vez"
+      ],
+      "answer": "tiempo",
+      "ru": "Извини, у меня сейчас нет времени."
+    },
+    {
+      "type": "build",
+      "es": "A veces como en el trabajo.",
+      "ru": "Иногда я обедаю на работе.",
+      "extra": [
+        "horas"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, сколько раз в неделю вы что-то делаете (vez), во сколько (hora) и хватает ли времени (tiempo).",
+        "en": "Write how many times a week you do something, at what time, and whether you have time.",
+        "es": "Escribe cuántas veces a la semana haces algo, a qué hora y si tienes tiempo."
+      },
+      "template": "… veces a la semana … a las … No tengo tiempo para …",
+      "sample": "Corro tres veces a la semana a las siete. No tengo tiempo para leer."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

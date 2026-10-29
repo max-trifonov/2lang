@@ -1,0 +1,133 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-52",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-52",
+  "order": 52,
+  "level": "A1",
+  "title": {
+    "ru": "porque, por qué, porqué",
+    "en": "porque, por qué or porqué",
+    "es": "porque, por qué o porqué"
+  },
+  "see": [
+    "es-grammar-11",
+    "es-grammar-32"
+  ],
+  "pattern": [
+    {
+      "es": "¿Por qué estudias español?",
+      "ru": "Почему ты учишь испанский?"
+    },
+    {
+      "es": "Porque me gusta viajar.",
+      "ru": "Потому что я люблю путешествовать."
+    },
+    {
+      "es": "No sé por qué no vino.",
+      "ru": "Не знаю, почему он не пришёл."
+    },
+    {
+      "es": "Quiero saber el porqué.",
+      "ru": "Хочу знать причину."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "por qué — два слова со знаком — «почему»: в прямом и косвенном вопросе (¿Por qué? / No sé por qué). porque — одно слово без знака — «потому что», в ответе. el porqué — существительное «причина», с артиклем. На слух por qué и porque различаются ударением: por QUÉ / PORque.",
+      "en": "por qué (two words, accent) = why, also in indirect questions. porque (one word) = because. el porqué = the reason.",
+      "es": "por qué = pregunta; porque = respuesta; el porqué = la causa."
+    },
+    "formula": "por qué — почему (вопрос) · porque — потому что (ответ) · el porqué — причина",
+    "table": {
+      "head": [
+        "",
+        "смысл",
+        "пример"
+      ],
+      "rows": [
+        [
+          "por qué",
+          "почему",
+          "¿Por qué lloras?"
+        ],
+        [
+          "porque",
+          "потому что",
+          "Porque estoy triste."
+        ],
+        [
+          "el porqué",
+          "причина",
+          "No entiendo el porqué."
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "¿___ no me llamaste?",
+      "options": [
+        "Por qué",
+        "Porque"
+      ],
+      "answer": "Por qué",
+      "ru": "Почему ты мне не позвонил?"
+    },
+    {
+      "type": "choose",
+      "es": "No fui ___ estaba enfermo.",
+      "options": [
+        "porque",
+        "por qué"
+      ],
+      "answer": "porque",
+      "ru": "Я не пошёл, потому что болел."
+    },
+    {
+      "type": "choose",
+      "es": "Explícame ___ estás enfadado.",
+      "options": [
+        "por qué",
+        "porque"
+      ],
+      "answer": "por qué",
+      "ru": "Объясни мне, почему ты злишься."
+    },
+    {
+      "type": "choose",
+      "es": "Nadie sabe el ___ de su decisión.",
+      "options": [
+        "porqué",
+        "por qué"
+      ],
+      "answer": "porqué",
+      "ru": "Никто не знает причины его решения."
+    },
+    {
+      "type": "build",
+      "es": "Estudio español porque me encanta la música latina.",
+      "ru": "Я учу испанский, потому что обожаю латинскую музыку.",
+      "extra": [
+        "qué"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Задайте вопрос с por qué и ответьте с porque.",
+        "en": "Ask a question with por qué and answer it with porque.",
+        "es": "Haz una pregunta con por qué y responde con porque."
+      },
+      "template": "¿Por qué …? Porque …",
+      "sample": "¿Por qué te gusta Madrid? Porque hay mucha vida."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

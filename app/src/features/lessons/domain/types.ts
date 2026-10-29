@@ -36,6 +36,7 @@ export const GRAMMAR_SECTIONS = [
   'nouns',
   'adjectives',
   'pronouns',
+  'contrasts',
 ] as const
 export type GrammarSection = (typeof GRAMMAR_SECTIONS)[number]
 

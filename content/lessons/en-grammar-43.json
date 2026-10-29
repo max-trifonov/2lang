@@ -1,0 +1,149 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-43",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-43",
+  "order": 43,
+  "level": "A1",
+  "title": {
+    "ru": "hear или listen",
+    "en": "hear or listen",
+    "es": "hear o listen"
+  },
+  "see": [
+    "en-grammar-44"
+  ],
+  "pattern": [
+    {
+      "en": "I can hear music.",
+      "ru": "Я слышу музыку."
+    },
+    {
+      "en": "I listen to music on the train.",
+      "ru": "Я слушаю музыку в поезде."
+    },
+    {
+      "en": "Listen! Someone is at the door.",
+      "ru": "Послушай! Кто-то у двери."
+    },
+    {
+      "en": "Sorry, I didn't hear you.",
+      "ru": "Извини, я тебя не расслышал."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "hear — звук доходит сам, без усилия: I hear a noise. listen — слушаешь намеренно, с вниманием; перед тем, кого или что слушаешь, — to: listen to music, listen to me. Без дополнения to не нужен: Listen! hear обычно не ставят в -ing и часто говорят с can: I can hear you.",
+      "en": "hear = sound reaches you without effort (I hear a noise). listen = pay attention on purpose; listen to + object (listen to music). hear is usually not used in -ing; say I can hear you.",
+      "es": "hear = oír (sin esfuerzo); listen to = escuchar (con atención)."
+    },
+    "formula": "hear — слышать (само) · listen to — слушать (специально)",
+    "table": {
+      "head": [
+        "",
+        "hear",
+        "listen"
+      ],
+      "rows": [
+        [
+          "смысл",
+          "слышать, само доходит",
+          "слушать, с вниманием"
+        ],
+        [
+          "дополнение",
+          "hear a noise",
+          "listen to music"
+        ],
+        [
+          "сейчас",
+          "I can hear you.",
+          "I'm listening to you."
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-45",
+      "formula": "oír / escuchar",
+      "examples": [
+        {
+          "es": "Oigo un ruido. Escucho música.",
+          "ru": "Слышу шум. Слушаю музыку."
+        }
+      ],
+      "note": {
+        "ru": "та же пара: oír = hear, escuchar = listen"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "I'm ___ to a podcast.",
+      "options": [
+        "listening",
+        "hearing"
+      ],
+      "answer": "listening",
+      "ru": "Я слушаю подкаст."
+    },
+    {
+      "type": "choose",
+      "en": "Did you ___ that noise?",
+      "options": [
+        "hear",
+        "listen"
+      ],
+      "answer": "hear",
+      "ru": "Ты слышал этот шум?"
+    },
+    {
+      "type": "choose",
+      "en": "Please listen ___ me.",
+      "options": [
+        "to",
+        "—",
+        "at"
+      ],
+      "answer": "to",
+      "ru": "Пожалуйста, послушай меня."
+    },
+    {
+      "type": "choose",
+      "en": "Speak louder, I can't ___ you.",
+      "options": [
+        "hear",
+        "listen"
+      ],
+      "answer": "hear",
+      "ru": "Говори громче, я тебя не слышу."
+    },
+    {
+      "type": "build",
+      "en": "I listen to the news every morning.",
+      "ru": "Каждое утро я слушаю новости.",
+      "extra": [
+        "hear"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы слушаете по утрам и что слышите из окна.",
+        "en": "Write what you listen to in the morning and what you hear from your window.",
+        "es": "Escribe qué escuchas por la mañana y qué oyes desde la ventana."
+      },
+      "template": "I listen to … I can hear …",
+      "sample": "I listen to the radio. I can hear birds."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

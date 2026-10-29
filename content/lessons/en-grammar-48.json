@@ -1,0 +1,133 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-48",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-48",
+  "order": 48,
+  "level": "B1",
+  "title": {
+    "ru": "used to или be used to",
+    "en": "used to or be used to",
+    "es": "used to o be used to"
+  },
+  "see": [
+    "en-grammar-19",
+    "en-grammar-36"
+  ],
+  "pattern": [
+    {
+      "en": "I used to smoke.",
+      "ru": "Раньше я курил (теперь нет)."
+    },
+    {
+      "en": "I'm used to working at night.",
+      "ru": "Я привык работать по ночам."
+    },
+    {
+      "en": "She's getting used to the new job.",
+      "ru": "Она привыкает к новой работе."
+    },
+    {
+      "en": "Did you use to play football?",
+      "ru": "Ты раньше играл в футбол?"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "used to + глагол — привычка или состояние в прошлом, которых больше нет: I used to live in Moscow. Вопрос и отрицание — без d: Did you use to…? I didn't use to… be used to + -ing или существительное — «привык, мне это привычно»: I'm used to the cold. get used to — «привыкаю, привыкнуть»: You'll get used to it. Одно be меняет смысл.",
+      "en": "used to + verb = past habit, not now (I used to live there; Did you use to…?). be used to + -ing / noun = accustomed (I'm used to the cold). get used to = become accustomed.",
+      "es": "used to + verbo = antes (ya no); be used to + -ing = estar acostumbrado; get used to = acostumbrarse."
+    },
+    "formula": "used to + глагол — раньше было · be / get used to + -ing — привык / привыкаю",
+    "table": {
+      "head": [
+        "",
+        "значение",
+        "пример"
+      ],
+      "rows": [
+        [
+          "used to + V",
+          "раньше, теперь нет",
+          "I used to smoke."
+        ],
+        [
+          "be used to + -ing",
+          "привык",
+          "I'm used to getting up early."
+        ],
+        [
+          "get used to + -ing",
+          "привыкаю",
+          "I'm getting used to it."
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "I ___ to live in Moscow, but now I live in Madrid.",
+      "options": [
+        "used",
+        "am used"
+      ],
+      "answer": "used",
+      "ru": "Раньше я жил в Москве, а теперь в Мадриде."
+    },
+    {
+      "type": "choose",
+      "en": "I'm used to ___ up early.",
+      "options": [
+        "getting",
+        "get"
+      ],
+      "answer": "getting",
+      "ru": "Я привык рано вставать."
+    },
+    {
+      "type": "choose",
+      "en": "Don't worry, you'll get used ___ it.",
+      "options": [
+        "to",
+        "—"
+      ],
+      "answer": "to",
+      "ru": "Не переживай, привыкнешь."
+    },
+    {
+      "type": "choose",
+      "en": "Did you ___ to have long hair?",
+      "options": [
+        "use",
+        "used"
+      ],
+      "answer": "use",
+      "ru": "У тебя раньше были длинные волосы?"
+    },
+    {
+      "type": "build",
+      "en": "I used to play the guitar at school.",
+      "ru": "В школе я играл на гитаре.",
+      "extra": [
+        "use"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы делали раньше и к чему привыкли сейчас.",
+        "en": "Write what you used to do and what you are used to now.",
+        "es": "Escribe qué hacías antes y a qué estás acostumbrado ahora."
+      },
+      "template": "I used to … Now I'm used to …",
+      "sample": "I used to sleep late. Now I'm used to getting up at seven."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

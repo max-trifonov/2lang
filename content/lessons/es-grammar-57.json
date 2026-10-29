@@ -1,0 +1,152 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-57",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-57",
+  "order": 57,
+  "level": "A2",
+  "title": {
+    "ru": "desde, hace, desde hace",
+    "en": "desde, hace or desde hace",
+    "es": "desde, hace o desde hace"
+  },
+  "see": [
+    "es-grammar-27",
+    "es-grammar-30"
+  ],
+  "pattern": [
+    {
+      "es": "Vivo aquí desde 2020.",
+      "ru": "Я живу здесь с 2020 года."
+    },
+    {
+      "es": "Vivo aquí desde hace cinco años.",
+      "ru": "Я живу здесь уже пять лет."
+    },
+    {
+      "es": "Llegué hace cinco años.",
+      "ru": "Я приехал пять лет назад."
+    },
+    {
+      "es": "Te espero desde las ocho.",
+      "ru": "Я жду тебя с восьми."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "desde + точка отсчёта — «с»: desde enero, desde las ocho, desde niño. desde hace + длительность — «уже столько-то», действие продолжается: trabajo aquí desde hace un año (в английском — for). hace + длительность — «тому назад», действие закончилось, обычно с indefinido: hace un año empecé. Сравните: estudio desde hace un mes (и учу сейчас) / empecé hace un mes.",
+      "en": "desde + point in time = since. desde hace + period = for (still true now). hace + period = ago (finished, usually with the preterite).",
+      "es": "desde + momento; desde hace + duración (sigue); hace + duración (terminó)."
+    },
+    "formula": "desde + момент — с · desde hace + срок — уже (столько-то) · hace + срок — тому назад",
+    "table": {
+      "head": [
+        "",
+        "после чего",
+        "пример"
+      ],
+      "rows": [
+        [
+          "desde",
+          "момент",
+          "desde el lunes"
+        ],
+        [
+          "desde hace",
+          "срок, ещё длится",
+          "desde hace tres días"
+        ],
+        [
+          "hace",
+          "срок, тому назад",
+          "hace tres días"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-30",
+      "formula": "since / for / ago",
+      "examples": [
+        {
+          "en": "I've lived here since 2020 / for five years. I came five years ago.",
+          "ru": "Живу здесь с 2020 года / пять лет. Приехал пять лет назад."
+        }
+      ],
+      "note": {
+        "ru": "desde = since, desde hace = for, hace = ago"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Estudio español ___ septiembre.",
+      "options": [
+        "desde",
+        "hace",
+        "desde hace"
+      ],
+      "answer": "desde",
+      "ru": "Я учу испанский с сентября."
+    },
+    {
+      "type": "choose",
+      "es": "Nos conocimos ___ diez años.",
+      "options": [
+        "hace",
+        "desde",
+        "desde hace"
+      ],
+      "answer": "hace",
+      "ru": "Мы познакомились десять лет назад."
+    },
+    {
+      "type": "choose",
+      "es": "Trabajo en esta empresa ___ tres años.",
+      "options": [
+        "desde hace",
+        "hace",
+        "desde"
+      ],
+      "answer": "desde hace",
+      "ru": "Я работаю в этой компании уже три года."
+    },
+    {
+      "type": "choose",
+      "es": "No como carne ___ niño.",
+      "options": [
+        "desde",
+        "hace"
+      ],
+      "answer": "desde",
+      "ru": "Я не ем мясо с детства."
+    },
+    {
+      "type": "build",
+      "es": "Te espero desde hace media hora.",
+      "ru": "Я жду тебя уже полчаса.",
+      "extra": [
+        "hace desde"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, с каких пор и как давно вы что-то делаете, и когда это началось.",
+        "en": "Write since when and for how long you've been doing something, and when it started.",
+        "es": "Escribe desde cuándo y desde hace cuánto haces algo, y cuándo empezó."
+      },
+      "template": "… desde … / desde hace … Empecé hace …",
+      "sample": "Hago yoga desde hace dos años. Empecé hace dos años en Madrid."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

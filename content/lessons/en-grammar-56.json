@@ -1,0 +1,132 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-56",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-56",
+  "order": 56,
+  "level": "B1",
+  "title": {
+    "ru": "until или by: «до»",
+    "en": "until or by",
+    "es": "until o by"
+  },
+  "see": [
+    "en-grammar-06"
+  ],
+  "pattern": [
+    {
+      "en": "I'll wait until six.",
+      "ru": "Я подожду до шести."
+    },
+    {
+      "en": "Send it by six.",
+      "ru": "Отправь до шести (не позже)."
+    },
+    {
+      "en": "The shop is open until 10 pm.",
+      "ru": "Магазин открыт до десяти вечера."
+    },
+    {
+      "en": "I need the report by Friday.",
+      "ru": "Отчёт нужен мне к пятнице."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "until (till) — действие продолжается вплоть до момента: work until five, wait until Monday. by — «к, не позже»: дело должно быть сделано к сроку, а когда именно — неважно: finish by five, pay by Monday. Проверка: можно ли сказать «к пятнице»? Тогда by.",
+      "en": "until = an action continues up to a time (wait until five). by = no later than, a deadline (finish by five).",
+      "es": "until = hasta (continúa); by = para, antes de (plazo)."
+    },
+    "formula": "until — действие длится до момента · by — сделать не позже момента (дедлайн)",
+    "table": {
+      "head": [
+        "",
+        "until",
+        "by"
+      ],
+      "rows": [
+        [
+          "смысл",
+          "длится до момента",
+          "не позже момента"
+        ],
+        [
+          "пример",
+          "I'm here until 6.",
+          "Be here by 6."
+        ],
+        [
+          "русский",
+          "до",
+          "к, до (крайний срок)"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Please reply ___ Monday.",
+      "options": [
+        "by",
+        "until"
+      ],
+      "answer": "by",
+      "ru": "Пожалуйста, ответьте до понедельника."
+    },
+    {
+      "type": "choose",
+      "en": "We stayed at the party ___ midnight.",
+      "options": [
+        "until",
+        "by"
+      ],
+      "answer": "until",
+      "ru": "Мы остались на вечеринке до полуночи."
+    },
+    {
+      "type": "choose",
+      "en": "The tickets must be paid ___ the end of the week.",
+      "options": [
+        "by",
+        "until"
+      ],
+      "answer": "by",
+      "ru": "Билеты нужно оплатить до конца недели."
+    },
+    {
+      "type": "choose",
+      "en": "Let's wait ___ the rain stops.",
+      "options": [
+        "until",
+        "by"
+      ],
+      "answer": "until",
+      "ru": "Давай подождём, пока не кончится дождь."
+    },
+    {
+      "type": "build",
+      "en": "I need your answer by tomorrow.",
+      "ru": "Мне нужен твой ответ к завтрашнему дню.",
+      "extra": [
+        "until"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, до скольки вы работаете (until) и к какому сроку нужно что-то сделать (by).",
+        "en": "Write until when you work and by when you must finish something.",
+        "es": "Escribe hasta qué hora trabajas (until) y para cuándo debes terminar algo (by)."
+      },
+      "template": "I work until … I have to … by …",
+      "sample": "I work until six. I have to finish the project by Friday."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

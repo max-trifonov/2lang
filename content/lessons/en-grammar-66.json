@@ -1,0 +1,132 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-66",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-66",
+  "order": 66,
+  "level": "A2",
+  "title": {
+    "ru": "win или earn",
+    "en": "win or earn",
+    "es": "win o earn"
+  },
+  "see": [
+    "en-grammar-19"
+  ],
+  "pattern": [
+    {
+      "en": "We won the match!",
+      "ru": "Мы выиграли матч!"
+    },
+    {
+      "en": "She earns a good salary.",
+      "ru": "Она хорошо зарабатывает."
+    },
+    {
+      "en": "He won a car in the lottery.",
+      "ru": "Он выиграл машину в лотерею."
+    },
+    {
+      "en": "How much do you earn?",
+      "ru": "Сколько ты зарабатываешь?"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "По-русски «получил деньги» можно и выиграть, и заработать, а в английском это разные глаголы. win — выиграть в игре, споре, лотерее, конкурсе: win a game, win a prize. earn — заработать работой или заслужить: earn money, earn a living, earn respect. Победить соперника — beat: We beat them 3:1. Формы: win — won — won.",
+      "en": "win = in a game, a competition, a lottery (win a prize). earn = get through work or deserve (earn money, earn respect). Beat a rival. win — won — won.",
+      "es": "win = ganar (un premio, un partido); earn = ganar dinero trabajando, merecer."
+    },
+    "formula": "win — выиграть, победить · earn — заработать трудом",
+    "table": {
+      "head": [
+        "",
+        "win",
+        "earn"
+      ],
+      "rows": [
+        [
+          "как",
+          "в игре, лотерее, конкурсе",
+          "работой, заслугами"
+        ],
+        [
+          "пример",
+          "win a match, win a prize",
+          "earn money, earn respect"
+        ],
+        [
+          "формы",
+          "won — won",
+          "earned — earned"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "How much does a nurse ___ in Spain?",
+      "options": [
+        "earn",
+        "win"
+      ],
+      "answer": "earn",
+      "ru": "Сколько зарабатывает медсестра в Испании?"
+    },
+    {
+      "type": "choose",
+      "en": "Our team ___ the cup last year.",
+      "options": [
+        "won",
+        "earned"
+      ],
+      "answer": "won",
+      "ru": "Наша команда выиграла кубок в прошлом году."
+    },
+    {
+      "type": "choose",
+      "en": "He worked hard and ___ everyone's respect.",
+      "options": [
+        "earned",
+        "won"
+      ],
+      "answer": "earned",
+      "ru": "Он много работал и заслужил уважение всех."
+    },
+    {
+      "type": "choose",
+      "en": "I never ___ at cards.",
+      "options": [
+        "win",
+        "earn"
+      ],
+      "answer": "win",
+      "ru": "Я никогда не выигрываю в карты."
+    },
+    {
+      "type": "build",
+      "en": "She earns her living as a translator.",
+      "ru": "Она зарабатывает на жизнь переводами.",
+      "extra": [
+        "wins"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы когда-то выиграли (won) и как зарабатываете (earn).",
+        "en": "Write something you once won and how you earn money.",
+        "es": "Escribe algo que ganaste (won) y cómo ganas dinero (earn)."
+      },
+      "template": "I once won … I earn money by …",
+      "sample": "I once won a chess tournament. I earn money by writing code."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

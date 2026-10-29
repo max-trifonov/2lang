@@ -1,0 +1,150 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-40",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-40",
+  "order": 40,
+  "level": "A1",
+  "title": {
+    "ru": "ir или venir",
+    "en": "ir or venir",
+    "es": "ir o venir"
+  },
+  "see": [
+    "es-grammar-39",
+    "es-grammar-18",
+    "es-grammar-21"
+  ],
+  "pattern": [
+    {
+      "es": "Ven aquí.",
+      "ru": "Иди сюда."
+    },
+    {
+      "es": "Voy a casa.",
+      "ru": "Я иду домой."
+    },
+    {
+      "es": "¿Vienes a la fiesta?",
+      "ru": "Ты придёшь на вечеринку?"
+    },
+    {
+      "es": "¡Ya voy!",
+      "ru": "Иду!"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "venir — движение к месту, где находится говорящий: Ven a mi casa, ¿Vienes conmigo? ir — движение в любое другое место: Voy al trabajo. Внимание: на зов «Иди сюда!» испанец отвечает ¡Ya voy! (ir — к тебе, а не к себе), тогда как англичанин — I'm coming. Формы: voy, vas, va; vengo, vienes, viene.",
+      "en": "venir = come (to where the speaker is); ir = go elsewhere. When someone calls you, answer ¡Ya voy! (English: I'm coming).",
+      "es": "venir = hacia donde está el hablante; ir = a otro lugar. Respuesta a una llamada: ¡Ya voy!"
+    },
+    "formula": "venir — сюда, к говорящему · ir — туда, в другое место",
+    "table": {
+      "head": [
+        "",
+        "venir",
+        "ir"
+      ],
+      "rows": [
+        [
+          "куда",
+          "к говорящему",
+          "в другое место"
+        ],
+        [
+          "пример",
+          "Ven a mi casa.",
+          "Vamos al cine."
+        ],
+        [
+          "ответ на зов",
+          "—",
+          "¡Ya voy!"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-47",
+      "formula": "come / go",
+      "examples": [
+        {
+          "en": "Come here! I'm coming!",
+          "ru": "Иди сюда! Иду!"
+        }
+      ],
+      "note": {
+        "ru": "в английском на зов отвечают I'm coming, в испанском — ¡Ya voy!"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "¡La cena está lista! — ¡Ya ___!",
+      "options": [
+        "voy",
+        "vengo"
+      ],
+      "answer": "voy",
+      "ru": "Ужин готов! — Иду!"
+    },
+    {
+      "type": "choose",
+      "es": "¿___ a mi cumpleaños el sábado?",
+      "options": [
+        "Vienes",
+        "Vas"
+      ],
+      "answer": "Vienes",
+      "ru": "Придёшь ко мне на день рождения в субботу?"
+    },
+    {
+      "type": "choose",
+      "es": "Todos los días ___ al trabajo en metro.",
+      "options": [
+        "voy",
+        "vengo"
+      ],
+      "answer": "voy",
+      "ru": "Каждый день я езжу на работу на метро."
+    },
+    {
+      "type": "choose",
+      "es": "___ aquí un momento, por favor.",
+      "options": [
+        "Ven",
+        "Ve"
+      ],
+      "answer": "Ven",
+      "ru": "Подойди сюда на минутку, пожалуйста."
+    },
+    {
+      "type": "build",
+      "es": "Mis padres vienen a cenar esta noche.",
+      "ru": "Мои родители придут сегодня на ужин.",
+      "extra": [
+        "van"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Пригласите друга к себе (venir) и скажите, куда вы пойдёте потом (ir).",
+        "en": "Invite a friend (venir) and say where you'll go after (ir).",
+        "es": "Invita a un amigo (venir) y di adónde iréis (ir)."
+      },
+      "template": "¿Vienes a …? Luego vamos a …",
+      "sample": "¿Vienes a mi casa a las siete? Luego vamos al cine."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

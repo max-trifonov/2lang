@@ -1,0 +1,133 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-60",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-60",
+  "order": 60,
+  "level": "B1",
+  "title": {
+    "ru": "so или such",
+    "en": "so or such",
+    "es": "so o such"
+  },
+  "see": [
+    "en-grammar-27",
+    "en-grammar-11"
+  ],
+  "pattern": [
+    {
+      "en": "The film was so good!",
+      "ru": "Фильм был таким хорошим!"
+    },
+    {
+      "en": "It was such a good film!",
+      "ru": "Это был такой хороший фильм!"
+    },
+    {
+      "en": "She speaks so fast.",
+      "ru": "Она так быстро говорит."
+    },
+    {
+      "en": "They are such nice people.",
+      "ru": "Они такие милые люди."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Оба значат «такой, так», но стоят перед разными словами. so — перед прилагательным или наречием без существительного: so cold, so fast. such — перед существительным (с прилагательным или без): such a nice day, such good weather, such people. С ед. ч. исчисляемым — such a / an: such a mistake. Продолжение «что…»: so tired that…, such a long day that…",
+      "en": "so + adjective / adverb (so cold). such + (adjective +) noun (such a nice day, such good weather); a / an with singular countables.",
+      "es": "so + adjetivo / adverbio; such (a) + sustantivo: tan / tal."
+    },
+    "formula": "so + прилагательное / наречие · such (a / an) + прилагательное + существительное",
+    "table": {
+      "head": [
+        "",
+        "после чего",
+        "пример"
+      ],
+      "rows": [
+        [
+          "so",
+          "прилагательное, наречие",
+          "so beautiful, so quickly"
+        ],
+        [
+          "such a / an",
+          "ед. ч. исчисляемое",
+          "such a beautiful city"
+        ],
+        [
+          "such",
+          "мн. ч., неисчисляемое",
+          "such beautiful cities, such good news"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "It was ___ a long day.",
+      "options": [
+        "such",
+        "so"
+      ],
+      "answer": "such",
+      "ru": "Это был такой длинный день."
+    },
+    {
+      "type": "choose",
+      "en": "I'm ___ tired, I'll go to bed.",
+      "options": [
+        "so",
+        "such"
+      ],
+      "answer": "so",
+      "ru": "Я так устал, пойду спать."
+    },
+    {
+      "type": "choose",
+      "en": "They have ___ a beautiful garden!",
+      "options": [
+        "such",
+        "so"
+      ],
+      "answer": "such",
+      "ru": "У них такой красивый сад!"
+    },
+    {
+      "type": "choose",
+      "en": "The coffee was ___ hot that I couldn't drink it.",
+      "options": [
+        "so",
+        "such"
+      ],
+      "answer": "so",
+      "ru": "Кофе был таким горячим, что я не смог его пить."
+    },
+    {
+      "type": "build",
+      "en": "It was such a beautiful evening.",
+      "ru": "Это был такой прекрасный вечер.",
+      "extra": [
+        "so"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Опишите прошлые выходные с so и с such.",
+        "en": "Describe your last weekend with so and such.",
+        "es": "Describe tu último fin de semana con so y con such."
+      },
+      "template": "It was so … It was such a …",
+      "sample": "It was so sunny! It was such a lovely day."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

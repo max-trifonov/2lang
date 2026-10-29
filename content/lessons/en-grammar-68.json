@@ -1,0 +1,158 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-68",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-68",
+  "order": 68,
+  "level": "B1",
+  "title": {
+    "ru": "Ложные друзья: actually, magazine, sympathetic…",
+    "en": "False friends for Russian speakers: actually, magazine…",
+    "es": "Falsos amigos para rusohablantes: actually, magazine…"
+  },
+  "see": [
+    "en-grammar-67"
+  ],
+  "pattern": [
+    {
+      "en": "Actually, I'm from Kazan, not Moscow.",
+      "ru": "Вообще-то я из Казани, а не из Москвы."
+    },
+    {
+      "en": "Currently I work from home.",
+      "ru": "Сейчас я работаю из дома."
+    },
+    {
+      "en": "I bought a magazine at the airport.",
+      "ru": "Я купил журнал в аэропорту."
+    },
+    {
+      "en": "She was very sympathetic.",
+      "ru": "Она мне очень посочувствовала."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Ложные друзья похожи на русские слова, но значат другое. actually — «на самом деле, вообще-то», а «актуально, сейчас» — currently, up to date. magazine — «журнал», а магазин — shop, store. sympathetic — «сочувствующий», а симпатичный — nice, good-looking. accurate — «точный», а аккуратный — tidy, neat. fabric — «ткань», а фабрика — factory. complexion — «цвет лица», а комплекция — build.",
+      "en": "Words that look like Russian ones but mean something else: actually (= in fact; “currently” is currently), magazine (= журнал; a shop is a store), sympathetic (= understanding), accurate (= exact), fabric (= cloth).",
+      "es": "Falsos amigos: actually = en realidad; magazine = revista; sympathetic = comprensivo; accurate = exacto; fabric = tela."
+    },
+    "formula": "слово похоже на русское, а значит другое",
+    "table": {
+      "head": [
+        "английское",
+        "значит",
+        "а русское «…» — это"
+      ],
+      "rows": [
+        [
+          "actually",
+          "на самом деле",
+          "актуально — currently, relevant"
+        ],
+        [
+          "magazine",
+          "журнал",
+          "магазин — shop, store"
+        ],
+        [
+          "sympathetic",
+          "сочувствующий",
+          "симпатичный — nice, cute"
+        ],
+        [
+          "accurate",
+          "точный",
+          "аккуратный — tidy, neat"
+        ],
+        [
+          "fabric",
+          "ткань",
+          "фабрика — factory"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-60",
+      "formula": "falsos amigos",
+      "examples": [
+        {
+          "es": "Estoy embarazada. Estoy constipado.",
+          "ru": "Я беременна. У меня насморк."
+        }
+      ],
+      "note": {
+        "ru": "в испанском свои ловушки: embarazada — «беременная», constipado — «простуженный»"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Our office is ___ closed for repairs.",
+      "options": [
+        "currently",
+        "actually"
+      ],
+      "answer": "currently",
+      "ru": "Сейчас наш офис закрыт на ремонт."
+    },
+    {
+      "type": "choose",
+      "en": "I need to buy bread. Is there a ___ near here?",
+      "options": [
+        "shop",
+        "magazine"
+      ],
+      "answer": "shop",
+      "ru": "Мне нужно купить хлеб. Тут рядом есть магазин?"
+    },
+    {
+      "type": "choose",
+      "en": "The data must be ___, please check the numbers.",
+      "options": [
+        "accurate",
+        "tidy"
+      ],
+      "answer": "accurate",
+      "ru": "Данные должны быть точными, проверьте цифры."
+    },
+    {
+      "type": "choose",
+      "en": "My mum works in a car ___.",
+      "options": [
+        "factory",
+        "fabric"
+      ],
+      "answer": "factory",
+      "ru": "Моя мама работает на автомобильном заводе."
+    },
+    {
+      "type": "build",
+      "en": "Actually, the meeting is tomorrow, not today.",
+      "ru": "Вообще-то встреча завтра, а не сегодня.",
+      "extra": [
+        "currently"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите два предложения с actually и currently.",
+        "en": "Write two sentences with actually and currently.",
+        "es": "Escribe dos frases con actually y currently."
+      },
+      "template": "Actually, … Currently …",
+      "sample": "Actually, I prefer tea. Currently I'm learning Spanish."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

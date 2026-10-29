@@ -1,0 +1,133 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-54",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-54",
+  "order": 54,
+  "level": "A1",
+  "title": {
+    "ru": "a или en: куда и где",
+    "en": "a or en: where to and where",
+    "es": "a o en: adónde y dónde"
+  },
+  "see": [
+    "es-grammar-07",
+    "es-grammar-40"
+  ],
+  "pattern": [
+    {
+      "es": "Voy a Madrid.",
+      "ru": "Я еду в Мадрид."
+    },
+    {
+      "es": "Estoy en Madrid.",
+      "ru": "Я в Мадриде."
+    },
+    {
+      "es": "Llegamos a la estación.",
+      "ru": "Мы прибываем на вокзал."
+    },
+    {
+      "es": "Vivo en un piso pequeño.",
+      "ru": "Я живу в маленькой квартире."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "В русском «в Мадрид» и «в Мадриде» — один предлог, в испанском — два. a — направление «куда»: ir a, llegar a, volver a. en — место «где»: estar en, vivir en, trabajar en; и транспорт: en coche, en tren (но a pie — пешком). a + el сливается в al: voy al cine.",
+      "en": "a = direction (voy a, llego a); en = location (estoy en, vivo en) and transport (en tren, but a pie). a + el = al.",
+      "es": "a = destino; en = lugar y transporte. a + el = al."
+    },
+    "formula": "a — куда (движение) · en — где (место); на транспорте",
+    "table": {
+      "head": [
+        "",
+        "вопрос",
+        "пример"
+      ],
+      "rows": [
+        [
+          "a",
+          "¿adónde? куда",
+          "Voy al trabajo."
+        ],
+        [
+          "en",
+          "¿dónde? где",
+          "Estoy en el trabajo."
+        ],
+        [
+          "транспорт",
+          "¿cómo?",
+          "en metro, en bici, a pie"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Mañana vamos ___ la playa.",
+      "options": [
+        "a",
+        "en"
+      ],
+      "answer": "a",
+      "ru": "Завтра мы едем на пляж."
+    },
+    {
+      "type": "choose",
+      "es": "Mis padres viven ___ Valencia.",
+      "options": [
+        "en",
+        "a"
+      ],
+      "answer": "en",
+      "ru": "Мои родители живут в Валенсии."
+    },
+    {
+      "type": "choose",
+      "es": "Siempre voy al trabajo ___ bici.",
+      "options": [
+        "en",
+        "a"
+      ],
+      "answer": "en",
+      "ru": "На работу я всегда езжу на велосипеде."
+    },
+    {
+      "type": "choose",
+      "es": "¿A qué hora llegas ___ casa?",
+      "options": [
+        "a",
+        "en"
+      ],
+      "answer": "a",
+      "ru": "Во сколько ты приходишь домой?"
+    },
+    {
+      "type": "build",
+      "es": "Vamos al cine en metro.",
+      "ru": "Мы едем в кино на метро.",
+      "extra": [
+        "a el"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, где вы сейчас (en) и куда пойдёте потом (a).",
+        "en": "Write where you are now and where you'll go later.",
+        "es": "Escribe dónde estás ahora y adónde irás después."
+      },
+      "template": "Ahora estoy en … Luego voy a …",
+      "sample": "Ahora estoy en la oficina. Luego voy al gimnasio."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

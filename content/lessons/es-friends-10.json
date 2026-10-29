@@ -70,7 +70,9 @@
     }
   ],
   "see": [
-    "es-grammar-21"
+    "es-grammar-54",
+    "es-grammar-21",
+    "es-grammar-60"
   ],
   "ext": {
     "draft": true

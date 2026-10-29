@@ -1,0 +1,149 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-47",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-47",
+  "order": 47,
+  "level": "A2",
+  "title": {
+    "ru": "come или go",
+    "en": "come or go",
+    "es": "come o go"
+  },
+  "see": [
+    "en-grammar-46",
+    "en-grammar-22"
+  ],
+  "pattern": [
+    {
+      "en": "Come here!",
+      "ru": "Иди сюда!"
+    },
+    {
+      "en": "I'm going home.",
+      "ru": "Я иду домой."
+    },
+    {
+      "en": "Are you coming to the party?",
+      "ru": "Ты придёшь на вечеринку?"
+    },
+    {
+      "en": "Let's go to the beach.",
+      "ru": "Пойдём на пляж."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "come — движение к тому месту, где говорящий или собеседник: Come here, I'm coming! (иду к тебе). go — движение в другое место: go home, go to work. Поэтому на зов «Иди сюда!» отвечают I'm coming, а не I'm going. Are you coming with us? — «пойдёшь с нами?» (туда, где будем мы).",
+      "en": "come = towards the speaker or listener (Come here! I'm coming!). go = to another place (go home). Answer a call with I'm coming.",
+      "es": "come = venir (hacia aquí, hacia ti); go = ir (a otro lugar). I'm coming! = ¡Ya voy!"
+    },
+    "formula": "come — сюда, к говорящему или слушающему · go — туда, в другое место",
+    "table": {
+      "head": [
+        "",
+        "come",
+        "go"
+      ],
+      "rows": [
+        [
+          "куда",
+          "к говорящему или к тебе",
+          "в другое место"
+        ],
+        [
+          "пример",
+          "Come to my place!",
+          "Go to bed!"
+        ],
+        [
+          "ответ на зов",
+          "I'm coming!",
+          "—"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-40",
+      "formula": "venir / ir",
+      "examples": [
+        {
+          "es": "Ven aquí. Voy a casa.",
+          "ru": "Иди сюда. Я иду домой."
+        }
+      ],
+      "note": {
+        "ru": "на зов по-испански ¡Ya voy! — как раз ir, а не venir"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Dinner is ready! — OK, I'm ___!",
+      "options": [
+        "coming",
+        "going"
+      ],
+      "answer": "coming",
+      "ru": "Ужин готов! — Иду!"
+    },
+    {
+      "type": "choose",
+      "en": "I ___ to the gym three times a week.",
+      "options": [
+        "go",
+        "come"
+      ],
+      "answer": "go",
+      "ru": "Я хожу в спортзал три раза в неделю."
+    },
+    {
+      "type": "choose",
+      "en": "Can you ___ to my office for a minute?",
+      "options": [
+        "come",
+        "go"
+      ],
+      "answer": "come",
+      "ru": "Можешь зайти ко мне в кабинет на минутку?"
+    },
+    {
+      "type": "choose",
+      "en": "It's late. Let's ___ home.",
+      "options": [
+        "go",
+        "come"
+      ],
+      "answer": "go",
+      "ru": "Поздно. Пойдём домой."
+    },
+    {
+      "type": "build",
+      "en": "Are you coming to the party on Friday?",
+      "ru": "Ты придёшь на вечеринку в пятницу?",
+      "extra": [
+        "going"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Пригласите друга к себе (come) и скажите, куда вы пойдёте потом (go).",
+        "en": "Invite a friend to your place (come) and say where you'll go after (go).",
+        "es": "Invita a un amigo (come) y di adónde iréis después (go)."
+      },
+      "template": "Come to … Then we'll go …",
+      "sample": "Come to my place at seven. Then we'll go to the cinema."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

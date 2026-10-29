@@ -1,0 +1,150 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-43",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-43",
+  "order": 43,
+  "level": "A1",
+  "title": {
+    "ru": "bueno или bien",
+    "en": "bueno or bien",
+    "es": "bueno o bien"
+  },
+  "see": [
+    "es-grammar-13",
+    "es-grammar-25"
+  ],
+  "pattern": [
+    {
+      "es": "Es un buen libro.",
+      "ru": "Это хорошая книга."
+    },
+    {
+      "es": "Escribe muy bien.",
+      "ru": "Он очень хорошо пишет."
+    },
+    {
+      "es": "¿Qué tal? — Bien, gracias.",
+      "ru": "Как дела? — Хорошо, спасибо."
+    },
+    {
+      "es": "La sopa está buena.",
+      "ru": "Суп вкусный."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "bueno — прилагательное, согласуется с существительным: un libro bueno, una idea buena, buenos amigos; перед существительным м. р. ед. ч. — buen: un buen día. bien — наречие, не меняется: описывает, как выполняется действие (cantas bien) и самочувствие (estoy bien). С estar: estar bien — «в порядке», estar bueno — «вкусный» (о еде) или разговорно «привлекательный».",
+      "en": "bueno is an adjective (agrees, buen before a masculine singular noun). bien is an adverb (cantas bien, estoy bien). La sopa está buena = the soup is tasty.",
+      "es": "bueno = adjetivo (buen libro); bien = adverbio (canta bien, estoy bien)."
+    },
+    "formula": "bueno, -a — какой (прилагательное) · bien — как (наречие)",
+    "table": {
+      "head": [
+        "",
+        "bueno",
+        "bien"
+      ],
+      "rows": [
+        [
+          "что описывает",
+          "вещь, человека",
+          "действие, самочувствие"
+        ],
+        [
+          "пример",
+          "un buen médico",
+          "Trabaja bien."
+        ],
+        [
+          "с estar",
+          "está bueno (вкусно)",
+          "estoy bien (в порядке)"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-50",
+      "formula": "good / well",
+      "examples": [
+        {
+          "en": "She is a good singer. She sings well.",
+          "ru": "Она хорошая певица. Она хорошо поёт."
+        }
+      ],
+      "note": {
+        "ru": "та же пара: good = bueno, well = bien"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Hablas español muy ___.",
+      "options": [
+        "bien",
+        "bueno"
+      ],
+      "answer": "bien",
+      "ru": "Ты очень хорошо говоришь по-испански."
+    },
+    {
+      "type": "choose",
+      "es": "Es una ___ idea.",
+      "options": [
+        "buena",
+        "bien"
+      ],
+      "answer": "buena",
+      "ru": "Это хорошая идея."
+    },
+    {
+      "type": "choose",
+      "es": "Hoy hace ___ tiempo.",
+      "options": [
+        "buen",
+        "bien",
+        "bueno"
+      ],
+      "answer": "buen",
+      "ru": "Сегодня хорошая погода."
+    },
+    {
+      "type": "choose",
+      "es": "¿Estás ___? Pareces cansado.",
+      "options": [
+        "bien",
+        "bueno"
+      ],
+      "answer": "bien",
+      "ru": "Ты в порядке? Выглядишь усталым."
+    },
+    {
+      "type": "build",
+      "es": "Mi hermano es un buen cocinero.",
+      "ru": "Мой брат — хороший повар.",
+      "extra": [
+        "bien"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что у вас хорошее (bueno) и что вы хорошо делаете (bien).",
+        "en": "Write something good you have and something you do well.",
+        "es": "Escribe algo bueno que tienes y algo que haces bien."
+      },
+      "template": "Tengo un buen … … bien.",
+      "sample": "Tengo un buen trabajo. Cocino bien."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

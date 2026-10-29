@@ -1,0 +1,149 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-38",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-38",
+  "order": 38,
+  "level": "A2",
+  "title": {
+    "ru": "pedir или preguntar",
+    "en": "pedir or preguntar",
+    "es": "pedir o preguntar"
+  },
+  "see": [
+    "es-grammar-17",
+    "es-grammar-11"
+  ],
+  "pattern": [
+    {
+      "es": "Voy a preguntar la hora.",
+      "ru": "Я спрошу, который час."
+    },
+    {
+      "es": "Voy a pedir un café.",
+      "ru": "Я закажу кофе."
+    },
+    {
+      "es": "Te pido un favor.",
+      "ru": "Прошу тебя об одолжении."
+    },
+    {
+      "es": "Pregúntale dónde vive.",
+      "ru": "Спроси его, где он живёт."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "По-русски «спросить» и «попросить» похожи, в испанском это разные глаголы. preguntar — задать вопрос, узнать информацию: preguntar la hora, preguntar por alguien («спросить о ком-то»). pedir — попросить, чтобы тебе что-то дали или сделали, и заказать в кафе: pedir ayuda, pedir la cuenta, pedir una pizza. pedir меняет e → i: pido, pides, pide.",
+      "en": "preguntar = ask a question (preguntar la hora). pedir = ask for something, order (pedir ayuda, pedir la cuenta). pedir: e → i (pido).",
+      "es": "preguntar = hacer una pregunta; pedir = solicitar algo, encargar. pedir: e → i."
+    },
+    "formula": "preguntar — спросить (информацию) · pedir — попросить, заказать (что-то получить)",
+    "table": {
+      "head": [
+        "",
+        "preguntar",
+        "pedir"
+      ],
+      "rows": [
+        [
+          "что",
+          "вопрос, информация",
+          "вещь, услуга, помощь"
+        ],
+        [
+          "пример",
+          "preguntar la dirección",
+          "pedir un taxi"
+        ],
+        [
+          "формы",
+          "pregunto, preguntas",
+          "pido, pides"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-41",
+      "formula": "ask / ask for",
+      "examples": [
+        {
+          "en": "Ask him where he lives. Ask for the bill.",
+          "ru": "Спроси его, где он живёт. Попроси счёт."
+        }
+      ],
+      "note": {
+        "ru": "в английском одно ask: просто ask — спросить, ask for — попросить"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "Camarero, ¿podemos ___ la cuenta?",
+      "options": [
+        "pedir",
+        "preguntar"
+      ],
+      "answer": "pedir",
+      "ru": "Официант, можно нам счёт?"
+    },
+    {
+      "type": "choose",
+      "es": "Voy a ___ a la profesora qué significa esta palabra.",
+      "options": [
+        "preguntar",
+        "pedir"
+      ],
+      "answer": "preguntar",
+      "ru": "Я спрошу у учительницы, что значит это слово."
+    },
+    {
+      "type": "choose",
+      "es": "Si necesitas algo, ___ ayuda.",
+      "options": [
+        "pide",
+        "pregunta"
+      ],
+      "answer": "pide",
+      "ru": "Если тебе что-то нужно, попроси помощи."
+    },
+    {
+      "type": "choose",
+      "es": "Alguien ha ___ por ti.",
+      "options": [
+        "preguntado",
+        "pedido"
+      ],
+      "answer": "preguntado",
+      "ru": "Тебя кто-то спрашивал."
+    },
+    {
+      "type": "build",
+      "es": "Siempre pido una pizza los viernes.",
+      "ru": "По пятницам я всегда заказываю пиццу.",
+      "extra": [
+        "pregunto"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы обычно заказываете в кафе и о чём спрашиваете в отеле.",
+        "en": "Write what you usually order in a café and what you ask at a hotel.",
+        "es": "Escribe qué pides en un café y qué preguntas en un hotel."
+      },
+      "template": "En el café pido … En el hotel pregunto …",
+      "sample": "En el café pido un té. En el hotel pregunto a qué hora es el desayuno."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

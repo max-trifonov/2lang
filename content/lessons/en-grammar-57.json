@@ -1,0 +1,132 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-57",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-57",
+  "order": 57,
+  "level": "B1",
+  "title": {
+    "ru": "like или as",
+    "en": "like or as",
+    "es": "like o as"
+  },
+  "see": [
+    "en-grammar-27"
+  ],
+  "pattern": [
+    {
+      "en": "She sings like an angel.",
+      "ru": "Она поёт как ангел."
+    },
+    {
+      "en": "He works as a teacher.",
+      "ru": "Он работает учителем."
+    },
+    {
+      "en": "As I said, the shop is closed.",
+      "ru": "Как я и говорил, магазин закрыт."
+    },
+    {
+      "en": "It looks like rain.",
+      "ru": "Похоже на дождь."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "like + существительное — сравнение, «как, похоже на»: like a child, like a pro. as — «в качестве, в роли» — кем ты действительно являешься: work as a driver, use it as a table. В начале фразы as + предложение — «как»: As you know… Сравните: He talks like a teacher (но он не учитель) / He works as a teacher (он учитель).",
+      "en": "like + noun = similar to (like a child). as = in the role of (work as a driver), or as + clause (As you know…).",
+      "es": "like = como (parecido a); as = como (en calidad de) o como + oración."
+    },
+    "formula": "like — похож на, как (сравнение) · as — в роли, в качестве; как (+ предложение)",
+    "table": {
+      "head": [
+        "",
+        "like",
+        "as"
+      ],
+      "rows": [
+        [
+          "смысл",
+          "похож на",
+          "в роли, на самом деле"
+        ],
+        [
+          "пример",
+          "He talks like a boss.",
+          "He works as a boss."
+        ],
+        [
+          "+ предложение",
+          "—",
+          "As I said…"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "I work ___ a designer.",
+      "options": [
+        "as",
+        "like"
+      ],
+      "answer": "as",
+      "ru": "Я работаю дизайнером."
+    },
+    {
+      "type": "choose",
+      "en": "You look ___ your mother.",
+      "options": [
+        "like",
+        "as"
+      ],
+      "answer": "like",
+      "ru": "Ты похож на маму."
+    },
+    {
+      "type": "choose",
+      "en": "___ you know, the meeting is at ten.",
+      "options": [
+        "As",
+        "Like"
+      ],
+      "answer": "As",
+      "ru": "Как вы знаете, встреча в десять."
+    },
+    {
+      "type": "choose",
+      "en": "He runs ___ the wind.",
+      "options": [
+        "like",
+        "as"
+      ],
+      "answer": "like",
+      "ru": "Он бегает как ветер."
+    },
+    {
+      "type": "build",
+      "en": "I use my phone as an alarm clock.",
+      "ru": "Я использую телефон как будильник.",
+      "extra": [
+        "like"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, кем вы работаете (as) и на кого вы похожи (like).",
+        "en": "Write what you work as and who you look like.",
+        "es": "Escribe de qué trabajas (as) y a quién te pareces (like)."
+      },
+      "template": "I work as … I look like …",
+      "sample": "I work as a developer. I look like my father."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

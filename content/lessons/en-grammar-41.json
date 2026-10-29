@@ -1,0 +1,144 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-41",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-41",
+  "order": 41,
+  "level": "A2",
+  "title": {
+    "ru": "say или tell",
+    "en": "say or tell",
+    "es": "say o tell"
+  },
+  "see": [
+    "en-grammar-40",
+    "en-grammar-42",
+    "en-grammar-12"
+  ],
+  "pattern": [
+    {
+      "en": "He said that he was tired.",
+      "ru": "Он сказал, что устал."
+    },
+    {
+      "en": "He told me that he was tired.",
+      "ru": "Он сказал мне, что устал."
+    },
+    {
+      "en": "Can you tell me the time?",
+      "ru": "Подскажете, который час?"
+    },
+    {
+      "en": "She said hello and left.",
+      "ru": "Она поздоровалась и ушла."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "tell почти всегда требует адресата — кому сказали: tell me, tell her, tell the team. say — без адресата, важны сами слова: say hello, say yes, say that… Если всё-таки нужен адресат с say — через to: She said to me… Устойчивые: tell a story, tell a joke, tell the truth, tell a lie, tell the time — всегда tell.",
+      "en": "tell needs a person: tell me, tell the team. say focuses on the words: say hello, say that… (with a person: say to me). Fixed: tell a story, a joke, the truth, a lie.",
+      "es": "tell + persona (tell me); say + palabras (say hello). Fijas: tell a story, the truth, a lie."
+    },
+    "formula": "say + что · tell + кому + что",
+    "table": {
+      "head": [
+        "",
+        "say",
+        "tell"
+      ],
+      "rows": [
+        [
+          "без адресата",
+          "He said (that) it was late.",
+          "—"
+        ],
+        [
+          "с адресатом",
+          "He said to me…",
+          "He told me (that)…"
+        ],
+        [
+          "устойчивые",
+          "hello, yes, no, sorry",
+          "a story, a joke, the truth, a lie"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "She ___ me about her new job.",
+      "options": [
+        "told",
+        "said"
+      ],
+      "answer": "told",
+      "ru": "Она рассказала мне о новой работе."
+    },
+    {
+      "type": "choose",
+      "en": "What did he ___?",
+      "options": [
+        "say",
+        "tell"
+      ],
+      "answer": "say",
+      "ru": "Что он сказал?"
+    },
+    {
+      "type": "choose",
+      "en": "Please ___ the truth.",
+      "options": [
+        "tell",
+        "say"
+      ],
+      "answer": "tell",
+      "ru": "Пожалуйста, скажи правду."
+    },
+    {
+      "type": "choose",
+      "en": "I ___ goodbye and went home.",
+      "options": [
+        "said",
+        "told"
+      ],
+      "answer": "said",
+      "ru": "Я попрощался и пошёл домой."
+    },
+    {
+      "type": "choose",
+      "en": "Can you ___ us a joke?",
+      "options": [
+        "tell",
+        "say"
+      ],
+      "answer": "tell",
+      "ru": "Расскажешь нам анекдот?"
+    },
+    {
+      "type": "build",
+      "en": "Tell me what you think.",
+      "ru": "Скажи мне, что ты думаешь.",
+      "extra": [
+        "say"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Перескажите, что вам сказал коллега: с say и с tell.",
+        "en": "Report what a colleague said: once with say, once with tell.",
+        "es": "Cuenta qué te dijo un colega: con say y con tell."
+      },
+      "template": "He said … He told me …",
+      "sample": "He said the build was ready. He told me to check it."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

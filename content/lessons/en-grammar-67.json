@@ -1,0 +1,153 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-67",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-67",
+  "order": 67,
+  "level": "A2",
+  "title": {
+    "ru": "miss или lose",
+    "en": "miss or lose",
+    "es": "miss o lose"
+  },
+  "see": [
+    "en-grammar-19"
+  ],
+  "pattern": [
+    {
+      "en": "I missed the bus.",
+      "ru": "Я опоздал на автобус."
+    },
+    {
+      "en": "I lost my keys.",
+      "ru": "Я потерял ключи."
+    },
+    {
+      "en": "I miss you.",
+      "ru": "Я скучаю по тебе."
+    },
+    {
+      "en": "We lost the game.",
+      "ru": "Мы проиграли игру."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "miss — когда что-то прошло мимо тебя: опоздал (miss the train), пропустил (miss a lesson, miss the point), промахнулся, и ещё «скучать»: I miss my family. lose — когда то, что было, пропало: lose a phone, lose weight, lose your way, и «проиграть»: lose a match. Формы: lose — lost — lost. Не путайте lose [luːz] и loose [luːs] — «свободный, болтающийся».",
+      "en": "miss = fail to catch, attend or hit; also feel sad without someone (I miss you). lose = no longer have (lose keys) or be defeated (lose a game). lose — lost — lost.",
+      "es": "miss = perder (un tren), faltar a, echar de menos; lose = perder (un objeto, un partido)."
+    },
+    "formula": "miss — не успеть, пропустить, скучать · lose — потерять, проиграть",
+    "table": {
+      "head": [
+        "",
+        "miss",
+        "lose"
+      ],
+      "rows": [
+        [
+          "транспорт, урок",
+          "miss the train",
+          "—"
+        ],
+        [
+          "вещи, вес, дорогу",
+          "—",
+          "lose keys, lose weight"
+        ],
+        [
+          "игра",
+          "—",
+          "lose a match"
+        ],
+        [
+          "люди",
+          "I miss you (скучаю)",
+          "—"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-61",
+      "formula": "echar de menos / perder",
+      "examples": [
+        {
+          "es": "Te echo de menos. Perdí las llaves.",
+          "ru": "Я скучаю по тебе. Я потерял ключи."
+        }
+      ],
+      "note": {
+        "ru": "испанское perder = и miss (поезд), и lose; «скучать» — echar de menos"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Hurry up or we'll ___ the train!",
+      "options": [
+        "miss",
+        "lose"
+      ],
+      "answer": "miss",
+      "ru": "Поторопись, а то опоздаем на поезд!"
+    },
+    {
+      "type": "choose",
+      "en": "I ___ my wallet yesterday.",
+      "options": [
+        "lost",
+        "missed"
+      ],
+      "answer": "lost",
+      "ru": "Вчера я потерял кошелёк."
+    },
+    {
+      "type": "choose",
+      "en": "I really ___ my friends from school.",
+      "options": [
+        "miss",
+        "lose"
+      ],
+      "answer": "miss",
+      "ru": "Я очень скучаю по школьным друзьям."
+    },
+    {
+      "type": "choose",
+      "en": "Did we win or ___?",
+      "options": [
+        "lose",
+        "miss"
+      ],
+      "answer": "lose",
+      "ru": "Мы выиграли или проиграли?"
+    },
+    {
+      "type": "build",
+      "en": "I missed the meeting because of the traffic.",
+      "ru": "Я пропустил встречу из-за пробки.",
+      "extra": [
+        "lost"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, по кому вы скучаете (miss) и что недавно потеряли (lose).",
+        "en": "Write who you miss and what you lost recently.",
+        "es": "Escribe a quién echas de menos (miss) y qué perdiste hace poco (lose)."
+      },
+      "template": "I miss … I lost …",
+      "sample": "I miss my grandmother. I lost my umbrella last week."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

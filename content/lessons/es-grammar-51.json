@@ -1,0 +1,152 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-51",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-51",
+  "order": 51,
+  "level": "A1",
+  "title": {
+    "ru": "Знак ударения меняет слово: si / sí, tu / tú, el / él",
+    "en": "The written accent changes the word: si / sí, tu / tú, el / él",
+    "es": "La tilde diacrítica: si / sí, tu / tú, el / él"
+  },
+  "see": [
+    "es-grammar-14",
+    "es-grammar-26",
+    "es-grammar-32"
+  ],
+  "pattern": [
+    {
+      "es": "Si quieres, voy. — ¡Sí, por favor!",
+      "ru": "Если хочешь, я пойду. — Да, пожалуйста!"
+    },
+    {
+      "es": "Tu casa es bonita. — Tú eres bonita.",
+      "ru": "Твой дом красивый. — Ты красивая."
+    },
+    {
+      "es": "El libro es de él.",
+      "ru": "Книга его."
+    },
+    {
+      "es": "Esto es para mí. — Mi madre.",
+      "ru": "Это для меня. — Моя мама."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Тильда (´) в коротких словах не меняет произношение, а различает слова. si — «если», sí — «да» и «себя». tu — «твой», tú — «ты». el — «(артикль)», él — «он». mi — «мой», mí — «меня, мне» (после предлога: para mí). de — «из, от», dé — «пусть даст». te — «тебя», té — «чай». se — «себя», sé — «я знаю». В вопросах и восклицаниях тоже знак: qué, cómo, dónde.",
+      "en": "The accent mark distinguishes short words: si (if) / sí (yes), tu (your) / tú (you), el (the) / él (he), mi (my) / mí (me), te (you) / té (tea), se / sé (I know).",
+      "es": "La tilde diacrítica distingue palabras: si / sí, tu / tú, el / él, mi / mí, te / té, se / sé."
+    },
+    "formula": "без знака — служебное слово · со знаком (´) — самостоятельное слово с ударением",
+    "table": {
+      "head": [
+        "без знака",
+        "со знаком"
+      ],
+      "rows": [
+        [
+          "si — если",
+          "sí — да"
+        ],
+        [
+          "tu — твой",
+          "tú — ты"
+        ],
+        [
+          "el — артикль",
+          "él — он"
+        ],
+        [
+          "mi — мой",
+          "mí — меня (para mí)"
+        ],
+        [
+          "te — тебя",
+          "té — чай"
+        ],
+        [
+          "se — себя",
+          "sé — я знаю"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "¿Quieres un ___?",
+      "options": [
+        "té",
+        "te"
+      ],
+      "answer": "té",
+      "ru": "Хочешь чаю?"
+    },
+    {
+      "type": "choose",
+      "es": "¿Vienes? — ___, claro.",
+      "options": [
+        "Sí",
+        "Si"
+      ],
+      "answer": "Sí",
+      "ru": "Придёшь? — Да, конечно."
+    },
+    {
+      "type": "choose",
+      "es": "Este regalo es para ___.",
+      "options": [
+        "mí",
+        "mi"
+      ],
+      "answer": "mí",
+      "ru": "Этот подарок для меня."
+    },
+    {
+      "type": "choose",
+      "es": "No ___ dónde está la estación.",
+      "options": [
+        "sé",
+        "se"
+      ],
+      "answer": "sé",
+      "ru": "Я не знаю, где вокзал."
+    },
+    {
+      "type": "choose",
+      "es": "___ coche es nuevo.",
+      "options": [
+        "Tu",
+        "Tú"
+      ],
+      "answer": "Tu",
+      "ru": "Твоя машина новая."
+    },
+    {
+      "type": "build",
+      "es": "Él no sabe si viene.",
+      "ru": "Он не знает, придёт ли.",
+      "extra": [
+        "El"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите две фразы, где одно и то же слово стоит со знаком и без.",
+        "en": "Write two sentences with the same word with and without the accent.",
+        "es": "Escribe dos frases con la misma palabra con y sin tilde."
+      },
+      "template": "Tu … Tú …",
+      "sample": "Tu hermano es simpático. Tú eres muy alto."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-61",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-61",
+  "order": 61,
+  "level": "A2",
+  "title": {
+    "ru": "echar de menos или perder",
+    "en": "echar de menos or perder",
+    "es": "echar de menos o perder"
+  },
+  "see": [
+    "es-grammar-30"
+  ],
+  "pattern": [
+    {
+      "es": "Te echo de menos.",
+      "ru": "Я скучаю по тебе."
+    },
+    {
+      "es": "Perdí el tren.",
+      "ru": "Я опоздал на поезд."
+    },
+    {
+      "es": "He perdido las llaves.",
+      "ru": "Я потерял ключи."
+    },
+    {
+      "es": "Perdimos el partido.",
+      "ru": "Мы проиграли матч."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "perder — широкое слово: потерять вещь (perder el móvil), проиграть (perder un partido), опоздать на транспорт (perder el autobús), упустить время (perder el tiempo). А «скучать по кому-то» — echar de menos (в Испании) или extrañar (в Латинской Америке): Te echo de menos / Te extraño. perder меняет e → ie: pierdo, pierdes.",
+      "en": "perder = lose (things, games), miss (a bus), waste (time). “I miss you” = te echo de menos (Spain) or te extraño (Latin America). pierdo.",
+      "es": "perder = objeto, partido, transporte, tiempo; echar de menos / extrañar = sentir la falta de alguien."
+    },
+    "formula": "echar de menos — скучать · perder — потерять, проиграть, опоздать на транспорт",
+    "table": {
+      "head": [
+        "",
+        "смысл",
+        "пример"
+      ],
+      "rows": [
+        [
+          "perder",
+          "потерять",
+          "perder la cartera"
+        ],
+        [
+          "perder",
+          "проиграть",
+          "perder el partido"
+        ],
+        [
+          "perder",
+          "опоздать на",
+          "perder el vuelo"
+        ],
+        [
+          "echar de menos",
+          "скучать",
+          "echo de menos a mi familia"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-67",
+      "formula": "miss / lose",
+      "examples": [
+        {
+          "en": "I miss you. I missed the bus. I lost my keys.",
+          "ru": "Я скучаю. Я опоздал на автобус. Я потерял ключи."
+        }
+      ],
+      "note": {
+        "ru": "английское miss = и «скучать», и «опоздать», а lose = «потерять»"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "___ mucho a mis amigos de Rusia.",
+      "options": [
+        "Echo de menos",
+        "Pierdo"
+      ],
+      "answer": "Echo de menos",
+      "ru": "Я очень скучаю по друзьям из России."
+    },
+    {
+      "type": "choose",
+      "es": "Corre o vamos a ___ el autobús.",
+      "options": [
+        "perder",
+        "echar de menos"
+      ],
+      "answer": "perder",
+      "ru": "Беги, а то опоздаем на автобус."
+    },
+    {
+      "type": "choose",
+      "es": "¿Dónde ___ el paraguas?",
+      "options": [
+        "perdiste",
+        "echaste de menos"
+      ],
+      "answer": "perdiste",
+      "ru": "Где ты потерял зонт?"
+    },
+    {
+      "type": "choose",
+      "es": "No quiero ___ el tiempo.",
+      "options": [
+        "perder",
+        "echar"
+      ],
+      "answer": "perder",
+      "ru": "Не хочу терять время."
+    },
+    {
+      "type": "build",
+      "es": "Echo de menos el mar de mi ciudad.",
+      "ru": "Я скучаю по морю своего города.",
+      "extra": [
+        "pierdo"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, по кому или чему вы скучаете и что недавно потеряли.",
+        "en": "Write who or what you miss and what you lost recently.",
+        "es": "Escribe qué echas de menos y qué perdiste hace poco."
+      },
+      "template": "Echo de menos … Perdí …",
+      "sample": "Echo de menos a mi abuela. Perdí los auriculares."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-45",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-45",
+  "order": 45,
+  "level": "A1",
+  "title": {
+    "ru": "oír или escuchar",
+    "en": "oír or escuchar",
+    "es": "oír o escuchar"
+  },
+  "see": [
+    "es-grammar-16",
+    "es-grammar-46"
+  ],
+  "pattern": [
+    {
+      "es": "Oigo música.",
+      "ru": "Я слышу музыку."
+    },
+    {
+      "es": "Escucho música en el tren.",
+      "ru": "Я слушаю музыку в поезде."
+    },
+    {
+      "es": "¡Oye! ¿Tienes un momento?",
+      "ru": "Слушай! У тебя есть минутка?"
+    },
+    {
+      "es": "No te oigo bien.",
+      "ru": "Я тебя плохо слышу."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "oír — звук доходит сам: oigo un ruido. escuchar — слушать с вниманием: escuchar la radio, escúchame. В отличие от английского listen to, после escuchar предлог не нужен: escucho música. Разговорное ¡Oye! / ¡Oiga! — «Слушай! / Послушайте!» — чтобы привлечь внимание. oír неправильный: oigo, oyes, oye.",
+      "en": "oír = hear (oigo un ruido); escuchar = listen to, with no preposition (escucho música). ¡Oye! = Hey! oír: oigo, oyes.",
+      "es": "oír = sin intención; escuchar = con atención (sin preposición). ¡Oye! para llamar la atención."
+    },
+    "formula": "oír — слышать (само) · escuchar — слушать (специально)",
+    "table": {
+      "head": [
+        "",
+        "oír",
+        "escuchar"
+      ],
+      "rows": [
+        [
+          "смысл",
+          "слышать",
+          "слушать"
+        ],
+        [
+          "пример",
+          "Oigo pasos.",
+          "Escucho la radio."
+        ],
+        [
+          "формы",
+          "oigo, oyes, oye",
+          "escucho, escuchas"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "en",
+      "lesson": "en-grammar-43",
+      "formula": "hear / listen",
+      "examples": [
+        {
+          "en": "I can hear music. I listen to music.",
+          "ru": "Я слышу музыку. Я слушаю музыку."
+        }
+      ],
+      "note": {
+        "ru": "та же пара, но listen требует to, а escuchar — нет"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "¿Me ___? Hay mucho ruido aquí.",
+      "options": [
+        "oyes",
+        "escuchas"
+      ],
+      "answer": "oyes",
+      "ru": "Ты меня слышишь? Тут очень шумно."
+    },
+    {
+      "type": "choose",
+      "es": "Me gusta ___ la radio por la mañana.",
+      "options": [
+        "escuchar",
+        "oír"
+      ],
+      "answer": "escuchar",
+      "ru": "Я люблю слушать радио по утрам."
+    },
+    {
+      "type": "choose",
+      "es": "___ a tu madre, tiene razón.",
+      "options": [
+        "Escucha",
+        "Oye"
+      ],
+      "answer": "Escucha",
+      "ru": "Послушай маму, она права."
+    },
+    {
+      "type": "choose",
+      "es": "Anoche ___ un ruido raro.",
+      "options": [
+        "oí",
+        "escuché"
+      ],
+      "answer": "oí",
+      "ru": "Ночью я услышал странный шум."
+    },
+    {
+      "type": "build",
+      "es": "Escucho podcasts cuando corro.",
+      "ru": "Я слушаю подкасты, когда бегаю.",
+      "extra": [
+        "oigo"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы слушаете (escuchar) и что слышите из окна (oír).",
+        "en": "Write what you listen to and what you hear from your window.",
+        "es": "Escribe qué escuchas y qué oyes desde tu ventana."
+      },
+      "template": "Escucho … Desde mi ventana oigo …",
+      "sample": "Escucho rock. Desde mi ventana oigo el tráfico."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-59",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-59",
+  "order": 59,
+  "level": "B1",
+  "title": {
+    "ru": "each или every",
+    "en": "each or every",
+    "es": "each o every"
+  },
+  "see": [
+    "en-grammar-28"
+  ],
+  "pattern": [
+    {
+      "en": "Every child got a present.",
+      "ru": "Каждый ребёнок получил подарок."
+    },
+    {
+      "en": "Each child got a different present.",
+      "ru": "Каждый ребёнок получил свой подарок."
+    },
+    {
+      "en": "I run every day.",
+      "ru": "Я бегаю каждый день."
+    },
+    {
+      "en": "Each of us has a key.",
+      "ru": "У каждого из нас есть ключ."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "every — «каждый = все», смотрим на группу целиком: every day, every time, everybody. each — «каждый по отдельности», важны отдельные элементы, часто их немного: each player, each side. Только each: each of + мн. ч. (each of them) и без существительного (They cost ten euros each). Про двух — только each: each hand. После обоих — глагол в ед. ч.: Every student has, each student has.",
+      "en": "every = all, seen as a group (every day). each = one by one, individually; each of + plural; for two things only each (each hand). Both take a singular verb.",
+      "es": "every = todos (cada); each = cada uno por separado. Con dos: each."
+    },
+    "formula": "every — все вместе, без исключений · each — каждый по отдельности",
+    "table": {
+      "head": [
+        "",
+        "every",
+        "each"
+      ],
+      "rows": [
+        [
+          "взгляд",
+          "все вместе",
+          "по одному"
+        ],
+        [
+          "+ of",
+          "—",
+          "each of them"
+        ],
+        [
+          "про двух",
+          "—",
+          "each hand"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "I check my email ___ morning.",
+      "options": [
+        "every",
+        "each"
+      ],
+      "answer": "every",
+      "ru": "Я проверяю почту каждое утро."
+    },
+    {
+      "type": "choose",
+      "en": "___ of the rooms has a balcony.",
+      "options": [
+        "Each",
+        "Every"
+      ],
+      "answer": "Each",
+      "ru": "В каждом из номеров есть балкон."
+    },
+    {
+      "type": "choose",
+      "en": "She wore a ring on ___ hand.",
+      "options": [
+        "each",
+        "every"
+      ],
+      "answer": "each",
+      "ru": "У неё было кольцо на каждой руке."
+    },
+    {
+      "type": "choose",
+      "en": "The tickets cost twenty euros ___.",
+      "options": [
+        "each",
+        "every"
+      ],
+      "answer": "each",
+      "ru": "Билеты стоят по двадцать евро."
+    },
+    {
+      "type": "build",
+      "en": "Every student has a laptop.",
+      "ru": "У каждого студента есть ноутбук.",
+      "extra": [
+        "have"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что вы делаете каждый день (every), и опишите каждого члена семьи (each of).",
+        "en": "Write what you do every day and something about each of your family members.",
+        "es": "Escribe qué haces cada día (every) y algo de cada miembro de tu familia (each of)."
+      },
+      "template": "Every day I … Each of …",
+      "sample": "Every day I walk the dog. Each of my sisters plays an instrument."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

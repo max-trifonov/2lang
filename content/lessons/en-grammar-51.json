@@ -1,0 +1,133 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-51",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-51",
+  "order": 51,
+  "level": "A2",
+  "title": {
+    "ru": "remember или remind",
+    "en": "remember or remind",
+    "es": "remember o remind"
+  },
+  "see": [
+    "en-grammar-36"
+  ],
+  "pattern": [
+    {
+      "en": "I remember your name.",
+      "ru": "Я помню твоё имя."
+    },
+    {
+      "en": "Remind me to call Ana.",
+      "ru": "Напомни мне позвонить Ане."
+    },
+    {
+      "en": "This song reminds me of summer.",
+      "ru": "Эта песня напоминает мне о лете."
+    },
+    {
+      "en": "Remember to lock the door.",
+      "ru": "Не забудь запереть дверь."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "remember — помнишь или вспоминаешь сам: I remember. Remember to… — «не забудь сделать». remind — заставляешь вспомнить кого-то другого, после него всегда человек: remind me, remind the team. remind someone to do — напомнить сделать; remind someone of — напоминать о чём-то или быть похожим: You remind me of my brother.",
+      "en": "remember = you keep something in mind yourself (Remember to…). remind = make someone else remember: remind me to…, remind me of…",
+      "es": "remember = recordar (uno mismo); remind = recordarle algo a alguien."
+    },
+    "formula": "remember — помнить, вспомнить (сам) · remind кого-то — напомнить (другому)",
+    "table": {
+      "head": [
+        "",
+        "remember",
+        "remind"
+      ],
+      "rows": [
+        [
+          "кто вспоминает",
+          "я сам",
+          "другой, кому напоминают"
+        ],
+        [
+          "сделать",
+          "Remember to call.",
+          "Remind me to call."
+        ],
+        [
+          "о чём",
+          "I remember that day.",
+          "It reminds me of that day."
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Can you ___ me about the meeting tomorrow?",
+      "options": [
+        "remind",
+        "remember"
+      ],
+      "answer": "remind",
+      "ru": "Напомнишь мне завтра о встрече?"
+    },
+    {
+      "type": "choose",
+      "en": "I don't ___ his phone number.",
+      "options": [
+        "remember",
+        "remind"
+      ],
+      "answer": "remember",
+      "ru": "Я не помню его номер телефона."
+    },
+    {
+      "type": "choose",
+      "en": "This place reminds me ___ my childhood.",
+      "options": [
+        "of",
+        "about",
+        "to"
+      ],
+      "answer": "of",
+      "ru": "Это место напоминает мне о детстве."
+    },
+    {
+      "type": "choose",
+      "en": "___ to buy milk on the way home!",
+      "options": [
+        "Remember",
+        "Remind"
+      ],
+      "answer": "Remember",
+      "ru": "Не забудь купить молоко по дороге домой!"
+    },
+    {
+      "type": "build",
+      "en": "Please remind me to send the report.",
+      "ru": "Пожалуйста, напомни мне отправить отчёт.",
+      "extra": [
+        "remember"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Попросите коллегу напомнить вам о деле и напишите, что вы помните о прошлом лете.",
+        "en": "Ask a colleague to remind you about a task, and write what you remember about last summer.",
+        "es": "Pide a un colega que te recuerde algo y escribe qué recuerdas del verano pasado."
+      },
+      "template": "Remind me to … I remember …",
+      "sample": "Remind me to book the tickets. I remember the sea and the sun."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

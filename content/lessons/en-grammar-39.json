@@ -1,0 +1,142 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-39",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-39",
+  "order": 39,
+  "level": "A2",
+  "title": {
+    "ru": "Call me или give me a call: глагол или «дать + существительное»",
+    "en": "Call me or give me a call: verb or give + noun",
+    "es": "Call me o give me a call: verbo o give + sustantivo"
+  },
+  "see": [
+    "en-grammar-26",
+    "en-grammar-25"
+  ],
+  "pattern": [
+    {
+      "en": "Call me tomorrow.",
+      "ru": "Позвони мне завтра."
+    },
+    {
+      "en": "Give me a call tomorrow.",
+      "ru": "Набери меня завтра."
+    },
+    {
+      "en": "Let's have a look at the report.",
+      "ru": "Давай глянем отчёт."
+    },
+    {
+      "en": "I need to take a shower.",
+      "ru": "Мне надо сходить в душ."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Многие действия в английском можно сказать двумя способами: глаголом (call me, look at it) или конструкцией give / have / take + a + существительное (give me a call, have a look, take a break). Смысл тот же, но второй вариант мягче и разговорнее: call me — чёткая просьба, give me a call — «набери, как будет время». В деловом письме надёжнее простой глагол.",
+      "en": "Many actions can be said with a plain verb (call me, look at it) or with give / have / take + a + noun (give me a call, have a look, take a break). Same meaning, but the noun version sounds softer and more casual.",
+      "es": "Muchas acciones se dicen con un verbo (call me) o con give / have / take + sustantivo (give me a call): igual sentido, pero más suave y coloquial."
+    },
+    "formula": "глагол (call, look) — прямо · give / have / take + a + существительное — мягче, разговорнее",
+    "table": {
+      "head": [
+        "глагол",
+        "мягче, разговорнее",
+        "смысл"
+      ],
+      "rows": [
+        [
+          "call me",
+          "give me a call",
+          "позвони мне"
+        ],
+        [
+          "look at it",
+          "have a look at it",
+          "посмотри"
+        ],
+        [
+          "rest",
+          "take a rest / have a rest",
+          "отдохнуть"
+        ],
+        [
+          "try",
+          "have a try / give it a try",
+          "попробовать"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Could you give me ___ call later?",
+      "options": [
+        "a",
+        "the",
+        "—"
+      ],
+      "answer": "a",
+      "ru": "Можешь мне попозже набрать?"
+    },
+    {
+      "type": "choose",
+      "en": "Let's ___ a break for ten minutes.",
+      "options": [
+        "take",
+        "make",
+        "do"
+      ],
+      "answer": "take",
+      "ru": "Давай сделаем перерыв на десять минут."
+    },
+    {
+      "type": "choose",
+      "en": "Can I ___ a look at your screen?",
+      "options": [
+        "have",
+        "make",
+        "see"
+      ],
+      "answer": "have",
+      "ru": "Можно глянуть на твой экран?"
+    },
+    {
+      "type": "choose",
+      "en": "The app is new. Just give it ___ try!",
+      "options": [
+        "a",
+        "the",
+        "—"
+      ],
+      "answer": "a",
+      "ru": "Приложение новое. Просто попробуй!"
+    },
+    {
+      "type": "build",
+      "en": "Give me a call when you land.",
+      "ru": "Набери меня, когда приземлишься.",
+      "extra": [
+        "to"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Попросите друга позвонить вам — сначала прямо, потом мягко.",
+        "en": "Ask a friend to call you — first directly, then softly.",
+        "es": "Pide a un amigo que te llame: primero directo, luego suave."
+      },
+      "template": "Call me … / Give me a call …",
+      "sample": "Call me at six. Give me a call when you're free."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

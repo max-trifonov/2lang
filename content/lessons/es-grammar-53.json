@@ -1,0 +1,143 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-53",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-53",
+  "order": 53,
+  "level": "A2",
+  "title": {
+    "ru": "tener, hay или he: «есть» и «имею»",
+    "en": "tener, hay or he",
+    "es": "tener, hay o he"
+  },
+  "see": [
+    "es-grammar-06",
+    "es-grammar-16",
+    "es-grammar-27"
+  ],
+  "pattern": [
+    {
+      "es": "Tengo un coche.",
+      "ru": "У меня есть машина."
+    },
+    {
+      "es": "Hay un coche en la calle.",
+      "ru": "На улице стоит машина."
+    },
+    {
+      "es": "He comprado un coche.",
+      "ru": "Я купил машину."
+    },
+    {
+      "es": "Tengo que comprar un coche.",
+      "ru": "Мне нужно купить машину."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "tener — «иметь, у кого-то есть»: tengo dos hermanos, tengo hambre, tengo 30 años; tener que — «нужно». hay (от haber) — «есть, имеется где-то», без владельца: hay un banco aquí; hay que — «надо (всем)». haber как вспомогательный — только для перфекта: he comido, has visto. Нельзя: tengo comido.",
+      "en": "tener = have, own (tengo un coche, tengo hambre). hay = there is / are (hay un banco). haber + participle forms the perfect (he comido); never tengo comido.",
+      "es": "tener = posesión; hay = existencia; haber = auxiliar (he comido)."
+    },
+    "formula": "tener — иметь, у меня есть · hay — где-то есть, имеется · haber + причастие — he hecho",
+    "table": {
+      "head": [
+        "",
+        "смысл",
+        "пример"
+      ],
+      "rows": [
+        [
+          "tener",
+          "у меня есть",
+          "Tengo tiempo."
+        ],
+        [
+          "hay",
+          "где-то есть",
+          "Hay tiempo."
+        ],
+        [
+          "haber + -ado / -ido",
+          "сделал (перфект)",
+          "He tenido tiempo."
+        ],
+        [
+          "tener que / hay que",
+          "мне нужно / надо всем",
+          "Tengo que salir. Hay que salir."
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "¿___ un supermercado cerca?",
+      "options": [
+        "Hay",
+        "Tiene",
+        "Ha"
+      ],
+      "answer": "Hay",
+      "ru": "Рядом есть супермаркет?"
+    },
+    {
+      "type": "choose",
+      "es": "___ dos hijos y un perro.",
+      "options": [
+        "Tengo",
+        "Hay",
+        "He"
+      ],
+      "answer": "Tengo",
+      "ru": "У меня двое детей и собака."
+    },
+    {
+      "type": "choose",
+      "es": "Nunca ___ estado en Cuba.",
+      "options": [
+        "he",
+        "tengo",
+        "hay"
+      ],
+      "answer": "he",
+      "ru": "Я никогда не был на Кубе."
+    },
+    {
+      "type": "choose",
+      "es": "___ que reservar mesa antes.",
+      "options": [
+        "Hay",
+        "Tiene",
+        "Ha"
+      ],
+      "answer": "Hay",
+      "ru": "Столик надо бронировать заранее."
+    },
+    {
+      "type": "build",
+      "es": "En mi barrio hay tres parques.",
+      "ru": "В моём районе три парка.",
+      "extra": [
+        "tiene"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что у вас есть (tener), что есть в вашем районе (hay) и что вы уже сделали сегодня (he…).",
+        "en": "Write what you have, what there is in your area and what you've done today.",
+        "es": "Escribe qué tienes, qué hay en tu barrio y qué has hecho hoy."
+      },
+      "template": "Tengo … En mi barrio hay … Hoy he …",
+      "sample": "Tengo una bici. En mi barrio hay un mercado. Hoy he corrido."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "es-grammar-48",
+  "lang": "es",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "ES-48",
+  "order": 48,
+  "level": "A2",
+  "title": {
+    "ru": "salir, irse, dejar",
+    "en": "salir, irse or dejar",
+    "es": "salir, irse o dejar"
+  },
+  "see": [
+    "es-grammar-16",
+    "es-grammar-23"
+  ],
+  "pattern": [
+    {
+      "es": "Salgo de casa a las ocho.",
+      "ru": "Я выхожу из дома в восемь."
+    },
+    {
+      "es": "Me voy, ¡hasta mañana!",
+      "ru": "Я ухожу, до завтра!"
+    },
+    {
+      "es": "Dejé las llaves en la mesa.",
+      "ru": "Я оставил ключи на столе."
+    },
+    {
+      "es": "Dejé el trabajo el año pasado.",
+      "ru": "Я ушёл с работы в прошлом году."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "salir — выйти изнутри наружу или отправиться (о транспорте): salir del metro, el tren sale a las diez; ещё «встречаться, гулять»: salir con amigos. irse — уйти, уехать, акцент «прочь отсюда»: Me voy, Se fue a México. dejar — оставить что-то или кого-то и бросить занятие: dejar la maleta, dejar de fumar («бросить курить»). salir неправильный: salgo.",
+      "en": "salir = go out of a place, leave (trains); also go out with friends. irse = go away (Me voy). dejar = leave something behind, quit (dejar de fumar). salir: salgo.",
+      "es": "salir = pasar de dentro a fuera; irse = marcharse; dejar = abandonar algo, dejar de + infinitivo."
+    },
+    "formula": "salir (de) — выйти из места · irse — уйти, уехать (прочь) · dejar — оставить; бросить",
+    "table": {
+      "head": [
+        "",
+        "смысл",
+        "пример"
+      ],
+      "rows": [
+        [
+          "salir",
+          "выйти; отправиться",
+          "Salgo a las 7."
+        ],
+        [
+          "irse",
+          "уйти, уехать",
+          "Me voy a casa."
+        ],
+        [
+          "dejar",
+          "оставить; бросить",
+          "Dejo el coche aquí. Dejé de fumar."
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "es": "El tren ___ a las diez y media.",
+      "options": [
+        "sale",
+        "deja",
+        "se va"
+      ],
+      "answer": "sale",
+      "ru": "Поезд отправляется в десять тридцать."
+    },
+    {
+      "type": "choose",
+      "es": "Es tarde, ___ a casa.",
+      "options": [
+        "me voy",
+        "dejo"
+      ],
+      "answer": "me voy",
+      "ru": "Поздно, я пошёл домой."
+    },
+    {
+      "type": "choose",
+      "es": "¿Dónde ___ las llaves?",
+      "options": [
+        "dejaste",
+        "saliste"
+      ],
+      "answer": "dejaste",
+      "ru": "Где ты оставил ключи?"
+    },
+    {
+      "type": "choose",
+      "es": "Mi padre ___ de fumar hace diez años.",
+      "options": [
+        "dejó",
+        "salió"
+      ],
+      "answer": "dejó",
+      "ru": "Папа бросил курить десять лет назад."
+    },
+    {
+      "type": "build",
+      "es": "Los viernes salgo con mis amigos.",
+      "ru": "По пятницам я гуляю с друзьями.",
+      "extra": [
+        "dejo"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, во сколько вы выходите из дома, когда уходите с работы и что хотели бы бросить.",
+        "en": "Write when you leave home, when you leave work and what you'd like to quit.",
+        "es": "Escribe a qué hora sales de casa, cuándo te vas del trabajo y qué quieres dejar."
+      },
+      "template": "Salgo de casa a … Me voy del trabajo a … Quiero dejar de …",
+      "sample": "Salgo de casa a las ocho. Me voy del trabajo a las seis. Quiero dejar de comer dulces."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

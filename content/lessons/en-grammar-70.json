@@ -1,0 +1,132 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-70",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-70",
+  "order": 70,
+  "level": "B1",
+  "title": {
+    "ru": "rise или raise",
+    "en": "rise or raise",
+    "es": "rise o raise"
+  },
+  "see": [
+    "en-grammar-19"
+  ],
+  "pattern": [
+    {
+      "en": "The sun rises in the east.",
+      "ru": "Солнце встаёт на востоке."
+    },
+    {
+      "en": "Raise your hand if you have a question.",
+      "ru": "Поднимите руку, если есть вопрос."
+    },
+    {
+      "en": "Prices are rising.",
+      "ru": "Цены растут."
+    },
+    {
+      "en": "They raised the prices.",
+      "ru": "Они подняли цены."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "rise — подниматься самому, без дополнения: The sun rises, prices rise. Неправильный: rise — rose — risen. raise — поднимать что-то, нужно дополнение: raise your hand, raise prices, raise a question, raise children (растить детей). Правильный: raised. Существительное «прибавка к зарплате» — a raise (AmE) / a rise (BrE).",
+      "en": "rise = go up by itself, no object (prices rise; rise — rose — risen). raise = lift something, needs an object (raise your hand, raise prices; regular).",
+      "es": "rise = subir (solo); raise = subir / levantar algo (raise your hand)."
+    },
+    "formula": "rise — подниматься (само) · raise что-то — поднимать (кто-то поднимает)",
+    "table": {
+      "head": [
+        "",
+        "rise",
+        "raise"
+      ],
+      "rows": [
+        [
+          "дополнение",
+          "нет: что-то поднимается",
+          "есть: поднимаем что-то"
+        ],
+        [
+          "формы",
+          "rise — rose — risen",
+          "raise — raised — raised"
+        ],
+        [
+          "пример",
+          "Prices rose.",
+          "They raised prices."
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Please ___ your hand before you speak.",
+      "options": [
+        "raise",
+        "rise"
+      ],
+      "answer": "raise",
+      "ru": "Пожалуйста, поднимите руку, прежде чем говорить."
+    },
+    {
+      "type": "choose",
+      "en": "The temperature ___ to 35 degrees yesterday.",
+      "options": [
+        "rose",
+        "raised"
+      ],
+      "answer": "rose",
+      "ru": "Вчера температура поднялась до 35 градусов."
+    },
+    {
+      "type": "choose",
+      "en": "The company ___ salaries by five percent.",
+      "options": [
+        "raised",
+        "rose"
+      ],
+      "answer": "raised",
+      "ru": "Компания подняла зарплаты на пять процентов."
+    },
+    {
+      "type": "choose",
+      "en": "Bread prices keep ___.",
+      "options": [
+        "rising",
+        "raising"
+      ],
+      "answer": "rising",
+      "ru": "Цены на хлеб продолжают расти."
+    },
+    {
+      "type": "build",
+      "en": "They raised a lot of money for the school.",
+      "ru": "Они собрали много денег для школы.",
+      "extra": [
+        "rose"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что в вашем городе растёт (rise) и что вам хотелось бы поднять (raise).",
+        "en": "Write what is rising in your city and what you would like to raise.",
+        "es": "Escribe qué sube en tu ciudad (rise) y qué te gustaría subir (raise)."
+      },
+      "template": "… is rising. I'd like to raise …",
+      "sample": "Rent is rising. I'd like to raise my salary."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

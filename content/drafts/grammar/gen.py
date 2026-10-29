@@ -27,7 +27,7 @@ OUT = os.path.join(ROOT, 'lessons')
 sys.path.insert(0, HERE)
 import link  # noqa: E402
 
-SECTIONS = {'sentence', 'verbs', 'tenses', 'modals', 'nouns', 'adjectives', 'pronouns'}
+SECTIONS = {'sentence', 'verbs', 'tenses', 'modals', 'nouns', 'adjectives', 'pronouns', 'contrasts'}
 FORMS = {'negative', 'question', 'wh-question', 'imperative', 'polite', 'past', 'future'}
 POINTS = {'past', 'now', 'future'}
 OTHER = {'en': 'es', 'es': 'en'}

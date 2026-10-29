@@ -1,0 +1,134 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-65",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-65",
+  "order": 65,
+  "level": "A2",
+  "title": {
+    "ru": "job или work",
+    "en": "job or work",
+    "es": "job o work"
+  },
+  "see": [
+    "en-grammar-04",
+    "en-grammar-28"
+  ],
+  "pattern": [
+    {
+      "en": "I have a new job.",
+      "ru": "У меня новая работа."
+    },
+    {
+      "en": "I have a lot of work today.",
+      "ru": "У меня сегодня много работы."
+    },
+    {
+      "en": "I go to work by bus.",
+      "ru": "Я езжу на работу на автобусе."
+    },
+    {
+      "en": "Good job!",
+      "ru": "Отлично сделано!"
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "job — исчисляемое: a job, two jobs — конкретная должность или задание: I'm looking for a job, a part-time job. work — неисчисляемое (без a): деятельность, нагрузка или место: a lot of work, at work, go to work, after work. Нельзя: a work → a job. Похвала — Good job! или Well done!",
+      "en": "job = countable, a position or task (a new job). work = uncountable activity or place (a lot of work, at work). Never a work.",
+      "es": "job = empleo, puesto (contable); work = trabajo como actividad o lugar (incontable)."
+    },
+    "formula": "job — должность, конкретная работа (a job) · work — работа как занятие, неисчисляемое; место работы",
+    "table": {
+      "head": [
+        "",
+        "job",
+        "work"
+      ],
+      "rows": [
+        [
+          "считается",
+          "a job, two jobs",
+          "work (без a)"
+        ],
+        [
+          "смысл",
+          "должность, задание",
+          "занятие, нагрузка, место"
+        ],
+        [
+          "пример",
+          "find a job",
+          "go to work, at work"
+        ]
+      ]
+    }
+  },
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "She got a ___ at a bank.",
+      "options": [
+        "job",
+        "work"
+      ],
+      "answer": "job",
+      "ru": "Она устроилась на работу в банк."
+    },
+    {
+      "type": "choose",
+      "en": "I can't talk, I'm at ___.",
+      "options": [
+        "work",
+        "job"
+      ],
+      "answer": "work",
+      "ru": "Не могу говорить, я на работе."
+    },
+    {
+      "type": "choose",
+      "en": "We have too much ___ this week.",
+      "options": [
+        "work",
+        "job",
+        "jobs"
+      ],
+      "answer": "work",
+      "ru": "На этой неделе у нас слишком много работы."
+    },
+    {
+      "type": "choose",
+      "en": "You did a great ___!",
+      "options": [
+        "job",
+        "work"
+      ],
+      "answer": "job",
+      "ru": "Ты отлично справился!"
+    },
+    {
+      "type": "build",
+      "en": "I usually go to work by bike.",
+      "ru": "Я обычно езжу на работу на велосипеде.",
+      "extra": [
+        "job"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, кем вы работаете (job) и что делаете после работы (after work).",
+        "en": "Write what your job is and what you do after work.",
+        "es": "Escribe cuál es tu trabajo (job) y qué haces después del trabajo (after work)."
+      },
+      "template": "My job is … After work I …",
+      "sample": "My job is very interesting. After work I play tennis."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "format": "2lang/lesson",
+  "version": 1,
+  "id": "en-grammar-46",
+  "lang": "en",
+  "kind": "grammar",
+  "section": "contrasts",
+  "code": "EN-46",
+  "order": 46,
+  "level": "A2",
+  "title": {
+    "ru": "bring или take",
+    "en": "bring or take",
+    "es": "bring o take"
+  },
+  "see": [
+    "en-grammar-47",
+    "en-grammar-45"
+  ],
+  "pattern": [
+    {
+      "en": "Bring your passport tomorrow.",
+      "ru": "Принеси завтра паспорт."
+    },
+    {
+      "en": "Take an umbrella, it's raining.",
+      "ru": "Возьми зонт, идёт дождь."
+    },
+    {
+      "en": "Can you bring me some water?",
+      "ru": "Можешь принести мне воды?"
+    },
+    {
+      "en": "I'll take the kids to school.",
+      "ru": "Я отвезу детей в школу."
+    }
+  ],
+  "rule": {
+    "text": {
+      "ru": "Всё решает направление. bring — несёшь туда, где говорящий (сюда): Bring it here, bring me a coffee. take — уносишь туда, где говорящего нет (туда): Take it with you, take the kids to school. По-русски оба часто «взять» или «принести», поэтому думайте: к нам или от нас? Пара come / go устроена так же.",
+      "en": "Direction decides: bring = towards the speaker (here); take = away from the speaker (there). The same logic as come / go.",
+      "es": "bring = traer (hacia aquí); take = llevar (hacia allá). Como come / go."
+    },
+    "formula": "bring — сюда, к говорящему · take — туда, от говорящего",
+    "table": {
+      "head": [
+        "",
+        "bring",
+        "take"
+      ],
+      "rows": [
+        [
+          "куда",
+          "сюда, ко мне",
+          "туда, от меня"
+        ],
+        [
+          "пример",
+          "Bring it here.",
+          "Take it there."
+        ],
+        [
+          "пара",
+          "come",
+          "go"
+        ]
+      ]
+    }
+  },
+  "bridge": [
+    {
+      "lang": "es",
+      "lesson": "es-grammar-39",
+      "formula": "traer / llevar",
+      "examples": [
+        {
+          "es": "Trae el pasaporte. Lleva un paraguas.",
+          "ru": "Принеси паспорт. Возьми зонт."
+        }
+      ],
+      "note": {
+        "ru": "traer = bring (сюда), llevar = take (туда)"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "en": "Don't forget to ___ your keys when you leave.",
+      "options": [
+        "take",
+        "bring"
+      ],
+      "answer": "take",
+      "ru": "Не забудь взять ключи, когда будешь уходить."
+    },
+    {
+      "type": "choose",
+      "en": "Can you ___ me the menu, please?",
+      "options": [
+        "bring",
+        "take"
+      ],
+      "answer": "bring",
+      "ru": "Принесёте мне меню, пожалуйста?"
+    },
+    {
+      "type": "choose",
+      "en": "I'll ___ you to the airport.",
+      "options": [
+        "take",
+        "bring"
+      ],
+      "answer": "take",
+      "ru": "Я отвезу тебя в аэропорт."
+    },
+    {
+      "type": "choose",
+      "en": "Come to the party and ___ your friends!",
+      "options": [
+        "bring",
+        "take"
+      ],
+      "answer": "bring",
+      "ru": "Приходи на вечеринку и приводи друзей!"
+    },
+    {
+      "type": "build",
+      "en": "Please bring your laptop to the meeting.",
+      "ru": "Пожалуйста, принесите на встречу ноутбук.",
+      "extra": [
+        "take"
+      ]
+    },
+    {
+      "type": "compose",
+      "prompt": {
+        "ru": "Напишите, что гости должны принести к вам и что вы возьмёте в поездку.",
+        "en": "Write what guests should bring to you and what you will take on a trip.",
+        "es": "Escribe qué deben traer tus invitados y qué llevarás de viaje."
+      },
+      "template": "Please bring … I'll take …",
+      "sample": "Please bring some music. I'll take my camera."
+    }
+  ],
+  "ext": {
+    "draft": true
+  }
+}

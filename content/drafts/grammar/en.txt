@@ -860,3 +860,658 @@ choose: I ___ her since school. | have been knowing, have known | have known | �
 fill: How long have you been ___ here? (live) | living | Сколько ты уже здесь живёшь?
 build: She has been learning Spanish for two years. | Она учит испанский уже два года. | since
 compose: Напишите, что вы делаете уже давно и как долго. | Write what you have been doing for a long time and how long. | Escribe qué llevas haciendo mucho tiempo y desde cuándo. || I've been … for … || I've been learning English for three years.
+
+# ── Похоже, но не одно и то же (D-46): пары-ловушки, раздел contrasts ──
+
+=== 39 A2 contrasts
+title: Call me или give me a call: глагол или «дать + существительное» | Call me or give me a call: verb or give + noun | Call me o give me a call: verbo o give + sustantivo
+see: 26 25
+p: Call me tomorrow. | Позвони мне завтра.
+p: Give me a call tomorrow. | Набери меня завтра.
+p: Let's have a look at the report. | Давай глянем отчёт.
+p: I need to take a shower. | Мне надо сходить в душ.
+formula: глагол (call, look) — прямо · give / have / take + a + существительное — мягче, разговорнее
+rule: Многие действия в английском можно сказать двумя способами: глаголом (call me, look at it) или конструкцией give / have / take + a + существительное (give me a call, have a look, take a break). Смысл тот же, но второй вариант мягче и разговорнее: call me — чёткая просьба, give me a call — «набери, как будет время». В деловом письме надёжнее простой глагол. | Many actions can be said with a plain verb (call me, look at it) or with give / have / take + a + noun (give me a call, have a look, take a break). Same meaning, but the noun version sounds softer and more casual. | Muchas acciones se dicen con un verbo (call me) o con give / have / take + sustantivo (give me a call): igual sentido, pero más suave y coloquial.
+table: глагол | мягче, разговорнее | смысл
+row: call me | give me a call | позвони мне
+row: look at it | have a look at it | посмотри
+row: rest | take a rest / have a rest | отдохнуть
+row: try | have a try / give it a try | попробовать
+choose: Could you give me ___ call later? | a, the, — | a | Можешь мне попозже набрать?
+choose: Let's ___ a break for ten minutes. | take, make, do | take | Давай сделаем перерыв на десять минут.
+choose: Can I ___ a look at your screen? | have, make, see | have | Можно глянуть на твой экран?
+choose: The app is new. Just give it ___ try! | a, the, — | a | Приложение новое. Просто попробуй!
+build: Give me a call when you land. | Набери меня, когда приземлишься. | to
+compose: Попросите друга позвонить вам — сначала прямо, потом мягко. | Ask a friend to call you — first directly, then softly. | Pide a un amigo que te llame: primero directo, luego suave. || Call me … / Give me a call … || Call me at six. Give me a call when you're free.
+
+=== 40 A2 contrasts
+title: make или do | make or do | make o do
+see: 39 7
+p: I made a mistake in the code. | Я сделал ошибку в коде.
+p: Can you do the dishes? | Можешь помыть посуду?
+p: She makes coffee every morning. | Она варит кофе каждое утро.
+p: I do yoga on Sundays. | По воскресеньям я занимаюсь йогой.
+formula: make — создать, получить результат · do — выполнить действие, работу
+rule: make — когда что-то появляется в результате: make coffee, make a mistake, make a decision, make money, make noise, make friends. do — когда выполняешь работу, обязанность, занятие: do homework, do the shopping, do sport, do your best, do business. Подсказка: make — «изготовить, создать», do — «заниматься». Вопрос «что ты делаешь?» — всегда do: What are you doing? | make = create or produce a result (make coffee, a mistake, a decision, money, noise). do = perform work, duties, activities (do homework, the shopping, sport, your best). What are you doing? always uses do. | make = crear, producir (make coffee, a mistake). do = realizar una tarea (do homework, sport).
+table: make | do
+row: a mistake, a decision, a plan | homework, the dishes, the shopping
+row: coffee, dinner, a cake | sport, yoga, exercise
+row: money, friends, noise | business, a favour, your best
+choose: Don't worry, everybody ___ mistakes. | makes, does | makes | Не переживай, все ошибаются.
+choose: I have to ___ my homework tonight. | do, make | do | Мне надо сделать домашку вечером.
+choose: We need to ___ a decision today. | make, do | make | Нам нужно принять решение сегодня.
+choose: Could you ___ me a favour? | do, make | do | Можешь сделать мне одолжение?
+choose: Stop ___ so much noise! | making, doing | making | Хватит так шуметь!
+build: I made a plan for the weekend. | Я составил план на выходные. | did
+compose: Напишите, что вы делаете по дому (do) и что готовите или создаёте (make). | Write what you do at home (do) and what you make (make). | Escribe qué tareas haces (do) y qué preparas (make). || I do … I make … || I do the shopping on Saturdays. I make pancakes on Sundays.
+
+=== 41 A2 contrasts
+title: say или tell | say or tell | say o tell
+see: 40 42 12
+p: He said that he was tired. | Он сказал, что устал.
+p: He told me that he was tired. | Он сказал мне, что устал.
+p: Can you tell me the time? | Подскажете, который час?
+p: She said hello and left. | Она поздоровалась и ушла.
+formula: say + что · tell + кому + что
+rule: tell почти всегда требует адресата — кому сказали: tell me, tell her, tell the team. say — без адресата, важны сами слова: say hello, say yes, say that… Если всё-таки нужен адресат с say — через to: She said to me… Устойчивые: tell a story, tell a joke, tell the truth, tell a lie, tell the time — всегда tell. | tell needs a person: tell me, tell the team. say focuses on the words: say hello, say that… (with a person: say to me). Fixed: tell a story, a joke, the truth, a lie. | tell + persona (tell me); say + palabras (say hello). Fijas: tell a story, the truth, a lie.
+table: | say | tell
+row: без адресата | He said (that) it was late. | —
+row: с адресатом | He said to me… | He told me (that)…
+row: устойчивые | hello, yes, no, sorry | a story, a joke, the truth, a lie
+choose: She ___ me about her new job. | told, said | told | Она рассказала мне о новой работе.
+choose: What did he ___? | say, tell | say | Что он сказал?
+choose: Please ___ the truth. | tell, say | tell | Пожалуйста, скажи правду.
+choose: I ___ goodbye and went home. | said, told | said | Я попрощался и пошёл домой.
+choose: Can you ___ us a joke? | tell, say | tell | Расскажешь нам анекдот?
+build: Tell me what you think. | Скажи мне, что ты думаешь. | say
+compose: Перескажите, что вам сказал коллега: с say и с tell. | Report what a colleague said: once with say, once with tell. | Cuenta qué te dijo un colega: con say y con tell. || He said … He told me … || He said the build was ready. He told me to check it.
+
+=== 42 A2 contrasts
+title: speak или talk | speak or talk | speak o talk
+see: 41
+p: Do you speak Spanish? | Ты говоришь по-испански?
+p: We talked for hours. | Мы проговорили несколько часов.
+p: Can I speak to the manager? | Могу я поговорить с менеджером?
+p: Let's talk about it tomorrow. | Давай обсудим это завтра.
+formula: speak — языки, официально, один говорит · talk — беседа, разговор двоих
+rule: speak — про языки (speak English), официальную речь и вежливые просьбы (May I speak to…?, speak at a conference). talk — про обычную беседу, разговор между людьми: talk to a friend, talk about the weekend. Языки — только speak: не talk English. В разговоре оба часто взаимозаменяемы: speak / talk to someone. | speak: languages, formal speech, polite requests (May I speak to…?). talk: conversation between people (talk to a friend, talk about…). Languages always take speak. | speak: idiomas, formal; talk: conversación. Idiomas — siempre speak.
+table: speak | talk
+row: English, two languages | to a friend, with your boss
+row: at a conference, in public | about the weather, about plans
+row: May I speak to Mr Lee? | We need to talk.
+choose: How many languages do you ___? | speak, talk | speak | Сколько языков ты знаешь?
+choose: We need to ___ about the budget. | talk, speak | talk | Нам надо поговорить о бюджете.
+choose: She ___ at the conference last year. | spoke, talked | spoke | Она выступала на конференции в прошлом году.
+choose: Stop ___ and listen! | talking, speaking | talking | Хватит болтать, слушайте!
+build: Can I speak to the manager, please? | Могу я поговорить с менеджером? | talk
+compose: Напишите, какие языки вы знаете (speak) и о чём любите говорить с друзьями (talk). | Write which languages you speak and what you like to talk about with friends. | Escribe qué idiomas hablas (speak) y de qué hablas con amigos (talk). || I speak … I like to talk about … || I speak Russian and English. I like to talk about films.
+
+=== 43 A1 contrasts
+title: hear или listen | hear or listen | hear o listen
+see: 44
+p: I can hear music. | Я слышу музыку.
+p: I listen to music on the train. | Я слушаю музыку в поезде.
+p: Listen! Someone is at the door. | Послушай! Кто-то у двери.
+p: Sorry, I didn't hear you. | Извини, я тебя не расслышал.
+formula: hear — слышать (само) · listen to — слушать (специально)
+rule: hear — звук доходит сам, без усилия: I hear a noise. listen — слушаешь намеренно, с вниманием; перед тем, кого или что слушаешь, — to: listen to music, listen to me. Без дополнения to не нужен: Listen! hear обычно не ставят в -ing и часто говорят с can: I can hear you. | hear = sound reaches you without effort (I hear a noise). listen = pay attention on purpose; listen to + object (listen to music). hear is usually not used in -ing; say I can hear you. | hear = oír (sin esfuerzo); listen to = escuchar (con atención).
+table: | hear | listen
+row: смысл | слышать, само доходит | слушать, с вниманием
+row: дополнение | hear a noise | listen to music
+row: сейчас | I can hear you. | I'm listening to you.
+bridge: 45 | oír / escuchar | Oigo un ruido. Escucho música. | Слышу шум. Слушаю музыку. | та же пара: oír = hear, escuchar = listen
+choose: I'm ___ to a podcast. | listening, hearing | listening | Я слушаю подкаст.
+choose: Did you ___ that noise? | hear, listen | hear | Ты слышал этот шум?
+choose: Please listen ___ me. | to, — , at | to | Пожалуйста, послушай меня.
+choose: Speak louder, I can't ___ you. | hear, listen | hear | Говори громче, я тебя не слышу.
+build: I listen to the news every morning. | Каждое утро я слушаю новости. | hear
+compose: Напишите, что вы слушаете по утрам и что слышите из окна. | Write what you listen to in the morning and what you hear from your window. | Escribe qué escuchas por la mañana y qué oyes desde la ventana. || I listen to … I can hear … || I listen to the radio. I can hear birds.
+
+=== 44 A1 contrasts
+title: see, look, watch | see, look or watch | see, look o watch
+see: 43
+p: I can see the sea from here. | Отсюда видно море.
+p: Look at this photo! | Посмотри на это фото!
+p: We watched a film last night. | Вчера вечером мы смотрели фильм.
+p: Watch the kids, please. | Присмотри за детьми, пожалуйста.
+formula: see — видеть · look at — посмотреть на · watch — смотреть, следить (что-то движется)
+rule: see — видишь само, без усилия: I see a car. look — направляешь взгляд, на что-то — look at: look at the screen. watch — смотришь долго на то, что движется и меняется: watch TV, watch a match, watch the kids. Фильм в кино часто see: I saw a great film. Встретиться с человеком — тоже see: See you tomorrow! | see = notice with your eyes; look at = direct your eyes; watch = look for some time at something that moves (TV, a match). Films at the cinema: see a film. Meet people: see you! | see = ver; look at = mirar; watch = mirar algo en movimiento (TV, un partido).
+table: | see | look | watch
+row: смысл | видеть | посмотреть на | смотреть, следить
+row: пример | I see the bus. | Look at the bus! | Watch the match.
+row: с чем | всё, что видно | at + что | ТВ, спорт, дети
+bridge: 46 | ver / mirar | Veo el mar. Mira esta foto. | Вижу море. Посмотри на это фото. | ver = see, mirar = look (at) и часто watch
+choose: Do you want to ___ a film tonight? | watch, look, see | watch | Хочешь посмотреть фильм вечером?
+choose: ___ at that bird! | Look, See, Watch | Look | Посмотри на ту птицу!
+choose: I can't ___ anything, it's too dark. | see, look, watch | see | Ничего не вижу, слишком темно.
+choose: Can you ___ my bag for a minute? | watch, see, look | watch | Присмотришь за моей сумкой минутку?
+build: We watched the match at a bar. | Мы смотрели матч в баре. | looked
+compose: Напишите, что вы видите из окна и что любите смотреть. | Write what you can see from your window and what you like to watch. | Escribe qué ves por la ventana y qué te gusta mirar. || I can see … I like watching … || I can see a park. I like watching football.
+
+=== 45 A2 contrasts
+title: borrow или lend | borrow or lend | borrow o lend
+see: 46 15
+p: Can I borrow your pen? | Можно взять твою ручку?
+p: Can you lend me your pen? | Можешь одолжить мне ручку?
+p: I borrowed money from my brother. | Я занял деньги у брата.
+p: He lent me his car. | Он одолжил мне свою машину.
+formula: borrow (from) — брать на время · lend (to) — давать на время
+rule: Направление действия: borrow — я беру у кого-то (borrow from), lend — я даю кому-то (lend to / lend me). По-русски оба «одолжить», поэтому их путают. Can I borrow…? — «можно я возьму»; Can you lend me…? — «дай мне». Формы: lend — lent — lent. | borrow = take for a while (from someone); lend = give for a while (to someone). Can I borrow…? / Can you lend me…? lend — lent — lent. | borrow = pedir prestado (tomar); lend = prestar (dar). lend — lent — lent.
+table: | borrow | lend
+row: кто действует | я беру | я даю
+row: предлог | from someone | to someone / someone
+row: вопрос | Can I borrow your car? | Can you lend me your car?
+choose: Can I ___ your charger? | borrow, lend | borrow | Можно взять твою зарядку?
+choose: Could you ___ me ten euros? | lend, borrow | lend | Можешь одолжить мне десять евро?
+choose: I borrowed this book ___ the library. | from, to | from | Я взял эту книгу в библиотеке.
+choose: She ___ me her umbrella yesterday. | lent, borrowed | lent | Вчера она дала мне свой зонт.
+build: Can you lend me your bike? | Можешь одолжить мне велосипед? | borrow
+compose: Попросите у друга вещь двумя способами: borrow и lend. | Ask a friend for something in two ways: borrow and lend. | Pide algo a un amigo de dos maneras: borrow y lend. || Can I borrow …? Can you lend me …? || Can I borrow your laptop? Can you lend me your laptop?
+
+=== 46 A2 contrasts
+title: bring или take | bring or take | bring o take
+see: 47 45
+p: Bring your passport tomorrow. | Принеси завтра паспорт.
+p: Take an umbrella, it's raining. | Возьми зонт, идёт дождь.
+p: Can you bring me some water? | Можешь принести мне воды?
+p: I'll take the kids to school. | Я отвезу детей в школу.
+formula: bring — сюда, к говорящему · take — туда, от говорящего
+rule: Всё решает направление. bring — несёшь туда, где говорящий (сюда): Bring it here, bring me a coffee. take — уносишь туда, где говорящего нет (туда): Take it with you, take the kids to school. По-русски оба часто «взять» или «принести», поэтому думайте: к нам или от нас? Пара come / go устроена так же. | Direction decides: bring = towards the speaker (here); take = away from the speaker (there). The same logic as come / go. | bring = traer (hacia aquí); take = llevar (hacia allá). Como come / go.
+table: | bring | take
+row: куда | сюда, ко мне | туда, от меня
+row: пример | Bring it here. | Take it there.
+row: пара | come | go
+bridge: 39 | traer / llevar | Trae el pasaporte. Lleva un paraguas. | Принеси паспорт. Возьми зонт. | traer = bring (сюда), llevar = take (туда)
+choose: Don't forget to ___ your keys when you leave. | take, bring | take | Не забудь взять ключи, когда будешь уходить.
+choose: Can you ___ me the menu, please? | bring, take | bring | Принесёте мне меню, пожалуйста?
+choose: I'll ___ you to the airport. | take, bring | take | Я отвезу тебя в аэропорт.
+choose: Come to the party and ___ your friends! | bring, take | bring | Приходи на вечеринку и приводи друзей!
+build: Please bring your laptop to the meeting. | Пожалуйста, принесите на встречу ноутбук. | take
+compose: Напишите, что гости должны принести к вам и что вы возьмёте в поездку. | Write what guests should bring to you and what you will take on a trip. | Escribe qué deben traer tus invitados y qué llevarás de viaje. || Please bring … I'll take … || Please bring some music. I'll take my camera.
+
+=== 47 A2 contrasts
+title: come или go | come or go | come o go
+see: 46 22
+p: Come here! | Иди сюда!
+p: I'm going home. | Я иду домой.
+p: Are you coming to the party? | Ты придёшь на вечеринку?
+p: Let's go to the beach. | Пойдём на пляж.
+formula: come — сюда, к говорящему или слушающему · go — туда, в другое место
+rule: come — движение к тому месту, где говорящий или собеседник: Come here, I'm coming! (иду к тебе). go — движение в другое место: go home, go to work. Поэтому на зов «Иди сюда!» отвечают I'm coming, а не I'm going. Are you coming with us? — «пойдёшь с нами?» (туда, где будем мы). | come = towards the speaker or listener (Come here! I'm coming!). go = to another place (go home). Answer a call with I'm coming. | come = venir (hacia aquí, hacia ti); go = ir (a otro lugar). I'm coming! = ¡Ya voy!
+table: | come | go
+row: куда | к говорящему или к тебе | в другое место
+row: пример | Come to my place! | Go to bed!
+row: ответ на зов | I'm coming! | —
+bridge: 40 | venir / ir | Ven aquí. Voy a casa. | Иди сюда. Я иду домой. | на зов по-испански ¡Ya voy! — как раз ir, а не venir
+choose: Dinner is ready! — OK, I'm ___! | coming, going | coming | Ужин готов! — Иду!
+choose: I ___ to the gym three times a week. | go, come | go | Я хожу в спортзал три раза в неделю.
+choose: Can you ___ to my office for a minute? | come, go | come | Можешь зайти ко мне в кабинет на минутку?
+choose: It's late. Let's ___ home. | go, come | go | Поздно. Пойдём домой.
+build: Are you coming to the party on Friday? | Ты придёшь на вечеринку в пятницу? | going
+compose: Пригласите друга к себе (come) и скажите, куда вы пойдёте потом (go). | Invite a friend to your place (come) and say where you'll go after (go). | Invita a un amigo (come) y di adónde iréis después (go). || Come to … Then we'll go … || Come to my place at seven. Then we'll go to the cinema.
+
+=== 48 B1 contrasts
+title: used to или be used to | used to or be used to | used to o be used to
+see: 19 36
+p: I used to smoke. | Раньше я курил (теперь нет).
+p: I'm used to working at night. | Я привык работать по ночам.
+p: She's getting used to the new job. | Она привыкает к новой работе.
+p: Did you use to play football? | Ты раньше играл в футбол?
+formula: used to + глагол — раньше было · be / get used to + -ing — привык / привыкаю
+rule: used to + глагол — привычка или состояние в прошлом, которых больше нет: I used to live in Moscow. Вопрос и отрицание — без d: Did you use to…? I didn't use to… be used to + -ing или существительное — «привык, мне это привычно»: I'm used to the cold. get used to — «привыкаю, привыкнуть»: You'll get used to it. Одно be меняет смысл. | used to + verb = past habit, not now (I used to live there; Did you use to…?). be used to + -ing / noun = accustomed (I'm used to the cold). get used to = become accustomed. | used to + verbo = antes (ya no); be used to + -ing = estar acostumbrado; get used to = acostumbrarse.
+table: | значение | пример
+row: used to + V | раньше, теперь нет | I used to smoke.
+row: be used to + -ing | привык | I'm used to getting up early.
+row: get used to + -ing | привыкаю | I'm getting used to it.
+choose: I ___ to live in Moscow, but now I live in Madrid. | used, am used | used | Раньше я жил в Москве, а теперь в Мадриде.
+choose: I'm used to ___ up early. | getting, get | getting | Я привык рано вставать.
+choose: Don't worry, you'll get used ___ it. | to, — | to | Не переживай, привыкнешь.
+choose: Did you ___ to have long hair? | use, used | use | У тебя раньше были длинные волосы?
+build: I used to play the guitar at school. | В школе я играл на гитаре. | use
+compose: Напишите, что вы делали раньше и к чему привыкли сейчас. | Write what you used to do and what you are used to now. | Escribe qué hacías antes y a qué estás acostumbrado ahora. || I used to … Now I'm used to … || I used to sleep late. Now I'm used to getting up at seven.
+
+=== 49 A2 contrasts
+title: few / a few, little / a little | few or a few, little or a little | few o a few, little o a little
+see: 28
+p: I have a few friends here. | У меня здесь есть несколько друзей.
+p: I have few friends here. | У меня здесь мало друзей.
+p: There's a little milk left. | Осталось немного молока.
+p: There's little time. | Времени мало.
+formula: a few / a little — немного, хватает (+) · few / little — мало, почти нет (−)
+rule: Артикль a меняет настроение. a few / a little — «немного, но есть» (хорошо): a few friends, a little money. few / little без a — «мало, почти нет» (плохо): few people came. few, a few — с исчисляемыми (friends, days), little, a little — с неисчисляемыми (time, money, milk). В разговоре вместо few / little чаще not many / not much. | a few / a little = some, enough (positive). few / little = almost none (negative). few with countables, little with uncountables. Spoken English prefers not many / not much. | a few / a little = unos pocos, un poco (positivo); few / little = pocos, poco (negativo).
+table: | исчисляемые | неисчисляемые
+row: есть немного (+) | a few days | a little time
+row: почти нет (−) | few days | little time
+row: в разговоре | not many days | not much time
+choose: I speak ___ Spanish, enough for a café. | a little, little, a few | a little | Я немного говорю по-испански — на кафе хватает.
+choose: Only ___ people came, so we cancelled the talk. | few, a few | few | Пришло мало людей, и мы отменили доклад.
+choose: Wait ___ minutes, please. | a few, a little | a few | Подождите несколько минут, пожалуйста.
+choose: Hurry up, we have very ___ time. | little, few | little | Поторопись, у нас очень мало времени.
+build: I have a few questions about the plan. | У меня есть несколько вопросов по плану. | little
+compose: Напишите, чего у вас немного (a few / a little) и чего мало (few / little). | Write what you have a little of and what you have little of. | Escribe de qué tienes un poco y de qué tienes poco. || I have a few … I have little … || I have a few good friends. I have little free time.
+
+=== 50 A1 contrasts
+title: good или well | good or well | good o well
+see: 11 16
+p: She is a good singer. | Она хорошая певица.
+p: She sings well. | Она хорошо поёт.
+p: The food smells good. | Еда хорошо пахнет.
+p: I'm well, thanks. | Я хорошо себя чувствую, спасибо.
+formula: good — какой (прилагательное) · well — как (наречие)
+rule: good — прилагательное: описывает человека или вещь (a good job, the film is good). well — наречие: описывает, как выполняется действие (you work well, she speaks English well). После глаголов чувств и состояния — look, smell, taste, sound, feel — ставят good: It looks good. Но про здоровье — well: I'm well, I don't feel well. | good is an adjective (a good job); well is an adverb (you work well). After look, smell, taste, sound, feel — good (it tastes good). For health — well (I'm well). | good = bueno (adjetivo); well = bien (adverbio). Salud: I'm well.
+table: | good | well
+row: что описывает | человека, вещь | действие
+row: пример | a good driver | He drives well.
+row: после look, taste… | It looks good. | —
+bridge: 43 | bueno / bien | Es un buen conductor. Conduce bien. | Он хороший водитель. Он хорошо водит. | та же пара: bueno = good, bien = well
+choose: You did a ___ job! | good, well | good | Ты отлично поработал!
+choose: He plays the piano very ___. | well, good | well | Он очень хорошо играет на пианино.
+choose: This soup tastes ___. | good, well | good | Этот суп вкусный.
+choose: I didn't sleep ___ last night. | well, good | well | Я плохо спал этой ночью.
+build: My sister speaks English very well. | Моя сестра очень хорошо говорит по-английски. | good
+compose: Напишите, что у вас хорошее (good) и что вы хорошо делаете (well). | Write something good you have and something you do well. | Escribe algo bueno que tienes y algo que haces bien. || I have a good … I … well. || I have a good bike. I cook well.
+
+=== 51 A2 contrasts
+title: remember или remind | remember or remind | remember o remind
+see: 36
+p: I remember your name. | Я помню твоё имя.
+p: Remind me to call Ana. | Напомни мне позвонить Ане.
+p: This song reminds me of summer. | Эта песня напоминает мне о лете.
+p: Remember to lock the door. | Не забудь запереть дверь.
+formula: remember — помнить, вспомнить (сам) · remind кого-то — напомнить (другому)
+rule: remember — помнишь или вспоминаешь сам: I remember. Remember to… — «не забудь сделать». remind — заставляешь вспомнить кого-то другого, после него всегда человек: remind me, remind the team. remind someone to do — напомнить сделать; remind someone of — напоминать о чём-то или быть похожим: You remind me of my brother. | remember = you keep something in mind yourself (Remember to…). remind = make someone else remember: remind me to…, remind me of… | remember = recordar (uno mismo); remind = recordarle algo a alguien.
+table: | remember | remind
+row: кто вспоминает | я сам | другой, кому напоминают
+row: сделать | Remember to call. | Remind me to call.
+row: о чём | I remember that day. | It reminds me of that day.
+choose: Can you ___ me about the meeting tomorrow? | remind, remember | remind | Напомнишь мне завтра о встрече?
+choose: I don't ___ his phone number. | remember, remind | remember | Я не помню его номер телефона.
+choose: This place reminds me ___ my childhood. | of, about, to | of | Это место напоминает мне о детстве.
+choose: ___ to buy milk on the way home! | Remember, Remind | Remember | Не забудь купить молоко по дороге домой!
+build: Please remind me to send the report. | Пожалуйста, напомни мне отправить отчёт. | remember
+compose: Попросите коллегу напомнить вам о деле и напишите, что вы помните о прошлом лете. | Ask a colleague to remind you about a task, and write what you remember about last summer. | Pide a un colega que te recuerde algo y escribe qué recuerdas del verano pasado. || Remind me to … I remember … || Remind me to book the tickets. I remember the sea and the sun.
+
+=== 52 A2 contrasts
+title: bored или boring: -ed и -ing | bored or boring: -ed and -ing adjectives | bored o boring: adjetivos en -ed y -ing
+see: 11
+p: I'm bored. | Мне скучно.
+p: The film is boring. | Фильм скучный.
+p: She was surprised by the news. | Её удивила новость.
+p: The news was surprising. | Новость была удивительной.
+formula: -ed — что я чувствую · -ing — какое оно (что вызывает чувство)
+rule: -ed описывает, что чувствует человек: I'm bored, tired, interested, excited. -ing описывает то, что вызывает чувство: The film is boring, the trip was tiring, the book is interesting. Ошибка I'm boring значит «я скучный человек». Пары: bored / boring, tired / tiring, interested / interesting, excited / exciting, confused / confusing, surprised / surprising. | -ed = how a person feels (I'm bored). -ing = the thing that causes the feeling (The film is boring). I'm boring means “I am a boring person”. | -ed = cómo me siento (bored = aburrido / me aburro); -ing = cómo es la cosa (boring = aburrido).
+table: я чувствую (-ed) | оно такое (-ing)
+row: I'm bored. | The lesson is boring.
+row: I'm tired. | The trip was tiring.
+row: I'm interested in art. | Art is interesting.
+choose: The meeting was so ___ that I fell asleep. | boring, bored | boring | Совещание было таким скучным, что я уснул.
+choose: Are you ___ in history? | interested, interesting | interested | Тебе интересна история?
+choose: The kids are ___ about the holiday. | excited, exciting | excited | Дети в восторге от поездки.
+choose: These instructions are really ___. | confusing, confused | confusing | Эти инструкции очень запутанные.
+build: I was very tired after the long flight. | После долгого перелёта я очень устал. | tiring
+compose: Напишите, что вам скучно или интересно и почему (-ed / -ing). | Write what bores or interests you and why (-ed / -ing). | Escribe qué te aburre o interesa y por qué (-ed / -ing). || I'm bored when … … is interesting. || I'm bored when it rains. Cooking is interesting.
+
+=== 53 A2 contrasts
+title: fun или funny | fun or funny | fun o funny
+see: 52
+p: The party was fun. | Вечеринка была классной.
+p: The film was funny. | Фильм был смешным.
+p: Have fun! | Повеселись!
+p: He's a funny guy. | Он смешной парень.
+formula: fun — весело, приятно проводить время · funny — смешно, вызывает смех
+rule: fun — «весело, классно, удовольствие»: a fun day, skiing is fun, have fun. funny — «смешной, забавный», вызывает смех: a funny joke, a funny video. Ещё funny бывает «странный»: That's funny, the door is open. Сравните: The teacher is fun — с ним интересно; The teacher is funny — он смешит. | fun = enjoyable (a fun day, have fun). funny = makes you laugh (a funny joke); also “strange”. | fun = divertido (lo pasamos bien); funny = gracioso (da risa) o raro.
+table: | fun | funny
+row: смысл | весело, приятно | смешно; странно
+row: пример | The trip was fun. | The joke was funny.
+row: устойчивое | Have fun! | That's funny…
+choose: We had a lot of ___ at the beach. | fun, funny | fun | Мы отлично повеселились на пляже.
+choose: Tell me a ___ story! | funny, fun | funny | Расскажи мне смешную историю!
+choose: Learning languages can be ___. | fun, funny | fun | Учить языки может быть весело.
+choose: That's ___ — I'm sure I locked the door. | funny, fun | funny | Странно — я уверен, что запер дверь.
+build: The weekend was really fun. | Выходные были очень классными. | funny
+compose: Напишите, что для вас fun и что вам кажется funny. | Write what is fun for you and what you find funny. | Escribe qué es divertido para ti y qué te parece gracioso. || … is fun. … is funny. || Dancing is fun. My cat is funny.
+
+=== 54 A2 contrasts
+title: already, yet, still | already, yet or still | already, yet o still
+see: 29 30
+p: I've already finished. | Я уже закончил.
+p: Have you finished yet? | Ты уже закончил?
+p: I haven't finished yet. | Я ещё не закончил.
+p: I'm still working. | Я всё ещё работаю.
+formula: already (+) — уже, раньше, чем ждали · yet (? и −) — уже? / ещё не · still — всё ещё
+rule: already — «уже» в утверждении, часто раньше, чем ждали: I've already eaten. yet — в вопросе «уже?» (Have you eaten yet?) и в отрицании «ещё не» (I haven't eaten yet), ставится в конце. still — «всё ещё», действие продолжается: I'm still hungry; перед отрицанием — «до сих пор не»: I still haven't called. С already и yet обычно Present Perfect. | already = sooner than expected (affirmative). yet = in questions (…yet?) and negatives (not yet), at the end. still = continuing (I'm still here; I still haven't…). | already = ya (+); yet = ya (?) / todavía no (−); still = todavía, aún.
+table: | where | example
+row: already | утверждение, до глагола | I've already paid.
+row: yet | вопрос и отрицание, в конце | Have you paid yet? I haven't paid yet.
+row: still | продолжается | I'm still waiting.
+choose: Is the build ready ___? | yet, already, still | yet | Сборка уже готова?
+choose: I've ___ sent the email. | already, yet, still | already | Я уже отправил письмо.
+choose: It's midnight and he's ___ at work. | still, yet, already | still | Полночь, а он всё ещё на работе.
+choose: We haven't decided ___. | yet, already, still | yet | Мы ещё не решили.
+build: I still don't understand this rule. | Я до сих пор не понимаю это правило. | yet
+compose: Напишите, что вы уже сделали сегодня, что ещё нет и что всё ещё делаете. | Write what you've already done today, what you haven't done yet and what you're still doing. | Escribe qué ya has hecho, qué todavía no y qué sigues haciendo. || I've already … I haven't … yet. I'm still … || I've already had breakfast. I haven't called Mum yet. I'm still learning English.
+
+=== 55 B1 contrasts
+title: during, for, while | during, for or while | during, for o while
+see: 30 31
+p: I slept during the film. | Я спал во время фильма.
+p: I slept for two hours. | Я спал два часа.
+p: I slept while you were driving. | Я спал, пока ты вёл машину.
+p: We met during the holidays. | Мы познакомились на каникулах.
+formula: during + событие · for + сколько времени · while + предложение
+rule: during — «во время» + существительное-событие: during the meeting, during the summer. for — «в течение» + длительность: for two hours, for a week. while — «пока, в то время как» + целое предложение с глаголом: while I was cooking. Ошибка: during two hours → правильно for two hours. | during + an event (during the meeting). for + a length of time (for two hours). while + a clause (while I was cooking). | during + evento; for + duración; while + oración (mientras).
+table: | после чего | пример
+row: during | событие | during the flight
+row: for | длительность | for three days
+row: while | подлежащее + глагол | while we were flying
+choose: Please switch off your phone ___ the film. | during, for, while | during | Пожалуйста, выключите телефон во время фильма.
+choose: I lived in Spain ___ five years. | for, during, while | for | Я пять лет жил в Испании.
+choose: Someone called ___ you were out. | while, during, for | while | Кто-то звонил, пока тебя не было.
+choose: It rained ___ the night. | during, while, for | during | Ночью шёл дождь.
+build: I read a book while I was waiting. | Я читал книгу, пока ждал. | during
+compose: Напишите, что вы делаете во время поездок (during), как долго (for) и пока едете (while). | Write what you do during trips, for how long and while travelling. | Escribe qué haces durante los viajes, cuánto tiempo y mientras viajas. || During … for … while … || During the flight I sleep for an hour while my wife reads.
+
+=== 56 B1 contrasts
+title: until или by: «до» | until or by | until o by
+see: 6
+p: I'll wait until six. | Я подожду до шести.
+p: Send it by six. | Отправь до шести (не позже).
+p: The shop is open until 10 pm. | Магазин открыт до десяти вечера.
+p: I need the report by Friday. | Отчёт нужен мне к пятнице.
+formula: until — действие длится до момента · by — сделать не позже момента (дедлайн)
+rule: until (till) — действие продолжается вплоть до момента: work until five, wait until Monday. by — «к, не позже»: дело должно быть сделано к сроку, а когда именно — неважно: finish by five, pay by Monday. Проверка: можно ли сказать «к пятнице»? Тогда by. | until = an action continues up to a time (wait until five). by = no later than, a deadline (finish by five). | until = hasta (continúa); by = para, antes de (plazo).
+table: | until | by
+row: смысл | длится до момента | не позже момента
+row: пример | I'm here until 6. | Be here by 6.
+row: русский | до | к, до (крайний срок)
+choose: Please reply ___ Monday. | by, until | by | Пожалуйста, ответьте до понедельника.
+choose: We stayed at the party ___ midnight. | until, by | until | Мы остались на вечеринке до полуночи.
+choose: The tickets must be paid ___ the end of the week. | by, until | by | Билеты нужно оплатить до конца недели.
+choose: Let's wait ___ the rain stops. | until, by | until | Давай подождём, пока не кончится дождь.
+build: I need your answer by tomorrow. | Мне нужен твой ответ к завтрашнему дню. | until
+compose: Напишите, до скольки вы работаете (until) и к какому сроку нужно что-то сделать (by). | Write until when you work and by when you must finish something. | Escribe hasta qué hora trabajas (until) y para cuándo debes terminar algo (by). || I work until … I have to … by … || I work until six. I have to finish the project by Friday.
+
+=== 57 B1 contrasts
+title: like или as | like or as | like o as
+see: 27
+p: She sings like an angel. | Она поёт как ангел.
+p: He works as a teacher. | Он работает учителем.
+p: As I said, the shop is closed. | Как я и говорил, магазин закрыт.
+p: It looks like rain. | Похоже на дождь.
+formula: like — похож на, как (сравнение) · as — в роли, в качестве; как (+ предложение)
+rule: like + существительное — сравнение, «как, похоже на»: like a child, like a pro. as — «в качестве, в роли» — кем ты действительно являешься: work as a driver, use it as a table. В начале фразы as + предложение — «как»: As you know… Сравните: He talks like a teacher (но он не учитель) / He works as a teacher (он учитель). | like + noun = similar to (like a child). as = in the role of (work as a driver), or as + clause (As you know…). | like = como (parecido a); as = como (en calidad de) o como + oración.
+table: | like | as
+row: смысл | похож на | в роли, на самом деле
+row: пример | He talks like a boss. | He works as a boss.
+row: + предложение | — | As I said…
+choose: I work ___ a designer. | as, like | as | Я работаю дизайнером.
+choose: You look ___ your mother. | like, as | like | Ты похож на маму.
+choose: ___ you know, the meeting is at ten. | As, Like | As | Как вы знаете, встреча в десять.
+choose: He runs ___ the wind. | like, as | like | Он бегает как ветер.
+build: I use my phone as an alarm clock. | Я использую телефон как будильник. | like
+compose: Напишите, кем вы работаете (as) и на кого вы похожи (like). | Write what you work as and who you look like. | Escribe de qué trabajas (as) y a quién te pareces (like). || I work as … I look like … || I work as a developer. I look like my father.
+
+=== 58 B1 contrasts
+title: another, other, the other | another, other, the other | another, other, the other
+see: 3 4
+p: Can I have another coffee? | Можно мне ещё кофе?
+p: I have other plans. | У меня другие планы.
+p: Where is the other sock? | Где второй носок?
+p: Some people agree, others don't. | Одни согласны, другие нет.
+formula: another + ед. ч. — ещё один, другой · other + мн. ч. — другие · the other — тот второй, оставшийся
+rule: another (= an + other) — «ещё один» или «какой-то другой» с существительным в ед. числе: another day, another idea. other — «другие» с мн. числом или неисчисляемым: other people, other information. the other — «тот, другой» из известных: the other hand, the other side; без существительного во мн. — the others. others — «другие» без существительного: Some like it, others don't. | another + singular (one more / a different one). other + plural or uncountable. the other = the remaining one(s) (the other side, the others). others = other people / things. | another = otro (uno más); other = otros; the other = el otro (el que queda).
+table: | с чем | пример
+row: another | ед. ч. | another cup
+row: other | мн. ч. | other cups
+row: the other(s) | известный, оставшийся | the other cup, the others
+choose: Let's meet ___ day, I'm busy today. | another, other, the other | another | Давай встретимся в другой день, сегодня я занят.
+choose: Are there any ___ questions? | other, another | other | Есть ещё вопросы?
+choose: I've found one shoe. Where's ___ one? | the other, another, other | the other | Одну туфлю я нашёл. Где вторая?
+choose: Two friends came, ___ were late. | the others, other, another | the others | Двое друзей пришли, остальные опоздали.
+build: Would you like another piece of cake? | Хочешь ещё кусочек торта? | other
+compose: Напишите, что вы хотите ещё (another), и про других людей (other / others). | Write what you'd like another of, and something about other people. | Escribe qué quieres otra vez (another) y algo sobre otras personas (other / others). || I'd like another … Other people … || I'd like another holiday. Other people prefer the mountains.
+
+=== 59 B1 contrasts
+title: each или every | each or every | each o every
+see: 28
+p: Every child got a present. | Каждый ребёнок получил подарок.
+p: Each child got a different present. | Каждый ребёнок получил свой подарок.
+p: I run every day. | Я бегаю каждый день.
+p: Each of us has a key. | У каждого из нас есть ключ.
+formula: every — все вместе, без исключений · each — каждый по отдельности
+rule: every — «каждый = все», смотрим на группу целиком: every day, every time, everybody. each — «каждый по отдельности», важны отдельные элементы, часто их немного: each player, each side. Только each: each of + мн. ч. (each of them) и без существительного (They cost ten euros each). Про двух — только each: each hand. После обоих — глагол в ед. ч.: Every student has, each student has. | every = all, seen as a group (every day). each = one by one, individually; each of + plural; for two things only each (each hand). Both take a singular verb. | every = todos (cada); each = cada uno por separado. Con dos: each.
+table: | every | each
+row: взгляд | все вместе | по одному
+row: + of | — | each of them
+row: про двух | — | each hand
+choose: I check my email ___ morning. | every, each | every | Я проверяю почту каждое утро.
+choose: ___ of the rooms has a balcony. | Each, Every | Each | В каждом из номеров есть балкон.
+choose: She wore a ring on ___ hand. | each, every | each | У неё было кольцо на каждой руке.
+choose: The tickets cost twenty euros ___. | each, every | each | Билеты стоят по двадцать евро.
+build: Every student has a laptop. | У каждого студента есть ноутбук. | have
+compose: Напишите, что вы делаете каждый день (every), и опишите каждого члена семьи (each of). | Write what you do every day and something about each of your family members. | Escribe qué haces cada día (every) y algo de cada miembro de tu familia (each of). || Every day I … Each of … || Every day I walk the dog. Each of my sisters plays an instrument.
+
+=== 60 B1 contrasts
+title: so или such | so or such | so o such
+see: 27 11
+p: The film was so good! | Фильм был таким хорошим!
+p: It was such a good film! | Это был такой хороший фильм!
+p: She speaks so fast. | Она так быстро говорит.
+p: They are such nice people. | Они такие милые люди.
+formula: so + прилагательное / наречие · such (a / an) + прилагательное + существительное
+rule: Оба значат «такой, так», но стоят перед разными словами. so — перед прилагательным или наречием без существительного: so cold, so fast. such — перед существительным (с прилагательным или без): such a nice day, such good weather, such people. С ед. ч. исчисляемым — such a / an: such a mistake. Продолжение «что…»: so tired that…, such a long day that… | so + adjective / adverb (so cold). such + (adjective +) noun (such a nice day, such good weather); a / an with singular countables. | so + adjetivo / adverbio; such (a) + sustantivo: tan / tal.
+table: | после чего | пример
+row: so | прилагательное, наречие | so beautiful, so quickly
+row: such a / an | ед. ч. исчисляемое | such a beautiful city
+row: such | мн. ч., неисчисляемое | such beautiful cities, such good news
+choose: It was ___ a long day. | such, so | such | Это был такой длинный день.
+choose: I'm ___ tired, I'll go to bed. | so, such | so | Я так устал, пойду спать.
+choose: They have ___ a beautiful garden! | such, so | such | У них такой красивый сад!
+choose: The coffee was ___ hot that I couldn't drink it. | so, such | so | Кофе был таким горячим, что я не смог его пить.
+build: It was such a beautiful evening. | Это был такой прекрасный вечер. | so
+compose: Опишите прошлые выходные с so и с such. | Describe your last weekend with so and such. | Describe tu último fin de semana con so y con such. || It was so … It was such a … || It was so sunny! It was such a lovely day.
+
+=== 61 A2 contrasts
+title: too, very, enough | too, very or enough | too, very o enough
+see: 27 16
+p: The coffee is very hot. | Кофе очень горячий.
+p: The coffee is too hot to drink. | Кофе слишком горячий, чтобы пить.
+p: The room is big enough. | Комната достаточно большая.
+p: We don't have enough time. | У нас недостаточно времени.
+formula: very — очень (нормально) · too — слишком (проблема) · прил. + enough / enough + сущ. — достаточно
+rule: very просто усиливает: very cold — «очень холодно», ничего страшного. too — «слишком», это проблема, что-то нельзя сделать: too cold to swim. enough — «достаточно»: после прилагательного (old enough, warm enough), но перед существительным (enough money, enough chairs). Отрицание: not big enough — «маловат». | very = intensifier (very cold). too = more than OK, a problem (too cold to swim). enough goes after adjectives (old enough) and before nouns (enough money). | very = muy; too = demasiado; enough = suficiente (adj. + enough / enough + sust.).
+table: | смысл | пример
+row: very | очень | very expensive
+row: too | слишком, проблема | too expensive to buy
+row: enough | достаточно | cheap enough, enough money
+bridge: 42 | muy / demasiado / bastante | Es muy caro. Es demasiado caro. | Очень дорого. Слишком дорого. | demasiado = too, bastante = enough
+choose: I can't buy it, it's ___ expensive. | too, very | too | Не могу купить, это слишком дорого.
+choose: Is he old ___ to drive? | enough, too | enough | Он достаточно взрослый, чтобы водить?
+choose: We don't have ___ chairs for everyone. | enough, too | enough | Нам не хватит стульев на всех.
+choose: The hotel was ___ nice, we loved it. | very, too | very | Отель был очень хорошим, нам понравилось.
+build: This bag is too heavy to carry. | Эта сумка слишком тяжёлая, чтобы её нести. | very
+compose: Напишите, что для вас слишком (too), что очень (very) и чего недостаточно (enough). | Write what is too…, very… and not … enough for you. | Escribe qué es demasiado, muy y no suficiente para ti. || … is too … I don't have enough … || My flat is too small. I don't have enough space.
+
+=== 62 B1 contrasts
+title: on time или in time | on time or in time | on time o in time
+see: 6
+p: The train arrived on time. | Поезд пришёл вовремя (по расписанию).
+p: We arrived in time for dinner. | Мы успели к ужину.
+p: Please be on time tomorrow. | Пожалуйста, не опаздывайте завтра.
+p: The doctor came just in time. | Врач пришёл как раз вовремя.
+formula: on time — точно по плану · in time (for / to) — успеть, не опоздать к чему-то
+rule: on time — «вовремя, по расписанию», ни раньше ни позже: The meeting started on time. in time — «успеть, до того как будет поздно», часто in time for + событие или in time to + глагол: in time for the flight, in time to say goodbye. just in time — «в последний момент». | on time = at the planned time (punctual). in time = early enough, not too late (in time for…, in time to…); just in time = at the last moment. | on time = puntual; in time = a tiempo, con tiempo suficiente (llegar a tiempo para…).
+table: | смысл | пример
+row: on time | по расписанию | The bus left on time.
+row: in time for / to | успеть до | We got there in time for the start.
+row: just in time | в последний момент | I caught it just in time.
+choose: The flight left ___, at 9:15 exactly. | on time, in time | on time | Рейс вылетел вовремя, ровно в 9:15.
+choose: We got home just ___ before the storm. | in time, on time | in time | Мы успели домой как раз перед грозой.
+choose: Will you be back in time ___ dinner? | for, to, on | for | Ты успеешь вернуться к ужину?
+choose: Our boss is never late, she's always ___. | on time, in time | on time | Наш начальник никогда не опаздывает, она всегда вовремя.
+build: I arrived just in time to catch the train. | Я пришёл как раз вовремя, чтобы успеть на поезд. | on
+compose: Напишите, где важно быть on time и к чему вы недавно успели in time. | Write where you must be on time and what you recently got to in time. | Escribe dónde hay que ser puntual y a qué llegaste a tiempo. || I'm always on time for … I got to … just in time. || I'm always on time for work. I got to the station just in time.
+
+=== 63 B1 contrasts
+title: at the end или in the end | at the end or in the end | at the end o in the end
+see: 6 32
+p: Pay at the end of the month. | Заплатите в конце месяца.
+p: In the end, we stayed at home. | В итоге мы остались дома.
+p: The shop is at the end of the street. | Магазин в конце улицы.
+p: We argued, but in the end we agreed. | Мы спорили, но в конце концов договорились.
+formula: at the end of + что — в конце чего-то · in the end — в итоге, в конце концов
+rule: at the end of — буквально конец чего-то во времени или пространстве: at the end of the film, at the end of the road. После него обычно of + существительное. in the end — «в итоге, в конце концов», после долгого процесса или раздумий, и обычно без of: In the end, we took a taxi. | at the end of + noun = the final part of something (at the end of the film). in the end = finally, after a process (In the end we took a taxi). | at the end of = al final de; in the end = al final, por fin.
+table: | смысл | пример
+row: at the end of | конец чего-то | at the end of the day
+row: in the end | в итоге | In the end, it was fine.
+choose: Turn left ___ the end of the corridor. | at, in | at | В конце коридора поверните налево.
+choose: We looked at many flats and ___ the end we bought a house. | in, at | in | Мы посмотрели много квартир, а в итоге купили дом.
+choose: I'm paid at the end ___ the month. | of, in | of | Мне платят в конце месяца.
+choose: It was difficult, but ___ the end everything was OK. | in, at | in | Было трудно, но в итоге всё было хорошо.
+build: The answers are at the end of the book. | Ответы в конце книги. | in
+compose: Расскажите историю, которая закончилась неожиданно: что было at the end и что в итоге (in the end). | Tell a story with an unexpected ending: what happened at the end and in the end. | Cuenta una historia con final inesperado: at the end / in the end. || At the end of … In the end … || At the end of the trip we lost our bags. In the end, an airline sent them home.
+
+=== 64 A2 contrasts
+title: travel, trip, journey | travel, trip or journey | travel, trip o journey
+see: 4
+p: I love to travel. | Я люблю путешествовать.
+p: How was your trip to Rome? | Как съездил в Рим?
+p: The journey took six hours. | Дорога заняла шесть часов.
+p: Have a nice trip! | Хорошей поездки!
+formula: travel — путешествовать (глагол), путешествия вообще · trip — поездка (туда и обратно) · journey — дорога, путь
+rule: travel — чаще глагол: I travel a lot; как существительное — путешествия вообще, без a: Travel broadens the mind. trip — конкретная поездка с целью и возвращением: a business trip, a day trip, a trip to Paris. journey — сам путь из точки А в точку Б, особенно долгий: a long journey, the journey home. Нельзя: a travel → a trip. | travel = mostly a verb, or travelling in general (no a). trip = a specific visit and return (a business trip). journey = the act of going from A to B (a long journey). | travel = viajar; trip = viaje (escapada); journey = trayecto, recorrido.
+table: | что это | пример
+row: travel | путешествовать; путешествия вообще | I travel for work.
+row: trip | поездка (туда и обратно) | a weekend trip
+row: journey | путь из А в Б | The journey was long.
+choose: We're going on a business ___ next week. | trip, travel, journey | trip | На следующей неделе мы едем в командировку.
+choose: I want to ___ around the world. | travel, trip, journey | travel | Я хочу путешествовать по миру.
+choose: The ___ from London to Edinburgh takes four hours by train. | journey, travel, trip | journey | Дорога из Лондона в Эдинбург занимает четыре часа на поезде.
+choose: Have a good ___! | trip, travel | trip | Хорошей поездки!
+build: How was your trip to Barcelona? | Как прошла поездка в Барселону? | travel
+compose: Напишите о своей последней поездке: куда (trip) и как прошла дорога (journey). | Write about your last trip: where you went and how the journey was. | Escribe sobre tu último viaje: adónde (trip) y cómo fue el trayecto (journey). || My last trip was to … The journey … || My last trip was to Kazan. The journey took twelve hours by train.
+
+=== 65 A2 contrasts
+title: job или work | job or work | job o work
+see: 4 28
+p: I have a new job. | У меня новая работа.
+p: I have a lot of work today. | У меня сегодня много работы.
+p: I go to work by bus. | Я езжу на работу на автобусе.
+p: Good job! | Отлично сделано!
+formula: job — должность, конкретная работа (a job) · work — работа как занятие, неисчисляемое; место работы
+rule: job — исчисляемое: a job, two jobs — конкретная должность или задание: I'm looking for a job, a part-time job. work — неисчисляемое (без a): деятельность, нагрузка или место: a lot of work, at work, go to work, after work. Нельзя: a work → a job. Похвала — Good job! или Well done! | job = countable, a position or task (a new job). work = uncountable activity or place (a lot of work, at work). Never a work. | job = empleo, puesto (contable); work = trabajo como actividad o lugar (incontable).
+table: | job | work
+row: считается | a job, two jobs | work (без a)
+row: смысл | должность, задание | занятие, нагрузка, место
+row: пример | find a job | go to work, at work
+choose: She got a ___ at a bank. | job, work | job | Она устроилась на работу в банк.
+choose: I can't talk, I'm at ___. | work, job | work | Не могу говорить, я на работе.
+choose: We have too much ___ this week. | work, job, jobs | work | На этой неделе у нас слишком много работы.
+choose: You did a great ___! | job, work | job | Ты отлично справился!
+build: I usually go to work by bike. | Я обычно езжу на работу на велосипеде. | job
+compose: Напишите, кем вы работаете (job) и что делаете после работы (after work). | Write what your job is and what you do after work. | Escribe cuál es tu trabajo (job) y qué haces después del trabajo (after work). || My job is … After work I … || My job is very interesting. After work I play tennis.
+
+=== 66 A2 contrasts
+title: win или earn | win or earn | win o earn
+see: 19
+p: We won the match! | Мы выиграли матч!
+p: She earns a good salary. | Она хорошо зарабатывает.
+p: He won a car in the lottery. | Он выиграл машину в лотерею.
+p: How much do you earn? | Сколько ты зарабатываешь?
+formula: win — выиграть, победить · earn — заработать трудом
+rule: По-русски «получил деньги» можно и выиграть, и заработать, а в английском это разные глаголы. win — выиграть в игре, споре, лотерее, конкурсе: win a game, win a prize. earn — заработать работой или заслужить: earn money, earn a living, earn respect. Победить соперника — beat: We beat them 3:1. Формы: win — won — won. | win = in a game, a competition, a lottery (win a prize). earn = get through work or deserve (earn money, earn respect). Beat a rival. win — won — won. | win = ganar (un premio, un partido); earn = ganar dinero trabajando, merecer.
+table: | win | earn
+row: как | в игре, лотерее, конкурсе | работой, заслугами
+row: пример | win a match, win a prize | earn money, earn respect
+row: формы | won — won | earned — earned
+choose: How much does a nurse ___ in Spain? | earn, win | earn | Сколько зарабатывает медсестра в Испании?
+choose: Our team ___ the cup last year. | won, earned | won | Наша команда выиграла кубок в прошлом году.
+choose: He worked hard and ___ everyone's respect. | earned, won | earned | Он много работал и заслужил уважение всех.
+choose: I never ___ at cards. | win, earn | win | Я никогда не выигрываю в карты.
+build: She earns her living as a translator. | Она зарабатывает на жизнь переводами. | wins
+compose: Напишите, что вы когда-то выиграли (won) и как зарабатываете (earn). | Write something you once won and how you earn money. | Escribe algo que ganaste (won) y cómo ganas dinero (earn). || I once won … I earn money by … || I once won a chess tournament. I earn money by writing code.
+
+=== 67 A2 contrasts
+title: miss или lose | miss or lose | miss o lose
+see: 19
+p: I missed the bus. | Я опоздал на автобус.
+p: I lost my keys. | Я потерял ключи.
+p: I miss you. | Я скучаю по тебе.
+p: We lost the game. | Мы проиграли игру.
+formula: miss — не успеть, пропустить, скучать · lose — потерять, проиграть
+rule: miss — когда что-то прошло мимо тебя: опоздал (miss the train), пропустил (miss a lesson, miss the point), промахнулся, и ещё «скучать»: I miss my family. lose — когда то, что было, пропало: lose a phone, lose weight, lose your way, и «проиграть»: lose a match. Формы: lose — lost — lost. Не путайте lose [luːz] и loose [luːs] — «свободный, болтающийся». | miss = fail to catch, attend or hit; also feel sad without someone (I miss you). lose = no longer have (lose keys) or be defeated (lose a game). lose — lost — lost. | miss = perder (un tren), faltar a, echar de menos; lose = perder (un objeto, un partido).
+table: | miss | lose
+row: транспорт, урок | miss the train | —
+row: вещи, вес, дорогу | — | lose keys, lose weight
+row: игра | — | lose a match
+row: люди | I miss you (скучаю) | —
+bridge: 61 | echar de menos / perder | Te echo de menos. Perdí las llaves. | Я скучаю по тебе. Я потерял ключи. | испанское perder = и miss (поезд), и lose; «скучать» — echar de menos
+choose: Hurry up or we'll ___ the train! | miss, lose | miss | Поторопись, а то опоздаем на поезд!
+choose: I ___ my wallet yesterday. | lost, missed | lost | Вчера я потерял кошелёк.
+choose: I really ___ my friends from school. | miss, lose | miss | Я очень скучаю по школьным друзьям.
+choose: Did we win or ___? | lose, miss | lose | Мы выиграли или проиграли?
+build: I missed the meeting because of the traffic. | Я пропустил встречу из-за пробки. | lost
+compose: Напишите, по кому вы скучаете (miss) и что недавно потеряли (lose). | Write who you miss and what you lost recently. | Escribe a quién echas de menos (miss) y qué perdiste hace poco (lose). || I miss … I lost … || I miss my grandmother. I lost my umbrella last week.
+
+=== 68 B1 contrasts
+title: Ложные друзья: actually, magazine, sympathetic… | False friends for Russian speakers: actually, magazine… | Falsos amigos para rusohablantes: actually, magazine…
+see: 67
+p: Actually, I'm from Kazan, not Moscow. | Вообще-то я из Казани, а не из Москвы.
+p: Currently I work from home. | Сейчас я работаю из дома.
+p: I bought a magazine at the airport. | Я купил журнал в аэропорту.
+p: She was very sympathetic. | Она мне очень посочувствовала.
+formula: слово похоже на русское, а значит другое
+rule: Ложные друзья похожи на русские слова, но значат другое. actually — «на самом деле, вообще-то», а «актуально, сейчас» — currently, up to date. magazine — «журнал», а магазин — shop, store. sympathetic — «сочувствующий», а симпатичный — nice, good-looking. accurate — «точный», а аккуратный — tidy, neat. fabric — «ткань», а фабрика — factory. complexion — «цвет лица», а комплекция — build. | Words that look like Russian ones but mean something else: actually (= in fact; “currently” is currently), magazine (= журнал; a shop is a store), sympathetic (= understanding), accurate (= exact), fabric (= cloth). | Falsos amigos: actually = en realidad; magazine = revista; sympathetic = comprensivo; accurate = exacto; fabric = tela.
+table: английское | значит | а русское «…» — это
+row: actually | на самом деле | актуально — currently, relevant
+row: magazine | журнал | магазин — shop, store
+row: sympathetic | сочувствующий | симпатичный — nice, cute
+row: accurate | точный | аккуратный — tidy, neat
+row: fabric | ткань | фабрика — factory
+bridge: 60 | falsos amigos | Estoy embarazada. Estoy constipado. | Я беременна. У меня насморк. | в испанском свои ловушки: embarazada — «беременная», constipado — «простуженный»
+choose: Our office is ___ closed for repairs. | currently, actually | currently | Сейчас наш офис закрыт на ремонт.
+choose: I need to buy bread. Is there a ___ near here? | shop, magazine | shop | Мне нужно купить хлеб. Тут рядом есть магазин?
+choose: The data must be ___, please check the numbers. | accurate, tidy | accurate | Данные должны быть точными, проверьте цифры.
+choose: My mum works in a car ___. | factory, fabric | factory | Моя мама работает на автомобильном заводе.
+build: Actually, the meeting is tomorrow, not today. | Вообще-то встреча завтра, а не сегодня. | currently
+compose: Напишите два предложения с actually и currently. | Write two sentences with actually and currently. | Escribe dos frases con actually y currently. || Actually, … Currently … || Actually, I prefer tea. Currently I'm learning Spanish.
+
+=== 69 B1 contrasts
+title: affect или effect | affect or effect | affect o effect
+see: 35
+p: The weather affects my mood. | Погода влияет на моё настроение.
+p: The weather has an effect on my mood. | Погода оказывает влияние на моё настроение.
+p: Stress can affect your sleep. | Стресс может влиять на сон.
+p: The new rules had no effect. | Новые правила не дали результата.
+formula: affect — глагол «влиять на» · effect — существительное «эффект, влияние, результат»
+rule: affect — глагол, «влиять на» (без предлога on!): It affects me. effect — существительное, «эффект, результат»: have an effect on, side effects, special effects. Подсказка: Affect — Action (глагол), Effect — End result (существительное). Произносятся почти одинаково, поэтому путают даже носители. | affect is a verb (it affects me — no on). effect is a noun (have an effect on, side effects). Affect = Action, Effect = End result. | affect = afectar (verbo); effect = efecto (sustantivo): have an effect on.
+table: | часть речи | пример
+row: affect | глагол | Noise affects my work.
+row: effect | существительное | Noise has an effect on my work.
+row: устойчивые | — | side effects, special effects
+choose: Lack of sleep can ___ your memory. | affect, effect | affect | Недосып может влиять на память.
+choose: This medicine has no side ___. | effects, affects | effects | У этого лекарства нет побочных эффектов.
+choose: The strike ___ thousands of passengers. | affected, effected | affected | Забастовка затронула тысячи пассажиров.
+choose: Music has a strong ___ on me. | effect, affect | effect | Музыка сильно на меня действует.
+build: The rain affected our plans. | Дождь повлиял на наши планы. | effected
+compose: Напишите, что влияет на ваше настроение (affect) и какой эффект даёт спорт (effect). | Write what affects your mood and what effect sport has on you. | Escribe qué afecta a tu ánimo y qué efecto tiene el deporte en ti. || … affects my mood. Sport has … effect on me. || The weather affects my mood. Sport has a great effect on me.
+
+=== 70 B1 contrasts
+title: rise или raise | rise or raise | rise o raise
+see: 19
+p: The sun rises in the east. | Солнце встаёт на востоке.
+p: Raise your hand if you have a question. | Поднимите руку, если есть вопрос.
+p: Prices are rising. | Цены растут.
+p: They raised the prices. | Они подняли цены.
+formula: rise — подниматься (само) · raise что-то — поднимать (кто-то поднимает)
+rule: rise — подниматься самому, без дополнения: The sun rises, prices rise. Неправильный: rise — rose — risen. raise — поднимать что-то, нужно дополнение: raise your hand, raise prices, raise a question, raise children (растить детей). Правильный: raised. Существительное «прибавка к зарплате» — a raise (AmE) / a rise (BrE). | rise = go up by itself, no object (prices rise; rise — rose — risen). raise = lift something, needs an object (raise your hand, raise prices; regular). | rise = subir (solo); raise = subir / levantar algo (raise your hand).
+table: | rise | raise
+row: дополнение | нет: что-то поднимается | есть: поднимаем что-то
+row: формы | rise — rose — risen | raise — raised — raised
+row: пример | Prices rose. | They raised prices.
+choose: Please ___ your hand before you speak. | raise, rise | raise | Пожалуйста, поднимите руку, прежде чем говорить.
+choose: The temperature ___ to 35 degrees yesterday. | rose, raised | rose | Вчера температура поднялась до 35 градусов.
+choose: The company ___ salaries by five percent. | raised, rose | raised | Компания подняла зарплаты на пять процентов.
+choose: Bread prices keep ___. | rising, raising | rising | Цены на хлеб продолжают расти.
+build: They raised a lot of money for the school. | Они собрали много денег для школы. | rose
+compose: Напишите, что в вашем городе растёт (rise) и что вам хотелось бы поднять (raise). | Write what is rising in your city and what you would like to raise. | Escribe qué sube en tu ciudad (rise) y qué te gustaría subir (raise). || … is rising. I'd like to raise … || Rent is rising. I'd like to raise my salary.
