@@ -22,6 +22,12 @@
     "en": "A folk song sung across Latin America. Simple words and a colorful refrain.",
     "es": "Canción popular de toda Latinoamérica. Palabras sencillas y estribillo colorido."
   },
+  "see": [
+    "es-grammar-04",
+    "es-grammar-22",
+    "es-grammar-23",
+    "es-grammar-46"
+  ],
   "stanzas": [
     {
       "type": "verse",

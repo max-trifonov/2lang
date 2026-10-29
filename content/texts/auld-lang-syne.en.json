@@ -23,6 +23,11 @@
     "en": "A Scots song by Robert Burns, sung at New Year. Auld lang syne means \"long, long ago; the good old days\".",
     "es": "Canción escocesa de Robert Burns, que se canta en Nochevieja. Auld lang syne = «los viejos tiempos»."
   },
+  "see": [
+    "en-grammar-21",
+    "en-grammar-24",
+    "en-grammar-35"
+  ],
   "stanzas": [
     {
       "type": "verse",

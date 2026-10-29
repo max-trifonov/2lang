@@ -27,6 +27,7 @@ import {
   useLessonProgressStore,
   type GrammarLesson,
   type Lesson,
+  CodeText,
 } from '@/features/lessons'
 import { useProfilesStore } from '@/features/profiles'
 import { SongLinks, libraryDocs, songsForRule, type TextDoc } from '@/features/texts'
@@ -167,7 +168,7 @@ const usedIn = computed(() =>
               <span :lang="b.lang">{{ ex[b.lang] }}</span>
               <span class="rule__muted">{{ tr(ex, b.lang) }}</span>
             </template>
-            <p v-if="b.note" class="rule__muted">{{ local(b.note) }}</p>
+            <p v-if="b.note" class="rule__muted"><CodeText :text="local(b.note)" /></p>
             <RouterLink v-if="b.lesson" :to="ruleRoute(b.lesson)" class="rule__link">
               <IonIcon :icon="bookOutline" aria-hidden="true" />
               {{ t('lessons.grammar.bridgeRule') }}

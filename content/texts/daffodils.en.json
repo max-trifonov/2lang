@@ -22,6 +22,11 @@
     "en": "A poem about daffodils by a lake. The famous cloud comparison opens it.",
     "es": "Poema sobre los narcisos junto a un lago. Empieza con la famosa comparación con una nube."
   },
+  "see": [
+    "en-grammar-19",
+    "en-grammar-27",
+    "en-grammar-57"
+  ],
   "stanzas": [
     {
       "type": "verse",

@@ -48,6 +48,7 @@ import {
   type Lesson,
   type Practice,
   type WordsLesson,
+  CodeText,
 } from '@/features/lessons'
 import { useActivityStore } from '@/features/activity'
 import { useProfilesStore } from '@/features/profiles'
@@ -250,12 +251,14 @@ function close(): void {
               <SpeakButton :text="lesson.phrase[lang] ?? ''" :lang="lang" size="lg" />
               <p class="lesson__tr">{{ translationOf(lesson.phrase) }}</p>
             </div>
-            <p v-if="lesson.phrase.note" class="lesson__note">{{ local(lesson.phrase.note) }}</p>
+            <p v-if="lesson.phrase.note" class="lesson__note">
+              <CodeText :text="local(lesson.phrase.note)" />
+            </p>
           </template>
 
           <template v-else-if="lesson.rule">
             <p class="lesson__label">{{ t('lessons.rule') }}</p>
-            <p class="lesson__rule">{{ local(lesson.rule.text) }}</p>
+            <p class="lesson__rule"><CodeText :text="local(lesson.rule.text)" /></p>
             <ul class="lesson__examples">
               <li v-for="(ex, i) in lesson.rule.examples ?? []" :key="i">
                 <div class="lesson__line">

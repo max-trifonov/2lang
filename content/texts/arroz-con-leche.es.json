@@ -10,6 +10,7 @@
   "level": "A1",
   "tags": ["kids", "traditional"],
   "note": { "ru": "Традиционная детская песня-игра, известна по всему испаноязычному миру." },
+  "see": ["es-grammar-19", "es-grammar-23", "es-grammar-36"],
   "stanzas": [
     {
       "lines": [

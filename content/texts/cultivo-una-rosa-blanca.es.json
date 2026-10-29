@@ -22,6 +22,11 @@
     "en": "A poem by José Martí from Versos sencillos (XXXIX). About friendship and answering unkindness with kindness.",
     "es": "Poema de José Martí de Versos sencillos (XXXIX). Sobre la amistad y la bondad."
   },
+  "see": [
+    "es-grammar-08",
+    "es-grammar-13",
+    "es-grammar-36"
+  ],
   "stanzas": [
     {
       "type": "verse",

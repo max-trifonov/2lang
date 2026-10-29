@@ -39,6 +39,7 @@ import {
   type GrammarTask,
   type Lesson,
   type Practice,
+  CodeText,
 } from '@/features/lessons'
 import { useProfilesStore } from '@/features/profiles'
 import { grammarKey, useCardsStore } from '@/features/review'
@@ -258,7 +259,7 @@ function close(): void {
                 </div>
                 <span class="grammar__muted">{{ tr(ex, b.lang) }}</span>
               </template>
-              <p v-if="b.note" class="grammar__note">{{ local(b.note) }}</p>
+              <p v-if="b.note" class="grammar__note"><CodeText :text="local(b.note)" /></p>
               <RouterLink v-if="b.lesson" :to="ruleRoute(b.lesson)" class="grammar__bridge-link">
                 <IonIcon :icon="bookOutline" aria-hidden="true" />
                 {{ t('lessons.grammar.bridgeRule') }}

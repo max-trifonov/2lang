@@ -31,6 +31,7 @@ import {
   type Practice,
   type SoundLesson,
   type SoundTask,
+  CodeText,
 } from '@/features/lessons'
 import { useProfilesStore } from '@/features/profiles'
 import { UiButton, UiCard, UiEmptyState, UiSkeleton } from '@/shared/ui'
@@ -209,7 +210,7 @@ function close(): void {
                 :audio="rule.audio"
               />
             </p>
-            <p>{{ local(rule.text) }}</p>
+            <p><CodeText :text="local(rule.text)" /></p>
             <UiCard>
               <ul class="sound__examples">
                 <li v-for="(ex, i) in rule.examples" :key="i">

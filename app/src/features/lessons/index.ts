@@ -75,10 +75,14 @@ export {
   grammarForWord,
   grammarRefs,
   grammarSections,
+  codeLessonId,
   lessonRoute,
   ruleRoute,
+  splitCodes,
+  type CodeSegment,
   type GrammarGroup,
 } from './refs'
 export { default as GrammarRule } from './ui/GrammarRule.vue'
 export { default as RuleLinks } from './ui/RuleLinks.vue'
 export { default as UpNext } from './ui/UpNext.vue'
+export { default as CodeText } from './ui/CodeText.vue'

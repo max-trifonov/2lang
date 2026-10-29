@@ -39,6 +39,7 @@ import {
   useLessonProgressStore,
   type Lesson,
   type Practice,
+  CodeText,
 } from '@/features/lessons'
 import { useProfilesStore } from '@/features/profiles'
 import { useCardsStore } from '@/features/review'
@@ -237,7 +238,7 @@ function close(): void {
                 {{ t('songs.phrases', { n: phrasesTotal }, phrasesTotal) }}
               </p>
             </div>
-            <p v-if="doc.note" class="song__note">{{ local(doc.note) }}</p>
+            <p v-if="doc.note" class="song__note"><CodeText :text="local(doc.note)" /></p>
             <RuleLinks :rules="rules" :title="t('songs.rules')" />
           </template>
 
@@ -258,12 +259,16 @@ function close(): void {
               <span v-if="line.lit" class="song__extra">
                 <strong>{{ t('texts.ui.read.literal') }}:</strong> {{ local(line.lit) }}
               </span>
-              <span v-if="line.note" class="song__extra">{{ local(line.note) }}</span>
+              <span v-if="line.note" class="song__extra"
+                ><CodeText :text="local(line.note)"
+              /></span>
               <ul v-if="line.phrases?.length" class="song__phrases">
                 <li v-for="(p, j) in line.phrases" :key="j">
                   <strong :lang="lang">{{ original(p) }}</strong>
                   <span v-if="translated(p)"> — {{ translated(p) }}</span>
-                  <span v-if="p.note" class="song__phrase-note">{{ local(p.note) }}</span>
+                  <span v-if="p.note" class="song__phrase-note"
+                    ><CodeText :text="local(p.note)"
+                  /></span>
                 </li>
               </ul>
             </article>

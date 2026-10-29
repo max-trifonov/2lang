@@ -1,7 +1,15 @@
 import { describe, expect, it } from 'vitest'
 
 import type { GrammarLesson, Lesson, WordsLesson } from './domain/types'
-import { backlinks, grammarForWord, grammarRefs, grammarSections, lessonRoute } from './refs'
+import {
+  backlinks,
+  codeLessonId,
+  grammarForWord,
+  grammarRefs,
+  grammarSections,
+  lessonRoute,
+  splitCodes,
+} from './refs'
 
 const g = (id: string, order: number, patch: Partial<GrammarLesson> = {}): GrammarLesson => ({
   format: '2lang/lesson',
@@ -68,5 +76,26 @@ describe('отсылки к правилам (D-38)', () => {
     expect(
       grammarSections(lessons, 'es').map((s) => `${s.section}:${s.lessons.map((l) => l.order)}`),
     ).toEqual(['sentence:10', 'verbs:5', 'modals:20', 'other:99'])
+  })
+})
+
+describe('коды тем в тексте (D-47)', () => {
+  it('код программы → id урока', () => {
+    expect(codeLessonId('EN-7')).toBe('en-grammar-07')
+    expect(codeLessonId('ES-35')).toBe('es-grammar-35')
+    expect(codeLessonId('ES-P3')).toBe('es-sound-03')
+    expect(codeLessonId('EN')).toBeNull()
+  })
+
+  it('известные коды — ссылки, остальной текст как есть', () => {
+    const known = new Set(['en-grammar-19', 'en-sound-03'])
+    expect(splitCodes('Past Simple (EN-19), см. EN-P3 и EN-99.', known)).toEqual([
+      { text: 'Past Simple (' },
+      { text: 'EN-19', id: 'en-grammar-19', route: '/rules/en-grammar-19' },
+      { text: '), см. ' },
+      { text: 'EN-P3', id: 'en-sound-03', route: '/sounds/en-sound-03' },
+      { text: ' и EN-99.' },
+    ])
+    expect(splitCodes('без кодов', known)).toEqual([{ text: 'без кодов' }])
   })
 })

@@ -22,6 +22,11 @@
     "en": "From Machado's Proverbios y cantares (XXIX). The idea: the road is made by walking.",
     "es": "De Proverbios y cantares (XXIX) de Machado. Idea: el camino se hace al andar."
   },
+  "see": [
+    "es-grammar-04",
+    "es-grammar-06",
+    "es-grammar-10"
+  ],
   "stanzas": [
     {
       "type": "verse",

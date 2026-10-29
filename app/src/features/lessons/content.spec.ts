@@ -8,6 +8,7 @@ import { describe, expect, it } from 'vitest'
 import { checkDictionaryFile } from '@/features/dictionary'
 
 import { checkLessonFile, validateLesson, validateLessonSet } from './domain/validate'
+import { codeLessonId } from './refs'
 
 // Уроки репозитория проверяются вместе со словарями тем же валидатором, что и приложение.
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '../../../../content')
@@ -68,6 +69,24 @@ describe('уроки репозитория', () => {
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any -- негативные фикстуры ломают узлы произвольно
 type Edit = (d: any) => void
+
+describe('коды тем в пояснениях (D-47)', () => {
+  // EN-19 / ES-P3 в тексте уроков и песен — ссылка: код должен вести на существующий урок.
+  const texts = [...read('texts'), ...read('private')]
+  const ids = new Set(lessons.map(({ source }) => (JSON.parse(source) as { id: string }).id))
+  const codes = [...lessons, ...texts].flatMap(({ name, source }) =>
+    [...source.matchAll(/\b(EN|ES)-P?\d{1,2}\b/g)].map((m) => ({ name, code: m[0] })),
+  )
+
+  it('в контенте есть коды тем', () => {
+    expect(codes.length).toBeGreaterThan(0)
+  })
+
+  it('каждый код ведёт на урок', () => {
+    const broken = codes.filter(({ code }) => !ids.has(codeLessonId(code) ?? ''))
+    expect(broken).toEqual([])
+  })
+})
 
 describe('JSON Schema и валидатор урока не расходятся', () => {
   // Грамматика — урок со всеми частями (трансформер, линия времени, мост со ссылкой на урок).

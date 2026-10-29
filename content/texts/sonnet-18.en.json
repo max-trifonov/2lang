@@ -22,6 +22,11 @@
     "en": "One of Shakespeare's best-known sonnets. Early Modern English: thou = you, art = are, hath = has.",
     "es": "Uno de los sonetos más famosos de Shakespeare. Inglés antiguo: thou = you, art = are, hath = has."
   },
+  "see": [
+    "en-grammar-15",
+    "en-grammar-21",
+    "en-grammar-27"
+  ],
   "stanzas": [
     {
       "type": "verse",

@@ -22,6 +22,11 @@
     "en": "One of Bécquer's best-known Rimas: about what returns and what doesn't. Notice the future tense.",
     "es": "Una de las Rimas más conocidas de Bécquer. Fíjate en el futuro: volverán, abrirán."
   },
+  "see": [
+    "es-grammar-15",
+    "es-grammar-33",
+    "es-grammar-46"
+  ],
   "stanzas": [
     {
       "type": "verse",

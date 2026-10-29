@@ -64,3 +64,38 @@ export function grammarSections(lessons: readonly Lesson[], lang: string): Gramm
   groups.push({ section: 'other', lessons: all.filter((l) => !l.section) })
   return groups.filter((g) => g.lessons.length > 0)
 }
+
+/** Отрезок текста: простой текст или код темы программы (EN-19, ES-P3) со ссылкой. */
+export type CodeSegment = { text: string } | { text: string; id: string; route: string }
+
+const CODE_RE = /\b(EN|ES)-(P?)(\d{1,2})\b/g
+
+/** id урока по коду программы: EN-19 → en-grammar-19, ES-P3 → es-sound-03 (D-47). */
+export function codeLessonId(code: string): string | null {
+  const m = /^(EN|ES)-(P?)(\d{1,2})$/.exec(code)
+  if (!m) return null
+  const kind = m[2] ? 'sound' : 'grammar'
+  return `${m[1]!.toLowerCase()}-${kind}-${m[3]!.padStart(2, '0')}`
+}
+
+/**
+ * Пояснения в контенте ссылаются на темы кодами программы — «Past Simple (EN-19)».
+ * Делит текст на куски; код известного урока становится ссылкой (D-47).
+ */
+export function splitCodes(text: string, known: ReadonlySet<string>): CodeSegment[] {
+  const out: CodeSegment[] = []
+  let last = 0
+  for (const m of text.matchAll(CODE_RE)) {
+    const id = codeLessonId(m[0])
+    if (!id || !known.has(id)) continue
+    if (m.index > last) out.push({ text: text.slice(last, m.index) })
+    out.push({
+      text: m[0],
+      id,
+      route: id.includes('-sound-') ? `/sounds/${id}` : ruleRoute(id),
+    })
+    last = m.index + m[0].length
+  }
+  if (last < text.length) out.push({ text: text.slice(last) })
+  return out
+}

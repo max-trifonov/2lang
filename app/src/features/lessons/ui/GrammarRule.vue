@@ -2,6 +2,7 @@
 import { useI18n } from 'vue-i18n'
 
 import type { GrammarRule } from '../domain/types'
+import CodeText from './CodeText.vue'
 import Timeline from './Timeline.vue'
 
 // Правило на одном экране (curriculum, D-8): формула, 1–3 фразы, таблица, линия времени.
@@ -16,7 +17,7 @@ const own = (cell: string) => !/\p{Script=Cyrillic}/u.test(cell)
 <template>
   <div class="rule">
     <p v-if="rule.formula" class="rule__formula" :lang="lang">{{ rule.formula }}</p>
-    <p class="rule__text">{{ local(rule.text) }}</p>
+    <p class="rule__text"><CodeText :text="local(rule.text)" /></p>
     <div v-if="rule.table" class="rule__table-wrap">
       <table class="rule__table">
         <thead>

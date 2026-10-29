@@ -21,6 +21,11 @@
     "en": "A short poem by Teresa of Ávila (16th c.), often sung as a prayer. Lots of simple present-tense verbs.",
     "es": "Poema breve de Teresa de Ávila (s. XVI), a menudo cantado como oración. Muchos verbos sencillos en presente."
   },
+  "see": [
+    "es-grammar-10",
+    "es-grammar-23",
+    "es-grammar-26"
+  ],
   "stanzas": [
     {
       "type": "verse",

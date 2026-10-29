@@ -16,6 +16,7 @@ import { useRoute, useRouter } from 'vue-router'
 import { useProfilesStore } from '@/features/profiles'
 import { useCardsStore } from '@/features/review'
 import { SpeakButton, loadLanguage, type CatalogEntry } from '@/features/dictionary'
+import { CodeText, RuleLinks, grammarRefs, loadLessons, type Lesson } from '@/features/lessons'
 import {
   expandStanzas,
   findEntry,
@@ -47,6 +48,7 @@ const open = ref<string | null>(null) // «строфа:строка» с рас
 const picked = ref<Word | null>(null)
 const showWord = ref(false)
 const dictionary = ref<CatalogEntry[]>([])
+const lessons = ref<Lesson[]>([])
 
 async function load(): Promise<void> {
   loading.value = true
@@ -56,6 +58,8 @@ async function load(): Promise<void> {
     const items = mergeLibrary(await loadBundledTexts(), texts.texts)
     doc.value = items.find((i) => i.doc.id === String(route.params.id))?.doc ?? null
     if (doc.value) dictionary.value = await loadLanguage(doc.value.lang).catch(() => [])
+    // Правила текста (D-47): отсылки `see` — ссылками в справочник; сбой их просто прячет.
+    lessons.value = await loadLessons().catch(() => [])
   } catch {
     failed.value = true
   } finally {
@@ -77,6 +81,7 @@ async function addToReview(original: string): Promise<void> {
 }
 
 const lang = computed(() => doc.value?.lang ?? '')
+const rules = computed(() => grammarRefs(doc.value?.see, lessons.value))
 const stanzas = computed(() => (doc.value ? expandStanzas(doc.value) : []))
 const title = computed(() => (doc.value ? textIn({ ...doc.value.title }, doc.value.lang) : ''))
 
@@ -147,10 +152,11 @@ function openWord(e: CatalogEntry): void {
         <p v-if="doc.author || doc.performer" class="read__meta">
           {{ [doc.author, doc.performer].filter(Boolean).join(' · ') }}
         </p>
-        <p v-if="local(doc.note)" class="read__note">{{ local(doc.note) }}</p>
+        <p v-if="local(doc.note)" class="read__note"><CodeText :text="local(doc.note)" /></p>
         <UiButton full-width class="read__lesson" @click="router.push(`/songs/${doc.id}`)">{{
           t('songs.start')
         }}</UiButton>
+        <RuleLinks :rules="rules" :title="t('songs.rules')" class="read__rules" />
 
         <section v-for="(s, si) in stanzas" :key="si" class="read__stanza">
           <h2 v-if="s.speaker" class="read__label" :lang="lang">{{ s.speaker }}</h2>
@@ -186,7 +192,8 @@ function openWord(e: CatalogEntry): void {
                 <strong>{{ t('texts.ui.read.literal') }}:</strong> {{ local(line.lit) }}
               </p>
               <p v-if="local(line.note)">
-                <strong>{{ t('texts.ui.read.note') }}:</strong> {{ local(line.note) }}
+                <strong>{{ t('texts.ui.read.note') }}:</strong>
+                <CodeText :text="local(line.note)" />
               </p>
               <template v-if="line.phrases?.length">
                 <h3>{{ t('texts.ui.read.phrases') }}</h3>
@@ -209,7 +216,9 @@ function openWord(e: CatalogEntry): void {
                       }}
                     </UiButton>
                     — {{ translationOf(p, lang, locale)?.text }}
-                    <span v-if="local(p.note)" class="read__phrase-note">{{ local(p.note) }}</span>
+                    <span v-if="local(p.note)" class="read__phrase-note"
+                      ><CodeText :text="local(p.note)"
+                    /></span>
                   </li>
                 </ul>
               </template>
@@ -260,6 +269,10 @@ function openWord(e: CatalogEntry): void {
 
 .read__lesson {
   margin-bottom: var(--size-gutter);
+}
+
+.read__rules {
+  margin-bottom: calc(var(--size-gutter) * 1.5);
 }
 
 .read__stanza {
