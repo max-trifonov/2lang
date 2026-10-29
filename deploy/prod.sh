@@ -78,6 +78,12 @@ cmd_deploy() {
   # Сервер собирает из GitHub — незапушенный коммит там не найдётся.
   [[ -n "$(git branch -r --contains "$sha" 2>/dev/null)" ]] \
     || die "$(git rev-parse --short "$sha") нет в origin — сначала git push"
+  # Без REF выкатывается локальный HEAD: если он отстаёт от origin/main (забыли git pull),
+  # на прод ушла бы старая версия под видом свежей.
+  if [[ -z "${REF:-}" && "$sha" != "$(git rev-parse origin/main)" ]] \
+    && git merge-base --is-ancestor "$sha" origin/main; then
+    die "Локальный HEAD $(git rev-parse --short "$sha") отстаёт от origin/main ($(git rev-parse --short origin/main)) — сначала git pull. Старый коммит — REF=<sha>"
+  fi
   [[ "$sha" == "$(git rev-parse origin/main)" ]] \
     || warn "Выкатывается $(git rev-parse --short "$sha"), а не origin/main ($(git rev-parse --short origin/main))"
 

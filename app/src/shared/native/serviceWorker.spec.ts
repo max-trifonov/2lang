@@ -93,4 +93,24 @@ describe('startOfflineShell', () => {
     expect(register).toHaveBeenCalledWith('/sw.js')
     expect(registration.update).toHaveBeenCalledOnce()
   })
+  it('смена воркера у открытой страницы — обновление, первая установка — нет', async () => {
+    vi.stubEnv('PROD', true)
+    register.mockResolvedValue({ update: vi.fn(async () => undefined) })
+    const listeners: Array<() => void> = []
+    const sw = (controller: object | null) => ({
+      register,
+      controller,
+      addEventListener: (_: string, cb: () => void) => listeners.push(cb),
+    })
+    const onUpdate = vi.fn()
+
+    Object.defineProperty(navigator, 'serviceWorker', { configurable: true, value: sw(null) })
+    startOfflineShell(onUpdate)
+    expect(listeners).toHaveLength(0)
+
+    Object.defineProperty(navigator, 'serviceWorker', { configurable: true, value: sw({}) })
+    startOfflineShell(onUpdate)
+    listeners[0]?.()
+    expect(onUpdate).toHaveBeenCalledOnce()
+  })
 })

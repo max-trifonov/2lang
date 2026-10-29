@@ -17,7 +17,7 @@
 С рабочей машины, из корня репозитория:
 
 ```bash
-make deploy-prod                      # HEAD (должен быть запушен), с проверками
+git pull && make deploy-prod          # HEAD (запушен и не отстаёт от origin/main), с проверками
 make deploy-prod REF=<sha|тег> SKIP_CHECKS=1   # другой коммит без проверок (например, откат на старый)
 make status-prod                      # живой релиз, список релизов, version.txt
 make smoke-prod                       # HTTP-смоук; EXPECT_SHA=<полный sha> — сверить версию
@@ -34,7 +34,7 @@ make smoke-prod                       # HTTP-смоук; EXPECT_SHA=<полны�
 
 Без make (на сервере): `/home/hawk/2lang/deploy/deploy.sh [<ref>|--rollback]`.
 
-Установленное PWA подхватывает релиз при следующем заходе: `index.html`, `sw.js`, `manifest.webmanifest` отдаются с `no-cache`, `assets/` — `immutable` (имена с хэшем).
+Установленное PWA подхватывает релиз при следующем заходе или возврате в приложение: новый воркер берёт управление, и открытое приложение показывает тост «Вышла новая версия» с кнопкой «Обновить» (перезагрузка). Без нажатия старая версия живёт до следующего запуска. `index.html`, `sw.js`, `manifest.webmanifest` отдаются с `no-cache`, `assets/` — `immutable` (имена с хэшем).
 
 ## Откат
 

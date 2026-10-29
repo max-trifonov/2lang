@@ -11,6 +11,7 @@ import { onResume, registerBackButton, startNetworkWatch } from '@/shared/native
 import { startOfflineShell } from '@/shared/native'
 // /PLATFORM:pwa
 import { useThemeStore } from '@/shared/theme'
+import { showActionToast } from '@/shared/ui'
 
 import App from './App.vue'
 import { router } from './router'
@@ -47,7 +48,11 @@ async function boot(): Promise<void> {
   void startNetworkWatch()
   registerBackButton()
   // PLATFORM:pwa
-  startOfflineShell()
+  // Новая версия на сервере: открытое приложение ещё на старой — предлагаем перезагрузить.
+  startOfflineShell(() => {
+    const { t } = i18n.global
+    void showActionToast(t('update.ready'), t('update.reload'), () => window.location.reload())
+  })
   // /PLATFORM:pwa
   void onResume(() => {
     /* продукт подписывает обновление конфига/данных */

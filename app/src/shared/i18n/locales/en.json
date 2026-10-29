@@ -598,5 +598,9 @@
     "letterRules": "Rules with this letter",
     "rules": "Reading rules",
     "practice": "Lesson →"
+  },
+  "update": {
+    "ready": "A new version of the app is available",
+    "reload": "Reload"
   }
 }

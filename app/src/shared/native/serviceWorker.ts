@@ -31,8 +31,15 @@ export function registerServiceWorker(): Promise<ServiceWorkerRegistration | nul
 // возврате в приложение просит браузер сверить sw.js. Сам браузер сверяет его
 // только на навигации, а открытая PWA живёт без навигаций сутками. Только
 // production-сборка: в dev оболочки нет, а scope «/» может занимать MSW.
-export function startOfflineShell(): void {
+// onUpdate — вышла новая сборка: её воркер сразу берёт управление (skipWaiting
+// в sw.js), а открытая страница остаётся на прошлой, пока её не перезагрузят.
+// Смена контроллера у страницы, которой уже управлял воркер, — это обновление;
+// первая установка воркера — нет.
+export function startOfflineShell(onUpdate?: () => void): void {
   if (!import.meta.env.PROD) return
+  if (onUpdate && 'serviceWorker' in navigator && navigator.serviceWorker.controller) {
+    navigator.serviceWorker.addEventListener('controllerchange', () => onUpdate(), { once: true })
+  }
   void registerServiceWorker()
     .then((registration) => {
       if (!registration) return
